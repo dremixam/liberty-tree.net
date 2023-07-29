@@ -1,0 +1,55 @@
+
+**********************NelsoN's Auto Custom*****************************
+
+Demande de Devis - Custom/Tuning sur vehicule.
+------------------------------------------------------------------------------------
+
+Marque du véhicule : 
+
+Immatriculation : 
+
+Propriétaire : 
+E-mail : 
+
+------------------------------------------------------------------------------------
+
+Modifications Souhaitées : 
+----------------------------------------
+
+Peinture : [oui]      [non]  
+
+si oui, couleur : 
+
+
+Interieur : [oui]        [non]
+
+Si oui, couleur (ou texture) : 
+
+Jantes : [Oui]       [non] 
+
+Si oui, style (etoile, bâtons, etc...) : 
+
+
+Moteur : [oui]         [non] 
+
+Si oui : 
+
+-Vitesse max : 
+-Acceleration  (1à10 sachant que 1 = mini et 10 = max) : 
+-Suspensions (H/M/L sachant que H = Hautes, M = Moyennes et L = Basses) : 
+-    "          "        (D/S/M sachant que D = dures, S = Souples et M = Moyennes) : 
+-Carburation : (P/D/E sachant que P = Essence, D = diesel et E = Electrique) : 
+-Transmission : (R/F/4 sachant que R = arrière, F = Avant et 4 = 4x4) : 
+-Freins : (H/L/M sachant que H = Freins puissants, L = peu puissants et M = moyennement
+Puissants) : 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+NelsoN's Auto Custom vous renverra un E-mail avec la possibilité de votre projet ainsi que le temps pendant lequel 
+votre véhicule sera immobilisé.
+
+NelsoN's Auto Custom vous remercie de votre confiance.
+
+NelsoN
+
+Creative.art@wanadoo.fr

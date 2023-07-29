@@ -1,0 +1,27 @@
+---
+layout: article
+title: Superflics
+author: pavlov
+date: '2008-01-26 23:26:00'
+tags:
+- los-santos
+---
+
+_Ils sont policiers, mais ne portent pas de badge. Ils ne roulent pas en Adam-car mais en Maserati. Une unité spéciale chargée d'infiltrations à hauts risques. Leur mission: se faire passer tour à tour pour des trafiquants de drogue, des voleurs, des trafiquants de voiture. Leur objectif: enquêter, arrêter mais surtout, rester crédibles._
+
+La police de Los Santos possède de nombreuses unités tactiques. Il y a tout d'abord le SWAT, une unité reconnaissable aux hélicos et aux camionnettes noires. Il y a aussi deux unités anti-émeutes différentes qui n'interviennent que lors des manifestations, il y a aussi l'unité d'intervention rapide CIU qui dispose de Chevrolets Impala SS grises que l'on croise parfois lors de guerres de gangs, à Ganton notamment. Mais il y a une unité dont on ne parle que très peu, et qui a pour mission le combat contre le grand banditisme.
+
+![]()
+
+L'unité spéciale undercover est dirigée par le lieutenant Willie Rooms, femme charmante qui a accédé à ce poste grâce à une connaissance parfaite du milieu du crime de haut vol. Les deux officiers de police qui travaillent pour le lieutenant Rooms ont été recrutés selon des critères très sélectifs. Ils ont en effet une grande expérience de terrain et une capacité de s'intégrer à n'importe quel milieu. Leurs noms ne seront pas communiqués pour des raisons de sécurité donc nous allons nous servir de leurs initiales que sont D.H. et V.S.  
+Ce que peu d'habitants de Los Santos savent c'est qu'à part les guerres de gangs de rue, qui sont visibles, la ville est une plaque tournante du trafic de drogue, d'armes, et d'objets d'art volés. C'est aussi un haut lieu du proxénétisme, de contrebande, de fabrique de faux billets, et de banditisme organisé.  
+Ces activités sont peu visibles du grand public et pourtant, lors de la dernière fête donnée par telle ou telle star de cinéma la cocaïne que vous, cher lecteur avez consommé provient de ce trafic, et la Mercedes S65 que vous avez croisé dans l'allée appartient probablement à un trafiquant d'armes ou un braqueur de haut vol. Enfin, j'espère pour vous, cher lecteur que vous pouvez fréquenter ce genre de fêtes, car avoir la prestance et le charisme nécessaire pour montrer qu'on appartient à "ce" monde n'est pas donné à tous. C'est d'ailleurs quelque chose qui intéresse peu la population, car finalement, la vendeuse du Burger Shot, est plus préoccupée par le welfare et par son chèque du fin de mois que par ce qui peut arriver à telle ou telle star de cinéma, mais malheureusement ceci n'est pas le cas de tout le monde, notamment du LSPD qui est sensé faire respecter la loi.  
+D'où l'établissement de cette unité spéciale qui ne porte pas de nom et le recrutement du lieutenant Willie Rooms pour cette ô combien délicate mission. Nous parlions plus haut de prestance et de charisme, le recrutement des deux agents n'a pas été facile.
+
+> Trouver quelqu'un qui ait non seulement des dons d'usurpation d'identité pour mieux se fondre dans un tel ou tel rôle, rester crédible par la suite et avoir assez de sang froid pour se comporter comme un représentant de la loi, n'est pas une chose facile. J'ai tout misé sur deux éléments, assez antagonistes dans leur approche, et j'ai eu parfaitement raison de le faire. J'en suis fière.
+
+Le lieutenant a de quoi être fier. La plupart de ces affaires restent très peu couvertes par les médias afin de préserver l'anonymat et la capacité d'agir en sous marin de D.H et V.S. cependant, leur capacités ont prouvé a maintes fois leur efficacité. Ainsi de très nombreux deals de drogue ont pu être facilement interceptés par le LSPD ainsi que de très nombreux bandits de haut vol ont pu être arrêté par le tandem de choc. Nous sommes allés auprès des deux policiers "undercover" pour mieux comprendre leur profil et comprendre l'intérêt d'une telle unité spéciale au sein de la police de Los Santos. Alors moi, je n'ai strictement rien foutu, j'étais cascadeur a mes heures perdues. nous dit V.S. L'autre là (en montrant du doigt D.H.) il est bien plus talentueux que moi, il a fait du théâtre. D.H. par la suite nous a infirmé ces dires: Il raconte strictement n'importe quoi il faut pas le croire, enfin, c'est lui qui porte des chemises pas moi. Moi je suis un mec cool quoi. Viens on va t'emmener là ou on garde nos "prises". Les deux lurons m'ont bandé les yeux et m'ont expliqué que la spécificité de leur unité est entre autre le fait que les prises telles que les bijoux, montres, véhicules saisis peuvent être réutilisés en interne. On a un grand avantage mon pote, on peut se resservir des voitures et accessoires des truands. C'est comme si l'on était des millionnaires d'Etat, c'est totalement hallucinant. Nous nous sommes rendus à ce qu'ils appellent le "candy shop", ou toutes les saisies sont stockées. En pénétrant les lieux on peut y découvrir une dizaine de voitures de sport et de motos, des ordinateurs de liaison et aux murs les "prises": tableaux de maître, bijoux, armes à feu. Bien sur nous n'avons pas obtenu le droit de photos. Juste pour quelques véhicules et lieux. Cependant le Liberty Tree est le premier média qui va suivre les deux agents lors de leur prochaine investigation, soyez donc prêts pour suivre un compte rendu haletant d'une intéressante future enquête policière.
+
+![]()
+
+<!--kg-card-end: markdown-->

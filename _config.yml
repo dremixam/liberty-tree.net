@@ -1,0 +1,50 @@
+# Jekyll configuration
+markdown: kramdown
+highlighter: rouge
+paginate: 50 # it will paginate after this number
+language: 'fr-fr'
+words_per_minute: 150
+
+# edit baseurl to simply '/' if using as your personal page (instead of a project page)
+baseurl: /
+
+# Website info
+title: Liberty-Tree
+description: The professional publishing platform
+cover: assets/images/blog-cover.jpg
+logo: assets/images/blog-icon.png
+logo_dark: assets/images/favicon.png
+favicon: assets/images/favicon.png
+CNAME: test.liberty-tree.net
+
+# Social info
+navigation: True # show the navbar links
+subscribers: False # you need to connect an external service for this to work,
+# if 'True' the submit button is disabled for now, but you can change that
+# by editing `_includes/subscribe-form.html`
+twitter: tryghost # replace by your username
+facebook: ghost # replace by your username
+
+# Disqus
+disqus: False
+disqus_shortname: jekyllt # replace with your disqus username
+
+# Google Analytics
+google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+
+# Permalinks
+permalink: /:year/:month/:day/:title/
+
+# permalink: /author/:author
+# permalink: /tag/:tag
+
+# Authors' info in `_data/authors.yml`
+# Tags' info in `_data/tags_info.yml`
+
+# gems and other configs
+plugins_dir: [_plugins]
+plugins: [jekyll-paginate, jekyll-feed]
+
+feed:
+  path: feed.xml
+

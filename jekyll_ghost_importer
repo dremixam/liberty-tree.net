@@ -1,0 +1,242 @@
+#!/usr/bin/env ruby
+#
+# Copyright (C) 2017-2018 Eloy Espinaco
+# 
+# This program is free software: you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later
+# version.
+# 
+# This program is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+# 
+# You should have received a copy of the GNU General Public License along with
+# this program.  If not, see <http://www.gnu.org/licenses/>.
+# 
+# If you need to use this under different terms please write me directly.
+
+require 'fileutils'
+require 'json'
+require 'date'
+require 'yaml'
+require 'ostruct'
+require 'reverse_markdown'
+
+class Post < OpenStruct
+
+  def import
+    puts "Importing #{ filename }"
+    dirname = File.dirname(filename)
+    unless File.directory?(dirname)
+      FileUtils.mkdir_p(dirname)
+    end
+    File.write filename, full_body
+  end
+
+  def draft?
+    status == 'draft'
+  end
+
+  def page?
+    type == 'page'
+  end
+
+  def tags
+    @tags ||= []
+  end
+
+  private
+
+  def folder
+    draft? ? '_drafts' : page? ? '_pages' : '_posts'
+  end
+
+  def filename
+    File.join folder, basename
+  end
+
+  def date
+    case published_at
+    when String
+      DateTime.parse(published_at)
+    when Integer
+      Time.at(published_at / 1000).utc.to_datetime
+    end
+  end
+
+  def front_matter
+    if page?
+      front_matter_hash = {
+        'permalink' => slug,
+        'title'  => title
+      }
+    else
+      front_matter_hash = {
+        'layout' => "article",
+        'title'  => title
+      }
+  
+      front_matter_hash['featured'] = true if featured == 1
+      if feature_image
+        front_matter_hash['cover'] = feature_image.gsub("__GHOST_URL__", '')
+      end
+      front_matter_hash['author'] = author if author != nil
+      front_matter_hash['date'] = date.strftime('%Y-%m-%d %H:%M:%S') if !draft? && date
+      front_matter_hash['tags'] = tags if tags.any?
+    end
+
+    front_matter_hash
+  end
+
+  def full_body
+    if markdown_body
+      front_matter.to_yaml + "---\n\n" + markdown_body.gsub("__GHOST_URL__", '') + "\n"
+    else
+      front_matter.to_yaml + "---\n\n"
+    end
+  end
+
+  def markdown_body
+    if markdown
+      markdown
+    elsif mobiledoc
+      mobiledoc_data = JSON.parse mobiledoc, symbolize_names: true
+      markdown_card = mobiledoc_data[:cards].find { |c| c.first == "card-markdown" }
+      markdown_card ? markdown_card.last[:markdown] : markdown_from_html
+    else
+      ""
+    end
+  end
+
+  def markdown_from_html
+    ReverseMarkdown.convert html
+  end
+
+  def basename
+    if page?
+      "#{ slug }.md"
+    elsif draft?
+      "#{ slug }.md"
+    else
+      "#{ date.strftime('%Y-%m-%d') }-#{ slug }.md"
+    end
+  end
+end
+
+class Author < OpenStruct
+
+  def import
+    puts "Importing #{ filename }"
+    dirname = File.dirname(filename)
+    unless File.directory?(dirname)
+      FileUtils.mkdir_p(dirname)
+    end
+    File.write filename, full_body
+  end
+
+  private
+
+  def folder
+    '_authors'
+  end
+
+  def filename
+    File.join folder, basename
+  end
+
+  def front_matter
+    front_matter_hash = {
+      'layout' => "author",
+      'name'  => name
+    }
+
+    if profile_image
+      front_matter_hash['image'] = profile_image.gsub("__GHOST_URL__", '')
+    end
+
+    front_matter_hash
+  end
+
+  def full_body
+    front_matter.to_yaml + "---\n\n" + markdown_body + "\n"
+  end
+
+  def markdown_body
+    if bio
+      bio.gsub("__GHOST_URL__", '')
+    else
+      ""
+    end
+  end
+
+  def basename
+    "#{ slug }.md"
+  end
+end
+
+class PostRepository
+  attr_reader :posts
+  attr_reader :users
+
+  def initialize json
+    @json = json
+    @posts = (data[:posts] || []).map { |post_json| Post.new(post_json) }
+    @tags = data[:tags] || []
+    @users = (data[:users] || []).map { |author_json| Author.new(author_json) }
+    @posts_tags = data[:posts_tags] || []
+    assign_tags_to_posts
+    assign_author_to_posts
+  end
+
+  def drafts
+    @posts.select &:draft?
+  end
+
+  private
+
+  def assign_tags_to_posts
+    @posts_tags.each do |post_tag|
+      post = get_post(post_tag[:post_id])
+      tag = get_tag(post_tag[:tag_id])
+      post && tag && post.tags << tag[:slug]
+    end
+  end
+
+  def assign_author_to_posts
+    @posts.each do |post|
+      author = get_author(post[:author_id])
+      post.author = author[:slug]
+    end
+  end
+
+  def get_author id
+    @users.detect {|user| user[:id] == id }
+  end
+
+  def get_post id
+    @posts.detect { |post| post.id == id }
+  end
+
+  def get_tag id
+    @tags.detect { |tag| tag[:id] == id }
+  end
+
+  def data
+    @json[:data] ? @json[:data] : @json[:db].first[:data]
+  end
+end
+
+FileUtils.mkdir_p("_posts")
+FileUtils.mkdir_p("_drafts")
+FileUtils.mkdir_p("_pages")
+FileUtils.mkdir_p("_authors")
+
+json = JSON.parse File.read(ARGV.pop), symbolize_names: true
+
+repository = PostRepository.new(json)
+repository.posts.map &:import
+repository.users.map &:import
+
+puts "#{ repository.posts.count } posts imported ( #{ repository.drafts.count } draft )"
+puts "#{ repository.users.count } authors imported"
