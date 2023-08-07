@@ -3,17 +3,17 @@ markdown: kramdown
 highlighter: rouge
 paginate: 50 # it will paginate after this number
 language: 'fr-fr'
-words_per_minute: 150
+words_per_minute: 120
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 
 # Website info
 title: Liberty-Tree
-description: The professional publishing platform
-cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
+description: Toute ressemblance avec la réalité devra être imputée à cette dernière.
+cover: content/images/size/w2000/2016/07/Z6cec4txgkyaHi3ZVmhH0g_0_0.jpg
+logo: content/images/2021/12/logo-lt-full-1.png
+logo_dark: content/images/2021/12/logo-lt-full-1.png
 favicon: assets/images/favicon.png
 CNAME: test.liberty-tree.net
 
@@ -48,3 +48,15 @@ plugins: [jekyll-paginate, jekyll-feed]
 feed:
   path: feed.xml
 
+collections:
+  authors:
+    output: true
+    permalink: author/:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: authors
+    values:
+      layout: author

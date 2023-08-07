@@ -109,10 +109,11 @@ body {
     position: relative;
     padding-top: 12px;
     padding-bottom: 12px;
-    color: #fff;
-    background: color(var(--darkgrey) l(-5%)) no-repeat center center;
+    color: color(var(--ltlight));
+    background: color(var(--ltlightgreen) l(-5%)) no-repeat center center;
     background-size: cover;
 }
+
 
 .site-header:before {
     content: "";
@@ -585,12 +586,12 @@ The first (most recent) post in the list is styled to be bigger than the others 
 }
 
 .post-full-meta-date {
-    color: var(--blue);
+    color: var(--ltlightgreen);
 }
 
 .post-full-title {
     margin: 0;
-    color: color(var(--darkgrey) l(-5%));
+    color: color(var(--ltdark) l(-5%));
 }
 
 .date-divider {
