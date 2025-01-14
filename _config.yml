@@ -6,7 +6,7 @@ language: 'fr-fr'
 words_per_minute: 120
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: "/"
 
 # Website info
 title: Liberty-Tree
@@ -15,15 +15,11 @@ cover: /content/images/size/w2000/2016/07/Z6cec4txgkyaHi3ZVmhH0g_0_0.jpg
 logo: /content/images/2021/12/logo-lt-full-1.png
 logo_dark: /content/images/2021/12/logo-lt-full-1.png
 favicon: /assets/images/favicon.png
-CNAME: test.liberty-tree.net
+CNAME: liberty-tree.net
 
 # Social info
 navigation: True # show the navbar links
 subscribers: False # you need to connect an external service for this to work,
-# if 'True' the submit button is disabled for now, but you can change that
-# by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
 
 # Disqus
 disqus: False
