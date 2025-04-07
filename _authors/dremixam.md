@@ -1,6 +1,6 @@
 ---
 layout: author
-name: Dr Emixam
+name: DrEmixam
 image: "//www.gravatar.com/avatar/c553ec2d3342f0a4ff7fd7057a3f444a?s=250&d=mm&r=x"
 ---
 

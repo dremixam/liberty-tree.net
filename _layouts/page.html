@@ -10,9 +10,16 @@ disqus: false
 into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer">
+<header class="site-header outer no-cover">
     <div class="inner">
-        {% include site-nav.html %}
+        <nav class="site-nav-center">
+            {% if site.logo %}
+            <a class="site-nav-logo" href="{{ site.baseurl }}"><img src="{{site.baseurl}}{{ site.logo }}"
+                    alt="{{ site.title }}" /></a>
+            {% else %}
+            <a class="site-nav-logo" href="{{ site.baseurl }}">{{ site.title }}</a>
+            {% endif %}
+        </nav>
     </div>
 </header>
 

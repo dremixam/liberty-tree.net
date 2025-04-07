@@ -11,10 +11,10 @@ baseurl: "/"
 # Website info
 title: Liberty-Tree
 description: Toute ressemblance avec la réalité devra être imputée à cette dernière.
-cover: /content/images/size/w2000/2016/07/Z6cec4txgkyaHi3ZVmhH0g_0_0.jpg
-logo: /content/images/2021/12/logo-lt-full-1.png
-logo_dark: /content/images/2021/12/logo-lt-full-1.png
-favicon: /assets/images/favicon.png
+cover: content/images/size/w2000/2016/07/Z6cec4txgkyaHi3ZVmhH0g_0_0.jpg
+logo: content/images/2021/12/logo-lt-full-1.png
+logo_dark: content/images/2021/12/logo-lt-full-1.png
+favicon: assets/images/favicon.png
 CNAME: liberty-tree.net
 
 # Social info
@@ -48,6 +48,12 @@ collections:
   authors:
     output: true
     permalink: /author/:title/
+  pages:
+    output: true
+    permalink: /:title/
+  tags:
+    output: true
+    permalink: /tag/:title/
 
 defaults:
   -
@@ -56,3 +62,15 @@ defaults:
       type: authors
     values:
       layout: author
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+  -
+    scope:
+      path: ""
+      type: tags
+    values:
+      layout: tag

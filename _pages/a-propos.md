@@ -19,7 +19,7 @@ Les années passent et le succès s'estompe, le Liberty-Tree disparait brièveme
 
 En 2013, la sortie _Grand Theft Auto V_ relance l'activité après deux ans passés à un rythme réduit. Le nouvel épisode de la saga fourmille de sources d'inspiration pour les reporters de tout poil et les nouveaux venus font revivre encore une fois le site pour une nouvelle période qui s'étendra jusqu'en 2015.
 
-C'est au cours de cette nouvelle période qu'une partie de l'équipe s'essaie à une version vidéo en créant [la chaine Youtube Weazel News](https://www.youtube.com/user/WeazelNewsGTA). L'expérience sera de courte durée, le temps nécessaire à de telles réalisations n'étant en rien comparable avec celui nécessaire à la rédaction d'articles textuels.
+C'est au cours de cette nouvelle période qu'une partie de l'équipe s'essaie à une version vidéo en créant la chaine Youtube Weazel News. L'expérience sera de courte durée, le temps nécessaire à de telles réalisations n'étant en rien comparable avec celui nécessaire à la rédaction d'articles textuels.
 
 Alors que bon nombre d'articles étaient perdus dans les limbes au fond des disques durs contenant les sauvegardes des anciennes versions du site, un immense chantier est entrepris en 2015 afin de remettre en ligne l'intégralité des articles publiés au cours des années d'existence du site. Ce travail pharaonique arrivera à son terme à la date symbolique du 1er avril 2016, date du quinzième anniversaire du site.
 
