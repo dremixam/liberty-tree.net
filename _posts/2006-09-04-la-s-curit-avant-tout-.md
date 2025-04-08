@@ -16,13 +16,11 @@ Le gouverneur de l'Etat de San Andreas a mis en place une nouvelle&nbsp;équipe 
 
 A déclaré le gouverneur John Sturner lors d'une conférence&nbsp;de presse.
 
-![John Sturner lors de sa conférence de presse.](  /content/images/2005/01/John_Sturner.jpg)
-
-![](  /content/images/2005/01/Pontiac_RPD_2.jpg)
-
-![](  /content/images/2005/01/Pontiac_RPD.jpg)
-
-![De nouveaux véhicules, des Pontiac GTO, et des motos, des BMW.](  /content/images/2005/01/BMW_RPD.jpg)
+![John Sturner lors de sa conférence de presse.](/content/images/2005/01/John_Sturner.jpg)
+_John Sturner lors de sa conférence de presse._[](/content/images/2005/01/Pontiac_RPD_2.jpg)
+![](/content/images/2005/01/Pontiac_RPD.jpg)
+![De nouveaux véhicules, des Pontiac GTO, et des motos, des BMW.](/content/images/2005/01/BMW_RPD.jpg)
+_De nouveaux véhicules, des Pontiac GTO, et des motos, des BMW._
 
 J'ai pu interroger le chef de la RPD, Steve Fruser :
 
@@ -42,13 +40,11 @@ J'ai pu interroger le chef de la RPD, Steve Fruser :
 
 > **S. F.&nbsp;:** Je ne connais pas encore le date exacte mais elle ne devrait pas tarder, il y a des vies à sauver.
 
-![](  /content/images/2005/01/surveillance_banalis_e.jpg)
-
-![Quelques voitures banalisées (parfois même bien équipées).](  /content/images/2005/01/surveillance_banalisee_2.jpg)
-
-![](  /content/images/2005/01/voiture-patrouille.jpg)
-
-![Des véhicules que l’on ne devrait plus voir circuler.](  /content/images/2005/01/SUV_patrol.jpg)
+![](/content/images/2005/01/surveillance_banalis_e.jpg)
+![Quelques voitures banalisées (parfois même bien équipées).](/content/images/2005/01/surveillance_banalisee_2.jpg)
+_Quelques voitures banalisées (parfois même bien équipées)._[](/content/images/2005/01/voiture-patrouille.jpg)
+![Des véhicules que l’on ne devrait plus voir circuler.](/content/images/2005/01/SUV_patrol.jpg)
+_Des véhicules que l’on ne devrait plus voir circuler._
 
 Le gouvernement a tenu à ajouter que la taxe fiscale allait être augmentée à cause de ce nouveau dispositif. Décidément, le gouvernement ne fais rien sans toucher un complément&nbsp;!
 

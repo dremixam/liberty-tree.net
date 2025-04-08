@@ -14,7 +14,7 @@ Liberty City, le 28 janvier 2006. Depuis quelques jours, ont eu lieu une vingtai
 
 Les crimes s'accumulent de jour en jour, ce sont des actes affreux.
 
-![](  /content/images/2005/01/noir.jpg)
+![](/content/images/2005/01/noir.jpg)
 
 Voilà ce qui est arrivé la veille dans un quartier près de Belleville Park ! Un jeune se promenait tranquillement dans sa petite camionnette quand deux skinheads l'ont sorti de sa voiture, roué de coups à l'aide de battes de base-ball et en ont fini en brûlant sa voiture. Des images terribles.
 
@@ -22,7 +22,7 @@ Mais le pire est à quelques mètres de là : un spectacle d'horreur et de déso
 
 Beaucoup de personnes ne se sentant pas en sécurité estiment que la police n'est pas assez présente.
 
-![](  /content/images/2005/01/HLm.jpg)
+![](/content/images/2005/01/HLm.jpg)
 
 Le Liberty Tree et nos reporters ont pu installer des caméras au coin des rues d'Aspatria. Nous avons pu remarquer la présence de personnes toutes habillées de manière identique. Veste noire et casquette assortie et batte de base-ball... Ils font de bons suspects.
 

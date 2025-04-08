@@ -16,7 +16,8 @@ Tous les citoyens américains (ou presque) ont fêté vendredi dernier leur ind�
 
 Il ne restait plus qu’un tas de ferraille calcinée du bus de la compagnie Los Santos Transit qui va habituellement vers Downtown. Certains témoins anonymes ont déclaré à la police que le bus avait été détourné par un homme d’une quarantaine d’années alors qu’il circulait sur Vinewood Boulevard. L’homme aurait alors conduit jusqu’au panneau Vinewood dans les collines pour le brûler, à l’aide d’un bidon d’essence, selon les enquêteurs. Seulement, ce qui demeure étrange dans cette affaire, c’est le mobile. S’il s’agit bien d’un acte réfléchi, pour s’opposer à la société de consommation (et du cinéma en l’occurrence), voire plus largement de la politique actuelle de ce pays, ce serait gravissime.
 
-![Les restes du bus.](  /content/images/2016/06/0_0_209.jpg)
+![Les restes du bus.](/content/images/2016/06/0_0_209.jpg)
+_Les restes du bus._
 
 ## Une voiture de police, détournée et brûlée.
 
@@ -26,15 +27,15 @@ Des policiers l’ont poursuivi sur l’autoroute jusqu’à la sortie de la vil
 
 Ce n’est donc que plus tard dans la soirée que les clichés ont été découverts sur les réseaux sociaux. Apparemment l’homme aurait cette fois conduit la pauvre voiture de police jusque dans les monts San Chianski avant d’y mettre le feu de la même manière. Si l’on pouvait avoir un doute pour le bus, il apparaît clair que brûler une voiture de police est une nette opposition grave à la politique actuelle.
 
-![](  /content/images/2016/06/0_0_211.jpg)
-
-![](  /content/images/2016/06/0_0_212.jpg)
-
-![Les photos qui ont été postées sur LifeInvader.](  /content/images/2016/06/0_0_213.jpg)
+![](/content/images/2016/06/0_0_211.jpg)
+![](/content/images/2016/06/0_0_212.jpg)
+![Les photos qui ont été postées sur LifeInvader.](/content/images/2016/06/0_0_213.jpg)
+_Les photos qui ont été postées sur LifeInvader._
 
 Nous avons pu interroger l’agent Paul Edwards de la brigade de Vinewood qui était présent dans le commissariat au moment du vol du véhicule :
 
-![L'agent Paul Edwards](  /content/images/2016/06/0_0_210.jpg)
+![L'agent Paul Edwards](/content/images/2016/06/0_0_210.jpg)
+_L'agent Paul Edwards_
 
 > Si maintenant on nous vole une voiture sous notre nez, où va le monde… Je trouve ça scandaleux de profiter des festivités de la fête de l’indépendance pour revendiquer son opposition au système politique ou je ne sais quoi d’autre !
 

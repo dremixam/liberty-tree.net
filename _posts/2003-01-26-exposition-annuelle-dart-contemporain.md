@@ -20,13 +20,12 @@ Liberty-City a accueilli ce dimanche l'exposition régionale d'art contemporain,
 
 > **Tommy :** Tout compte fait nous allons directement observer vos tableaux...
 
-![](  /content/images/v1/user26/artist.jpg)
-
-![](  /content/images/v1/user26/artist3.jpg)
+![](/content/images/v1/user26/artist.jpg)
+![](/content/images/v1/user26/artist3.jpg)
 
 Ces oeuvres d''art ne sont pas originales par leur style mais par les sujets des tableaux qui sont vraiment variés et suite à l'interview nous comprenons aisément où cet artiste trouve l'inspiration étant donnée l'imagination débordante qu'il a. Un des ses disciples a notamment peint ce tableau où l'on reconnait la touche du maître dont on ignore le nom:
 
-![](  /content/images/v1/user26/artist4.jpg)
+![](/content/images/v1/user26/artist4.jpg)
 
 Ce jeune homme aurait surement été plus capable d''expliquer son art que son maître mais, fatigué par une longue journée j'ai préféré rentrer…
 

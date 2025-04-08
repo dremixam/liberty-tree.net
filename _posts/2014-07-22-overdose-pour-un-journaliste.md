@@ -10,19 +10,19 @@ tags:
 
 _Le rédacteur en chef du Liberty Tree vient d'être une nouvelle fois contacté par la police au sujet de la mort d'un membre de son équipe. Y a-t-il vraiment un serial killer derrière tout ça ? Est-ce juste une vengeance divine ou bien serait-ce carrément un règlement de compte entre journalistes ? Enquête._
 
-Hier matin à l’aube, un nouveau corps d’un junkie a été retrouvé par un agent d’entretien dans le vieux motel abandonné de Sandy Shores. Tous les habitants de cette bourgade savent bien qu’il est squatté depuis des années par tous les toxicomanes de la région. Mais cette fois-ci c’est un peu différent : en effet, la victime a été identifié et il s’agit d’un journaliste du Liberty Tree connu sous le surnom de [Flrenckins](https://fr.liberty-tree.net/auteur/flrenckins). Il est en effet connu comme journaliste pour avoir écrit [un très bon article sur une production de cannabis](  /2013/11/14/canna-vice/) il y a quelques mois. Sauf que depuis, plus aucun autre membre de l’équipe n’avait eu de ses nouvelles.
+Hier matin à l’aube, un nouveau corps d’un junkie a été retrouvé par un agent d’entretien dans le vieux motel abandonné de Sandy Shores. Tous les habitants de cette bourgade savent bien qu’il est squatté depuis des années par tous les toxicomanes de la région. Mais cette fois-ci c’est un peu différent : en effet, la victime a été identifié et il s’agit d’un journaliste du Liberty Tree connu sous le surnom de [Flrenckins](https://fr.liberty-tree.net/auteur/flrenckins). Il est en effet connu comme journaliste pour avoir écrit [un très bon article sur une production de cannabis](/2013/11/14/canna-vice/) il y a quelques mois. Sauf que depuis, plus aucun autre membre de l’équipe n’avait eu de ses nouvelles.
 
 Le corps a été retrouvé dans l’une des anciennes chambres, qu’il devait apparemment habiter désormais étant donné le nombre d’effets personnels que la police y a récupéré. Seulement, à l’heure où ces lignes sont écrites un doute subsiste encore : l’autopsie a bien révélé que la victime est morte d’une overdose de produits stupéfiants, mais il semblerait qu’après sa mort il ait été la cible d’une balle de pistolet en plein cœur. Quel en est le but ? Son agresseur pouvait-il ignorer sa mort ou serait-ce une sorte de rite, une signature ?
 
-![Le corps sans vie de Flrenckins.](  /content/images/2016/06/0_0_229.jpg)
+![Le corps sans vie de Flrenckins.](/content/images/2016/06/0_0_229.jpg)
+_Le corps sans vie de Flrenckins._
 
 Quelques-uns de ses collègues ont bien voulu nous accorder quelques mots.
 
-![](  /content/images/2016/06/0_0_230.jpg)
-
-![](  /content/images/2016/06/0_0_231.jpg)
-
-![Dr Emixam, NelsoN et Ezoah.](  /content/images/2016/06/0_0_232.jpg)
+![](/content/images/2016/06/0_0_230.jpg)
+![](/content/images/2016/06/0_0_231.jpg)
+![Dr Emixam, NelsoN et Ezoah.](/content/images/2016/06/0_0_232.jpg)
+_Dr Emixam, NelsoN et Ezoah._
 
 > **Dr Emixam :** Le chien ! En huit mois il ne nous a jamais donné une nouvelle, pas un texto, rien, et il se fait flinguer comme un loser. Ça ne correspond à pas l’image de notre journal ça… Enfin, paix à son âme quand même. S’il en avait une.
 > 

@@ -14,23 +14,21 @@ Cette semaine, Liberty City accueille de nouveaux véhicules qui raviront toute 
 
 La Perennial, modèle conçu en 1984 et qui a connu bien des changements depuis, revient dans une nouvelle édition limitée encore plus rapide mais qui reste toujours ce fameux break familial. Prix: 25.000$
 
-![](  /content/images/2005/01/perennial01.jpg)
+![](/content/images/2005/01/perennial01.jpg)
 
 Retour aux sources... La Hallenbach GT enfin rééditée, le dernier modèle fabriqué datait de 1978. Vous pourrez enfin retrouver ce bijou de collection fin février 2006 pour la petite somme de 18.500$
 
-![](  /content/images/2005/01/hallenbachgt01.jpg)
+![](/content/images/2005/01/hallenbachgt01.jpg)
 
 La surprise de l'année... La Sindacco Arger arrive cette année ! Une véritable dominatrice qui va toucher beaucoup de monde. Le design a été imaginé par Salvatore Leone en personne et cette voiture promet des milliers d'options: toit ouvrant, autoradio digitalisée, baffles dans les portières, jantes en argent, lecteur DVD inclus dans les sièges avant... Bien sûr, vous ne pourrez vous procurer ce bolide qu'en mars pour la somme astronomique de 70.000$. En attendant, découvrez la bête en quelques images:
 
-![](  /content/images/2005/01/sindacco01.jpg)
-
-![](  /content/images/2005/01/sindacco02.jpg)
-
-![](  /content/images/2005/01/sindacco03.jpg)
+![](/content/images/2005/01/sindacco01.jpg)
+![](/content/images/2005/01/sindacco02.jpg)
+![](/content/images/2005/01/sindacco03.jpg)
 
 Assez parlé des voitures, voici le tout nouveau modèle du Faggio, ce petit booster rétro qui se faufile partout sans poser de problème et, seulement, pour la somme de 3.999$
 
-![](  /content/images/2005/01/faggio1.jpg)
+![](/content/images/2005/01/faggio1.jpg)
 
 La liste des autres véhicules à retrouver cette année est grande:
 
@@ -66,6 +64,6 @@ Le PDG de la marque LibertyCars nous affirme que toutes sortes de modifications 
 
 Vous retrouverez principalement tous ces nouveaux véhicules au Capital Autos de Portland.
 
-![](  /content/images/2005/01/capitalautos01_0.jpg)
+![](/content/images/2005/01/capitalautos01_0.jpg)
 
 <!--kg-card-end: markdown-->

@@ -9,13 +9,12 @@ tags:
 
 Ce soir seulement, grande représentation de Mike Star avec son Monster Truck, le Cartell Crusher.
 
-![](  /content/images/2016/07/MonsterPrev.jpg)
+![](/content/images/2016/07/MonsterPrev.jpg)
 
 Apres des débuts prometteurs en Indy Car, Michael DeLuis aka Mike Star, se met au monster truck. Cinq ans après, le voici pour une représentation exceptionnelle dans LC, sa ville natale.
 
-![](  /content/images/2016/07/Monster2.jpg)
-
-![](  /content/images/2016/07/Monster6.jpg)
+![](/content/images/2016/07/Monster2.jpg)
+![](/content/images/2016/07/Monster6.jpg)
 
 J'ai donc eu le privilège d'interviewer Mike un jour avant son show :
 
@@ -35,12 +34,9 @@ J'ai donc eu le privilège d'interviewer Mike un jour avant son show :
 
 Voici les photos ramenées de l'entrainement de Mike au chantier de Staunton Plaza. Les entrées sont de l'ordre de 20$ en tarif unique.
 
-![](  /content/images/2016/07/Monster3.jpg)
-
-![](  /content/images/2016/07/Monster4.jpg)
-
-![](  /content/images/2016/07/Monster5.jpg)
-
-![](  /content/images/2016/07/Monster7.jpg)
+![](/content/images/2016/07/Monster3.jpg)
+![](/content/images/2016/07/Monster4.jpg)
+![](/content/images/2016/07/Monster5.jpg)
+![](/content/images/2016/07/Monster7.jpg)
 
 <!--kg-card-end: markdown-->

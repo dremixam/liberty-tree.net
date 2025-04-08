@@ -16,7 +16,8 @@ Pendant ce temps, son mari, resté au domicile et a utilisé les connaissances a
 
 La pauvre Madame T. a immédiatement compris que quelque chose n'allait pas et a commencé à fuir en courant. Pendant près d'une heure elle a couru pour sauver sa vie et les nombreux témoins n'ont rien pu faire pour le malheureuse femme lorsque M a lancé ses cocktails.
 
-![Un touriste Vicien a quand même réussi à prendre cette photo](  /content/images/v1/user26/papyfou.jpg)
+![Un touriste Vicien a quand même réussi à prendre cette photo](/content/images/v1/user26/papyfou.jpg)
+_Un touriste Vicien a quand même réussi à prendre cette photo_
 
 Les secours n'ont pas pu sauver Mme T. et son mari risque entre 20 ans de prison et la peine de mort.
 

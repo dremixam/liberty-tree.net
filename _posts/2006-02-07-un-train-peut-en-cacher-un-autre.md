@@ -18,11 +18,10 @@ Un habitant de Las Vanturas, Mr Philippo Gimenez, nous explique les raisons de c
 
 Nous nous sommes rendus au lieu dit pour vérifier les faits. Les images sont effarantes :
 
-![](  /content/images/2005/01/cross1.jpg)
-
-![](  /content/images/2005/01/cross2.jpg)
-
-![Les barrières ne sont fermées entièrement qu'à partir du deuxième wagon...](  /content/images/2005/01/cross3.jpg)
+![](/content/images/2005/01/cross1.jpg)
+![](/content/images/2005/01/cross2.jpg)
+![Les barrières ne sont fermées entièrement qu'à partir du deuxième wagon...](/content/images/2005/01/cross3.jpg)
+_Les barrières ne sont fermées entièrement qu'à partir du deuxième wagon..._
 
 De plus, les plaintes ne viennent pas seulement de Las Vanturas, elles proviennent aussi de Los Santos et San Fierro. Ce qui signifie que c'est tout le système électronique de l'état qui est à revoir.
 

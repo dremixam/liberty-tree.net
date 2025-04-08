@@ -12,7 +12,8 @@ L'unique magasin officiel de fournitures d'armes de Liberty City est près d'un 
 
 Pour rétablir l'équilibre des taxes, la mairie a pris la bonne décision de mettre à un niveau acceptable ce dernier, c'est-à-dire 5%. Contre 45% au niveau le plus haut de l'inflation. Les preuves sont là, depuis 3 jours, les affaires ont augmenté de 4%, mais peut-être Ammu-Nation ne pourra jamais complètement se remettre de cette "conspiration".
 
-![Les unités représentent le nombre moyen de ventes journalières d'armes des magasins Ammu-Nation durant la période indiquée.](  /content/images/v1/user20/graphiquea-m.jpg)
+![Les unités représentent le nombre moyen de ventes journalières d'armes des magasins Ammu-Nation durant la période indiquée.](/content/images/v1/user20/graphiquea-m.jpg)
+_Les unités représentent le nombre moyen de ventes journalières d'armes des magasins Ammu-Nation durant la période indiquée._
 
 Cela dit, ne faites pas comme M. Larner, propriétaire de la chaîne des magasins Ammu-Nation, qui comme discours de bonne continuation a annoncé:
 

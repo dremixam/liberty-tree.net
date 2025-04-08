@@ -28,11 +28,9 @@ Portland est LA ville portuaire par excellence et contribue à 40% des parts de 
 
 Bref, n'hésitez pas à vous promener au bord de la mer dans l'après midi, jouissant des rayons du soleil vous chatouillant le visage. Regardez les voiliers et les chaloupes à la mer, les marins travailler de toutes leur forces, les grues transportant de lourdes charges dans un grand cliquetis de ferraille ....
 
-![](  /content/images/2005/01/dockp.jpg)
-
-![](  /content/images/2005/01/dockp2.jpg)
-
-![](  /content/images/2005/01/dockp3.jpg)
+![](/content/images/2005/01/dockp.jpg)
+![](/content/images/2005/01/dockp2.jpg)
+![](/content/images/2005/01/dockp3.jpg)
 
 Hôtel de ville, Newport, Staunton Island.
 
@@ -40,11 +38,9 @@ Ce bâtiment construit en 1992 est l'une des plus grandes fierté du maire O'Don
 
 Toutefois ce monument est à visiter de l'extérieur comme de l'intérieur. En effet, cette dernière partie est tout aussi luxueuse que le reste. Les revêtements muraux et les bureaux sont splendides. En vous adressant à l'accueil vous pourrez aussi obtenir des réductions intéressantes sur l'achat d'armes à feu. A qu'il est bon de parcourir les rues, pistolets mitrailleurs à la main...
 
-![](  /content/images/2005/01/hotel.jpg)
-
-![](  /content/images/2005/01/hotel2.jpg)
-
-![](  /content/images/2005/01/hotel3.jpg)
+![](/content/images/2005/01/hotel.jpg)
+![](/content/images/2005/01/hotel2.jpg)
+![](/content/images/2005/01/hotel3.jpg)
 
 Casino Kenji, Newport, Staunton Island.
 
@@ -52,11 +48,9 @@ Liberty ne possède pas de grands espaces de jeux et de loisirs mais ce grand ca
 
 Ce casino se révèle aussi être un superbe et immense bâtiment que les fines bouches apprécieront de visiter et pourquoi pas, se lancer dans les machines à sous et repartir riche...
 
-![](  /content/images/2005/01/casinok.jpg)
-
-![](  /content/images/2005/01/casinok2.jpg)
-
-![](  /content/images/2005/01/casinok3.jpg)
+![](/content/images/2005/01/casinok.jpg)
+![](/content/images/2005/01/casinok2.jpg)
+![](/content/images/2005/01/casinok3.jpg)
 
 Barrage Cochrane, Shoereside Vale.
 
@@ -64,11 +58,9 @@ Ce barrage est une merveille de technologie. Bien plus récent que celui de San 
 
 Des visites guidées de l'intérieur du monstre métallique sont organisés toutes les deux heures, 7 jours sur 7 (renseignements à l'hôtel de ville).
 
-![](  /content/images/2005/01/cochrane.jpg)
-
-![](  /content/images/2005/01/cochrane2.jpg)
-
-![](  /content/images/2005/01/cochrane3.jpg)
+![](/content/images/2005/01/cochrane.jpg)
+![](/content/images/2005/01/cochrane2.jpg)
+![](/content/images/2005/01/cochrane3.jpg)
 
 * * *
 

@@ -10,9 +10,8 @@ tags:
 
 _Hier à 23 heures, une voiture s'enflamme causant un désastre dans le tunnel reliant Queens à Garcia. Les normes de sécurité étaient-elles respectées ?_
 
-![](  /content/images/2005/01/acctunl.jpg)
-
-![](  /content/images/2005/01/acctunl2.jpg)
+![](/content/images/2005/01/acctunl.jpg)
+![](/content/images/2005/01/acctunl2.jpg)
 
 Grâce aux nombreux témoignages recueillis, la police scientifique a réussi à reconstituer le déroulement de la scène. Voici le rapport de l'officier Jokins:
 
@@ -20,9 +19,8 @@ Grâce aux nombreux témoignages recueillis, la police scientifique a réussi à
 
 > Une voiture de police faisant une ronde s'approche du lieu pour venir au secours des personnes inconscientes à cause de la fumée. Mais avec la chaleur intense, la voiture explose. Heureusement que l'effet de chaîne n'a pas recommencé.
 
-![](  /content/images/2005/01/acctunl3.jpg)
-
-![](  /content/images/2005/01/acctunl7.jpg)
+![](/content/images/2005/01/acctunl3.jpg)
+![](/content/images/2005/01/acctunl7.jpg)
 
 Le tunnel a été construit il y a quinze ans, à cette époque les normes de sécurité pour les tunnels n'existaient pas. C'est trois ans plus tard que le gouvernement a décidé de mettre en vigueur ces règles, selon l'article 54-565 du décret gouvernemental.
 
@@ -30,12 +28,11 @@ Les normes sont: Une sortie de secours tous les dix mètres, des aérations d'un
 
 Ils nous reste plus qu'à attendre un fait similaire, ou que les familles des victimes portent plainte.
 
-![](  /content/images/2005/01/acctunl6.jpg)
+![](/content/images/2005/01/acctunl6.jpg)
 
 Un hommage sera rendu aux victimes sous le tunnel qui sera expressément fermé pour cette occasion. Et un monument sera érigé près du tunnel.
 
-![](  /content/images/2005/01/acctunl4.jpg)
-
-![](  /content/images/2005/01/acctunl5.jpg)
+![](/content/images/2005/01/acctunl4.jpg)
+![](/content/images/2005/01/acctunl5.jpg)
 
 <!--kg-card-end: markdown-->

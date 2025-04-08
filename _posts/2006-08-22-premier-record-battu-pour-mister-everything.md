@@ -18,13 +18,12 @@ Le pari est assez risqué puisque plusieurs facteurs doivent être pris en compt
 
 Une fois que tous ces facteurs sont pris en compte, l'huissier qui était là pour vérifier que le record soit bien effectué, s'est posté sur le pont à côté du saut . Plusieurs photographes étaient là pour l'occasion, ainsi qu'une petite foule de fans .
 
-![](  /content/images/2005/01/bair.jpg)
+![](/content/images/2005/01/bair.jpg)
 
 A 11 heures précise, la Bloodring de l'autre côté de la rue démarre , on estime quel roulait déjà à 110 km/h lorsqu'elle a touchée la rampe , "l'anneau de sang" prend son envol . Elle se retrouve pendant 9 secondes en l'air, et enfin atterris de l'autre côte de la rive . Pari réussi !!! Enfin normalement bien sûr ... Tout les regards se tournent alors du côté de l'huissier qui lève les yeux sur un panneau de couleur verte pour annoncer la validation du record.
 
-![](  /content/images/2005/01/bair3.jpg)
-
-![](  /content/images/2005/01/bair2.jpg)
+![](/content/images/2005/01/bair3.jpg)
+![](/content/images/2005/01/bair2.jpg)
 
 Mr.Everything n'a pas le temps d'ouvrir sa portière qu'une foule de fans en furie viennent l'acclamer, lui demander des autographes .
 

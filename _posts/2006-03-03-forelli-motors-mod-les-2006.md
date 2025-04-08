@@ -48,8 +48,7 @@ _La Forelli Kuruma n'a pas subi d'énormes changements cette année, succès obl
 
 Et en exclusivité pour le Salon de l'Automobile de San Andreas, Forelli Motors a présenté son tout nouveau modèle pour faire concurrence&nbsp;à la Sentinel.&nbsp;Voici la toute nouvelle berline haut de gamme de Forelli&nbsp;Motors : la Forelli Excess
 
-![](  /content/images/2005/01/Forelli_Excess.jpg)
-
+![](/content/images/2005/01/Forelli_Excess.jpg)
 _Si certains pense a une Kuruma modifié, seront surpris par sont luxe et son puissant moteur. La Excess est plus qu'une simple&nbsp;ressemblance avec sa cousine._
 
 Forelli Motors mise beaucoup sur la Excess pour battre la Sentinel. Surtout que&nbsp;celle-ci n'a pas&nbsp;été revue depuis plus de 7 ans. Avec son&nbsp;châssis signé Alberto Forelli, le Excess&nbsp;pourrait&nbsp;passer&nbsp;sa rivale, la Sentinel,&nbsp;dans les berlines haut-de-gamme avec&nbsp;son châssis plus lourd que la Kuruma et son&nbsp;énorme moteur V12

@@ -14,11 +14,11 @@ Si San Fierro est surnommée la "capitale du tuning" ce n'est pas par hasard, et
 
 Vous connaissez probablement la fameuse émission de tuning "Pimp my Pride" qui est diffusée chaque semaine sur la chaîne Love media. Ben voilà qu'ils ont fait du propriétaire d'une Skyline l'homme le plus heureux du monde.
 
-![](  /content/images/2005/01/proprio.jpg)
+![](/content/images/2005/01/proprio.jpg)
 
 J'étais en voiture avec Mad Dogg quand il arriva chez Bill, le proprio de l'épave. Bill fut totalement excité à la vue du chanteur et lui demanda immédiatement un autographe. Il ne savait pas encore que West Coast Customs venait juste de s'installer en ville et quand Mad lui annonça qu'il était venu pour "pimper" sa caisse, il sauta de joie. Mad Dogg ne savait pas dans quel état était la voiture du gagnant et il ne fut pas déçu.
 
-![](  /content/images/2005/01/sky%20avant.jpg)
+![](/content/images/2005/01/sky%20avant.jpg)
 
 C'était une Skyline de 1999 récupérée dans une décharge au prix de 300$. Elle avait été abandonnée après que l'ancien propriétaire l'avait retourné lors d'une sortie de route.
 
@@ -30,12 +30,12 @@ En ce qui concerne la carrosserie elle ne fut pas délaissée. L'équipe a insta
 
 Une fois le travail terminé, l'équipe appela Bill pour qu'il découvre son véhicule.
 
-![](  /content/images/2005/01/sky%20apre%20west.jpg)
+![](/content/images/2005/01/sky%20apre%20west.jpg)
 
 A la vue de sa nouvelle voiture, il explosa de joie et remercia tous les employés de chez West Coast Custom. Il a adoré les boomers 4 x 250 watts et le moteur de 300 chevaux.
 
 Voila, Bill peut maintenant dire "thanks to Love Media for Pimping my pride".
 
-![](  /content/images/2005/01/Sky%20apre.jpg)
+![](/content/images/2005/01/Sky%20apre.jpg)
 
 <!--kg-card-end: markdown-->

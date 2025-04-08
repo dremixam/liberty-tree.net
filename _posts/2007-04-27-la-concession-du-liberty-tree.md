@@ -17,7 +17,8 @@ Nous vous présenterons dans cette édition :
 
 Premièrement, nous nous lancerons dans une description de chaque véhicule, ses capacités et nos impressions.
 
-![Ford Mustang Pony](  /content/images/2016/07/Fordmustang123.jpg)
+![Ford Mustang Pony](/content/images/2016/07/Fordmustang123.jpg)
+_Ford Mustang Pony_
 
 La dernière née de chez Ford présentée au dernier salon de San Andreas est enfin sortie, nous allons vous la présenter dans ses moindres détails !
 
@@ -57,7 +58,8 @@ Groupe intérieur amélioré (650$)
 Cette voiture a une conduite parfaite, il faut que vous vous la procuriez ou bien que vous l'essayiez ! Cette voiture est la meilleure que j'ai jamais conduite !  
 Voila pour la Ford Mustang Pony ! Passons donc à la Nissan Skyline GTR 2007 Edition...
 
-![Nissan Skyline GTR 2007 Edition](  /content/images/2016/07/skyline1.jpg)
+![Nissan Skyline GTR 2007 Edition](/content/images/2016/07/skyline1.jpg)
+_Nissan Skyline GTR 2007 Edition_
 
 La nouvelle de chez Nissan est la GTR repensée ! Nissan vient de frapper un grand coup en ressortant un de ses ancien modèle sortit il y a plusieurs années maintenant. Les concepteurs de la voitures n'ont pas été rappelés pour donner une seconde vie à ce modèle sportif qu'est la GTR, de nouveaux ingénieurs ont changé pas mal de chose sur le plans des caractéristiques techniques.
 

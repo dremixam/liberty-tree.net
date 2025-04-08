@@ -32,19 +32,18 @@ Résultats du concours d'élégance. Clôture du salon.
 
 L'animation qui attire le plus nos propriétaires de belles carrosseries, est bien sûr le concours d'élégance ! Voici le déroulement :
 
-![](  /content/images/2005/01/classementconcours.jpg)
+![](/content/images/2005/01/classementconcours.jpg)
 
 J'ai interviewé l'heureux propriétaire de cette Broadway 1955 , traitée à la "Street rod": John Robinson. J'en ai profité pour faire un shooting à l'aéroport de Los Santos.
 
 Voici sa voiture il y a 5 ans :
 
-![](  /content/images/2005/01/custom1.jpg)
+![](/content/images/2005/01/custom1.jpg)
 
 La voici maintenant, après un sérieux lifting... Et pas que pour faire joli !
 
-![](  /content/images/2005/01/custom2.jpg)
-
-![](  /content/images/2005/01/custom3.jpg)
+![](/content/images/2005/01/custom2.jpg)
+![](/content/images/2005/01/custom3.jpg)
 
 > **L.T :** Mr. Robinson , bonjour !
 > 

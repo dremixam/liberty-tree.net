@@ -13,19 +13,22 @@ _Nouveau scandale sanitaire en vue dans le monde de la restauration rapide : un 
 
 Alors que la chaîne rivale Up-N-Atom voit son succès augmenter et fête son soixante-sixième anniversaire, pour Burger Shot, c'est une période à oublier. La chaîne, qui a perdu la suprématie du grand ouest américain face à Up-N-Atom, ne cesse d'enchaîner les polémiques. Récemment, un cafard avait été retrouvé dans une portion de frites à San Fierro, déclenchant un nouveau scandale. Aujourd'hui, c'est un autre scandale qui éclate, et qui risque d'être bien plus retentissant...
 
-![Le Burger Shot de Vespucci.](  /content/images/2016/06/BurgerShot_0.jpg)
+![Le Burger Shot de Vespucci.](/content/images/2016/06/BurgerShot_0.jpg)
+_Le Burger Shot de Vespucci._
 
 En effet, nous avons été contactés par un informateur anonyme, qui a souhaité parler de son expérience chez Burger Shot. Celui-ci, renvoyé il y a quelques semaines, travaille désormais pour une autre chaîne de restauration rapide. Et ses révélations sont assez étonnantes...
 
 > Tout d'abord, j'ai commencé au petit restaurant de Del Perro Beach. Là-bas, les conditions d'hygiène étaient déplorables. Les frites tombaient par terre, le bâtiment était tout abîmé, ça fuyait quand il pleuvait... Plusieurs fois des hamburgers tombaient, et les supérieurs disaient "Oh, c'est pas grave, les clients ne verront rien"...
 
-![Le Burger Shot de Del Perro Pier.](  /content/images/2016/06/BurgerShot2.jpg)
+![Le Burger Shot de Del Perro Pier.](/content/images/2016/06/BurgerShot2.jpg)
+_Le Burger Shot de Del Perro Pier._
 
 Ces révélations font déjà froid dans le dos. Qui n'a jamais mangé au Burger Shot de Del Perro ? Le Burger Shot le plus fréquenté de la ville, celui chez qui des centaines de personnes se sont déjà arrêtées. Des hamburgers et des frites tombés par terre, des ingrédients manipulés avec des mains sales... Et ça ne s'arrête pas là.
 
 > Quand je suis allé chez Burger Shot à Vespucci, je pensais que les conditions s'amélioreraient. Mais je me trompais. Là-bas, c'est encore pire. Et une règle m'a stupéfié : Les employés n'ont pas le droit de manger de la nourriture Burger Shot, pour raisons de santé. C'est scandaleux !
 
-![L'ancien employé de Burger Shot, photographié masqué.](  /content/images/2016/06/BurgerShot3.jpg)
+![L'ancien employé de Burger Shot, photographié masqué.](/content/images/2016/06/BurgerShot3.jpg)
+_L'ancien employé de Burger Shot, photographié masqué._
 
 Nous nous sommes rendus sur place et nous avons rencontré des employés du restaurant, qui ont démenti les propos de l'ancien employé.
 

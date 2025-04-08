@@ -16,11 +16,11 @@ Voici ce récit farfelu tel qu'il nous a été rapporté, que personne de censé
 
 A l'heure actuelle, Monsieur P. a été interné à la section psychiatrique de l'Hôpital de Pike Creek, et de nombreux chercheurs sont sur les lieux de l'événement, mais aucun n'a trouvé le moyen de plonger dans l'eau sans périr noyé. Un couturier nommé Pablo Rabanne affirme que c'est un avertissement du destin et que la fin du Monde est proche, tandis que de nombreux personnages plus douteux les uns que les autres pensent que Angelo P. est passé par un portail inter-dimensionnel qui s'est refermé aussitôt. Si vous allez là-bas, vous pourrez également acheter de nombreux souvenirs (dont des flacons d'eau bénite et des barils de produits toxiques, le tout trouvé dans notre cher océan pollué), c'est mon cousin qui tient le commerce, je vous conseille d'aller y jeter un œil.
 
-![](  /content/images/v1/user6/souslamer1.jpg)  
- ![](  /content/images/v1/user6/souslamer2.jpg)  
- ![](  /content/images/v1/user6/souslamer6.jpg)  
- ![](  /content/images/v1/user6/souslamer7.jpg)  
- ![](  /content/images/v1/user6/souslamer8.jpg)  
- ![](  /content/images/v1/user6/souslamer9.jpg)
+![](/content/images/v1/user6/souslamer1.jpg)
+![](/content/images/v1/user6/souslamer2.jpg)
+![](/content/images/v1/user6/souslamer6.jpg)
+![](/content/images/v1/user6/souslamer7.jpg)
+![](/content/images/v1/user6/souslamer8.jpg)
+![](/content/images/v1/user6/souslamer9.jpg)
 
 <!--kg-card-end: markdown-->

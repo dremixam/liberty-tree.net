@@ -20,9 +20,8 @@ Voici les propos exacts de la déclaration tant controversée. C'était samedi 1
 
 Cette déclaration, contrairement au feu purificateur annoncé, a mis le feu aux poudres dans le cœur des émeutiers. A ce jours, on dénombre dix-huit victimes dont six policiers, et près d'une centaine de blessés. Le bilan matériel s'élève à cent quatre-vingt-neuf voitures incendiés, ainsi que deux écoles et un poste de police.
 
-![](  /content/images/2005/01/Emeutes%2013.jpg)
-
-![](  /content/images/2005/01/Emeutes%2014.jpg)
+![](/content/images/2005/01/Emeutes%2013.jpg)
+![](/content/images/2005/01/Emeutes%2014.jpg)
 
 Le chef du LSPD a déclaré que les deux officiers auteurs du coup de feu mortel avaient été relevés de leurs fonctions et mis en détention provisoire en attendant leur procès. Cette décision ne semble pas avoir calmé les esprits au vu de la reprise des violences de ces derniers jours.
 
@@ -32,8 +31,7 @@ Dans les prochains jours, la situation devrait encore s’aggraver avec les nomb
 
 Nous nous engageons à continuer de vous tenir au courant malgré le risque et la peur. De même nous vous rappelons de contacter le 911 en cas de problème.
 
-![](  /content/images/2005/01/Emeutes%206.jpg)
-
-![](  /content/images/2005/01/Emeutes%2015.jpg)
+![](/content/images/2005/01/Emeutes%206.jpg)
+![](/content/images/2005/01/Emeutes%2015.jpg)
 
 <!--kg-card-end: markdown-->

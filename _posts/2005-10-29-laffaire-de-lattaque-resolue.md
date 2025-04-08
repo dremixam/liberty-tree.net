@@ -32,15 +32,16 @@ Mais revenons à cette histoire. Que s'est il vraiment passé ce jour là ? Pour
 
 > Nous avons préparé cette embuscade d'après les renseignements du suspect arrêté par la SWAT, que nous devions normalement protéger, mais il a été tué lors de l'embuscade.
 
-![](  /content/images/2005/01/mort.jpg)
+![](/content/images/2005/01/mort.jpg)
 
 > La police était à bord d'une Cheetah banalisée, et surveillait tout ça de loin. Mais le suspect a flairé le piège et a réussi a s'emparer du camion de la police qui servait pour l'embuscade.
 
-![](  /content/images/2005/01/camion2.jpg)
+![](/content/images/2005/01/camion2.jpg)
 
 Le piège a mal tourné, et la police a dû intervenir avec des camions "mule" pour bloquer l'énorme Packer. Le suspect est descendu et a ouvert le feu, la police a riposté et l'a abattu. Mais les nombreux impacts ont endommagé le camion qui a pris feu et a fini par exploser.
 
-![photo prise par un policier](  /content/images/2005/01/cavapeter.jpg)
+![photo prise par un policier](/content/images/2005/01/cavapeter.jpg)
+_photo prise par un policier_
 
 La cargaison transportée dans le camion était en fait du caviar, eh oui, juste du caviar, mais assez pour se faire un petit million de dollars en le revendant au marché noir.
 

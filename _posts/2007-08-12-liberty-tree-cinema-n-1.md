@@ -26,7 +26,7 @@ _Du petit film d'auteur indépendant aux grosses productions Vinewoodiennes, le 
 
 **Distribué et produit par :** Colonia Pictures
 
-![](  /content/images/2005/01/0_9995.jpg)
+![](/content/images/2005/01/0_9995.jpg)
 
 **Le Pitch :** Une soucoupe volante survole San Fierro et se positionne au-dessus du Big Pointy&nbsp;Building tandis qu'un informaticien de Hashbury (Jeff Blougode) décrypte les signaux des étranges voyageurs. Ils ne sont pas du tout amicaux et ces extraterrestres se préparent à attaquer la terre commençant à détruire tout sur leur passage à l'aide de leur soucoupe volante équipée d'un puissant rayon laser. L'hystérie générale gagne la population qui cherche à fuir. Le seul espoir subsiste en la personne d'une scientifique brillante (Sygourney Beaver) vivant une relation chaotique avec le secrétaire (Tom Kirrit) du président des Etats-Unis&nbsp;(John Fock), et d'un jeune militaire (Will Mite). Une course&nbsp;contre la montre&nbsp;s'engage alors&nbsp;pour sauver la terre.
 
@@ -50,7 +50,7 @@ _Du petit film d'auteur indépendant aux grosses productions Vinewoodiennes, le 
 
 **Produit par :** Perrave Studios
 
-![](  /content/images/2005/01/0_9996.jpg)
+![](/content/images/2005/01/0_9996.jpg)
 
 **Le Pitch :** Si leur fils Nick (John Cockman)&nbsp; n'avait pas raté ses examens, ce n'est pas à Torrington (Liberty City) que&nbsp;ses parents l'auraient expédié en vacances cet été. Il apprécie peu, Nick&nbsp;et&nbsp;il&nbsp;préfère les filles bronzées&nbsp;aux exercices de révision. Aussi, c'est à l'aéroport International Francis de L.City&nbsp; que le taxi va l'emmener, et hop ! en route pour Santa Maria Beach à Los Santos ! Il y retrouve son amie Kate (Penelope Crue) - à qui de nombreuses rencontres avaient fait paraître l'attente bien courte - qui partage son appartement avec Julia, l'animatrice DJ des soirées "dance on the beach". Kate et Julia forment avec la sulfureuse Anna (Eva Langara) et Don (Matt Leflanc)&nbsp;le dragueur sans cesse éconduit qui finira par vivre avec "Chouchou", le travesti officiel de la plage, une sacrée bande ! Oui mais... Kate trompe Nick qui, pour se venger, va, sans peine, coucher avec Julia...
 
@@ -72,7 +72,7 @@ _Du petit film d'auteur indépendant aux grosses productions Vinewoodiennes, le 
 
 **Distribué et produit par&nbsp;:** Globesale Pictures
 
-![](  /content/images/2005/01/0_9997.jpg)
+![](/content/images/2005/01/0_9997.jpg)
 
 **Le Pitch :** Alors qu'une jeune femme se baigne dans la piscine d'une villa chic de Rodeo à Los Santos, un homme l'assassine à l'aide de son Remington sniper. Un tueur en série,que l'on surnomme &nbsp;"Worm", revendique le crime et commence alors à faire chanter le&nbsp;maire de Los Santos annonçant son intention de tuer &nbsp;une personne par jour jusqu'à ce qu'on lui paie une rançon.&nbsp;A regret, le chef du LSPD va faire appel au service&nbsp;de son inspecteur le plus atypique du central LS, Sean Mac Pane à qui l'on confie généralement les affaires&nbsp;les plus "pourries " et qui s'applique à les résoudre coûte que coûte même si cela implique la violation des droits des criminels. Sean Mac Pane est un inspecteur de Police de Los Santos, connu pour ses méthodes brutales, dangereuses, parfois proches de l'illégalité mais en général efficaces.&nbsp;En charge de l'enquête, l'inspecteur Sean Mac Pane trouve la douille usagée sur un toit situé non loin du lieu du crime.&nbsp; Il&nbsp;va rapidement se retrouver aux prises avec&nbsp;le tueur psychopathe, un bras de fer tant physique que psychologique va commencer...
 
@@ -94,7 +94,7 @@ _Du petit film d'auteur indépendant aux grosses productions Vinewoodiennes, le 
 
 **Distribué et produit par&nbsp;:** &nbsp;Navet Bros
 
-![](  /content/images/2005/01/0_9998.jpg)
+![](/content/images/2005/01/0_9998.jpg)
 
 **Le Pitch :** L'agent spécial Karl Band (Tom Croute)&nbsp;se trouve aux prises avec un terroriste maître chanteur facétieux et dangereux (Brad Putt) qui a déposé des bombes dans San Fierro. Il dispose d'1 h 30 pour déjouer le prochain attentat, le compte à rebours est sur le point de&nbsp;débuter ...
 

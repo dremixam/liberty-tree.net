@@ -12,21 +12,20 @@ Noël arrive et les clients commencent à envahir les magasins qui chaque année
 
 Comme chaque année à la même période, les magasins se préparent au coup de feu car Noël approche. En effet, c'est à cette époque que les commerçants réalisent la plus grande partie de leur chiffre d'affaire. Et l'une des raisons de cette "explosion" des ventes est la baisse des prix. En effet, comme tous les ans, les magasins se livrent une farouche bataille de qui aura les prix les moins élevés.
 
-![](  /content/images/2005/01/Pub_Prix_1.jpg)
+![](/content/images/2005/01/Pub_Prix_1.jpg)
 
 Tous les secteurs d'activités sont concernés par cette baisse générale des tarifs, vêtements, HI-FI, électroménager, alimentaire, rien n'échappe à cette déflation. Et cette année encore, la chaîne de vêtements bons marchés Binco frappe fort et propose des prix défiants toute concurrence.
 
-![](  /content/images/2005/01/Prix_Binco_1.jpg)
+![](/content/images/2005/01/Prix_Binco_1.jpg)
 
 Les grands centre commerciaux tels que les Wall-Mart proposent eux aussi des prix bien plus faibles que pendant le reste de l'année. Et leurs bénéfices sont d'autant plus grand qu'ils vendent dans des secteurs d'activités très variés. Ainsi, le Verona Mall de Los Santos dégage des bénéfices qui représentent 20% de son chiffre d'affaire annuel.
 
-![](  /content/images/2005/01/Verona_Mall.jpg)
+![](/content/images/2005/01/Verona_Mall.jpg)
 
 Cependant, tous les commerçants ne profitent pas des périodes de Noël. Le secteur du luxe est très désavantagé à cette période, bien que les prix baissent légèrement en période de fêtes. Les grandes marques de luxe telles que Didier Sachs, Kevin Clone (pour ne citer qu'eux) souffrent en cette fin d'année.
 
-![](  /content/images/2005/01/Didier_Sachs_1.jpg)
-
-![](  /content/images/2005/01/Kevin_Clone_1.jpg)
+![](/content/images/2005/01/Didier_Sachs_1.jpg)
+![](/content/images/2005/01/Kevin_Clone_1.jpg)
 
 Nous avons interviewé Roberto Scantamburlo, directeur du magasin Gnocchi à Rodeo :
 

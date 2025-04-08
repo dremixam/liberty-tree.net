@@ -17,10 +17,8 @@ Personnellement j'ai été bluffé: même de loin c'est impressionnant (je n'ai 
 
 Cette immense grue n'a toujours pas été retrouvée, David Edlifrepoc a été mis en garde à vue
 
-![](  /content/images/v1/user24/Magie_1.jpg)
-
-![](  /content/images/v1/user24/Magie_2.jpg)
-
-![](  /content/images/v1/user24/Magie_3.jpg)
+![](/content/images/v1/user24/Magie_1.jpg)
+![](/content/images/v1/user24/Magie_2.jpg)
+![](/content/images/v1/user24/Magie_3.jpg)
 
 <!--kg-card-end: markdown-->

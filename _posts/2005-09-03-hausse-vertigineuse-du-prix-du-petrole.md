@@ -24,10 +24,9 @@ Après des expériences grandeur nature, le gouvernement se réjouit des résult
 
 Mais d’après un sondage Isot-Liberty Tree, prés de 99% des habitants sont prêts à utiliser cette méthode afin de faire des économies. On peut peut-être rêver de l’utilisation de ces économies à des fins culturelles (visites de musées…) comme on peut supputer de manière plus réaliste qu’elles feront grimper la côte en bourse des groupes Pernod Ricard et compagnie !
 
-![Les voitures telles que les 4x4 consomment de plus-en-plus de carburant](  /content/images/2005/01/4x4.jpg)
-
-![Ce nouveau carburant est hautement explosif mais tellement économique !](  /content/images/2005/01/feu.jpg)
-
-![Des champs de pétrole à perte de vue, pourtant voués à disparaitre](  /content/images/2005/01/petrole.jpg)
+![Les voitures telles que les 4x4 consomment de plus-en-plus de carburant](/content/images/2005/01/4x4.jpg)
+_Les voitures telles que les 4x4 consomment de plus-en-plus de carburant_[Ce nouveau carburant est hautement explosif mais tellement économique !](/content/images/2005/01/feu.jpg)
+![Des champs de pétrole à perte de vue, pourtant voués à disparaitre](/content/images/2005/01/petrole.jpg)
+_Des champs de pétrole à perte de vue, pourtant voués à disparaitre_
 
 <!--kg-card-end: markdown-->

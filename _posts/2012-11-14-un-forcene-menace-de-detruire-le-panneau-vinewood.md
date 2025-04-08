@@ -12,7 +12,8 @@ Il est environ 16 H 10 lorsque les hommes du shérif du comté de Los Santos ten
 
 Les policiers dépêchés sur place tentent alors d’intercepter le suspect avant que ce dernier ne puisse commettre l’irréparable. Malheureusement pour eux, l’homme parvient tout de même, grâce à un « stratagème improvisé », à s’échapper sans qu’ils ne s'aperçoivent de rien, jusqu’à ce qu’ils se rendent compte que le suspect avait filé.
 
-![Photo du suspect prise depuis un hélicoptère quelques minutes avant qu'il ne réussisse à s'enfuir.](  /content/images/2016/06/Vinewood_Incident_1.jpg)
+![Photo du suspect prise depuis un hélicoptère quelques minutes avant qu'il ne réussisse à s'enfuir.](/content/images/2016/06/Vinewood_Incident_1.jpg)
+_Photo du suspect prise depuis un hélicoptère quelques minutes avant qu'il ne réussisse à s'enfuir._
 
 Afin de comprendre un peu mieux le déroulement des événements, nous avons interrogé le sergent Chris P. Bacon (dit « Crispy »), qui faisait partie des nombreux adjoints ayant répondu à l’appel du central :
 

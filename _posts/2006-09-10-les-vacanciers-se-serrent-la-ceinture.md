@@ -16,9 +16,9 @@ Les vacanciers se serrent la ceinture. Fini le farniente sous les cocotiers qui 
 
 Le mini-bar dans la chambre d’hôtel&nbsp;? Pas question de dépasser les 2 litres offerts par la direction. Dans les restaurants, les apéros, amuse gueule, digestif et cafés deviennent de simples souvenirs&nbsp;! L’eau remplace le vin et la bière. Puis cette canicule n’arrange en rien les choses, en effet, les bars-restaurants et cafés sont quasiment déserts, il fait trop chaud et les gens préfèrent rester bien au frais dans l’hôtel climatisé que d’aller cuir dans un resto. Par contre, ils bénéficient d’une très bonne fréquentation le soir.
 
-![](  /content/images/2005/01/hotel_carton.jpg)
-
-![L' hôtel Carton à Vice et les Four Dragons à San Andreas ont dû fermer à cause du manque de clientèle.](  /content/images/2005/01/4dragons.jpg)
+![](/content/images/2005/01/hotel_carton.jpg)
+![L' hôtel Carton à Vice et les Four Dragons à San Andreas ont dû fermer à cause du manque de clientèle.](/content/images/2005/01/4dragons.jpg)
+_L' hôtel Carton à Vice et les Four Dragons à San Andreas ont dû fermer à cause du manque de clientèle._
 
 Les échanges de maisons ont le vent en poupe. Mais les repas sont de plus allégées. La tendance est aux formules, le plus souvent, une entrée et un plat ou un plat et un dessert mais généralement c’est un plat unique. Enfin, certains ne mettent même plus le nez dans un bistrot. «&nbsp;Nous, pour les repas, on achète tout en grande surface et surgelé de préférence&nbsp;» explique Billy parti en vacances&nbsp;à San Fierro avec trois amis jusqu’à septembre.
 
@@ -26,8 +26,8 @@ Mais le malheur des uns fait parfois le bonheur des autres… Les habitants de S
 
 Une tendance qui ne devrait vraiment pas améliorer le moral des hôteliers&nbsp;!
 
-![](  /content/images/2005/01/verdant.jpg)
-
-![L'aérodrome de Verdant Meadrows.](  /content/images/2005/01/verdant2.jpg)
+![](/content/images/2005/01/verdant.jpg)
+![L'aérodrome de Verdant Meadrows.](/content/images/2005/01/verdant2.jpg)
+_L'aérodrome de Verdant Meadrows._
 
 <!--kg-card-end: markdown-->

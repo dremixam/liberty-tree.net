@@ -24,9 +24,9 @@ C'est en 2005, après avoir été racheté par un investisseur privé, que le jo
 
 2013 : trois ans après cet échec, le journal est de retour à Los Santos et espère bien renouer avec la gloire qu'il y a connu. Au moment où ces lignes sont rédigées, la nouvelle équipe s'installe dans les nouveaux locaux au cœur de Los Santos.
 
-![](  /content/images/2016/06/arcadius.jpg)
-
-![Les nouveaux locaux du Liberty Tree, au 13ème étage de l'Arcadius.](  /content/images/2016/06/immeubleLT.jpg)
+![](/content/images/2016/06/arcadius.jpg)
+![Les nouveaux locaux du Liberty Tree, au 13ème étage de l'Arcadius.](/content/images/2016/06/immeubleLT.jpg)
+_Les nouveaux locaux du Liberty Tree, au 13ème étage de l'Arcadius._
 
 Toute l'équipe du Liberty Tree vous souhaite une bonne lecture en notre compagnie et nous espérons que certains d'entre vous seront tentés par l'aventure et déposeront leur candidature pour devenir journalistes.
 

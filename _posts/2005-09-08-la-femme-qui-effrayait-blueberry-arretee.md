@@ -12,15 +12,13 @@ Une individu pour le moins étrange vient d'être arrêtée dans la petite ville
 
 Helena Wankstein, tel est le nom sur les lèvres des commères en ce moment à Blueberry.
 
-![](  /content/images/2005/01/helena1.jpg)
-
-![](  /content/images/2005/01/helena2.jpg)
+![](/content/images/2005/01/helena1.jpg)
+![](/content/images/2005/01/helena2.jpg)
 
 Cette jeune femme d'une trentaine d'année, agricultrice dans le champ de blé près de l'échangeur à la sortie de Los Santos, a été arrêtée pour nuisances sonores diurnes et nocturnes, port d'arme illégal, recel d'armes de guerre, mais aussi pour insulte à agent, alors qu'elle "s'entraînait" selon ses dires, sur le toit de l'Ammu-Nation de Blueberry.
 
-![](  /content/images/2005/01/helena5.jpg)
-
-![](  /content/images/2005/01/helena6.jpg)
+![](/content/images/2005/01/helena5.jpg)
+![](/content/images/2005/01/helena6.jpg)
 
 Depuis quelques temps les habitants de Blueberry étaient paniqués, réveillés dans leur sommeil par des coups de feu. Rendu sur les lieux, j'ai interrogé une habitante, Martha Rogers, retraitée, ce qui ne l'a pas empêchée d'entendre les détonations:
 
@@ -52,8 +50,7 @@ Depuis quelques temps les habitants de Blueberry étaient paniqués, réveillés
 
 Helena devra sans doute passer quelques nuits en prison, mais n'ayant pas fait usage notamment du lance-flammes qu'elle détenait, celui-ci lui sera confisqué et de ce fait les charges pesant contre elle se verront très réduites.
 
-![](  /content/images/2005/01/helena3.jpg)
-
-![](  /content/images/2005/01/helena4.jpg)
+![](/content/images/2005/01/helena3.jpg)
+![](/content/images/2005/01/helena4.jpg)
 
 <!--kg-card-end: markdown-->

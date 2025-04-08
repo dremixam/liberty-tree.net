@@ -9,13 +9,12 @@ tags:
 - san-fierro
 ---
 
-![](  /content/images/2005/01/explo_-_title_no_2.jpg)
-
-![](  /content/images/2005/01/Explo_-_Palomino_-_Article_-_Title.jpg)
+![](/content/images/2005/01/explo_-_title_no_2.jpg)
+![](/content/images/2005/01/Explo_-_Palomino_-_Article_-_Title.jpg)
 
 **C’est la question que nous pourrions nous poser après qu’un homme perturbé ai interrompu le conseil municipal pour mettre en garde la population que la ville était assiégée par des visiteurs interplanétaires.**
 
-![](  /content/images/2005/01/Explo_2_-_palomino_-_welcome_sign.jpg)
+![](/content/images/2005/01/Explo_2_-_palomino_-_welcome_sign.jpg)
 
 Si ce n’avait été du courriel que j’ai reçu en provenance de ce citoyen qui a préféré conserver l’anonymat, la nouvelle aurait probablement passé inaperçu puisque personne ne prend ces choses au sérieux. Vous conviendrez donc qu’il y avait matière à se demander si le maire de Palomino Creek avait toute sa tête. J’ai donc décidé de me rendre sur place pour enquêter.
 
@@ -39,19 +38,17 @@ C’est le genre de gros titre que l’on a l’habitude de lire dans les revues
 
 Sur ces paroles le maire Parsons s’enfuit de la ruelle où nous étions en poussant des cris de mort. Il était donc évident que cet homme avait besoin d’aide mais mon intervention n’a pas été nécessaire puisqu’au même moment le sheriff et ses hommes, accompagné d’ambulanciers, sont parvenus à le capturer. Constatant ma présence, le Sheriff est venu me rassurer en me disant que le maire Parsons serait conduit au All Saints General Hospital de Los Santos pour y être soigné de sa folie passagère.
 
-![All Saints General Hospital de Los Santos. (photo d'archive)](  /content/images/2005/01/Explo_2_-_palomino_-_allsaints.jpg)
+![All Saints General Hospital de Los Santos. (photo d'archive)](/content/images/2005/01/Explo_2_-_palomino_-_allsaints.jpg)
+_All Saints General Hospital de Los Santos. (photo d'archive)_
 
 Fait étrange, un peu plus tard, j’ai téléphoné au All Saints pour me renseigner sur l’état du maire mais personne sur place n’était au courant du cas. En essayant de rejoindre le Sheriff par téléphone, au numéro indiqué sur la carte qu’il m’avait remis, c’est un homme opérant un barber shop qui m’a répondu et m’a dit que le village n’avait plus de Sheriff depuis des années. Plus encore, le village est dirigé par la mairesse Elizabeth Paltrow... depuis les 8 dernières années... c’est comme ci cet homme, Dwayne Parsons, n’avait jamais existé.
 
 Vous vous rappelez que je vous avait dit m’être rendu à la rencontre seul mais surtout sans appareil photo ? Vous connaissez un chirurgien qui opère sans scalpel ? Pour l’occasion je m’étais rendu voir Silicone Harry, un jeune crack de l’informatique qui crèche à East Los Santos et qui peut vous avoir n’importe lequel des gadgets électronique contre quelques Franklin. On dit que le LSPD est son plus gros client. Je lui ai donc acheté une caméra miniature 5 méga pixels dissimulée dans un stylo bille. Même si j’avais pris le soin de prendre une photo du Liberty Tower avant de me rendre à Palomino Creek, question de me familiariser avec l’appareil, il s’est passé un phénomène inexpliqué avec les photos que j’ai fait sur place... même Silicone Harry ne comprend pas ce qu'il s’est produit... voyez de vos yeux.
 
-![Photo 1](  /content/images/2005/01/Explo_2_-_palomino_-_libertytower.jpg)
-
-![Photo 2](  /content/images/2005/01/Explo_2_-_palomino_-_parsons.jpg)
-
-![Photo 3](  /content/images/2005/01/Explo_2_-_palomino_-_sheriff.jpg)
-
-![Photo 4](  /content/images/2005/01/Explo_2_-_palomino_-_ambulance.jpg)
+![Photo 1](/content/images/2005/01/Explo_2_-_palomino_-_libertytower.jpg)
+_Photo 1_[Photo 2](/content/images/2005/01/Explo_2_-_palomino_-_parsons.jpg)
+![Photo 3](/content/images/2005/01/Explo_2_-_palomino_-_sheriff.jpg)
+_Photo 3_[Photo 4](/content/images/2005/01/Explo_2_-_palomino_-_ambulance.jpg)
 
 **1.** Photo du Liberty Tower que j'avais pris pour faire l'essai  
 &nbsp;&nbsp;&nbsp; de la caméra miniature. À ce moment-là elle fonctionnait  
@@ -72,11 +69,11 @@ Il se passe vraiment des trucs étranges à cet endroit,&nbsp; serions-nous en p
 
 Si vous lisez cet article Mr.Parsons, ou qui que vous soyez, contactez-moi immédiatement !
 
-![](  /content/images/2005/01/Explo_2_-_Chinatown_-_Article_-_Title.jpg)
+![](/content/images/2005/01/Explo_2_-_Chinatown_-_Article_-_Title.jpg)
 
 Si vous avez une dent creuse, il serait peut-être mieux pour vous d’éviter pour un moment les restaurants de Chinatown à San Fierro sauf si vous aimez vivre dangereusement.
 
-![](  /content/images/2005/01/Explo_2_-_chinatown_-_porte_quartier.jpg)
+![](/content/images/2005/01/Explo_2_-_chinatown_-_porte_quartier.jpg)
 
 > En tout cas si jamais l'envie vous prend de jouer à DEVINER CE QU'IL Y A DANS MON ASSIETTE, c'est promis que personne n’aura à donner sa langue au chat puisque c’est vous qui êtes déjà en train de manger la sienne !
 
@@ -90,9 +87,8 @@ Ce qui est surprenant également c’est le nombre de constats d’infractions q
 
 Donc, en conclusion, la prochaine fois que vous aurez une fringale pour du chinois, essayez plutôt chez l’italien, c'est plus sûr !
 
-![](  /content/images/2005/01/Explo_-_Photo_Titre.jpg)
-
-![](  /content/images/2005/01/Explo_-_ecrivez-moi.jpg)
+![](/content/images/2005/01/Explo_-_Photo_Titre.jpg)
+![](/content/images/2005/01/Explo_-_ecrivez-moi.jpg)
 
 N'oubliez surtout pas de communiquer avec moi si vous êtes témoin d'une situation particulière, ou si vous avez une nouvelle qui pourrait intéresser nos lecteurs. C'est donc un rendez-vous dans notre prochain numéro!
 

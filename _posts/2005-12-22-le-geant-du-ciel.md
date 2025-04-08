@@ -29,10 +29,8 @@ C'est donc avec une hâte immense, que nous attendons tous le premier envol de c
 
 Les photos que nous vous présentons dans cet article sont des images de synthèse, nous ne pourrons le voir réellement qu'à sa sortie du hangar pour son vol d'essai.
 
-![](  /content/images/2005/01/ah3802.jpg)
-
-![](  /content/images/2005/01/ah3803.jpg)
-
-![](  /content/images/2005/01/LVairport.jpg)
+![](/content/images/2005/01/ah3802.jpg)
+![](/content/images/2005/01/ah3803.jpg)
+![](/content/images/2005/01/LVairport.jpg)
 
 <!--kg-card-end: markdown-->

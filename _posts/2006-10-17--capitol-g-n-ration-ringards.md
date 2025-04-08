@@ -14,7 +14,7 @@ Nous commençons notre reportage sur Ocean Beach, à deux pas du fameux hôtel O
 
 > Ce sont des gens formidables qui soutiennent les positions de notre bon maire. Certes, ils ne donnent pas une très bonne image du touriste idéal à Vice City mais bon, quand vous avez connu toutes les galères, on aime mieux avoir ça. Je reconnais qu'il y a un problème avec eux, c'est tous les déchets qu'ils accumulent sur le terrain de camping avec les canettes de bières vides et les tâches d'huile du camping-car...
 
-![](  /content/images/2005/01/beauf.jpg)
+![](/content/images/2005/01/beauf.jpg)
 
 A Vice City, les prix n'ont pas arrêté de baisser et ont attiré ce type de personnage, amateur de premier prix. Malgré leur portrait peu aguicheur, ils ont le mérite d'avoir relancer l'économie de la ville en arrivant en masse. Ce qui les attirent ? des choses très simples : la plage, les top-models féminins (pour les hommes) et masculins (pour les femmes) et toute l'ambiance Vicienne dont les spectacles du Malibu Club&nbsp;ainsi que&nbsp;tout ce qui n'est pas présent dans un bureau de Liberty City. Pour le directeur de l'Ocean View, ces gens sont une aubaine :
 
@@ -22,13 +22,11 @@ A Vice City, les prix n'ont pas arrêté de baisser et ont attiré ce type de pe
 
 Le directeur pensait avoir des soucis&nbsp;de clientèle&nbsp;à la suite d'un meurtre qu'il y avait eu dans une chambre mais les touristes ne savaient rien de cet événement.
 
-![](  /content/images/2005/01/deaconhotel.jpg)
-
-![Des hôtels appréciés par les touristes bas de gamme...](  /content/images/2005/01/oceanview.jpg)
-
-![](  /content/images/2005/01/topmodel2.jpg)
-
-![...et ce qu'ils aiment.](  /content/images/2005/01/topmodel1.jpg)
+![](/content/images/2005/01/deaconhotel.jpg)
+![Des hôtels appréciés par les touristes bas de gamme...](/content/images/2005/01/oceanview.jpg)
+_Des hôtels appréciés par les touristes bas de gamme..._[](/content/images/2005/01/topmodel2.jpg)
+![...et ce qu'ils aiment.](/content/images/2005/01/topmodel1.jpg)
+_...et ce qu'ils aiment._
 
 Voulant à tout prix savoir comment ces gens pouvaient relancer la croissance d'une ville, nous avons décidé de suivre une famille qui n'a pas voulu se montrer pour cause de paranoïa : ces derniers pensaient que nous étions de la NSA. Bref, nous appellerons le plus ringard de tous, Josh. Il est 8h00 du matin quand Josh se lève, arborant un magnifique caleçon que la marque Chevrolet lui a donné. "Walker !&nbsp;Steevy !&nbsp;Réveillez-vous les enfants&nbsp;! Brenda chérie, ça vaut pour toi aussi !" Nous en profitions pour poser une rapide entrevue :
 
@@ -68,10 +66,11 @@ De suite après cette conversation, il nous emmène voir son épave en nous sort
 
 > Ah, si vous saviez... On est allé à Los Santos, Las Venturas... Faites pas attention à la peinture dégueulasse, ni au capot qui manque :&nbsp;j'ai juste buté un enfoiré de sanglier il y 4 ans ! Bon, matez-moi ces deux enceintes son stéréo balançant deux fois 77watts ! Vous pouvez monter mais faites gaffe, je suis passé à l'éléphant bleu il y a deux jours.
 
-![](  /content/images/2005/01/glendaled_gueu.jpg)
+![](/content/images/2005/01/glendaled_gueu.jpg)
 
 Le soir, nous repartons très vite à l'aéroport en refusant poliment l'invitation de la gentille famille au karaoké mais nous vous fournissons au moins la photo qu'elle nous a envoyé sur cette superbe soirée... Néanmoins, malgré les nombreux mauvais côtés de cette catégorie de personnes, cette nouvelle génération de touristes arrive en masse chaque année pour découvrir Vice City et font du bien à l'économie locale malgré le fait qu'ils peuvent parfois être très rapiat.
 
-![Le karaoké du Malibu Club, lieu de rendez-vous incontournable de tous les ringards (Vous pouvez voir l'ami Josh déguisé en motard).](  /content/images/2005/01/karaok_.jpg)
+![Le karaoké du Malibu Club, lieu de rendez-vous incontournable de tous les ringards (Vous pouvez voir l'ami Josh déguisé en motard).](/content/images/2005/01/karaok_.jpg)
+_Le karaoké du Malibu Club, lieu de rendez-vous incontournable de tous les ringards (Vous pouvez voir l'ami Josh déguisé en motard)._
 
 <!--kg-card-end: markdown-->

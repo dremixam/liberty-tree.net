@@ -12,7 +12,8 @@ _Los Santos, l'une des plus grandes villes du pays, représente très bien la vi
 
 Nous nous penchons ici plus précisément sur la luxure, connaissant une très forte hausse depuis 2004.
 
-![Le Vanilla Unicorn.](  /content/images/2016/06/6.jpg)
+![Le Vanilla Unicorn.](/content/images/2016/06/6.jpg)
+_Le Vanilla Unicorn._
 
 En effet, le principal club de strip-tease de la ville, le Vanilla Unicorn, voit son chiffre d'affaires grimper en flèche depuis septembre 2013 car l'augmentation de clients vicieux est exponentielle.
 
@@ -30,7 +31,8 @@ Nous nous sommes rendus sur les lieux et avons pu nous entretenir avec le géran
 > 
 > **LH :** Bon, j'ai répondu à assez de questions comme ça, vous n'êtes pas de la police hein ? Parce qu'elles ont toutes leurs papiers !
 
-![Photo exclusive de l'intérieur du Vanilla Unicorn.](  /content/images/2016/06/6_2.jpg)
+![Photo exclusive de l'intérieur du Vanilla Unicorn.](/content/images/2016/06/6_2.jpg)
+_Photo exclusive de l'intérieur du Vanilla Unicorn._
 
 Malheureusement, les lapdances, cocktails et autres voyeurismes ne sont pas les seules activités sexuelles lucratives à LS.
 
@@ -38,9 +40,8 @@ La prostitution, elle aussi, ne fait qu'augmenter : le nombre de prostituées ar
 
 > Rien que la semaine dernière, j'ai arrêté 17 putes ayant de 18 à 53 ans, j'les ai ramenées au poste, et là c'est toujours la même chose : Elles insultent, elles demandent une dose, puis elles disent quelque chose dans une autre langue que je ne comprends pas. Carls', café !
 
-![Kim, prostituée](  /content/images/2016/06/6_1.jpg)
-
-![Amandine, prostituée](  /content/images/2016/06/6_4.jpg)
+![Kim, prostituée](/content/images/2016/06/6_1.jpg)
+_Kim, prostituée_[Amandine, prostituée](/content/images/2016/06/6_4.jpg)
 
 Dans les rues noires sous la lune de LS, nous sommes allés à la rencontre de deux prostituées, Kim, 23 ans et Amandine, 19 ans :
 

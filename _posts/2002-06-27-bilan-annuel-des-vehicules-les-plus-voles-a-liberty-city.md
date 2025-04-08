@@ -8,7 +8,7 @@ tags:
 - liberty-city
 ---
 
-A Liberty City, comme dans beaucoup d'autre grande ville, le vol de voiture est au quotidien. Cette année pas loin de 20 000 voitures ont été volées, aussi bien à l'arrêt qu'à l'arrachée (ndrc: cf article "[Le car-jacking est aujourd'hui devenu un sport national](  /2002/04/30/le-car-jacking-est-aujourdhui-devenu-un-sport-national/)"). Photo ci-dessus.
+A Liberty City, comme dans beaucoup d'autre grande ville, le vol de voiture est au quotidien. Cette année pas loin de 20 000 voitures ont été volées, aussi bien à l'arrêt qu'à l'arrachée (ndrc: cf article "[Le car-jacking est aujourd'hui devenu un sport national](/2002/04/30/le-car-jacking-est-aujourdhui-devenu-un-sport-national/)"). Photo ci-dessus.
 
 D'après la police on compte le plus grand nombre de vols sur l'île de Staunton
 

@@ -17,12 +17,9 @@ Ce système est en ce moment même en période de test dans Portland. Mais écou
 
 Les premiers chiffres devraient arriver d'ici un mois pour le quartier de Portland. Si les tests sont concluants, le système de vidéosurveillance devrait s'étendre sur tout Liberty-City.
 
-![](  /content/images/2016/07/cam.jpg)
-
-![](  /content/images/2016/07/cam2.jpg)
-
-![](  /content/images/2016/07/cam3.jpg)
-
-![](  /content/images/2016/07/cam4.jpg)
+![](/content/images/2016/07/cam.jpg)
+![](/content/images/2016/07/cam2.jpg)
+![](/content/images/2016/07/cam3.jpg)
+![](/content/images/2016/07/cam4.jpg)
 
 <!--kg-card-end: markdown-->

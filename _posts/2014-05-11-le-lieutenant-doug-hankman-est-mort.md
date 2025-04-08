@@ -14,7 +14,7 @@ Hier matin, sur les coups de quatre heures, une fusillade a éclaté entre deux 
 
 En effet, un règlement de compte armé éclate dans le quartier de Davis. Le lieutenant Doug Hankman fait partie de l'équipe se rendant sur place afin de neutraliser les gangsters. Au bout d'une dizaine de minutes de rixe carabinée, le lieutenant Hankman est touché en pleine poitrine. Les secours arrivent mais le lieutenant meurt en arrivant à l'hôpital.
 
-![](  /content/images/2016/06/24_1.jpg)
+![](/content/images/2016/06/24_1.jpg)
 
 Nous avons recueilli quelques témoignages de membres de gangs concernant le drame :
 
@@ -28,7 +28,7 @@ Nous avons recueilli quelques témoignages de membres de gangs concernant le dra
 
 Selon un sondage, 98 % des habitants de quartiers sensibles de LS considèrent que la mort du lieutenant Hankman est une bonne nouvelle.
 
-![](  /content/images/2016/06/24_2.jpg)
+![](/content/images/2016/06/24_2.jpg)
 
 Nous nous sommes ensuite rendus au commissariat de Los Santos dans lequel nous avons interrogé des collègues du lieutenant Hankman :
 
@@ -38,23 +38,23 @@ Nous nous sommes ensuite rendus au commissariat de Los Santos dans lequel nous a
 
 La peine de la police de Los Santos est donc intense, et on la comprend... Le lieutenant Hankman avait beaucoup témoigné pour nous, le Liberty Tree, nous lui rendons donc hommage en citant les articles dans lesquels il apparaît :
 
-- [Un homme invincible détruit tout sur son passage](  /2014/01/04/un-homme-invincible-detruit-tout-sur-son-passage/)
+- [Un homme invincible détruit tout sur son passage](/2014/01/04/un-homme-invincible-detruit-tout-sur-son-passage/)
 
-- [La luxure à Los Santos](  /2014/02/20/la-luxure-a-los-santos/)
+- [La luxure à Los Santos](/2014/02/20/la-luxure-a-los-santos/)
 
-- [L'orgeuil à Los Santos](  /2014/03/08/lorgueil-a-los-santos/)
+- [L'orgeuil à Los Santos](/2014/03/08/lorgueil-a-los-santos/)
 
-- [La colère à Los Santos](  /2014/03/11/la-colere-a-los-santos/)
+- [La colère à Los Santos](/2014/03/11/la-colere-a-los-santos/)
 
-- [Un avion perdu dans les air](  /2014/03/22/un-avion-perdu-dans-les-airs/)
+- [Un avion perdu dans les air](/2014/03/22/un-avion-perdu-dans-les-airs/)
 
-- [La police lance une opération coup de poing](  /2014/03/23/la-police-lance-une-operation-coup-de-poing/)
+- [La police lance une opération coup de poing](/2014/03/23/la-police-lance-une-operation-coup-de-poing/)
 
-- [Les recherches pour retrouver le Beoing 666 s'accélèrent](  /2014/04/05/les-recherches-pour-retrouver-le-beoing-666-saccelerent/)
+- [Les recherches pour retrouver le Beoing 666 s'accélèrent](/2014/04/05/les-recherches-pour-retrouver-le-beoing-666-saccelerent/)
 
-- [Des gens du voyage ont pour destination la prison](  /2014/04/06/des--gens-du-voyage--ont-pour-destination-la-prison/)
+- [Des gens du voyage ont pour destination la prison](/2014/04/06/des--gens-du-voyage--ont-pour-destination-la-prison/)
 
-- [Quand la provocation n'a plus de limite](  /2014/04/18/quand-la-provocation-na-plus-de-limites/)
+- [Quand la provocation n'a plus de limite](/2014/04/18/quand-la-provocation-na-plus-de-limites/)
 
 Les membres de gang présents au moment du drame se sont tous enfuis et n'ont pas été retrouvés par les forces de l'ordre. Enfin, il reste important de noter que la balle reçue par Hankman provenait du même pistolet que celui que possède chaque agent de police... Affaire à suivre ?
 

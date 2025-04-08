@@ -17,7 +17,7 @@ Et c'est parti, on prend une graaaande inspiration, on dégaine son index et on 
 Le temps de sauter dans la voiture et d'avaler les 40 km qui me séparent de la scène, quelque part dans la cambrousse de Blaine County, l'aube se lève. Ce retour chez les bouseux me rappelle de mauvais souvenirs... M'enfin bon, j'suis pas là pour ça. Je vais faire mon boulot consciencieusement et... Ah, on dirait que j'arrive.  
 En effet, j'ai l'impression que ce bonhomme s'est endormi au volant. La route rejoignant la rivière décrit une courbe avant de l'enjamber via un pont. Le problème est que le semi-remorque que je vois maintenant barboter avec les truites est allé tout droit. Étrangement, aucune trace du chauffeur dont la cabine dépasse pourtant de l'eau.
 
-![](  /content/images/2016/06/0_0%20%2819%29_0.jpg)
+![](/content/images/2016/06/0_0%20%2819%29_0.jpg)
 
 À peine le temps de sortir mon appareil et de prendre une première photo qu'une sirène déchire l'air matinal comme les braillements d'un nouveau-né.
 
@@ -26,7 +26,8 @@ Je me disais aussi qu'on manquait d'epicness dans les services de secours de la 
 
 Le conducteur s'est rendu compte trop tard que la pente vers la rivière était particulièrement raide. Bon, il a eu le réflexe de mettre un grand coup de volant, mais il a tout de même réussi à planter son camion. Désolé mais la tentation est trop forte pour moi.
 
-![C'est mal de se moquer de ceux qui nous sauvent la vie tous les jours.](  /content/images/2016/06/0_0%20%2818%29_1.jpg)
+![C'est mal de se moquer de ceux qui nous sauvent la vie tous les jours.](/content/images/2016/06/0_0%20%2818%29_1.jpg)
+_C'est mal de se moquer de ceux qui nous sauvent la vie tous les jours._
 
 Plus de peur que de mal apparemment. Les sapeurs s'extraient de leur nouvelle épave et passent un coup de fil. De là où je me tiens, je crois comprendre qu'ils appellent leurs collègues à la rescousse.
 
@@ -42,7 +43,7 @@ Dans l'heure qui suit, les pompiers s'occupent de sécuriser la carcasse du semi
 
 Et en effet, la portière côté conducteur est criblée de balles. Un gros calibre d'ailleurs.
 
-![](  /content/images/2016/06/0_0%20%2815%29_3.jpg)
+![](/content/images/2016/06/0_0%20%2815%29_3.jpg)
 
 > **Ié :** Si vous voulez mon avis, j'pense que quelqu'un savait ce que transportait c'camion et qu'il a voulu se l'approprier. Mais de là à aller descendre ce pauv' type et à faire disparaître le corps, c'est que ça devait être du sérieux. Franchement, on dirait du calibre 8, vu les impacts, ce calibre de chasse est interdit depuis plus de 20 ans !
 > 
@@ -58,13 +59,15 @@ Alors que les pompiers tentent de déplacer la carcasse du 38 t, une berline gri
 
 L'employeur et son avocat s'éloigne de quelques pas et discutent vivement, sans que je puisse comprendre exactement ce qu'il se dit. Chacun se saisit ensuite de son téléphone et pianote furieusement.
 
-![L'employeur et son avocat.](  /content/images/2016/06/0_0%20%2817%29_1.jpg)
+![L'employeur et son avocat.](/content/images/2016/06/0_0%20%2817%29_1.jpg)
+_L'employeur et son avocat._
 
 Tout ça est très bien, mais je viens de penser que je n'ai pas nourri Attila en partant ce matin. Oui, Attila c'est mon chat, un petit jeune de quatre mois que ma tante Cunégonde m'a donné après que sa chatte ait accouché en mars. Je ne vous raconte pas les blagues salaces pendant les repas de famille - attendez, qu'est-ce que je suis en train de raconter dans mon article ?
 
 Je pense qu'il est temps d'abréger. Après une dernière photo de la scène, je reprends le volant et prends la direction de Los Santos, histoire de laisser les autorités incompétentes cogiter sur ce cas.
 
-![Vue globale de la scène.](  /content/images/2016/06/0_0%20%2820%29_1.jpg)
+![Vue globale de la scène.](/content/images/2016/06/0_0%20%2820%29_1.jpg)
+_Vue globale de la scène._
 
 > Coucou toi ! Ouh c'est un gentil chaton ça ! Ouh c'est un gentil chaton, eh ?
 

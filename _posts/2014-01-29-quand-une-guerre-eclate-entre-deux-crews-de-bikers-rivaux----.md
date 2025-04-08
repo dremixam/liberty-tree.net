@@ -16,13 +16,13 @@ Ainsi, les Hellraiser auraient donc attaqué ouvertement un membre des Hammer of
 
 ## Les Hammer of Anarchy, un crew encore récent qui veut se défendre
 
-![](  /content/images/2016/06/0_0_133.jpg)
-
-![Plusieurs membres bien actifs de ce crew](  /content/images/2016/06/0_0_134.jpg)
+![](/content/images/2016/06/0_0_133.jpg)
+![Plusieurs membres bien actifs de ce crew](/content/images/2016/06/0_0_134.jpg)
+_Plusieurs membres bien actifs de ce crew_
 
 Il s'agit en fait apparemment d'un crew originaire de Liberty City venu s'installer dans la région de Los Santos assez récemment, ce qui pourrait expliquer que les Hellraiser les aient pris pour cible. Seulement, contrairement à ces derniers, il s'agit d'un crew de nature plutôt pacifique (lorsque l'on ne leur déclare pas la guerre bien évidemment). En effet, ses membres se sont rejoints pour partager leur passion commune pour les motos de type Hexer et Daemon, ainsi que la fierté de porter un blouson de cuir. Pour l'instant, ils ne sont pas encore allés brûler vifs d'autres motards juste pour le fun, ou du moins ça n'a pas fait la une des journaux...
 
-![](  /content/images/2016/06/0_0_135.jpg)
+![](/content/images/2016/06/0_0_135.jpg)
 
 Leur leader, John "Redwood" Nelson, a bien voulu nous dire quelques mots:
 
@@ -36,9 +36,8 @@ D'un côté comme de l'autre, aucun chef de crew ne semble enclin à faire le mo
 
 C'est parce qu'ils sont plus nombreux et plus anciens dans la région qu'ils croient pouvoir éliminer tous leurs rivaux, mais ils semblent ignorer que l'anarchie ne peut jamais durer bien longtemps et qu'un beau jour ils mourront tous, de la même façon qu'ils ont infligé la mort à leurs ennemis.
 
-![](  /content/images/2016/06/0_0_136.jpg)
-
-![](  /content/images/2016/06/0_0_137.jpg)
+![](/content/images/2016/06/0_0_136.jpg)
+![](/content/images/2016/06/0_0_137.jpg)
 
 Tout comme les Hammer of Anarchy, les Hellraisers se regroupent souvent dans le bar du désert. D'ailleurs, amis lecteurs, évitez à l'avenir de vous promener par là si vous ne voulez pas recevoir une balle perdue...  
 Le leader du crew, Kurt Warner, nous a déclaré ceci:
@@ -47,7 +46,7 @@ Le leader du crew, Kurt Warner, nous a déclaré ceci:
 
 Et c'est ce que nous pouvons constaté en effet. Ce Kurt a récemment achevé une pauvre jeune femme issue d'un autre crew encore, comme vous pouvez le voir en image.
 
-![](  /content/images/2016/06/0_0_138.jpg)
+![](/content/images/2016/06/0_0_138.jpg)
 
 Si les autorités ne parviennent pas rapidement à calmer ces crews en colère, je n'ai qu'une chose à dire: Hey les amis, peace and love !
 

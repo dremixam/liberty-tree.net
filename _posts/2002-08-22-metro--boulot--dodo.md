@@ -31,20 +31,13 @@ Devant l'aide que nous lui avons fourni, la police a été obligé de nous accor
 
 Nous avons brusquement dû couper l'entrevue, mais voici justement les photos en question:
 
-![](  /content/images/v1/user0/Metro1.jpg)
-
-![](  /content/images/v1/user0/Metro2.jpg)
-
-![](  /content/images/v1/user0/Metro3.jpg)
-
-![](  /content/images/v1/user0/Metro5.jpg)
-
-![](  /content/images/v1/user0/Metro6.jpg)
-
-![](  /content/images/v1/user0/Metro7.jpg)
-
-![](  /content/images/v1/user0/Metro8.jpg)
-
-![](  /content/images/v1/user0/Metro9.jpg)
+![](/content/images/v1/user0/Metro1.jpg)
+![](/content/images/v1/user0/Metro2.jpg)
+![](/content/images/v1/user0/Metro3.jpg)
+![](/content/images/v1/user0/Metro5.jpg)
+![](/content/images/v1/user0/Metro6.jpg)
+![](/content/images/v1/user0/Metro7.jpg)
+![](/content/images/v1/user0/Metro8.jpg)
+![](/content/images/v1/user0/Metro9.jpg)
 
 <!--kg-card-end: markdown-->

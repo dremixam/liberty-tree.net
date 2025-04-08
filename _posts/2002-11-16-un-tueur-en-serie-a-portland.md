@@ -17,18 +17,13 @@ Le FBI, interrogé, ne juge pas la situation assez critique pour intervenir, en 
 
 La police, en réponse à une certaine peur qui s'instaure dans les rues de Portland, a décidé d'augmenter le nombre et la fréquence des patrouilles sur l’île, ces patrouilles auront l'ordre de tirer sur toutes les personnes ayant un fusil à lunette sur elles. Espérons seulement que ces mesures ne seront pas vaines.
 
-[Nouvel assassinat à Portland](  /2002/11/15/nouvel-assassinat-a-portland/)
+[Nouvel assassinat à Portland](/2002/11/15/nouvel-assassinat-a-portland/)
 
-[Une prostitué assassinée à Portland](  /2002/11/13/une-prostitue-assassinee-a-portland/0)
-
-![](  /content/images/v1/user21/portland_c_1.jpg)
-
-![](  /content/images/v1/user21/portland_c_2.jpg)
-
-![](  /content/images/v1/user21/portland_c_3.jpg)
-
-![](  /content/images/v1/user21/portland_c_4.jpg)
-
-![](  /content/images/v1/user21/portland_c_5.jpg)
+[Une prostitué assassinée à Portland](/2002/11/13/une-prostitue-assassinee-a-portland/0)
+![](/content/images/v1/user21/portland_c_1.jpg)
+![](/content/images/v1/user21/portland_c_2.jpg)
+![](/content/images/v1/user21/portland_c_3.jpg)
+![](/content/images/v1/user21/portland_c_4.jpg)
+![](/content/images/v1/user21/portland_c_5.jpg)
 
 <!--kg-card-end: markdown-->

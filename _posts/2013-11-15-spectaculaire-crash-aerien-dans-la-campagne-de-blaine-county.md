@@ -16,10 +16,12 @@ Pour le bien de l'industrie touristique de Los Santos, il n'en fut rien. Le pilo
 
 > Bon dieu d'bois, il s'passe pas grand chose dans not'foutue pampa, mais dès qu'il s'passe un truc, c'est tout de suite du spectacle pour tout l'mois ! Ah pour sûr que j'l'ai vu plonger, l'avion ! Il fumait pire que le tracteur au vieux George avant d's'écraser sur mes terres ! J'ai fait une photo souvenir, pis j'ai appelé le 911. Le pauvre pilote était déjà mort dans son cockpit, mais l'autre gus d'la ville là, il était étalé en dehors de l'appareil avec un beau trou rouge dans la tête. Vous trouvez pas ça bizarre, mon gars ?
 
-![Le Shamal, quelques instants après le crash, la dépouille de Javier Madrazo au premier plan.](  /content/images/2016/06/20131112_171223%20%28Medium%29.jpg)
+![Le Shamal, quelques instants après le crash, la dépouille de Javier Madrazo au premier plan.](/content/images/2016/06/20131112_171223%20%28Medium%29.jpg)
+_Le Shamal, quelques instants après le crash, la dépouille de Javier Madrazo au premier plan._
 
 Et Lenny avait raison. Si Michael Thornes, le pilote du Shamal, était bien mort lors de l'atterrissage forcé, il en va d'une toute autre histoire pour Javier Madrazo. Son corps a été retrouvé à quelques mètres seulement de la carlingue en flammes, une balle entre les deux yeux. Des témoins auraient vu un homme s'enfuir de la scène sur une Sanchez verte, une petite valise en cuir à la main. A l'heure où vous lisez ces lignes, le LSPD mène l'enquête sur les circonstances encore troubles de cet accident, et surtout, ce qui est réellement arrivé à Javier Madrazo. Aucun communiqué officiel n'a encore été annoncé, mais la thèse de l'assassinat commandité serait en effet privilégiée par les enquêteurs en charge de l'affaire. Par ailleurs, la carcasse calcinée d'une fourgonnette fut retrouvée dans un canyon de Vinewood, un fusil de précision équipé d'une lunette de visée longue portée se trouvait à l'intérieur. Il est cependant encore trop tôt pour savoir s'il existe, ou non, un lien avec l'accident du jet privé d'Air Emu.
 
-![Javier Madrazo, photo d'archive.](  /content/images/2016/06/JavierMadrazo-GTA5%20%281%29.png)
+![Javier Madrazo, photo d'archive.](/content/images/2016/06/JavierMadrazo-GTA5%20%281%29.png)
+_Javier Madrazo, photo d'archive._
 
 <!--kg-card-end: markdown-->

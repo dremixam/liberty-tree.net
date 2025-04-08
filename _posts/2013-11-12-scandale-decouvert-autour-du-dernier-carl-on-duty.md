@@ -12,7 +12,8 @@ La licence Carl On Duty, phénomène du jeu vidéo acclamé par des foules de pr
 
 En effet il semblerait que les éditeurs vendraient chaque année le même jeu, sans que personne ne s'en rende compte.
 
-![Vous incarnez Carl, sauveteur de la planète.](  /content/images/2016/06/GTAIV%202013-11-12%2022-04-37-95.png)
+![Vous incarnez Carl, sauveteur de la planète.](/content/images/2016/06/GTAIV%202013-11-12%2022-04-37-95.png)
+_Vous incarnez Carl, sauveteur de la planète._
 
 ## **Les faits**
 
@@ -20,7 +21,8 @@ Le scandale a éclos lors des premières remontées de certains joueurs. Alors q
 
 C'est donc après une heure de lutte interminable contre des ressortissants chinois du Moyen-Orient que l'on peut accéder à la cinématique de fin et surprise il semblerait que la fin utilisée dans le dernier opus soit identique à toutes les fins précédentes, inconcevable d'après les communautés de joueurs, fumisterie selon le développeur.
 
-![Extrait de la fameuse scène de fin.](  /content/images/2016/06/GTAIV%202013-11-12%2022-03-06-76.png)
+![Extrait de la fameuse scène de fin.](/content/images/2016/06/GTAIV%202013-11-12%2022-03-06-76.png)
+_Extrait de la fameuse scène de fin._
 
 ## **L'avis des experts**
 

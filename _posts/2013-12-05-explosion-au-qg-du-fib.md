@@ -10,17 +10,16 @@ tags:
 
 D'habitude désert après les heures de travail, le quartier des affaires de Los Santos a été particulièrement agité hier en fin de soirée. En effet, vers 22 h, un violent incendie se déclare au 45ème étage du bâtiment fédéral abritant les bureaux du FIB. En un clin d’œil, le LSPD sécurise le quartier et les pompiers arrivent dans les secondes qui suivent.
 
-![](  /content/images/2016/06/0_0_35.jpg)
-
-![Le 45ème étage en feu et l'équipe de Smokey juste avant l'assaut.](  /content/images/2016/06/0_0%20%283%29_0.jpg)
+![](/content/images/2016/06/0_0_35.jpg)
+![Le 45ème étage en feu et l'équipe de Smokey juste avant l'assaut.](/content/images/2016/06/0_0%20%283%29_0.jpg)
+_Le 45ème étage en feu et l'équipe de Smokey juste avant l'assaut._
 
 > Dans ce gratte-ciel se trouvent tous les dossiers du FIB et les rapports sur la sécurité nationale, les enjeux sont énormes, il faut agir au plus vite !
 
 Tels sont les mots de Patrick "Smokey" Robinson, soldat du feu et responsable de l'équipe qui a maîtrisé l'incendie du 45ème étage. Dans la rue, les badauds s'entassent devant le parvis jonché de débris suite à l'explosion des vitres due à l'insoutenable chaleur envahissant les bureaux calcinés du FIB.
 
-![](  /content/images/2016/06/0_0%20%282%29_0.jpg)
-
-![](  /content/images/2016/06/0_0%20%286%29_1.jpg)
+![](/content/images/2016/06/0_0%20%282%29_0.jpg)
+![](/content/images/2016/06/0_0%20%286%29_1.jpg)
 
 > Ça va faire un carton sur ma page LifeInvader, au moins 50 stalks facile !
 
@@ -34,6 +33,6 @@ On pourrait penser à un attentat, à cette époque où notre belle patrie est v
 
 Sous la stupeur générale, le glouton sera conduit au commissariat le plus proche tandis que la police vérifiera ses dires. En tous les cas, une chose est sûre, ces foutus plats cuisinés sont le calvaire de notre société moderne.
 
-![](  /content/images/2016/06/0_0%20%284%29_0.jpg)
+![](/content/images/2016/06/0_0%20%284%29_0.jpg)
 
 <!--kg-card-end: markdown-->

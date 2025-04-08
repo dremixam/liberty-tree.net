@@ -12,11 +12,12 @@ _1967 : Pablito Picassé ,un artiste expressionniste, sculpte une statue qui fai
 
 L'artiste Pablito Picassé naît en 1926 en Espagne à Madrid et suivra des études dans l'école des Beaux-Arts de Malaga puis, lors de la seconde guerre mondiale, il se réfugiera en Amérique Centrale et en 1943 très jeune et pourtant talentueux , il peindra "Guernik-A" où l'on peut y voir le massacre d'un village espagnol par la "légion condor" allemande... Un des tableaux les plus connus de ses œuvres.
 
-![La fameuse statue "l'homme à la main"](  /content/images/2005/01/mas.jpg)
+![La fameuse statue "l'homme à la main"](/content/images/2005/01/mas.jpg)
+_La fameuse statue "l'homme à la main"_
 
 C'est lors d'un concours en 1967, se déroulant sur la côte Ouest des États-Unis, dans notre belle ville de Los Santos, ayant pour seul thème "la provocation" que l'artiste montrera encore son originalité avec une sculpture nommée " l'homme à la main". Il remportera le premier prix et fera don de la statue à la ville.
 
-![](  /content/images/2005/01/mas2.jpg)
+![](/content/images/2005/01/mas2.jpg)
 
 Aujourd'hui l’œuvre est encore exposée à Los Santos, ce qui pose apparemment problème à la communauté Catholique de San Andreas qui lors d'une visite dernièrement ,aurait aperçu cette œuvre et aurait tout de suite fait part de son mécontentement auprès de la mairie de la ville. Puis ayant eu vent de cette affaire, l'A.P.P.J. (l'Association des Parents Protecteurs de la Jeunesse) se serait jointe aux protestations des catholiques, en déclarant vouloir détruire cette œuvre non-catholique sous peines de bloquer les voies routières de Los Santos dans les prochains jours en manifestant.
 

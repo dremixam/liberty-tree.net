@@ -10,9 +10,9 @@ C'était un jour ensoleillé et paisible, une société offrait comme chaque jou
 
 L'hélico survole le désert depuis quelques minutes seulement et un missile anti-aérien viens frapper l'appareil celui-ci tient quelques secondes avant de s'écraser vers The Big Ear tuant 10 passagers.
 
-![](  /content/images/2016/07/crash1_cyka_t.jpg)
-
-![L'hélicoptère quelques minutes après l'accident.](  /content/images/2016/07/crash2_cyka_t.jpg)
+![](/content/images/2016/07/crash1_cyka_t.jpg)
+![L'hélicoptère quelques minutes après l'accident.](/content/images/2016/07/crash2_cyka_t.jpg)
+_L'hélicoptère quelques minutes après l'accident._
 
 Les secours sont vite avertis mais il n'y a plus qu'un seul survivant, le pilote. Les familles sont rapidement alertées, l'armée présente ses excuses et présente sa version des faits:
 
@@ -26,9 +26,9 @@ Liberty-Tree: Mais est-ce qu'il survolait la zone 69?
 
 Témoin: Ben non, si j'étais en haut de Octane Springs et qu'il était en l'air un peu plus au sud, y volait pô au dessus de l'armée...
 
-![](  /content/images/2016/07/tourelle2_cyka_t.jpg)
-
-![Le type de tourelles qui ont abattues l'engin.](  /content/images/2016/07/tourelle1_cyka_t.jpg)
+![](/content/images/2016/07/tourelle2_cyka_t.jpg)
+![Le type de tourelles qui ont abattues l'engin.](/content/images/2016/07/tourelle1_cyka_t.jpg)
+_Le type de tourelles qui ont abattues l'engin._
 
 Le témoignages d'une autre dizaine de personnes est pratiquement identique. Mais l'armée ne veut pas reconnaître une éventuelle défaillance technique ou une faute d'un militaire. Nous avons ainsi pu rencontrer en secret un militaire présent dans la salle de contrôle, pour son anonymat nous changerons son nom.
 
@@ -40,15 +40,15 @@ Liberty-Tree: C'est à dire?
 
 Grey: Il a pointé son arme et a menacé de tirer, devant l'entêtement des soldats il l'a fait lui même.
 
-![](  /content/images/2016/07/lieu1_cyka_t.jpg)
-
-![Le petite village ou nous avons rencontré Grey.](  /content/images/2016/07/lieu2_cyka_t.jpg)
+![](/content/images/2016/07/lieu1_cyka_t.jpg)
+![Le petite village ou nous avons rencontré Grey.](/content/images/2016/07/lieu2_cyka_t.jpg)
+_Le petite village ou nous avons rencontré Grey._
 
 Cette version est effectivement troublante, ce militaire est maintenant caché de peur de représailles, son témoignage a été entendu par le gouverneur, et des sanctions seront "peut-être" prises par ce dernier à l'encontre du chef de la sécurité de la Zone 69.
 
-![](  /content/images/2016/07/salle1_cyka_t.jpg)
-
-![La salle de contrôle de la zone 69.](  /content/images/2016/07/salle2_cyka_t.jpg)
+![](/content/images/2016/07/salle1_cyka_t.jpg)
+![La salle de contrôle de la zone 69.](/content/images/2016/07/salle2_cyka_t.jpg)
+_La salle de contrôle de la zone 69._
 
 Mais rien n'explique pourquoi un simple hélicoptère de tourisme a été abattu volontairement, un homme au courant de choses gênantes dans l'appareil ? En regardant la liste des passagers on ne découvre que des simples employés de bureau au passé simple, il faut croire que que l'homme était fou, l'Etat Major a déjà entamé son enquête.
 

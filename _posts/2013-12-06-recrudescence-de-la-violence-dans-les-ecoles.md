@@ -10,7 +10,8 @@ tags:
 
 L'université de Los Santos, San Andreas (ULSA) est l'une des plus réputées d'Amérique. Elle a formé de nombreux hommes et femmes célèbres du pays et est connue pour son équipe de football américain, l'une des meilleures du championnat universitaire. Hélas, tout n'est pas tout à fait aussi rose que tout le monde le pense.
 
-![L'université de Los Santos, San Andreas.](  /content/images/2016/06/Violence.jpg)
+![L'université de Los Santos, San Andreas.](/content/images/2016/06/Violence.jpg)
+_L'université de Los Santos, San Andreas._
 
 En effet, une histoire assez particulière secoue le lycée, plus particulièrement secoue quelques élèves. Dans une classe de Terminale, composée majoritairement de filles, la tension est à son comble. Les problèmes sont causés par des histoires toutes bêtes, qui s'aggravent au fil du temps. Dernier problème en date : une élève poussée dans les escaliers par une autre. Nous avons rencontré la jeune fille qui s'en est prise à sa camarade.
 
@@ -18,7 +19,8 @@ En effet, une histoire assez particulière secoue le lycée, plus particulièrem
 
 Vous voyez, vraiment des histoires pour trois fois rien. A noter que ce n'est pas la première fois qu'il se passe des incidents dans cette classe. En effet, c'est la quatrième fois depuis la rentrée de septembre que des élèves de cette classe sont convoquées chez le proviseur. Le record cette année.
 
-![L'étudiante coupable de violences.](  /content/images/2016/06/Violence1.jpg)
+![L'étudiante coupable de violences.](/content/images/2016/06/Violence1.jpg)
+_L'étudiante coupable de violences._
 
 De leur côté, les professeurs sont impuissants face à de tels accès de violences, verbales ou physiques, qui se produisent parfois même en plein cours. Dennis Harper et Madison Wright, témoins de ces violences, témoignent :
 
@@ -26,7 +28,8 @@ De leur côté, les professeurs sont impuissants face à de tels accès de viole
 > 
 > **Madison Wright :** \* Dans mon cours c'était limite la Guerre Froide. Deux clans de part et d'autre de la classe, avec des mots violents qui volaient à travers la salle... Très difficile d'être au milieu. C'était vraiment à deux doigts d'éclater, et dès que la sonnerie a retenti, tout le monde est sorti et deux filles se sont battues dans le couloir.
 
-![M. Harper et Mme Wright.](  /content/images/2016/06/Violence2.jpg)
+![M. Harper et Mme Wright.](/content/images/2016/06/Violence2.jpg)
+_M. Harper et Mme Wright._
 
 Chez les plus jeunes aussi, la violence est très présente. Du côté de la Davis High School, ce sont plus les adolescents qui s'en prennent aux plus jeunes. Le proviseur a reçu pas moins d'une trentaine d'élèves différents dans son bureau depuis le mois de septembre.
 
@@ -36,7 +39,8 @@ Cette montée de violence est vraiment préoccupante, d'autant plus que les conf
 
 > Espèce d'enculé d'ta race ! Va te faire sucer par ta putain de mère ! Fils de pute !
 
-![Jimmy, adolescent difficile.](  /content/images/2016/06/Violence3.jpg)
+![Jimmy, adolescent difficile.](/content/images/2016/06/Violence3.jpg)
+_Jimmy, adolescent difficile._
 
 Reste à espérer que ce n'est qu'une mauvaise période, et que l'arrivée des fêtes de fin d'année va calmer les adolescents les plus turbulents...
 

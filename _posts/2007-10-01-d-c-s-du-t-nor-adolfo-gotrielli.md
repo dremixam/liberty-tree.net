@@ -11,7 +11,8 @@ C'est une grande perte dans l'histoire du show-business ...
 
 "Son cœur a explosé et chaque petit morceau de ventricule restera dans notre cœur"&nbsp; a déclaré Silvestro Gadieri , son agent ...
 
-![Gotrielli en ballade avant de mourir](  /content/images/2005/01/got1.jpg)
+![Gotrielli en ballade avant de mourir](/content/images/2005/01/got1.jpg)
+_Gotrielli en ballade avant de mourir_
 
 Retour sur une vie pleine de péripéties :
 
@@ -49,7 +50,8 @@ Le père d'Adolfo, Pietro Gotrielli décède d'un cancer de la rate ... Un coup 
 
 Adolfo tente le même exploit dix ans après, jour pour jour, au Caligula Palace de Las Venturas, 257.000 personnes dans le public !
 
-![Le Caligula Palace avec ses enluminures en 1997 (Ce dernier a été rénové en 1999)](  /content/images/2005/01/got2.jpg)
+![Le Caligula Palace avec ses enluminures en 1997 (Ce dernier a été rénové en 1999)](/content/images/2005/01/got2.jpg)
+_Le Caligula Palace avec ses enluminures en 1997 (Ce dernier a été rénové en 1999)_
 
 **29 septembre 2007 :**
 

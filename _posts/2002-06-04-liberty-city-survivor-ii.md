@@ -9,7 +9,7 @@ tags:
 
 Résumé des 15 premiers jours des lofteurs...
 
-Et après [la présentation des participants](  /2002/06/04/liberty-city-survivor-i/), voici le résumé de l'émission la plus débile et la plus regardée de Liberty City, j'ai nommé Liberty City Survivor:
+Et après [la présentation des participants](/2002/06/04/liberty-city-survivor-i/), voici le résumé de l'émission la plus débile et la plus regardée de Liberty City, j'ai nommé Liberty City Survivor:
 
 ## 1er jour:
 

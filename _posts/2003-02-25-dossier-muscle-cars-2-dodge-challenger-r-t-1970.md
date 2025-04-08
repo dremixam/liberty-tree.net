@@ -9,7 +9,7 @@ tags:
 
 _La Muscle Car de février est la Dodge Challenger de 1970..._
 
-![](  /content/images/2016/07/Challprev.jpg)
+![](/content/images/2016/07/Challprev.jpg)
 
 Chez Dodge, en 1968, ils construisaient les nouveaux prototypes de la Challenger de 70, et à l'automne 69, Dodge présenta ses premiers "E-Body". La Dodge Challenger utilisait la plate-forme de Plymouth Barracuda.
 
@@ -19,7 +19,7 @@ En effet, le choix de moteurs était exceptionnel, vous pouviez commander votre 
 
 Vous en vouliez plus ? Choisissez l'une des couleurs délirantes, du "Crazy Plum" (Prune Folle), "Panther Pink" (Panthère Rose) à "Go-Mango" (Allez Mangue !) ou "Hemi Orange".
 
-![](  /content/images/2016/07/Chall11.jpg)
+![](/content/images/2016/07/Chall11.jpg)
 
 La Challenger était disponible soit en coupé ' hard-top ' soit en cabriolet.
 
@@ -29,11 +29,9 @@ SE: L'option SE se composait des sièges en cuir et un toit de vinyle avec un pl
 
 R/T: C'était la version "performance", livrée en standard avec le 383 de 335 chevaux, optionnel étaient les deux 440 moteurs, le 440 quadruple corps, et le 440+6 'Six Pack' avec trois carburateurs doubles corps. Le capot possédait deux écopes. L'intérieur était spécial à la R/T, avec un aspect faux bois, de plus un tachymètre et un ampèremètre complétait cette option. Vous disposiez aussi d'un choix entre trois volants différents.
 
-![](  /content/images/2016/07/Chall2.jpg)
-
-![](  /content/images/2016/07/Chall8.jpg)
-
-![](  /content/images/2016/07/Chall3.jpg)
+![](/content/images/2016/07/Chall2.jpg)
+![](/content/images/2016/07/Chall8.jpg)
+![](/content/images/2016/07/Chall3.jpg)
 
 Dans les autres options se trouvaient un rétroviseur central sport, les spoilers, les bandes type "BumbleBee", les bandes sport pour la R/T et la T/A, pour compléter le tout 6 intérieurs différents étaient disponibles.
 
@@ -51,22 +49,14 @@ Le T/A serait seulement disponible au catalogue pendant l'année 1970 car le Dod
 
 Et voici quelques clichés de cette superbe Dodge
 
-![](  /content/images/2016/07/Chall10.jpg)
-
-![](  /content/images/2016/07/Chall11-1.jpg)
-
-![](  /content/images/2016/07/Chall12.jpg)
-
-![](  /content/images/2016/07/Chall13.jpg)
-
-![](  /content/images/2016/07/Chall14.jpg)
-
-![](  /content/images/2016/07/Chall4.jpg)
-
-![](  /content/images/2016/07/Chall5.jpg)
-
-![](  /content/images/2016/07/Chall9.jpg)
-
-![](  /content/images/2016/07/ChallSpeed.jpg)
+![](/content/images/2016/07/Chall10.jpg)
+![](/content/images/2016/07/Chall11-1.jpg)
+![](/content/images/2016/07/Chall12.jpg)
+![](/content/images/2016/07/Chall13.jpg)
+![](/content/images/2016/07/Chall14.jpg)
+![](/content/images/2016/07/Chall4.jpg)
+![](/content/images/2016/07/Chall5.jpg)
+![](/content/images/2016/07/Chall9.jpg)
+![](/content/images/2016/07/ChallSpeed.jpg)
 
 <!--kg-card-end: markdown-->

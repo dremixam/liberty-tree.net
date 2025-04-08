@@ -22,6 +22,7 @@ Alors baptisé Vice Voice, et Installé à Vice City, le succès fut immédiat, 
 
 Aujourd'hui, malgré une petite baisse de régime, le Liberty Tree ne cesse de s'agrandir. Il y a trois mois, Maxou décida de racheter les premiers bureaux du journal, à Liberty City, qu'un incendie d'origine criminelle avait fortement endommagé. Les presses 24 Becker, chères à Pavlov, durent être remplacées, mais alors que les caves du 666 Lower Staunton étaient en pleine réfections, une malle métallique portant le logo du LT fut retrouvée. Après avoir fait sauter l'imposant cadenas, quelle ne fut pas notre surprise en découvrant la totalité des archives de la genèse du journal, que nous croyions disparues à jamais dans les flammes. Ces articles, qui n'étaient pas encore informatisés, doivent être traitées intégralement à la main afin d'être publiés sur le site du journal. Véritable machine à remonter le temps, nous vous offrons la possibilité de consulter ces articles de 2002/2003. Il faudra cependant attendre plusieurs semaines avant que la totalité des archives soit en ligne, le temps de faire avaler toutes ces pages à notre base de données !
 
-![Les bureaux du LT à Liberty City.](  /content/images/2005/01/666lowerstaunton.jpg)
+![Les bureaux du LT à Liberty City.](/content/images/2005/01/666lowerstaunton.jpg)
+_Les bureaux du LT à Liberty City._
 
 <!--kg-card-end: markdown-->

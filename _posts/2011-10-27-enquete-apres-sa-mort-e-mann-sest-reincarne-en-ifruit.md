@@ -22,7 +22,7 @@ Beaucoup croient alors à un canular, mais l'iFruit en question semble vraiment 
 
 Une fois l'interview terminée, l'iFruit mal reposé sur la table basse du salon de Claude M. bascule, tombe dans le vide et se brise en touchant le sol. La conclusion selon laquelle il n'y a rien à faire pour le réanimer fait rapidement l'unanimité lorsqu'un examen rapide révèle l'écran cassé de l'appareil.
 
-![](  /content/images/2021/12/ifruit-broken-1.jpeg)
+![](/content/images/2021/12/ifruit-broken-1.jpeg)
 _Le malheureux iFruit cassé_
 
 Depuis cet événement, de très nombreuses personnes ont prétendu posséder un appareil de marque Fruit dans lequel Jobs se serait réincarné. La véracité de toutes ces affirmation est très difficile à vérifier, il est donc très peu probable que l'on trouve dans quel nouvel appareil révolutionnaire l'iFruit de Claude M. s'est réincarné après cette mort tragique.

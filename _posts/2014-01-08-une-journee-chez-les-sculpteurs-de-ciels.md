@@ -38,9 +38,9 @@ Jorge me les présente rapidement :
 
 Les présentations faites, le hangar est ouvert et chacun se dirige vers son petit bijou. Quelques minutes plus tard, tous sont alignés devant le bâtiment, prêts se placer pour le décollage.
 
-![](  /content/images/2016/06/0_0%20%2815%29_1.jpg)
-
-![Los Santos International Airport, 06h40.](  /content/images/2016/06/0_0%20%2814%29_2.jpg)
+![](/content/images/2016/06/0_0%20%2815%29_1.jpg)
+![Los Santos International Airport, 06h40.](/content/images/2016/06/0_0%20%2814%29_2.jpg)
+_Los Santos International Airport, 06h40._
 
 Étant mon interlocuteur principal au sein du groupe, Jorge me fait monter à l'avant de son biplan, un vieux coucou qui semble avoir fait les deux guerres sans passer de contrôle technique.
 
@@ -55,41 +55,24 @@ Non, non non, je ne suis pas mort, je veux dire qu'on a décollé. Une fois dans
 
 Plutôt que de faire du verbiage barbant, je vous propose de retracer la journée au travers des clichés les plus marquants que j'ai pu prendre durant celle-ci.
 
-![](  /content/images/2016/06/0_0%20%2813%29_1.jpg)
-
-![](  /content/images/2016/06/0_0%20%2821%29.jpg)
-
-![](  /content/images/2016/06/0_0%20%2812%29_1.jpg)
-
-![](  /content/images/2016/06/0_0%20%284%29_7.jpg)
-
-![](  /content/images/2016/06/0_0%20%2822%29_0.jpg)
-
-![](  /content/images/2016/06/0_0%20%288%29_4.jpg)
-
-![](  /content/images/2016/06/0_0%20%282%29_6.jpg)
-
-![](  /content/images/2016/06/0_0%20%283%29_7.jpg)
-
-![](  /content/images/2016/06/0_0%20%2813%29_2.jpg)
-
-![](  /content/images/2016/06/0_0%20%2810%29_4.jpg)
-
-![](  /content/images/2016/06/0_0%20%2811%29_2.jpg)
-
-![](  /content/images/2016/06/0_0%20%2810%29_3.jpg)
-
-![](  /content/images/2016/06/0_0%20%287%29_4.jpg)
-
-![](  /content/images/2016/06/0_0%20%289%29_5.jpg)
-
-![](  /content/images/2016/06/0_0%20%285%29_6.jpg)
-
-![](  /content/images/2016/06/0_0%20%286%29_5.jpg)
-
-![](  /content/images/2016/06/0_0%20%2839%29.jpg)
-
-![](  /content/images/2016/06/0_0%20%2829%29.jpg)
+![](/content/images/2016/06/0_0%20%2813%29_1.jpg)
+![](/content/images/2016/06/0_0%20%2821%29.jpg)
+![](/content/images/2016/06/0_0%20%2812%29_1.jpg)
+![](/content/images/2016/06/0_0%20%284%29_7.jpg)
+![](/content/images/2016/06/0_0%20%2822%29_0.jpg)
+![](/content/images/2016/06/0_0%20%288%29_4.jpg)
+![](/content/images/2016/06/0_0%20%282%29_6.jpg)
+![](/content/images/2016/06/0_0%20%283%29_7.jpg)
+![](/content/images/2016/06/0_0%20%2813%29_2.jpg)
+![](/content/images/2016/06/0_0%20%2810%29_4.jpg)
+![](/content/images/2016/06/0_0%20%2811%29_2.jpg)
+![](/content/images/2016/06/0_0%20%2810%29_3.jpg)
+![](/content/images/2016/06/0_0%20%287%29_4.jpg)
+![](/content/images/2016/06/0_0%20%289%29_5.jpg)
+![](/content/images/2016/06/0_0%20%285%29_6.jpg)
+![](/content/images/2016/06/0_0%20%286%29_5.jpg)
+![](/content/images/2016/06/0_0%20%2839%29.jpg)
+![](/content/images/2016/06/0_0%20%2829%29.jpg)
 
 Tout ça était vraiment chouette, mais tellement fatigant.  
 Je rentre chez moi à la nuit tombée, l'appareil plein, un léger mal de l'air avec vertiges et nausées au programme, mais finalement pas déçu de cette journée.

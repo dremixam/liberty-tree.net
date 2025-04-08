@@ -24,7 +24,7 @@ Nous avons interrogé plusieurs personnes participant à cette grève :
 > 
 > **Jack Winslow (chauffeur de métro, 24 ans) :** Je trouve ça cool, les grèves, on travaille pas et on peut rester tranquillement chez soi devant la télé toute la journée !
 
-![](  /content/images/2005/01/greve01.jpg)
+![](/content/images/2005/01/greve01.jpg)
 
 Contrairement à plusieurs personnes qui trouvent ça agréable, les personnes qui, eux, prennent quotidiennement les transports en commun, ne trouvent pas ça très amusant et les locations de voitures ce jour-là, ont explosées pour que tout le monde puisse aller à son travail, mais le problème était désormais, les embouteillages sur toutes les autoroutes de la ville.
 
@@ -34,6 +34,6 @@ Le maire de Liberty City étant très furieux sur ce sujet a déclaré:
 
 C'était la plus grande grève générale que la ville de Liberty City ait connu à ce jour mais le maire a affirmé que grâce à son message, il n'y en aurait plus pendant une bonne année, au moins. On verra bien...
 
-![](  /content/images/2005/01/greve03.jpg)
+![](/content/images/2005/01/greve03.jpg)
 
 <!--kg-card-end: markdown-->

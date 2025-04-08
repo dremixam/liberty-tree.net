@@ -14,13 +14,13 @@ Aujourd'hui, Simon est un S.D.F. essayant de s'en sortir par tous les moyens, ma
 
 Nous avons réalisé une interview pour mieux comprendre cet homme et connaître les raisons qui l'empêchent de revenir à un niveau de vie normal :
 
-![](  /content/images/2005/01/sdf3_0.jpg)
+![](/content/images/2005/01/sdf3_0.jpg)
 
 > \_ **Liberty Tree :** Comment se comportent les gens avec vous dans la rue ?
 > 
 > **Simon :** Cela dépend des personnes, ça peut aller des moqueries, aux insultes, même parfois des jeunes du quartier nous balancent des déchets sur la gueule, mais il y a des gens qui nous aident en nous apportant à manger, des couvertures, etc...
 
-![](  /content/images/2005/01/groove_0.jpg)
+![](/content/images/2005/01/groove_0.jpg)
 
 > **LT :** Comment en êtes vous arrivé là ? Pourquoi ne recherchez vous pas un emploi qui vous permettrait de sortir de la rue ?
 > 
@@ -32,8 +32,8 @@ Nous avons réalisé une interview pour mieux comprendre cet homme et connaître
 
 Ce sont sur ces belles paroles que notre interview avec Simon se termine. Nous lui souhaitons bon courage pour la suite, en espérant qu'il retrouve une vie normale d'ici peu de temps. Au revoir, Simon.
 
-![Malheureusement, Simon n'est pas le seul S.D.F à San Andreas...](  /content/images/2005/01/sdf2_0.jpg)
+![Malheureusement, Simon n'est pas le seul S.D.F à San Andreas...](/content/images/2005/01/sdf2_0.jpg)
+_Malheureusement, Simon n'est pas le seul S.D.F à San Andreas..._
 
-_Comme lui, des centaines de personnes subissent le froid de l'hiver qui est rude cette année... Des personnes qui n'ont pas demandé d'être là vont mourir de froid... Alors, si vous voulez sauver, redonner un travail, resociabiliser ces personnes, LEUR REDONNER UNE VIE, soutenez l'action SOS Sans Abris. Devenez bénévole en téléphonant au 555-123-217 ou envoyez vos dons à : SOS Sans Abris, 2217 Downtown, San Fierro. On compte sur vous._
 
 <!--kg-card-end: markdown-->

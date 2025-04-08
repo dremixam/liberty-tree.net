@@ -14,16 +14,16 @@ Cela fait à peu près quinze jours que les habitants de cet immeuble, à la ré
 
 Ce sont des paroles bien difficiles à croire rassurantes quand on connaît les statistiques du LSPD en ce moment.
 
-![](  /content/images/2016/06/FloydHebert-GTA5.png)
-
-![Floyd et Debra](  /content/images/2016/06/Debra-GTA5.png)
+![](/content/images/2016/06/FloydHebert-GTA5.png)
+![Floyd et Debra](/content/images/2016/06/Debra-GTA5.png)
+_Floyd et Debra_
 
 Ces gens sont actuellement portés disparus. Si vous les apercevez ou savez quelque chose qui serait susceptible d'aider la police dans son enquête, appelez immédiatement le **555-0191.**  
 Les voisins sont tous fous d’inquiétude. Ils nous ont tous affirmé qu’il s’agissait d’un couple sans histoire. Alors imaginez leur surprise en voyant l’appartement sous scellé…
 
-![](  /content/images/2016/06/0_0_161.jpg)
-
-![L'appartement du couple](  /content/images/2016/06/0_0_162.jpg)
+![](/content/images/2016/06/0_0_161.jpg)
+![L'appartement du couple](/content/images/2016/06/0_0_162.jpg)
+_L'appartement du couple_
 
 Un proche et collègue de Debra, nommé Bob Adams, nous a contacté pour nous donner sa vision de l’affaire :
 
@@ -33,7 +33,7 @@ Enfin des suppositions ne suffisent bien entendu pas à condamner les gens. Par 
 
 > J’espère vraiment que la police les retrouvera. Personnellement, je pense que leurs problèmes ont commencé quand le cousin de Floyd a débarqué chez eux de nulle part et s’y est installé avec un de ses amis assez bizarres…
 
-![](  /content/images/2016/06/0_0_163.jpg)
+![](/content/images/2016/06/0_0_163.jpg)
 
 Pour l’instant nous ne pouvons pas en dire plus sur cette affaire, il faut juste espérer que la police fasse son travail correctement.
 

@@ -36,20 +36,23 @@ Il est donc 8:00 lorsque nous débutons la journée par une petite interview :
 Après avoir ramené Achmed à la raison, il est 8:37 lorsque nous allons à Ocean Docks où des membres de l'agence attendent Achmed pour lui fournir son matériel. La totalité des explosifs a été chargée dans un Bobcat au volant duquel Achmed prend place. Pour des raisons évidentes de sécurité, notre équipe va suivre Achmed de loin le temps de sa mission.
 
 ![Achmed arrive dans le centre au volant du Bobcat piégé.]()
+_Achmed arrive dans le centre au volant du Bobcat piégé._
 
 Il est **9:05** lorsque nous arrivons dans Downtown Los Santos, la cible de la mission est l'opéra. Le client ayant payé pour intégrer au contrat une clause de confidentialité, nous n'en sauront pas plus sur l'opération. Achmed, confiant, roule vers son objectif.
 
 ![L'opéra de Los Santos, cible de la mission d'aujourd'hui.]()
+_L'opéra de Los Santos, cible de la mission d'aujourd'hui._
 
 **9:15** , Achmed grille involontairement le feu rouge et perd le contrôle de son véhicule en tentant d'éviter un taxi qui lui fonce dessus. Après avoir percuté violemment un mur, le véhicule prend feu. Achmed n'aura malheureusement pas le temps de s'en extraire et mourra dans l'explosion qui ne fera qu'une seule victime: lui même.
 
 ![Le Bobcat après l'explosion qui a coûté la vie à notre ami.]()
+_Le Bobcat après l'explosion qui a coûté la vie à notre ami._
 
 **9:20** , la journée d'Achmed se termine donc prématurément, son attentat raté ne provoquant qu'un minuscule embouteillage, les choses se sont passées tellement vite que peu de passants ont réalisé la gravité de la situation.
 
 ![]()
-
 ![L'embouteillage provoqué par l'intervention des secours et un passant, qui n'a pas réalisé ce qui venait de se produire.]()
+_L'embouteillage provoqué par l'intervention des secours et un passant, qui n'a pas réalisé ce qui venait de se produire._
 
 C'est après une journée (très) courte mais très intense que cet article s'achève, l'attentat d'Achmed, quels qu'en aient été les objectifs n'a probablement pas atteint son but. Comme vous avez pu le voir, le métier de terroriste est un métier extrêmement dangereux et qui demande beaucoup de sacrifices, malheureusement pour les jeunes recrues, rare sont ceux qui multiplient les missions (surtout lorsqu'ils occupent le poste de bombe humaine) et, bien souvent, tous ces sacrifices sont vains.
 

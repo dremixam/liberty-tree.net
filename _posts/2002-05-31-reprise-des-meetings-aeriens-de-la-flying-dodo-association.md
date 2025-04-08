@@ -16,13 +16,13 @@ L'interdiction de voler a été levé la semaine dernière, donc les membres de 
 
 Une foule nombreuse est venue les acclamer, elle n'a pas été déçu le spectacle était grandiose.
 
-![](  /content/images/v1/user0/tonneau1.jpg)  
- ![](  /content/images/v1/user0/tonneau2.jpg)  
- ![](  /content/images/v1/user0/tonneau3.jpg)  
- ![](  /content/images/v1/user0/tonneau4.jpg)  
- ![](  /content/images/v1/user0/looping1.jpg)  
- ![](  /content/images/v1/user0/looping2.jpg)  
- ![](  /content/images/v1/user0/looping3.jpg)  
- ![](  /content/images/v1/user0/looping4.jpg)
+![](/content/images/v1/user0/tonneau1.jpg)
+![](/content/images/v1/user0/tonneau2.jpg)
+![](/content/images/v1/user0/tonneau3.jpg)
+![](/content/images/v1/user0/tonneau4.jpg)
+![](/content/images/v1/user0/looping1.jpg)
+![](/content/images/v1/user0/looping2.jpg)
+![](/content/images/v1/user0/looping3.jpg)
+![](/content/images/v1/user0/looping4.jpg)
 
 <!--kg-card-end: markdown-->

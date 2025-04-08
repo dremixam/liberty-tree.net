@@ -30,15 +30,11 @@ J'ai donc rencontré M. Kiki, je l'interview pour vous.
 
 Le point fort de KDC est sa décoration. Je vous laisse jeter un petit coup d’œil aux clichés que j'ai pris ce matin même.
 
-![](  /content/images/2016/07/kdc.jpg)
-
-![](  /content/images/2016/07/kdc1.jpg)
-
-![](  /content/images/2016/07/kdc2.jpg)
-
-![](  /content/images/2016/07/kdc3.jpg)
-
-![](  /content/images/2016/07/kdc4.jpg)
+![](/content/images/2016/07/kdc.jpg)
+![](/content/images/2016/07/kdc1.jpg)
+![](/content/images/2016/07/kdc2.jpg)
+![](/content/images/2016/07/kdc3.jpg)
+![](/content/images/2016/07/kdc4.jpg)
 
 Donc, si vous souhaitez vous rendre chez Kiki's Design Contrôle, direction Torrington à côté du building AM&co.
 

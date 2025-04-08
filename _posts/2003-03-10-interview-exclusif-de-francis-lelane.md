@@ -16,9 +16,9 @@ Bref, quelques jours après sa sortie de prison, Francis a accepté de donner in
 
 Heureusement j'avais prévu le coup, avec un appareil photo miniaturisé caché dans ma veste, petite merveille de technologie préalablement préparé par l'un de mes collègues du Liberty Tree.
 
-![](  /content/images/v1/user29/f2.jpg)
-
-![Photos prises à l'aide d'un appareil photo miniaturisé et caché dans ma veste](  /content/images/v1/user29/f3.jpg)
+![](/content/images/v1/user29/f2.jpg)
+![Photos prises à l'aide d'un appareil photo miniaturisé et caché dans ma veste](/content/images/v1/user29/f3.jpg)
+_Photos prises à l'aide d'un appareil photo miniaturisé et caché dans ma veste_
 
 > **Liberty-Tree :** Tout d'abord bonjour Francis, merci d'avoir accepté cet interview.
 

@@ -12,9 +12,8 @@ _Le chanteur populaire Madd Dogg revient en force avec son nouvel album. Tout le
 
 Madd Dogg, habitant dans son manoir de Mulholland, n'a pas produit de disque depuis longtemps. Il nous revient cette année avec un nouvel album intitulé Madd Dogg - Always Criminal. La chanson numéro 2 du disque, intitulée Gangs aren't bad, est le nouveau hit de l'année. Cette chanson explique comment vivent les membres des gangs de rue, et qu'ils ne sont pas des criminels. Ils se battent contre les autres gangs pour imposer le respect et la paix.
 
-![](  /content/images/2005/01/md_manoir.jpg)
-
-![](  /content/images/2005/01/md_studio.jpg)
+![](/content/images/2005/01/md_manoir.jpg)
+![](/content/images/2005/01/md_studio.jpg)
 
 Le chanteur a enregistré ses chansons dans le studio de son manoir. Il dit que c'est plus "amical" que les gros studios d'enregistrement comme celui situé à Vinewood. Et il a eu raison de choisir cette option, car cet album est d'une qualité exceptionnelle. Nous l'avons eu en entrevue :
 
@@ -42,7 +41,7 @@ Le chanteur a enregistré ses chansons dans le studio de son manoir. Il dit que 
 
 Bien des gens vont danser dans les clubs et les fêtes sur les chansons de ce nouvel album. Pour acheter votre exemplaire, vous pouvez aller dans n'importe lequel des commerçants suivant : Yoyojo's record, Vinyle Countdown et Dick's Sounds. Mais faites vites, car les trois quarts des exemplaires ont déjà été vendus avant même que les commerces ne les reçoivent. Mais, de toute façon, nous parions qu'il y aura beaucoup de piratages de ce disque.
 
-![](  /content/images/2005/01/vinyle_countdown.jpg)
+![](/content/images/2005/01/vinyle_countdown.jpg)
 
 Aussi, je suis sûr que les déclarations de Madd Dogg sur les gangs -comment vivent les membres, pourquoi font-ils des émeutes énormes depuis plusieurs jours, pourquoi sont-ils mécontents envers le gouvernement, etc. - vont aider les gens à comprendre leur frustration.
 

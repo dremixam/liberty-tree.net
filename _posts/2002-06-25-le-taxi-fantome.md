@@ -24,6 +24,6 @@ Les opinions sont partagées. L'Association des Élus des Êtres de l'Espace aff
 
 Le magasine Science & Mode & Travaux affirme que c'est dû à une réaction chimique formée dans la boîte à gant inférieure du rez de chaussée du coffre et qu'il est expliqué comment créer soit même son propre taxi fantôme avec 3 vielles machines à écrire et une boîte de thon en conserve dans leur prochain numéro.
 
-Par contre, on sait ou se trouve le criminel : il a été vu en train de piéger des camions de glace pour organiser un attentat à l'École de Liberty. Mais est-ce bien raisonnable car, comme le disait notre ami le chef de la police dans l'article « [La mortelle virée du bus fou de Staunton](  /2002/06/12/la-mortelle-viree-du-bus-fou-de-staunton/) » de RR4 : « Je n'ai jamais vu d'enfants à Liberty City!! » ?
+Par contre, on sait ou se trouve le criminel : il a été vu en train de piéger des camions de glace pour organiser un attentat à l'École de Liberty. Mais est-ce bien raisonnable car, comme le disait notre ami le chef de la police dans l'article « [La mortelle virée du bus fou de Staunton](/2002/06/12/la-mortelle-viree-du-bus-fou-de-staunton/) » de RR4 : « Je n'ai jamais vu d'enfants à Liberty City!! » ?
 
 <!--kg-card-end: markdown-->

@@ -23,7 +23,7 @@ Au sommaire de ce numéro, retrouvez :
 
 Détenteur du titre prestigieux de l’homme le plus classe du monde jusqu’à sa mort dans un accident, George Abitbol a fait couler beaucoup d’encre. Pourquoi a-t-il dit « Monde de merde ! » avant de mourir ? Comment est-il réellement mort ? Aurait-il été assassiné ? Est-il vraiment mort ? Ce sont autant de questions sur lesquelles de nombreux journalistes célèbres se sont cassés les dents sans parvenir à trouver une réponse adéquate. Et pourtant, en 1994, deux journalistes enquêtant sur ses dernières paroles avaient presque touché au but.
 
-![](  /content/images/2007/06/mysteres-confidences.png)
+![](/content/images/2007/06/mysteres-confidences.png)
 
 > **Le témoin professionnel :** Le petit gars, Steven qu’il s’appelait, il est venu pour que j’lui file du croustillant sur George… Il avait l’air déçu quand je lui ai dit que j’étais témoin professionnel, alors je lui ai expliqué que pour vendre sa feuille de choux il lui fallait avant tout du biscuit… Mais la vérité c’est que ça n’a pas eu l’air de lui plaire et pendant que je retournais à la pêche, lui il est reparti à cheval avec sa barbe et son ami un peu con.
 
@@ -63,7 +63,8 @@ Une affaire qui se termine bien donc puisque la vérité a triomphé.
 
 - Science : Pour la première fois, des scientifiques ont réussi a capturer une photo du sexe d’un chinois, il mesure 140nm de long pour un diamètre de 50nm environ.
 
-![Jamais une image aussi nette du pénis d'un chinois n'avait pu être obtenue auparavant.](  /content/images/2007/06/TEMWang.jpeg)
+![Jamais une image aussi nette du pénis d'un chinois n'avait pu être obtenue auparavant.](/content/images/2007/06/TEMWang.jpeg)
+_Jamais une image aussi nette du pénis d'un chinois n'avait pu être obtenue auparavant._
 
 - Sport : Buddy Slash, joueur de l’équipe de Hockey de Liberty-City, est mis en examen pour détournement de mineur en plein match. 80.000 témoins.
 

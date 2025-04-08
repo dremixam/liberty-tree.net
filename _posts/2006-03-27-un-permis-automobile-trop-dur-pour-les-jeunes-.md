@@ -18,9 +18,8 @@ L'année dernière, ce serait à peine 17% des jeunes ayant passé leur permis q
 
 Avec des insinuations quelque peu douteuses, nous avons décidé de vérifier par nous même et de&nbsp;nous rendre à l'auto école de San Fierro. C'est là bas que nous avons rencontré Marcus Flinch, examinateur depuis un certains temps.
 
-![L'auto école de San Fierro](  /content/images/2005/01/auto_ecole_2.jpg)
-
-![Marcus Flinch, examinateur](  /content/images/2005/01/Flinch_auto__cole.jpg)
+![L'auto école de San Fierro](/content/images/2005/01/auto_ecole_2.jpg)
+_L'auto école de San Fierro_[Marcus Flinch, examinateur](/content/images/2005/01/Flinch_auto__cole.jpg)
 
 > **Liberty Tree :** J'aimerai savoir Mr Flinch, quels sont les différents critères pour réussir à passer son permis?
 
@@ -30,13 +29,13 @@ Avec des insinuations quelque peu douteuses, nous avons décidé de vérifier pa
 
 > **Marcus Flinch :** Ecoutez moi, vous n'allez tout de même pas m'apprendre à faire mon métier! Il faut être exigeant pour atteindre de meilleurs résultats! _(il s'en va en nous demandant de quitter l'établissement)_
 
-![](  /content/images/2005/01/accident_auto__cole_2.jpg)
-
-![](  /content/images/2005/01/accident_auto__cole_4.jpg)
+![](/content/images/2005/01/accident_auto__cole_2.jpg)
+![](/content/images/2005/01/accident_auto__cole_4.jpg)
 
 Après cet entrevu&nbsp;assez&nbsp; court et décevant, nos inquiétudes restent toujours sans réponses. Mais pourquoi&nbsp;une telle&nbsp;chute en seulement&nbsp;dix ans?&nbsp;Est-ce l'incapacité des jeunes conducteurs ou bien l'intolérance excessive des auto écoles qui sont la cause de ce manque de réussite? A l'instar des chiffres hallucinants concernant le permis auto, les accidents de la route&nbsp;augmentent de jours en jours!&nbsp;Le Maire de la ville de San Fierro&nbsp;a pu nous&nbsp;consacrer quelque minutes de son temps :
 
-![Le Maire de San Fierro, Aaron McCormick](  /content/images/2005/01/maire_san_fierro.jpg)
+![Le Maire de San Fierro, Aaron McCormick](/content/images/2005/01/maire_san_fierro.jpg)
+_Le Maire de San Fierro, Aaron McCormick_
 
 > **LT :** Mr le Maire, ne pensez vous pas que les rues de notre Etat deviennent de plus en plus dangereuses? &nbsp;Certaines personnes en viennent à ne plus de sortir de chez eux.
 

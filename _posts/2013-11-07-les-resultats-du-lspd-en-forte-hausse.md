@@ -14,7 +14,7 @@ La situation était très différente dans le passé. Dans les années 90, beauc
 
 Afin de découvrir comment un tel changement a été rendu possible, nous avons interrogé un ancien du LSPD.
 
-![](  /content/images/2016/06/d.jpg)
+![](/content/images/2016/06/d.jpg)
 
 > **Liberty Tree :** Bonjour M. Simms.
 > 
@@ -46,7 +46,7 @@ Afin de découvrir comment un tel changement a été rendu possible, nous avons 
 > 
 > **LT :** Merci beaucoup M. Simms...
 
-![](  /content/images/2016/06/FLIC.jpg)
+![](/content/images/2016/06/FLIC.jpg)
 
 Comme quoi à force de persévérer à être mauvais on peut finir par être bon. Ça marche avec tout, même avec les journalistes du Liberty Tree.
 

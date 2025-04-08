@@ -8,7 +8,7 @@ tags:
 - los-santos
 ---
 
-![](  /content/images/2005/01/newbuilding.jpg)
+![](/content/images/2005/01/newbuilding.jpg)
 
 Ce n'est une surprise pour personne, le LT souffre d'un manque de personnel qui devient inquiétant de jour en jour. Le directeur, Maxou, a donc programmé&nbsp;à partir du week-end, une séance de recrutement qui aura pour but de ramener l'ordre dans les locaux et publier chaque jour.
 
@@ -30,8 +30,7 @@ Tous les employés des locaux du LT se sont mis à équiper une pièce spéciale
 
 Il est évident que nous faisons ce recrutement dans le but de faire revivre le journal. Certains seraient sûrement intéressés de voir leur propres articles être publiés et dans ce cas, il ne faut surtout pas hésiter. Nous ne vous demandons qu'un seul article par semaine et si le recrutement s'avère bon, il est fort probable que le LT redémarre comme il y a un peu plus d'un an.
 
-![](  /content/images/2005/01/liberty_tree_gant_bridge.jpg)
-
+![](/content/images/2005/01/liberty_tree_gant_bridge.jpg)
 _PS : Vous n'aurez pas besoin de mettre de photo dans votre article. Votre candidature doit être assez longue (même longueur que cet article) et cohérente. Bonne chance !_
 
 <!--kg-card-end: markdown-->

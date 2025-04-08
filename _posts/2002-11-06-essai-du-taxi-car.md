@@ -7,7 +7,8 @@ tags:
 - liberty-city
 ---
 
-![Today's car](  /content/images/2016/07/previewtaxi.jpg)
+![Today's car](/content/images/2016/07/previewtaxi.jpg)
+_Today's car_
 
 Chers lecteurs, bonjour !
 
@@ -20,7 +21,7 @@ Habitacle :
 Le Taxi est assez confortable, surtout la partie arrière où le client peut allonger ses jambes grâce aux sièges avants relevés de 15 cm.  
 La partie avant n'est pas en reste avec une sellerie cuir de série assez résistante, un poste radio 4x 35 watts et un GPS intégré (models après 2001 seulement).
 
-![](  /content/images/2016/07/taxi6.jpg)
+![](/content/images/2016/07/taxi6.jpg)
 
 Carrosserie :
 
@@ -36,7 +37,7 @@ Résistance au piétons :
 Tout bon véhicule urbain qui se respecte comme le Taxi Car se doit de rester propre même après un léger choc avec un piéton distrait et regardant les avions de la Rockstar Airlines plutôt que la route.  
 En bref, le taxi est robuste. Je n'ai eu qu'un éclat sur le pare brise : le piéton n'a pas trouvé mieux que de rebondir mollement dessus.
 
-![](  /content/images/2016/07/taxi7.jpg)
+![](/content/images/2016/07/taxi7.jpg)
 
 Consommation :
 
@@ -65,14 +66,10 @@ Voila, maintenant quand vous prendrez un taxi vous penserez à moi ;).
 
 Je vous laisse quelques clichés de mon test et vous dit "à la semaine prochaine!"
 
-![](  /content/images/2016/07/taxi.jpg)
-
-![](  /content/images/2016/07/taxi2.jpg)
-
-![](  /content/images/2016/07/taxi3.jpg)
-
-![](  /content/images/2016/07/taxi4.jpg)
-
-![](  /content/images/2016/07/taxi5.jpg)
+![](/content/images/2016/07/taxi.jpg)
+![](/content/images/2016/07/taxi2.jpg)
+![](/content/images/2016/07/taxi3.jpg)
+![](/content/images/2016/07/taxi4.jpg)
+![](/content/images/2016/07/taxi5.jpg)
 
 <!--kg-card-end: markdown-->

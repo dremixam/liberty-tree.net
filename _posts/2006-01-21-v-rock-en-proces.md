@@ -12,7 +12,8 @@ _A cause d'un morceau de Heavy Metal d'un anonyme, la station V-rock risque d'ê
 
 La célèbre station de radio Vicienne qui passe du Rock, Hard Rock et Heavy Metal à longueur de journée sur les ondes et actuellement en procès pour avoir diffusé un morceau de Métal qui poussait à la haine. La station est déjà suspendue mais rien n'est encore fait. Nous avons rencontré pour vous le directeur de la station qui nous explique en détails les faits :
 
-![Jason Lewis, directeur de V-Rock](  /content/images/2005/01/jasonlewis.jpg)
+![Jason Lewis, directeur de V-Rock](/content/images/2005/01/jasonlewis.jpg)
+_Jason Lewis, directeur de V-Rock_
 
 > **Liberty Tree :** Bonjour monsieur Lewis, pourquoi avoir diffusé ce morceau sur les ondes ?
 > 

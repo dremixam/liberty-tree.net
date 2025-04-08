@@ -20,9 +20,9 @@ Chers lecteurs, un gang de plus ferait son apparition à Los Santos, les Hot Boy
 > 
 > **Agent Edinson Henry :** Vous savez avec la crise, les bons salaires ne se trouvent pas en claquant des doigts, même moi en tant que policier à Liberty City, je peux vous dire qu'au niveau financier, ben je galère un peu...
 
-![](  /content/images/2016/06/1324838597_gta-4-black-police-mod.jpg)
-
-![L'agent Edinson Henry et son collègue Drake Wilson.](  /content/images/2016/06/images%20%281%29.jpg)
+![](/content/images/2016/06/1324838597_gta-4-black-police-mod.jpg)
+![L'agent Edinson Henry et son collègue Drake Wilson.](/content/images/2016/06/images%20%281%29.jpg)
+_L'agent Edinson Henry et son collègue Drake Wilson._
 
 Pour nous procurer plus de renseignements sur ce gang, nous nous sommes baladés dans le nord d'Algonquin, et nous avons pu interroger quelques habitants du quartier de North Holland. Nous avons interrogé Dwayne Forge, ancien chef de gang reconverti en mécanicien après sa lourde peine de prison :
 
@@ -30,7 +30,8 @@ Pour nous procurer plus de renseignements sur ce gang, nous nous sommes baladés
 > 
 > **Dwayne Forge :** Bien sûr, ce gang est composé de jeunes de différents quartiers, ils ont eu des emmerdes avec la mafia du sud d'Algonquin, alors ils ont créé un genre de gang, pendant 2 ans ils étaient en guerre avec je sais plus trop qui, et maintenant ils disent qu'ils veulent partir déclarer la guerre aux Ballas a l'autre bout du pays, tout ça c'est des conneries, en deux ans ils ont fait plus de 100 morts, moi depuis que j'ai déménagé à Dukes, je vis très bien, espérons que ça dure.
 
-![Dwayne Forge.](  /content/images/2016/06/dwayne_velky%20%281%29.jpg)
+![Dwayne Forge.](/content/images/2016/06/dwayne_velky%20%281%29.jpg)
+_Dwayne Forge._
 
 Depuis quelques jours maintenant, des habitants de Ganton, dans le nord de Los Santos, nous ont fait part de quelques témoignages surprenants à propos d'un gang qui serait en train de prendre forme, pour plus d'informations nous avons pu recueillir quelques témoignages :
 
@@ -40,9 +41,9 @@ Depuis quelques jours maintenant, des habitants de Ganton, dans le nord de Los S
 
 D'après le témoignage d'Aaliyah, des gangsters se seraient retrouvés à plusieurs reprises dans les canalisations de Los Santos, nous sommes donc partis jeter un coup d’œil, et nous avons bel et bien trouvé des Latinos et des afro-américains ensemble, ce qui est très étonnant quand on sait que 41 % de la population Latino est raciste... Nous avons pu vous prendre quelques photos :
 
-![](  /content/images/2016/06/153911003.jpg)
-
-![Les deux gangs en train de marchander, sûrement pour des armes...](  /content/images/2016/06/3575534600.jpg)
+![](/content/images/2016/06/153911003.jpg)
+![Les deux gangs en train de marchander, sûrement pour des armes...](/content/images/2016/06/3575534600.jpg)
+_Les deux gangs en train de marchander, sûrement pour des armes..._
 
 Sur ce, restez connectés sur le Liberty Tree pour être au courant des dernières infos dans le pays et partout dans le monde, et nous vous déconseillons fortement d'aller jouer aux policiers dans le milieu des gangs, ça pourrait être dangereux, voire fatal pour vous...
 

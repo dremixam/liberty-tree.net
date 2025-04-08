@@ -14,7 +14,7 @@ Car l'histoire que Stu dit avoir vécu n'est en aucun cas banale. Stu pense en e
 
 > **Stu :** J'ai voulu me rendre à mon bureau mais une fois arrivé sur place j'ai constaté qu'un nèg… euh un… un noir avait pris ma place. Non seulement ce macaque avait repris tous mes dossiers mais tous les collègues faisaient comme s'il était moi et qu'ils ne me reconnaissaient pas.
 
-![](  /content/images/2016/07/billy.jpg)
+![](/content/images/2016/07/billy.jpg)
 _Depuis son prétendu grand remplacement, Stu vit dans la précarité sous un pont à proximité de Simmet Alley_
 
 Nous avons pu rencontrer l'un des collègues en question : Marc H, chef de service chez _Tedious Corp_, l'employeur de Stu.
@@ -23,7 +23,7 @@ Nous avons pu rencontrer l'un des collègues en question : Marc H, chef de servi
 
 Furieux de cette déconvenue, Stu rentre à ce qu'il pense être son domicile. Il découvre alors sur la cheminée une photographie de celle qu'il imagine être sa femme en compagnie d'un autre homme : Le fameux Stuart Piddidiot noir qui occupait son poste plus tôt dans la matinée.
 
-![](  /content/images/2016/07/couple.jpg)
+![](/content/images/2016/07/couple.jpg)
 _Cette photo du couple exposée à leur domicile prouve bien que notre Stu n'est pas le vrai Stuart Piddidiot_
 
 Fou de rage, il fonce vers la cuisine ou il trouve Kew Piddidiot qui ne le reconnait bien évidemment pas et appelle la police. Après quelques minutes d'altercation, une patrouille arrive et embarque Stu au poste.
@@ -38,7 +38,7 @@ La nuit ne calme pas vraiment Stu mais les agents le laissent tout de même pass
 
 > **Stu :** Ces vieux schnocks ont dit qu'ils ne me connaissaient pas et ont pas voulu venir payer ma caution. Du coup je me suis resté en cellule un mois avant d'être jugé pour violation de domicile.
 
-![](  /content/images/2016/07/maman-billy.jpeg)
+![](/content/images/2016/07/maman-billy.jpeg)
 _Madame Piddidiot, la maman du vrai Stuart_
 
 > **Madame Piddidiot :** C'est vrai qu'il est beaucoup plus serviable et attentionné ces derniers temps, il est même venu s'occuper du jardin deux fois cette semaine sans qu'on ait besoin de lui demander et il appelle tous les soirs pour prendre des nouvelles. Et son nouveau bronzage lui va tellement bien.
@@ -53,7 +53,7 @@ Malheureusement pour lui, c'est juste après notre rencontre il y a deux jours q
 
 C'est lors de l'embarquement en vue de sa déportation vers son pays natal que Désiré tente alors de s'enfuir pour rester en Amérique. Malheureusement pour lui, les agents de sécurité de l'aéroport ouvrent le feu et le touchent à huit reprises. Il sera déclaré mort des suites de ses blessures à l'hôpital.
 
-![](  /content/images/2016/07/hospital.jpg)
+![](/content/images/2016/07/hospital.jpg)
 _Le Pillbox Hill Medical Center où monsieur N'Gashabo est décédé_
 
 > **Stuart Piddidiot :** C'est triste ce qui est arrivé à ce monsieur N'Gashabo mais je suis également rassuré, il s'était montré très agressif envers ma femme et moi à plusieurs reprises.

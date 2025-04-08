@@ -14,7 +14,7 @@ Il y a eu beaucoup de casse durant les exercices, la plupart des agents ont perd
 
 > Avec des bandits qui font n'importe quoi pour nous échapper, il faut bien utiliser les mêmes méthodes qu'eux, sinon on arrivera à rien nom d'une pipe.
 
-A partir d'aujourd'hui nos fiers policiers seront prêts pour n'importe quelle course poursuite, il sont même capables de sauter le pont de Portland (ce qui leur a bien manqué il y a trois jours lors de [l'arrestation d'un délinquant](  /2002/06/11/arrestation-dun-delinquant/)).
+A partir d'aujourd'hui nos fiers policiers seront prêts pour n'importe quelle course poursuite, il sont même capables de sauter le pont de Portland (ce qui leur a bien manqué il y a trois jours lors de [l'arrestation d'un délinquant](/2002/06/11/arrestation-dun-delinquant/)).
 
 Notre photographe dépêché sur place a pu immortaliser quelques instants savoureux.
 

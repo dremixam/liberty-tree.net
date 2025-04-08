@@ -12,7 +12,8 @@ _Le tout nouveau casino de Vinewood, sobrement nommé "Be Lucky" sera officielle
 
 Terminés les longs trajets jusqu'à Las Venturas pour tenter sa chance aux jeux ! Prochainement, il sera possible pour les habitants de Los Santos de venir dépenser leur argent dans leur tout nouveau casino, situé juste à côté de l'hippodrome de Vinewood.
 
-![Le casino de Vinewood.](  /content/images/2016/06/Casino1_0.jpg)
+![Le casino de Vinewood.](/content/images/2016/06/Casino1_0.jpg)
+_Le casino de Vinewood._
 
 La date de l'inauguration n'a pas encore été fixée car tout n'est pas encore bouclé à l'intérieur du casino. L'extérieur, lui, a été terminé, comme nous le confirme Austin Baker, le directeur du casino.
 
@@ -32,15 +33,18 @@ La date de l'inauguration n'a pas encore été fixée car tout n'est pas encore 
 > 
 > **AB :** Merci beaucoup !
 
-!["Be Lucky", le nom du casino.](  /content/images/2016/06/Casino2.jpg)
+!["Be Lucky", le nom du casino.](/content/images/2016/06/Casino2.jpg)
+_"Be Lucky", le nom du casino._
 
 Le projet d'un casino à Vinewood remonte à la construction de l'hippodrome adjacent. Le maire voulait créer un centre d'activités pour les habitants de Los Santos, avec notamment le Los Santos Bowl situé tout proche. De nombreux recours et réclamations ont retardé le début de la construction, mais celle-ci a enfin pu débuter il y a désormais deux ans.
 
-![La façade est du casino.](  /content/images/2016/06/Casino3.jpg)
+![La façade est du casino.](/content/images/2016/06/Casino3.jpg)
+_La façade est du casino._
 
 La ville a prévu le nécessaire : un restaurant est situé à l'intérieur du casino, et de grands parkings ont été construits : l'un est à l'intérieur même du casino, dans les étages supérieurs, et un autre est situé à l'extérieur, et compte près de 200 places. A l'intérieur, les chiffres sont aussi impressionnants : 400 machines à sous, 12 tables de roulette, 17 tables de poker, 13 tables de blackjack, sans oublier 8 roues de la fortune, un grand bar central ainsi qu'un restaurant au dernier étage avec vue sur l'hippodrome.
 
-![Le parking extérieur du casino.](  /content/images/2016/06/Casino4.jpg)
+![Le parking extérieur du casino.](/content/images/2016/06/Casino4.jpg)
+_Le parking extérieur du casino._
 
 Avec tous ces chiffres assez impressionnants, on a tous envie d'aller jouer dans ce casino ! Espérons que l'ouverture ne sera pas encore repoussée à maintes reprises, et que nous pourrons bientôt fouler le sol de ce casino qui s'annonce comme l'une des futures places fortes de Los Santos. Chers lecteurs, n'hésitez pas à y faire un tour après son ouverture !
 

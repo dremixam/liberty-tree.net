@@ -12,7 +12,7 @@ _Hier, dans la nuit, un camion transportant de l'huile ayant pour destination le
 
 Hier donc, un semi-remorque qui se dirigeait vers Paleto Bay pour faire sa livraison d'huile à l'usine Cluckin' Bell s'est retourné, déversant tout l'huile sur la chaussée. Les dégâts sont estimés à plusieurs milliers de dollars.
 
-![](  /content/images/2016/06/LIBERTY%20TREE%204.png)
+![](/content/images/2016/06/LIBERTY%20TREE%204.png)
 
 C'est Monsieur Hernandez qui était chargé de cette livraison. Chauffeur expérimenté, qui fait le même trajet depuis la fabrication de l'usine, 28 ans précisément, il compte au total 1834 livraisons et il n'y a jamais eu d'accident.
 
@@ -20,7 +20,7 @@ Mark Boscorelli, enquêteur à la brigade des accidents à affirmé qu'il pouvai
 
 A 22:30 hier soir, la remorque avait déjà versé les 600 litres d'huile qu'elle contenait. Plusieurs voitures sont parties en dérapage avant de s'encastrer contre la remorque qui barrait la route.
 
-![](  /content/images/2016/06/LIBERTY%20TREE%202.jpg)
+![](/content/images/2016/06/LIBERTY%20TREE%202.jpg)
 
 Monsieur Hernandez à accepté de témoigner.
 

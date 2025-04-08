@@ -10,15 +10,11 @@ tags:
 
 Mardi dernier au stade de East Los Santos s'est déroulée la finale du championnat local de football. Les verts de Grove Street et les rouges de Paleto Bay s'étant qualifiés respectivement en novembre et décembre se sont donc affrontés sur le stade refait à neuf depuis septembre 2013.
 
-![](  /content/images/2016/06/14_1.jpg)
-
-![Les capitaines d'équipes, xTeddy62 (Paleto Bay) et T-Rawww8 (Grove Sreet) se sont rencontrés peu avant le match dans une ambiance assez fair-play.](  /content/images/2016/06/14_2.jpg)
-
-![La compagnie de manufacture en produits électroniques ThriftEx était le sponsor officiel de l’événement.](  /content/images/2016/06/14_5.jpg)
-
-![](  /content/images/2016/06/14_4.jpg)
-
-![](  /content/images/2016/06/14_3.jpg)
+![](/content/images/2016/06/14_1.jpg)
+![Les capitaines d'équipes, xTeddy62 (Paleto Bay) et T-Rawww8 (Grove Sreet) se sont rencontrés peu avant le match dans une ambiance assez fair-play.](/content/images/2016/06/14_2.jpg)
+_Les capitaines d'équipes, xTeddy62 (Paleto Bay) et T-Rawww8 (Grove Sreet) se sont rencontrés peu avant le match dans une ambiance assez fair-play._[La compagnie de manufacture en produits électroniques ThriftEx était le sponsor officiel de l’événement.](/content/images/2016/06/14_5.jpg)
+![](/content/images/2016/06/14_4.jpg)
+![](/content/images/2016/06/14_3.jpg)
 
 Paleto Bay a essuyé une défaite assez écrasante car en effet Grove Street a marqué 4 buts et les rouges n'ont pu en marquer un seul, pour un score final de 4-0. Grove Street remporte donc le match et gagne la coupe du championnat local. Nous avons recueilli des témoignages de spectateurs :
 

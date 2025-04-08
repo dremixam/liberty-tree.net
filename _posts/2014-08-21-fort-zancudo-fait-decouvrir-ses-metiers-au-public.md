@@ -16,19 +16,19 @@ A 6 heures du matin, tout est installé et un des gros porteur repart pour sa ba
 
 A 14 heures, des avions de voltige pilotés par des pilotes de chasse décollent pour effectuer un numéro aérien. Puis les P-996 Lazer décollent et passent en rase-motte au-dessus de nos têtes (à ce moment, les anciens règlent leurs appareils auditifs) puis effectuent des figures. Après nous avoir montré la puissance de leurs roquettes et de leur mitrailleuse sur un petit avion sans défense, les chasseurs atterrissent.
 
-![L'avion fusillé.](  /content/images/2016/06/victime.jpg)
+![L'avion fusillé.](/content/images/2016/06/victime.jpg)
+_L'avion fusillé._
 
 Puis le moment le plus attendu de la journée arrive: les nouveaux avions Besra et Miljet ainsi que l'hélicoptère Swift se posent sur le tarmac de l'aéroport international. Fort Zancudo les a reçu mardi. Après avoir été inaugurés avec des bouteilles de whisky, le public peut enfin les visiter.
 
-![](  /content/images/2016/06/bresta.jpg)
-
-![](  /content/images/2016/06/miljet.jpg)
-
-![Les nouveaux appareils se sont posés sous les applaudissements du public.](  /content/images/2016/06/swift.jpg)
+![](/content/images/2016/06/bresta.jpg)
+![](/content/images/2016/06/miljet.jpg)
+![Les nouveaux appareils se sont posés sous les applaudissements du public.](/content/images/2016/06/swift.jpg)
+_Les nouveaux appareils se sont posés sous les applaudissements du public._
 
 C'est alors que les gens qu'on ne veut surtout pas voir dans ce genre d'endroit arrivent: la délégation des officiels qui n'ont rien d'autre à faire que de venir voir des avions: Sue Murry et son cortège de collaborateurs, et le maire de Los Santos. Remarquant qu'ils ne sont pas trop acceptés par les buveurs de bière et les patriotes d'extrême-droite, ils repartent aussi vite qu'ils sont arrivés (je crois que les militaires n'ont pas trop accepté qu'elle veuille supprimer des emplois dans les armées et réduire les budgets). Plus tard dans la journée, une autre délégation fait son entrée (très acclamée cette fois): le général Lincoln, de la base de Fort Zancudo, et le général McFlone, commandant de la zone de défense Ouest. Ne visitant pas les avions (qu'ils voient tous les jours), ils se dirigent donc vers les visiteurs.
 
-Vers 16h, après avoir serré des dizaines de mains au point d'avoir contracté une gastro-entérite ou une mycose, les généraux et quelques personnes se dirigent vers le pot d'amitié. Tandis que des anciens et quelques militaires se dirigent vers le bar le plus proche, des policiers et quelques soldats restent à proximité des avions pour éviter que [l'accident de la LS Aeronautic Exibition](  /2014/04/10/la-ls-aeronautic-exhibition-perturbee-par-un-enfant-de-dix-ans/) ne se répète une nouvelle fois (d'autant que Fort Zancudo est connue pour se faire voler régulièrement des avions ou des hélicoptères par des psychopathes ou des gangs récemment arrivés à San Andreas).
+Vers 16h, après avoir serré des dizaines de mains au point d'avoir contracté une gastro-entérite ou une mycose, les généraux et quelques personnes se dirigent vers le pot d'amitié. Tandis que des anciens et quelques militaires se dirigent vers le bar le plus proche, des policiers et quelques soldats restent à proximité des avions pour éviter que [l'accident de la LS Aeronautic Exibition](/2014/04/10/la-ls-aeronautic-exhibition-perturbee-par-un-enfant-de-dix-ans/) ne se répète une nouvelle fois (d'autant que Fort Zancudo est connue pour se faire voler régulièrement des avions ou des hélicoptères par des psychopathes ou des gangs récemment arrivés à San Andreas).
 
 Profitant de cette pause "goûter" des officiels, j'en profite pour demander au public son opinion sur l'armée et cette journée exceptionnelle:
 

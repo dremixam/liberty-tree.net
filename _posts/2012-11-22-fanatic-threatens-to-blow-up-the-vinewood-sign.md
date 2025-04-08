@@ -12,7 +12,8 @@ November 15th, 4:10 PM, Los Santos Sheriff Department deputies tried to apprehen
 
 The few police units that were dispatched to the scene immediately tried to prevent the suspect from committing the unrecoverable. Unfortunately for them, the man still managed, with the help of an improvised ruse, to escape without them even noticing. At least that is what they believed until they realized that the suspect had vanished.
 
-![Photo of the suspect taken from a helicopter a few minutes before he managed to escape the deputies who were trying to catch him.](  /content/images/2016/06/Vinewood_Incident_0.jpg)
+![Photo of the suspect taken from a helicopter a few minutes before he managed to escape the deputies who were trying to catch him.](/content/images/2016/06/Vinewood_Incident_0.jpg)
+_Photo of the suspect taken from a helicopter a few minutes before he managed to escape the deputies who were trying to catch him._
 
 In order to understand how everything happened, we interviewed Sergeant Chris P. "Crispy" Bacon, who was one of the deputies who responded to the call out:
 

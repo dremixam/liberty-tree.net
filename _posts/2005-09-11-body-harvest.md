@@ -12,9 +12,8 @@ Hier, tôt dans la matinée, un homme a volé une moissonneuse batteuse et l'a u
 
 Tous les habitants de Las Venturas sont sous le choc. Jamais ils n'avaient assisté à pareil carnage. Un homme de 32 ans a détourné une moissonneuse batteuse, tabassant à mort le fermier, et s'est livré à une sortie atroce dans les rues de la plus belle ville de San Andreas. Semant la mort de tout ce qui passait dans le sillon de la machine, Joe Bert, un psychopathe connu des services de polices, à roulé pendant quatorze minutes avant de se faire arrêter pas les forces d'élites.
 
-![](  /content/images/2005/01/elite.jpg)
-
-![](  /content/images/2005/01/elite2.jpg)
+![](/content/images/2005/01/elite.jpg)
+![](/content/images/2005/01/elite2.jpg)
 
 L'homme avait, 2 ans plus tôt, été interpellé pour le meurtre d'un paysan qu'il avait traîné pendant cinq heures, accroché à l'arrière d'un tracteur. Joe Bert fût relâché après six mois pour "bonne conduite".
 
@@ -34,9 +33,9 @@ La dessus Madame Clinton s'effondre en larmes.
 
 Mais ce qu'on retiendra de plus terrible dans l'histoire c'est que le vol de l'engin et la mort du fermier ont été déclarés deux jours plus tôt, par le frère de la victime, au shérif local. Personne n'a cherché à retrouver l'auteur du crime et la moissonneuse batteuse. Joe Bert l'avait "discrètement" caché dans un hangar de Blackfield.
 
-![](  /content/images/2005/01/blackfield.jpg)
-
-![L'arrestation musclée de Joe Bert](  /content/images/2005/01/joe%20bert.jpg)
+![](/content/images/2005/01/blackfield.jpg)
+![L'arrestation musclée de Joe Bert](/content/images/2005/01/joe%20bert.jpg)
+_L'arrestation musclée de Joe Bert_
 
 En conclusion, les services de l'ordre sont à mettre en cause dans ce sinistre pour leur inutilité, leur négligence et leur désintéressement profond.
 

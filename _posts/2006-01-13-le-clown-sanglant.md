@@ -33,7 +33,7 @@ Des jours passèrent et de plus en plus de personnes furent tuées de la même m
 
 Cette interview s'achève sur cette photo :
 
-![](  /content/images/2005/01/clown.jpg)
+![](/content/images/2005/01/clown.jpg)
 
 Sam se rendit au poste de police le plus proche avec sa pellicule et la police afficha des centaines d'exemplaires dans tout San Andreas et même à Liberty City et Vice City.
 

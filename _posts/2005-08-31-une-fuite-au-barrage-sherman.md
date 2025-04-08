@@ -12,13 +12,12 @@ Les employés du barrage Sherman ont remarqué ce matin une fuite d'eau sur la f
 
 Le barrage Sherman est considéré comme l'une des sept merveilles du monde moderne. Ses travaux débutèrent dans les années 30, et durèrent quinze ans ! Âgé maintenant de plus de 60 ans, le bâtiment était surveillé depuis quelques temps par des employés de la ville de Las Venturas.
 
-![](  /content/images/2005/01/fissure.jpg)
+![](/content/images/2005/01/fissure.jpg)
 
 On peut en effet apercevoir très nettement des fissures sur toute sa surface. Ce matin, ce sont les employés qui ont donné l'alerte. Une fuite a été repérée sur la façade gauche de l'édifice. Aussitôt le service de sécurité fluviale est arrivé sur les lieux.
 
-![](  /content/images/2005/01/garde%20cote.jpg)
-
-![](  /content/images/2005/01/Vilage%20robada.jpg)
+![](/content/images/2005/01/garde%20cote.jpg)
+![](/content/images/2005/01/Vilage%20robada.jpg)
 
 Les habitants des villages en aval ont été évacués. Cependant "la situation n'est pas catastrophique" nous expliquait un secouriste, "nous sommes confiants".
 

@@ -12,7 +12,8 @@ _Depuis un certain temps, les autorités municipales de plusieurs villes et vill
 
 Il apparaît effectivement que depuis déjà plusieurs mois le nombre de plaintes adressé par des citoyens auprès de leur conseillers municipaux ai augmenté considérablement. Profitant du droit d'accès à l'information, nous nous sommes rendu au département des archives municipales du City Hall de Los Santos pour voir si nous pouvions mettre la main sur des rapports qui feraient état de la piètre condition dans lequel se trouverait certaines infrastructures appartenant à la ville.
 
-![Un document très gênant pour la ville de Los Santos.](  /content/images/2005/01/ren_-_los_santos_work_order.jpg)
+![Un document très gênant pour la ville de Los Santos.](/content/images/2005/01/ren_-_los_santos_work_order.jpg)
+_Un document très gênant pour la ville de Los Santos._
 
 Il nous a fallu qu’une dizaine de minutes pour mettre la main sur un rapport parlant d’un problème avec le 149 54ème Rue, un édifice centenaire occupé ironiquement par le bureau municipal de l’urbanisme. Selon ce qui est écrit sur ce rapport, rédigé par un ingénieur des travaux publics, une façade de l’immeuble de 10 étages aurait besoin d’être solidifié à cause de l’assèchement du mortier. Malgré cette recommandation pourtant classée « Prioritaire » il aura fallu l'intervention répétée de plusieurs citoyens avant que la ville n’entreprenne les travaux de réflexion. Les passants qui empruntait le trottoir adjacent à cet édifice recevaient à l'occasion des matériaux qui se détachaient de la parois du mur, quelques-uns d'entres eux auraient même subit des blessures mineurs suite à ces petits effondrement qui auraient pu être beaucoup plus sérieux. Bien que le rapport suggérait l'exécution des travaux, ceux-ci ont été retardés par la direction des travaux publics. Personne n'a voulu commenter ni nous fournir plus de détails au sujet de cette décision.
 
@@ -32,37 +33,36 @@ Suite à cette petite entrevue, avec quelques collaborateurs nous avons décidé
 
 Puisque nous nous trouvions déjà à Los Santos pour débuter notre périple, nous nous sommes rendu aux endroits de la ville où le problème est le plus évident.
 
-![](  /content/images/2005/01/renov_-_echangeur_1.jpg)
-
-![](  /content/images/2005/01/renov_-_echangeur_2.jpg)
+![](/content/images/2005/01/renov_-_echangeur_1.jpg)
+![](/content/images/2005/01/renov_-_echangeur_2.jpg)
 
 Nous avons ensuite pris la direction de San Fierro et bien entendu, l’état de la route séparant les deux villes démontrait également beaucoup de négligence de la part du département des transports. Mais avant d’arriver en ville, nous faisons un petit arrêt à Angel Pine puisqu’à quelques occasions, lorsque nous avons enregistré les plaintes des citoyens, le nom de ce village a fait maintes fois surface. Un habitant du coin s’est même permis de renommer la ville sur un panneau routier. Selon lui, Angel Pine devrait se nommer « Garbagetown » (La ville poubelle).
 
-![](  /content/images/2005/01/renov_-_angel_pine_-_panneau.jpg)
+![](/content/images/2005/01/renov_-_angel_pine_-_panneau.jpg)
 
 À notre arrivé à San Fierro nous avons réalisé qu’à défaut d’une intersection comme c’est le cas à Los Santos, c’est pratiquement un quartier entier qui aurait besoin de sérieuses rénovations. C’est à Chinatown que nous avons eu droit à tout un spectacle de désolation
 
-![](  /content/images/2005/01/renov_-_chinatown.jpg)
+![](/content/images/2005/01/renov_-_chinatown.jpg)
 
 Avant de quitter la ville pour nous rendre à Las Venturas, nous avons fait un petit détour vers les docks puisque nous avons tous cette image de bâtiments rongés par la rouille et par la vermine. Malheureusement, ce n’est pas un cliché, c’est dans cet état que nous les avons trouvé.
 
-![](  /content/images/2005/01/renov_-_dock_sanfierro_1.jpg)
-
-![](  /content/images/2005/01/renov_-_dock_sanfierro_3.jpg)
+![](/content/images/2005/01/renov_-_dock_sanfierro_1.jpg)
+![](/content/images/2005/01/renov_-_dock_sanfierro_3.jpg)
 
 Nous n’en pouvons plus... n’étant plus capable de tolérer cette odeur humide et dégueulasse, nous sautons dans notre véhicule et faisons route vers la capitale du jeu.
 
-![](  /content/images/2005/01/renov_-_las_venturas.jpg)
+![](/content/images/2005/01/renov_-_las_venturas.jpg)
 
 Nous sommes déjà presque rendu au bout du voyage. Voilà déjà plus de 8 heures que nous sommes sur la route. En prenant la direction de Los Santos, nous décidons de faire un arrêt à Blueberry et à Montgomery car quelques commentaires négatifs ont été dit au sujet de ces eux endroits.
 
-![](  /content/images/2005/01/ren_-_blueberry.jpg)
-
-![Blueberry et Montgomery ne font malheureusement pas exception.](  /content/images/2005/01/ren_-_montgomery.jpg)
+![](/content/images/2005/01/ren_-_blueberry.jpg)
+![Blueberry et Montgomery ne font malheureusement pas exception.](/content/images/2005/01/ren_-_montgomery.jpg)
+_Blueberry et Montgomery ne font malheureusement pas exception._
 
 Après avoir fait toutes ces constatations, nous sommes en droit de nous demander pourquoi le gouverneur reste les bras croisés en regardant son état tomber en ruines. Voici la réponse formulée par le gouverneur John Sturner.
 
-![Gouverneur John Sturner.](  /content/images/2005/01/renov_-_gouverneur_sturner.jpg)
+![Gouverneur John Sturner.](/content/images/2005/01/renov_-_gouverneur_sturner.jpg)
+_Gouverneur John Sturner._
 
 > Nous n’avons pas de budget pour faire ce que vous nous demandez... Ce sont aux villes et villages de se prendre en main en utilisant l’argent versé par leurs contribuables pour entreprendre les travaux. Bien que nous déplorions tout comme vous l’état des lieux, nous n’avons pas l’argent dans l’immédiat pour leur venir en aide, les maires devront se débrouiller sans mon aide. Ais-je besoin de vous rappeler que l’état a déjà versé des sommes considérables il y a quelques années par le biais du programme pour les infrastructures municipales? Puisque vous me parlez d’un problème qui existerait depuis plusieurs années, qu’est-ce que ces municipalités ont fait avec le chèque que nous leur avons envoyé? Vous devriez aller leur poser la question !
 

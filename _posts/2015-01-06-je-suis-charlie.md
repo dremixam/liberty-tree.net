@@ -16,7 +16,7 @@ Ces assassins prétendant agir au nom du prophète Mahomet et cherchent ainsi à
 
 Il n'y a qu'une réponse possible à ce crime : l'unité. La France doit rester soudée, unie, et faire bloc face à toutes les formes de terrorisme. La liberté d'expression est indestructible, Charlie Hebdo n'est pas mort. Il ne faut pas avoir peur, ne pas laisser le terrorisme l'emporter. Ils ont voulu mettre la France à genoux, ils l'ont mise debout. La France doit se défendre avec sa plume et sa verve qui restent ses meilleures armes, et pour rendre hommage aux victimes, continuer à rire et à provoquer. Le bilan sera finalement de 12 morts et 66 millions de blessés. Ce soir, je suis Charlie. Le Liberty-Tree est Charlie. Nous sommes tous Charlie.
 
-![](  /content/images/2016/06/dessinateurs.png)
+![](/content/images/2016/06/dessinateurs.png)
 
 - **Jean Cabut,** dit **Cabu - dessinateur (1938-2015)**
 - **Stéphane Charbonnier** , dit\*\* Charb - dessinateur (1967-2015)\*\*

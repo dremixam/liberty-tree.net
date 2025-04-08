@@ -12,13 +12,13 @@ Depuis un an, le taux de criminalité de la métropole de San Andreas est en hau
 
 Hier, 20 h 30. Comme d'habitude, les enfants du quartier jouent à Glen Park protégés par la bienveillante présence de leurs parents qui profitent de la fraîcheur de la soirée. Rien ne paraît pouvoir déranger l'harmonie de la scène, si ce n'est quatre gangsters du quartier qui viennent d'arriver au parc. Puis, c'est le drame. Quinze coups de feu se font entendre. Quand les secours arrivent, quelques minutes après l'incident, ils ne peuvent que constater l'horreur de la situation : un père de famille et sa fille gisent dans leur sang, inanimés, victimes d'un règlement de compte. Le frère du défunt fait partie des familles de Grove Street, en guerre contre les Ballas, coupables présumés du meurtre.
 
-![](  /content/images/2005/01/Glen01.jpg)
+![](/content/images/2005/01/Glen01.jpg)
 
 Ce genre de scène affreuse tend malheureusement à se banaliser à Los Santos… Depuis quelques années, la capitale du cinéma et ses environs sont marqués par de nombreux actes d'incivilité, accomplis par des habitants à la moralité plus que douteuse. Nous avons enquêté sur les différentes catégories d'atteintes à la loi, aidés par des spécialistes.
 
 ## Les vols et dégradations de voiture
 
-![](  /content/images/2005/01/Passant_02.jpg)
+![](/content/images/2005/01/Passant_02.jpg)
 
 Andre Mel, garagiste au MaxiAutoMoto de Los Santos.
 
@@ -34,11 +34,11 @@ Andre Mel, garagiste au MaxiAutoMoto de Los Santos.
 > 
 > **A. M.:** Tu sais, ça a toujours été comme ça à LS, si t'as tu fric tu t'en sors, si t'as rien tu as intérêt à faire gaffe à ta peau… Pour ça, 'rien de mieux qu'un bon 45 dans la poche, histoire de trouer les fesses du premier qui te cherche !
 
-![](  /content/images/2005/01/Voiture_01.jpg)
+![](/content/images/2005/01/Voiture_01.jpg)
 
 ## La drogue à Los Santos
 
-![](  /content/images/2005/01/un_%20flic.jpg)
+![](/content/images/2005/01/un_%20flic.jpg)
 
 Albert Lames, officier de police dans le quartier de Ganton.
 
@@ -54,7 +54,7 @@ Albert Lames, officier de police dans le quartier de Ganton.
 > 
 > **A. L.:** Ils doivent être deux ou trois... et ce n'est qu'une question de temps avant de les voir sous les verrous !
 
-![](  /content/images/2005/01/Gangsta01.jpg)
+![](/content/images/2005/01/Gangsta01.jpg)
 
 NDRL : selon d'autres sources, les dealers se compteraient  
 par dizaines dans le seul quartier de Ganton.

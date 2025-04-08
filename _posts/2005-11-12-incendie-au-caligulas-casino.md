@@ -12,7 +12,7 @@ _Un incendie a ravagé hier le célèbre casino de la capitale du jeu._
 
 Chaque grande ville de San Andreas contribue à la parfaite santé économique de l’État : Los Santos qui n'est autre que la capitale mondiale du cinéma produit des films regardés partout, San Fierro, ville où se réunissent les grands fans de tuning accueille dans sa grande baie des dizaines de bateaux par jour. Et enfin, « la vache à lait » de l’État : Las Venturas. Une ville bordée de casinos dont l'un des plus populaires : le Caligula's casino. Ce grand casino a été malheureusement ravagé par un incendie, et on dénombre pas moins de dix victimes.
 
-![](  /content/images/2005/01/fire2.jpg)
+![](/content/images/2005/01/fire2.jpg)
 
 La police scientifique de Las Venturas a découvert des traces de verre et d'alcool brûlé. Elle en a conclu que cet incendie était criminel et intentionnel, car les autorités ont trouvé sous un meuble de pierre du casino un déguisement de croupier qui sentait la vodka brûlée.
 

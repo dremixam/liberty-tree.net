@@ -14,9 +14,9 @@ C'est à travers une nouvelle campagne de pub plutôt bien convaincante que la s
 
 La première innovation qui saute aux yeux est évidemment le design de la bête, avec une refonte complète pour enfin le tenir de manière agréable dans la main, on adopte ainsi un style relativement classique avec des formes tout ce qu'il y a de plus basique, s'éloignant ainsi du modèle précédent et de sa forme "bouche à oreille".
 
-![](  /content/images/2016/06/ifruit.jpg)
-
-![Comparaison : nouveau / ancien.](  /content/images/2016/06/ifruit-ancien.png)
+![](/content/images/2016/06/ifruit.jpg)
+![Comparaison : nouveau / ancien.](/content/images/2016/06/ifruit-ancien.png)
+_Comparaison : nouveau / ancien._
 
 Mais le progrès ne se limite pas simplement à une refonte du plastique, mais aussi au matériel embarqué, en effet le constructeur annonce enfin la possibilité d'insérer une carte mémoire FruitCard 1 Go, qui sera disponible séparément le même jour que la sortie du nouveau téléphone pour la modique somme de 299 $ !
 

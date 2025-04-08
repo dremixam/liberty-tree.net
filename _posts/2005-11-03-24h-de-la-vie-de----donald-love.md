@@ -20,11 +20,10 @@ _Je reprends donc la série des "24h de la vie de..." pour en consacrer un artic
 
 **14h45-15h45:** Grande conférence de presse organisée en l'honneur du partenariat entre Love Média et Zip, décidément le thème de la journée. Cette conférence durera une heure durant laquelle, tour à tour, Donald et le patron de Zip expliqueront les termes du contrat les liant.
 
-![](  /content/images/2005/01/logo%20love%20media.jpg)
+![](/content/images/2005/01/logo%20love%20media.jpg)
+![](/content/images/2005/01/logo%20zip.jpg)
 
-![](  /content/images/2005/01/logo%20zip.jpg)
-
-**15h45-17h30:** Événement dans la vie de Love Média !! Mise en place du site Internet du groupe et son lancement en présence du directeur Donald Love. Tout sur Love Média (émissions, fréquences radio, animateurs, partenaires, ... ) à l'adresse suivante [http://www.liberty-tree.net/](  /) .
+**15h45-17h30:** Événement dans la vie de Love Média !! Mise en place du site Internet du groupe et son lancement en présence du directeur Donald Love. Tout sur Love Média (émissions, fréquences radio, animateurs, partenaires, ... ) à l'adresse suivante [http://www.liberty-tree.net/](/) .
 
 **17h30-19h00:** Donald part, en compagnie de ses conseillers, au contact du peuple pour recueillir des suggestions auprès de ses auditeurs dans les centres commerciaux de la ville et accessoirement pour faire de la publicité pour ses émissions.
 

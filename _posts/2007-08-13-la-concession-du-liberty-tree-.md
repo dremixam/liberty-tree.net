@@ -20,7 +20,7 @@ Premièrement, nous nous lancerons dans une description de chaque véhicule, ses
 
 **Ford Mustang Pony**
 
-![](  /content/images/2005/01/Fordmustang123.jpg)
+![](/content/images/2005/01/Fordmustang123.jpg)
 
 La dernière née de chez Ford présentée au dernier salon de San Andreas est enfin sortie, nous allons vous la présenter dans ses moindres détails !
 
@@ -65,7 +65,7 @@ Voila pour la Ford Mustang Pony ! Passons donc à la Nissan Skyline GTR 2007 Edi
 
 Nissan Skyline GTR 2007 Edition
 
-![](  /content/images/2005/01/skyline1.jpg)
+![](/content/images/2005/01/skyline1.jpg)
 
 La nouvelle de chez Nissan est la GTR repensée ! Nissan vient de frapper un grand coup en ressortant un de ses ancien modèle sortit il y a plusieurs années maintenant. Les concepteurs de la voitures n'ont pas été rappelés pour donner une seconde vie à ce modèle sportif qu'est la GTR, de nouveaux ingénieurs ont changé pas mal de chose sur le plans des caractéristiques techniques.
 

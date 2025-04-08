@@ -38,6 +38,7 @@ Aucune autre information n'a été donnée aux médias, l'état préfère garder
 
 La police, nouveau dealer? Affaire à suivre...
 
-![Une bande de jeunes se moque de cette histoire : « Wow, apparemment les flics font le boulot à notre place »](  /content/images/2005/01/yo1.jpg)
+![Une bande de jeunes se moque de cette histoire : « Wow, apparemment les flics font le boulot à notre place »](/content/images/2005/01/yo1.jpg)
+_Une bande de jeunes se moque de cette histoire : « Wow, apparemment les flics font le boulot à notre place »_
 
 <!--kg-card-end: markdown-->

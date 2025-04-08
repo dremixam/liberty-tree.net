@@ -20,7 +20,7 @@ Notre premier arrêt: Seville Boulevard, ou se tiennent les Seville Families: No
 
 > **Ricardo di Andrès:** Le tag, si vous voulez, c'est notre fierté, c'est la façon de montrer à la fois notre art et notre fierté d'appartenance aux Seville Boulevard.
 
-![](  /content/images/2005/01/tag%201.jpg)
+![](/content/images/2005/01/tag%201.jpg)
 
 Prochain point où nous nous arrêtons, le sud de Los Santos, dans les docks, ici, les employés sont presque tous du coin et ils parlent assez couramment notre langue, coup de chance:
 
@@ -28,11 +28,11 @@ Prochain point où nous nous arrêtons, le sud de Los Santos, dans les docks, ic
 
 > **Esteben Nabas:** Le tag, c'est le blason, le point commun à tous les Vagos, vous savez, tout le monde ne s'entend pas parfaitement au sein du clan, mais on a tous un point commun, le Tag. Si quelqu'un parle du tag, c'est comme quand vous, vous parlez de Jésus, tout le monde s’assoit et écoute.
 
-![](  /content/images/2005/01/tag%202.jpg)
+![](/content/images/2005/01/tag%202.jpg)
 
 Suite à cet élan de foi, nous reprenons la route et nous nous arrêtons peu après, sur le pont qui relie l'entrepôt militaire d'armes au continent. Le bastion Ballas qui essaye de lutter face au Vagos et au Seville, le point qu'aucun Ballas ne doit franchir.
 
-![](  /content/images/2005/01/tag%203.jpg)
+![](/content/images/2005/01/tag%203.jpg)
 
 Nous arrivons du coté du gang Ballas justement, nous interpellons à nouveau un passant au sortir de sa maison.
 
@@ -42,7 +42,7 @@ Nous arrivons du coté du gang Ballas justement, nous interpellons à nouveau un
 
 Et c'est vrai qu'en regardant le bas du tag, on voit très facilement le nom en question.
 
-![](  /content/images/2005/01/tag%205.jpg)
+![](/content/images/2005/01/tag%205.jpg)
 
 Nous continuons notre périple dans les rues et nous arrivons face à la demeure de César Vialpando, célèbre organisateur de courses urbaines.
 
@@ -50,7 +50,7 @@ Nous continuons notre périple dans les rues et nous arrivons face à la demeure
 
 > **César Vialpando:** Non, le tag ne divise pas forcément le territoire, certaines familles s'allient entre elles, mais le tag montre l'originalité, le caractère propre de la famille.
 
-![](  /content/images/2005/01/tag%204.jpg)
+![](/content/images/2005/01/tag%204.jpg)
 
 Sortant de chez César, nous assistons à un superbe concours de chorégraphie Low Rider qui, soit dit au passage, est impressionnant. Nous revenons vers le bureau du Liberty Tree quand soudain, mon regard est attiré par un tag vert clair. Nous nous arrêtons et l'on voit tagué sur un tag Ballas, le blason des Groves.
 
@@ -60,7 +60,7 @@ J'appelle un habitant, je le questionne, ce tag n'était pas là ce matin, je se
 
 > Sweet Johnson: Oh, man, c'est pas un gang, ici, c'est une famille, le tag, man, c'est la fierté, c'est le drapeau national, ici, quand tu vois une guerre de territoires, tu te bats pour pouvoir le taguer, tu te bats pour le tag, le tag, c'est pas Dieu, mais c'est un modèle, c'est ta devise. Si tu ne suis pas ce que dis le tag (NDLR: groves families for life), tu te tires, t'as rien à faire ici.
 
-![](  /content/images/2005/01/tag%206.jpg)
+![](/content/images/2005/01/tag%206.jpg)
 
 Et nous revenons au Liberty Tree, tout nouveau de cet échange avec la population, et de valeurs qui nous étaient si longtemps apparues comme inutiles. La famille, le respect, l'entraide. ici, se termine notre journée des tags. A bientôt !
 

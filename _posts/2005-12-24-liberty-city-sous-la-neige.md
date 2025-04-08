@@ -20,7 +20,7 @@ A déclaré le Sergent Dawson de la Brigade de Portland.
 
 Cette méthode, bien que très grossière, semble porter ses fruits. En effet, voyant une hausse des effectifs de police, les malfrats semblent rester chez eux. Mais les bonhommes de neige de la police ne tiendront pas longtemps l'illusion. Pour connaître l'avis des habitants sur la neige, nous avons questionné des piétons.
 
-![](  /content/images/2005/01/Liberty_City_sous_la_neige.jpg)
+![](/content/images/2005/01/Liberty_City_sous_la_neige.jpg)
 
 > **Terry Armstrong, chauffeur de taxi, 45 ans :** C'est cool qu'il neige ! On voit les enfants s'amuser dans la rue et les vieux glisser sur le verglas. C'est trop marrant !
 

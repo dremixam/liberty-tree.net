@@ -16,7 +16,8 @@ Ironise Garner kofmann, le chef de l’entretien du pont.
 
 Bref, c’est un sort funeste pour Joe Walter, malgré qu’il ait bu plus que de raison ce soir là. "C’est un homme qui ne supportait pas l’alcool, il ne réagissait pas bien lorsque qu’il était bourré" nous disent ses proches, lors de son enterrement. Mr walter travaillait pour la régularisation des cailloux servant ensuite pour les chemins de fer de San Andreas. C’est un métier plus lucratif que l’on imagine. Joe aurait aussi été lâché par sa femme après 2 ans de vie commune, c’est sûrement l'une des raisons de son suicide.
 
-![Walter et son ex-femme...Sur le Gant Bridge !](  /content/images/2005/01/Walter___wife.jpg)
+![Walter et son ex-femme...Sur le Gant Bridge !](/content/images/2005/01/Walter___wife.jpg)
+_Walter et son ex-femme...Sur le Gant Bridge !_
 
 "Joe à peut être voulu quitter notre monde là où ses souvenirs sont les plus heureux" nous a dit sa mère, profondément choqué par le décès de son fils. En toutes circonstances, Joe Lee Walter restera dans nos pensées et dans notre cœur.
 
@@ -26,11 +27,13 @@ Les anciens suicidés de ce pont ont chacun une raison de venir mourir ici.
 
 Nous a expliqué Paul Miscellaneous, psychiatre de renom de San Fierro. Il nous a aussi montré des vidéos de la caméra de&nbsp;surveillance de Jizzy’s Pleasure Dome située sur le toit du club. Nous ne pouvons malheureusement vous montrer ici que des images de qualité moyenne tirées de la caméra.
 
-![Images tirées de la cassette de la camera de vidéosurveillance](  /content/images/2005/01/Saut_1.jpg)
+![Images tirées de la cassette de la camera de vidéosurveillance](/content/images/2005/01/Saut_1.jpg)
+_Images tirées de la cassette de la camera de vidéosurveillance_
 
 Nous avons aussi eu la chance de pouvoir interviewer le patron de la police criminelle qui qui s’y intéresse d’assez près aux suicidés du Gant Bridge. C’est un Amadis Kool très chaleureux, sympathique et ma foi un peu bizarre, qui nous a accueilli dans ses salons.
 
-![Mr Kool, à San Fierro](  /content/images/2005/01/amadis.jpg)
+![Mr Kool, à San Fierro](/content/images/2005/01/amadis.jpg)
+_Mr Kool, à San Fierro_
 
 > **Liberty Tree&nbsp;:** Bonjour Mr Kool, vous vous intéressez de près à ces suicides, je me trompe&nbsp;?
 
@@ -62,8 +65,8 @@ Nous avons aussi eu la chance de pouvoir interviewer le patron de la police crim
 
 Nous avons ensuite du&nbsp;interrompre cet interview&nbsp;car Mr Kool fut pris d’une formidable crise de rire. On prie tous pour qu’il n'en soit pas mort…
 
-![](  /content/images/2005/01/cadavre1.jpg)
-
-![Photos de l'agent de Mr Kool](  /content/images/2005/01/cadavre2.jpg)
+![](/content/images/2005/01/cadavre1.jpg)
+![Photos de l'agent de Mr Kool](/content/images/2005/01/cadavre2.jpg)
+_Photos de l'agent de Mr Kool_
 
 <!--kg-card-end: markdown-->

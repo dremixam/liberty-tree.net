@@ -26,13 +26,15 @@ Comme vous venez de le constater, votre cher journal, le Liberty Tree, obtient t
 
 Mais, comme précisé plus tôt, l'envie n'est pas un péché qui touche uniquement les faibles niveaux d'études ou les habitants de zones sensibles. En effet, les personnes percevant des revenus moyens aussi sont envieux des autres. Hier, dans les environs de 16h30, Lloyd Briggs a braqué l'acteur Peter McElty avec un 9mm. Il lui demandait de lui "donner" sa conjointe, Teresa Palmer, célèbre mannequin de Los Santos.
 
-![Teresa Palmer.](  /content/images/2016/06/11_2_0.jpg)
+![Teresa Palmer.](/content/images/2016/06/11_2_0.jpg)
+_Teresa Palmer._
 
 Un témoin a vu la scène et la police est intervenue avant qu'un drame ne se produise. Nous avons interviewé le lieutenant Doug Hankman, qui l'a arrêté et interrogé :
 
 > Ce type est vraiment fêlé, il m'a expliqué qu'il trouvait sa femme vieillissante, qu'elle grossissait à longueur de temps et donc qu'il ne la supportait plus. Il voulait à tout prix passer au moins une nuit avec Palmer. C'est vrai qu'elle est bo... belle, mais de là à braquer son mec... Carlson !
 
-![McElty dans "Los Santos Bastards".](  /content/images/2016/06/11_1.jpg)
+![McElty dans "Los Santos Bastards".](/content/images/2016/06/11_1.jpg)
+_McElty dans "Los Santos Bastards"._
 
 Nous nous sommes par la suite entretenus avec M. McElty :
 
@@ -44,7 +46,8 @@ Nous avons interrompu l'interview.
 
 L'envie touche toute catégorie sociale, même les populations les plus riches de Los Santos.
 
-![Le siège de Augury Insurance.](  /content/images/2016/06/11_3.jpg)
+![Le siège de Augury Insurance.](/content/images/2016/06/11_3.jpg)
+_Le siège de Augury Insurance._
 
 Patrick Keller, PDG de l'entreprise d'assurance Augury Insurance (AUG) a été suspecté pendant plusieurs mois par le procureur Harvey Gambit de saboter des véhicules civils pour toucher, avec son entreprise, le maximum de personnes et donc de voir augmenter ses actions boursières en flèche. Tout ceci étant parce que AUG n'était pas l'entreprise d'assurance qui vendait le plus dans tout l'état, étant simplement deuxième.
 

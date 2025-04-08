@@ -114,35 +114,21 @@ body {
     background-size: cover;
 }
 
+.site-header.cover {
+    background-position: center;
+    z-index: 1; /* Assurez-vous que le contenu est au-dessus */
+}
 
-.site-header:before {
+.site-header.cover::before {
     content: "";
     position: absolute;
     top: 0;
+    left: 0;
     right: 0;
     bottom: 0;
-    left: 0;
-    z-index: 10;
-    display: block;
-    background: rgba(0,0,0,0.18);
-}
-
-.site-header:after {
-    content: "";
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: auto;
-    left: 0;
-    z-index: 10;
-    display: block;
-    height: 80px;
-    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0));
-}
-
-.site-header.no-cover:before,
-.site-header.no-cover:after {
-    display: none;
+    z-index: -1; /* Place le pseudo-élément derrière le contenu */
+    background: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .1));
+    backdrop-filter: blur(5px) brightness(.9) contrast(.8);
 }
 
 .site-header-content {
@@ -427,8 +413,8 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .post-card-tags {
-    display: block;
-    margin-bottom: 4px;
+    display: inline-block;
+    margin-bottom: -4px;
     color: var(--midgrey);
     font-size: 1.2rem;
     line-height: 1.15em;
@@ -437,8 +423,13 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     text-transform: uppercase;
 }
 
+.post-card-tags:not(:last-of-type)::after {
+    content: "-"; /* Ajoute un tiret après chaque .post-card-tags sauf le dernier */
+    margin: 0 1px 1px 5px;
+}
+
 .post-card-title {
-    margin-top: 0;
+    margin-top: 8px;
 }
 
 .post-card-content {
@@ -599,6 +590,11 @@ The first (most recent) post in the list is styled to be bigger than the others 
     margin: 0 6px 1px;
 }
 
+.tags-divider {
+    display: inline-block;
+    margin: 0 6px 1px;
+}
+
 .post-full-image {
     margin: 0 -10vw -165px;
     height: 800px;
@@ -755,14 +751,14 @@ The first (most recent) post in the list is styled to be bigger than the others 
 }
 
 
+
 /* Full bleed images (#full)
 Super neat trick courtesy of @JoelDrapper
 
 Usage (In Ghost edtior):
 
 ![img](/some/image.jpg#full)
-
-*/
+_img_*/
 .post-full-content img[src$="#full"] {
     max-width: none;
     width: 100vw;
@@ -774,7 +770,7 @@ Usage (In Ghost edtior):
 Usage (In Ghost editor):
 
 ![img](/some/image.jpg)
-<small>Your image caption</small>
+_img_small>Your image caption</small>
 
 */
 .post-full-content img + br + small {
@@ -783,6 +779,13 @@ Usage (In Ghost editor):
     margin-bottom: 1.5em;
 }
 
+.post-full-content p > img + em {
+    display: block; /* Transforme l'élément en bloc pour permettre le centrage */
+    text-align: center; /* Centre le texte */
+    font-size: 0.75em; /* Réduit légèrement la taille */
+    margin-top: -1.7em;
+    margin-bottom: 1.5em;
+}
 
 .post-full-content iframe {
     margin: 0 auto;
@@ -791,7 +794,7 @@ Usage (In Ghost editor):
 .post-full-content blockquote {
     margin: 0 0 1.5em;
     padding: 0 1.5em;
-    border-left: #208d1a 3px solid;
+    border-left: #809f44 3px solid;
 }
 
 .post-full-content blockquote p {

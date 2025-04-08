@@ -16,24 +16,15 @@ En effet, n'importe quelle personne acceptant de prendre le risque de s'aventure
 
 Il suffit de marcher quelques minutes dans la rue pour se rendre compte que les enseignes de magasins écrites en cyrillique sont bien plus fréquentes que les panneaux en anglais bien compréhensibles auxquels nous sommes habitués.
 
-![](  /content/images/2021/12/medical-service.jpeg)
-
- ![](  /content/images/2021/12/shop_0.jpeg)
-
- ![](  /content/images/2021/12/bus-stop.jpeg)
-
+![](/content/images/2021/12/medical-service.jpeg)
+![](/content/images/2021/12/shop_0.jpeg)
+![](/content/images/2021/12/bus-stop.jpeg)
 _Hove Beach, une petite Russie ?_
 
 Le président soviétique russe, Vladimir Poutine, a bien compris cet état de fait et a donc profité de l'occasion pour annoncer la tenue prochaine à Hove Beach d'un référendum afin de savoir si les habitants sont favorables à un rattachement à la Russie. Le référendum, pour des raisons de sécurité, se déroulera sous contrôle de l'armée russe qui a déja stationné ses navires au large de Liberty City.
 
-![](  /content/images/2016/06/ships-coming.jpg)
+![](/content/images/2016/06/ships-coming.jpg)
 _Les navires russes stationnés au large de Liberty City attirent les curieux._
 
 Ce déploiement de force au portes même de notre pays inquiète au plus haut point nos autorités locales qui dénoncent une agression inacceptable mais Vladimir Poutine se veut rassurant en garantissant que ses troupes ne sont présentes que pour garantir que l'élection se déroule dans un climat serein et sans que des pressions ne soient exercées sur les électeurs.
-
-Les sois-disant journalistes de Weazel News ont eu la possibilité d'interviewer Monsieur Poutine lors de leur dernière _Late Edition_, les informations recueillies à ce sujet sont édifiantes et ne présagent rien de bon pour l'avenir de Hove Beach en tant que quartier de Liberty-City.
-
-<iframe width="480" height="270" src="https://www.youtube.com/embed/VwRwJwRPhig?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-_Le sujet de Weazel News avec l'interview de Vladimir Poutine_
-
 

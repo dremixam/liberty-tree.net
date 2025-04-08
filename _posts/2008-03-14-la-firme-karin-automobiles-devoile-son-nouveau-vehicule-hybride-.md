@@ -9,12 +9,12 @@ tags:
 
 Le réchauffement de la planète est le problème de tous. Chacun y va plus ou moins de ses bonnes résolutions pour ne pas que les ours polaires voient leur banquise fondre comme un glaçon dans un verre de Pastis, mais il y a encore des progrès à faire, surtout dans les grandes villes comme Liberty City où les pics de pollution sont monnaie courante aux heures de pointe.
 
-![](http://www.liberty-tree.net/screens/screenshots/karin2.jpg)  
+![](http://www.liberty-tree.net/screens/screenshots/karin2.jpg) 
 Et la planète se réchauffe, tranquillement.
 
 Pourtant, des alternatives existent. La firme automobile Karin a présenté la semaine dernière son premier véhicule hybride, la Dilletente. Le principe est simple : un moteur électrique alimentée par une batterie, elle même rechargée par un moteur thermique de 4 cylindres. En trafic urbain, lorsque la batterie dont il dépend est suffisamment chargée, le moteur électrique est utilisé jusqu'à la vitesse de 50 km/h. Au delà, le moteur thermique lui vient en aide et permet de recharger la batterie. Sur un trajet autoroutier, le moteur électrique et le moteur thermique fonctionnent ensemble, afin de produire un rapport économie/puissance optimal. En effet, la Dilletente ne consomme que 6L d'essence aux 100km/h en trafic routier, et à peine 4.5L aux 100 km en ville, où le moteur thermique est le moins utilisé.
 
-![http://www.liberty-tree.net/screens/screenshots/karin1.jpg](http://www.liberty-tree.net/screens/screenshots/karin1.jpg)  
+![http://www.liberty-tree.net/screens/screenshots/karin1.jpg](http://www.liberty-tree.net/screens/screenshots/karin1.jpg) 
 La nouvelle Karin Dilletente. Économique et écolo.
 
 En exclusivité, le Liberty Tree vous propose de visionner la vidéo de promotion de la Karin Dilletente, qui sera prochainement diffusée sur votre chaîne télévisée préférée.
@@ -39,7 +39,7 @@ Lors du salon de l'auto de Liberty City, nous avons pu rencontrer Chin Ko-Wan, P
 > 
 > **LT :** M. Ko-Wan, encore merci pour cette interview, et de la part de l'équipe du Liberty Tree, nous vous souhaitons tout le succès que votre nouveau véhicule mérite !
 
-![](http://www.liberty-tree.net/screens/screenshots/karin3.jpg)  
+![](http://www.liberty-tree.net/screens/screenshots/karin3.jpg) 
 Des centaines de Liberticiens vont bientôt recevoir leurs Dilletente, dont l'attente a déjà dépassée les 6 mois pour certains.
 
 <!--kg-card-end: markdown-->

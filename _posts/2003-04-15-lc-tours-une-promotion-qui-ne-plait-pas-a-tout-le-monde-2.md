@@ -27,8 +27,7 @@ Nous avons voulus en savoir plus sur M. Shrub et c'est ainsi que j'ai fait un al
 
 Nous espérons que les tensions entre Vice City et Liberty vont rapidement cesser, en attendant, un exemplaire de la brochure distribuée dans les rues de LC et une vue de l'aéroport Libertycien Intl. Francis.
 
-![](  /content/images/2016/07/plane.JPG)
-
-![](  /content/images/2016/07/Tours.JPG)
+![](/content/images/2016/07/plane.JPG)
+![](/content/images/2016/07/Tours.JPG)
 
 <!--kg-card-end: markdown-->

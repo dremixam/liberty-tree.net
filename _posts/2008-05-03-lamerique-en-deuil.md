@@ -23,9 +23,8 @@ Après quelques heures de recherches et une dizaine d'arrestations arbitraires, 
 
 > Après s'être échappé de son hôtel, le président à donc pris la route de Ganton, quartier qui, de loin, affiche le mieux son coté mal fréquenté. Bien décidé a trouver de la poudre de première qualité, le président s'est aventuré dans les ruelles les plus sombres de ce quartier en interrogeant toutes les personnes qui passaient... Il a fini par tomber sur un membre du gang Orange Groove Families aussi connu sous le nom Groove Street Families, le membre du gang aurait voulu faire sortir ce, je cite le dealer, 'drogué en manque' du quartier. Le président s'est alors énervé et l'altercation qui a suivi lui a été fatale. Les membres du gang ont donc décidé d'aller jeter le corps dans le canal... Après quoi le corps a subi un sort... moins enviable... Nous avons retrouvé la dépouille à moitié nue... Visiblement violée a plusieurs reprises, un viol... hum... post-mortem... Et si nous n'avions pas retrouvé la dépouille à temps, ce seraient les rats du canal qui en auraient fait un déjeuner.
 
-![Des membres de Famille de Grove Street à l'origine de la mort du président.](  /content/images/2005/01/orangegrovefamilies.jpg/)
-
-![Le pont sous lequel la dépouille du président a été retrouvée, fraîchement violée.](  /content/images/2005/01/pont_george.jpg/)
+![Des membres de Famille de Grove Street à l'origine de la mort du président.](/content/images/2005/01/orangegrovefamilies.jpg/)
+_Des membres de Famille de Grove Street à l'origine de la mort du président._[Le pont sous lequel la dépouille du président a été retrouvée, fraîchement violée.](/content/images/2005/01/pont_george.jpg/)
 
 C'est donc dans des circonstances extrêmement étranges que notre quarante-quatrième président quitte ses fonctions. Comme le prévoit la constitution, c'est le vice président qui assurera l'intérim jusqu'aux élections.
 

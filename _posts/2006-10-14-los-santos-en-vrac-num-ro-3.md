@@ -8,19 +8,17 @@ tags:
 - los-santos
 ---
 
-![](  /content/images/2005/01/envracnewtitle.jpg)
+![](/content/images/2005/01/envracnewtitle.jpg)
 
 **Lundi 9/10/2006 :**
 
 Grève à la Sanity Andreas. Les employés de la compagnie privée d'entretien des canalisations en tout genre de l'Etat de San Andreas se sont mis en grève, et ce pour une durée indéterminée, suite à la violente agression qui a visé Craig Armstrong le week-end dernier, lui aussi travaillant à la Sanity et dont le véhicule a été incendié alors que ce dernier réparait une évacuation des eaux usées éventrée du côté de Los Flores. M. Armstrong a juste eu le temps de s'enfuir&nbsp;et sauter dans un taxi tandis&nbsp;qu'une bande de cinq ou six jeunes du quartier démolissaient son Hummer. Roy Johanson, employé depuis neuf ans dans la compagnie et désigné comme leader du mouvement social, demande au PDG du groupe, Sulivan P. Slater, de faire un geste pour ses travailleurs, notamment au niveau de la sécurité, sans quoi la grève pourrait encore durer un moment.
 
-![](  /content/images/2005/01/sani1.jpg)
-
-![Seuls les véhicules de la Sanity étaient présents au dépôt ce lundi matin.](  /content/images/2005/01/sani2.jpg)
-
-![](  /content/images/2005/01/sani3.jpg)
-
-![L'attaque du H1 de M. Armstrong et la photo de Roy Johanson.](  /content/images/2005/01/sani4.jpg)
+![](/content/images/2005/01/sani1.jpg)
+![Seuls les véhicules de la Sanity étaient présents au dépôt ce lundi matin.](/content/images/2005/01/sani2.jpg)
+_Seuls les véhicules de la Sanity étaient présents au dépôt ce lundi matin._[](/content/images/2005/01/sani3.jpg)
+![L'attaque du H1 de M. Armstrong et la photo de Roy Johanson.](/content/images/2005/01/sani4.jpg)
+_L'attaque du H1 de M. Armstrong et la photo de Roy Johanson._
 
 **Mardi 10/10/2006 :**
 
@@ -28,23 +26,21 @@ Une nouvelle compagnie privée axée sur le transport aérien de petite distance
 
 > Les pilotes de la Juank sont des manches, _nous raconte le jeune PDG de Fly'n'Drive._ Ils sont formés à la va-vite sur MS Flight Simulator et on les lâche sur un AT400 contenant 200 passagers. C'est du grand n'importe quoi. Avec Fly'n'Drive, vous avez la garantie d'un transport fiable et confortable. Tous nos Shamal sont entretenus par la même compagnie privée, et nos pilotes ont de l’expérience. N'hésitez pas à nous solliciter pour un devis gratuit !
 
-![](  /content/images/2005/01/fly1.jpg)
-
-![](  /content/images/2005/01/fly2.jpg)
-
-![La Flotte de Fly'n'Drive au grand complet.](  /content/images/2005/01/fly3.jpg)
+![](/content/images/2005/01/fly1.jpg)
+![](/content/images/2005/01/fly2.jpg)
+![La Flotte de Fly'n'Drive au grand complet.](/content/images/2005/01/fly3.jpg)
+_La Flotte de Fly'n'Drive au grand complet._
 
 **Mercredi 11/10/2006 :**
 
-![](  /content/images/2005/01/thetower.jpg)
+![](/content/images/2005/01/thetower.jpg)
 
 Mercredi dernier, une conférence de presse a été donnée au Conference Center de Los Santos par les studios de production InterGlobal pour annoncer la sortie du dernier film du célébre réalisateur fraîchement débarqué du Kazaksthan, Sven Borrat. Ce nouvel opus s'intitulant "The Tower" raconte la nuit mouvementée d'un héros qui va sauver la vie de deux-cents&nbsp; personnes alors qu'un building de Downtown est menacée par un groupe de terroriste s'étant invités lors d'une soirée donnée par un multi-milliardaire de Vinewood. Scénario classique, notre héros joué par le fameux Bruce Walace (Une nuit en enfer, 48 secondes pour vivre) va sauver tout ce petit monde en flinguant à tout va et en mettant chaque étage à feu et à sang, à s'en demander comment ce pauvre building tient toujours debout. Ce long métrage, dont la sortie est prévue au mois de novembre sur vos écrans, a été qualifié de "grosse daube" par certains et de "nouveau chef d'oeuvre" par d'autres. Pour en avoir le cœur net, nous avons demandé leur avis à certains cinéphiles présents lors de la conférence de presse.
 
-![](  /content/images/2005/01/thetowervip.jpg)
-
-![](  /content/images/2005/01/thetowervip2.jpg)
-
-![Une conférence de presse où tout le gota était présent.](  /content/images/2005/01/thetowervip3.jpg)
+![](/content/images/2005/01/thetowervip.jpg)
+![](/content/images/2005/01/thetowervip2.jpg)
+![Une conférence de presse où tout le gota était présent.](/content/images/2005/01/thetowervip3.jpg)
+_Une conférence de presse où tout le gota était présent._
 
 > **Lilian P. - 27ans :** Je suis une fan de Borrat, son style est vraiment inimitable, je suis sûr que ce nouvel opus va faire un malheur !
 
@@ -56,7 +52,7 @@ Mercredi dernier, une conférence de presse a été donnée au Conference Center
 
 Les avis sont donc partagés, mais la majorité penche plutôt du côté positif. Attendons de voir quel sera le resultat final lors de la sortie du film dans les salles obscures.
 
-![](  /content/images/2005/01/pizzastack.jpg)
+![](/content/images/2005/01/pizzastack.jpg)
 
 **Jeudi 12/10/2006 :**
 
@@ -66,9 +62,8 @@ Suite à l'article de notre reporter, Fido-Le-Muet, rapportant que les habitants
 
 Journée tragique pour le Liberty Tree. Canar, reporter au journal depuis peu de temps, s'était rendu en hélicoptère pour couvrir un scoop, vendredi aux alentours de trois heures du matin. Un de ses contacts l'aurait apparemment appelé sur son GSM en pleine nuit pour lui annoncer qu'un "truc super mega pas clair" (d'après la note que nous avons retrouvés sur son bureau) se passait à Montgomerry. Aucun contact radio pendant le trajet, l'arrivée fut fatale au pauvre Canar. Pour une raison encore inconnue, l'hélicoptère du Liberty Tree s'est écrasé en pleine rue sous l’œil horrifié des habitants encore éveillés. Peu de détails nous sont parvenus concernant le crash de l'hélico. Un autochtone insomniaque pu prendre une photo sur laquelle nous pouvons voir un panache de fumée noire s'échapper de l'aéronef. La caméra de surveillance du General Store de Montgomerry a enregistré le crash de l'appareil. Notre journaliste n'a hélas pas survécu à l'accident. Le SID de Los Santos dépêché sur place pour examiner la carcasse calcinée de l'hélicoptère conclut à un sabotage. En effet, une boîte de cannellonis accompagnés d'une petite bouteille de champagne ont été retrouvées dans la turbine de l'hélico.
 
-![](  /content/images/2005/01/smokk.jpg)
-
-![](  /content/images/2005/01/securicam2.jpg)
+![](/content/images/2005/01/smokk.jpg)
+![](/content/images/2005/01/securicam2.jpg)
 
 La photo prise par un habitant de Montgomerry et la caméra se surveillance ayant enregistré le crash.
 

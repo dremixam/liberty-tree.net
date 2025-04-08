@@ -14,9 +14,8 @@ Il y a quelques jours, nous vous avons parlé des Hellraiser, ce gang a réussi 
 
 Leur dernier crime remonte à hier, où ils ont attaqué un petit magasin se trouvant entre Los Santos et Sandy Shores : ils ont abattu de sang froid tous les occupants du commerce. Attention, les images ci-dessous peuvent heurter la sensibilité de certaines personnes.
 
-![Un innocent qui ne faisait que passer par là.](  /content/images/2016/06/0_0_122.jpg)
-
-![La caissière ainsi que sa fille sauvagement abattues.](  /content/images/2016/06/0_0_123.jpg)
+![Un innocent qui ne faisait que passer par là.](/content/images/2016/06/0_0_122.jpg)
+_Un innocent qui ne faisait que passer par là._[La caissière ainsi que sa fille sauvagement abattues.](/content/images/2016/06/0_0_123.jpg)
 
 ## De l'équipement militaire en masse.
 
@@ -26,11 +25,10 @@ Les motards ont réussi à se procurer du matériel militaire. En effet, ils ont
 
 En plus de tous les crimes commis, il y a des informaticiens très doués au sein du gang qui ont créé un site Internet où ils postent des photos d'eux pour narguer les autorités ; le site à été supprimé mais nous avons pu recueillir quelques photos.
 
-![2 membres inconnus du gang.](  /content/images/2016/06/0_0_124.jpg)
-
-![Le dernier Lost encore vivant... Jusqu'à ce matin.](  /content/images/2016/06/0_0_125.jpg)
-
-![Kurt Warner, le leader du gang.](  /content/images/2016/06/0_0_126.jpg)
+![2 membres inconnus du gang.](/content/images/2016/06/0_0_124.jpg)
+_2 membres inconnus du gang._[Le dernier Lost encore vivant... Jusqu'à ce matin.](/content/images/2016/06/0_0_125.jpg)
+![Kurt Warner, le leader du gang.](/content/images/2016/06/0_0_126.jpg)
+_Kurt Warner, le leader du gang._
 
 ## Enregistrement vocal de Warner sur le site du gang.
 

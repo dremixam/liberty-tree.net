@@ -7,7 +7,8 @@ tags:
 - liberty-city
 ---
 
-![Today's vehicule](  /content/images/2016/07/PreviewLand.jpg)
+![Today's vehicule](/content/images/2016/07/PreviewLand.jpg)
+_Today's vehicule_
 
 Chers lecteurs, bonjour!
 
@@ -21,14 +22,14 @@ Habitacle :
 L'habitacle a été habillé par un tissus jaune clair et le plancher ainsi que les côtés de sièges, par un tissus noir, antitache pour le sol.  
 Le tableau de bord beneficie désormais d'un écran multifonctions combinant GPS, TV, radio et sortie auxiliaire pour lecteur DVD portable.
 
-![](  /content/images/2016/07/Land4.jpg)
+![](/content/images/2016/07/Land4.jpg)
 
 Carrosserie :
 
 Un peu de boulot, sans non plus le remodeler entièrement, ce nouveau Landstalker a une ligne un peu plus fraîche.  
 Les anciens feux avant ont été remplacés par deux blocs optiques à 8 mini-projecteurs au Xénon (eh oui ma ptite dame, j'ai bien dit 8), les feux arrières ont été revus et corrigés et enfin, après la demande de bon nombre de propriétaires de Landstalkers, un troisième feu stop a été intégré au kit de roue de secours, désormais en plastique à mémoire de forme (l'ancien kit était en tissus nylon).
 
-![](  /content/images/2016/07/Land.jpg)
+![](/content/images/2016/07/Land.jpg)
 
 Moteur :
 
@@ -43,7 +44,7 @@ Resistance aux piétons :
 Alors, j'ai foncé sur une bonne 10 aine de piétons et la réaction fut la même à chaque fois : le Landstalker AVALE les obstacles. Vous ne verrez surement jamais un piéton décoller au dessus de votre engin!  
 Par conséquent, il ne reste aucune trace visible du percutage.
 
-![](  /content/images/2016/07/Land9.jpg)
+![](/content/images/2016/07/Land9.jpg)
 
 Consommation :
 
@@ -74,16 +75,11 @@ Je vous laisse jeter un petit coup d’œil aux photos ci-dessous du Landstalker
 
 A la semaine prochaine et bonne route à Liberty City !
 
-![](  /content/images/2016/07/Land2.jpg)
-
-![](  /content/images/2016/07/Land3.jpg)
-
-![](  /content/images/2016/07/Land5.jpg)
-
-![](  /content/images/2016/07/Land6.jpg)
-
-![](  /content/images/2016/07/Land7.jpg)
-
-![](  /content/images/2016/07/Land8.jpg)
+![](/content/images/2016/07/Land2.jpg)
+![](/content/images/2016/07/Land3.jpg)
+![](/content/images/2016/07/Land5.jpg)
+![](/content/images/2016/07/Land6.jpg)
+![](/content/images/2016/07/Land7.jpg)
+![](/content/images/2016/07/Land8.jpg)
 
 <!--kg-card-end: markdown-->

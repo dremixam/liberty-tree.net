@@ -14,7 +14,8 @@ Le DMV, Department of Motor Vehicles, remettait hier le prestigieux Five Stars D
 
 **Coutt & Schutz Pre-Owned Supercenter** :
 
-![Carte de visite de Coutt & Schutz](  /content/images/2005/01/coutt.jpg)
+![Carte de visite de Coutt & Schutz](/content/images/2005/01/coutt.jpg)
+_Carte de visite de Coutt & Schutz_
 
 **Localisation :** District de Jefferson, Los Santos
 
@@ -28,17 +29,18 @@ Le DMV, Department of Motor Vehicles, remettait hier le prestigieux Five Stars D
 
 > **José LaRosa, 21ans :** J'ai acheté mon premier véhicule chez Coutt and Schutz il y a deux ans. C'était une Ford Mustang 1995 que je possède toujours d'ailleurs. Steve, le vendeur qui m'a conseillé à l'époque, a été très sympa avec moi, et a trouvé le bon véhicule en fonction de mon budget. Avec un apport minime, j'ai pu obtenir un crédit à un taux très intéressant. Les vendeurs honnêtes comme Coutt & Schutz manquent dans notre belle ville !
 
-![](  /content/images/2005/01/dmv10.jpg)
-
-![](  /content/images/2005/01/dmv13.jpg)
+![](/content/images/2005/01/dmv10.jpg)
+![](/content/images/2005/01/dmv13.jpg)
 
 Le véhicule que nous a fait essayer Coutt & Schutz : une Toyota Camry 1997 proposée au prix de $5 500 à négocier. Le véhicule totalise 128 593 KM et est en excellent état général.
 
-![Le parc auto de Coutt & Schutz.](  /content/images/2005/01/dmv8.jpg)
+![Le parc auto de Coutt & Schutz.](/content/images/2005/01/dmv8.jpg)
+_Le parc auto de Coutt & Schutz._
 
 \*\*$hody's Used Autos : \*\*
 
-![Carte de visite de $hody's Used Autos](  /content/images/2005/01/shody.jpg)
+![Carte de visite de $hody's Used Autos](/content/images/2005/01/shody.jpg)
+_Carte de visite de $hody's Used Autos_
 
 **Localisation :** Chesterfield Street, Las Venturas.
 
@@ -52,17 +54,18 @@ Le véhicule que nous a fait essayer Coutt & Schutz : une Toyota Camry 1997 prop
 
 > **Sandy Connels, 16 ans :** Je viens tout juste d'avoir ma driver licence, youhou c'est trop la folie ! Mon père m'a emmené chez Shody et m'a dit "choisis ce qui te plait" ! Alors du coup je lui ait dit "j'veux la Mitsubishi Eclipse là-bas" puis il a dit "Oui ! C'est trop trop la folie, les copines elles vont être vertes de jalousie ! En plus Bruce, le patron, il est trop craquant et puis...."
 
-![](  /content/images/2005/01/dmv16.jpg)
-
-![](  /content/images/2005/01/dmv18.jpg)
+![](/content/images/2005/01/dmv16.jpg)
+![](/content/images/2005/01/dmv18.jpg)
 
 Bruce Shody nous a laissé cette Volvo C70 pour une après-midi. Le véhicule est affiché à $12 500 ou meilleure offre pour un total de 84 541 KMS.
 
-![Le parc auto de $hody's Used Auros.](  /content/images/2005/01/dmv14.jpg)
+![Le parc auto de $hody's Used Auros.](/content/images/2005/01/dmv14.jpg)
+_Le parc auto de $hody's Used Auros._
 
 **Wang Cars :**
 
-![Carte de visite de Wang Cars.](  /content/images/2005/01/wang.jpg)
+![Carte de visite de Wang Cars.](/content/images/2005/01/wang.jpg)
+_Carte de visite de Wang Cars._
 
 **Localisation :** District de Doherty, San Fierro.
 
@@ -76,15 +79,14 @@ Un mot du Directeur : Lorsque Père s'est retiré de la concession et m'a demand
 
 > **Harvey Krantz, 51 ans :** J'ai récemment fait l'acquisition d'une Porsche 1973 chez Wang Cars. Monsieur Wang m'a personnellement conseillé et fait essayer ce véhicule qui m'a tout de suite plu. Autant vous le dire, si vous venez chez Wang Cars, prévoyez le portefeuille qui va avec. Mais la qualité n'a pas de prix, et vous pouvez leur faire confiance les yeux fermés. Il ont de l’expérience dans le domaine, et leurs mécanos savent ce qu'ils font. Un must pour le véhicule haut de gamme à San Fierro !
 
-![](  /content/images/2005/01/dmv22.jpg)
-
-![](  /content/images/2005/01/dmv24.jpg)
+![](/content/images/2005/01/dmv22.jpg)
+![](/content/images/2005/01/dmv24.jpg)
 
 Sam Wang nous a laissé tester ce magnifique BMW X3 2.5L, actuellement au prix de $25 500 et totalise 13 120 KMS.
 
-![](  /content/images/2005/01/dmv19.jpg)
-
-![Le prestigieux parc auto de Wang Cars (Merci à Pavlov, ami proche de Sam Wang pour une partie des photos.)](  /content/images/2005/01/dmv4.jpg)
+![](/content/images/2005/01/dmv19.jpg)
+![Le prestigieux parc auto de Wang Cars (Merci à Pavlov, ami proche de Sam Wang pour une partie des photos.)](/content/images/2005/01/dmv4.jpg)
+_Le prestigieux parc auto de Wang Cars (Merci à Pavlov, ami proche de Sam Wang pour une partie des photos.)_
 
 Ces trois garages ont donc reçus le prix Five Stars Dealers. Le DMV a félicité tout particulièrement Bruce Shody pour son excellente gestion et la franche réussite du remodelage de l'ancien $hody's Used Autos.
 

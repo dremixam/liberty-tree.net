@@ -12,7 +12,7 @@ C'est de la nuit du 26 au 27 février 2003 que la plaisanterie s'est passée au 
 
 Deux rubans jaunes ont été collés contre les deux portes qui elles, ont été biffées par une croix rouge. Des pancartes 'attention toxique' ont été placardées sur les murs et deux cœurs ont remplacé l'habituel "Liberty City Police Department".
 
-![](  /content/images/v1/user20/postepolice.jpg)
+![](/content/images/v1/user20/postepolice.jpg)
 
 Bref, un imbroglio qui fait penser à une prison, sombre.
 

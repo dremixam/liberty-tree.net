@@ -16,11 +16,11 @@ Le Pleasure Dome a été ouvert il y a un an jour pour jour par Julius Brown ali
 
 Ce club a été aménagé dans un ancien hangar de service de la Sanity Andreas sous le pont Garver. Pour information, le Pleasure Dome est en passe d'être élu "biggest club in San Fierro" par le "petit noctambule perdu".
 
-![](  /content/images/2005/01/batiment.jpg)
+![](/content/images/2005/01/batiment.jpg)
 
 Je me suis donc rendu au Pleasure Dome hier soir sur les coups de 23 heures et déjà, les premières voitures de sport et autres S.U.V Allemands hors de prix font leur arrivée chargés de VIP du monde du sport, du grand écran, de la musique, de sublimes mannequin habillés par les grands noms de la mode internationale à leur bras. Vous l'aurez compris, tenue correcte exigée chez Jizzy.
 
-![](  /content/images/2005/01/sportscars1.jpg)
+![](/content/images/2005/01/sportscars1.jpg)
 
 Tous sont unanimes : le Pleasure est l'endroit où il faut être vu si l'on veut être "dans le coup". Un pied dans le club et c'est un monde de stromboscopes ahurissants et de basses à la limite du supportable qui vous accueil. Les tons roses, rouges, violets dominent, la soul vous enivre et vous oblige à vous affaler dans les nombreux canapés mis à disposition. La moindre boisson vous coûtera la modique somme de 20$, et avant de vider le compte en banque du Liberty Tree, je me suis rendu au bar non pas pour goûter aux alléchants cocktails de la carte mais pour interviewer Billy, barman du Pleasure Dome. Billy vient du Texas, cela fait maintenant deux ans qu'il vit à San Fierro et se trouve derrière le bar depuis l'ouverture de la boite de nuit...
 
@@ -40,14 +40,11 @@ Tous sont unanimes : le Pleasure est l'endroit où il faut être vu si l'on veut
 
 Le Pleasure Dome de Jizzy est LA réponse à tous ceux qui désirent plonger dans la folle ambiance des nuits de San Fierro...c'est ici que la vie nocturne commence et ne finit jamais...
 
-![Billy, barman au Pleasure Dome.](  /content/images/2005/01/billy.jpg)
-
-![](  /content/images/2005/01/alcove.jpg)
-
-![L'ambiance feutrée du Pleasure est...](  /content/images/2005/01/roof.jpg)
-
-![](  /content/images/2005/01/pleasure.jpg)
-
-![...unique en son genre à San Fierro.](  /content/images/2005/01/logojizz.jpg)
+![Billy, barman au Pleasure Dome.](/content/images/2005/01/billy.jpg)
+_Billy, barman au Pleasure Dome._[](/content/images/2005/01/alcove.jpg)
+![L'ambiance feutrée du Pleasure est...](/content/images/2005/01/roof.jpg)
+_L'ambiance feutrée du Pleasure est..._[](/content/images/2005/01/pleasure.jpg)
+![...unique en son genre à San Fierro.](/content/images/2005/01/logojizz.jpg)
+_...unique en son genre à San Fierro._
 
 <!--kg-card-end: markdown-->

@@ -15,9 +15,9 @@ Revenons un peu au sport quand même, c'est Michaël Imush qui c'est élancé le
 
 Je demande une grande minute de silence après la lecture de cette article...sniff...
 
-![](  /content/images/v1/user24/CMDC_Cliff.jpg)  
- ![](  /content/images/v1/user24/CMDC_Scream.jpg)  
- ![](  /content/images/v1/user24/CMDC_Shumi.jpg)  
- ![](  /content/images/v1/user24/CMDC_Bat.jpg)
+![](/content/images/v1/user24/CMDC_Cliff.jpg)
+![](/content/images/v1/user24/CMDC_Scream.jpg)
+![](/content/images/v1/user24/CMDC_Shumi.jpg)
+![](/content/images/v1/user24/CMDC_Bat.jpg)
 
 <!--kg-card-end: markdown-->

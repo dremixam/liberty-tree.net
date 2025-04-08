@@ -14,11 +14,11 @@ C'était la grande préparation dans les magasins à San Andreas, certains magas
 
 Il n'y a pas eu d'accident grave, les attroupements ont été modérés, de nombreux blessés légers ont été soignés rapidement par une équipe de secours qui s'était postée dans le centre ville.
 
-![](  /content/images/2005/01/sld2.jpg)
+![](/content/images/2005/01/sld2.jpg)
 
 Les magasins continuent de faire des ventes en grande quantité, ils sont pleins du soir au matin. Nous avons interrogé Kelly, une caissière travaillant toute la journée dans le fameux « Bing's bong », magasin très à la mode ces dix dernières années.
 
-![](  /content/images/2005/01/sld5.jpg)
+![](/content/images/2005/01/sld5.jpg)
 
 > **Liberty Tree :** Avez-vous eu des problèmes depuis le début des soldes ?
 > 
@@ -32,9 +32,8 @@ Les magasins continuent de faire des ventes en grande quantité, ils sont pleins
 > 
 > **Kelly :** L'argent rentre, les clients viennent par vague, les articles disparaissent. En somme une très bonne chose pour le magasin. Et nous les vendeurs nous n'allons pas nous plaindre, l'argent rentre aussi facilement dans nos poches.
 
-![](  /content/images/2005/01/sld4.jpg)
-
-![](  /content/images/2005/01/sld1.jpg)
+![](/content/images/2005/01/sld4.jpg)
+![](/content/images/2005/01/sld1.jpg)
 
 Les soldes ne sont pas encore finies, les articles s'estompent rapidement, donc un conseil : Profitez en tant qu'il en est encore temps.
 

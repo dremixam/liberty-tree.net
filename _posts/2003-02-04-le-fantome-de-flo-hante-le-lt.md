@@ -5,7 +5,7 @@ author: dremixam
 date: '2003-02-04 11:00:00'
 ---
 
-Il y a de cela plusieurs semaines, le Liberty Tree essuyait une perte humain : celle de Flo, une des dernières recrues (Cf [début d'année mouvementé](  /2003/01/15/debut-dannee-mouvemente-2/)). Tout le monde pensait, ici au Liberty Tree que le calme était enfin revenu mais, depuis près d'une semaine, les boîtes aux lettres des journalistes sont remplies de lettres et nous trouvons souvent sur nos bureaux des papiers qui semblent apparaitre comme par magie.
+Il y a de cela plusieurs semaines, le Liberty Tree essuyait une perte humain : celle de Flo, une des dernières recrues (Cf [début d'année mouvementé](/2003/01/15/debut-dannee-mouvemente-2/)). Tout le monde pensait, ici au Liberty Tree que le calme était enfin revenu mais, depuis près d'une semaine, les boîtes aux lettres des journalistes sont remplies de lettres et nous trouvons souvent sur nos bureaux des papiers qui semblent apparaitre comme par magie.
 
 Toutes ces lettres et ces papiers contiennent le même message :
 

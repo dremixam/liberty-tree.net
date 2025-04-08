@@ -14,13 +14,14 @@ A l'intérieur, tout est vide. Pas de bureau, pas de véhicule. A l'arrière, le
 
 Après une rapide enquête de voisinage, le doute persiste : personne n'a vu Yetarian depuis un accident ayant détruit la fameuse vitrine retrouvée cassée. Ce jour-là, un BeeJay XL avec deux personnes à son bord avait terminé dans la concession après une sortie de route. Les deux occupants du véhicule ont ensuite pris la fuite. Ont-ils emmené Yetarian ?
 
-![](  /content/images/2016/06/Yetarian2_0.jpg)
-
-![L'intérieur du concessionnaire il y a encore quelques semaines.](  /content/images/2016/06/Yetarian3.jpg)
+![](/content/images/2016/06/Yetarian2_0.jpg)
+![L'intérieur du concessionnaire il y a encore quelques semaines.](/content/images/2016/06/Yetarian3.jpg)
+_L'intérieur du concessionnaire il y a encore quelques semaines._
 
 Ces deux personnes sont activement recherchées, car elles tiennent probablement la clé de l'énigme. Mais leur signalement est maigre : la police cherche un homme ayant la quarantaine, et un autre ayant la peau noire. Un avis de recherche à également été lancé sur le concessionnaire albanais. Toute personne qui détiendrait des informations est invitée à joindre le LSPD au plus vite.
 
-![La dernière photo connue de Yetarian.](  /content/images/2016/06/Yetarian5.jpg)
+![La dernière photo connue de Yetarian.](/content/images/2016/06/Yetarian5.jpg)
+_La dernière photo connue de Yetarian._
 
 Yetarian a-t-il été tué ? Aurait-il été capturé, ou aurait-il choisi de disparaître volontairement ? Ce sont les questions que les enquêteurs se posent. La police poursuit son enquête et devrait bientôt obtenir de nouvelles informations. En espérant une issue rassurante...
 

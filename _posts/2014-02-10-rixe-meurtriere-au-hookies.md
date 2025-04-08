@@ -12,13 +12,14 @@ _Ce qui aurait pu être considéré comme une simple rixe de bar a tourné à la
 
 C'est un drame aussi bref que violent qui s'est joué hier, sur l'autoroute reliant Los Santos à Paleto Bay. Selon des témoins oculaires, un Bodhi rouge serait arrivé à toute allure devant le bar Hookies, connu pour être souvent occupé par les membres du gang des Lost MC. Le conducteur serait descendu de son véhicule, arme au poing, et aurait commencé à massacrer tous ceux présents sur place, à l'intérieur et à l'extérieur du bar.
 
-![Le Hookies, bar réputé de la Great Ocean Highway.](  /content/images/2016/06/Hookies5.jpg)
+![Le Hookies, bar réputé de la Great Ocean Highway.](/content/images/2016/06/Hookies5.jpg)
+_Le Hookies, bar réputé de la Great Ocean Highway._
 
 Le massacre n'a duré quelques minutes, mais le tireur fou à eu le temps de faire 22 victimes. 9 autres personnes ont été blessées mais ne sont plus en danger. Après avoir commis un véritable carnage, l'homme est remonté dans sa voiture et a pris la fuite, avant de semer rapidement les policiers lancés à leur poursuite. Les secours sont arrivés sur place très peu de temps après le départ du meurtrier, pour porter assistance aux blessés et recueillir les premiers témoignages, notamment ceux des automobilistes attirés par le bruit.
 
-![](  /content/images/2016/06/Hookies2.jpg)
-
-![Des photos très dures et choquantes, qui témoignent de l'horreur du drame.](  /content/images/2016/06/Hookies3.jpg)
+![](/content/images/2016/06/Hookies2.jpg)
+![Des photos très dures et choquantes, qui témoignent de l'horreur du drame.](/content/images/2016/06/Hookies3.jpg)
+_Des photos très dures et choquantes, qui témoignent de l'horreur du drame._
 
 Le Liberty Tree s'est rendu sur place, et a également recueilli quelques témoignages :
 
@@ -28,11 +29,13 @@ Le Liberty Tree s'est rendu sur place, et a également recueilli quelques témoi
 > 
 > **Sergent Harry Dawson :** Oui, je pense que le suspect est un psychopathe. Nous enquêtons sur le profil décrit par les témoins, et nous espérons bientôt avoir un portrait robot, ainsi qu'une description du suspect. Nous allons l'arrêter, il le faut.
 
-![Les secours devant le Hookies.](  /content/images/2016/06/Hookies_0.jpg)
+![Les secours devant le Hookies.](/content/images/2016/06/Hookies_0.jpg)
+_Les secours devant le Hookies._
 
 L'enquête est donc lancée, et la police est à la recherche d'un homme âgé de la quarantaine, habillé d'un jean et d'un t-shirt blanc, apparemment très énervé. La plus grande prudence est recommandée car cet homme est dangereux, et pourrait commettre un nouveau massacre d'ici peu. A moins qu'il ne soit arrêté plus tôt...
 
-![Le parking du Hookies, témoin du passage du tueur fou.](  /content/images/2016/06/Hookies4.jpg)
+![Le parking du Hookies, témoin du passage du tueur fou.](/content/images/2016/06/Hookies4.jpg)
+_Le parking du Hookies, témoin du passage du tueur fou._
 
 C'est donc un fait divers tragique qui aura légèrement écorné la réputation du bar, réputé pour être plutôt familial et bien fréquenté, malgré la présence des Lost, dont on ne dit que du bien sur place.
 

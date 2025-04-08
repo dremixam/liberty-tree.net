@@ -10,7 +10,7 @@ tags:
 
 L'aéroport de San Fierro, jugé trop vétuste par la Direction Générale de l'Aviation Civile et Commerciale, va fermer ses pistes pour un petit coup de propre...
 
-![](  /content/images/2005/01/airport.jpg)
+![](/content/images/2005/01/airport.jpg)
 
 nouvelle est tombée ce matin dans le bulletin hebdomadaire de la DGACC (la Direction Générale de l'Aviation Civile et Commerciale), l'aéroport de San Fierro n'est plus aux normes. Le communiqué révèle une gestion au sol déplorable, une piste d’atterrissage dangereuse, un équipement d'atterrissage IFR (vol aux instruments) inopérant et un terminal d'accueil passé d'âge.
 
@@ -26,12 +26,10 @@ Des hélicoptères de type Maverick feront la liaison entre San Fierro et les a�
 
 Ces perturbations pourraient causer une surcharge du trafic aérien dans les zones de Los Santos et de Las Venturas, par conséquent, la DGACC invite les personnes concernées par un départ depuis San Fierro à consulter gratuitement le 555-AIRPORT pour organiser leur acheminement vers les plateformes adéquates.
 
-![](  /content/images/2005/01/scr.jpg)
-
+![](/content/images/2005/01/scr.jpg)
 _Tous les vols en direction de San Fierro sont, depuis ce matin, indisponibles._
 
-![](  /content/images/2005/01/js.jpg)
-
+![](/content/images/2005/01/js.jpg)
 _Arthur Smithjones, inspecteur à la DGACC._
 
 <!--kg-card-end: markdown-->

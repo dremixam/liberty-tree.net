@@ -10,11 +10,9 @@ tags:
 
 Hier soir à 22 heures, le corps inerte de Josh Mac Carty, champion de golf&nbsp;de Las Venturas durant cinq années consécutives, a été découvert dans le coffre d' une voiture noire. D'après les recherches menées par la police de Las Venturas, il aurait été tué d' une balle dans la tête, puis son corps aurait été traîné jusqu'à la voiture et enfin le tueur aurait caché le cadavre dans le coffre avant de prendre la fuite. Nous avons réussi à obtenir une interview du commissaire Patrizio Maroni.
 
-![](  /content/images/2005/01/Mac_Carty.jpg)
-
-![Josh Mac Carty au Yellow Bell Golf Club (photos prises lors du championnat de 2005)](  /content/images/2005/01/Golf-1.jpg)
-
-![Le véhicule dans lequel la dépouille de Mac Carty fut découverte.](  /content/images/2005/01/voiture-suspecte.jpg)
+![](/content/images/2005/01/Mac_Carty.jpg)
+![Josh Mac Carty au Yellow Bell Golf Club (photos prises lors du championnat de 2005)](/content/images/2005/01/Golf-1.jpg)
+_Josh Mac Carty au Yellow Bell Golf Club (photos prises lors du championnat de 2005)_[Le véhicule dans lequel la dépouille de Mac Carty fut découverte.](/content/images/2005/01/voiture-suspecte.jpg)
 
 > **Liberty Tree :** Bonjour, monsieur Maroni.
 
@@ -46,11 +44,10 @@ Le lendemain à 8 huit heures, nous avons donc&nbsp;décidé de continuer l' enq
 
 Monsieur Francis Castado est le propriétaire du Royale Casino, le seul casino de Las Venturas à posséder une salle de jeux en plein air.
 
-![](  /content/images/2005/01/Royale-Casino1.jpg)
-
-![](  /content/images/2005/01/proprio-du-Royale-Casino.jpg)
-
-![Monsieur Castado, (ici au milieu) propriétaire du Royale Casino.](  /content/images/2005/01/Royale-Casino2.jpg)
+![](/content/images/2005/01/Royale-Casino1.jpg)
+![](/content/images/2005/01/proprio-du-Royale-Casino.jpg)
+![Monsieur Castado, (ici au milieu) propriétaire du Royale Casino.](/content/images/2005/01/Royale-Casino2.jpg)
+_Monsieur Castado, (ici au milieu) propriétaire du Royale Casino._
 
 > **LT :** Bonjour, monsieur Castado.
 
@@ -62,6 +59,7 @@ Monsieur Francis Castado est le propriétaire du Royale Casino, le seul casino d
 
 Il partit, nous laissant seuls dans son bureau. Après une heure de recherches intensives, nous trouvions enfin la preuve irréfutable: une lettre écrite de la main de Francis Castado ordonnant à ses&nbsp;employés de tuer Mac Carty. Nous avons aussitôt prévenu la police qui ne tarda pas à arrêter monsieur Castado et tous les employés du Royale Casino. Monsieur Redar fut libéré sur-le-champ car il était devenu évident qu' il était&nbsp;innocent, et que le pistolet retrouvé chez lui avait été placé par les hommes de monsieur Castado afin de détourner les soupçons sur lui.&nbsp;La vérité était enfin retombée: Mac Carty avait été tué car il ne remboursait pas ses dettes de jeux. Mais une chose est sûre: malgré ses défauts, le plus grand champion de golf de Las Venturas et des contrées voisines nous manquera tous beaucoup.
 
-![La police emmenant Mr.Castado et ses complices au commissariat.](  /content/images/2005/01/V_hicule-de-police.jpg)
+![La police emmenant Mr.Castado et ses complices au commissariat.](/content/images/2005/01/V_hicule-de-police.jpg)
+_La police emmenant Mr.Castado et ses complices au commissariat._
 
 <!--kg-card-end: markdown-->

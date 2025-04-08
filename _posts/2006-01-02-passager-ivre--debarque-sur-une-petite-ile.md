@@ -12,13 +12,13 @@ _Un passager ivre sur un vol entre Los Santos et Liberty City s'est vu débarque
 
 Le passager de 53 ans, non identifié, a été débarqué mardi avec ses bagages sur la petite île d'Alkatrez (à environ 50 km des côtes de San Fierro), après avoir copieusement insulté l'équipage et les autres passagers d'un AT-400 qui effectuait la liaison Los Santos-Liberty City, a précisé à l'AFP un porte-parole de la compagnie Los Santos Airlines.
 
-![](  /content/images/2005/01/Repr_sentant.jpg)
+![](/content/images/2005/01/Repr_sentant.jpg)
 
 > Il lui avait été demandé de se calmer, il ne l'a pas fait, l'équipage et le commandant de bord ont décidé de détourner l'appareil sur Alkatrez et de le débarquer, à quelques 500 km de sa destination finale.
 
 L'avion a ensuite poursuivi son périple jusqu'à Liberty City, où il est arrivé avec ses 211 autres passagers avec plus de quatre heures de retard.
 
-![](  /content/images/2005/01/Liberty_City.jpg)
+![](/content/images/2005/01/Liberty_City.jpg)
 
 Selon la compagnie, les problèmes à bord avaient commencé après que l'équipage eut refusé de servir plus d'alcool au passager déjà éméché.
 

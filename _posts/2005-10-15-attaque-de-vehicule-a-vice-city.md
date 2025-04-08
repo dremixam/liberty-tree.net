@@ -16,13 +16,12 @@ C'est ce matin à 9h55 que d'après les témoins:
 
 D'après la police, quatre et pas cinq hommes armés ont bloqué le camion en faisant croire qu'ils étaient policiers, ils sont ensuite descendus et ont ouvert le feu sur les deux hommes qui étaient dans le camion et sur plusieurs passants, pour "éviter les témoins".
 
-![](  /content/images/2005/01/thumb%202.jpg)
+![](/content/images/2005/01/thumb%202.jpg)
 
 Pour les malfaiteurs, tout se déroulait pour le mieux lorsqu'un conducteur de poids-lourd a écrasé deux des quatre criminels, mais les deux restants l'ont malheureusement abattu, et d'autres passants avec.
 
-![](  /content/images/2005/01/thumb%201.jpg)
-
-![](  /content/images/2005/01/thumb%204.jpg)
+![](/content/images/2005/01/thumb%201.jpg)
+![](/content/images/2005/01/thumb%204.jpg)
 
 On voit sur la photo ci-dessus un des malfaiteurs s'enfuir, il sera rattrapé quelques minutes plus tard par la SWAT.
 

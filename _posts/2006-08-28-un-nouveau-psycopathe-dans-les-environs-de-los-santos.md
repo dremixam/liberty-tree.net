@@ -24,9 +24,9 @@ Dans ces propositions , il y en a au moins une bonne !
 Enquête qui donne du fil à retordre à tout policiers travaillant dessus...  
 Toutefois , un début de piste serait décelé : ce 11 août, un citoyen contacte les autorités locales...Il aurait remarqué que la vieille maison abandonnée en face de chez lui commence à avoir des activités douteuses depuis quelques semaines:&nbsp; Un homme louche, correspondant au signalement entrait dans cette maison , avec son vieux pick-up ayant toujours deux fûts à l'arrière...
 
-![](  /content/images/2005/01/psyco1.jpg)
-
-![La maison et le Sadler.](  /content/images/2005/01/psyco2.jpg)
+![](/content/images/2005/01/psyco1.jpg)
+![La maison et le Sadler.](/content/images/2005/01/psyco2.jpg)
+_La maison et le Sadler._
 
 La police se rend alors dans cette vieille résidence de Ganton, heureusement le pick-up est là, mais une seconde voiture, une Clover, part aux chapeaux de roues à l'arrivée de la police. Malheureusement, c'est trop tard. Le suspect était bien loin avant que la police ne réagisse...
 
@@ -38,9 +38,9 @@ Plus tard, la police remarque que toutes les maisons des victimes portent un dra
 
 Plus tard, une patrouille ayant répondu à un appel d'un carambolage sur la 501, peu après Los Santos mettant en cause une voiture mal garée sur la bande d'arrêt d'urgence, probablement un véhicule abandonné...
 
-![](  /content/images/2005/01/psyco3.jpg)
-
-![Le carambolage et la Clover abandonnée gênant la circulation. Pourquoi s'être arrêté pile à cet endroit ?](  /content/images/2005/01/psyco4.jpg)
+![](/content/images/2005/01/psyco3.jpg)
+![Le carambolage et la Clover abandonnée gênant la circulation. Pourquoi s'être arrêté pile à cet endroit ?](/content/images/2005/01/psyco4.jpg)
+_Le carambolage et la Clover abandonnée gênant la circulation. Pourquoi s'être arrêté pile à cet endroit ?_
 
 Et c'est sur place que l'on remarque...La voiture dans laquelle a fui "L'éventreur de la Westside" Aucune empruntes décelées; l'homme aurait mis des gants&nbsp;utilisé par des chirurgiens&nbsp;pour conduire...
 

@@ -11,7 +11,7 @@ L'entreprise ToyZ inc., une filiale de Zaïbatsu Corporation, la célèbre multi
 
 Ce projet fou consiste en fait à remplacer progressivement tous les véhicules de Liberty City (pour commencer) par leurs voitures téléguidées améliorées !
 
-ToyZ inc. est une fabrique de jouets dont le plus grand succès reste la RC Bandit, petite voiture télécommandée très appréciée par les enfants et surtout les terroristes qui les transforment en véritables bombes roulantes! (ndrc: cf "[Des jouets explosifs](  /2002/08/17/des-jouets-explosifs/)")
+ToyZ inc. est une fabrique de jouets dont le plus grand succès reste la RC Bandit, petite voiture télécommandée très appréciée par les enfants et surtout les terroristes qui les transforment en véritables bombes roulantes! (ndrc: cf "[Des jouets explosifs](/2002/08/17/des-jouets-explosifs/)")
 
 Avec Maïbatsu inc., ToyZ inc. a donc amélioré son gadget pour en faire le véhicule ultime (selon eux).
 
@@ -24,12 +24,9 @@ De plus, vu la taille du M.M., le risque de se faire écraser par le truck en ro
 
 Voici les photos prises par nos reporters lors du test de la RC Bandit. Par manque de place, nous ne pouvons vous montrer de photos du M.M.
 
-![](  /content/images/v1/user6/RCbandit1.jpg)
-
-![](  /content/images/v1/user6/RCbandit2.jpg)
-
-![](  /content/images/v1/user6/RCbandit3.jpg)
-
-![](  /content/images/v1/user6/RCbandit4.jpg)
+![](/content/images/v1/user6/RCbandit1.jpg)
+![](/content/images/v1/user6/RCbandit2.jpg)
+![](/content/images/v1/user6/RCbandit3.jpg)
+![](/content/images/v1/user6/RCbandit4.jpg)
 
 <!--kg-card-end: markdown-->

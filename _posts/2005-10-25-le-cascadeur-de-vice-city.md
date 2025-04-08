@@ -26,11 +26,9 @@ Pour résumer: il roule très vite, il maîtrise parfaitement le volant, c'est u
 
 Voici quelques rares et durement acquises photos de ses cascades :
 
-![](  /content/images/2005/01/cascad1.jpg)
-
-![](  /content/images/2005/01/cascad2.jpg)
-
-![](  /content/images/2005/01/cascad3.jpg)
+![](/content/images/2005/01/cascad1.jpg)
+![](/content/images/2005/01/cascad2.jpg)
+![](/content/images/2005/01/cascad3.jpg)
 
 Le cascadeur de Vice nous a accordé une interview par téléphone par peur des policiers :
 

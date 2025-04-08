@@ -12,7 +12,7 @@ Lundi prochain vers 21 heures, tout le monde dans le pays aura les yeux rivés s
 
 Nick Stane, interprété par Carl Maiden, est un vieux policier aux méthodes révolues et Steven Killer, interprété par Michel Douglas, est un jeune détective aux méthodes beaucoup plus modernes, ils font équipe pour débarrasser San Fierro des dangereux malfaiteurs en tout genre.
 
-![](  /content/images/2016/06/streetsofsf2.jpg)
+![](/content/images/2016/06/streetsofsf2.jpg)
 
 Le jeune acteur Michel Douglas, dont c'est le premier rôle, nous a confié ses impressions sur la série :
 
@@ -20,8 +20,7 @@ Le jeune acteur Michel Douglas, dont c'est le premier rôle, nous a confié ses 
 
 Nous avons pu visionner en avant première le premier épisode de la série, il n'y a qu'un mot à dire : époustouflant, ça court, ça roule, ça tire… les deux policiers n'ont pas une minute de répit et les courses poursuites s'enchaînent dans les rues de San Fierro. Nous n'avons pu rapporter que deux images de l'épisode en espérant que ce soit suffisant pour vous faire patienter jusqu'à lundi.
 
-![](  /content/images/2016/06/streetsofsf3.jpg)
-
-![](  /content/images/2016/06/streetsofsf4.jpg)
+![](/content/images/2016/06/streetsofsf3.jpg)
+![](/content/images/2016/06/streetsofsf4.jpg)
 
 <!--kg-card-end: markdown-->

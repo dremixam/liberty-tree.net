@@ -16,25 +16,21 @@ Dès l'annonce de son décès, à 11h53, des membres du gang se sont rassemblés
 
 A 12h48, les policiers se sont faits charger par la foule et six d'entre eux ont été blessés. De plus, huit manifestants dont une femme et deux adolescents ont été piétinés dans la bousculade. Ils ont été transportés d'urgence à l'hôpital de Los Santos. Leur état semble stationnaire à cette heure mais deux d'entre aux sont dans un état critique.
 
-![](  /content/images/2005/01/Emeutes%2011.jpg)
+![](/content/images/2005/01/Emeutes%2011.jpg)
 
 Au même moment, dans le quartier de Ganton, plusieurs voitures ont été brûlées et deux maisons incendiées. On ne dénombre pas de victime pour le moment mais les pompiers sont encore à l’œuvre pour éteindre le sinistre.
 
-![](  /content/images/2005/01/Emeutes%205.jpg)
-
-![](  /content/images/2005/01/Emeutes%204.jpg)
+![](/content/images/2005/01/Emeutes%205.jpg)
+![](/content/images/2005/01/Emeutes%204.jpg)
 
 On vient d'apprendre que trois nouveaux départs de feu viennent de se déclarer à Ganton et Jefferson. Depuis la rédaction, on peut entendre les sirènes de la police et des pompiers, mêlées à celle du SAMU et au ronronnement des hélicoptères de l'hôpital. Il semblerait que l'ampleur des manifestations dépasse ce que l'on peut imaginer et il est à craindre que ces mouvements dégénèrent. La nuit promet d'être longue pour le personnel de la sécurité publique.
 
 A l'heure où j’écris ces lignes, une explosion vient de retentir aux alentours du siège du Liberty Tree. Les violences ne se cantonnent plus aux ghettos mais se propagent jusqu'au centre-ville et aux banlieues bourgeoises. Les prochains jours s'annoncent difficiles. La population ne semble pas se calmer, bien au contraire...
 
-![](  /content/images/2005/01/Emeutes%207.jpg)
-
-![](  /content/images/2005/01/Emeutes%2012.jpg)
-
-![](  /content/images/2005/01/Emeutes%203.jpg)
-
-![](  /content/images/2005/01/Emeutes%2016.jpg)
+![](/content/images/2005/01/Emeutes%207.jpg)
+![](/content/images/2005/01/Emeutes%2012.jpg)
+![](/content/images/2005/01/Emeutes%203.jpg)
+![](/content/images/2005/01/Emeutes%2016.jpg)
 
 La mairie et le LSPD n'ont pas encore fait de déclaration. Ce silence trahit sans doute leur embarras face à ce déchaînement de colère. Il semblerait que les autorités souhaitent avant tout éviter un embrasement généralisé de tout l’État, voire de tout le pays.
 

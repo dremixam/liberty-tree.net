@@ -20,9 +20,8 @@ C'est là, cher lecteur, que vous vous demandez : "Qu'est-ce qu'on s'en bat l’
 > 
 > **AB:** Ma doué non, c'tit bien la premièr' fouè qu'on m'bourrait une volaille ! T'penses bien, de suite j'ai prév'nu les flics et j'ai guetté tout' la nuit d'après si l'gredin allait reviendre, pour l'occire avec ma pétoire !
 
-![](  /content/images/2005/01/poul1.jpg)
-
-![](  /content/images/2005/01/poul2.jpg)
+![](/content/images/2005/01/poul1.jpg)
+![](/content/images/2005/01/poul2.jpg)
 
 Drame : cette pauvre créature a subi des abus sexuels d'une rare sauvagerie. Il se trouve que San Andreas fait partie des quelques États de notre cher pays ou la zoophilie est punie par la loi, du moins entre 22h00 et 05h00. Les autorités se sont donc tout naturellement mises à la recherche de l'agresseur. Mais les premières investigations sont infructueuses : aucune trace d'ADN, aucune empreinte digitale. Notre homme est un véritable professionnel.
 
@@ -33,13 +32,11 @@ La nuit finit par tomber, Ash est sur ses gardes. Il décide de se poster dans s
 > **AB:** Ferm' ton clapet bouseux ! C't'i bien toué qu'à farfouillé ma poule l'aut' jour ? J'vais t'faire un deuxième trou des fesses tu vas vouèr !
 > 
 > **I:** Vous vous méprenez, je (_violente détonation_) oooowww (_deux autres violentes détonations, suivies d'une troisième, d'une quatrième et d'une cinquième_)
-
-![](  /content/images/2005/01/poul3.jpg)
-
-![](  /content/images/2005/01/poul4.jpg)
+![](/content/images/2005/01/poul3.jpg)
+![](/content/images/2005/01/poul4.jpg)
 
 Deux jours plus tard, le suspect est à peu près vivant lorsqu'il avoue avoir violenté la volaille du fermier. Ce dernier porte plainte pour "bourrage de poule", il ne sera pas inquiété pour les quelques blessures infligées qui relèvent évidemment de la légitime défense. Le criminel en question se nomme Mark Carter, 34 ans, serveur chez Cluckin' Bell. Selon son avocat, son acte s'expliquerait par un état de folie passagère. Dans ce cas, pourquoi retourner sur les lieux du crime le lendemain ? Carter risque entre 2 et 358 années de prison. Son procès débutera dans quelques jours.
 
-![](  /content/images/2005/01/poul6.jpg)
+![](/content/images/2005/01/poul6.jpg)
 
 <!--kg-card-end: markdown-->

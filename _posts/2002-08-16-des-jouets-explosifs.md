@@ -27,20 +27,13 @@ Le jour même de la sortie du jouet en magasin, de nombreux incidents ont été 
 
 On dénombre de nombreux morts et dégradations de matériel parmis les incidents d'hier, mais il semblerait que tous les bolides aient été mis hors d'état de nuire.
 
-![](  /content/images/v1/user0/rc1.jpg)
-
-![](  /content/images/v1/user0/rc2.jpg)
-
-![](  /content/images/v1/user0/rc3.jpg)
-
-![](  /content/images/v1/user0/rc4.jpg)
-
-![](  /content/images/v1/user0/rc5.jpg)
-
-![](  /content/images/v1/user0/rc6.jpg)
-
-![](  /content/images/v1/user0/rc7.jpg)
-
-![](  /content/images/v1/user0/rc8.jpg)
+![](/content/images/v1/user0/rc1.jpg)
+![](/content/images/v1/user0/rc2.jpg)
+![](/content/images/v1/user0/rc3.jpg)
+![](/content/images/v1/user0/rc4.jpg)
+![](/content/images/v1/user0/rc5.jpg)
+![](/content/images/v1/user0/rc6.jpg)
+![](/content/images/v1/user0/rc7.jpg)
+![](/content/images/v1/user0/rc8.jpg)
 
 <!--kg-card-end: markdown-->

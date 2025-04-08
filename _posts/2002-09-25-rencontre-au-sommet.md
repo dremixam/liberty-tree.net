@@ -15,16 +15,11 @@ Ainsi, à la suite de cette réunion, outre le fait d'avoir une plus grande comp
 
 On peut donc espérer que maintenant, à la suite de cette réunion et en prévision des futures, une meilleure coordination du FBI et du LCPD permettra de faire redescendre notre cité de son rang de ville la plus décadente des USA.
 
-![](  /content/images/v1/user21/rencontre_01.jpg)
-
-![](  /content/images/v1/user21/rencontre_02.jpg)
-
-![](  /content/images/v1/user21/rencontre_03.jpg)
-
-![](  /content/images/v1/user21/rencontre_04.jpg)
-
-![](  /content/images/v1/user21/rencontre_05.jpg)
-
-![](  /content/images/v1/user21/rencontre_06.jpg)
+![](/content/images/v1/user21/rencontre_01.jpg)
+![](/content/images/v1/user21/rencontre_02.jpg)
+![](/content/images/v1/user21/rencontre_03.jpg)
+![](/content/images/v1/user21/rencontre_04.jpg)
+![](/content/images/v1/user21/rencontre_05.jpg)
+![](/content/images/v1/user21/rencontre_06.jpg)
 
 <!--kg-card-end: markdown-->

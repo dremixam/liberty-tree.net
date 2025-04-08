@@ -68,13 +68,10 @@ Voici l’interview exclusive de Mark Robinson, le réalisateur du film qui a si
 
 Découvrez les premières images officielles&nbsp;du film&nbsp;:
 
-![](  /content/images/2005/01/CJ.jpg)
-
-![](  /content/images/2005/01/CJ_and_his_friends.jpg)
-
-![](  /content/images/2005/01/GANG_1.jpg)
-
-![](  /content/images/2005/01/drive-by.jpg)
+![](/content/images/2005/01/CJ.jpg)
+![](/content/images/2005/01/CJ_and_his_friends.jpg)
+![](/content/images/2005/01/GANG_1.jpg)
+![](/content/images/2005/01/drive-by.jpg)
 
 **Procurez-vous le livre&nbsp;!**
 
@@ -86,7 +83,7 @@ Vous ne voulez pas attendre la sortie du film&nbsp;? Alors procurez-vous dès ma
 
 **19,99 $**
 
-![](  /content/images/2005/01/OGF-book.jpg)
+![](/content/images/2005/01/OGF-book.jpg)
 
 **Statistiques :**
 

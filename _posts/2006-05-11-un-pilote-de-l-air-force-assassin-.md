@@ -16,11 +16,9 @@ En effet, l'abondance d'arbres très hauts dans ce secteur oblige les pilotes a 
 
 Mais la cause de la mort de ce sergent est tout autre chose : Il a été abattu au fusil a chevrotine, dixit Mr harry, enquêteur au fbi. Nous avons récupérés la boite noire de l'avion, dans lequel volait le sergent J.
 
-![](  /content/images/2005/01/rech_fbi.jpg)
-
-![La recherche du corps du sergent](  /content/images/2005/01/rech-fbi2.jpg)
-
-![](  /content/images/2005/01/heliflic.jpg)
+![](/content/images/2005/01/rech_fbi.jpg)
+![La recherche du corps du sergent](/content/images/2005/01/rech-fbi2.jpg)
+_La recherche du corps du sergent_[](/content/images/2005/01/heliflic.jpg)
 
 **Chronologie des événements**.
 
@@ -42,9 +40,8 @@ Nous avons demandé au responsable de l’enquête de nous donner plus d'infos :
 
 > **Harry :** Tout les pilotes sont équipés d'un Mp5 ou d'un P90 en guise d'arme de défense personnelle en cas de crash en territoire ennemi. Il avait bel et bien son mp5, mais il n'a&nbsp; pas fait attention et l'a laissé dans l'avion en allant chercher du secours, vu que sa radio était morte.
 
-![](  /content/images/2005/01/avionfurtif.jpg)
-
-![](  /content/images/2005/01/deadarmy.jpg)
+![](/content/images/2005/01/avionfurtif.jpg)
+![](/content/images/2005/01/deadarmy.jpg)
 
 Le pilote a été tué de plusieurs balles dans le dos, plus que nécessaire pour le tuer, alors peut être que quelqu'un lui en voulait et connaissait son plan&nbsp; de vol.
 
@@ -56,7 +53,8 @@ D'apres ce même capitaine, le sergent J. était un As et il avait plus d'admira
 
 Le corps a été retrouvé près de la shady cabin, or tout le monde sait qu'il se passe des choses étranges la bas et on raconte même qu'un "tueur a la tronçonneuse" roderait dans le coin. Mais l'arme du crime n'est pas une tronçonneuse mais bel et bien un fusil de chasse.
 
-![La shady cabin](  /content/images/2005/01/cabin.jpg)
+![La shady cabin](/content/images/2005/01/cabin.jpg)
+_La shady cabin_
 
 Si un chasseur avait pris pour cible accidentellement ce pilote ? Peu probable, on ne chasse pas la nuit, et une balle de fusil ne pourrait pas abîmer un avion comme ca.
 

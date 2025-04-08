@@ -14,7 +14,8 @@ Rapidement, le NOOSE forme un périmètre de sécurité autour du bâtiment ains
 
 L'unité d'élite décide alors d'intervenir avec des pistolets paralysants et des boucliers anti-émeute. Résistant encore, à la plus grande stupéfaction des policiers qui essuient des tirs de mitrailleuse militaire, le NOOSE tire alors des rafales de fusil d'assaut sur l'homme, qui tombe à terre avant d'avoir pu activer les 80 charges d'explosifs cachés dans des sacs de sport.
 
-![Vu l'état de ce véhicule ayant servi à l'assaut du NOOSE, on peut imaginer la résistance et l'armement de cet homme.](  /content/images/2016/06/0_0%282%29.jpg)
+![Vu l'état de ce véhicule ayant servi à l'assaut du NOOSE, on peut imaginer la résistance et l'armement de cet homme.](/content/images/2016/06/0_0%282%29.jpg)
+_Vu l'état de ce véhicule ayant servi à l'assaut du NOOSE, on peut imaginer la résistance et l'armement de cet homme._
 
 Une bombe avait aussi été posée dans une rame de métro, mais elle a rapidement été localisée et désamorcée.
 
@@ -34,7 +35,7 @@ J'ai demandé à en savoir plus sur les méthodes de l'IAA pour repérer des év
 
 A la suite de cette intervention, la police a déclaré qu'il n'y avait que six blessés légers dans ses rangs, et aucun parmi les civils. Elle a aussi déclaré qu'il n'y avait plus aucun risque, la Maze Bank Tower n'a subi aucun dégât matériel, seuls quelques impacts de balles sont encore visibles mais dès demain, une entreprise de bâtiment viendra reboucher les trous créés par l'affrontement.
 
-![](  /content/images/2016/06/0_0%285%29_0.jpg)
+![](/content/images/2016/06/0_0%285%29_0.jpg)
 
 Le parking reste fermé pour l'instant, l'accès étant bloqué par des véhicules de police et une grille.
 

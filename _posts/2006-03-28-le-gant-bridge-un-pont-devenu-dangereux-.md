@@ -16,7 +16,8 @@ L'ingénieur d'infrastructure connu, Jeff Thornton, qui était jusqu'à tout ré
 
 Après lecture d'un rapport signé par M.Thornton, et adressé au maire de San Fierro, dont le Liberty Tree a obtenu une copie en exclusivité, nous pouvons en effet lire des détails très alarmant touchant la rigidité des câbles de soutien ainsi que le matériel utilisé dans la composition du béton à des points cruciaux du tablier du pont.
 
-![Jeff Thornton, l'ingénieur controversé](  /content/images/2005/01/Thornton.jpg)
+![Jeff Thornton, l'ingénieur controversé](/content/images/2005/01/Thornton.jpg)
+_Jeff Thornton, l'ingénieur controversé_
 
 Lors d'une entrevue qu'il a bien voulu nous accorder, M.Thornton nous a affirmé qu'après avoir rencontré le maire pour l'informer du danger imminent d'effondrement du pont, celui-ci lui aurait rigolé au visage en lui avouant ouvertement et sans retenues qu'une partie de l'argent ayant servit au financement pour la construction du pont aurait été utilisé à d'autres fins. Nous savons tous que le maire de San Fierro a une réputation de joueur impulsif, et qu'il s'absentait très souvent pour se rendre à Las Venturas, probablement pour y jouer. Nous ne parlons pas ici en plus de ses nombreuses escapades nocturnes avec les prostituées qu'il fréquente durant ses déplacements, ainsi que de la résidence cossue qu'il possède à Paradiso. De plus, toujours aux dires de M.Thornton, le maire aurait terminé l'entretien en le menaçant s'il osait publier le rapport au sujet du pont.
 
@@ -42,27 +43,29 @@ Lors d'une entrevue qu'il a bien voulu nous accorder, M.Thornton nous a affirmé
 
 > **LT :** Très bien. Encore merci.
 
-![Hôtel de ville de San Fierro](  /content/images/2005/01/SF_City_Hall.jpg)
-
-![C'est un maire plutôt agressif qui nous a reçu à son bureau](  /content/images/2005/01/SF_maire.jpg)
+![Hôtel de ville de San Fierro](/content/images/2005/01/SF_City_Hall.jpg)
+_Hôtel de ville de San Fierro_[C'est un maire plutôt agressif qui nous a reçu à son bureau](/content/images/2005/01/SF_maire.jpg)
 
 Du côté de l'Hôtel de ville on se fait très discret. Rencontré à son bureau par le Liberty Tree, le maire s'est refusé à tout commentaire en se contentant simplement de nous dire que Thornton n'était un fou qui ne cherche qu'à se rendre intéressant. L'entrevue s'est ensuite terminée abruptement, on sentait beaucoup d'inconfort chez monsieur le maire.
 
-![Bureaux de Brukheimer, Smith et Pirelli à Los Santos](  /content/images/2005/01/Los_Santos_Bureau_Architectes.jpg)
+![Bureaux de Brukheimer, Smith et Pirelli à Los Santos](/content/images/2005/01/Los_Santos_Bureau_Architectes.jpg)
+_Bureaux de Brukheimer, Smith et Pirelli à Los Santos_
 
 Malgré ce que le maire peut en penser, il n'en demeure que même l'une des plus célèbre firme d'architecte du pays, Bruckheimer, Smith et Pirelli de Los Santos, ont ouvertement avoués, par l'entremise d'un communiqué de presse émis par M. Antonio Pirelli, qu'après lecture du rapport de M.Thornton ça tenait du miracle si le pont ne s'était pas déjà affaissé à ce jour.&nbsp; Est-ce qu’il s’agirait d’une opinion crédible ou si ce ne serait qu’un commentaire par vengeance contre le maire de San Fierro pour ne pas avoir été la firme retenue pour exécuter les travaux de réflexion du pont il y a peine un an? Devrions-nous vraiment nous inquiéter ou si tout ceci n'est qu'une vendetta bien orchestrée? Est-ce que toutes les conditions sont actuellement réunies pour une obtenir une véritable hécatombe. Seul Jeff Thornton semble avoir les réponses à toutes ces questions. Allons-nous donc prendre le temps de l’écouter ou plutôt faire comme le maire en adoptant la politique de l'autruche et en nous mettant la tête dans le sable?
 
-![Tous les yeux sont tournés vers le pont](  /content/images/2005/01/Gant_Bridge_News_Helico.jpg)
+![Tous les yeux sont tournés vers le pont](/content/images/2005/01/Gant_Bridge_News_Helico.jpg)
+_Tous les yeux sont tournés vers le pont_
 
 Fait quand même étrange, depuis que le bruit court au sujet du Gant Bridge, nous remarquons la présence sporadique de plusieurs journalistes et d'équipes de télévision qui semble se préparer à être aux premières loges pour couvrir la nouvelle car si les calculs de Jeff Thornton sont bons, les risques seraient bien réelles. Des géologues également sur place auraient noté quelques mouvements de sol au pied des poutres du pont, mais ce phénomène serait fréquent mais pas nécessairement alarmant. Le pont aurait-il souffert du poids des 50,000 visiteurs ayant foulé sa structure lors des festivités du 30ème anniversaire? Rien n'est impossible au point où nous en sommes rendu.
 
-![Barrage policier lors d'une alerte à la bombe](  /content/images/2005/01/Gant_Bridge_barage_policier.jpg)
+![Barrage policier lors d'une alerte à la bombe](/content/images/2005/01/Gant_Bridge_barage_policier.jpg)
+_Barrage policier lors d'une alerte à la bombe_
 
 Depuis la première annonce de cette nouvelle, la police de San Fierro a déjà reçu près d'une dizaine d'alertes à la bombe visant le Gant Bridge, fort heureusement non fondées. Il s'agirait tout simplement de mauvaises blagues. Les autorités tiennent à rappeler que ce genre de blague coûte très cher aux payeurs de taxes et peut mériter une peine d'emprisonnement à son auteur. Il n'est donc pas surprenant que le contrôle routier remarque une importante baisse d'achalandage sur le pont, les gens semblent avoir perdu confiance en cette structure, ils préfèrent effectuer un détour en empruntant le Garver Bridge puisque ce pont ne souffre d'aucune mauvaise publicité.
 
-![](  /content/images/2005/01/Gant_Bridge_Traffic_Cam2.jpg)
-
-![Les traffic-cams du Gant Bridge confirment le faible achalandage](  /content/images/2005/01/Gant_Bridge_Traffic_Cam1.jpg)
+![](/content/images/2005/01/Gant_Bridge_Traffic_Cam2.jpg)
+![Les traffic-cams du Gant Bridge confirment le faible achalandage](/content/images/2005/01/Gant_Bridge_Traffic_Cam1.jpg)
+_Les traffic-cams du Gant Bridge confirment le faible achalandage_
 
 Espérons que le maire de San Fierro ne restera pas insensible aux préoccupations de son électorat et prendra les mesures appropriées en ordonnant un examen complet de la structure du pont. Si risque de catastrophe il y a, pourrons-nous alors l'éviter? Le mystère demeure complet.
 

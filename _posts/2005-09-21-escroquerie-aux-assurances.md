@@ -14,17 +14,16 @@ Mais l'histoire ne sarrette pas là. La première chose qui a frappé le LCPD es
 John Washington, l'un des trois Afro-Américains, était employé à la _Met Destiny_ et faisait chaque jour la liste des clients-cibles.  
 Trois des huit véhicules volés ont donc étés retrouvés tôt ce matin dans un garage de Shoreside Vale. Se trouvaient dans ce box un Hummer H2, une BMW série 3 et une Cadillac Fleetwood Brougham.
 
-![](  /content/images/2005/01/garage1.jpg)
-
-![](  /content/images/2005/01/garage3.jpg)
-
-![](  /content/images/2005/01/garage4.jpg)
-
-![Les véhicules volés du garage de Shoreside Vale.](  /content/images/2005/01/garage5.jpg)
+![](/content/images/2005/01/garage1.jpg)
+![](/content/images/2005/01/garage3.jpg)
+![](/content/images/2005/01/garage4.jpg)
+![Les véhicules volés du garage de Shoreside Vale.](/content/images/2005/01/garage5.jpg)
+_Les véhicules volés du garage de Shoreside Vale._
 
 J'ai donc de suite sauté dans ma vieille Ford (le Liberty Tree paye bien mais....)et me suis rendu à la première heure aux bureaux de la _Met Destiny Insurance & Co._ mais aucun responsable n'a voulu m'accorder d'interview.
 
-![Les bureaux de la Met Destiny Insurance Co. à Staunton Island.](  /content/images/2005/01/metdestiny.jpg)
+![Les bureaux de la Met Destiny Insurance Co. à Staunton Island.](/content/images/2005/01/metdestiny.jpg)
+_Les bureaux de la Met Destiny Insurance Co. à Staunton Island._
 
 Ce genre de silence ne me plaît pas du tout, c'est ainsi qu'après quelques recherches, Mr. Brightman, ex-client de la _Met Destiny_ a bien voulu me rencontrer.
 
@@ -38,7 +37,8 @@ Ce genre de silence ne me plaît pas du tout, c'est ainsi qu'après quelques rec
 
 > \*\*LT:\*\*Mr. Brightman, encore merci d'avoir répondu à nos questions.
 
-![Harry Brightman.](  /content/images/2005/01/harry.jpg)
+![Harry Brightman.](/content/images/2005/01/harry.jpg)
+_Harry Brightman._
 
 Nous se savons toujours pas où sont les cinq autres voitures volées mais le LCPD mène l'enquette. Les comptes de la _Met Destiny_ vont être passés au peigne fin cette semaine pour vérifier qu'aucune autre opération frauduleuse de ce genre n'ait été commise dans le passé.
 

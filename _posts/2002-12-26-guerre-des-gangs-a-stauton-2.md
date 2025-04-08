@@ -15,7 +15,7 @@ S'en suivi coups de feu, hurlements, effusions de sang et sirènes d'ambulance.
 La première intervention médicale, qui était sur place 10 minutes après les premiers coups de feu, fut stoppée net par une grenade Yakuza.  
 La seconde, escortée par la police, arriva un quart d'heure après à cause du bouchon sur l'autopont causé par les affrontements.
 
-![](  /content/images/2016/07/killing6.jpg)
+![](/content/images/2016/07/killing6.jpg)
 
 Mais je laisse la parole à Edmund Ventura, ambulancier à l’hôpital de Staunton  
 Island, qui a bien voulu répondre à notre interview.
@@ -26,20 +26,13 @@ Island, qui a bien voulu répondre à notre interview.
 
 Voici les photos prises par un photographe qui était là pour prendre LC au levé du jour.
 
-![](  /content/images/2016/07/killing.jpg)
-
-![](  /content/images/2016/07/killing10.jpg)
-
-![](  /content/images/2016/07/killing2.jpg)
-
-![](  /content/images/2016/07/killing3.jpg)
-
-![](  /content/images/2016/07/killing5.jpg)
-
-![](  /content/images/2016/07/killing7.jpg)
-
-![](  /content/images/2016/07/killing8.jpg)
-
-![](  /content/images/2016/07/killing9.jpg)
+![](/content/images/2016/07/killing.jpg)
+![](/content/images/2016/07/killing10.jpg)
+![](/content/images/2016/07/killing2.jpg)
+![](/content/images/2016/07/killing3.jpg)
+![](/content/images/2016/07/killing5.jpg)
+![](/content/images/2016/07/killing7.jpg)
+![](/content/images/2016/07/killing8.jpg)
+![](/content/images/2016/07/killing9.jpg)
 
 <!--kg-card-end: markdown-->

@@ -9,15 +9,15 @@ tags:
 
 Hier soir lorsqu'il fut fatigué de sa longue journée (il était environ 18h20) le maire décida de rentrer chez lui pour se reposer. Mais à peine était-il sorti de la mairie qu'une Sentinelle appartenant à la mafia passa à toute vitesse devant lui alors que ses occupants tentèrent de le tuer.
 
-![](  /content/images/2016/07/meurtre.jpg)
+![](/content/images/2016/07/meurtre.jpg)
 
 La police a immédiatement sécurisé le périmètre et a bouclé la rue principale provoquant ainsi des bouchons dans toute la ville:
 
-![](  /content/images/2016/07/barrage.jpg)
+![](/content/images/2016/07/barrage.jpg)
 
 Le chef de la police pris de panique et ne sachant pas que faire pour retrouver les malfaiteurs a décidé d'envoyer les six F-16 restants a la flotte acquise récemment par la ville. Malheureusement, équipés d'armes surpuissantes les malfaiteurs ont réussi à abattre deux appareils bien qu'ils aient été pilotés par les meilleurs membres du corps d'élite de l'aviation :
 
-![](  /content/images/2016/07/crash.jpg)
+![](/content/images/2016/07/crash.jpg)
 
 Apres deux heures de poursuite dans le quartier de Saint Mark ils ont finalement pu être maîtrisés.  
 Vers 23h00, les médecins ont rendu leur verdict: La vie du maire n'est plus en danger.  

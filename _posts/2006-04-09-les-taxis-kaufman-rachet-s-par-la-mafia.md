@@ -16,7 +16,8 @@ Selon la rumeur populaire, l'ancien propriétaire aurait eu des relations avec l
 
 Personne n'est cependant en mesure de fournir des preuves de ce prétendu rachat des taxis Kaufman par la mafia de Liberty mais certains indices prêtent à révéler l'exactitude de la rumeur.
 
-![Le quartier général des taxis jaunes au centre de cette mystérieuse affaire.](  /content/images/2005/01/Kaufman.jpg)
+![Le quartier général des taxis jaunes au centre de cette mystérieuse affaire.](/content/images/2005/01/Kaufman.jpg)
+_Le quartier général des taxis jaunes au centre de cette mystérieuse affaire._
 
 En effet, depuis plusieurs jours, les viciens ont pu observer des véhicules noirs circulant et, parfois même, stationnant devant l'entrée&nbsp; de l'immeuble jaune. Des limousines, des camionnettes et même des motos toutes de couleur noire ont été vues par des passants. Une étrange activité dans un quartier d'ordinaire si calme. Mais la preuve la plus flagrante est sans aucun doute le changement soudain des chauffeurs de taxis. En effet, au lieu de leur sourire habituel caractéristique de leur bonne humeur, les taxi mens accueillent leurs clients avec une mine maussade et un impoli "C'est pour où m'sieur?"
 
@@ -38,7 +39,8 @@ Après cette interview, un homme en costume noir est venu nous trouver en nous p
 
 Tout cela semble bien étrange et les habitants de Vice City commencent à se tourner vers la concurrence directe des taxis Kaufman : les taxis V.C.
 
-![Les taxis VC profitent bien de la rumeur pour augmenter leur nombre de clients.](  /content/images/2005/01/Taxi_VC.jpg)
+![Les taxis VC profitent bien de la rumeur pour augmenter leur nombre de clients.](/content/images/2005/01/Taxi_VC.jpg)
+_Les taxis VC profitent bien de la rumeur pour augmenter leur nombre de clients._
 
 Tout cela signifie-t-il la fin des Kaufman? Le temps nous le dira. Une chose est sûre, tout cela risque bien d'être fatal à l'industrie du taxi vicien.
 

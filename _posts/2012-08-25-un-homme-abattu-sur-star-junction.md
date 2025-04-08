@@ -32,7 +32,8 @@ Officier William Turd :
 
 Tout est bien qui finit bien dans cette affaire donc, l'homme a été identifié en fin de journée, il s'agit de Preston Wallace, un afro-américain originaire de la ville. En raison de ses origines, une bande d'agitateurs s'est réunie devant le poste de police de Star Junction pour protester contre ce qu'ils estiment être un "crime raciste".
 
-![Il n'est pas rare de voir dans nos rues des individus lourdement armés sans que cela ne dérange la police.](  /content/images/2016/06/Armed%20Thugs_0.jpg)
+![Il n'est pas rare de voir dans nos rues des individus lourdement armés sans que cela ne dérange la police.](/content/images/2016/06/Armed%20Thugs_0.jpg)
+_Il n'est pas rare de voir dans nos rues des individus lourdement armés sans que cela ne dérange la police._
 
 Malik Carr, manifestant et probablement dealer :
 

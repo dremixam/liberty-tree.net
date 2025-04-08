@@ -16,39 +16,30 @@ Le long du grand boulevard qui traverse Las Venturas : le Strip, les casinos son
 
 D'après un sondage effectué par le Liberty Tree, les casinos les plus appréciés sont "The Four Dragons", "Cam-A-Lot", "Camel's Toe", "The Pirates In Men's Pents", "The Caligula's", "The Clowns Pocket", "The Visage" et "A Little Casino Popular". Les voici en photos.
 
-![](  /content/images/2005/01/The_Four_Dragons.jpg)
-
-![](  /content/images/2005/01/Cam_A_Lot.jpg)
-
-![](  /content/images/2005/01/Camel_Toe.jpg)
-
-![](  /content/images/2005/01/The_Pirates_In_Mens_Pent.jpg)
-
-![](  /content/images/2005/01/The_Caligulas_Casino.jpg)
-
-![](  /content/images/2005/01/The_Clowns_Pocket.jpg)
-
-![](  /content/images/2005/01/The_Visage.jpg)
-
-![](  /content/images/2005/01/A_Little_Casino_Popular.jpg)
+![](/content/images/2005/01/The_Four_Dragons.jpg)
+![](/content/images/2005/01/Cam_A_Lot.jpg)
+![](/content/images/2005/01/Camel_Toe.jpg)
+![](/content/images/2005/01/The_Pirates_In_Mens_Pent.jpg)
+![](/content/images/2005/01/The_Caligulas_Casino.jpg)
+![](/content/images/2005/01/The_Clowns_Pocket.jpg)
+![](/content/images/2005/01/The_Visage.jpg)
+![](/content/images/2005/01/A_Little_Casino_Popular.jpg)
 
 Pour débuter l'enquête, nous avons décidé de choisir un casino et après de longs instants de réflexion, je suis entré avec mon photographe dans "The Four Dragons" se trouvant à l'entrée du Strip, au sud.
 
 A peine entrés, nous nous sommes fait accueillir par des hôtesses chinoises des plus charmantes avec un sourire chaleureux. La faim nous tenait au ventre et nous sommes donc dirigés vers le restaurant du casino. Pour ceux qui cela intéresse, le Four Dragons est le seul casino a posséder un restaurant. La Chine est omniprésente, même dans les repas.
 
-![](  /content/images/2005/01/Restaurant.jpg)
+![](/content/images/2005/01/Restaurant.jpg)
 
 Après s'être honnêtement rassasié, nous avons un peu (ou beaucoup pour certains) dépensé notre argent sur les tables de roulettes, les machines à sous, les parties de Black-Jack contre un ordinateur, etc... Pour finalement finir au bar en train de boire des pots à la santé de tout le monde et d'offrir des tournées qui n'en finissaient pas.
 
-![](  /content/images/2005/01/croupiers.jpg)
-
-![](  /content/images/2005/01/Jackpot.jpg)
-
-![](  /content/images/2005/01/bar.jpg)
+![](/content/images/2005/01/croupiers.jpg)
+![](/content/images/2005/01/Jackpot.jpg)
+![](/content/images/2005/01/bar.jpg)
 
 Il est déjà 2h16 du matin lorsque nous ressortons du casino, les poches vides mais la tête pleine de souvenirs et de musiques qui résonnent. C'est là que nous apercevons le directeur du Four Dragons : John Smith. La proposition d'une interview me vient à l'idée et malgré l'heure tardive, M. Smith nous l'accorde de bon cœur.
 
-![](  /content/images/2005/01/John_Smith.jpg)
+![](/content/images/2005/01/John_Smith.jpg)
 
 > **Liberty Tree :** Bonjour Monsieur Smith, est-ce-que votre petit business vous rapporte beaucoup d'argent ?
 

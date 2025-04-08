@@ -18,7 +18,7 @@ Un Vicien ordinaire veut se rendre à Vice Point. Il pend un taxi, paie 100$ et 
 
 Sur ces 100$, 10% servent à payer les employés et 5% servent à payer la taxe qui revient à l’État. La société garde les 85$ restants.
 
-![](  /content/images/2005/01/garphique.jpg)
+![](/content/images/2005/01/garphique.jpg)
 
 Oui mais voila. Il semblerait que la compagnie paierait la taxe avec de l'argent sale, et garderait donc ce qui est dû à nos dirigeants.
 
@@ -26,9 +26,8 @@ Ce qui représente en une année une économie d'environ 100 000 $
 
 Le trafic a apparemment été dénoncé par un anonyme, peut-être le même qu'on a retrouvé mort dans une ruelle il y a deux jours.
 
-![](  /content/images/2005/01/taxi%20kaufman.jpg)
-
-![](  /content/images/2005/01/police%20VC.jpg)
+![](/content/images/2005/01/taxi%20kaufman.jpg)
+![](/content/images/2005/01/police%20VC.jpg)
 
 Pendant que la police de Vice City mène son enquête, j'ai interrogé un agent :
 
@@ -48,7 +47,7 @@ Pendant que la police de Vice City mène son enquête, j'ai interrogé un agent 
 
 Vous l'avez bien compris, la société peu perdre gros sur cette affaire. D'ailleurs je suis sûr que dès demain, vous ne regarderez plus les chauffeurs de la même manière...
 
-![](  /content/images/2005/01/taxi%20concurrent.jpg)
+![](/content/images/2005/01/taxi%20concurrent.jpg)
 
 Cette affaire est une aubaine pour leur concurrent direct.
 

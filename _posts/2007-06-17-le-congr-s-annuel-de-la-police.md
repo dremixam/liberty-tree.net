@@ -14,15 +14,15 @@ Le congrès se tiendra du 20 au 27 Juin, à la salle des expositions de San Fier
 
 Nous avons parlé des personnes absentes, mais il faut bien parler des personnes présentes ! Par exemple, le chef des motards de Los Santos, Fredie Dalmone, qui est a été élu meilleur policier du mois de Mai, en arrêtant plus de 9 personnes et en mettant 50 contraventions - un record -. On peut dire qu'il est à l'origine du sentiment de sécurité qui sévit à Los Santos. Il sera présent et compte se faire remarquer. Les chefs de la police de Las Venturas et de San Fierro seront également de la partie. Les deux compères qui vous le savez bien, ont résolu plusieurs mystères.
 
-![Le chef des motards de Los Santos.](  /content/images/2005/01/flicanuel1.jpg)
-
-![](  /content/images/2005/01/flicanuel3.jpg)
-
-![Les deux homologues de San Fierro et Las Venturas.](  /content/images/2005/01/flicanuel4.jpg)
+![Le chef des motards de Los Santos.](/content/images/2005/01/flicanuel1.jpg)
+_Le chef des motards de Los Santos._[](/content/images/2005/01/flicanuel3.jpg)
+![Les deux homologues de San Fierro et Las Venturas.](/content/images/2005/01/flicanuel4.jpg)
+_Les deux homologues de San Fierro et Las Venturas._
 
 Le maire de San Fierro, John McCaulley viendra lui à la conférence de presse pour évoquer le compte rendu d'une affaire qui a remué tout Angel Pine, le "leatherface", qui n'était autre qu'un bûcheron, échappé de l'asile.
 
-![Le  Maire de San Fierro, Mr. McCaulley.](  /content/images/2005/01/flicanuel2.jpg)
+![Le  Maire de San Fierro, Mr. McCaulley.](/content/images/2005/01/flicanuel2.jpg)
+_Le  Maire de San Fierro, Mr. McCaulley._
 
 Nous avons reçu David Caine, pour qu'il nous parle des changements qu'il a lui-même mis en place à Los Santos pour contrer la vague de crime et la guerre des gangs qui s'abattaient depuis plusieurs mois dans toute la ville.
 
@@ -40,13 +40,13 @@ Nous avons reçu David Caine, pour qu'il nous parle des changements qu'il a lui-
 
 > **Liberty Tree :** Nous vous remercions pour vos indications Mr. Caine.
 
-![David Caine](  /content/images/2005/01/flicanuel5.jpg)
-
-![Un hélicoptère en patrouille](  /content/images/2005/01/flicanuel6.jpg)
+![David Caine](/content/images/2005/01/flicanuel5.jpg)
+_David Caine_[Un hélicoptère en patrouille](/content/images/2005/01/flicanuel6.jpg)
 
 Nous vous proposons grâce aux chiffres de Mr. Caine un pourcentage du taux général de criminalité à Los Santos entre Janvier et Mai :
 
-![Courbe du taux de crimes (en % par habitants par mois) Janvier-Mai](  /content/images/2005/01/courbeannuel.jpg)
+![Courbe du taux de crimes (en % par habitants par mois) Janvier-Mai](/content/images/2005/01/courbeannuel.jpg)
+_Courbe du taux de crimes (en % par habitants par mois) Janvier-Mai_
 
 Pour les personnes intéressées, l'entrée est au prix de 7$ pour les adultes et 2$ pour les enfants. Pour les moins de 8 ans, c'est gratuit, n'hésitez pas à y faire un petit tour.
 

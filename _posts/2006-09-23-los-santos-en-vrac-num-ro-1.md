@@ -8,13 +8,14 @@ tags:
 - los-santos
 ---
 
-![](  /content/images/2005/01/envractitle2.jpg)
+![](/content/images/2005/01/envractitle2.jpg)
 
 **Lundi 18/09/06 :**
 
 Lundi dernier, le bimensuel "AD - Architecture & Design" faisait paraître son nouveau numéro, entièrement consacré à Los Santos. De Vinewood à Santa Maria, le magazine nous offre un panorama architectural de notre ville très intéressant et varié, comme peut l'être l'environnement de Los Santos. A noter un article bien mené sur la Case Study House #122 appartenant à notre journaliste Pavlov.
 
-![Couverture du magazine "AD - Architecture & Design".](  /content/images/2005/01/adcover.jpg)
+![Couverture du magazine "AD - Architecture & Design".](/content/images/2005/01/adcover.jpg)
+_Couverture du magazine "AD - Architecture & Design"._
 
 **Mercredi 20/09/06 :**
 
@@ -26,29 +27,24 @@ Après cette étrange intervention, le gouverneur quitta le pupitre et se dirige
 
 Aucune photo du gouverneur n'a été autorisée dans sa chambre d'hôpital où il réside encore à ce jour.
 
-![](  /content/images/2005/01/vrac1.jpg)
-
-![La mairie de Los Santos et le All Saints General Hospital.](  /content/images/2005/01/saintshosto.jpg)
-
-![](  /content/images/2005/01/lsrequiem.jpg)
+![](/content/images/2005/01/vrac1.jpg)
+![La mairie de Los Santos et le All Saints General Hospital.](/content/images/2005/01/saintshosto.jpg)
+_La mairie de Los Santos et le All Saints General Hospital._[](/content/images/2005/01/lsrequiem.jpg)
 
 Ce même mercredi sortait le nouveau roman de l'auteur Robert Crash, LS requiem, cinquième opus de la série racontant les aventures du détective privé Elvis Cobb. Comme toujours, Crash conjugue une mécanique impeccable et une vraie épaisseur romanesque tenant le lecteur en haleine, sans le moindre temps mort, jusqu’à la dernière ligne. A cette occasion, une séance de dédicaces avait lieu au Conference Center de Los Santos en fin de journée, suivie par un petit discours de la part de l'auteur.
 
-![Le Conference Center de Los Santos.](  /content/images/2005/01/conferencecenter.jpg)
-
-![](  /content/images/2005/01/bonus.jpg)
+![Le Conference Center de Los Santos.](/content/images/2005/01/conferencecenter.jpg)
+_Le Conference Center de Los Santos._[](/content/images/2005/01/bonus.jpg)
 
 **Jeudi 21/09/06 :**
 
 Belle prise pour les forces de l'ordre de Los Santos dans le quartier de Ganton. Jordan P. Wallace, afro-américain de vingt-deux ans et soupçonné d'être impliqué dans un important réseau de trafic d'armes, était sous surveillance du LSPD depuis plusieurs mois. Jeudi dernier, deux équipes en uniformes sous les ordres du lieutenant de police Nicholas Anton ont réveillé, arme au poing, M. Wallace à 7h du matin. Leur initiative ne fut pas vaine, car la maison dans lequel notre homme habitait était truffée de calibres en tout genre, sans oublier un fourgon Chevrolet dans lequel la police de Los Santos trouva pas moins de 20 AK-47, une dizaine de fusils à pompe Beretta et deux caisses de grenades. Jordan Wallace ne semble être qu'un simple revendeur, mais le LSPD compte sur sa coopération pour localiser la source de l'organisation.
 
-![](  /content/images/2005/01/chevynb.jpg)
-
-![Photos prises lors de la surveillance de Jordan P. Wallace.](  /content/images/2005/01/ganton1.jpg)
-
-![](  /content/images/2005/01/towingchevy.jpg)
-
-![Le fourgon du revendeur, emmené au labo du LSPD.](  /content/images/2005/01/towingchevy2.jpg)
+![](/content/images/2005/01/chevynb.jpg)
+![Photos prises lors de la surveillance de Jordan P. Wallace.](/content/images/2005/01/ganton1.jpg)
+_Photos prises lors de la surveillance de Jordan P. Wallace._[](/content/images/2005/01/towingchevy.jpg)
+![Le fourgon du revendeur, emmené au labo du LSPD.](/content/images/2005/01/towingchevy2.jpg)
+_Le fourgon du revendeur, emmené au labo du LSPD._
 
 **Vendredi 22/09/06 :**
 
@@ -58,12 +54,9 @@ Spectaculaire accident de la circulation près de Unity Station. Une mère de fa
 
 Aucun mort à déplorer donc, mais une circulation perturbée pendant quelques heures dans le secteur de Unity Station, et pourquoi pas, une bonne raison pour cette personne de choisir entre boire et conduire !
 
-![](  /content/images/2005/01/crashtrain.jpg)
-
-![](  /content/images/2005/01/crashtrain2.jpg)
-
-![Un impressionant accident qui aurait vite pu tourner au drame.](  /content/images/2005/01/crashtrain3.jpg)
-
-![S'en suivit quelques complications au niveau de la circulation...](  /content/images/2005/01/trafficjam.jpg)
+![](/content/images/2005/01/crashtrain.jpg)
+![](/content/images/2005/01/crashtrain2.jpg)
+![Un impressionant accident qui aurait vite pu tourner au drame.](/content/images/2005/01/crashtrain3.jpg)
+_Un impressionant accident qui aurait vite pu tourner au drame._[S'en suivit quelques complications au niveau de la circulation...](/content/images/2005/01/trafficjam.jpg)
 
 <!--kg-card-end: markdown-->

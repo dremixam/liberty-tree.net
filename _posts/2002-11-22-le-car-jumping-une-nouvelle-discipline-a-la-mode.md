@@ -11,13 +11,12 @@ _Une nouvelle façon de conduire tout droit venue du Mexique envahit nos rues, l
 
 Le but est simple : voler le plus haut et le plus longtemps possible avec sa voiture lancée à pleine allure après avoir franchi un tas de sable, une pente ou autre tremplin.
 
-![](  /content/images/2016/07/Jump.jpg)
+![](/content/images/2016/07/Jump.jpg)
 
 Il arrive que parfois, les choses se déroulent pas tout à fait comme elles devraient :
 
-![](  /content/images/2016/07/jump2.jpg)
-
-![](  /content/images/2016/07/jump3.jpg)
+![](/content/images/2016/07/jump2.jpg)
+![](/content/images/2016/07/jump3.jpg)
 
 Les jeunes sont de plus en plus friands de ce genre d'activité. Une réunion a lieu tous les vendredi et samedi soir du côté d'Atlantic Quays.  
 Chaque Car-Jumper atteint un bon niveau mais le champion toute catégories et sans aucun doute John Millner que j'interview pour vous :
@@ -42,16 +41,11 @@ Chaque Car-Jumper atteint un bon niveau mais le champion toute catégories et sa
 
 Je vous laisse jeter un petit coup d’œil aux exploits de John mais faites bien gaffe, le Car-Jumping doit être effectué avec une voiture puissante.
 
-![](  /content/images/2016/07/jump4.jpg)
-
-![](  /content/images/2016/07/jump5.jpg)
-
-![](  /content/images/2016/07/jump6.jpg)
-
-![](  /content/images/2016/07/jump7.jpg)
-
-![](  /content/images/2016/07/jump8.jpg)
-
-![](  /content/images/2016/07/jump9.jpg)
+![](/content/images/2016/07/jump4.jpg)
+![](/content/images/2016/07/jump5.jpg)
+![](/content/images/2016/07/jump6.jpg)
+![](/content/images/2016/07/jump7.jpg)
+![](/content/images/2016/07/jump8.jpg)
+![](/content/images/2016/07/jump9.jpg)
 
 <!--kg-card-end: markdown-->

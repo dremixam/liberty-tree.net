@@ -11,7 +11,8 @@ Il y a deux ans, le Liberty Tree disparaissait dans l’oubli sans que personne 
 
 Tout a commencé en Mars 2007, les lecteurs de l’époque doivent probablement s’en souvenir, c’est le mois de la tragique mort de Newz.Report, journaliste de profession à notre journal adepte de la chirurgie esthétique, écrasé tragiquement dans sa voiture par un donut géant (on le regrette encore… ce donut). À l’époque, après son enquête, la police avait conclu à un tragique accident et l’affaire avait été classée.
 
-![La mort de Newz.Report, l’événement qui mit le feu aux poudres.](  /content/images/2005/01/donut.jpg)
+![La mort de Newz.Report, l’événement qui mit le feu aux poudres.](/content/images/2005/01/donut.jpg)
+_La mort de Newz.Report, l’événement qui mit le feu aux poudres._
 
 Mais voila, début 2008, soit presque un an après, la veuve de notre regretté collaborateur, rongée par le remord, se rendit au LSPD pour avouer le meurtre de son mari qu’elle prétendit avoir organisé avec l’aide de Logan, NelsoN et Dr Emixam. Ces deux derniers, alors en vacances à Cuba, prolongèrent leur voyage pour une durée indéterminée. Logan fut arrêté peu de temps avant que la femme de Newz.Report ne soit écrasée dans sa voiture par un hot dog géant.
 
@@ -29,6 +30,7 @@ Maxou (ou Dr Emixam) et NelsoN, goûtant aux joies du cigare Cubain, décidèren
 
 Le roi est mort, vive le roi. Le Liberty Tree repart ainsi pour de nouvelles aventures !
 
-![Le quartier de Star Junction, artère de Liberty City](  /content/images/2016/06/Sans%20titre.png)
+![Le quartier de Star Junction, artère de Liberty City](/content/images/2016/06/Sans%20titre.png)
+_Le quartier de Star Junction, artère de Liberty City_
 
 <!--kg-card-end: markdown-->

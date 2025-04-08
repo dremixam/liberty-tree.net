@@ -12,11 +12,12 @@ En évoquant le nom des 3Men Crew, vous pensez sûrement à "Afterparty" ou "Bul
 
 Aujourd'hui sort dans les bacs le nouvel opus des 3Men, "Made in Ganton" qui, comme son nom l'indique, a été entièrement réalisé sous le soleil de Los Santos, marque le grand retour de ce groupe de rap mondialement connu,&nbsp; et pour leur première interview depuis plus de deux ans, ils ont choisi le Liberty Tree.
 
-!["Made in Ganton", le nouvel opus des 3Men Crew.](  /content/images/2005/01/madein.jpg)
+!["Made in Ganton", le nouvel opus des 3Men Crew.](/content/images/2005/01/madein.jpg)
+_"Made in Ganton", le nouvel opus des 3Men Crew._
 
 Mais avant de poursuivre cet article, une petite présentation du groupe s'impose.
 
-![](  /content/images/2005/01/djseagull.jpg)
+![](/content/images/2005/01/djseagull.jpg)
 
 Prénom et nom : Matthew Cornwell
 
@@ -28,7 +29,7 @@ Fonction au sein du groupe : Chanteur, scratch.
 
 Signe Particulier : Ne reste jamais bien loin de son S.U.V
 
-![](  /content/images/2005/01/SVEN.jpg)
+![](/content/images/2005/01/SVEN.jpg)
 
 Prénom et nom : Gordon Roundtree
 
@@ -40,7 +41,7 @@ Fonction au sein du groupe : Chanteur
 
 Signe Particulier : A donné au moins un coup de tête à tous ses voisins de Wichita Garden.
 
-![](  /content/images/2005/01/FL57.jpg)
+![](/content/images/2005/01/FL57.jpg)
 
 Prénom et nom : Julius Parks
 
@@ -76,7 +77,8 @@ C'est ainsi que les 3Men Crew et moi-même nous nous&nbsp;retrouvâmes par une a
 
 > **LT :** Los Santos est un cadre unique, c'est bien vrai. Revenons un peu à votre nouvel album si vous le voulez bien. 16 titres, dont le promo title "Sweet Home Los Santos" passant en boucle sur nombre de stations de radios ainsi que le clip sur MTV, le tout enregistré dans les studios d'AMD Records, à Ganton. Le son est d'un tout autre genre que sur "Bullshit Boyz" ou "Afterparty".
 
-![Le clip de "Sweet Home Los Santos" passe en boucle sur MTV...](  /content/images/2005/01/MTV.jpg)
+![Le clip de "Sweet Home Los Santos" passe en boucle sur MTV...](/content/images/2005/01/MTV.jpg)
+_Le clip de "Sweet Home Los Santos" passe en boucle sur MTV..._
 
 > **S _(prenant la parole)_ :** Eh ouais gros, on a voulu faire un truc percutant pour notre retour là, si c'est pour réchauffer les vieux riffs de nos anciennes prod', c'est pas la peine tu vois. Non, sérieux là, on s'est vraiment déchaînés sur "Made in Ganton", les mecs d'AMD on vraiment été frais avec nous, et c'est pas FL qui me dira le contraire !
 
@@ -92,11 +94,10 @@ C'est ainsi que les 3Men Crew et moi-même nous nous&nbsp;retrouvâmes par une a
 
 > **FL57 :** Ouais !
 
-![](  /content/images/2005/01/gantonprod.jpg)
-
-![](  /content/images/2005/01/stud1.jpg)
-
-![Photos des studios d'AMD Records fournies par M. Betancourt.](  /content/images/2005/01/stud2.jpg)
+![](/content/images/2005/01/gantonprod.jpg)
+![](/content/images/2005/01/stud1.jpg)
+![Photos des studios d'AMD Records fournies par M. Betancourt.](/content/images/2005/01/stud2.jpg)
+_Photos des studios d'AMD Records fournies par M. Betancourt._
 
 En conclusion, ce sont trois garçons assagis que nous retrouvons aujourd'hui, avec des lyrics moins violents, des mélodies plus douces, faisant de "Made in Ganton" un disque indispensable à avoir chez soi.
 

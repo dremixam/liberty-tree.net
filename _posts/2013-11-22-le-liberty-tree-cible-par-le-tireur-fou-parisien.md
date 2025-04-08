@@ -14,7 +14,8 @@ En effet, ce dernier semble avoir quitté la France pour venir s'attaquer à Los
 
 C'est donc mardi matin, alors que les locaux du journal sont quasiment vides, que l'individu qui a terrorisé la capitale française est aperçu aux abords de l'immeuble qui abrite notre rédaction par une caméra de sécurité. Le temps d'envoyer un agent vérifier, l'homme a disparu et la police ne le retrouvera pas lors de sa fouille minutieuse du quartier.
 
-![Sur l'image de la vidéosurveillance, on voit clairement l'individu qui regarde deux passants alors qu'il s'enfuit dans une ruelle.](  /content/images/2016/06/surveillance.png)
+![Sur l'image de la vidéosurveillance, on voit clairement l'individu qui regarde deux passants alors qu'il s'enfuit dans une ruelle.](/content/images/2016/06/surveillance.png)
+_Sur l'image de la vidéosurveillance, on voit clairement l'individu qui regarde deux passants alors qu'il s'enfuit dans une ruelle._
 
 L'agent Hans Callihan, chargé de la surveillance de la tour, nous explique :
 
@@ -24,9 +25,9 @@ Ce que la sécurité ignore alors, c'est que l'homme rôde encore dans les envir
 
 > **Passe-Partout :** J'étais tranquillement en train de… Euh… Enfin j'étais dans la rue où NelsoN m'avait dit… Enfin, j'y suis allé dans cette ruelle quoi et puis il m'a tiré dans la jambe… Euh… Oui il m'a tiré dans la jambe, le tireur fou hein, pas Nels' !
 
-![](  /content/images/2016/06/vendredi%2022%20novembre%2013%20-%20172539.jpg)
-
-![L'hôpital où nous avons pu rendre visite à notre confrère blessé.](  /content/images/2016/06/vendredi%2022%20novembre%2013%20-%20172613.jpg)
+![](/content/images/2016/06/vendredi%2022%20novembre%2013%20-%20172539.jpg)
+![L'hôpital où nous avons pu rendre visite à notre confrère blessé.](/content/images/2016/06/vendredi%2022%20novembre%2013%20-%20172613.jpg)
+_L'hôpital où nous avons pu rendre visite à notre confrère blessé._
 
 La police a donc bouclé le quartier par sécurité pour le restant de la journée mais a malheureusement été dans l'incapacité de retrouver le tireur, comme nous le confirme le sergent Ken Sylvester :
 

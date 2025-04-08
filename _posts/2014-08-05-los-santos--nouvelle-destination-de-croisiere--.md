@@ -14,7 +14,8 @@ En effet, notre ville devient une escale de croisière de plus en plus prisée, 
 
 Le _Jetsam Majesty_, de la compagnie _Jetsam Cruises Lines_ (filière spécialisée dans les croisières du groupe Jetsam) est pour la journée à quai au Pier 400.
 
-![Le Jestsam Majesty](  /content/images/2016/06/MSC%20Sinfonia-visore_tcm16-2991.jpg)
+![Le Jestsam Majesty](/content/images/2016/06/MSC%20Sinfonia-visore_tcm16-2991.jpg)
+_Le Jestsam Majesty_
 
 Je demande à rencontrer le commandant, qui me reçoit dans un salon du bateau:
 
@@ -26,7 +27,8 @@ J'embarque donc dans le bus, et je demande à des passagers à côté de moi pou
 
 > **Mary, 62 ans :** Moi et mon mari venons de Londres, nous sommes partis il y a deux mois de Liberty City, puis allés à Vice City, ensuite au Panama, et maintenant on est là; enfin nous irons à San Fierro avant de rentrer à Londres. Les croisières nous permettent de voyager en toute tranquillité, à bord on a le luxe, le confort... Et avec les escales, on a la possibilité de visiter ce que l'on veut, si ça nous plaît pas, on reste à bord. Et puis Los Santos est une ville à voir absolument, avec Vinewood, Rockford Hills, Richman, les studios de cinéma... C'est le rêve américain, la conquête de l'Ouest et bien d'autres choses encore.
 
-![Les passagers avec leur bus et leur guide devant l'Oriental Theatre.](  /content/images/2016/06/bus%20croisieristes.jpg)
+![Les passagers avec leur bus et leur guide devant l'Oriental Theatre.](/content/images/2016/06/bus%20croisieristes.jpg)
+_Les passagers avec leur bus et leur guide devant l'Oriental Theatre._
 
 Après une visite de la ville moins ennuyeuse qu'avec Vinewood Tours, les visiteurs rentrent à bord de leur navire. Ils partiront cette nuit tandis qu'un autre paquebot arrivera dans trois semaines.
 
@@ -34,7 +36,8 @@ De plus en plus de ces navires s'arrêtent à Los Santos, mais aucune constructi
 
 A Alderney City, une gare transatlantique avait été construite en 1890, devenue une base de sous-marins pendant les guerres, elle avait été reconvertie en gare maritime vers 1990 pour des ferries pouvant embarquer vers la ville de Blackwater.
 
-![Le "Ferry Terminal" d'Alderney](  /content/images/2016/06/677981EFLC7282014110703PM629.png)
+![Le "Ferry Terminal" d'Alderney](/content/images/2016/06/677981EFLC7282014110703PM629.png)
+_Le "Ferry Terminal" d'Alderney_
 
 Autre exemple à Algonquin où des "pier" ont toujours existé entre Castle Gardens City et Varsity Heights pour accueillir les navires en provenance d'Europe.
 

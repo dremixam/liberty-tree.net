@@ -20,11 +20,10 @@ Nous avons téléphoné à la direction des transports afin d’avoir de plus am
 
 > \*\*DJP&nbsp;\*\*: Oui c’est exact. La suppression des quotidiens entre San Fierro et Los Santos ainsi que ceux entre Las Venturas et Los Santos infligent de gros inconvénients à la fois pour nos abonnés mais aussi pour ceux qui se déplacent occasionnellement. La gare étant en travaux pour une durée indéterminée nous avons décidé de mettre en place un système de navette qui assurera le transport entre les trois villes toutes les deux heures.
 
-![](  /content/images/2005/01/bus1.jpg)
-
-![](  /content/images/2005/01/bus2.jpg)
-
-![Les bus en attente près de la Marina à Los Santos.](  /content/images/2005/01/bus3.jpg)
+![](/content/images/2005/01/bus1.jpg)
+![](/content/images/2005/01/bus2.jpg)
+![Les bus en attente près de la Marina à Los Santos.](/content/images/2005/01/bus3.jpg)
+_Les bus en attente près de la Marina à Los Santos._
 
 > **LT&nbsp;:** Vous avez donc crée des emplois&nbsp;?
 
@@ -36,7 +35,8 @@ Nous avons téléphoné à la direction des transports afin d’avoir de plus am
 
 > **LT&nbsp;:** Merci pour vos réponses.
 
-![DJ. Potter & sa secrétaire ce matin après l'interview.](  /content/images/2005/01/bus4.jpg)
+![DJ. Potter & sa secrétaire ce matin après l'interview.](/content/images/2005/01/bus4.jpg)
+_DJ. Potter & sa secrétaire ce matin après l'interview._
 
 Comme vous pouvez le remarquer, le département des transports de San Andreas n’hésite pas à mettre la main à la pâte lorsqu’il s’agit de ses clients. La gare est encore fouillée par les autorités en quête de preuves supplémentaires mais aussi pour sortir les corps qui restent calcinés dans ces «&nbsp;ruines de guerres&nbsp;». Nous avons interviewé un des nouveaux chauffeurs de bus, Mark Powder.
 

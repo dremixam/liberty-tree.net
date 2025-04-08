@@ -8,9 +8,9 @@ tags:
 - liberty-city
 ---
 
-![](  /content/images/2005/01/college-liberty-city02.jpg)
-
-![L'université Saint Matthias à Stauton Island.](  /content/images/2005/01/college-liberty-city.jpg)
+![](/content/images/2005/01/college-liberty-city02.jpg)
+![L'université Saint Matthias à Stauton Island.](/content/images/2005/01/college-liberty-city.jpg)
+_L'université Saint Matthias à Stauton Island._
 
 Vous connaissez tous la très célèbre Saint Matthias University, la seule université de tout l'état de Liberty City. Celle-ci a durant de nombreuses années proposé des études poussées pour les personnes démunies. Mais malgré cet aspect sympathique et très attaché à l'éthique professionnelle, l'université a elle aussi sa part d'ombre.
 
@@ -64,9 +64,8 @@ Nous avons interrogé Monsieur Albin Katrof, un policier aujourd'hui à la retra
 
 > **K :** Si mes souvenirs sont bons, elle s’appelait Cathrina Ashtrub. Elle était encore jeune, elle n' avait que 28 ans.
 
-![](  /content/images/2005/01/collegien-liberty-city.jpg)
-
-![](  /content/images/2005/01/collegien-liberty-city02.jpg)
+![](/content/images/2005/01/collegien-liberty-city.jpg)
+![](/content/images/2005/01/collegien-liberty-city02.jpg)
 
 > **LT :** Pouvez-vous nous dire comment est-elle morte?
 
@@ -76,7 +75,8 @@ Nous avons interrogé Monsieur Albin Katrof, un policier aujourd'hui à la retra
 
 > **K :** Malheureusement non, mais j' ai aussi enquêté sur les meurtres du 23 juillet 2006, et sur chaques corps, on retrouvait la même chose: un bout de papier sur lequel était dessiné un......pénis. C' était en quelque sorte sa "carte de visite".
 
-![La carte de visite du  "Tueur du bahut".](  /content/images/2005/01/carnet-dessin-frauduleux.jpg)
+![La carte de visite du  "Tueur du bahut".](/content/images/2005/01/carnet-dessin-frauduleux.jpg)
+_La carte de visite du  "Tueur du bahut"._
 
 > **LT :** Saviez-vous si elle avait des amis proches qui auraient survécu aux meurtres?
 
@@ -86,13 +86,15 @@ Nous avons interrogé Monsieur Albin Katrof, un policier aujourd'hui à la retra
 
 Grâce à l' adresse laissée par monsieur Katrof, nous avons pu retrouver la mère de la défunte. Celle-ci a gentiment accepté de répondre à quelques questions.
 
-![Linda Ashtrub, la mère de la défunte Cathrina Ashtrub.](  /content/images/2005/01/femme-ex-collegienne.jpg)
+![Linda Ashtrub, la mère de la défunte Cathrina Ashtrub.](/content/images/2005/01/femme-ex-collegienne.jpg)
+_Linda Ashtrub, la mère de la défunte Cathrina Ashtrub._
 
 > **LT :** Madame Ashtrub? Nous enquêtons sur la mort de votre fille, Cathrina. Auriez-vous des renseignements à nous donner?
 
 > **Linda :** Ha, ma petite Cathrina??? Oui, en effet, c' est très malheureux, j' ai été vraiment choquée d' apprendre sa mort. Croyez-moi, jamais elle n' a eu de problème à l' université. Elle travaillait bien, elle était sage, bref c' était une élève modèle. Je me rappelle que je devais faire des choses....honteuses afin de payer ses études. Mais je devais le faire, pour elle. En fait, je me souviens que le seul qui ne l' aimait pas beaucoup c' était monsieur Frances Bitrov, le directeur de l' université.
 
-![Madame Ashtrub devait se prostituer afin de payer les études de sa fille.](  /content/images/2005/01/prostitution-ann_es-90.jpg)
+![Madame Ashtrub devait se prostituer afin de payer les études de sa fille.](/content/images/2005/01/prostitution-ann_es-90.jpg)
+_Madame Ashtrub devait se prostituer afin de payer les études de sa fille._
 
 > **LT :** Pouvez-vous nous dire ce qu' il lui reprochait?
 
@@ -102,6 +104,7 @@ Grâce à l' adresse laissée par monsieur Katrof, nous avons pu retrouver la m�
 
 Nous sommes donc allés chez monsieur Frances Bitrov, comme nous l' avait suggéré madame Ashtrub. Etant donné qu' il n' était pas chez lui et que la porte était ouverte, nous sommes rentrés pour chercher des indices. Nous avons trouvé une preuve irréfutable que c' était Bitrov qui avait assassiné ces filles: dans son bureau était caché des copies de&nbsp;lettres qui étaient destinées aux filles. Dans ces lettres, il disait être amoureux d' elles et que si ce sentiment n' était pas réciproque, elles mourraient.&nbsp;Deux heures plus tard, la police arrêtaient monsieur Bitrov. Quant à l' université, elle sera fermée définitivement.
 
-![Monsieur Bitrov, quelques minutes avant son arrestation.](  /content/images/2005/01/directeur-college-liberty.jpg)
+![Monsieur Bitrov, quelques minutes avant son arrestation.](/content/images/2005/01/directeur-college-liberty.jpg)
+_Monsieur Bitrov, quelques minutes avant son arrestation._
 
 <!--kg-card-end: markdown-->

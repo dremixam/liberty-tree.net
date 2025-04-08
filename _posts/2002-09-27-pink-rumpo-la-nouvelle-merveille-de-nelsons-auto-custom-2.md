@@ -7,7 +7,8 @@ tags:
 - liberty-city
 ---
 
-![Today's car](  /content/images/2016/07/PinkRumpo.jpg)
+![Today's car](/content/images/2016/07/PinkRumpo.jpg)
+_Today's car_
 
 Chers lecteurs, bonjour!
 
@@ -22,14 +23,14 @@ On a pas fait dans le petit. Les parois et la partie avant ont été tapissées 
 Deux bandes antidérapantes blanches ont été installées sous les pédales. Le compteur d'origine a été remplacé par un compteur "Smith" sport double cadrans noir sur blanc.  
 Une petite horloge digitale bleue a été mise en place sur le tableau de bord et les accoudoirs ont étés recouverts d'Alcantara blanc.
 
-![](  /content/images/2016/07/Pink4.jpg)
+![](/content/images/2016/07/Pink4.jpg)
 
 Carrosserie :
 
 Les feux avants ont reçu des plastiques légèrement teintés mauve et les feux arrières ont été remplacé par de nouveaux feux à éclairage par LED.  
 La calandre a été redessinée et la carrosserie a été rabaissée de 20cm.
 
-![](  /content/images/2016/07/Pink5.jpg)
+![](/content/images/2016/07/Pink5.jpg)
 
 Mais une des choses que l'on remarque le plus sur ce Pink Rumpo, c'est sa couleur. En effet, elle est bien plus douce que celles que l'ont voit sur les véhicules de Liberty-City.  
 8 teintes vous sont proposées :
@@ -50,7 +51,7 @@ Mais une des choses que l'on remarque le plus sur ce Pink Rumpo, c'est sa couleu
 
 -Vert Foncé
 
-![](  /content/images/2016/07/Pink7.jpg)
+![](/content/images/2016/07/Pink7.jpg)
 
 Moteur :
 
@@ -67,7 +68,7 @@ Résistance Aux Piétons :
 "poussez-vous, Pink Rumpo débarque!"  
 C'est ce qu'on pourrait dire aux personnes distraites qui traversent au feu vert! A 150 Km/h, un piéton moyen (1.75, 82,5 Kg équipé d'un blouson molletonné à 11$ chez Zip dispo en coloris bleu, noir ou rouge et blanc pour les étudiants) ne m'a laissé aucune trace sur le pare choc. Même pas une petite secousse; ce qui souligne une fois de plus la robustesse du Pink Rumpo.
 
-![](  /content/images/2016/07/Pink8.jpg)
+![](/content/images/2016/07/Pink8.jpg)
 
 Consommation :
 
@@ -101,14 +102,10 @@ Vous n’êtes pas encore certain? Jetez donc un petit coup d’œil aux photos 
 
 Je vous dis "A la semaine prochaine" et vous souhaite une bonne route tout en vous rappelant que vous pouvez commander votre véhicule customisé par NelsoN's Auto Custom en cliquant ici !
 
-![](  /content/images/2016/07/Pink1.jpg)
-
-![](  /content/images/2016/07/Pink10.jpg)
-
-![](  /content/images/2016/07/Pink2.jpg)
-
-![](  /content/images/2016/07/Pink3.jpg)
-
-![](  /content/images/2016/07/Pink6.jpg)
+![](/content/images/2016/07/Pink1.jpg)
+![](/content/images/2016/07/Pink10.jpg)
+![](/content/images/2016/07/Pink2.jpg)
+![](/content/images/2016/07/Pink3.jpg)
+![](/content/images/2016/07/Pink6.jpg)
 
 <!--kg-card-end: markdown-->

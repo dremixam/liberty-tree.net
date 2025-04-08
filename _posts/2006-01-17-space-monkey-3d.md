@@ -10,7 +10,7 @@ _Le jeu culte des années 90 reviens dans un nouvel opus qui devrait faire la jo
 
 Nous sommes dans la première moitié des années 90 et un jeu vidéo vient de sortir chez nos nouvelles consoles de salon et nos bornes d'arcades, « Go,go Space Monkey » on contrôle un petit singe dans un vaisseau spatial et on doit dégommer des bananes en soucoupe volante.
 
-![](  /content/images/2005/01/spacegame.jpg)
+![](/content/images/2005/01/spacegame.jpg)
 
 Rien de très original mais ce scénario a parfaitement convenu et de nombreux joueurs ont accroché (dans le registre des sans scénarios, on a Duum 3) et ce jeu s'est vendu comme des petits pains. Nous avons rencontré pour vous le célèbre collectionneur de Space Monkey, Georges Spencer !
 

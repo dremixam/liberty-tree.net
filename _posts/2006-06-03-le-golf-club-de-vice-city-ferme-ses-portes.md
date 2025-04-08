@@ -10,18 +10,20 @@ tags:
 
 Alors qu'une nouvelle salle de sport venait juste d'être inaugurée et que le sport retrouvait à peine ses adeptes, Monsieur William Hullsey, président de la jeunesse et des sports a annoncé hier matin sa décision de fermer définitivement le club de golf de l'île de Leaf Links à Vice City.
 
-![](  /content/images/2005/01/leaf_links_1.jpg)
-
-![Quelques vues du célèbre Golf Club...](  /content/images/2005/01/golf_club.jpg)
+![](/content/images/2005/01/leaf_links_1.jpg)
+![Quelques vues du célèbre Golf Club...](/content/images/2005/01/golf_club.jpg)
+_Quelques vues du célèbre Golf Club..._
 
 Il faut dire que le golf n'avait plus la cote depuis ces deux dernières années. Quelques chiffres pour vous expliquer : on comptait 724 joueurs au courant de 2002 contre seulement 180 l'année passée. D'après les spécialistes, on doit cette soudaine chute à la diminution de la participation des jeunes. En effet, plus motivés par la télévision et les jeux vidéo, ces derniers restent pour la plupart cantonnés chez eux, oubliant "la joie et les plaisirs de la pratique du golf", selon les propos de M. Hullsey.
 
-![Un véhicule que l'on ne verra peut-être plus...](  /content/images/2005/01/caddie.jpg)
+![Un véhicule que l'on ne verra peut-être plus...](/content/images/2005/01/caddie.jpg)
+_Un véhicule que l'on ne verra peut-être plus..._
 
 Néanmoins, un courant de contestataires composé des rares derniers joueurs semble vouloir se lever contre le choix de fermeture.  
 L'équipe du Liberty Tree a rencontré pour vous un fervent golfeur, M. Klym (54 ans).
 
-![M.Klym, un fervent joueur de golf](  /content/images/2005/01/joueur.jpg)
+![M.Klym, un fervent joueur de golf](/content/images/2005/01/joueur.jpg)
+_M.Klym, un fervent joueur de golf_
 
 > **Liberty Tree :** Pourquoi vous opposez-vous à la décision du président de la jeunesse et des sports ?
 

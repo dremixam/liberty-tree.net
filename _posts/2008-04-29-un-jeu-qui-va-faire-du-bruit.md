@@ -9,7 +9,7 @@ tags:
 
 _C'est aujourd'hui que sort le très attendu Big Car Theft V et déjà, le dernier opus du jeu se vend par millions d'exemplaires a travers le monde. Enquête du Liberty Tree sur l'un des jeux les plus controversés du moment..._
 
-![](  /content/images/2005/01/BCT.jpg)
+![](/content/images/2005/01/BCT.jpg)
 
 Les fans l'attendaient depuis des mois, mais le studio Bockstar aura réussi à maintenir le mystère jusqu'au dernier moment, c'est donc après des heures de queue que les fans de la série Big Car Theft ont pu obtenir leur galette soigneusement rangée dans une boite à la jaquette évocatrice, le Liberty Tree y était et a pu obtenir son exemplaire afin de vous donner notre avis.
 

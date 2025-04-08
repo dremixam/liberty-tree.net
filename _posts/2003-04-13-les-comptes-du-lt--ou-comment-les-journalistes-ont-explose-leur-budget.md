@@ -30,18 +30,12 @@ L'une des valeurs de notre journal est la transparence donc nous nous sommes dé
 
 L'image avec le logo 75 est tirée de l'émission de la chaîne KPLC, et l'autre c'est celle prise par nos photographes.
 
-![L'intérieur de ma maison par 75 et ce qu'il en est réellement.](  /content/images/2016/06/swit.jpg)
-
-![La voiture de Tommy, et la vraie voiture de Tommy](  /content/images/2016/06/interior1.jpg)
-
-![](  /content/images/2016/06/lamboghinidiablo.jpg)
-
-![Chez RR4, pour de faux, chez RR4 pour de vrai...](  /content/images/2016/06/perennialpav.jpg)
-
-![](  /content/images/2016/06/duncocb.jpg)
-
-![](  /content/images/2016/06/069605.jpg)
-
+![L'intérieur de ma maison par 75 et ce qu'il en est réellement.](/content/images/2016/06/swit.jpg)
+_L'intérieur de ma maison par 75 et ce qu'il en est réellement._[La voiture de Tommy, et la vraie voiture de Tommy](/content/images/2016/06/interior1.jpg)
+![](/content/images/2016/06/lamboghinidiablo.jpg)
+![Chez RR4, pour de faux, chez RR4 pour de vrai...](/content/images/2016/06/perennialpav.jpg)
+_Chez RR4, pour de faux, chez RR4 pour de vrai..._[](/content/images/2016/06/duncocb.jpg)
+![](/content/images/2016/06/069605.jpg)
 _Fondation Smiling for one day  
 Villa Marguerita  
 Boîte postale 4  

@@ -18,7 +18,7 @@ Puis, il y a un an, une affaire a stoppé le chantier. Le Cartel colombien avait
 
 Mais, c'est il y a 11 mois, lorsque le fisc avait fait son enquête que les habitants de Liberty ont enfin découvert ce qu'était réellement la société Pan Lantic. Les bureaux de Liberty City servaient d'écran de blanchiment d'argent pour le Cartel de Cali. L'entreprise a donc déposé bilan et ses directeurs ont été remis aux mains de la justice.
 
-![](  /content/images/v1/user23/pan05.jpg)
+![](/content/images/v1/user23/pan05.jpg)
 
 Cela fait deux mois que la société allemande GröBfer Constructions, avait repris la compagnie Pan Lantic et le travail sur le Staunton Plaza. La ville avait même libéré 4 millions de $ pour la poursuite de la construction de l'édifice. C'est là que se trouve le vice caché: GröBfer n'a jamais perçu cet argent.
 
@@ -32,12 +32,12 @@ De retour à Liberty City, les inspecteurs avaient tracé les comptes de cette s
 
 Nous a confié Frederic Fellani, inspecteur de la chambre de commerce. Il s'était avéré que le fameux Bergman vivait au dessus de ses moyens, c'est d'ailleurs ce qu'avait constaté la police lorsqu'elle est venue l'arrêter chez lui, à Shoreside.
 
-![](  /content/images/v1/user23/pan06.jpg)
+![](/content/images/v1/user23/pan06.jpg)
 
 Berlines de luxe, maison à 600 000$ minimum, un maître de maison, et il essaye de nous faire croire qu'il peut se payer ça avec un salaire mensuel de 9000$, non mais il nous prend pour des niais..., rajoute Fellani. Le procès de Bergman va débuter vendredi prochain, le maire n'a pas souhaité se prononcer sur l'affaire. A l'heure ou vous lisez ces lignes, GröBfer aura déjà stoppé tous ses travaux sur le chantier, de nouveau à l'abandon...
 
-![](  /content/images/v1/user23/pan02.jpg)  
- ![](  /content/images/v1/user23/pan03.jpg)  
- ![](  /content/images/v1/user23/pan04.jpg)
+![](/content/images/v1/user23/pan02.jpg)
+![](/content/images/v1/user23/pan03.jpg)
+![](/content/images/v1/user23/pan04.jpg)
 
 <!--kg-card-end: markdown-->

@@ -12,13 +12,15 @@ _Ce matin, sur l'un des principaux champs pétrolifère de San Andreas, dans le 
 
 Ce matin, dans le Grand Señora Desert, c'est le drame. En effet, dans le plus grand champ pétrolifère de San Andreas, plus une goutte de pétrole ne coule. Certains scientifiques disent que le pétrole va bientôt revenir, d'autres disent que non. Impossible de savoir si San Andreas est vraiment en panne de pétrole ou si c'est juste une panne temporaire.
 
-![Le champ pétrolifère.](  /content/images/2016/06/0_0_261.jpg)
+![Le champ pétrolifère.](/content/images/2016/06/0_0_261.jpg)
+_Le champ pétrolifère._
 
 Alors que Paul Haner, comme à son habitude, surveillait le champ depuis sa cabine de contrôle, il a remarqué que la quantité de pétrole était en train de diminuer. Paul Haner a accepté de témoigner pour le Liberty Tree :
 
 > **Paul Haner ​:** J'étais tranquille dans la cabine et pis là j'ai vu tous les indicateurs de quantité, de pression et tout, qui baissaient. Alors j'me suis affolé parce que j'savais pas pourquoi ça faisait ça. Et puis j'ai continué à regarder sans rien faire pour voir si ça allait se calmer mais ça continuait de baisser. Donc j'ai alerté tout le monde et j'ai appelé le manager et puis lui quand il a vu qu'il y avait plus de pétrole, il a appelé les proprios et puis eux ils ont appelé des vrais experts et du coup ça fait que y'a plus rien en pétrole. Et si y a vraiment plus de pétrole, ça va être la merde parce que nous, vu qu'on va pas être payé à rien foutre, et ben ils vont foutre tous les employés à la porte !
 
-![Paul Haner devant sa cabine de contrôle.](  /content/images/2016/06/0_0_262.jpg)
+![Paul Haner devant sa cabine de contrôle.](/content/images/2016/06/0_0_262.jpg)
+_Paul Haner devant sa cabine de contrôle._
 
 En effet, s'il n'y a plus du tout de pétrole à San Andreas, le nombre de licenciés va augmenter d'à peu près 8% d'après les experts, un chiffre assez gros pour qu'il y aie des manifestations et donc de la casse.
 

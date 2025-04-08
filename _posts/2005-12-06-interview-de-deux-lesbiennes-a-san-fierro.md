@@ -14,7 +14,7 @@ Deux femmes, ça choque les petits esprits. Mais elles veulent se battre pour ob
 
 Elles se connaissent depuis 3 ans maintenant, elles avouent avoir eu du mal à accepter leur homosexualité, mais maintenant jouissent de vivre, aux yeux de tous le monde, une très belle histoire.
 
-![](  /content/images/2005/01/lsb1.jpg)
+![](/content/images/2005/01/lsb1.jpg)
 
 Nous avons réalisé une interview pour mieux comprendre leur désir de se battre dans notre société.
 
@@ -28,7 +28,7 @@ Nous avons réalisé une interview pour mieux comprendre leur désir de se battr
 > 
 > **Kate :** Oui, nous nous considérons comme normales, donc nous devrions tous être égaux au niveau des lois dans cet État.
 
-![](  /content/images/2005/01/lsb3.jpg)
+![](/content/images/2005/01/lsb3.jpg)
 
 > **LT :** Je vous présente Hulk Redman, il est totalement contre la reconnaissance des lesbiennes à San Fierro, désirez vous l'entendre ?
 > 
@@ -38,7 +38,7 @@ Nous avons réalisé une interview pour mieux comprendre leur désir de se battr
 > 
 > **Hulk :** Voyez vous, je ne suis pas contre le fait qu'il vivent ensemble, mais je trouve ça dégradant pour la nation, que des femmes, ou même des hommes s'affichent, ce n'est pas moral. Alors les laisser adopter, ou même se marier, c'est inenvisageable.
 
-![](  /content/images/2005/01/lsb2.jpg)
+![](/content/images/2005/01/lsb2.jpg)
 
 Comme quoi certains citadins ont du mal à évoluer, combien de temps faudra t-il pour que la mentalité de certaines personnes se modernisent ?
 

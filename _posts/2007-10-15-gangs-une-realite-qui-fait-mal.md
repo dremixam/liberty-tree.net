@@ -16,8 +16,8 @@ A Los Santos, les grandes avenues qui n'en finissent pas, les villas chaleureuse
 Los Santos, ville du soleil, de la mer et des stars, mais derrière cette usine à rêve se cachent une vérité assez troublante : cette ville, comme beaucoup d'autres sont les principales cibles de la montée de la violence, des meurtres, de l'exclusion et des gangs. Ces gangs s'affrontent à coups d'armes blanches et d'armes à feu pour contrôler des rues, des quartiers entiers. Ici, à Los Santos, on compte environ une dizaine de gangs "principaux" avec le plus connu : OGF avec ses règles très strictes, et membres dispersés dans tous les coins de la ville. Ce gang contrôle aujourd'hui une bonne partie de la ville et n'y va pas avec le dos de la cuillère.
 
 ![]()
-
 ![Ganton, un quartier déchiré par les gangs.]()
+_Ganton, un quartier déchiré par les gangs._
 
 OGF, gang d'origine afro-américain, est le premier gang de Los Santos. Les membres ont une influence très importante. Mais à ses débuts il n'a jamais été dans le trafic de drogue : aujourd'hui OGF fournit la plus grande partie de la drogue sur le territoire de San Andreas. OGF se sert autant de la violence que de la terreur pour contrôler son territoire.
 
@@ -26,6 +26,7 @@ OGF, gang d'origine afro-américain, est le premier gang de Los Santos. Les memb
 **Rodeo, 17:45pm :** Le soleil commence à se coucher sur une ville à l’allure tranquille, mais quand on regarde de plus près, elle est déchirée par une violence jamais vu ailleurs, un mal-être omniprésent plane sur la tête des habitants. Pour cause, ce matin ces rues ont été la cible d'échanges de tirs entre le gang OGF et les Varios Los Aztecas, gang d'origine hispanique. On a compté une dizaine de morts ... Les guerres sanglantes entre gangs tuent environ 5.000 personnes chaque années. Afin d'approfondir la question, nous avons posé nos questions à Tiny Field, membre de l'unité Antigang de Los Santos:
 
 ![Tiny Filed, membre de l'unité Antigang.]()
+_Tiny Filed, membre de l'unité Antigang._
 
 > **Liberty Tree :** Merci d'avoir accepté cette interview. Aujourd'hui le gang d'Orange Grove Families, appelé OGF joue un grand rôle dans la criminalité de la ville, pourquoi une telle déflagration?
 
@@ -36,8 +37,8 @@ OGF, gang d'origine afro-américain, est le premier gang de Los Santos. Les memb
 > **Tiny Field :** Tout simplement leurs membres. De plus, la moitié des crimes liés aux gangs sont de la part des OGF. Les membres qui le composent opèrent dans le crime organisé, le trafic de drogue, dans les actes sanglants et autres fusillades.
 
 ![]()
-
 ![Drogues et armes, le marché principal du gang.]()
+_Drogues et armes, le marché principal du gang._
 
 > **Liberty Tree :** Les moyens mis en œuvre contre eux sont-ils plus importants que pour les autres gangs?
 
@@ -48,8 +49,8 @@ OGF, gang d'origine afro-américain, est le premier gang de Los Santos. Les memb
 > **Tiny Field :** Les membres utilisent des tatouages de toutes sortes afin de montrer qu’ils appartiennent à tel ou tel gang. Ils taguent aussi les murs afin de montrer que ce territoire leur appartient. En cas de guerre de gangs pour un territoire, le « gagnant » recouvre les tags de l’autre et vis-versa.
 
 ![]()
-
 ![Graffiti & Tags sont les moyens de se faire connaître.]()
+_Graffiti & Tags sont les moyens de se faire connaître._
 
 > **Liberty Tree :** Comment s’exécute ces guerres ?
 
@@ -66,16 +67,19 @@ De nombreux membres finissent en prison, mais là encore, ce n'est pas une punit
 Nous confie Paula Douyan, politicienne de San Andreas.
 
 ![Paula Douyan, politicienne.]()
+_Paula Douyan, politicienne._
 
 C'est elle qui a mis en place la section policière spécialisée pour nuire aux gangs
 
 > [...] Le gang devient trop dangereux pour qu'on le laisse opérer de cette manière : on a déjà eu beaucoup de plaintes de gens se faisant extorquer par les gangs pour leur "pseudo-sécurité", mais depuis la mise en place de cette unité, les chiffres sont en baisse.
 
 ![QG de l'unité Antigang, mise en place par Paula Douyan.]()
+_QG de l'unité Antigang, mise en place par Paula Douyan._
 
 Mais là encore, la vérité est erronée. Oui parce que les grandes arrestations n'ont pas permis de mettre fin aux nombreux gangs, juste à les paralyser légèrement, mais le Gouvernement soutient le contraire...
 
 ![OGF, un gang qui fais peur...]()
+_OGF, un gang qui fais peur..._
 
 Les gangs qui peuplent les rues de Los Santos et les autres villes du monde ont développés une sous-culture basé sur la violence et l'argent qui attirent de plus en plus de membres, surtout des enfants, qui y rentre de plus en plus jeune (ndlr, en moyenne 15-16 ans ). Quand on décide d'y rentrer, c'est surtout pour rechercher une famille, un soutien ... Ce problème ne concerne donc pas seulement la police, mais toute la société ...
 

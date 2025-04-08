@@ -18,12 +18,14 @@ Suite à cette résurrection, Gabe s'installe à Grapeseed, dans une petite ferm
 
 > Il nous parlait tout le temps de Vinewood, de la bouffe bien meilleure qu'ici, de la grande famille du cinéma, de la célébrité. Franchement, il commençait à sérieusement me faire chier, et c'est pas faute d'avoir essayé de l'aider à retrouver une vie sensée.
 
-![Francis, le coq.](  /content/images/2016/06/0_0%20%282%29_9.jpg)
+![Francis, le coq.](/content/images/2016/06/0_0%20%282%29_9.jpg)
+_Francis, le coq._
 
 Cette vie sans le cinéma n'avait visiblement aucun sens pour Gabe, qui a été retrouvé mort ce matin dans la basse-cour de la ferme, étalé dans la poussière, une bouteille de Whisky et un tube de somnifères à ses côtés.
 
 > **Stévènne, propriétaire des lieux :** Ça m'a fait un choc en le découvrant là, inanimé. Je savais qu'il allait mal, mais jamais qu'il pourrait commettre l'irréparable. Je lui louait cette petite parcelle, et parfois on discutait de tout et de rien. Ah pour sûr, il va me manquer, le Gabe. Il était peut être pas un excellent acteur, mais il fera un délicieux bacon, et ça, je suis sûr que ça lui fait plaisir, là haut dans le ciel, au paradis des cochons.
 
-![Salut, l'artiste.](  /content/images/2016/06/0_0%20%281%29%20copie_0.png)
+![Salut, l'artiste.](/content/images/2016/06/0_0%20%281%29%20copie_0.png)
+_Salut, l'artiste._
 
 <!--kg-card-end: markdown-->

@@ -30,9 +30,8 @@ tags:
 > 
 > ER : \_Holy shit \_! Une urgence ! Un véhicule en feu, à Calton Heights ! C'mon, move your ass !
 
-![](  /content/images/2005/01/Pinpon02.jpg)
-
-![](  /content/images/2005/01/Pinpon03.jpg)
+![](/content/images/2005/01/Pinpon02.jpg)
+![](/content/images/2005/01/Pinpon03.jpg)
 
 **Calton Heights, 09 h 12**
 
@@ -60,9 +59,8 @@ tags:
 > 
 > ER : Nous avons toujours fait comme ça, et ça marche… D'ailleurs les automobilistes nous le rendent bien. Ils sont très compréhensifs. Regardez, j'enclenche la sirène, et ils n'hésitent pas à s'écarter pour nous laisser passer. La majorité n'hésitent pas à renverser des piétons, ou à se jeter littéralement à l'eau, pour nous ! C'est très gratifiant, cela nous facilite grandement la tache et surtout c'est vraiment marrant.
 
-![](  /content/images/2005/01/Pinpon04.jpg)
-
-![](  /content/images/2005/01/Pinpon05.jpg)
+![](/content/images/2005/01/Pinpon04.jpg)
+![](/content/images/2005/01/Pinpon05.jpg)
 
 **Mount Chiliad, 15 h 31**
 
@@ -88,7 +86,7 @@ tags:
 > 
 > ER : No way! Il ne redescendra pas, il est foutu. Quoique, on dirait qu'il commence à pleuvoir. Arf, avec un peu de chance il pourra s'en sortir. Bon merci pour votre visite, ami journaliste mais on doit remonter sur San Fierro. On vous laisse ici, Los Santos est dans l'autre sens.
 
-![](  /content/images/2005/01/Pinpon06.jpg)
+![](/content/images/2005/01/Pinpon06.jpg)
 
 Les pieds dans la boue et sous une pluie torrentielle, je regarde s'éloigner le camion. A son bord, deux hommes qui ont dit non à la fatalité et à la misère. De véritables héros. Quelle dommage que notre périple se soit achevé si tôt ! J'avais encore tant à apprendre… Tout de même, ils auraient pu me ramener en ville. Bah, marcher sous la pluie entretient la santé. Aa… aaa… aaATCHA !
 

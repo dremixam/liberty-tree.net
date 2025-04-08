@@ -8,11 +8,12 @@ tags:
 - los-santos
 ---
 
-![QG de Bikini Line.](  /content/images/2005/01/Bikini-Line_QG.jpg)
+![QG de Bikini Line.](/content/images/2005/01/Bikini-Line_QG.jpg)
+_QG de Bikini Line._
 
 C’est hier en fin de journée que la direction des autocars Bikini Line a rendu public sa décision de congédier Steven Wave qui occupait le poste de chauffeur au sein de l’entreprise depuis quelques semaines. Depuis un certain temps l’employeur accumulait les plaintes de nombreux clients qui étaient révoltés du fait que le chauffeur détournait son attention de la route pour jouer avec une console de jeu portable qu’il installait sur son volant aux yeux de tous. Vu la taille des consoles portables nouvelle génération, il lui était donc très facile de glisser la sienne discrètement dans sa poche en évitant ainsi d’attirer l’attention de ses collègues.
 
-![](  /content/images/2005/01/Bikini-Line_Arrestation.jpg)
+![](/content/images/2005/01/Bikini-Line_Arrestation.jpg)
 
 L’enquête interne s’est déroulée sur une longue période puisque le chauffeur jouait de plus en plus de prudence lorsqu’il s’adonnait à sa pratique depuis qu’il avait été intercepté par une&nbsp;patrouille automobile&nbsp;après avoir grillé un feux rouge sur une artère achalandée du centre-ville de Los Santos. Fort heureusement l’infraction n’avait pas provoqué d’accident mais le patrouilleur du LSPD n’avait alors pas remarqué que le conducteur jouait avec sa console au moment de l’infraction puisque ce dernier l’avait probablement remis dans sa poche avant que l’officier n’arrive à la hauteur de sa fenêtre. Il s’en était tiré relativement bien à cette occasion mais il n’y avait pas de risque à prendre, l’enquêteur devait le prendre sur le fait pour que l’accusation repose sur une base solide.
 
@@ -22,7 +23,8 @@ Il n’aura donc fallu que 8 jours d’étroite surveillance pour accumuler suff
 
 Nous avons ensuite tenté d’obtenir la version du chauffeur mais ce dernier a refusé de nous livrer ses commentaires. La seule personne qui a accepté de nous donner son opinion est Kevin Roberts, un proche ami de John Frame.
 
-![Kevin Roberts.](  /content/images/2005/01/Bikini-Line_Pot.jpg)
+![Kevin Roberts.](/content/images/2005/01/Bikini-Line_Pot.jpg)
+_Kevin Roberts._
 
 > **Liberty Tree :** Bonjour Monsieur Roberts, qu’avez-vous à nous dire face à cette controverse ?
 
@@ -46,13 +48,15 @@ Malgré la difficulté que cela représentait, nous sommes parvenu à localiser 
 
 > **LT :** Merci de nous avoir livré votre version des faits.
 
-![Tragédie du 3 octobre 2005.](  /content/images/2005/01/Bikini-Line_Accident.jpg)
+![Tragédie du 3 octobre 2005.](/content/images/2005/01/Bikini-Line_Accident.jpg)
+_Tragédie du 3 octobre 2005._
 
 Cette histoire n’est pas sans se rappeler le terrible accident de bus du 3 octobre 2005 qui avait fait 13 mors et 28 blessés lorsqu’un autocar de Bikini Line avait capoté après avoir amorcé un virage sans réduire sa vitesse. Selon le témoignage de quelques survivants, le chauffeur du bus parlait au téléphone cellulaire avec sa petite amie et était tellement absorbé par sa conversation qu’il avait raté les indications de la route qui signalaient de réduire la vitesse. Celui-ci n'avait pas été en mesure de répondre pour sa négligence puisqu'il avait périt dans l’accident. Cette tragédie avait relancé le débat sur l’usage du téléphone cellulaire au volant et c’est depuis cet incident que plusieurs compagnies d’autocar avaient décidé d’interdire toute forme de distraction à leurs chauffeurs durant l’exercice de leur fonction. Il est donc très surprenant que ce règlement n’ait pas été appliqué plus rigoureusement de la part de la direction de Bikini Line.
 
 Est-ce qu’il existe d’autres chauffeurs comme John Frame qui sont des vrais danger sur la route ? Il n’est pas facile de trouver une personne qui puisse répondre à cette question puisque c’est la loi du silence chez les employés de ces sociétés. Néanmoins la commission des transports a décidé de demander la révision du dossier de tous les conducteurs d’autocar afin de s’assurer de leur compétence car des rumeurs circulent à l’effet qu’il serait très facile d’obtenir un permis de chauffeur de bus si on est près à en payer le prix. Cette corruption impliquerait des instructeurs d’école de conduite et des inspecteurs travaillant au bureau des permis du ministère des transports.
 
-![QG de Big Tours.](  /content/images/2005/01/Bikini-Line_BigTours.jpg)
+![QG de Big Tours.](/content/images/2005/01/Bikini-Line_BigTours.jpg)
+_QG de Big Tours._
 
 Pour le moment, la direction de Bikini Line a décidé de faire belle figure en prévoyant des journées «&nbsp;Transport gratuit&nbsp;» pour tous ses usagers afin de se redorer le blason aux yeux de sa clientèle. Cette manœuvre a été rapidement dénoncé par son principal compétiteur, Big Tours, qui indique avoir l’intention de déposer une plainte formelle de concurrence déloyale au bureau de la compétition car selon Big Tours, la compagnie Bikini Line aurait monté cette histoire de toute pièce dans le but de profiter d’une publicité gratuite, eux qui ont connu une forte baisse de leur clientèle à cause de problème de propreté et de salubrité dans leurs autocars.
 

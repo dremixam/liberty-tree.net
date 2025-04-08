@@ -15,33 +15,33 @@ Toujours à la recherche d'originalité, une idée est venue à l'une des nouvel
 
 C'est pour répondre à toutes ces questions et à bien d'autres encore que le Liberty Tree a affrété un avion à l'aube, afin de m'emmener au plus proche de l'action.
 
-![](  /content/images/2016/06/A-2.jpg)
+![](/content/images/2016/06/A-2.jpg)
 
 Une fois là-bas, une société de location m'a permis de prendre les commandes de... d'un... (_"Comment ils appellent ça, déjà ?" - "Un Warthog."_) D'UN WARTHOG. Bien sûr, me demanderez-vous, kékéssé qu'un Warthog ? Disons que c'est le meilleur moyen d'aller au plus court quand on veut faire du hors-piste :
 
-![](  /content/images/2016/06/A1.jpg)
+![](/content/images/2016/06/A1.jpg)
 
 Et il ne fallut pas moins que ce splendide franchiseur pour permettre à votre serviteur de cavaler gaiement sur les flancs de la montagne. Pour d'évidentes raisons de respectabilité du reporter, on omettra quelques incidents d'ascension et autres rencontres sanglantes avec des écureuils.
 
-![](  /content/images/2016/06/A2.jpg)
-
-![](  /content/images/2016/06/A3-5.jpg)
+![](/content/images/2016/06/A2.jpg)
+![](/content/images/2016/06/A3-5.jpg)
 
 ## Premier contact
 
 Une fois arrivé aux abords du camp, il fallut bien improviser. En bon américain civilisé, je décidai de me présenter à la porte principale afin de tenter un contact amical en leur apportant un peu de démocratie. Deux habitants du camp me virent arriver, et me firent aimablement comprendre qu'ils... erh... ne désiraient pas être dérangés.
 
-![](  /content/images/2016/06/A3.jpg)
+![](/content/images/2016/06/A3.jpg)
 
 Dès lors, plusieurs choix s'offraient à moi. Il était hors de question pour moi de me faire plomber au .45 ACP, et encore moins question d'abandonner ce reportage. J'envisageai alors une infiltration souterraine par une sorte de conduit bétonné évacuant les eaux usées, ce que d'aucuns considéreraient comme une mauvaise idée.
 
-![Oui, cette photo est à l'endroit](  /content/images/2016/06/A4.jpg)
+![Oui, cette photo est à l'endroit](/content/images/2016/06/A4.jpg)
+_Oui, cette photo est à l'endroit_
 
 L'infiltration me semblant être le moyen le plus sûr, je réfléchi et arrivai finalement à la conclusion qu'une seule alternative m'apporterait les réponses à mes questions et supprimerait - théoriquement - le risque de finir criblé de balles : pour rentrer chez Eux, je devais devenir l'un d'Eux.
 
 Adieu, donc, ma délicate chemise de soie, exit mes magnifiques chaussures à crédit, bonjour la boue, les plaies infectées et les morpions.
 
-![](  /content/images/2016/06/0_0_25.jpg)
+![](/content/images/2016/06/0_0_25.jpg)
 
 ## Rencontre du troisième type
 

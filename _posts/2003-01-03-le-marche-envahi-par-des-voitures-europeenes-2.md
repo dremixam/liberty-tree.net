@@ -14,15 +14,13 @@ Je n'habite pas ici, en réalité j'habite dans le tunnel sous Saint Mark's mais
 Pris de pitié j'ai donc décidé de raccompagner le pauvre malheureux chez lui.  
 Arrivés dans son tunnel, je lui ai demandé pourquoi il était à la rue il m'a dit d'aller demander au propriétaire de la concession automobile Capital Auto:
 
-![](  /content/images/2016/07/clodo.JPG)
-
-![](  /content/images/2016/07/capitalauto.jpg)
+![](/content/images/2016/07/clodo.JPG)
+![](/content/images/2016/07/capitalauto.jpg)
 
 L'homme que j'y ai trouvé m'a donc expliqué la situation, ce clochard travaillait à la concession mais ces derniers temps, les voitures importés d'Europe ont envahi le marché! Le propriétaire avait donc été obligé de licencier tous ses employés
 
-![](  /content/images/2016/07/205.jpg)
-
-![](  /content/images/2016/07/taxi-1.jpg)
+![](/content/images/2016/07/205.jpg)
+![](/content/images/2016/07/taxi-1.jpg)
 
 Ces voitures aux allures charmeuses sont en fait des monstres envers l'économie de notre belle ville de Liberty City, en effet, depuis leur arrivée sur le marché l'effondrement de l'économie s'est accéléré!
 

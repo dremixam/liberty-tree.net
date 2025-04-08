@@ -18,7 +18,8 @@ Certaines grandes personnes connus de Vice City en sponsorisent même certains, 
 
 Mais c'est certainement le "poulain" d'Alexandre Shrub, Fabionno Kartel qui a fait grand effet hier soir au Malibu Club qui sait transformé en salle de conférence de presse, et où Mr Kartel a annoncé son programme en totalité et apparemment approuvés par les journalistes présents.
 
-![La limousine blindée de Mr Kartel et le convoi de police](  /content/images/2005/01/mali.jpg)
+![La limousine blindée de Mr Kartel et le convoi de police](/content/images/2005/01/mali.jpg)
+_La limousine blindée de Mr Kartel et le convoi de police_
 
 Moi même je m'y suis rendu et (sans vouloir donner mon opinion puisque cela m'est interdit) je peux vous assurer qu'il n'y va pas de main morte. Ce dernier a assuré que, je reprend ses dires :
 

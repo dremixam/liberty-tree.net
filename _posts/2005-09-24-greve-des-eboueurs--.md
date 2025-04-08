@@ -20,9 +20,8 @@ Un mouvement qui n'est pas près de s'arrêter d'après le syndicat. En effet l�
 
 C'est pourquoi, le peuple s'unit avec les éboueurs pour qu'enfin, tout redevienne comme avant.
 
-![](  /content/images/2005/01/poubelle.jpg)
-
-![](  /content/images/2005/01/camion%20brosse.jpg)
+![](/content/images/2005/01/poubelle.jpg)
+![](/content/images/2005/01/camion%20brosse.jpg)
 
 Ce matin, enfin, le conseiller du gouverneur, Mr Campbell, s'expliquait devant nos micros.
 
@@ -34,11 +33,9 @@ Des propos qui ont dégoûté, on le comprend, les grévistes.
 
 Si nos dirigeants veulent mettre fin à leur carrière politique, ils ne peuvent pas faire mieux. Aussitôt après ces déclarations, les manifestants ont regroupé tous leurs camions poubelles et ont déversé des tonnes d'ordures devant la villa de ce cher Mr Campbell. Une banderole les accompagnait : " Si vous ne voulez plus de nous, ramassez vos déchets vous-mêmes"
 
-![](  /content/images/2005/01/villa%20campbell.jpg)
-
-![](  /content/images/2005/01/villa%20campbell2.jpg)
-
-![](  /content/images/2005/01/villa%20campbell3.jpg)
+![](/content/images/2005/01/villa%20campbell.jpg)
+![](/content/images/2005/01/villa%20campbell2.jpg)
+![](/content/images/2005/01/villa%20campbell3.jpg)
 
 Donc pas d'amélioration à prévoir pour demain. En attendant, ce sont les agents de police qui assurent l'intérim pendant que les délinquants et les bandits se la coulent douce.
 

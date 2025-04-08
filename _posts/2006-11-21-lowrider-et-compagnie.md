@@ -10,19 +10,20 @@ tags:
 
 Qu'est-ce qu'un Lowrider ? Un véhicule souvent tape-à -l’œil et possédant des suspensions hydrauliques. J'ai décidé aujourd'hui de me renseigner un peu sur ces véhicules, sur les organisateurs et sur les origines de ces véhicules. Selon mes infos, les fans de Lowrider se réuniraient régulièrement vers Unity Station. Je m'en vais jusque là-bas pour me faire remballer car je n'avais pas de Lowrider. On m'indique que le garage qui monte des suspensions hydrauliques spécialement pour les Lowrider se trouve dans Willowfield. Après m'être fait indiquer le chemin, je vais chercher ma voiture et l'emmène dans ce garage nommé "Loco Low". Un type qui se fait appeler JB était posé devant l'entrée. Cet homme est le spécialiste des Lowriders.
 
-![](  /content/images/2005/01/JB.jpg)
-
-![](  /content/images/2005/01/Loco_low.jpg)
-
-![A gauche, JB le spécialiste des Lowrider. A droite, le lieu de réunion des Low Rider, à Unity Station et au milieu, le garage Loco Low , situé dans le quartier de Willowfield.](  /content/images/2005/01/Lieu_de_reunion.jpg)
+![](/content/images/2005/01/JB.jpg)
+![](/content/images/2005/01/Loco_low.jpg)
+![A gauche, JB le spécialiste des Lowrider. A droite, le lieu de réunion des Low Rider, à Unity Station et au milieu, le garage Loco Low , situé dans le quartier de Willowfield.](/content/images/2005/01/Lieu_de_reunion.jpg)
+_A gauche, JB le spécialiste des Lowrider. A droite, le lieu de réunion des Low Rider, à Unity Station et au milieu, le garage Loco Low , situé dans le quartier de Willowfield._
 
 Je fait entrer ma vieille décapotable dans le garage et là, je suis véritablement impressionné par tout ce qu'on me propose. Evidemment, il faut y mettre le prix, mais ça vaut franchement le coup. Après m'être fait mettre une nouvelle peinture, un nouveau toit, de nouveaux pare-chocs, un nouveau pot d'échappement, des nouvelles jantes, des boosters de basse et des suspensions hydrauliques, je sors du garage, paye JB, et j'admire mon nouveau carrosse.
 
-![Mon Lowrider.](  /content/images/2005/01/Mon_Lowrider.jpg)
+![Mon Lowrider.](/content/images/2005/01/Mon_Lowrider.jpg)
+_Mon Lowrider._
 
 Je me dirige ensuite vers El Corona&nbsp;à Unity Station. On me dit que je peux entrer et que j'ai une "super caisse". J'entre dans le lieu de rendez-vous : Des Lowriders qui sautent dans tous les sens, des latinos qui se vantent des nouvelles jantes de leur caisses et une sacrée bonne ambiance. Je dis&nbsp;à des gars que je suis journaliste au Liberty Tree et je demande si je peux interviewer les organisateurs. Très sympathiques, ces fans de Lowrider m’emmènent aux organisateurs, les frères Diego et Ramiro Martinez.
 
-![Les frères Martinez.](  /content/images/2005/01/Freres_Martinez.jpg)
+![Les frères Martinez.](/content/images/2005/01/Freres_Martinez.jpg)
+_Les frères Martinez._
 
 > **Liberty Tree :** Bonjour messieurs Diego et Ramiro Martinez, comment allez vous aujourd'hui?
 
@@ -44,12 +45,10 @@ C'est sur ces belles paroles que je suis parti photographier quelques voitures q
 
 Sur ce, je vous dit&nbsp;à bientôt, et j'espère vous avoir donné envie d'investir dans un Lowrider et d'aller&nbsp;à ces réunions, croyez-moi , vous ne le regretterez pas !
 
-![](  /content/images/2005/01/Lowrider1.jpg)
-
-![](  /content/images/2005/01/Lowrider2.jpg)
-
-![](  /content/images/2005/01/Lowrider3.jpg)
-
-![Quelques photos de Lowriders que j'ai prise pendant la réunion.](  /content/images/2005/01/Lowrider4.jpg)
+![](/content/images/2005/01/Lowrider1.jpg)
+![](/content/images/2005/01/Lowrider2.jpg)
+![](/content/images/2005/01/Lowrider3.jpg)
+![Quelques photos de Lowriders que j'ai prise pendant la réunion.](/content/images/2005/01/Lowrider4.jpg)
+_Quelques photos de Lowriders que j'ai prise pendant la réunion._
 
 <!--kg-card-end: markdown-->

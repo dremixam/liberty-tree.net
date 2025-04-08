@@ -23,9 +23,8 @@ La lettre dont nous parla Brown et dont le Liberty Tree n'est malheureusement pa
 
 Les hommes du commandant Brown jouèrent donc à pile ou face. Les policiers eurent du flair, car la patrouille envoyée à Mulholland pour surveiller une BMW 760 et un Hummer H2 constata des mouvements suspects provenant de la camionnette garée en vis à vis de la maison des propriétaires des deux véhicules.
 
-![](  /content/images/2005/01/GTA03.jpg)
-
-![](  /content/images/2005/01/GTA04.jpg)
+![](/content/images/2005/01/GTA03.jpg)
+![](/content/images/2005/01/GTA04.jpg)
 
 > Deux individus sont sortis de la camionnette, encagoulés, ils ont sorti une clé et ont ouvert la BMW. Pour ce qui est du SUV, ils se sont servis d'un boitier électronique copiant le dernier code permettant d'ouvrir la voiture. Après avoir ouvert les deux véhicules, la camionnette a quitté les lieux. Nous avons décidé de suivre les voitures volées, comme nous l'a ordonné le commandant
 
@@ -43,23 +42,15 @@ C'est alors que s'engagea une course poursuite folle entre une dizaine de véhic
 
 Le LSPD finit par perdre la Ferrari Novitec. La dernière fois qu'elle avait été aperçue, elle remontait une plate forme reliant les canaux au Browell Bvld.
 
-![](  /content/images/2005/01/GTA22.jpg)
-
-![](  /content/images/2005/01/GTA23.jpg)
-
-![](  /content/images/2005/01/GTA24.jpg)
-
-![](  /content/images/2005/01/GTA25.jpg)
-
-![](  /content/images/2005/01/GTA26.jpg)
-
-![](  /content/images/2005/01/GTA27.jpg)
-
-![](  /content/images/2005/01/GTA28.jpg)
-
-![](  /content/images/2005/01/GTA18.jpg)
-
-![](  /content/images/2005/01/GTA19.jpg)
+![](/content/images/2005/01/GTA22.jpg)
+![](/content/images/2005/01/GTA23.jpg)
+![](/content/images/2005/01/GTA24.jpg)
+![](/content/images/2005/01/GTA25.jpg)
+![](/content/images/2005/01/GTA26.jpg)
+![](/content/images/2005/01/GTA27.jpg)
+![](/content/images/2005/01/GTA28.jpg)
+![](/content/images/2005/01/GTA18.jpg)
+![](/content/images/2005/01/GTA19.jpg)
 
 L'officier Brzezinski eut beaucoup plus de chance. En prenant en filature les deux véhicules volés, il mit la main sur le lieu où les véhicules étaient stockés, dans le port de Los Santos.
 
@@ -68,37 +59,24 @@ L'officier Brzezinski eut beaucoup plus de chance. En prenant en filature les de
 C'est vers six heures du matin que les équipes du commandant Brown pénétrèrent dans la zone où étaient stockés les véhicules volés. Le LSPD mit la main sur le plus grand vol de voitures jamais commandité dans l'Etat de San Andreas. Ce n'est pas une dizaine de véhicules que découvrirent les policiers mais 48 voitures prêts à être envoyés en prêt à l'étranger. Aucune ne portait de traces d'effraction.  
 La police effectua près d'une dizaine d'arrestations, dont le commanditaire de l'opération dont le nom n'avait pas été dévoilé par le bureau de presse du LSPD.
 
-![](  /content/images/2005/01/GTA05.jpg)
-
-![](  /content/images/2005/01/GTA06.jpg)
-
-![](  /content/images/2005/01/GTA08.jpg)
-
-![](  /content/images/2005/01/GTA09.jpg)
-
-![](  /content/images/2005/01/GTA10.jpg)
-
-![](  /content/images/2005/01/GTA11.jpg)
+![](/content/images/2005/01/GTA05.jpg)
+![](/content/images/2005/01/GTA06.jpg)
+![](/content/images/2005/01/GTA08.jpg)
+![](/content/images/2005/01/GTA09.jpg)
+![](/content/images/2005/01/GTA10.jpg)
+![](/content/images/2005/01/GTA11.jpg)
 
 Parmi les victimes de ces vols, sont répertoriés quelques stars et personnalités importantes : la limousine de JJ Flock, le frère du défunt producteur Baz Flock (photo), la Ferrari et le HotRod du producteur Todd Torch (image de télésurveillance au moment du vol), la Ferrari du Réalisateur David Lunch (image de télésurveillance au moment du vol), la Mercedes de l'actrice Vindsay Vohan, la BMW 760 4x4 du Sheikh Hamdan (photo) et la Rolls de l’héritière London Halton. D'autres véhicules comme une très rare Chevrolet Caprice Nomad et une série de Porsche vintage des années 1970 ont également été volés.
 
-![](  /content/images/2005/01/GTA14.jpg)
-
-![](  /content/images/2005/01/GTA13.jpg)
-
-![](  /content/images/2005/01/GTA12.jpg)
-
-![](  /content/images/2005/01/GTA17.jpg)
-
-![](  /content/images/2005/01/GTA16.jpg)
-
-![](  /content/images/2005/01/GTA15.jpg)
-
-![](  /content/images/2005/01/GTA02.jpg)
-
-![](  /content/images/2005/01/GTA21.jpg)
-
-![](  /content/images/2005/01/GTA20.jpg)
+![](/content/images/2005/01/GTA14.jpg)
+![](/content/images/2005/01/GTA13.jpg)
+![](/content/images/2005/01/GTA12.jpg)
+![](/content/images/2005/01/GTA17.jpg)
+![](/content/images/2005/01/GTA16.jpg)
+![](/content/images/2005/01/GTA15.jpg)
+![](/content/images/2005/01/GTA02.jpg)
+![](/content/images/2005/01/GTA21.jpg)
+![](/content/images/2005/01/GTA20.jpg)
 
 Le Liberty Tree put se procurer quelques photos de véhicules volés. La liste complète sera communiquée ultérieurement par le LSPD. Elle devrait faire baver tout amateur de belles mécaniques.
 

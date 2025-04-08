@@ -10,9 +10,9 @@ tags:
 - las-venturas
 ---
 
-![](  /content/images/2005/01/R_serve.jpg)
-
-![Photos de la San Andreas Federal Mint.](  /content/images/2005/01/R_serve_2.jpg)
+![](/content/images/2005/01/R_serve.jpg)
+![Photos de la San Andreas Federal Mint.](/content/images/2005/01/R_serve_2.jpg)
+_Photos de la San Andreas Federal Mint._
 
 Pour ceux qui ignorent ce qu’est la San Andreas Federal Mint, c’est une agence gouvernementale relevant du département du trésor qui occupe la fonction de banque centrale. Elle voit à assurer un approvisionnement monétaire continu auprès de toutes les institutions bancaires et financières au pays, en bref, une sorte de banque des banques.
 
@@ -26,23 +26,20 @@ La question que plusieurs se posent « Comment se fait-il que malgré toutes les
 
 > La seul chose que quelqu’un peut sortir de la réserve sans se faire attraper c’était un morceau de papier hygiénique car autrement même un stylo ne franchit pas les détecteurs à la sortie !
 
-![](  /content/images/2005/01/SAFM_9.jpg)
-
-![Quelques caméras du SAFM.](  /content/images/2005/01/Cam_ra.jpg)
-
-![](  /content/images/2005/01/Sniper.jpg)
-
-![](  /content/images/2005/01/Soldat.jpg)
-
-![](  /content/images/2005/01/Garde_3.jpg)
-
-![La garde armée joue aussi un grand rôle dans la protection du bâtiment.](  /content/images/2005/01/Garde_6.jpg)
+![](/content/images/2005/01/SAFM_9.jpg)
+![Quelques caméras du SAFM.](/content/images/2005/01/Cam_ra.jpg)
+_Quelques caméras du SAFM._[](/content/images/2005/01/Sniper.jpg)
+![](/content/images/2005/01/Soldat.jpg)
+![](/content/images/2005/01/Garde_3.jpg)
+![La garde armée joue aussi un grand rôle dans la protection du bâtiment.](/content/images/2005/01/Garde_6.jpg)
+_La garde armée joue aussi un grand rôle dans la protection du bâtiment._
 
 Le directeur général ne se trompe pas à ce sujet puisque la surveillance visuelle de la réserve est assuré par 5 caméras extérieurs, toutes équipées de détecteur de mouvement effectuant un balayage thermique sur un rayon de 250 mètres. Placées à des endroits stratégiques, ces caméras assurent une surveillance constante du périmètre extérieur. Pour compléter le tout, un nombre indéterminé de soldats appartenant au 3ème régiment de San Fierro parcours la propriété armés de leur M4 et équipé même de vision nocturne la nuit venue. À ces soldats s’ajoutent les nombreux agents armés qui se trouvent à l’intérieur du bâtiment. Et pour conclure, l’édifice entier est parsemé de lecteurs à emprunte digitale. Vous ne pouvez pas franchir une porte sans que cela n’alerte un gardien. Et puisque toute cette technologie dépend majoritairement de l’électricité, aucun risque à prendre, le système est relié à un groupe électrogène indépendant de celui de la ville. Si une panne survient l’endroit ne sera pas moins protégé pour autant.
 
 Mais tout ceci n’explique pas comment il se fait qu’un groupe d’individus soit parvenu à déjouer toute cette surveillance&nbsp;? Même le FBI se perd dans tout ce mystère, il n’y a donc rien d’étonnant au fait qu’elle fasse appel aux services de Zonk, un détective privé ancien policier qui est devenu avec sa réputation le Sherlock Holmes de San Andreas. Aucun mystère ne lui résiste!
 
-![Détective Zonk.](  /content/images/2005/01/Zonk.jpg)
+![Détective Zonk.](/content/images/2005/01/Zonk.jpg)
+_Détective Zonk._
 
 Finalement à peine arrivé sur les lieux du crime il n’aura fallu que 2 petites heures au détective Zonk pour mettre la main sur le premier indice. Un petit bout de tissu provenant de l’un des gants utilisé par les voleurs. Ce morceau était demeuré bloqué dans le mécanisme d’une porte automatique. Les voleurs ont probablement été surpris par la vitesse à laquelle se referme cette porte,&nbsp;supposait un employé qui avait justement rapporté le problème à ses supérieurs. Puis, non loin de l’endroit, la marque prononcé d’un talon de botte. Mais puisque ces indices se trouvaient dans un secteur qui était couvert par 5 caméras, comment se fait-il que le visionnement des bandes n’a rien révélé ? Réponse, les voleurs avaient pris le soin de maquiller le décors en détournant le circuit vidéo vers un appareil servant à montrer en boucle un extrait de la même image. Les gardiens n’y ont vu que du feu. Pour ce qui est de la la manière&nbsp;dont l’argent est sorti du bâtiment, Zonk a sa théorie&nbsp;:
 
@@ -50,31 +47,31 @@ Finalement à peine arrivé sur les lieux du crime il n’aura fallu que 2 petit
 
 A conclu Zonk en affichant son habituel petit sourire narquois lorsqu’il résout une énigme.
 
-![Joseph Rourque.](  /content/images/2005/01/Photo_Rourque.jpg)
-
-![Billy Hills.](  /content/images/2005/01/Photo_Hills.jpg)
+![Joseph Rourque.](/content/images/2005/01/Photo_Rourque.jpg)
+_Joseph Rourque._[Billy Hills.](/content/images/2005/01/Photo_Hills.jpg)
 
 Rapidement acheminée au laboratoire scientifique de la police, ceux-ci sont parvenus à obtenir une empreinte suffisamment claire pour être ensuite passé dans la base de donnée du FBI. Il n’aura fallu qu’une quinzaine de minutes à l’ordinateur pour identifier le premier suspect, Joseph Rourque. Celui-ci était inscrit au fichier central après avoir tenté il y a 5 ans, aidé par son complice Billy Hills, de dévaliser la _Federal Reserve of Florida_. Ceux-ci avaient vu leur plan échouer à cause d’un système de sécurité qu’ils avaient sous-estimés. Malheureusement pour eux le FBI leur avait mis la main au collet après une chasse à l’homme qui avait duré près d’une semaine. Condamnés pour ce vol, les deux hommes avaient ensuite purgé une sentence de 10 ans mais ont été libérés au bout de 4 ans pour bonne conduite. Il y avait donc de très fortes chances que les deux comparses se soient à nouveau associés&nbsp; pour réaliser ce coup fumant.
 
-![Résidence de Rourque à Prickle Pine.](  /content/images/2005/01/Voleurs_Autos.jpg)
+![Résidence de Rourque à Prickle Pine.](/content/images/2005/01/Voleurs_Autos.jpg)
+_Résidence de Rourque à Prickle Pine._
 
 Ces hommes n’auront donc finalement jamais abandonné leur idée de cambrioler la réserve fédérale. Ils se sont probablement dit que leur plan avait plus de chance de réussir en s’attaquant à la réserve de San Fierro. Ils ont presque eu raison si l’intervention du détective Zonk n'avait pas eu lieu. Grâce à ces précieuses informations, aidés de quelques indics, les fédéraux ont été en mesure de rapidement localiser Rourque qui avait élu domicile à Prickle Pine, en banlieue de Las Ventura. Ils n’ont donc eu aucune difficulté à mener leur perquisition dans la luxueuse résidence du criminel qui semblait mener une vie de pacha. Les agents ont même eu la chance de faire un doublé puisque Hills se trouvait également sur place. Les deux individus ont ensuite rapidement été mis en état d'arrestation.
 
-![Boutique de Zero à San Fierro.](  /content/images/2005/01/SAFM_6.jpg)
+![Boutique de Zero à San Fierro.](/content/images/2005/01/SAFM_6.jpg)
+_Boutique de Zero à San Fierro._
 
 Après avoir été cuisinés aux bureaux du FBI à Las Venturas, &nbsp;les deux hommes ont craqué et ont finalement avouer avoir fait appel aux services de David Lawrence, alias Zéro, un expert en informatique demeurant à San Fierro. C’est lui qui est derrière la conception révolutionnaire de la fameuse carte à puce qui a été utilisée. Cette information apporte certaines réponses sur la manière que le système de surveillance a pu être contourné d’aussi brillante manière puisque Rourque et Hills n’avaient aucune connaissance électronique ni informatique.
 
-![](  /content/images/2005/01/Assaut.jpg)
-
-![Photos de l'intervention policière lors des arrestations de Rourque, Hills et "Zéro".](  /content/images/2005/01/Zero_Intervention.jpg)
-
-![L'ordinateur personnel de Zéro se trouvant dans l'arrière boutique de l'établissement.](  /content/images/2005/01/zero_ordinateur.jpg)
+![](/content/images/2005/01/Assaut.jpg)
+![Photos de l'intervention policière lors des arrestations de Rourque, Hills et "Zéro".](/content/images/2005/01/Zero_Intervention.jpg)
+_Photos de l'intervention policière lors des arrestations de Rourque, Hills et "Zéro"._[L'ordinateur personnel de Zéro se trouvant dans l'arrière boutique de l'établissement.](/content/images/2005/01/zero_ordinateur.jpg)
 
 L’arrestation de Zéro s’est donc faite par pure modalité puisque l’homme n’a imposé aucune résistance lorsque les policiers ont été le cueillir à son commerce.&nbsp; Les agents sur place ont même saisit l'ordinateur personnel de Lawrence pour en vérifier le contenu.
 
 Nous avons été en mesure de poser quelques questions au responsable de l’opération, l’agent spécial Rudger Bourne, immédiatement après l’annonce publique faite par le FBI.
 
-![David Lawrence, alias "Zéro".](  /content/images/2005/01/Zero.jpg)
+![David Lawrence, alias "Zéro".](/content/images/2005/01/Zero.jpg)
+_David Lawrence, alias "Zéro"._
 
 > **Liberty Tree&nbsp;:** Bonjour agent spécial Bourne. Que pouvez-vous nous dire sur le stratagème des 3 responsables du vol perpétré contre la _San Andreas Federa Mint_&nbsp;?
 

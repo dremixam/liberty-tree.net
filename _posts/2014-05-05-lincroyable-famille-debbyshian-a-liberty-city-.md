@@ -20,7 +20,8 @@ A l'époque, la chaîne de télé Eyes-Bye-One dévoilait la série "Les Rues de
 > 
 > **Robert Fishline :** En 2006, ils ont ouvert une grande boutique de vêtements homme/femme appelée Smash à Vice City, et les plus grandes stars comme Maria Belley, Miley Fyrucs, Snoop Doggy et plein d'autres sont venues acheter des vétements dans leur boutique. Le succès a pris de l'ampleur et ils ont ouvert 2 autres boutiques, une à Liberty City et une autre à Los Santos. Dans cette famille il y a Kimberly, Kourtney, Radianna, leur frère Jason et leur mère Shayka, et plein d'autres personnages que vous rencontrerez au cours des épisodes.
 
-![Robert Fishline.](  /content/images/2016/06/gta-5-devin.jpg)
+![Robert Fishline.](/content/images/2016/06/gta-5-devin.jpg)
+_Robert Fishline._
 
 Pour le moment nous n'avons pas plus d'informations, mise à part que le premier épisode de cette grande télé-réalité sera diffusée pour la première fois le 13 mai 2014 sur EBO. Restez donc connectez sur le Liberty Tree, et à bientôt !
 

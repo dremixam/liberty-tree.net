@@ -14,7 +14,8 @@ Larry Flat, l'homme critiqué par toutes les associations du pays, l'homme victi
 
 Me voilà donc ce matin devant la majestueuse villa de ce pornographe... euh de cet homme d'affaires... Malheureusement pour nous Larry Flat étant en déplacement en Europe de l'Est à la recherche de nouvelles actrices pour son prochain film ("Le camping de Sandy Shores en fête", ndlr) c'est son assistante personnelle Kassy qui nous reçoit pour la journée.
 
-![Kassy, l'assistante de Larry.](  /content/images/2016/06/Capture%20d%E2%80%99%C3%A9cran%202014-01-07%20%C3%A0%2022.14.07.png)
+![Kassy, l'assistante de Larry.](/content/images/2016/06/Capture%20d%E2%80%99%C3%A9cran%202014-01-07%20%C3%A0%2022.14.07.png)
+_Kassy, l'assistante de Larry._
 
 > Bonjour et bienvenue chez Larry Flat, je vous prierai avant d'entrer d'enlever vos chaussures et de vous laver, chez nous la propreté est très importante, vous comprendrez bien entendu pourquoi... Egalement nous sommes désolés de vous informer que les photos sont interdites à l'intérieur de la maison.
 
@@ -24,15 +25,16 @@ Une fois la visite terminée, et après avoir retrouvé mon photographe qui avai
 
 > C'est plutôt simple, la plupart de nos scènes sont réalisées dans les studios Richard Majestic, nous sommes en partenariat avec le propriétaire des lieux qui nous laisse nous servir des décors et des différents costumes dont nous pourrions avoir besoin, et en contrepartie il touche un pourcentage sur la recette des films, et quelquefois il souhaite assister au tournage.
 
-![Les studios Richard Majestic.](  /content/images/2016/06/Capture%20d%E2%80%99%C3%A9cran%202014-01-07%20%C3%A0%2022.13.40.png)
+![Les studios Richard Majestic.](/content/images/2016/06/Capture%20d%E2%80%99%C3%A9cran%202014-01-07%20%C3%A0%2022.13.40.png)
+_Les studios Richard Majestic._
 
 Kassy nous explique également que tous les acteurs sont sélectionnés après avoir passé un casting plutôt dur (aucun jeu de mot), cela permet de bien savoir à qui ils ont affaire, et de ne pas avoir de panne sèche durant le tournage (là il y en a un).
 
 Dans le jardin d'ailleurs nous pouvons apercevoir une des équipes du prochain film en pleins préparatifs pour le prochain tournage, tout en étant bien relaxé, apparemment Larry Flat tient beaucoup à ce que son équipe soit le plus a l'aise et le plus ouvert possible pour ses films...
 
-![](  /content/images/2016/06/Capture%20d%E2%80%99%C3%A9cran%202014-01-07%20%C3%A0%2022.14.38.png)
-
-![Les acteurs des films Larry Flat.](  /content/images/2016/06/Capture%20d%E2%80%99%C3%A9cran%202014-01-07%20%C3%A0%2022.14.56.png)
+![](/content/images/2016/06/Capture%20d%E2%80%99%C3%A9cran%202014-01-07%20%C3%A0%2022.14.38.png)
+![Les acteurs des films Larry Flat.](/content/images/2016/06/Capture%20d%E2%80%99%C3%A9cran%202014-01-07%20%C3%A0%2022.14.56.png)
+_Les acteurs des films Larry Flat._
 
 Bien entendu la filière Larry Flat a su saisir l'opportunité Internet, en créant plusieurs sites de vidéos à la demande, gratuite pour certaines ou payantes pour les plus torrides. Kassy a tenu à nous dévoiler en exclusivité le futur grand projet de Larry Flat:
 

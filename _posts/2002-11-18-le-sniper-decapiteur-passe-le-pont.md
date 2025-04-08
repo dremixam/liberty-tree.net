@@ -17,20 +17,13 @@ Le chef Kunnigan a ainsi été écarté de l'affaire, bien que ce soit lui qui a
 
 Les prostitués quand à elles continuent leur mouvement de contestation, en obligeant maintenant le port de protection lors de tout _travail_.
 
-![](  /content/images/2016/06/staunton_a_6.jpg)
-
-![](  /content/images/2016/06/staunton_a_5.jpg)
-
-![](  /content/images/2016/06/staunton_a_7.jpg)
-
-![](  /content/images/2016/06/staunton_a_8.jpg)
-
-![](  /content/images/2016/06/staunton_a_1.jpg)
-
-![](  /content/images/2016/06/staunton_a_2.jpg)
-
-![](  /content/images/2016/06/staunton_a_3.jpg)
-
-![](  /content/images/2016/06/staunton_a_4.jpg)
+![](/content/images/2016/06/staunton_a_6.jpg)
+![](/content/images/2016/06/staunton_a_5.jpg)
+![](/content/images/2016/06/staunton_a_7.jpg)
+![](/content/images/2016/06/staunton_a_8.jpg)
+![](/content/images/2016/06/staunton_a_1.jpg)
+![](/content/images/2016/06/staunton_a_2.jpg)
+![](/content/images/2016/06/staunton_a_3.jpg)
+![](/content/images/2016/06/staunton_a_4.jpg)
 
 <!--kg-card-end: markdown-->

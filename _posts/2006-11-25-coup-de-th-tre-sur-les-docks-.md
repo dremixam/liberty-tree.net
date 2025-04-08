@@ -18,11 +18,9 @@ Le gros point noir de l’histoire est que l'Etat de San Andreas se retrouve ave
 
 > La communauté japonaise de San Andreas décline toute accusation concernant cette triste affaire de trafic d’esclaves. Nous sommes des hommes, non pas des monstres, et nous ne laisserons pas se répéter de pareilles immondices.
 
-![](  /content/images/2005/01/chine_2.jpg)
-
-![](  /content/images/2005/01/chine_3.jpg)
-
-![](  /content/images/2005/01/chine_4.jpg)
+![](/content/images/2005/01/chine_2.jpg)
+![](/content/images/2005/01/chine_3.jpg)
+![](/content/images/2005/01/chine_4.jpg)
 
 Les immigrés étaient transportés dans des camions poubelles. Ils étaient arrivés dans les containers (photo 3) plus tôt dans la matinée.
 
@@ -32,9 +30,8 @@ Les mots sont clairs, selon Kanazaki, la Triade n’a rien&nbsp;à voir avec cet
 
 Il est clair que le trafic d’esclave reste un point ambigu à San Andreas, autant pour les autorités que pour les principaux concernés. On se «&nbsp;jette la patate chaude&nbsp;»
 
-![](  /content/images/2005/01/chine_1.jpg)
-
-![](  /content/images/2005/01/chine_5.jpg)
+![](/content/images/2005/01/chine_1.jpg)
+![](/content/images/2005/01/chine_5.jpg)
 
 Après les affrontement entre la Triade et les forces de l'ordre, nous retrouvons des carcasses calcinées. Sur la droite, les entrepôts qui servaient de lieu de transition entre le bateau et les camion poubelles.
 

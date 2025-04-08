@@ -16,7 +16,8 @@ Après un bref quadrillage de la scène du crime, un objet appartenant à Léopo
 
 > Notre homme était donc l'un des nombreux musiciens itinérants qui nous cassent les c... euh, qui mettent un peu d'ambiance dans les lieux publics de Los Santos. J'ai bien l'impression que la victime a croisé le chemin d'un fou furieux qui n'aime pas spécialement ce genre de musique...
 
-![La station de métro de Portola Drive.](  /content/images/2016/06/0_0_2.jpg)
+![La station de métro de Portola Drive.](/content/images/2016/06/0_0_2.jpg)
+_La station de métro de Portola Drive._
 
 Et le détective Callahan visait juste. Une semaine plus tard, une autre victime, Chico King, est retrouvé assassiné dans les couloirs de la station de métro de l'aéroport international. Un petit mot est également déposé près du corps, "Here is your stairway to heaven!", en référence à la célèbre chanson de Led Zeppelin que Chico arrangeait probablement à sa sauce.
 
@@ -30,6 +31,7 @@ Aucune déclaration publique n'a été faite, mais il semblerait que les gestes 
 
 > Une opulence d'artistes sans le moindre talent, propulsés comme par magie sur le devant de la scène. N'importe quel clampin avec un manche _(de guitare, n.d.l.r.)_ entre les mains devient célèbre et nique des gonzesses. Assez !
 
-![La surveillance des lieux publics a été renforcée suite aux agressions visant les musiciens du métro.](  /content/images/2016/06/0_0%20%2811%29.jpg)
+![La surveillance des lieux publics a été renforcée suite aux agressions visant les musiciens du métro.](/content/images/2016/06/0_0%20%2811%29.jpg)
+_La surveillance des lieux publics a été renforcée suite aux agressions visant les musiciens du métro._
 
 <!--kg-card-end: markdown-->

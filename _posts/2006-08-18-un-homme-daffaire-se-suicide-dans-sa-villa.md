@@ -30,7 +30,8 @@ Marcus est très doué à l'école mais ce qui lui plaît plus que tout c'est pa
 
 **Fin 1991 :** La femme de Marcus meurt d'une overdose. Marcus est en deuil, il décide alors de changer sa vie : pour cela il retourne à Liberty City revivre chez ses parents et travaille dans la boutique de son père pour un salaire dérisoire.
 
-![Sophie, la première femme de Marcus](  /content/images/2005/01/1-femme_marcus.jpg)
+![Sophie, la première femme de Marcus](/content/images/2005/01/1-femme_marcus.jpg)
+_Sophie, la première femme de Marcus_
 
 **Janvier 1996 :** Au bout de cinq ans de travail acharné, il décide d'étendre le marché de son père en ouvrant une boutique à Vice City. Cela marche bien mais Marcus fréquente à nouveau ses amis toxicomanes et replonge dans la drogue mais là il fait à son tour une overdose et se retrouve dans le coma.
 
@@ -40,7 +41,8 @@ Marcus est très doué à l'école mais ce qui lui plaît plus que tout c'est pa
 
 **Fin 1997 :** Marcus décide de créer sa propre entreprise du disque: Star's Night Industrie. Le résultat est fulgurant, Son chouchou Davyd Guetho est n°1 au top 50 pendant plus d'un mois!
 
-![Star's Night Industrie à Los Santos.](  /content/images/2005/01/Star-s_night.jpg)
+![Star's Night Industrie à Los Santos.](/content/images/2005/01/Star-s_night.jpg)
+_Star's Night Industrie à Los Santos._
 
 **Mi-Juin 1998 :** Son chouchou décide de quitter la famille. Marcus décide alors de se lancer lui même dans la chanson. Un flop. Son entreprise risque de couler d'une minute à l'autre.
 
@@ -48,7 +50,8 @@ Marcus est très doué à l'école mais ce qui lui plaît plus que tout c'est pa
 
 **2000 :** Marcus est au top. Il possède 3 nouveaux clubs à San Andreas, il rencontre Martin Solvug qui écrasera les ventes de disque de son Davyd, qui rejoindra à nouveau l'équipe à la fin de l'année.
 
-![Les 3 clubs à San Andreas](  /content/images/2005/01/3_clubs.jpg)
+![Les 3 clubs à San Andreas](/content/images/2005/01/3_clubs.jpg)
+_Les 3 clubs à San Andreas_
 
 **Milieu 2002 :** Marcus se marie avec Céline, riche héritière de Las Venturas, avec qui il aura Mickaël.
 
@@ -58,21 +61,23 @@ Marcus est très doué à l'école mais ce qui lui plaît plus que tout c'est pa
 
 **2005 :** Les parents de Marcus Nood sont tués dans une fusillade à Liberty City et donnent tous leurs économies ainsi que leur boutique à Marcus.
 
-![Les parents de Marcus peu avant de mourir.](  /content/images/2005/01/parents_marcus.jpg)
+![Les parents de Marcus peu avant de mourir.](/content/images/2005/01/parents_marcus.jpg)
+_Les parents de Marcus peu avant de mourir._
 
 **3 Juillet 2006 :** Marcus apprend que le Malibu Club a brûlé grâce à notre journal. Il rachète le terrain et les cendres du club pour presque rien avec l'argent de ses parents.
 
 **Début Août 2006 :** Le nouveau Malibu Club ouvre ses portes : C'est un succès total mais les parents de Marcus lui manque et pour combler le tout, il divorce et la garde de l'enfant est donné à sa femme puisque son passé de toxicomane l'a rattrapé.
 
-![](  /content/images/2005/01/malibu_-_ext.jpg)
-
-![Le Malibu Club est le club le plus fréquenté de tout Vice City.](  /content/images/2005/01/malibu_-_club_int.jpg)
+![](/content/images/2005/01/malibu_-_ext.jpg)
+![Le Malibu Club est le club le plus fréquenté de tout Vice City.](/content/images/2005/01/malibu_-_club_int.jpg)
+_Le Malibu Club est le club le plus fréquenté de tout Vice City._
 
 **10 août 2006 :** Marcus lègue toutes sa fortune à son Dj fétiche : Davyd Guetho.
 
 **Hier matin :** On retrouve le corps de Marcus, pendu. La vie qu'il a vécu ne s'est pas déroulé comme prévu.
 
-![De gauche à droite: Davyd Guetho, Marcus Nood et Bob Céclair](  /content/images/2005/01/groupe_lv.jpg)
+![De gauche à droite: Davyd Guetho, Marcus Nood et Bob Céclair](/content/images/2005/01/groupe_lv.jpg)
+_De gauche à droite: Davyd Guetho, Marcus Nood et Bob Céclair_
 
 Il a touché les sommets mais aussi le fond à cause de la drogue et a connu le bonheur avec sa femme, mais toujours hanté par son passé de toxicomane, il décide de mettre fin à ses jours malgré ses millions en banque...
 

@@ -42,7 +42,8 @@ _(Étant moi-même Biorn et écrivant donc un article sur ma propre personne, je
 > 
 > **Biorn :** Baaaaah... Non. De toute façon, j'ai vu les photos et vu l'état du bonhomme, si ce type avait une famille, par respect pour elle il valait mieux pas qu'on l'identifie. Et puis après tout, il a braqué ma caisse, alors il aurait bien fini par tomber par inadvertance dans un trou dans la forêt et se retrouver enseveli accidentellement.
 
-![Le véhicule de Biorn tel qu'il avait été retrouvé.](  /content/images/2016/06/plouf1_0.jpg)
+![Le véhicule de Biorn tel qu'il avait été retrouvé.](/content/images/2016/06/plouf1_0.jpg)
+_Le véhicule de Biorn tel qu'il avait été retrouvé._
 
 Le retour de Biorn dans les locaux du Liberty Tree était l’événement de la journée, les uns ravis, les autres euphoriques, Nelson, un de nos estimés confrères a bien voulu répondre à nos questions :
 

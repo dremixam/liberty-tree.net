@@ -19,7 +19,7 @@ Le maire a également déclaré mettre une loi le plus tôt possible sur le fait
 
 Ce qui aurait comme effet: quasi zéro. Cela coûte trop cher d'acheter une nouvelle plaque pour une voiture ailleurs qu'aux USA pour ne pas se faire coller des PV à Liberty. Une moindre rentrée d'argent, assumable. Mais le touristes verront Liberty City d'un œil meilleur.
 
-Comme vous l'avez vu dans l'article de mon confrère (cf ["Le débat sur la vitesse: les dés sont lancés"](  /2002/12/31/le-debat-sur-la-vitesse--les-des-sont-lances/)), à Liberty City il _n'y a pas de limitations de vitesses._ Les PV sont donc de toute façon mis "au bol" par les policiers.
+Comme vous l'avez vu dans l'article de mon confrère (cf ["Le débat sur la vitesse: les dés sont lancés"](/2002/12/31/le-debat-sur-la-vitesse--les-des-sont-lances/)), à Liberty City il _n'y a pas de limitations de vitesses._ Les PV sont donc de toute façon mis "au bol" par les policiers.
 
 Plusieurs personnes ont été interrogés, notamment un spécialiste du tourisme. Celui-ci affirme que cette "punition", pour en revenir à notre vielle personne, 'est tout à fait correcte.'
 

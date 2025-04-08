@@ -22,10 +22,9 @@ Au cours de plusieurs déplacements, à bord de 35 véhicules différent, nous a
 Durant nos tests, dans certains cas extrêmes de malpropreté, nous avons même été forcé d'écourter la durée de notre examen tellement les mauvaises odeurs et la condition du véhicule laissaient à désirer.
 
 ![]()
-
 ![]()
-
 ![Exemple d'un véhicule dans un très mauvais état extérieur.]()
+_Exemple d'un véhicule dans un très mauvais état extérieur._
 
 Nous tenons par contre à souligner que dans les véhicules les plus propres nous avions vraiment l'impression d'être en carrosse royal tellement tout était impeccable. D'ailleurs, en plus de conserver leur véhicule dans un bon état, ces chauffeurs étaient polis, courtois et très propres (fraîchement rasés et cheveux peignés). Nous ne pouvons malheureusement pas en dire autant de ceux qui étaient au volant des taxis les plus infects. On aurait dit que nous étions conduit par des SDF tellement ils étaient sales, répugnants et vulgaires.
 

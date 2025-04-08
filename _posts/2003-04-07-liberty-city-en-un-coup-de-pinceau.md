@@ -34,12 +34,9 @@ Inspiré par les buildings, les grandes avenues et les zones industrielles, Yvan
 L'exposition d'Yvan Moloskovich sera présente dans la galerie de Torrington à Staunton Island du 10 au 30 avril 2003.  
 Pour nous faire patienter, voici un petit extrait du talent de notre peintre Libertycien dont une vue des bureaux du Liberty Tree.
 
-![](  /content/images/2016/07/photo1exp.jpg)
-
-![](  /content/images/2016/07/photo2.jpg)
-
-![](  /content/images/2016/07/photo3.jpg)
-
-![](  /content/images/2016/07/photoexp.jpg)
+![](/content/images/2016/07/photo1exp.jpg)
+![](/content/images/2016/07/photo2.jpg)
+![](/content/images/2016/07/photo3.jpg)
+![](/content/images/2016/07/photoexp.jpg)
 
 <!--kg-card-end: markdown-->

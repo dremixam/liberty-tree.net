@@ -16,7 +16,8 @@ A la tête de cette association, il devait y avoir Vladimir Glebov, mais il a é
 
 A sa place, sera donc admis par cette communauté un certain Roman Bellic, malheureusement nous ne savons que peu de choses à son sujet.
 
-![Bellic](  /content/images/2016/06/3_4.png)
+![Bellic](/content/images/2016/06/3_4.png)
+_Bellic_
 
 Nous avons pu brièvement nous entretenir avec M. Bellic :
 
@@ -24,7 +25,8 @@ Nous avons pu brièvement nous entretenir avec M. Bellic :
 
 Cependant, certains disent que cette association n'est faite que pour couvrir des actes illégaux, toujours en rapport avec la mafia slave.
 
-![Le sergent Harold Muggle.](  /content/images/2016/06/3_3.png)
+![Le sergent Harold Muggle.](/content/images/2016/06/3_3.png)
+_Le sergent Harold Muggle._
 
 Nous sommes allés à la rencontre du sergent Muggle.
 

@@ -24,13 +24,13 @@ Donc, Crazy Dogg devrait aussi se rendre au tribunal pour avoir composé cette c
 > 
 > **John Burger, 36 ans :** J'ai une fille de 9 ans, elle aime bien écouter Head Radio mais elle a été choquée à vie quand elle a entendu cette chanson raciste et sans intérêt... Boycottons son nouvel album !
 
-![](  /content/images/2005/01/CrazyDogg01.jpg)
+![](/content/images/2005/01/CrazyDogg01.jpg)
 
 Son nouvel album "My Worldz" sera mis en vente fin du mois mais rassurez-vous, les éditeurs de l'album ont supprimé la piste "Black Wins" de l'album. Crazy Dogg a voulu s'opposer à cette censure car il disait que cette chanson était la meilleure de son album... Il en avait même sorti un clip vidéo qui ne fut jamais diffusé à cause de ce scandale, bien que la piste soit effacée de l'album, les manifestants boycotterons quand même l'album.
 
 Image du clip vidéo de "Black Wins" censuré :
 
-![](  /content/images/2005/01/CrazyDogg02.jpg)
+![](/content/images/2005/01/CrazyDogg02.jpg)
 
 Nous nous sommes déplacés jusqu'à Los Santos dans l'état de San Andreas pour demander au célèbre Madd Dogg son avis :
 

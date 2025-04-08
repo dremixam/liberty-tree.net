@@ -16,17 +16,14 @@ Mais il y a pire ; un simple frein, un simple petit désordre dans la grande fil
 
 Voilà comment tout a commencé :
 
-![](  /content/images/2005/01/embouteillage1.jpg)
+![](/content/images/2005/01/embouteillage1.jpg)
 
 Une voiture sur l'autre, la file prit la forme d'une colonne, on se serait cru au cirque. Mais vingt-cinq minutes plus tard, tout explosa, les hommes, les femmes, les enfants, les chiens et les policiers. Ce n'était plus un cirque c'était le feu d'artifice du 4 juillet :
 
-![](  /content/images/2005/01/embouteillage2.jpg)
-
-![](  /content/images/2005/01/embouteillage3.jpg)
-
-![](  /content/images/2005/01/embouteillage4.jpg)
-
-![](  /content/images/2005/01/embouteillage5.jpg)
+![](/content/images/2005/01/embouteillage2.jpg)
+![](/content/images/2005/01/embouteillage3.jpg)
+![](/content/images/2005/01/embouteillage4.jpg)
+![](/content/images/2005/01/embouteillage5.jpg)
 
 Les ambulances n'arrivèrent malheureusement pas à temps, les ambulanciers découvrirent seulement des corps brûlés. Trois heures plus tard, après la venue des pompiers et autres secouristes, des survivants ont été repérés et secourus.
 

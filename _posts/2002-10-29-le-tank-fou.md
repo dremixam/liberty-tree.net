@@ -15,10 +15,8 @@ Malgré son âge important, Monsieur Rocketlauncher était resté un excellent t
 
 Heureusement, grâce à une roquette bien placée, le vieillard fut expédié dans les profondeurs polluées de Liberty, alors qu'il roulait près de Portland Docks. Bilan : 548 morts, 420 blessés. Une fois de plus, l'efficacité des Forces de l'ordre est remise en question, surtout lorsque est évoqué le V.C.P.D., la police de cette belle ville qu'est Vice City. D'ailleurs, à la rédaction, on parle de plus en plus à déplacer nos locaux là-bas, tant le métier de journaliste est risqué dans notre chère ville.
 
-![](  /content/images/v1/user6/vieuxfou1.jpg)
-
-![](  /content/images/v1/user6/vieuxfou2.jpg)
-
-![](  /content/images/v1/user6/vieuxfou3.jpg)
+![](/content/images/v1/user6/vieuxfou1.jpg)
+![](/content/images/v1/user6/vieuxfou2.jpg)
+![](/content/images/v1/user6/vieuxfou3.jpg)
 
 <!--kg-card-end: markdown-->

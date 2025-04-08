@@ -18,7 +18,7 @@ Nous interrogeons la femme du propriétaire, Mme Sanchez dont son mari ne gère 
 > 
 > **Mme Sanchez :** Ça fait 5 ans que je suis là et je vous jure avoir déjà vu une lumière plus rapide qu'un avion de chasse ! La zone est constamment balayée par les radars. Ils (elle parle de l'armée) ne disent rien pour pas nous affoler comme ils le disent souvent ! Les photos, les cadavres d'extra-terrestres et même un engin serait entreposé dans leur base...
 
-![](  /content/images/2005/01/barmaid.jpg)
+![](/content/images/2005/01/barmaid.jpg)
 
 Un fermier à bien voulu répondre à notre question. Il n'a pas voulu dire son nom, car il serait déjà assiégé chez lui par deux agents du FBI et n'a pas envie d'être trop people. Nous l'appellerons Raymond pour la commodité.
 
@@ -36,9 +36,8 @@ Nous avons aussi eu l'occasion de questionner un routier, M. McSadder, passant t
 > 
 > **M. Mc Sadder :** Ouais mais franchement, je pense pas que ce soit des ovnis. Je fait tous San Andreas chaque jour et à la même heure, toutes les nuits, je vois le même truc qui se produit : une lumière blanche qui traverse le ciel. Je dirais que c'est simplement des avions en patrouille ou des machins de ce genre là quoi... Mais le seul truc qui me trifouille vraiment, c'est que c'est trop rapide pour être des avions de chasse...
 
-![](  /content/images/2005/01/int_rieir_2.jpg)
-
-![](  /content/images/2005/01/int_rieur1.jpg)
+![](/content/images/2005/01/int_rieir_2.jpg)
+![](/content/images/2005/01/int_rieur1.jpg)
 
 Des témoignages imprécis, voilà ce que nous obtiendrons. Évidemment, nous avons pas eu trop le temps d'aller scruter le ciel et c'est ce que nous avons fait la nuit, vers 2h03. En effet, des points lumineux, bien trop rapides pour que ce soient des avions de chasse traversent le ciel. Toutefois, impossible de dire que c'est peut-être des ovni. L'armée ferait-elle dans la censure ? Dans quel but ? Autant de questions que nous pouvons nous poser. Une seule chose est sûre, la vérité est ailleurs...
 

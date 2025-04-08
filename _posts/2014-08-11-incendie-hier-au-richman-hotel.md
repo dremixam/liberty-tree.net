@@ -14,7 +14,8 @@ Il est 12h36 hier lorsque la sirène d'incendie retentit dans la caserne de pomp
 
 L'hôtel, rapidement évacué, n'est pas en proie aux flammes grâce aux portes des chambres qui sont des portes coupe-feu. L'incendie est donc rapidement maîtrisé grâce à une rapide intervention des pompiers. Ces derniers déterminent rapidement l'origine de l'incendie : une cigarette serait à l'origine du désastre.
 
-![En moins de 5 minutes, les pompiers étaient sur les lieux de l'incendie.](  /content/images/2016/06/camion_1.jpg)
+![En moins de 5 minutes, les pompiers étaient sur les lieux de l'incendie.](/content/images/2016/06/camion_1.jpg)
+_En moins de 5 minutes, les pompiers étaient sur les lieux de l'incendie._
 
 > **Landon Harper, pompiers à la caserne de Rockford Hills :** L'origine de l'incendie est une cigarette, c'est une Redwood, on a retrouvé l'emballage. Elle a été posée au bord d'une table, et quelque chose a fait basculer la table. La cigarette a alors enflammé les tapisseries puis tout a cramé.
 
@@ -24,11 +25,10 @@ Plusieurs tableaux de grands peintres auraient été réduits en cendre.
 
 > **Christopher Thompson, propriétaire du Richman Hotel :** C'est honteux, des tapisseries du XIXème siècle ! Et on perd une chambre, la façade est à refaire, les clients sont mécontents car on a dû évacuer l'hotel ! Nous allons traîner en justice cette personne, et elle n'est plus la bienvenue ici ! Et aussi les animaux sont interdits dans mon hôtel, monsieur !
 
-![](  /content/images/2016/06/pompier_0.jpg)
-
-![](  /content/images/2016/06/gravelli.jpg)
-
-![Landon Harper, Jon Jr Gravelli et Christopher Thomson](  /content/images/2016/06/pdg.jpg)
+![](/content/images/2016/06/pompier_0.jpg)
+![](/content/images/2016/06/gravelli.jpg)
+![Landon Harper, Jon Jr Gravelli et Christopher Thomson](/content/images/2016/06/pdg.jpg)
+_Landon Harper, Jon Jr Gravelli et Christopher Thomson_
 
 Jon Jr Gravelli serait venu à Los Santos pour des raisons qui restent floues, il est depuis reparti à Liberty City.
 

@@ -14,7 +14,7 @@ Depuis quelques années, on constate qu’il y a de plus en plus de gens vêtus 
 
 Afin d’en savoir un peu plus, le Liberty Tree a pris l’initiative d’envoyer un de ses reporters incognito sur le terrain, rencontrer ces gens et se laisser manipuler volontairement. Sachant que ces gens essaient de repérer des « proies faciles », c’est-à-dire des personnes traversant une phase plus ou moins dépressive par exemple, nous avons envoyé un collègue sortant d’un divorce douloureux.
 
-![](  /content/images/2016/06/0_0_17.jpg)
+![](/content/images/2016/06/0_0_17.jpg)
 
 Peut-être l’avez-vous remarqué, mais ces personnes ont bien souvent un représentant pour promouvoir leur groupe qui traîne du côté des magasins de luxe de Rockford Hills. Evidemment, c’est sûr qu’ils ne vont pas aller chercher des proies faciles dans les ghettos, ils vont là où il y a de l’argent. Dès le début, nous sommes quasiment certains qu’il y a escroquerie, il faut juste le prouver. Ce que nous voulons déterminer, c’est surtout si leurs prétendues croyances peuvent se révéler justes…
 
@@ -22,7 +22,8 @@ Ainsi, notre reporter est allé à la rencontre d’une de ces personnes, près 
 
 Pour avancer dans notre quête, on nous a donc demandé de faire des petites choses, toutes plus ridicules les unes que les autres, comme porter leur uniforme pendant plusieurs mois par exemple. Et il a surtout fallu comme par hasard offrir des voitures de luxes ou livrer un avion aux autres membres… Donc, cela suppose qu’en faisant croire aux gens qu’ils vont atteindre l’Illumination, la Vérité absolue, qu’ils sauront tout sur tout, sans rien savoir, comme ils disent, ils vont en fait les manipuler à leur guise.
 
-![Marnie Allen, membre de la communauté Epsilonienne.](  /content/images/2016/06/0_0_18.jpg)
+![Marnie Allen, membre de la communauté Epsilonienne.](/content/images/2016/06/0_0_18.jpg)
+_Marnie Allen, membre de la communauté Epsilonienne._
 
 Si vous avez envie de rentrer dans cette étrange communauté, c’est certainement cette femme qui s’occupera de votre initiation… Mais assurez-vous aussi d’avoir pleinement conscience de vos actes et un porte-monnaie bien rempli !
 
@@ -34,7 +35,7 @@ Personne ne doit vraiment savoir ce que ça veut dire : c’est le mot qu’ils 
 
 Non loin de leur somptueuse résidence de Rockford Hills, nous avons rencontré deux jeunes personnes qui nous ont confié prendre le bus devant le bâtiment tous les soirs.
 
-![](  /content/images/2016/06/0_0_19.jpg)
+![](/content/images/2016/06/0_0_19.jpg)
 
 > Je suis vendeuse à la bijouterie Vangelico et je suis obligée de prendre ce bus pour rentrer chez moi tous les soirs, et je dois bien avouer que j’ai vraiment peur, surtout quand certains d’entre eux sortent en marmonnant des phrases incompréhensibles…
 
@@ -44,7 +45,8 @@ Et un collègue de cette jeune dame ajoute :
 
 Bien entendu, le port d’arme est légal ici, mais ne trouvez-vous pas ça un peu fort que des passants soient obligés d’en porter pour se sentir protégés ? À ce rythme, c’est à croire que nous allons vers un monde où les gens vont se faire justice eux-mêmes.
 
-![Un membre du groupe en plein action.](  /content/images/2016/06/0_0_20.jpg)
+![Un membre du groupe en plein action.](/content/images/2016/06/0_0_20.jpg)
+_Un membre du groupe en plein action._
 
 Notre collègue infiltré nous a rapporté qu’entre autres missions grotesques, l’une d’elles consisterait à rechercher une source d’origine (plus ou moins) divine ou extraterrestre à l’aide de cet appareil bizarroïde (voir photo).
 
@@ -54,6 +56,7 @@ Enfin, ces accusations sont-elles suffisantes pour qualifier ce groupe de sectai
 
 Il est encore bien sûr trop tôt pour savoir exactement qui sont ces gens, mais des suppositions amènent à penser qu’il s’agirait du groupe des Altruistes, vivant dans un camp retranché dans la montagne à l’ouest de Sandy Shores. Une rumeur court en ce moment même sur ces gens, prétendant qu’ils mangeraient leurs congénères…
 
-![Jane, une représentante du groupe des "enfants de la montagne".](  /content/images/2016/06/0_0_21.jpg)
+![Jane, une représentante du groupe des "enfants de la montagne".](/content/images/2016/06/0_0_21.jpg)
+_Jane, une représentante du groupe des "enfants de la montagne"._
 
 <!--kg-card-end: markdown-->

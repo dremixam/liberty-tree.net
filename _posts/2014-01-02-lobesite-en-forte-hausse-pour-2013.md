@@ -14,13 +14,15 @@ Du fait de ce chiffre alarmant, nous avons décidé de mener notre enquête sur 
 
 > Moi, par manque de temps avec mes études, je mange tous les midis au Burger Shot du coin. J'aime voir mes trois menus XXL devant moi prêts à être dévorés.
 
-![Le logo de la chaîne de fast-foods Burger Shot.](  /content/images/2016/06/Burger-Shot-Logo%252.png)
+![Le logo de la chaîne de fast-foods Burger Shot.](/content/images/2016/06/Burger-Shot-Logo%252.png)
+_Le logo de la chaîne de fast-foods Burger Shot._
 
 Par la suite, nous avons rencontré William Decker, âgé de 36 ans, vivant dans le quartier de South Los Santos :
 
 > Qui c'est le gros ? Grrrrr...
 
-![54 % de la population de Los Santos serait obèse.](  /content/images/2016/06/0_0%20%288%29_3.jpg)
+![54 % de la population de Los Santos serait obèse.](/content/images/2016/06/0_0%20%288%29_3.jpg)
+_54 % de la population de Los Santos serait obèse._
 
 Notre troisième personne rencontrée est Denise Putter, âgée de 31 ans, vivant elle aussi dans le quartier de South Los Santos :
 
@@ -30,7 +32,8 @@ Enfin, nous avons rencontré Mickael Hazelnoten, âgé de 22 ans, vivant à Litt
 
 > J'étais un très bon client du Burger Shot, mais on m'a dit que la viande blanche faisait maigrir, alors je me suis mis au Cluckin Bell !
 
-![Karen Walker, âgée de 19 ans.](  /content/images/2016/06/0_0%20%289%29_4.jpg)
+![Karen Walker, âgée de 19 ans.](/content/images/2016/06/0_0%20%289%29_4.jpg)
+_Karen Walker, âgée de 19 ans._
 
 Vous l'aurez compris, la situation ne risque pas de s'améliorer, mais gardez espoir, on ne sait jamais, rendez-vous à la publication des chiffres de l'obésité en 2014. Yes we can...
 

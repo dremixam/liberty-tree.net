@@ -12,13 +12,13 @@ _Le Rhino Tank v2 a été testé récemment, tout près de la route et sur des c
 
 Si vous êtes passé près de Vespucci Beach jeudi dernier autour de 10 heures, vous n'avez pas pu louper ce spectacle relativement incongru, voire loufoque. Le Rhino Tank v2 a été testé sur un parking. Le plus dangereux est bien évidemment le fait qu'il ait été testé au combat, sur des caddies de golf pilotés par des mannequins programmés pour rouler aléatoirement.
 
-![Les passants sont restés ahuris.](  /content/images/2016/06/22_3.jpg)
+![Les passants sont restés ahuris.](/content/images/2016/06/22_3.jpg)
+_Les passants sont restés ahuris._
 
 Le pilote du tank, Herman Clifford s'est donc fait une joie d'anéantir tous ces mannequins destinés à un triste sort.
 
-![](  /content/images/2016/06/22_5.jpg)
-
-![](  /content/images/2016/06/22_2.jpg)
+![](/content/images/2016/06/22_5.jpg)
+![](/content/images/2016/06/22_2.jpg)
 
 Des associations se sont formées afin de faire payer l'armée pour avoir effectué ces tests si près des civils et avoir montré tant de violence à des innocents.
 

@@ -16,7 +16,8 @@ Tous les fans de basket-ball le savent, les classicos sont chaque année plus vi
 > 
 > **Liberty Tree :** Merci Dessie, et au passage, très original cette nouvelle coupe de cheveux !
 
-![Dessie James marque un panier au match des L.C. Penetrators contre les Vice City Magic.](  /content/images/2016/06/nba_0.jpg)
+![Dessie James marque un panier au match des L.C. Penetrators contre les Vice City Magic.](/content/images/2016/06/nba_0.jpg)
+_Dessie James marque un panier au match des L.C. Penetrators contre les Vice City Magic._
 
 L'histoire ne s'arrête pas la car vu que nous sommes très curieux nous avons également réussi à interroger Frédéric Cros, joueur de basket-ball chez les Los Santos Panic.
 
@@ -24,7 +25,8 @@ L'histoire ne s'arrête pas la car vu que nous sommes très curieux nous avons �
 > 
 > **Frédéric Cros, 23 ans, basketteur aux Los Santos Panic :** Bonjour, cette défaite ? On ne la vit pas normalement, on s'était préparé pour ce match, c'était très important ce match pour les fans, l'entraîneur et nous, joueurs, c'est dommage mais les L.C. Penetrators ne savent pas jouer au basket, on la méritait plus qu'eux cette victoire.
 
-![Frédéric Cros joue un match contre les San Fierro Sporting.](  /content/images/2016/06/mp.jpg)
+![Frédéric Cros joue un match contre les San Fierro Sporting.](/content/images/2016/06/mp.jpg)
+_Frédéric Cros joue un match contre les San Fierro Sporting._
 
 Après cette terrible défaite, les joueurs des Los Santos Panic ont passé deux nuits au grand Majestic Hotel sur Middle Park, de quoi récupérer de cet échec.
 

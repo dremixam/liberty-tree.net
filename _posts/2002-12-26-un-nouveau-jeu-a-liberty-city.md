@@ -19,16 +19,11 @@ A partir de là il existe deux variantes, je commence par la plus soft : La voit
 
 Ce jeu si dangereux soit-il fait de plus en plus d'adeptes chez les jeunes, et il entraîne la mort de 12 personnes chaque jour.
 
-![](  /content/images/v1/user24/Asport_1.jpg)
-
-![](  /content/images/v1/user24/Asport_2.jpg)
-
-![](  /content/images/v1/user24/Asport_3.jpg)
-
-![](  /content/images/v1/user24/Asport_4.jpg)
-
-![](  /content/images/v1/user24/Asport_5.jpg)
-
-![](  /content/images/v1/user24/Asport_7.jpg)
+![](/content/images/v1/user24/Asport_1.jpg)
+![](/content/images/v1/user24/Asport_2.jpg)
+![](/content/images/v1/user24/Asport_3.jpg)
+![](/content/images/v1/user24/Asport_4.jpg)
+![](/content/images/v1/user24/Asport_5.jpg)
+![](/content/images/v1/user24/Asport_7.jpg)
 
 <!--kg-card-end: markdown-->

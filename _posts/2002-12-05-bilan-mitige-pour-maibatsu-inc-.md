@@ -25,7 +25,7 @@ les actions Maibatsu valaient il y a deux semaines environ 95$ l'une, aujourd'hu
 
 Tout le monde (concerné) se pose une question: POURQUOI?
 
-![](  /content/images/v1/user23/tabstat.jpg)
+![](/content/images/v1/user23/tabstat.jpg)
 
 Les analystes économiques ont un avis partagé mais ils associent plusieurs facteurs qui peuvent s’avère explicatifs: tout d'abord, l'ouverture du marché de Liberty avec des aides financières de l'hôtel de ville pour le commerce vers l'Europe et l'Asie, des avantages fiscaux pour les biotechnologies (essentiellement étrangères), ce qui conduit à une arrivée massive de cadres étrangers, et c'est justement cet attribut qui ne les fait pas acheter des automobiles locales. D'un autre côté on accuse la mairie d'avoir permis une trop large pénétration des produits importés sur le marché local. La TPA, taxe sur produits importés, a été ainsi baissée plusieurs fois depuis quatre ans.
 
@@ -35,6 +35,6 @@ Cette situation permet de pointer du doigt la cruauté du marché économique d'
 
 Espérons que Maibatsu ne l'ait pas encore atteint.
 
-![](  /content/images/v1/user23/tab02.jpg)
+![](/content/images/v1/user23/tab02.jpg)
 
 <!--kg-card-end: markdown-->

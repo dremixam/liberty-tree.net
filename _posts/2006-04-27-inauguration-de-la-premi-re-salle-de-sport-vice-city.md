@@ -42,9 +42,8 @@ Sans aucun doute, Gérald est décidé à remettre de l'ordre à Vice Cty à sa 
 
 Hier à 19H00, le maire à inauguré la nouvelle salle, accompagné du responsable des sport de Vice City et de plusieurs autres notable de la ville. Pour l'occasion, Gérald Friday à offert à tous&nbsp;ses nouveaux clients un abonnement d'un an gratuit à la salle de sport de Vice City.
 
-![La nouvelle salle de musculation et de remise en forme de Mr Friday fait déjà fureur.](  /content/images/2005/01/Salle_de_muscu.jpg)
-
-![](  /content/images/2005/01/jhjhjhjh.jpg)
+![La nouvelle salle de musculation et de remise en forme de Mr Friday fait déjà fureur.](/content/images/2005/01/Salle_de_muscu.jpg)
+_La nouvelle salle de musculation et de remise en forme de Mr Friday fait déjà fureur._[](/content/images/2005/01/jhjhjhjh.jpg)
 
 > La salle est super bien équipée. Il y a tout pour nous satisfaire et les prix sont très abordables !
 

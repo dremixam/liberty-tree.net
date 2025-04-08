@@ -14,7 +14,7 @@ Cela faisait quelques temps que toute la rédaction du journal s'y préparait, l
 
 Une fête était prévue dans les locaux du journal avec tous les personnages importants de la ville et NelsoN, en tant que grand amateur de donuts, s'était chargé de faire confectionner un donut géant. La conception du donut, d'un poids total de mille-deux-cent kilogrammes a été confiée au patron du TUFF NUT DONUTS situé à l'ouest de San Fierro.
 
-![](  /content/images/2005/01/donut2.jpg)
+![](/content/images/2005/01/donut2.jpg)
 
 C'est hier que NelsoN devait se charger de l'acheminement du donut jusqu’à la Liberty-Tower, la tour qui abrite les bureaux du Liberty-Tree dans le centre de Los Santos. Mais les conditions climatiques ne le permettant pas, l'opération a été remise à plus tard. Il a été decidé de le faire pendant que les invités arrivaient, pour créer la surprise.
 
@@ -30,7 +30,8 @@ L'hélicoptère a du décrocher, et le donut géant est resté à moitié placé
 
 Malheureusement, on ne peut plus rien pour le donut, une lourde perte pour le Liberty Tree.
 
-![NelsoN, qui était déjà descendu de l'hélicoptère, a failli avoir une attaque.](  /content/images/2005/01/donut.jpg)
+![NelsoN, qui était déjà descendu de l'hélicoptère, a failli avoir une attaque.](/content/images/2005/01/donut.jpg)
+_NelsoN, qui était déjà descendu de l'hélicoptère, a failli avoir une attaque._
 
 Interview exclusive:
 

@@ -12,17 +12,16 @@ tags:
 
 \*\>C'était horrible! Je marchais tranquillement pour me rendre au cabinet de mon avocat lorsque ce type s'est écrasé devant moi. Jamais je ne pourrais oublier le bruit que j'ai entendu au moment de l'impact. Tous ses os ont du éclater, pauvre homme !&nbsp;Et l'état du corps après... BLOUUUUAARRBB !
 
-![](  /content/images/2005/01/Otaku.jpg)
-
-![Le corps du jeune homme et l'immeuble duquel il a fait le grand saut.](  /content/images/2005/01/Otaku_Immeuble_VC.jpg)
+![](/content/images/2005/01/Otaku.jpg)
+![Le corps du jeune homme et l'immeuble duquel il a fait le grand saut.](/content/images/2005/01/Otaku_Immeuble_VC.jpg)
+_Le corps du jeune homme et l'immeuble duquel il a fait le grand saut._
 
 Qu'est-ce qui peut bien motiver un homme à mettre fin à ses jours d'une façon si horrible? D'après les premiers éléments de l'enquête, l'homme était un Otaku, comprenez un joueur acharné. Les Otakus sont des joueurs qui passent plusieurs dizaines d'heures devant les jeux vidéo. Ils sont complètement déconnectés du monde réel et en oublient même de dormir ou de manger. Ils sont dans leur monde virtuel. Ils n'entendent pas quand quelqu'un leur parle, ils ne réagissent pas à ce qu'il se passe à côté d'eux. C'est une vraie maladie qui touche de plus en plus de gens, notamment au Japon.
 
-![](  /content/images/2005/01/Otaku_Borne_Arcade.jpg)
-
-![](  /content/images/2005/01/Otaku_Borne_Arcade_01.jpg)
-
-![Ces bornes d'apparence inoffensives ne sont pas à mettre entre toutes les mains.](  /content/images/2005/01/Otaku_Borne_Arcade_02.jpg)
+![](/content/images/2005/01/Otaku_Borne_Arcade.jpg)
+![](/content/images/2005/01/Otaku_Borne_Arcade_01.jpg)
+![Ces bornes d'apparence inoffensives ne sont pas à mettre entre toutes les mains.](/content/images/2005/01/Otaku_Borne_Arcade_02.jpg)
+_Ces bornes d'apparence inoffensives ne sont pas à mettre entre toutes les mains._
 
 Les enquêteurs ont découvert avec plus de précision les raisons qui ont poussé cet homme à faire le grand saut. Apparemment, il était en train de jouer à un jeu vidéo bien connu : _Pogo The Monkey_. C'est LE jeu du moment et les ventes de ce produit sont impressionnantes. Mr. Willow, le gérant du bar dans lequel le malheureux a passé ses dernières heures a accepté de répondre à nos questions :
 
@@ -40,23 +39,20 @@ Les enquêteurs ont découvert avec plus de précision les raisons qui ont pouss
 
 > **LT :** Merci Mr. Willow.
 
-![](  /content/images/2005/01/Otaku_Pogo.jpg)
-
-![Pogo The Monkey continue de très bien se vendre.](  /content/images/2005/01/Otaku_Pogo_Screen.jpg)
+![](/content/images/2005/01/Otaku_Pogo.jpg)
+![Pogo The Monkey continue de très bien se vendre.](/content/images/2005/01/Otaku_Pogo_Screen.jpg)
+_Pogo The Monkey continue de très bien se vendre._
 
 Evidemment, la sénatrice dont nous vous parlions en début d'article est montée au créneau. Elle a violemment critiqué le pauvre Pogo et son éditeur la société Degenatron. Le directeur général du marketing de Degenatron a fait un communiqué dans lequel sa société décline toute responsabilité :
 
 > La société Degenatron regrette cet accident malheureux mais ne peut en être tenue responsable. Tous nos produits contiennent un avertissement clair sur les risques liés à l’épilepsie et aux autres problèmes susceptibles de toucher les joueurs ayant des prédispositions à ces problèmes.
 
-![](  /content/images/2005/01/Otaku_Degenatron.jpg)
-
-![](  /content/images/2005/01/Nintendo_Logo.jpg)
-
-![](  /content/images/2005/01/Otaku_Atari.jpg)
+![](/content/images/2005/01/Otaku_Degenatron.jpg)
+![](/content/images/2005/01/Nintendo_Logo.jpg)
+![](/content/images/2005/01/Otaku_Atari.jpg)
 
 De leur côté, les autres éditeurs de jeux et notamment Nintendo et Atari ont eux aussi publié des communiqués. En effet aux Etats-Unis, les jeux et les autres supports audio et vidéo sont soumis à un affichage très strict et très clair auprès de l'ESRB (Entertainment Software Rating Board). De ce fait les jeux les plus violents se voient attribuer un "M" pour "Mature" et les plus enfantins un "E" pour"Everyone". Le système est le même pour les CD, DVD et VHS mais les sigles sont différents (Parental Advisory pour les CD Audio, limite d'âge sur les DVD-VHS)
-
-![](  /content/images/2005/01/Otaku_Affichage.jpg)
+![](/content/images/2005/01/Otaku_Affichage.jpg)
 
 Les Otakus sont de plus en plus nombreux aux Etats-Unis du fait du développement rapide du monde vidéo-ludique. On risque de voir une inflation de ce genre d'actes désespérés. Les autorités compétentes vont devoir trouver une solution pour limiter le nombre de joueurs atteints et surtout éviter qu'ils passent tant de temps devant les jeux vidéo. Certains parlent d'interdire les jeux à certains gamers, un peu à la manière des joueurs interdits de casino.
 

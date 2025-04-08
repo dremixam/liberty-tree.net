@@ -17,23 +17,22 @@ Différemment de ce que la plupart de gens peut imaginer, une journée ordinaire
 
 Disait Salvatore Leone...
 
-![](  /content/images/v1/user23/maf01.jpg)
-
-![](  /content/images/v1/user23/maf02.jpg)
+![](/content/images/v1/user23/maf01.jpg)
+![](/content/images/v1/user23/maf02.jpg)
 
 Giovanni a emprunté la sentinelle garée devant la villa. Nous avons donc déjeuné aux Punk Noodles, ou en tout cas nous avons commandé là-bas et nous nous sommes enfuis, car il se trouvait que le restaurant était en plein Chinatown, et c'était assez fâcheux, car les italiens sont en guerre contre les chinois...
 
 Nous nous sommes retrouvés en plein Hepburn Heights, quartier chicano, et bien sûr les italiens n'y sont pas plus bienvenus qu'à chinatown. Profitant de cela Giovanni a décidé de régler un compte personnel avec l'un des membres du gang des Diablos. Fort heureusement qu'il avait son fusil à pompe car le diablo qu'il venait de descendre avait beaucoup d'amis.
 
-![](  /content/images/v1/user23/maf03.jpg)
+![](/content/images/v1/user23/maf03.jpg)
 
 Suite à cette altercation , nous avons pris de nouveau la direction de Chinatown. Cette fois-ci, Giovanni devait rappeler à un homme qu'il devait de l'argent au club. Il a donc pour ce faire, utilisé une batte de base-ball qui est l'un des moyens les plus efficaces de faire retrouver la mémoire à quelqu'un...
 
-![](  /content/images/v1/user23/maf04.jpg)
+![](/content/images/v1/user23/maf04.jpg)
 
 Nous avons fini la journée aux docks de Portland où notre homme était chargé de dissuader le patron de la "Mars Gas Corporation" de faire des avances à la fille de Salvatore Leone en détruisant l'une des ses camionnettes.
 
-![](  /content/images/v1/user23/maf05.jpg)
+![](/content/images/v1/user23/maf05.jpg)
 
 Comme quoi la journée d'un travailleur _malhonnête_ est aussi dure que celle d'un homme tout à fait dans la légalité...
 
@@ -41,8 +40,7 @@ Note de l'auteur: Certaines personnes pourraient être gênées par l'objectivit
 
 L'équipe du Liberty Tree adresse d'ailleurs de sincères condoléances à toute sa famille.
 
-![](  /content/images/v1/user23/maf06.jpg)
-
-![](  /content/images/v1/user23/maf07.jpg)
+![](/content/images/v1/user23/maf06.jpg)
+![](/content/images/v1/user23/maf07.jpg)
 
 <!--kg-card-end: markdown-->

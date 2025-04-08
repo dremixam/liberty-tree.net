@@ -14,19 +14,15 @@ Ce que l'on aperçoit en premier lieu depuis la route, ce sont quatre tourelles 
 Ces tourelles que l'on voit constamment tourner à 360 degrés, présentent une sécurité contre les attaques aériennes. Mais pas seulement : "Interdiction formelle de survoler la zone" peut-on lire sur les panneaux et malheur à l'étourdi qui à l'inconscience de voler au dessus du périmètre.
 
 ![Ces images prises par un photographe amateur en 1997 montrent l'efficacité des missiles sol-air.
-](  /content/images/2005/01/panneau.jpg)
-
-![](  /content/images/2005/01/boom.jpg)
-
-![](  /content/images/2005/01/boum%202.jpg)
-
-![](  /content/images/2005/01/boum%203.jpg)
+](/content/images/2005/01/panneau.jpg)
+![](/content/images/2005/01/boom.jpg)
+![](/content/images/2005/01/boum%202.jpg)
+![](/content/images/2005/01/boum%203.jpg)
 
 Après cette première entrevue, je décide de m'approcher un peu plus.
 
-![](  /content/images/2005/01/vuezone69.jpg)
-
-![](  /content/images/2005/01/agent.jpg)
+![](/content/images/2005/01/vuezone69.jpg)
+![](/content/images/2005/01/agent.jpg)
 
 C'est à ce moment là qu'un Ranger de la police locale arrive à ma hauteur. Le représentant de l'ordre public descend du véhicule visiblement fâché à la vue de mon appareil photo.
 
@@ -54,23 +50,20 @@ Je retente ma chance le lendemain en essayant cette fois d'être plus discret.
 
 Des rochers plus à l'ouest offrent une prise de vue parfaite. Derrière les premiers barbelés, on peut apercevoir une petite piste d'envol pas assez longue pour qu'un avion puisse décoller, et des hangars. Je suppose donc qu'ils sont remplis d'"Hydras". Ce n'est plus un secret pour personne : au début de l'année le gouverneur de l'état avait annoncé l'acquisition de ces avions de chasse furtifs capables de se mouvoir comme les hélicoptères, c'est à dire décoller et atterrir à la verticale.
 
-![](  /content/images/2005/01/hangars.jpg)
-
-![](  /content/images/2005/01/zoomhangars.jpg)
-
-![](  /content/images/2005/01/hangar2.jpg)
+![](/content/images/2005/01/hangars.jpg)
+![](/content/images/2005/01/zoomhangars.jpg)
+![](/content/images/2005/01/hangar2.jpg)
 
 Je distingue aussi une entrée gardée par des militaires. Des véhicules circulent donc depuis ces hangars. Probablement des chars et des camions.
 
-![](  /content/images/2005/01/entree.jpg)
+![](/content/images/2005/01/entree.jpg)
 
 J'interromps ma visite pour l'après-midi et j'attends le soir pour reprendre mes activités. Le spectacle offert est splendide et me fait penser aux films de science-fiction. Des lumières vives virevoltent dans le ciel à une vitesse phénoménale et se posent ensuite.
 
 Plus loin, quatre projecteurs balayent le sol d'un périmètre plus restreint. C'est la zone principale. Je ne peux prendre que de vagues photos. Impossible d'aller plus loin sans courir le risque de se faire repérer. J'achève donc ici la première partie de mon reportage.
 
-![](  /content/images/2005/01/zone%20nuit.jpg)
-
-![](  /content/images/2005/01/ovni.jpg)
+![](/content/images/2005/01/zone%20nuit.jpg)
+![](/content/images/2005/01/ovni.jpg)
 
 Je décide maintenant de contacter des personnes ayant travaillé de près ou de loin pour la zone 69.
 

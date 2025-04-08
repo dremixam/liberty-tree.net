@@ -14,9 +14,9 @@ Avant-hier, nous avons reçu cette lettre de Mr. Rosenberg, avocat de Alex Shrub
 
 Notre bon et cher patron, Maxou, après consultations des avocats du Liberty Tree et autres conseillers a négligé la demande de Mr. Rosenberg. Notre procès débutera le Samedi 19 Mai à 13h45. Trois membre du journal sont concernés dans le chef d'accusation de "propos diffamatoires" qui sont : Maxou, Fido le muet et moi même, Passe-Partout. Il se déroulera au tribunal de Los Santos, pour les personnes qui souhaitent assister au procès...
 
-![](  /content/images/2005/01/hanrygcarter.jpg)
-
-![Un des avocats du Liberty Tree et le Tribunal de Los Santos](  /content/images/2005/01/tribunalLA.jpg)
+![](/content/images/2005/01/hanrygcarter.jpg)
+![Un des avocats du Liberty Tree et le Tribunal de Los Santos](/content/images/2005/01/tribunalLA.jpg)
+_Un des avocats du Liberty Tree et le Tribunal de Los Santos_
 
 Nous avons recueillis le témoignage d'un de nos lecteurs, Mr. Bryan.
 
@@ -38,7 +38,8 @@ Nous avons recueillis le témoignage d'un de nos lecteurs, Mr. Bryan.
 
 C'est sur ces mots que cet interview s'achève. Mr. Bryan nous a également dit qu'il créerait une association de défense contre la censure de la presse à San Andreas même si celle-ci est déja autorisé à divulguer toutes informations. Ce qui est le contraire à Vice City, la presse est censurée mais, les journaux que nous arrivons encore à distribuer là-bas ne le sont pas. Ce qui a provoqué la foudre du maire et de son avocat.
 
-![Monsieur le maire de Los Santos : Henry G. Carter](  /content/images/2005/01/henrygcarter.jpg)
+![Monsieur le maire de Los Santos : Henry G. Carter](/content/images/2005/01/henrygcarter.jpg)
+_Monsieur le maire de Los Santos : Henry G. Carter_
 
 Le maire de Los Santos a lui aussi laisser entendre sa voix, voici un extrait de sa déclaration :
 

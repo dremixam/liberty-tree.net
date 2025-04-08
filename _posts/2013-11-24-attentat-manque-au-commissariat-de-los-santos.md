@@ -12,7 +12,8 @@ Terreur et hilarité à Los Santos ce matin, en effet, hier vers 16 h, un groupe
 
 L'engin explosif qu'ils ont utilisé étant un mélange de produits issus de l'agriculture biologique et de récupérations diverses dans les poubelles de grandes enseignes (fumier, huile de colza et divers déchets végétaux), la bombe n'a fait que détruire le moteur du véhicule utilisé lors du déclenchement de la bombe, dissimulée dans le moteur. Les enquêteurs n'ont toujours pas déterminé pour quelle raison ils ont préféré le moteur au coffre de la voiture.
 
-![Le véhicule volé qui a servi au méfait.](  /content/images/2016/06/gallery2.jpg)
+![Le véhicule volé qui a servi au méfait.](/content/images/2016/06/gallery2.jpg)
+_Le véhicule volé qui a servi au méfait._
 
 Ce sont les agents de police en poste devant le commissariat, hilares, qui ont procédé à l'arrestation des terroristes, qu'ils ont identifié dans un premier temps comme étant "des hippies communistes fumeurs de crack".
 

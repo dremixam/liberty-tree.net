@@ -34,7 +34,7 @@ Suite à ces déclarations, nous sommes allés trouver le Commissaire Moore à s
 
 Tous les autres jurés ont refusé de nous recevoir pour parler du verdict. En tout cas, la firme n'est pas blanche comme neige et le rôle du Gouverneur dans cette affaire reste énigmatique. L'ADNPSA a déjà fait appel auprès du Tribunal Fédéral de San Fierro. Pourtant, l'association semble déjà croire que tout est perdu d'avance. L'issue de ce procès démontre de fort belle manière que la justice de notre pays n'est pas des plus exemplaires. A bon entendeur, salut.
 
-![](  /content/images/2005/01/Tribunal2.jpg)
+![](/content/images/2005/01/Tribunal2.jpg)
 
 Le président de l'ADNPSA est sorti du tribunal en colère où un taxi l'attendait
 

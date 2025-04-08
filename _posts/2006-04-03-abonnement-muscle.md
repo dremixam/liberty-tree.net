@@ -10,7 +10,7 @@ tags:
 
 Les habitants de Los Santos en ont assez ! Le prix des abonnements de la salle de musculation "Ganton Gym" ont une fois de plus augmentés et ce pour la 3ème fois en un mois...
 
-![](  /content/images/2005/01/gantongym.jpg)
+![](/content/images/2005/01/gantongym.jpg)
 
 Les plaintes fusent dans tous les sens, jusqu'au courrier des lecteurs du Liberty Tree. Le propriétaire de la salle de musculation & fitness "Ganton Gym" de Los Santos a revu à la hausse le prix de ses abonnements pour la troisième fois en à peine un mois.
 
@@ -34,9 +34,8 @@ Ces caprices d'esthètes peuvent finir par coûter cher. En effet, sachant qu'un
 > 
 > **LT :** Cassius, encore merci de nous avoir accordé un peu de votre temps !
 
-![](  /content/images/2005/01/Cassius_Ali.jpg)
-
-![](  /content/images/2005/01/gymint.jpg)
+![](/content/images/2005/01/Cassius_Ali.jpg)
+![](/content/images/2005/01/gymint.jpg)
 
 Cassius Ali s’entraîne à Ganton Gym tous les jours, ce qui n'est plus le cas pour une majorité de sportifs ne pouvant plus payer un abonnement au prix exorbitant...
 
@@ -52,7 +51,8 @@ Nous avons aussi obtenus une courte entrevue avec Tom Player, propriétaire de l
 > 
 > **LT :** Pas de problème M. Player, nous vous remercions pour ces quelques mots.
 
-![Tom Player, propriétaire de Ganton Gym nous a accordé une courte entrevue dans son apparemment près de Rodeo...](  /content/images/2005/01/Tom_Player.jpg)
+![Tom Player, propriétaire de Ganton Gym nous a accordé une courte entrevue dans son apparemment près de Rodeo...](/content/images/2005/01/Tom_Player.jpg)
+_Tom Player, propriétaire de Ganton Gym nous a accordé une courte entrevue dans son apparemment près de Rodeo..._
 
 Tom Player n'as visiblement pas envie de s’étaler d'avantages sur cette sombre histoire de hausse des cotisations. Certaines personnes dont nous tairons les noms nous racontent que Player n'arriverait plus à payer sa "protection" de la Mafia de Los Santos et que ce serait la raison majeure de ce besoin d'argent. La langue de bois l'emportant sur l'information, nous n'en saurons pas plus pour l'instant, mais le propriétaire du Ganton Gym fera à coup sûr bientôt parler de lui...
 

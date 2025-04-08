@@ -18,11 +18,9 @@ Starfish Island :
 
 Cette île, située en plein milieu de la liaison entre les deux parties de Vice City, est la plus chic de toute la ville. Certes, vous n'y trouverez pas énormément de monde mais les quelques maisons que vous pourrez voir sont d'un extrême luxe. C'est là que les riches trafiquants investissaient dans les années 80. La maison la plus célèbre de l'île est celle qui appartenait à un certain Diaz et qui depuis fut rachetée par un habitant de Las Vanturas qui avait décroché le gros lot aux machines à sous.
 
-![](  /content/images/2005/01/diaz.jpg)
-
-![](  /content/images/2005/01/starfish2.jpg)
-
-![](  /content/images/2005/01/starfishVC.jpg)
+![](/content/images/2005/01/diaz.jpg)
+![](/content/images/2005/01/starfish2.jpg)
+![](/content/images/2005/01/starfishVC.jpg)
 
 Leaf Links Golf :
 
@@ -30,11 +28,9 @@ Ce golf est bien l'un des seuls de notre pays. C'est pour cela que des joueurs d
 
 Des terrains de tennis sont aussi mis à la disposition de tous les touristes.
 
-![](  /content/images/2005/01/golf.jpg)
-
-![](  /content/images/2005/01/golf2.jpg)
-
-![](  /content/images/2005/01/golf3.jpg)
+![](/content/images/2005/01/golf.jpg)
+![](/content/images/2005/01/golf2.jpg)
+![](/content/images/2005/01/golf3.jpg)
 
 Stade Hyman Memorial :
 
@@ -42,9 +38,8 @@ Ce stade très célèbre fut érigé en 1979 pour enrayer l'invasion des courses
 
 Dans cette gigantesque arène, vous pourrez assister à des courses d'obstacles sur le Dirt Ring, à des courses Hot Ring Stock Racing ou encore des épreuves de survies en voiture plus communément appelées Blood Ring Destruction Derby. Rien n'empêche aussi que vous y participiez. Dans ce cas, contactez l'office du tourisme de Vice City située sur Ocean Drive et réservez un lit aux urgences au cas où ...
 
-![](  /content/images/2005/01/hyman.jpg)
-
-![](  /content/images/2005/01/hyman2.jpg)
+![](/content/images/2005/01/hyman.jpg)
+![](/content/images/2005/01/hyman2.jpg)
 
 Malibu Club :
 
@@ -54,25 +49,22 @@ Pole Position :
 
 Vous voulez vous divertir entre amis après une charmante soirée alcoolisée au Malibu ? Rendez vous à Ocean Beach et passez la porte du Pôle Position. Cette boite de Strip-tease renferme tous les filles les plus désirables et par conséquent les plus siliconées de tout la ville. Vous pourrez vous payer une strip-teaseuse personnelle mais vous risquez d'en avoir pour votre argent. Cependant, il est formellement interdit de repartir avec la danseuse de vos fantasmes ! On ne touche qu'avec les yeux !
 
-![](  /content/images/2005/01/pole.jpg)
-
-![](  /content/images/2005/01/pole_2.jpg)
+![](/content/images/2005/01/pole.jpg)
+![](/content/images/2005/01/pole_2.jpg)
 
 Vice Port :
 
 Quel port ! Non pas moi, mais le grandiose espace naval situé au sud de la ville. Les plus gros paquebots y sont entreposés déposant des touristes du monde entier. L'activité industrielle y est fortement élevée. On y produit bateaux et autres matériaux liés au transport maritime et des centaines de camions viennent livrer et charger chaque jour des commandes qui proviennent des quatre coins du globe...
 
-![](  /content/images/2005/01/vice%20port.jpg)
-
-![](  /content/images/2005/01/vice%20port2.jpg)
+![](/content/images/2005/01/vice%20port.jpg)
+![](/content/images/2005/01/vice%20port2.jpg)
 
 Les plages :
 
 A Vice City, la mer est si bleue que l'on dirait de l'eau de javel. Quel dépaysement pour les touristes des villes polluées comme Los Santos ou San Fierro. Les plages s'étendent sur toute la côte Est (soit sur une longueur de 45 kilomètres) et vous serez sûrs de trouver au moins un petit coin de paradis où vous pourrez bronzer et vous baigner tranquillement.
 
-![](  /content/images/2005/01/plage.jpg)
-
-![](  /content/images/2005/01/plage2.jpg)
+![](/content/images/2005/01/plage.jpg)
+![](/content/images/2005/01/plage2.jpg)
 
 * * *
 

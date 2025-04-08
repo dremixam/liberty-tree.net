@@ -14,9 +14,9 @@ _A San Andreas, l'obésité devient un réel problème. Le Gouverneur a pris des
 
 Il y a déjà une semaine, le Gouverneur de l'Etat de San Andreas, Etat le plus riche d'Amérique devant la Californie, instaurait de nouvelles mesures pour contrer l'augmentation démentielle de personnes obèses dans l'état. Aujourd'hui, les grandes chaînes de fast-food comme Cluckin' Bell ou encore Burger Shot, qui étaient directement concernées par ces mesures, se sont associées pour traduire en justice l'Etat de San Andreas pour "censure abusive" et "abus de pouvoir". En effet, le Gouverneur avait annoncé que les personnes mineurs de moins de dix-huit ans se verraient interdire l'accès aux fast-foods, tout comme aux clubs de strip-tease et aux boîtes de nuit. Les restaurants concernés qui accueilleraient des mineurs dans leurs enceintes se verraient attribuer une amende de $1500. Mais ces mesures ayant été prises sans l'approbation du Sénat à Washington, elles ne sont pas considérées comme une loi. Ainsi, l'Association des chaînes de restauration rapide de San Andreas (FFSAA) a porté plainte contre l'Etat de San Andreas et attend un éventuel procès pour se débarrasser de ces mesures. Mais revenons un peu sur les mesures décidées par le Gouverneur.
 
-![](  /content/images/2005/01/ob_se4.jpg)
-
-![Les chaînes de restauration rapide s'associent pour lutter contre les mesures du Gouverneur](  /content/images/2005/01/ob_se6.jpg)
+![](/content/images/2005/01/ob_se4.jpg)
+![Les chaînes de restauration rapide s'associent pour lutter contre les mesures du Gouverneur](/content/images/2005/01/ob_se6.jpg)
+_Les chaînes de restauration rapide s'associent pour lutter contre les mesures du Gouverneur_
 
 Discours du Gouverneur de l'Etat de San Andreas, San Fierro :
 
@@ -24,9 +24,9 @@ Discours du Gouverneur de l'Etat de San Andreas, San Fierro :
 
 Ce discours n'avait pas fait l'unanimité auprès de la population et des tenanciers de boutiques de restauration qui se voyaient là privés de nombreux bénéfices. Mais il n'en était rien comparé aux chaînes de fast-food qui montèrent immédiatement une association pour lutter contre ces mesures qui les privaient d'une grande partie de leur clientèle. Ainsi, la FFSAA s'est alors dotée d'une dizaine d'avocats et de conseillers juridiques qui ont préparé pendant plusieurs jours leur attaque. Aujourd'hui, les services de police ont été contraints d'enregistrer la plainte et un procès sera ouvert dans quelques jours. La FFSAA demande le retrait de ces mesures et un dédommagement pour les pertes engendrées pendant l'instauration des mesures, jugées tyranniques par les avocats de l'association. La somme demandée par la FFSAA s'élèverait à $150 000, une somme que l'Etat de San Andreas n'est pas enclin à verser. Le procès départagera les deux parties. Pour l'heure, nous avons rencontré Yann Winter, un adolescent en surcharge pondérale
 
-![](  /content/images/2005/01/ob_se2.jpg)
-
-![Yann souffre beaucoup de son obésité : ses capacités physiques sont réduites](  /content/images/2005/01/ob_se5.jpg)
+![](/content/images/2005/01/ob_se2.jpg)
+![Yann souffre beaucoup de son obésité : ses capacités physiques sont réduites](/content/images/2005/01/ob_se5.jpg)
+_Yann souffre beaucoup de son obésité : ses capacités physiques sont réduites_
 
 > **Liberty Tree :** Comment vivez-vous votre surpoids ?
 
@@ -40,7 +40,8 @@ Ce discours n'avait pas fait l'unanimité auprès de la population et des tenanc
 
 > **YW :** Il se situe près de Angel Pine. Ça s'appelle "Pig's Fort" et c'est tenu par un ancien sergent instructeur du corps des marines. Il paraît que c'est difficile, mais je sais que je peux le faire.
 
-![Yann se fait "chambrer" par des jeunes de son quartier](  /content/images/2005/01/ob_se1.jpg)
+![Yann se fait "chambrer" par des jeunes de son quartier](/content/images/2005/01/ob_se1.jpg)
+_Yann se fait "chambrer" par des jeunes de son quartier_
 
 A première vue, les habitants de San Andreas ne sont pas prêts à faire baisser les chiffres concernant le taux d'obésité mais certaines personnes concernées et motivées comme Yann Winter ont encore à coeur de redevenir "normaux", comme disait le Gouverneur. Le procès entre la FFSAA et l'Etat de San Andreas sera ouvert prochainement à la Cour Suprême de San Fierro.
 

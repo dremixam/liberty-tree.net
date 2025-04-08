@@ -9,9 +9,9 @@ tags:
 
 Hier, vers 22 h, une personne qui se promenait dans le coin était au mauvais endroit au mauvais moment. Puisque sur un des toits de Conference Center, quartier des affaires de Los Santos, un sniper qui n'hésitera pas à envoyer dans le pauvre homme trois balles dans différents points vitaux (cœur, tête et bas du ventre). La police encerclent alors les lieux du drame rapidement, mais l'histoire continue, les policiers pensant que le tireur avait fuit encerclent tranquillement la zone et là, un autre coup de feu, celui-ci pour un policier à nouveau dans un point vital. Le FBI arrive alors sur place et bloque tout le quartier et arrête tout les passants, n'importe qui pouvant être le tireur. Le blocus durera jusqu'à 4h du matin, des personnes ont même été logées sur place dans des endroits mis en place par des volontaires et des bénévoles.
 
-![](  /content/images/2005/01/meutreCF1.jpg)
-
-![Les deux personnes assassinées (photo témoin)](  /content/images/2005/01/meutreCF2.jpg)
+![](/content/images/2005/01/meutreCF1.jpg)
+![Les deux personnes assassinées (photo témoin)](/content/images/2005/01/meutreCF2.jpg)
+_Les deux personnes assassinées (photo témoin)_
 
 Un hélicoptère est également envoyé sur place pour scruter les toits à l'aide d'une caméra thermique (pouvant détectée la chaleur du corps). Aucun résultat, le sniper s'était bel et bien enfui. Des investigateurs sont dépêchés sur place et analyse tout les toits, aucune douille ne sera retrouvée, ni aucune trace du fusil ainsi que du sniper, seul indice : un mot laissé par le tueur.
 
@@ -19,11 +19,10 @@ Un hélicoptère est également envoyé sur place pour scruter les toits à l'ai
 
 L'étrange est également présent dans cette affaire, la lettre est signée par "Le&nbsp; vengeur". Pour l'instant, malgré des recherches, aucun indice n'a pu être dégagé de la signature. L'analyse de la lettre est en cours pour retrouver toute traces permettant de faire avancer l'enquête.
 
-![La police bouclant le quartier](  /content/images/2005/01/blocusFBI2.jpg)
-
-![](  /content/images/2005/01/blocusFBI1.jpg)
-
-![Les forces de l'ordre inspectant toutes les voitures](  /content/images/2005/01/blocusFBI3.jpg)
+![La police bouclant le quartier](/content/images/2005/01/blocusFBI2.jpg)
+_La police bouclant le quartier_[](/content/images/2005/01/blocusFBI1.jpg)
+![Les forces de l'ordre inspectant toutes les voitures](/content/images/2005/01/blocusFBI3.jpg)
+_Les forces de l'ordre inspectant toutes les voitures_
 
 Les policiers chargés de l'enquête sont David Caine (Chef du LSPD) ainsi que&nbsp; le lieutenant Geoffroy Bloomberg, chef de la police scientifique de Los Santos. Nous avons recueilli le témoignage d'une des personnes présentes au drame.
 

@@ -8,9 +8,10 @@ tags:
 - los-santos
 ---
 
-En réponse à la [hausse de 160 % du taux de criminalité](  /2013/12/21/une-augmentation-de-160---de-la-criminalite-a-los-santos--/) à Los Santos, le maire a décidé de lancer un nouveau programme de réinsertion visant à reconvertir les criminels en fonctionnaires de police.
+En réponse à la [hausse de 160 % du taux de criminalité](/2013/12/21/une-augmentation-de-160---de-la-criminalite-a-los-santos--/) à Los Santos, le maire a décidé de lancer un nouveau programme de réinsertion visant à reconvertir les criminels en fonctionnaires de police.
 
-![L'hôtel de ville.](  /content/images/2016/06/Mairie_0.jpg)
+![L'hôtel de ville.](/content/images/2016/06/Mairie_0.jpg)
+_L'hôtel de ville._
 
 > Le problème de cette ville c'est qu'il y a beaucoup plus de criminels que de policiers, quoi de mieux pour pallier ce problème que de transformer les criminels en policiers pour inverser la balance ?
 
@@ -22,7 +23,8 @@ C'est avec beaucoup de surprise que l'on apprend qu'un des nouveaux agents a (d�
 
 > L'individu était en face de moi, j'lui ai dit "tu bouges, j'te pète" et tu sais ce qu'il a eu l'culot d'faire ? Il a levé les mains en l'air s'bouffon ! J'lui ai mis une balle entre les deux yeux. Il a moins bougé après. On rigole pas avec The Snake !
 
-![L'agent incriminé.](  /content/images/2016/06/Agent.jpg)
+![L'agent incriminé.](/content/images/2016/06/Agent.jpg)
+_L'agent incriminé._
 
 Les erreurs commises par ces nouveaux officiers ne s'arrêtent pas là. En effet, certains d'entre eux profitent de leur nouveau statut à des fins non légales.
 
@@ -32,12 +34,14 @@ J'ai pensé qu'il serait intéressant d'interroger les membres de gangs afin de 
 
 > C'est des traîtres ! Un jour on défonce des policiers avec des potes et le lendemain on se retrouve à tirer sur ces mêmes potes ! Vous imaginez un peu comment c'est difficile pour nous ? C'est un coup du gouvernement, ils veulent nous détruire ! Bon, assez blablaté, choppez-le les gars !
 
-![Les membres interrogés.](  /content/images/2016/06/GANG.jpg)
+![Les membres interrogés.](/content/images/2016/06/GANG.jpg)
+_Les membres interrogés._
 
 On constate ici une jeunesse en détresse qui exprime ses craintes, juste avant de se lancer à ma poursuite pour me voler mes vêtements.
 
 Toutefois, le programme s'avère être efficace puisque la plupart des nouveaux crimes ne sont pas commis par des civils, mais par ces nouveaux policiers, qui n'ont de "policier" que l'insigne.
 
-![LSPD, toujours là pour vous.](  /content/images/2016/06/0_0%20%283%29_3.jpg)
+![LSPD, toujours là pour vous.](/content/images/2016/06/0_0%20%283%29_3.jpg)
+_LSPD, toujours là pour vous._
 
 <!--kg-card-end: markdown-->

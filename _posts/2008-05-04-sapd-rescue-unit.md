@@ -19,11 +19,9 @@ En effet, ces policiers sont recrutés parmi les meilleurs éléments du SAPD. I
 
 Pour accomplir leur mission, ils bénéficient des meilleurs équipements: lunettes de vision nocturne, quads et même des hélicoptères Raindance et Sparrow.
 
-![](  /content/images/2005/01/raindance.jpg)
-
-![](  /content/images/2005/01/quad.jpg)
-
-![](  /content/images/2005/01/sparrow.jpg)
+![](/content/images/2005/01/raindance.jpg)
+![](/content/images/2005/01/quad.jpg)
+![](/content/images/2005/01/sparrow.jpg)
 
 Les hommes de cette unité crée en 1960 par le gouverneur Harry K. Milka gagnent entre 1000 et 3000 $ par mois pour 50 heures de travail hebdomadaire.Ils doivent en général faire entre 2 et 5 interventions par jour en plus de 2 heures d'entraînement quotidien.
 
@@ -33,7 +31,8 @@ Les interventions consistent la plupart du temps à venir en aide à des promene
 
 Nous raconte le lieutenant Ivan Creed
 
-![Le sergent McClyne](  /content/images/2005/01/sergent.jpg)
+![Le sergent McClyne](/content/images/2005/01/sergent.jpg)
+_Le sergent McClyne_
 
 "Notre métier n'est pas facile et on gagne pas grand-chose. Mais on le fait par passion.", nous confie le sergent John McClyne. Ce quinquagénaire a travaillé pendant 20 ans dans cette unité et peut à présent songer à une retraite bien méritée.
 

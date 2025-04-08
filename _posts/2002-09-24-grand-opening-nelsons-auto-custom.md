@@ -23,13 +23,9 @@ Vous préférez commander votre nouveau véhicule via Internet? Cliquez ici et v
 Je vous laisse jeter un coup d’œil aux premiers clichés datant du jour de l'ouverture et espère vous voir très bientôt chez NelsoN's Auto Custom ! (ndrc: mais laissez lui quand même le temps d’écrire ses articles ;))
 
 Re-ndrc: Le NAC a maintenant son propre site web: [http://nac.shacknet.nu](http://nac.shacknet.nu)
-
-![](  /content/images/2016/07/nelsons.jpg)
-
-![](  /content/images/2016/07/nelsons2.jpg)
-
-![](  /content/images/2016/07/nelsons3.jpg)
-
-![](  /content/images/2016/07/nelsons4.jpg)
+![](/content/images/2016/07/nelsons.jpg)
+![](/content/images/2016/07/nelsons2.jpg)
+![](/content/images/2016/07/nelsons3.jpg)
+![](/content/images/2016/07/nelsons4.jpg)
 
 <!--kg-card-end: markdown-->

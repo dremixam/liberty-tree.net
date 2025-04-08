@@ -12,13 +12,13 @@ _Los Santos, l'une des plus grandes villes du pays, représente très bien la vi
 
 Nous allons aujourd'hui aborder le sujet de la gourmandise, réel fléau pour les médecins, banquiers, époux et pour les yeux. En effet, nous connaissons plusieurs types de gourmandises. Commençons par le plus évident : la gourmandise liée à la nourriture.
 
-![Burger Shot](  /content/images/2016/06/13_1.jpg)
-
-![Cluckin' Bell](  /content/images/2016/06/13_7.jpg)
+![Burger Shot](/content/images/2016/06/13_1.jpg)
+_Burger Shot_[Cluckin' Bell](/content/images/2016/06/13_7.jpg)
 
 Les principales entreprises de restauration rapide du pays, Burger Shot et Cluckin' Bell ont toutes les deux plus de 13,2 milliards de dollars de chiffre d'affaire dont 2,8 milliards seulement à LS.
 
-![Carla Fatty.](  /content/images/2016/06/13_2.jpg)
+![Carla Fatty.](/content/images/2016/06/13_2.jpg)
+_Carla Fatty._
 
 Nous nous sommes entretenus avec une cliente très fidèle du Burger Shot, Carla Fatty :
 
@@ -34,7 +34,8 @@ Nous nous sommes entretenus avec une cliente très fidèle du Burger Shot, Carla
 > 
 > **C.F :** Parce que c'est trop bon, haha !
 
-![Ray Birk.](  /content/images/2016/06/13_6.jpg)
+![Ray Birk.](/content/images/2016/06/13_6.jpg)
+_Ray Birk._
 
 Nous avons également parlé avec Ray Birk, client régulier de Cluckin' Bell :
 
@@ -46,11 +47,12 @@ Nous connaissons tous le dicton "_Nous sommes ce que nous mangeons_", mais savon
 
 Pour le savoir, nous sommes directement allés à l'usine Cluckin' Bell "Cluckin' Bell Farms" (CBF) de Paleto Bay.
 
-![](  /content/images/2016/06/13_3.jpg)
+![](/content/images/2016/06/13_3.jpg)
 
 La CBF de Paleto Bay représente le lieu principal de production de tout San Andreas pour l'entreprise.
 
-![Chuck Henkilla.](  /content/images/2016/06/13_5.jpg)
+![Chuck Henkilla.](/content/images/2016/06/13_5.jpg)
+_Chuck Henkilla._
 
 Nous y avons rencontré, Chuck Henkilla, transporteur de marchandises pour Cluckin' Bell :
 
@@ -62,7 +64,8 @@ Nous y avons rencontré, Chuck Henkilla, transporteur de marchandises pour Cluck
 > 
 > **C.H :** Bah j'sais pas moi, j'regarde pas.
 
-![Burt Ship.](  /content/images/2016/06/13_9.jpg)
+![Burt Ship.](/content/images/2016/06/13_9.jpg)
+_Burt Ship._
 
 Nous sommes allés à la rencontre de Burt Ship, éleveur de 52 ans :
 
@@ -74,9 +77,9 @@ Nous sommes allés à la rencontre de Burt Ship, éleveur de 52 ans :
 > 
 > **B.S :** Ils m'ont dit d'pas l'dire ! Mais mes poules c'est les meilleures !
 
-Hormis la gourmandise liée à la nourriture, il y a également celle concernant l'argent. (Voir article : [http://fr.liberty-tree.net/lavarice-los-santos](  /2014/02/22/lavarice-a-los-santos/)
-
-![Pharell Johnson.](  /content/images/2016/06/13_8.jpg)
+Hormis la gourmandise liée à la nourriture, il y a également celle concernant l'argent. (Voir article : [http://fr.liberty-tree.net/lavarice-los-santos](/2014/02/22/lavarice-a-los-santos/)
+![Pharell Johnson.](/content/images/2016/06/13_8.jpg)
+_Pharell Johnson._
 
 En effet, nous avons rencontré Pharell Johnson, banquier à Lombank :
 

@@ -12,31 +12,30 @@ _Mercredi dernier ont débuté les soldes d'hiver à Los Santos. Jusqu'au 11 fé
 
 Ça y'est, les soldes sont enfin lancés à San Andreas ! Pour environ un mois, vous allez avoir droit aux clients transformés en animaux dans les rayons des plus grands magasins de l'État. Très peu échappent à la règle, et certains proposent des affaires vraiment très intéressantes, sur lesquelles on s'empresse de se ruer, quitte à casser une jambe à la vieille dame qui l'avait vu avant nous.
 
-![Dorset Drive, Rockford Hills.](  /content/images/2016/06/Soldes1_0.jpg)
+![Dorset Drive, Rockford Hills.](/content/images/2016/06/Soldes1_0.jpg)
+_Dorset Drive, Rockford Hills._
 
 Cette folie s'explique par la forte accentuation de la crise financière, qui ne cesse d'empirer, obligeant la grande majorité des gens à réduire leurs budgets. Heureusement, les soldes permettent souvent à tous et toutes de faire de bonnes affaires, les magasins souhaitant déstocker massivement avant l'arrivée de nouvelles collections. De nombreuses enseignent soldent en masse, pour attirer le plus de clients possible.
 
-![](  /content/images/2016/06/Soldes2.jpg)
-
-![](  /content/images/2016/06/Soldes3.jpg)
-
-![](  /content/images/2016/06/Soldes5.jpg)
-
-![](  /content/images/2016/06/Soldes6.jpg)
-
-![Quelques enseignes chez qui faire de bonnes affaires !](  /content/images/2016/06/Soldes7.jpg)
+![](/content/images/2016/06/Soldes2.jpg)
+![](/content/images/2016/06/Soldes3.jpg)
+![](/content/images/2016/06/Soldes5.jpg)
+![](/content/images/2016/06/Soldes6.jpg)
+![Quelques enseignes chez qui faire de bonnes affaires !](/content/images/2016/06/Soldes7.jpg)
+_Quelques enseignes chez qui faire de bonnes affaires !_
 
 Cette période est toujours assez éprouvante pour les gérants et les vendeurs des magasins, parfois victimes des déchaînements de violence des clients, impuissants devant des bagarres pour un pull, ou témoins oculaires d'incidents invraisemblables. Comme cette fois ou deux femmes se sont battues à main nues en plein rayon sous-vêtements chez Zip, ou quand un homme en a assommé un autre avec une télé soldée qu'il venait de trouver sur un étal.
 
 > _\*\*Amy, vendeuse chez Suburban : \*\*C'est vrai que les soldes, c'est la folie ! Les gens en viennent presque aux mains juste pour un t-shirt ! C'est limite effrayant, quoi ! En plus les journées sont très fatiguantes, et on finit parfois très tard. Heureusement, on est mieux payés pendant cette période._
 
-![](  /content/images/2016/06/Soldes9.jpg)
-
-![Amy et son magasin Suburban, près de Vinewood Boulevard.](  /content/images/2016/06/Soldes4.jpg)
+![](/content/images/2016/06/Soldes9.jpg)
+![Amy et son magasin Suburban, près de Vinewood Boulevard.](/content/images/2016/06/Soldes4.jpg)
+_Amy et son magasin Suburban, près de Vinewood Boulevard._
 
 Certaines personnes restent quand même plus raisonnables, et savent se montrer patientes, quitte à attendre que les magasins soient déserts pour y faire leurs emplettes. C'est ainsi le cas de Jimmy et Lily, deux étudiants rencontrés devant Ponsonbys, sur Little Portola Drive.
 
-![Jimmy et Lily, deux étudiants.](  /content/images/2016/06/Soldes8.jpg)
+![Jimmy et Lily, deux étudiants.](/content/images/2016/06/Soldes8.jpg)
+_Jimmy et Lily, deux étudiants._
 
 > **Lily :** Nous, on préfère attendre. Déjà, on attend qu'il y ait moins de monde, que les premiers jours passent, comme ça on sera plus tranquilles. Même s'il ne reste pas grand chose en général, on est toujours confiants.
 > 

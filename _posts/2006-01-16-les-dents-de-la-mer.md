@@ -20,15 +20,14 @@ En seulement cinq jours, des dizaines de personnes ont été attaquées par des 
 > 
 > **Kazunori Yamaha, touriste japonais :** Vice City est une destination agréable lorsqu'on peut aller à la plage et se baigner.
 
-![](  /content/images/2005/01/VC4.jpg)
-
-![La grande ville touristique de Vice City est désertée, la faute à des requins avides de chair fraîche.](  /content/images/2005/01/VC9.jpg)
-
-![Une association a été créée pour lutter contre les requins. Leur slogan : "Tuons-les avant qu'ils ne nous tuent". Voici un de leurs tracts.](  /content/images/2005/01/VC8.jpg)
+![](/content/images/2005/01/VC4.jpg)
+![La grande ville touristique de Vice City est désertée, la faute à des requins avides de chair fraîche.](/content/images/2005/01/VC9.jpg)
+_La grande ville touristique de Vice City est désertée, la faute à des requins avides de chair fraîche._[Une association a été créée pour lutter contre les requins. Leur slogan : "Tuons-les avant qu'ils ne nous tuent". Voici un de leurs tracts.](/content/images/2005/01/VC8.jpg)
 
 Mr Eddy Ryan est l'un des seuls survivants à l'attaque d'un requin. Les médecins ont réussi à le sauver mais son visage est couvert de cicatrices et son bras droit a été amputé au niveau du coude suite à de graves morsures.
 
-![Mr Eddy Ryan, défiguré à vie par un requin](  /content/images/2005/01/VC3.jpg)
+![Mr Eddy Ryan, défiguré à vie par un requin](/content/images/2005/01/VC3.jpg)
+_Mr Eddy Ryan, défiguré à vie par un requin_
 
 Mais cette fuite des touristes vers Los Santos inquiète le Maire de Vice City, que nous avons pu rencontrer au Malibu Club.
 
@@ -44,16 +43,18 @@ Mais cette fuite des touristes vers Los Santos inquiète le Maire de Vice City, 
 > 
 > **MVC :** Un petit billet vert par ci, un autre par là et tout est arrangé !
 
-![Le Maire de Vice City s'inquiète de l'avenir économique de sa belle ville.](  /content/images/2005/01/VC5.jpg)
+![Le Maire de Vice City s'inquiète de l'avenir économique de sa belle ville.](/content/images/2005/01/VC5.jpg)
+_Le Maire de Vice City s'inquiète de l'avenir économique de sa belle ville._
 
 Nous avons suivi Jack Foley, un mercenaire, chargé d'enrayer la menace venue de la mer. Sa tâche consiste à prendre un bateau et à chercher les requins pour ensuite les éliminer grâce à une arme à feu (fusil à pompe ou mitrailleuse). En deux heures, Jack Foley a tué quatre requins. Si ses collègues sont aussi efficaces, tout devrait être rétabli d'ici quelques jours. Mais les touristes seront beaucoup plus méfiants.
 
-![](  /content/images/2005/01/VC.jpg)
-
-![Jack Foley, mercenaire chargé d'éliminer les requins pour le compte de la Mairie de Vice City.](  /content/images/2005/01/VC2.jpg)
+![](/content/images/2005/01/VC.jpg)
+![Jack Foley, mercenaire chargé d'éliminer les requins pour le compte de la Mairie de Vice City.](/content/images/2005/01/VC2.jpg)
+_Jack Foley, mercenaire chargé d'éliminer les requins pour le compte de la Mairie de Vice City._
 
 Si Vice City s'apprête à essuyer un gouffre économique sans pareil, Los Santos est en train d'enregistrer une affluence record du nombre de touristes pour la période de Noël.
 
-![De nombreuses boutiques ont fermé suite à la fuite des touristes.](  /content/images/2005/01/VC6.jpg)
+![De nombreuses boutiques ont fermé suite à la fuite des touristes.](/content/images/2005/01/VC6.jpg)
+_De nombreuses boutiques ont fermé suite à la fuite des touristes._
 
 <!--kg-card-end: markdown-->

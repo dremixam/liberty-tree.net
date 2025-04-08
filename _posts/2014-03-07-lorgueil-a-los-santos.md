@@ -12,9 +12,8 @@ _Los Santos, l'une des plus grandes villes du pays, représente très bien la vi
 
 Aujourd'hui, nous allons plus précisément nous intéresser à l'orgueil, terrible péché représenté notamment par notre drapeau. A Los Santos, l'orgueil touche principalement les membres de gang ou de crews, les people de Vinewood et la haute société. En effet, si depuis plus de 20 ans Los Santos connaît des guerres de gangs, c'est bien à cause de l'orgueil.
 
-![Forum Drive Families](  /content/images/2016/06/12.jpg)
-
-![Grove Street Families](  /content/images/2016/06/12_1.jpg)
+![Forum Drive Families](/content/images/2016/06/12.jpg)
+_Forum Drive Families_[Grove Street Families](/content/images/2016/06/12_1.jpg)
 
 Effectivement, tout est une question de savoir lequel est le gang le plus riche, le plus classe et évidemment le plus dangereux. Mieux vaut ne pas se mettre entre les verts et les violets...
 
@@ -26,7 +25,8 @@ Vous l'aviez remarqué si vous habitez Los Santos, depuis octobre 2013, les crew
 
 Hormis les délinquants et autres voyous, Vinewood est une image même de l'orgueil. Les starlettes droguées sont même l'idole des adolescentes en découverte de leur corps et les acteurs de grosse production se considérant comme des dieux sont les préférés des petits garçons.
 
-![Mitch Zinski.](  /content/images/2016/06/12_3.jpg)
+![Mitch Zinski.](/content/images/2016/06/12_3.jpg)
+_Mitch Zinski._
 
 Nous avons rencontré Mitch Zinski, employé de Los Santos Customs :
 
@@ -34,7 +34,8 @@ Nous avons rencontré Mitch Zinski, employé de Los Santos Customs :
 
 Nous arrivons désormais au summum de l'orgueil : La haute société de LS. PDG, hommes politiques, mannequins de renommés, beaucoup se sont réellement imprégnés de ce péché.
 
-![Ciara Bale.](  /content/images/2016/06/12_4.jpg)
+![Ciara Bale.](/content/images/2016/06/12_4.jpg)
+_Ciara Bale._
 
 Nous nous sommes entretenus avec Ciara Bale, styliste chez Didier Sachs de 1999 à 2004 et Ponsonbys depuis 2005 :
 
@@ -44,7 +45,8 @@ Nous nous sommes entretenus avec Ciara Bale, styliste chez Didier Sachs de 1999 
 > 
 > **CB :** Hum... Ils étaient vraiment stupides, ne pas m'engager est une pure erreur, et ça ils l'ont maintenant compris.
 
-![A gauche : Bob Mattews. A droite : Russell Kane.](  /content/images/2016/06/12_5.jpg)
+![A gauche : Bob Mattews. A droite : Russell Kane.](/content/images/2016/06/12_5.jpg)
+_A gauche : Bob Mattews. A droite : Russell Kane._
 
 Nous avons interviewé Bob Mattews et Russell Kane, les co-fondateurs du réseau social Bleeter.
 

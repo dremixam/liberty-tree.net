@@ -17,27 +17,23 @@ Il y a quelques jours, nous avons reçu un courrier d'une association désirant 
 L'association que j'ai rencontré est encore toute jeune. Charles Stormdeker, 31 ans, en est le fondateur et les 3 autres membres de l'association sont des amis de longue date. Ou devrait-on plutôt dire, des moutons qui suivent aveuglément M.Stormdeker, beaucoup plus grand et musclé qu'eux.  
 Bref. Cette bande de joyeux lurons a élaboré une théorie intrigante à propos du monde qui nous entoure.
 
-![M.Stormdeker](  /content/images/2005/01/VIDEO_GAME_Pdt_Du_Groupe.jpg)
+![M.Stormdeker](/content/images/2005/01/VIDEO_GAME_Pdt_Du_Groupe.jpg)
+_M.Stormdeker_
 
 Tout a commencé lorsque M.Stormdeker a aperçu quelque chose de bizarre sur une photo du Gant Bridge qu'il avait pris quelques mois plus tôt. En la regardant de plus près, il a découvert de drôles d'inscriptions apposées presque en transparence sur l'image. Après un traitement numérique de la photo, les éléments suspects se sont révélés très facilement identifiables.
 
-![La mystérieuse photo prise par M.Stormdeker.](  /content/images/2005/01/VIDEO_GAME_Interface.jpg)
+![La mystérieuse photo prise par M.Stormdeker.](/content/images/2005/01/VIDEO_GAME_Interface.jpg)
+_La mystérieuse photo prise par M.Stormdeker._
 
 A partir de là, Stormdeker n'a plus cessé de penser à sa découverte et c'est ainsi qu'il a créé cette secte association. Avec ses fidèles lieutenants, il s'est lancé à la recherche d'autres preuves pouvant compléter et expliquer ce phénomène. Et en l'espace de plusieurs mois, sa collection de preuve n'a cessé d'augmenter. Objets en lévitation, individus passant à travers le sol, halo lumineux, objets solides qui traversent d'autres objets solides... les photos du groupe sont troublantes. En voici quelques unes :
 
-![](  /content/images/2005/01/VIDEO_GAME_Bug.jpg)
-
-![](  /content/images/2005/01/VIDEO_GAME_Marqueur_Jaune.jpg)
-
-![](  /content/images/2005/01/VIDEO_GAME_Etoile.jpg)
-
-![](  /content/images/2005/01/VIDEO_GAME_Camera.jpg)
-
-![](  /content/images/2005/01/VIDEO_GAME_Tec9.jpg)
-
-![](  /content/images/2005/01/VIDEO_GAME_Porti_re.jpg)
-
-![](  /content/images/2005/01/VIDEO_GAME_Marqueur_Rouge.jpg)
+![](/content/images/2005/01/VIDEO_GAME_Bug.jpg)
+![](/content/images/2005/01/VIDEO_GAME_Marqueur_Jaune.jpg)
+![](/content/images/2005/01/VIDEO_GAME_Etoile.jpg)
+![](/content/images/2005/01/VIDEO_GAME_Camera.jpg)
+![](/content/images/2005/01/VIDEO_GAME_Tec9.jpg)
+![](/content/images/2005/01/VIDEO_GAME_Porti_re.jpg)
+![](/content/images/2005/01/VIDEO_GAME_Marqueur_Rouge.jpg)
 
 Le groupuscule assure que ces images sont authentiques et c'est d'ailleurs à partir d'elles et de leurs autres observations furtives que ces fanfarons ont mis au point une théorie effarante. Ils affirment que nous vivons dans un monde virtuel. Un monde créé artificiellement par une forme de vie supérieure à la nôtre. Nous avons mené un entretien avec Charles Stormdeker :
 
@@ -59,7 +55,8 @@ Le groupuscule assure que ces images sont authentiques et c'est d'ailleurs à pa
 
 L'entretien avec M.Stormdeker s'est terminé un peu brutalement lorsque que celui-ci s'est mis à délirer et à raconter des choses sans queues ni tête. Mais heureusement, notre interlocuteur a pu être ramené à la raison rapidement grâce à l'intervention de deux hommes tout de blanc vêtus. Ils ont immédiatement pris en charge le malheureux et lui ont passé un sympathique pull sans manches avant de l'emmener à l'arrière de leur van, pieds et poings sanglés à son siège. Nous apprendrons plus tard par ses trois sous-fifres que M.Stormdeker souffrait de crises de schizophrénie, crises parfois très violentes. Ils nous ont également confiés qu'ils étaient content que tout ça se termine de cette façon et qu'ils allaient enfin pouvoir reprendre une vie normale, libérée de la peur que représentait leur gourou ami.
 
-![L'ambulance emmenant M.Stormdeker.](  /content/images/2005/01/VIDEO_GAME_Ambulance.jpg)
+![L'ambulance emmenant M.Stormdeker.](/content/images/2005/01/VIDEO_GAME_Ambulance.jpg)
+_L'ambulance emmenant M.Stormdeker._
 
 Rassurez-vous chers lecteurs, nous ne vivons pas dans un jeu vidéo. Toutes les "preuves" de Charles Stormdeker sont fausses. Notre monde est tout ce qu'il y a de plus normal, et ce n'est pas l'esprit d'un homme dérangé qui va nous faire croire le contraire. C'est aussi ça l'esprit du Liberty Tree : donner la possibilité à chacun de s'exprimer. Allez Jacky on remballe.
 

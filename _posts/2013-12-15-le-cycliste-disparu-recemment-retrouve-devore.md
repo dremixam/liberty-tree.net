@@ -12,7 +12,7 @@ Le cycliste qui avait disparu il y a quelques jours alors qu'il était parti fai
 
 Alors qu'en 1998 Los Santos avait déjà été élue ville dans laquelle on a le plus de chance d'être dévoré par un animal sauvage, d'après les célèbres analystes comme Miguel Peechter, cette année ce prix risque encore de revenir à Los Santos et ses alentours.
 
-![](  /content/images/2016/06/20131116_134215.jpg)
+![](/content/images/2016/06/20131116_134215.jpg)
 
 En effet, il y a quelques jours, la disparition du cycliste dans le parc national du Mont Chiliad était passée inaperçue à travers les nombreuses disparitions quotidiennes. Les recherches avaient été abandonnées au bout de quelques heures. Le shérif avait alors déclaré :
 
@@ -42,6 +42,7 @@ Cependant, ce matin, M. et Mme Rosbeef, deux randonneurs d'origine anglaise venu
 
 Le shérif a déclaré aux journalistes que la police avait écarté la piste criminelle et supposé que le malheureux cycliste avait été la victime d'un puma ou d'un animal sauvage. Nous tenons tout de même à signaler que la scène de crime se situe à proximité du camp de la secte des Altruistes, qui sont célèbres pour leur naturisme et leur réputations cannibales...
 
-![Le camp des Altruistes au parc national du Mount Chiliad.](  /content/images/2016/06/Gta%20V%20%282%29.jpg)
+![Le camp des Altruistes au parc national du Mount Chiliad.](/content/images/2016/06/Gta%20V%20%282%29.jpg)
+_Le camp des Altruistes au parc national du Mount Chiliad._
 
 <!--kg-card-end: markdown-->

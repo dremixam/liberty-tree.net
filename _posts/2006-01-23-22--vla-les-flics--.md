@@ -20,23 +20,23 @@ Le discours du syndicat de police n'est pas vraiment réaliste puisque le meurtr
 
 Accompagné de mon photographe Biorn, nous parcourons les rues de la ville en écoutant avec attention la radio branchée sur le signal de la police. Au bout d'un moment, nous entendons un appel qui demande aux patrouilles de police de se rendre sur la freeway au niveau de Ganton. Je démarre en trombe et me rends à l'endroit indiqué. Sur les lieux, des jeunes se font tirer dessus par des agents de police. L'un d'eux meurt d'une balle dans le crâne. Le policier responsable de ce tir s'écrie "HEADSHOT ! YEAH !. Puis les agents de police nous aperçoivent et nous tiennent en joue avec leurs armes et nous ordonnent de partir.
 
-![](  /content/images/2005/01/violence3%20%281%29.jpg)
-
-![Le jeune homme tué par un policier et les agents nous ordonnant de déguerpir](  /content/images/2005/01/violence4.jpg)
+![](/content/images/2005/01/violence3%20%281%29.jpg)
+![Le jeune homme tué par un policier et les agents nous ordonnant de déguerpir](/content/images/2005/01/violence4.jpg)
+_Le jeune homme tué par un policier et les agents nous ordonnant de déguerpir_
 
 **San Fierro**
 
 Je me rends à San Fierro, toujours accompagné de mon photographe Biorn. Nous utilisons la même radio qu'à Los Santos. Cette dernière se met à grésiller et à indiquer la position d'un dealer. Je me rends sur les lieux. Là-bas, un agent de police tue un livreur de pizza qu'il avait pris pour le dealer. Il s'éloigne du corps en disant : _"Oh fuck ! J'ai encore fait une connerie ! Bah le capitaine ne dira rien, comme d'habitude."_ Puis une voiture de patrouille ayant entendu l'appel déboule gyrophares allumés et sirènes hurlantes en écrasant une jeune femme qui marchait dans la rue. Les policiers dans la voiture sortent en rigolant : "Ahahaha ! J'en suis à huit ! Je bats le record du Sergent !". Puis les agents nous voient et viennent nous menacer avec leur matraque.
 
-![](  /content/images/2005/01/violence1%20%281%29.jpg)
-
-![Le livreur de pizza pris pour un dealer et l'agent de police ayant écrasé la jeune femme venant nous chasser](  /content/images/2005/01/violence2%20%281%29_0.jpg)
+![](/content/images/2005/01/violence1%20%281%29.jpg)
+![Le livreur de pizza pris pour un dealer et l'agent de police ayant écrasé la jeune femme venant nous chasser](/content/images/2005/01/violence2%20%281%29_0.jpg)
+_Le livreur de pizza pris pour un dealer et l'agent de police ayant écrasé la jeune femme venant nous chasser_
 
 Toujours à San Fierro, nous attendons un nouvel appel. La nuit est tombée et le central demande des renforts de patrouilles aux environs de Pier 69. Nous nous y rendons et découvrons des agents de police en train de tabasser des personnes âgées et rigolant : "Alors pépé ? T'as eu la permission de minuit ? Ahahaha !". Puis ils voient Biorn prenant des photos et nous tirent dessus. Nous parvenons à nous enfuir mais mon camarade est touché à l'épaule. Je le dépose alors à l'hôpital.
 
-![](  /content/images/2005/01/violence5.jpg)
-
-![Les agents de police ouvrant le feu sur mon photographe](  /content/images/2005/01/violence6.jpg)
+![](/content/images/2005/01/violence5.jpg)
+![Les agents de police ouvrant le feu sur mon photographe](/content/images/2005/01/violence6.jpg)
+_Les agents de police ouvrant le feu sur mon photographe_
 
 **Las Venturas**
 

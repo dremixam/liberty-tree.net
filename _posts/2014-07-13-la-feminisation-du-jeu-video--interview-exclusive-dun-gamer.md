@@ -12,7 +12,8 @@ Aujourd’hui, le monde des jeux vidéo évolue. Alors que l’on se souvient av
 
 Afin d’en savoir plus, et pour compléter cette enquête, nous sommes allés à la rencontre d’un jeune gamer, trouvé par le biais d’un forum sur le web : Jimmy De Santa.
 
-![Jimmy De Santa](  /content/images/2016/06/0_0_220.jpg)
+![Jimmy De Santa](/content/images/2016/06/0_0_220.jpg)
+_Jimmy De Santa_
 
 > **Liberty Tree :** Donc M. De Santa, parlez-nous un peu de votre expérience de jeu. Depuis quand jouez-vous ?
 > 
@@ -34,7 +35,7 @@ C’était une interview qui montre bien l’image que l’on donne aux gameuses
 
 Pour finir, nous avons recueilli quelques témoignages de passantes.
 
-![](  /content/images/2016/06/0_0_221.jpg)
+![](/content/images/2016/06/0_0_221.jpg)
 
 > **Pamela :** Personnellement, je ne joue pas parce que ça ne m’intéresse pas. Mais je pense que mon copain respecterait si je le faisais. Ma sœur est tombée accro pendant ses études, et c’est vrai qu’elle m’a déjà dit que les mecs étaient totalement machos en ligne…
 > 

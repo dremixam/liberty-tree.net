@@ -18,11 +18,10 @@ Hier Steeve Mathiew, un jeune homme de 27 ans, accompagné de sa fiancée, allai
 
 > **K.M :** Je... je... je ne sais pas... Le médecin qui l'a pris en charge ne m'a encore rien expliqué... et puis je n'ai sûrement pas envie d'aller le voir maintenant !
 
-![](  /content/images/2005/01/Filleveuve.jpg)
-
-![](  /content/images/2005/01/Mamanmoche.jpg)
-
-![(De gauche à droite ) Kathleen Moon , Sa mère , et M.Mathiew(Photo prise avant sa mort )](  /content/images/2005/01/MecMortCrise.jpg)
+![](/content/images/2005/01/Filleveuve.jpg)
+![](/content/images/2005/01/Mamanmoche.jpg)
+![(De gauche à droite ) Kathleen Moon , Sa mère , et M.Mathiew(Photo prise avant sa mort )](/content/images/2005/01/MecMortCrise.jpg)
+_(De gauche à droite ) Kathleen Moon , Sa mère , et M.Mathiew(Photo prise avant sa mort )_
 
 Voilà donc le récit de Kathleen Moon. Trouvant étonnant que le médecin n'ai pas dit tout de suite à Mlle.Moon de quoi était mort son fiancé, nous nous sommes rendus au All Saints General Hospital pour plus d'informations.
 
@@ -44,7 +43,8 @@ Accueil du A.S.G.H : Attendez... je cherche dans l'ordinateur ... Mr.Mathew vous
 
 > **LT :** Bien, on ne va pas vous déranger plus longtemps.
 
-![Le All Saints General Hospital](  /content/images/2005/01/Hallsainte.jpg)
+![Le All Saints General Hospital](/content/images/2005/01/Hallsainte.jpg)
+_Le All Saints General Hospital_
 
 Voici donc la cause du décès : une crise cardiaque. Aussi surprenant que cela puisse être, Steeve Mathiew est mort d'une crise cardiaque en voyant sa belle-mère! Nous présentons toutes nos condoléances à la famille Moon.
 

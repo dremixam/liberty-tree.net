@@ -14,6 +14,7 @@ _L’information a été communiquée récemment à la mairie de Las Venturas, l
 Voici le témoignage d’un des professeur de "l’ex-prestigieuse" Université de Las Venturas. En effet les piètres résultats de cette année démontrent que les étudiants ne s’intéressent plus aux Mathématiques ou aux Sciences mais aux jeux vidéo et à la violence accessible de plus en plus en facilement. Certains psychologues affirment que cette baisse reste très étrange puisque l’année dernière les résultats étaient bien au dessus de la moyenne nationale.
 
 ![Voici un graphique des résultats de cette année et ceux de l’année dernière]()
+_Voici un graphique des résultats de cette année et ceux de l’année dernière_
 
 Différence flagrante n’est-ce pas ? Pour essayer de trouver une autre raison que les jeux et la TV, nous sommes allé interroger la mère de l’élève le plus "catastrophique" de première année.
 
@@ -40,6 +41,7 @@ D’après plusieurs psychologues renommés, ce bouleversement est tout à fait 
 > La preuve est devant vous, regardez les résultats ! Avez-vous déjà vu quelque chose de semblable ? Moi dans ma carrière, jamais et pourtant j’ai vu des cas je peux vous le dire ! Une différence de 8 à 10 points tout au long de l’année. J’ai vu les pires élèves de San Andreas et la moyenne générale de leur classe ne descendait jamais en dessous des 9 et la différence ne dépassait en aucun cas les 5 points.
 
 ![L’agression la plus courante : les pneus crevés]()
+_L’agression la plus courante : les pneus crevés_
 
 Mais les jeunes ne s’arrêtent pas là, la drogue ou la violence mineure ne sont que des passes temps. Leurs activités favorites sont le bizutage des bons élèves, le vol et les armes. Selon un rapport de police, le nombre d’armes vendues illégalement cette année aurait atteint un taux de record de 3 458. Les contrebandiers s’en donnent à cœur joie et profite de cette augmentation de la criminalité juvénile pour faire passer de plus en plus de marchandises illicites et bien sûr en vendre. Les forces de l’ordre complètement dépassées par les événements tentent tant bien que mal d’apaiser la situation.  
 Nous avons essayé de rencontrer un de ces jeunes, malheureusement sous la menace nous n’avons pu placer aucun mot. Le gouverneur de San Andreas appel au calme et demande aux jeunes de rentrer en cours sans histoire ou il devra prendre des sanctions vis-à-vis des contrevenants (une garde à vue de 48h ou pour les possesseurs d’un casier judiciaire un alourdissement de la peine).

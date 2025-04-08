@@ -24,9 +24,8 @@ Pourtant les policiers clament haut et fort qu'ils font de leur mieux pour endig
 
 Cette habituelle complainte policière, rabâchée depuis plus d'une dizaine d'années, semble avoir enfin été entendue par le gouvernement, qui a débloqué des fonds pour la création de nouveaux postes. Les inscriptions ont débuté, et chaque jour, toujours plus de candidats se rendent au LSPD dans l'espoir de réussir les premiers tests. Comment se déroule cette évaluation ? Pour le savoir, je me suis purement et simplement inscrit. Voici le carnet de bord de cette sympathique matinée.
 
-![](  /content/images/2005/01/flik2.jpg)
-
-![](  /content/images/2005/01/flik3.jpg)
+![](/content/images/2005/01/flik2.jpg)
+![](/content/images/2005/01/flik3.jpg)
 
 **05h00:** La journée démarre sur les chapeaux de roue ! Arrivé au LSPD, le standard me dirige vers une salle réservée ou l'officier Happytrigger briefe cinq aspirants policiers. Il m'apostrophe joyeusement :
 
@@ -46,7 +45,7 @@ Mon voisin de droite lève timidement la main.
 
 L'homme chauve et rabougri devant moi se met à trembloter et à suer plus que de raison. Soudain, un appareil photo s'échappe de sa sacoche et tombe sur le sol dans un shling sonore. On le prie gentiment de quitter la salle. Il va falloir jouer serré.
 
-![](  /content/images/2005/01/flik4.jpg)
+![](/content/images/2005/01/flik4.jpg)
 
 **06h14:** Happytrigger nous invite à le suivre vers le parking sous-terrain du LSPD, où nous allons effectuer quelques épreuves de conduite.
 
@@ -54,9 +53,8 @@ L'homme chauve et rabougri devant moi se met à trembloter et à suer plus que d
 
 L'exercice est donc fort simple : tandis que l'officier roule à allure certaine dans le parking, l'un des élèves, à bord d'un véhicule de patrouille, doit l'immobiliser. Le premier volontaire effectue la manœuvre avec entrain, jugée satisfaisante par l'officier. En revanche la deuxième tentative s'avère désastreuse, le candidat dérapant un poil trop fort et s'écrasant lourdement contre la Comet personnelle de Happytrigger. "Mais minable cloporte ! Ma bagnole !" s'écrie-t-il.
 
-![](  /content/images/2005/01/flik5.jpg)
-
-![](  /content/images/2005/01/flik6.jpg)
+![](/content/images/2005/01/flik5.jpg)
+![](/content/images/2005/01/flik6.jpg)
 
 **08h27:** Pendant que le fauteur de trouble s'explique avec Happytrigger dans son bureau, un autre policier nous prend en charge, l'officier Donald White. L'épreuve de conduite posant quelques problèmes de sécurité, on passe directement à une activité moins dangereuse, le maniement d'armes à feu. Direction l'Ammu-Nation de Downtown Los Santos.
 
@@ -66,9 +64,8 @@ L'exercice est donc fort simple : tandis que l'officier roule à allure certaine
 
 Après un rapide briefing sur le maniement des armes, l'épreuve de tir commence. A l'exception d'un de nos camarades, qui au bout de deux heures n'aura touché que quatre fois la cible, ainsi que son propre bras gauche, nous nous en sortons plutôt bien. Le tenancier, qui n'apprécie guère les traces de sang sur son parquet, grogne.
 
-![](  /content/images/2005/01/flik7.jpg)
-
-![](  /content/images/2005/01/flik8.jpg)
+![](/content/images/2005/01/flik7.jpg)
+![](/content/images/2005/01/flik8.jpg)
 
 **11h14:** Les secours évacuent notre comparse, et White, satisfait, déclare que nous avons bien mérité une pause donut. "Si vous témoignez le même entrain à charcuter des cibles vivantes, vous ferez de parfaits agents !"
 
@@ -78,7 +75,7 @@ Après un rapide briefing sur le maniement des armes, l'épreuve de tir commence
 
 Pour se tirer des situations les plus périlleuses, un bon reporter doit pouvoir vomir sur commande, ou, en l’occurrence, sur un officier de police. Je réussis à faire mon petit effet : White, furieux et plein de répugnante gerbe, me déclare inapte à continuer la formation. Je suis recalé ! Fantastique.
 
-![](  /content/images/2005/01/flik9.jpg)
+![](/content/images/2005/01/flik9.jpg)
 
 Le recrutement massif d'agents de police continue. Bien que cette initiative semble bienvenue, nos concitoyens sont en droit de se demander si la situation n'est pas trop alarmante pour faire appel à des novices, même bien encadrés. Par ailleurs, l'administration semble avoir privilégié une fois de plus le rapport de force pour régler les problèmes de délinquance, ce qui jusqu'ici s'est avéré inefficace. Le Liberty Tree vous tiendra bien sûr informé de la tournure des événements.
 

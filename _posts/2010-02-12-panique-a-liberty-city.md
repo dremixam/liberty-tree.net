@@ -11,7 +11,8 @@ Depuis la sortie hier du blockbuster 2021, les personnes qui sortent des salles 
 
 Les émeutes provoquées par les foules qui s’entassent un peu partout causent de grandes perturbations, notamment en centre ville, où la situation tend à se débloquer peu à peu, mais avec difficulté provoquant des embouteillages incessants et l’agacement des riverains qui travaillent ou vivent dans cette zone. Le transport aérien a lui aussi été touché, deux vols ont été annulés et plusieurs autres retardés, par l’envahissement de la piste par des personnes tentant d’échapper à leur fin fictive.
 
-![Bouchons sur Star Junction](  /content/images/2007/06/bouchon.jpg)
+![Bouchons sur Star Junction](/content/images/2007/06/bouchon.jpg)
+_Bouchons sur Star Junction_
 
 Le député maire, Bryce Dawkins, a immédiatement réagit dans une conférence de presse qui s’est organisée très rapidement ce matin. Voici les informations importantes que l’on peut en tirer :
 

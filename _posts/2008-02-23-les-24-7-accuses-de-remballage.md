@@ -12,14 +12,17 @@ _Scandale à Los Santos, les 24/7, magasins bons marchés, sont accusés de remb
 Samedi 26 janvier, 14:05 pm - Un habitant du quartier de Marina est admis d’urgence à l’All Saints General Hospital de la ville pour cause d'intoxication alimentaire. La cause d'un tel accident est l'ingestion d'une viande avariée. Mais cette viande ne venait pas des fast-foods comme beaucoup le pensaient, mais du 24/7 de El Corona, à Los Santos.
 
 ![24/7, des magasins pas cher!]()
+_24/7, des magasins pas cher!_
 
 Mais qu'est-ce exactement le remballage? Il s'agit de remballer des viandes périmées en prenant soin de retirer les parties visibles qui n'ont pas l'air appétissantes. Ce procédé est donc totalement illégal et malsain et à pour but de ne rien "jeter". On considère aujourd'hui 8% des viandes du marché comme remballées! Scandaleux me direz-vous!
 
 !["On considère aujourd'hui 8% des viandes du marché comme remballées!"]()
+_"On considère aujourd'hui 8% des viandes du marché comme remballées!"_
 
 Mais ce qui est plus scandaleux, c'est de savoir que le magasin de votre quartier pratique ce procédé et que vous avez peut-être consommé une de ces viandes. C'est exactement ce qui est arrivé à peu de temps: Afin de mieux comprendre ce principe, nous avons pu récupérer le témoignage d’Annick, ex-chef de rayon du 24/7 de El Corona:
 
 ![Le 24/7 de El Corona est le plus grand de Los Santos.]()
+_Le 24/7 de El Corona est le plus grand de Los Santos._
 
 > **Liberty Tree :** Merci d'avoir accepté de témoigner à visage découvert.
 
@@ -46,6 +49,7 @@ Mais ce qui est plus scandaleux, c'est de savoir que le magasin de votre quartie
 > **Annick :** On faisait beaucoup de promos... Désolé mais là j'en ai déjà trop dit...
 
 ![Annick, ex-chef de rayon du 24/7]()
+_Annick, ex-chef de rayon du 24/7_
 
 Des promos: voilà comment les gérants du 24/7 faisait pour écouler les stocks de viandes avariées.
 
@@ -56,6 +60,7 @@ Mais pourquoi seulement dans ce magasin? Tout simplement parce que le Gouverneme
 Le gérant du 24/7 en question, Mr. John Linkson, ainsi que le Directeur Mr Line Gultins de l'enseigne 24/7 de San Andreas sont attendus lundi devant la San Fierro Court House. Le malade, quant à lui, admis à l'hôpital demande 1.500$ de dommages & intérêts.
 
 ![Mr. John Linkson, gérant du 24/7 de El Corona]()
+_Mr. John Linkson, gérant du 24/7 de El Corona_
 
 Tout ceci nous fait peur, car on doit commencer à se méfier de tout, même du magasin au bout de la rue où l'on fait ses courses chaque jour pour nourrir nos enfants. Où va t'on si l'on doit même contrôler ce qu'il y a dans nos assiettes?
 

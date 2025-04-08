@@ -21,26 +21,25 @@ C’est Tom Buscarri, un jeune homme de 29 ans, jusque là encore inconnu des fo
 
 Mais l’histoire ne s’arrêta pas là, il fallait des preuves, et c’est là que le vrai travail commença. Les planques et les caméras embarquées ont été mises en place pendant plus de 60 jours..
 
-![](  /content/images/2005/01/surveillance.jpg)
-
-![Quelques exemples de planques.](  /content/images/2005/01/surveillance_violeur.jpg)
+![](/content/images/2005/01/surveillance.jpg)
+![Quelques exemples de planques.](/content/images/2005/01/surveillance_violeur.jpg)
+_Quelques exemples de planques._
 
 C’est après 2 mois, trois semaines et six jours de recherche que l’équipe du SWAT se préparait à donner l’assaut.  
 Mais il restait toujours un problème, Tom Buscarri était parti à Liberty City rendre visite à ses parents et c’est à son retour que l’arrestation a eu lieu.
 
 Cependant, voici quelques preuves trouvées à son domicile qui montrerait son faible pour les jolies femmes et les grosses cylindrées :
 
-![](  /content/images/2005/01/magazines.jpg)
-
-![](  /content/images/2005/01/Halte_pig_pen.jpg)
-
-![](  /content/images/2005/01/vetements_.jpg)
-
-![Photos de ses vêtements qui était en vrac à côté d’une femme liée.](  /content/images/2005/01/prostituee_liee.jpg)
+![](/content/images/2005/01/magazines.jpg)
+![](/content/images/2005/01/Halte_pig_pen.jpg)
+![](/content/images/2005/01/vetements_.jpg)
+![Photos de ses vêtements qui était en vrac à côté d’une femme liée.](/content/images/2005/01/prostituee_liee.jpg)
+_Photos de ses vêtements qui était en vrac à côté d’une femme liée._
 
 Mais la police a aussi retrouvé une photo qui serait dans toute les pièces de la maison.
 
-![Photo "mystère"](  /content/images/2005/01/photo_mystere.jpg)
+![Photo "mystère"](/content/images/2005/01/photo_mystere.jpg)
+_Photo "mystère"_
 
 J’ai interrogé un des policiers pour un savoir un peu plus sur cette affaire :
 
@@ -54,6 +53,7 @@ J’ai interrogé un des policiers pour un savoir un peu plus sur cette affaire 
 
 > **L’ex-petite amie :** C’est après la mort de son frère que Tom a changé d’attitude, il devenait pensif et il a commencé à me frapper puis il est devenu soudain étrange, c’est pour cela que je l’ai quitté.
 
-![Mary Cole, son ex-petite amie](  /content/images/2005/01/Mary_Cole.jpg)
+![Mary Cole, son ex-petite amie](/content/images/2005/01/Mary_Cole.jpg)
+_Mary Cole, son ex-petite amie_
 
 <!--kg-card-end: markdown-->

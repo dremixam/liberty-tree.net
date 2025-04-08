@@ -16,7 +16,7 @@ Démarrer le moteur vous donne des frissons dans le dos!
 Mais venons-en aux détails.  
 Véhicule de sport quelque peu onéreux, l'Infernus est la voiture préférée de la Jet-Set Libertiène. En effet, sa ligne fluide et son doux bruit ne laisse personne indifférent.
 
-![](  /content/images/2016/07/Infernus.jpg)
+![](/content/images/2016/07/Infernus.jpg)
 
 Autant vous dire que question vitesse, l'Infernus bat les records : 248 KM/H en ligne droite!  
 La tenue de route n'est pas mauvaise malgré sa propulsion arrière. J'ai pris un virage pour le moins serré à vitesse élevée et les pneus on collés à la route avec un léger crissement mais sans effet "savonnette au fond de la baignoire"!
@@ -48,16 +48,11 @@ Je pourrais conclure en vous disant que l'Infernus est une voiture superbe etc..
 
 Mais je préfère laisser parler les photos. A la semaine prochaine et bonne route!
 
-![](  /content/images/2016/07/Infernus2.jpg)
-
-![](  /content/images/2016/07/Infernus3.jpg)
-
-![](  /content/images/2016/07/Infernus5.jpg)
-
-![](  /content/images/2016/07/Infernus6.jpg)
-
-![](  /content/images/2016/07/Infernus7.jpg)
-
-![](  /content/images/2016/07/Infernus8.jpg)
+![](/content/images/2016/07/Infernus2.jpg)
+![](/content/images/2016/07/Infernus3.jpg)
+![](/content/images/2016/07/Infernus5.jpg)
+![](/content/images/2016/07/Infernus6.jpg)
+![](/content/images/2016/07/Infernus7.jpg)
+![](/content/images/2016/07/Infernus8.jpg)
 
 <!--kg-card-end: markdown-->

@@ -10,9 +10,9 @@ tags:
 
 Les jeunes libertyciens en mal de sensations ont inventé un nouveau moyen de locomotion rapide et gratuit.
 
-Suite aux [nouvelles mesures contre la délinquance](  /2002/05/24/nouvelles-mesures-contre-la-delinquance/), qui interdisent entre autres la pratique d'un quelconque sport, les jeunes libertyciens en mal d'exercices sportifs ont inventé un nouveau moyen de locomotion rapide et gratuit.
+Suite aux [nouvelles mesures contre la délinquance](/2002/05/24/nouvelles-mesures-contre-la-delinquance/), qui interdisent entre autres la pratique d'un quelconque sport, les jeunes libertyciens en mal d'exercices sportifs ont inventé un nouveau moyen de locomotion rapide et gratuit.
 
-Après le saut de [l'ange du haut des immeubles](  /2002/05/29/base-jumping-entre-les-immeubles/), ces jeunes rebels ont décidé d'utiliser les voitures de nos honnêtes concitoyens comme des planches de surf pour ainsi 'surfer' de rue en rue jusqu'à leur destination finale.
+Après le saut de [l'ange du haut des immeubles](/2002/05/29/base-jumping-entre-les-immeubles/), ces jeunes rebels ont décidé d'utiliser les voitures de nos honnêtes concitoyens comme des planches de surf pour ainsi 'surfer' de rue en rue jusqu'à leur destination finale.
 
 Cette pratique aurait pu être acceptée par la plupart des concitoyens (malgré les affreuses traces de semelles qu'ils pouvaient laisser sur la carrosserie) si les "car riders" comme ils se surnomment ne tiraient pas sur les conducteurs pour les faire aller plus vite...
 

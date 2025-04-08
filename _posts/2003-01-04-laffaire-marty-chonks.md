@@ -14,7 +14,7 @@ Le directeur de l'usine Bitch'N'Dog (pâtée pour chiens), Marty Chonks a été 
 
 "Il a été assassiné à bout portant à l'aide d'un fusil a pompe" avait alors déclaré le sergent chef Williams, et vu comme il n'y avait aucune trace ni de l'assassin, ni de l'arme, l'affaire aurait du être classée sans suite.
 
-![](  /content/images/v1/user23/mc02.jpg)
+![](/content/images/v1/user23/mc02.jpg)
 
 Aurait du, si son dossier n'avait pas été confié à Malcolm Folks, commissaire à Portland. En effet, sur son bureau se trouvait un autre dossier, celui du Kenjis Casino de Staunton, et il a trouvé curieux d'y retrouver deux numéros de comptes bancaires offshore communs aux deux dossiers.
 

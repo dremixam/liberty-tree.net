@@ -18,12 +18,12 @@ J'ai essayé la stallion, sympathiquement prêtée par Capital Auto de Portland,
 Autant dire que ce fut un vrai régal; même si le temps n’étais pas à la bronzette, il est très agréable de rouler cheveux au vent dans notre ville!  
 En circulant à la vitesse autorisée, la Stallion peut se vanter de coller à la route, ce qui n'est pas la cas lorsque l'on dépasse de quelques miles. En effet, il ne me fallut pas moins d'un virage un peu serré à 60 miles pour me retrouver en tête-a-queue !
 
-![](  /content/images/2016/07/Stallion6.jpg)
+![](/content/images/2016/07/Stallion6.jpg)
 
 Par contre, peu importe la vitesse à laquelle on roule, la Stallion possède une capacité au freinage pour le moins surprenante.  
 A grande vitesse (110 miles) il m'a fallu pas moins de 100 mètres pour m'arrêter!
 
-![](  /content/images/2016/07/Stallion4.jpg)
+![](/content/images/2016/07/Stallion4.jpg)
 
 Ce qui est extrêmement sécurisant connaissant les feux tricolores de Liberty City qui passent du vert au rouge en l'espace de 2 secondes.  
 Question consommation, la Stallion avale 12 l au 100 en régime de ville et redescend à 10 l au 100 sur route.
@@ -49,12 +49,9 @@ Elle reste néanmoins une voiture extrêmement convoitée par les voleurs, alors
 
 Nous nous retrouvons la semaine prochaine pour un nouvel article, bonne route à tous!
 
-![](  /content/images/2016/07/Stallion.jpg)
-
-![](  /content/images/2016/07/Stallion2.jpg)
-
-![](  /content/images/2016/07/Stallion3.jpg)
-
-![](  /content/images/2016/07/Stallion5.jpg)
+![](/content/images/2016/07/Stallion.jpg)
+![](/content/images/2016/07/Stallion2.jpg)
+![](/content/images/2016/07/Stallion3.jpg)
+![](/content/images/2016/07/Stallion5.jpg)
 
 <!--kg-card-end: markdown-->

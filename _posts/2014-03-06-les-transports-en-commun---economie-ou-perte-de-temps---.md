@@ -16,9 +16,9 @@ Et c’est pour dire, même San Fierro n’a pas fait pire ! Il faut dire que ç
 
 > Perso, je prend le tram’ tous les jours parce que j’ai pas encore de voiture à moi pour sortir et aller voir mes potes dans les autres quartiers. J’avoue que pour les gens qui bossent c’est moins cool, mais bon on choisit de bosser, non ? Moi, j’ai que 19 ans, j’ai pas envie de me casser la tête avec tous ces problèmes là. J’ai des potes dans le quartier et le club de strip-tease à deux pas, pourquoi j’irais chercher d’autres choses ?
 
-![](  /content/images/2016/06/0_0_174.jpg)
-
-![Luis Leyudo, usager de la ligne de tram passant par Chamberlain Hills.](  /content/images/2016/06/0_0_172.jpg)
+![](/content/images/2016/06/0_0_174.jpg)
+![Luis Leyudo, usager de la ligne de tram passant par Chamberlain Hills.](/content/images/2016/06/0_0_172.jpg)
+_Luis Leyudo, usager de la ligne de tram passant par Chamberlain Hills._
 
 Par ailleurs, il est assez comique de noter aussi qu’une nouvelle station de métro est en construction depuis plus de deux ans déjà, avec des ouvriers qui y travaillent seulement 4h par jour… Ils ne doivent pas avoir vraiment conscience que c’est un peu pour leurs intérêts aussi qu’ils bossent.
 
@@ -26,7 +26,8 @@ Par ailleurs, il est assez comique de noter aussi qu’une nouvelle station de m
 
 Que ce soit des travailleurs, des écoliers ou même des étudiants, des milliers d’habitants de la ville prennent les transports en commun chaque jour. Alors après, est-ce par économie de temps, manque d’argent, ou par choix ? Et en général, c’est tout de même bien souvent la raison du manque d’argent qui ressort le plus souvent. Avec la hausse du prix du pétrole cumulé aux salaires en baisse (pour ceux qui ont la chance d’avoir encore un emploi), rare sont encore les citoyens qui ont le privilège de se déplacer en voiture. Peut-être peut-on y voir là une stratégie gouvernementale visant à forcer les gens à prendre les transports en commun ? Enfin ça se saurait si le gouvernement en place était aussi subtil dans ses décisions.
 
-![Olivia Bennedetto, usagère de la ligne passant par Phillbox Hill.](  /content/images/2016/06/0_0_173.jpg)
+![Olivia Bennedetto, usagère de la ligne passant par Phillbox Hill.](/content/images/2016/06/0_0_173.jpg)
+_Olivia Bennedetto, usagère de la ligne passant par Phillbox Hill._
 
 > Mon mari et moi travaillons tous les deux, et comme ce n’est pas exactement au même endroit c’est lui qui prend la voiture. Le réseau de transport est mauvais certes, mais il y a pire je pense, comme l’efficacité de la police de LS par exemple. On travaille comme des forcenés pour offrir à nos enfants le meilleur confort possible, et on risque tous les jours de se le faire voler par des voyous sans que la police ne puisse rien y faire ?
 

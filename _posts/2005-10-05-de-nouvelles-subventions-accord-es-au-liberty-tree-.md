@@ -12,13 +12,13 @@ C'est seulement après moins de deux mois d'ouverture que le Liberty-Tree vient 
 
 L'argent ainsi récolté a immédiatement été investi par la direction pour l'achat de matériel neuf plus performant mais il a surtout permis d'acquérir deux véhicules: un NewsVan aux couleurs du Liberty Tree et un Maverick
 
-![](  /content/images/2005/01/van1.jpg)
-
-![NelsoN au volant de notre nouveau NewsVan et notre Maverick stationné au sommet de la tour qui abrite nos futurs bureaux.](  /content/images/2005/01/mav.jpg)
+![](/content/images/2005/01/van1.jpg)
+![NelsoN au volant de notre nouveau NewsVan et notre Maverick stationné au sommet de la tour qui abrite nos futurs bureaux.](/content/images/2005/01/mav.jpg)
+_NelsoN au volant de notre nouveau NewsVan et notre Maverick stationné au sommet de la tour qui abrite nos futurs bureaux._
 
 Les deux nouveaux véhicules ont immédiatement été adoptés par les membres de la rédaction, mais l'immeuble que nous occupons actuellement ne disposant pas de quoi atterrir avec notre nouvel hélicoptère, nous allons prochainement déménager nos bureaux dans une autre tour du centre de la ville.
 
-![](  /content/images/2005/01/newbuilding.jpg)
+![](/content/images/2005/01/newbuilding.jpg)
 
 En espérant simplement que ces véhicules aient une utilité plus importante que le Faggio que le Liberty Tree possédait mais qui a terminé dans la baie de San Fierro lorsque Little Worm a raté un virage...
 

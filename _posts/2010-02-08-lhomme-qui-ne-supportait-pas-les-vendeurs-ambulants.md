@@ -11,13 +11,13 @@ Algonquin. Cela fait bientôt deux semaines qu’un tueur en série sévit sous 
 Depuis le mardi 26 janvier s’accumulent les macabres découvertes de vendeurs ambulants gisant près de leur stand, une balle logée dans leur tête. Nous n’avons pas eu une telle vague de meurtres depuis le fameux tueur des éboueurs et la population ciblée semble un peu étrange (tout comme le tueur des éboueurs).  
 En effet, le tueur, inconnu des services de police, doit avoir quelque chose contre ces personnes gagnant leur pain avec la victuaille grasse, symbole de notre ville. Un opposant extrémiste à la malbouffe détraqué ? Un père vendeur de hot dogs qui le poussait à s’habiller en fille et à s’asseoir sur les genoux de son oncle Joe pendant qu’ils jouaient aux cartes ? Le même tueur des éboueurs qui n’aime pas la monotonie ? Personne ne sait ce qui le motive. On a toutefois pu l’enregistrer une fois, il y a quelques jours, sur les caméras de surveillance installées à Star Junction en pleine action :
 
-![Nous voyons ici le tueur, habillé d'un passe-montagne et d'un manteau noir, s'approchant de sa victime à quelques mètres.](  /content/images/2007/06/camera-1.jpg)
-
-![Le tueur en pleine action, en bas à gauche.](  /content/images/2007/06/camera2.jpg)
+![Nous voyons ici le tueur, habillé d'un passe-montagne et d'un manteau noir, s'approchant de sa victime à quelques mètres.](/content/images/2007/06/camera-1.jpg)
+_Nous voyons ici le tueur, habillé d'un passe-montagne et d'un manteau noir, s'approchant de sa victime à quelques mètres._[Le tueur en pleine action, en bas à gauche.](/content/images/2007/06/camera2.jpg)
 
 Une autre photo, peu nette car prise par un mobile, de l’assassinat d’un autre vendeur.
 
-![Photo fournie par un témoin.](  /content/images/2007/06/shootnutgsm.jpg)
+![Photo fournie par un témoin.](/content/images/2007/06/shootnutgsm.jpg)
+_Photo fournie par un témoin._
 
 > **Témoin :** J’ai vu le type avec une cagoule de terroriste comme dans 72 et là je me suis dit « Woah, Phil ! Cette photo tu peux pas la louper ! ». J’aurais pu venir en aide à la personne, mais je préférais ne pas louper la photo. Ah, au fait, elle est où ma récompense ?
 
@@ -28,11 +28,10 @@ Dans la journée d’hier, l’officier Steve McCormick, chargé de l’enquête
 
 Rebondissement dans cette affaire le même jour, l’agent Kevin Saunderson lors de sa patrouille repéra le tueur avant d’entrer en action. Sur le coup ce dernier s’enfuit dans un Declasse Moonbeam bordeaux, une poursuite démarra jusqu’à ce que la voiture du policier s’encastra dans un bus rempli de personnes âgées et femmes enceintes en voyage.
 
-![Le Moonbeam vu par les caméras de la voiture de Saunderson.](  /content/images/2007/06/polcam1.jpg)
-
-![Le fuyard n'hésite pas à braver l'impossible...](  /content/images/2007/06/polcam2.jpg)
-
-![...et à mettre en danger les passants jusqu'à rentrer dans ce taxi.](  /content/images/2007/06/polcam3.jpg)
+![Le Moonbeam vu par les caméras de la voiture de Saunderson.](/content/images/2007/06/polcam1.jpg)
+_Le Moonbeam vu par les caméras de la voiture de Saunderson._[Le fuyard n'hésite pas à braver l'impossible...](/content/images/2007/06/polcam2.jpg)
+![...et à mettre en danger les passants jusqu'à rentrer dans ce taxi.](/content/images/2007/06/polcam3.jpg)
+_...et à mettre en danger les passants jusqu'à rentrer dans ce taxi._
 
 L’agent Saunderson a bien voulu nous prêter main forte afin de nous donner plus amples informations sur le criminel…
 

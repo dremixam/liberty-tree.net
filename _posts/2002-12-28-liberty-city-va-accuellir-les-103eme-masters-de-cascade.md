@@ -33,18 +33,12 @@ Cette compétition regroupe les meilleurs cascadeurs du monde. Un terrain a éta
 
 Andrew nous a montré comment passer ces parties sans problème et ramasser des points. Nous avons eu le droit à un magnifique salto. Ce terrain sera après le tournoi ouvert au public, ayant plus de 18 ans et possédant un porte monnaie bien garnie car 1 heure sur le terrain se paye à un peu plus de 300$. A noter que le vainqueur de l'an dernier Tsol Erdrep n'a pas réussit à passer les qualifications.
 
-![](  /content/images/v1/user24/TJ_1.jpg)
-
-![](  /content/images/v1/user24/TJ_2.jpg)
-
-![](  /content/images/v1/user24/TJ_3.jpg)
-
-![](  /content/images/v1/user24/TJ_4.jpg)
-
-![](  /content/images/v1/user24/TJ_5.jpg)
-
-![](  /content/images/v1/user24/TJ_6.jpg)
-
-![](  /content/images/v1/user24/TJ_7.jpg)
+![](/content/images/v1/user24/TJ_1.jpg)
+![](/content/images/v1/user24/TJ_2.jpg)
+![](/content/images/v1/user24/TJ_3.jpg)
+![](/content/images/v1/user24/TJ_4.jpg)
+![](/content/images/v1/user24/TJ_5.jpg)
+![](/content/images/v1/user24/TJ_6.jpg)
+![](/content/images/v1/user24/TJ_7.jpg)
 
 <!--kg-card-end: markdown-->

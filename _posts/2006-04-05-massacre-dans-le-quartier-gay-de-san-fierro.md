@@ -16,11 +16,9 @@ Depuis 1991, le Queens était dirigé par deux co-propriétaires et amis, Mark C
 
 M. Cumps avait programmé une projection privée de deux nouvelles bandes qu'il avait reçu quelques jours plus tôt de Liberty City, il s'agissait de _L'Apollon_ et des _Mecs du chantier III._ Lors de la projection il y avait une vingtaine de personnes dans la salle. Aux dires de M.Cumps, Jipé était très sceptique toute la soirée, et même à la suite de la première projection, il n'avait invité personne à le rejoindre dans le local cinéma, ce qui n'était pas son habitude.
 
-![](  /content/images/2005/01/qu01.jpg)
-
-![](  /content/images/2005/01/qu02.jpg)
-
-![](  /content/images/2005/01/qu03.jpg)
+![](/content/images/2005/01/qu01.jpg)
+![](/content/images/2005/01/qu02.jpg)
+![](/content/images/2005/01/qu03.jpg)
 
 Ce n'est qu'à la fin des Mecs du Chantier que M. Cumps découvrit le malaise de Jipé. "Il n'était plus vraiment gay, nous dit-il, je lui ai demandé s'il a aimé la bande, il m'a répondu "toi, t'es con", je lui ai fait comprendre que je ne savais pas ce qu'il me voulait et là il m'a rétorqué "Je veux des nibards". Je ne le reconnaissais plus."
 

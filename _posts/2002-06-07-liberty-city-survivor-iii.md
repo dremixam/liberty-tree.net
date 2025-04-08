@@ -9,7 +9,7 @@ tags:
 
 Suite et fin du résumé de l'émission de télé-réalité
 
-Troisième et dernière partie du résumé de Liberty City Survivor, l'émission qui passionne tant les jeunes de notre bonne ville. Rappelons tout de même qu'une lecture des articles [Liberty City Survivor I](  /2002/06/04/liberty-city-survivor-i/) et [Liberty City Survivor II](  /2002/06/05/liberty-city-survivor-ii/) est nécessaire pour comprendre ce résumé.
+Troisième et dernière partie du résumé de Liberty City Survivor, l'émission qui passionne tant les jeunes de notre bonne ville. Rappelons tout de même qu'une lecture des articles [Liberty City Survivor I](/2002/06/04/liberty-city-survivor-i/) et [Liberty City Survivor II](/2002/06/05/liberty-city-survivor-ii/) est nécessaire pour comprendre ce résumé.
 
 ## 16ème jour :
 

@@ -17,7 +17,7 @@ Habitacle :
 Un seul mot pourrait définir l’intérieur de la nouvelle Kuruma : splendide.  
 En effet, l’intérieur noir a été remplacé par un tissus blanc légèrement bleuté avec une petite touche classe : les baguettes en ronce de noyer sur les portes et les dessus d’accoudoir en Alcantara bleu.
 
-![](  /content/images/2016/07/Kuruma2k3c.jpg)
+![](/content/images/2016/07/Kuruma2k3c.jpg)
 
 L'audio n'a pas été oublié grâce aux haut-parleurs installés sur le tableau de bord ainsi que sur la plage arrière.
 
@@ -38,7 +38,7 @@ Habitacle :
 Un seul mot pourrait definir l'interieur de la nouvelle Kuruma : splendide.  
 En effet, l'interieur noir a Ã©tÃ© remplacÃ© par un tissus blanc legerement bleutÃ© avec une petite touche classe : les baguettes en ronce de noyer sur les portes et les dessus d'acoudoir en Alcantara bleu.
 
-![](  /content/images/2016/07/Kuruma2k3e.jpg)
+![](/content/images/2016/07/Kuruma2k3e.jpg)
 
 L'audio n'a pas Ã©tÃ© oubliÃ© grace aux haut-parleurs installÃ©s sur le tableau de bord ainsi que sur la plage arriÃ¨re.
 
@@ -47,7 +47,7 @@ Carroserie :
 Les designers de Maibatsu Inc. ont fait de gros efforts : les feux avant sont desormais 3 lentilles au XÃ©non offrant une visibilitÃ© nettement meilleure. Les feux arrieres ne sont pas en reste : les grossiers feux d'origine (rouge et orange) ont Ã©tÃ© remplacÃ©s par des feux 'boomerang' ainsi que les clignotants et feux de recule qui sont maintenant sÃ©parÃ©s.  
 Les jantes ont aussi Ã©tÃ©s revues et remplacÃ©es par des jantes alu etoiles 5 bÃ¢tons.
 
-![](  /content/images/2016/07/Kuruma2k3f.jpg)
+![](/content/images/2016/07/Kuruma2k3f.jpg)
 
 Moteur :
 
@@ -84,12 +84,9 @@ Note générale : **54/70**
 54/70!! Ca promet! Cette Kuruma va surement faire un vrai carton lors de sa sortie. Quelques idées et un peu de bonne volonté montre que les détails peuvent parfois tout changer.  
 Je vous laisse en compagnie des clichés de la Kuruma 2003 et vous dit "A la semaine prochaine!".
 
-![](  /content/images/2016/07/Kuruma2k3.jpg)
-
-![](  /content/images/2016/07/Kuruma2k3a.jpg)
-
-![](  /content/images/2016/07/Kuruma2k3b.jpg)
-
-![](  /content/images/2016/07/Kuruma2k3d.jpg)
+![](/content/images/2016/07/Kuruma2k3.jpg)
+![](/content/images/2016/07/Kuruma2k3a.jpg)
+![](/content/images/2016/07/Kuruma2k3b.jpg)
+![](/content/images/2016/07/Kuruma2k3d.jpg)
 
 <!--kg-card-end: markdown-->

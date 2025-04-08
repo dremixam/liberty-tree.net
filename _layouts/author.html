@@ -1,7 +1,7 @@
 ---
 layout: default
 current: author
-title: "{{ page.name }}"
+title: "Rédacteur {{ page.name }}"
 cover: false
 class: 'author-template'
 navigation: True
@@ -16,7 +16,8 @@ logo: 'assets/images/ghost.png'
 <!-- The tag above means: insert everything in this file
 into the {body} of the default.hbs template -->
 
-<header class="site-header outer no-cover">
+<header class="site-header outer {% if page.cover or site.cover %}cover"
+    style="background-image:  url(/{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}">
     <div class="inner">
         <nav class="site-nav-center">
             {% if site.logo %}

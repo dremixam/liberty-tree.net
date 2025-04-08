@@ -44,7 +44,7 @@ Sur ce il demanda que l'on me fasse sortir.
 
 Alors, doit-on accuser le système de sécurité de la banque ou bien...?
 
-![](  /content/images/2005/01/g.jpg)
+![](/content/images/2005/01/g.jpg)
 
 La police a immédiatement bloqué les rues aux alentours de la banque.
 

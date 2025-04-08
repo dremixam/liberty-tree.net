@@ -14,13 +14,13 @@ Chacun pense que la campagne est un lieu paisible, où il ne se passe rien, voir
 
 Voici ce qui est advenu d'une victime de ce monstre :
 
-![](  /content/images/2005/01/gor1.jpg)
+![](/content/images/2005/01/gor1.jpg)
 
 Le bras droit englouti, la main droite mangée, la jambe gauche entamée en deux, et la tête mangée. Une photo gore et répugnante de l'affreux ouvrage du monstre que les photographes du LT n'ont pu ramener qu'après plusieurs passages aux toilettes, non pas pour se soulager mais pour vomir un bon coup. On voit aussi que c'est un quadrupède, munies de griffes acérées. Plus on en sait sur cette curieuse bête, plus on a envie de rester chez soi, il semble que ce monstre ne tue pas par désir de s'alimenter mais par plaisir sadique.
 
 Nous avons réussi à obtenir une interview d'une des victimes (encore vivante mais pas indemne pour autant) du monstre de la campagne, un homme d'affaires appelé Mick Clinton :
 
-![](  /content/images/2005/01/gor2.jpg)
+![](/content/images/2005/01/gor2.jpg)
 
 > **LT:** Bonjour Monsieur Clinton, je peux vous serrer la main ? _rires_
 > 
@@ -46,9 +46,8 @@ Puis Mick Clinton est allé à l'hôpital, il s'en est bien sorti par rapport à
 
 Le gouverneur de San Andreas a pris l'affaire très au sérieux, et envoie l'élite du FBI et des shérifs patrouiller en forêt pour mettre fin à ce règne de terreur.
 
-![](  /content/images/2005/01/gor3.jpg)
-
-![](  /content/images/2005/01/gor4.jpg)
+![](/content/images/2005/01/gor3.jpg)
+![](/content/images/2005/01/gor4.jpg)
 
 Mais seront-ils de taille face au monstre? Nous en saurons peut-être plus prochainement.
 

@@ -14,7 +14,7 @@ Hier, en début de soirée un accident s’est produit à la sortie du tunnel de
 
 L’incendie a duré pendant plusieurs heures créant un énorme bouchon routier sous le pont. Les pompiers de la caserne du San Fierro Fire Department ont été retardés à leur caserne. Un psychopathe s’est invité chez eux en menaçant de tout faire exploser. Les Soldats du feu ont dû passer leur soirée à parlementer avec cet homme désespéré.
 
-![](  /content/images/2005/01/San%20Fierro%20Fire%20Department.jpg)
+![](/content/images/2005/01/San%20Fierro%20Fire%20Department.jpg)
 
 La raison de son geste était qu’il y a 8 mois cet homme de 37 ans, marié et père de 3 enfants s’était tranquillement endormi dans son bain en écoutant de la musique. Son plus jeune enfant de 7 ans s’amusait avec sa sœur âgée de 9 ans avec le gaz de leur cuisinière, la mère ne pouvant les surveiller. Leur grand frère âgé de 12 ans était entré dans la cuisine ayant essayé d’arrêter le deux plus jeunes, suivi de son oncle invité pour la soirée qui est entré dans la cuisine, cigare à la main. La cuisine a alors eu l’effet d’une bombe, l’appartement a été entièrement soufflé par l’explosion. Le père moins touché, fût le seul survivant. A son réveil à l’hôpital 5 jours plus tard, ne voulant pas voir la mort de sa famille comme un accident, il mit tout sur le dos des pompiers, leur reprochant d’être arrivé trop tard.
 
@@ -36,13 +36,13 @@ Steven Judge, un pompier de profession de la caserne de Los Santos a été inter
 
 Il semblerait que la voiture qui transportait le produit hautement instable (Nitroglycérine ) était conduite par une femme ( Carol Flynn ) qui revenait de l’hôpital, d’où elle venait de voler la substance. Selon son mari, sa femme était dépressive et venait de perdre sa sœur lors de l’effondrement du barrage Sherman. Il lui aurait dit d’aller chercher des anti-dépresseurs pour se calmer. Sa femme s’est donc rendu au All Saints General Hospital de Los Santos avec l’idée d’en voler n’assumant pas sont état dépressif La malle qu’elle avait subtilisée dans une salle donnant sur le couloir principal de l’hôpital renfermait de la Nitroglycérine récemment importée par hélicoptère. La Nitroglycérine est un produit utilisé dans les hôpitaux pour certains problèmes cardiovasculaires créant une diminution de la pression artérielle. Ce qui n’est pas encore expliqué, c’est la trop grande quantité du produit importé dans l’hôpital, la commande n’était que de 50 Centilitres.
 
-![](  /content/images/2005/01/Hosto.jpg)
+![](/content/images/2005/01/Hosto.jpg)
 
 Ce qui a permis au produit de ne pas exploser plus tôt, c’est le refroidissement qui a été fait sur celui-ci pour être transporté sans risque. En solidifiant la nitroglycérine, le produit peut alors être transporté sans aucun risque d’explosion. Le personnel médical, trop soucieux d’avoir à la réchauffer manuellement l’a laissé dans une salle de stockage sans surveillance. Après s’être réchauffée, la nitroglycérine perd de sa faculté explosive et devient beaucoup moins instable, ce qui a permis à cette jeune femme de sortir de l’hôpital sans encombre et sans se faire remarquer par le personnel soignant.
 
 Une enquête policière a déjà commencé pour connaître les raisons de ce surplus de nitroglycérine envoyé à l’hôpital. Le directeur du All Saints General Hospital est actuellement retenu au Los Santos Police Department et est en ce moment même soumis à un interrogatoire.
 
-![](  /content/images/2005/01/Los%20Santos%20Police%20Departmen.jpg)
+![](/content/images/2005/01/Los%20Santos%20Police%20Departmen.jpg)
 
 L’officier Jonathan McNiels a répondu à quelques-unes de nos questions.
 

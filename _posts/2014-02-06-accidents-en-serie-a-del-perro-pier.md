@@ -14,21 +14,25 @@ Dès notre arrivée à l'entrée du parc, le constat est éloquent : Le parc sem
 
 > **Chu-Yang Ping, touriste chinoise :** Très joli parc, oui. Nous contents d'être tout seuls. Nous faire plein de photos !
 
-![Le parc d'attractions déserté.](  /content/images/2016/06/DelPerro.jpg)
+![Le parc d'attractions déserté.](/content/images/2016/06/DelPerro.jpg)
+_Le parc d'attractions déserté._
 
 Le contraste est d'autant plus surprenant d'autant plus qu'à quelques mètres de là, les plages sont bondées, tout comme le quartier de Vespucci. Del Perro Pier ressemble à une sorte de "no-men's land". Mais pourquoi donc un tel désintérêt pour le parc ?? Pourquoi plus personne ne s'y rend ? Le Liberty Tree vous explique les raisons d'une telle débandade.
 
 Tout commence il y a une dizaine de jours. Le restaurant _Pearl's Seafood,_ situé au bout du quai de Del Perro, est contraint de fermer ses portes, suite à un scandale alimentaire : des inspecteurs ont découvert que le poisson servi était avarié, et que plus d'une trentaine d'intoxications alimentaires avaient été provoquées par ce même poisson, pêché au large de l'aéroport, selon les responsables. Cela expliquerait certaines choses...
 
-![Le restaurant Pearl's Seafood.](  /content/images/2016/06/DelPerro5.jpg)
+![Le restaurant Pearl's Seafood.](/content/images/2016/06/DelPerro5.jpg)
+_Le restaurant Pearl's Seafood._
 
 Deux jours plus tard, c'est sur la grande roue qu'un drame est évité de justesse. Alors que la roue est en marche, une nacelle vide se détache du sommet et tombe sur une autre en contrebas. Résultat : deux blessés graves. La grande roue doit fermer à son tour, pour être complètement revue par les techniciens.
 
-![La grande roue de Del Perro Beach.](  /content/images/2016/06/DelPerro4.jpg)
+![La grande roue de Del Perro Beach.](/content/images/2016/06/DelPerro4.jpg)
+_La grande roue de Del Perro Beach._
 
 Déjà refroidis par cet accident, les gens commencent déjà à déserter le parc. Mais d'autres téméraires viennent toujours, et cela mènera cette fois-ci à un accident sur le Leviathan, le manège principal de Del Perro. La vitesse des wagons affaiblit les rails métalliques, et à force de passages, ces rails s'usent. Il y a quatre jours, une portion entière du Leviathan s'est effondrée sur des stands de marchands ambulants, alors qu'un wagon passait au-dessus. Bilan : huit blessés, dont trois gravement.
 
-![Le Leviathan, fermé lui aussi.](  /content/images/2016/06/DelPerro2.jpg)
+![Le Leviathan, fermé lui aussi.](/content/images/2016/06/DelPerro2.jpg)
+_Le Leviathan, fermé lui aussi._
 
 Nous avons rencontré Nicky Hansen, le directeur du parc de Del Perro :
 

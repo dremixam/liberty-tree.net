@@ -14,7 +14,8 @@ Vous vous souvenez peut-être de OG Loc, un jeune gangsta de Grove Street qui é
 
 "Peace and Gangs" a tout pour s'imposer auprès du public de Madd Dogg car les titres de l'album s'apparentent en grande partie à ceux de l'illustre rappeur. Il faut dire que le producteur de OG Loc et Madd Dogg est le même, en l'occurence le célèbre Dr Pre, ancienne icône du rap. Ainsi, les titres "Juvies Aren't Dead" ou "Loyal Party" sortiront dès demain dans les bacs en single, avant la sortie de l'album "Peace and Gangs" dans deux semaines.
 
-![Peace and Gangs, le nouvel album de OG Loc](  /content/images/2005/01/ __Peace_and_Gangs__.jpg)
+![Peace and Gangs, le nouvel album de OG Loc](/content/images/2005/01/ __Peace_and_Gangs__.jpg)
+_Peace and Gangs, le nouvel album de OG Loc_
 
 Nous avons pu interviewer OG Loc à la sortie de sa maison de disque.
 
@@ -34,7 +35,8 @@ Nous avons pu interviewer OG Loc à la sortie de sa maison de disque.
 > 
 > **OGL :** Euh...
 
-![Dr Pre, le producteur de Madd Dogg et OG Loc](  /content/images/2005/01/Dr_Pre.jpg)
+![Dr Pre, le producteur de Madd Dogg et OG Loc](/content/images/2005/01/Dr_Pre.jpg)
+_Dr Pre, le producteur de Madd Dogg et OG Loc_
 
 Celui que l'on s'amusait à surnommer "OG la loque" semble bien parti pour entrer dans l'histoire du rap grâce à cet album produit par Dr Pre et inspiré de Madd Dogg.
 

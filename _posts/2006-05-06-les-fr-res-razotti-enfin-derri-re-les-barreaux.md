@@ -18,7 +18,8 @@ Ces derniers furent arrêtés la nuit dernière après une longue fusillade entr
 
 Cela faisait longtemps que les autorités de Vice tentaient de mettre la main sur les deux criminels. Sans succès. Pourtant, les preuves de leur implications dans de sombres affaires ne manquaient pas. Il faut croire que leur fortune et leur influence a permis de les écarter du joug de la justice. Du moins jusque maintenant...
 
-![Les deux frères, responsables d'un des plus grand réseau de criminels de l'Etat.](  /content/images/2005/01/leaders_malfaiteurs.jpg)
+![Les deux frères, responsables d'un des plus grand réseau de criminels de l'Etat.](/content/images/2005/01/leaders_malfaiteurs.jpg)
+_Les deux frères, responsables d'un des plus grand réseau de criminels de l'Etat._
 
 Grâce au témoignage de plusieurs personnes proches des deux mafieux, dont leur majordome et certains de leurs hommes de mains qui ont acceptés de collaborer avec la police, les agents du FBI ont réussis à se procurer des preuves en acier trempé qui permettaient enfin de lancer un mandat d'arrêt contre les deux frères.
 
@@ -30,7 +31,8 @@ Déclare le porte-parole du FBI, l'agent S. qui, ce matin, à été interrogé p
 
 Gregorio et Maximillio Razotti ont été condamnés à 50 ans de prison. Ils ont étés&nbsp;conduits hier à la prison centrale de Vice City avant leur transfert définitif à la Haute prison de San Andreas où ils passeront, vraisemblablement, la fin de leur existence.
 
-![Le QG de la police où sont enfermés les deux leaders criminels.](  /content/images/2005/01/Commissariat.jpg)
+![Le QG de la police où sont enfermés les deux leaders criminels.](/content/images/2005/01/Commissariat.jpg)
+_Le QG de la police où sont enfermés les deux leaders criminels._
 
 Le maire de Vice City nous à fait une déclaration ce matin en réaction à la capture des criminels:
 

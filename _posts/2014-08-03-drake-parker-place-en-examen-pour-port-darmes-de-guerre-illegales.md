@@ -14,7 +14,8 @@ Le 2 Mai, nous vous parlions d'un nouveau gang (Les Hot Boys) qui faisait son ap
 > 
 > **Officier Kalen Parker :** Oui, en effet, après 4 jours de recherche aux alentours de Grove St. nous avons pu découvrir une caravane pleine d'armes illégales. Monsieur Parker était en compagnie d'un homme appeler Dixone Grenne, nous avons mis en garde a vue les deux suspects. Monsieur Parker a engagé les meilleurs avocats du pays, alors ça va être très très dur de nous le faire ; espérons que sa section sera lourde.
 
-![L'Officier Kalen Parker accompagné de ses deux collègues](  /content/images/2016/06/0_0%20%282%29_12.jpg)
+![L'Officier Kalen Parker accompagné de ses deux collègues](/content/images/2016/06/0_0%20%282%29_12.jpg)
+_L'Officier Kalen Parker accompagné de ses deux collègues_
 
 Nous nous sommes donc rendu à la prison de l'État de San Andreas pour avoir la chance de poser quelques questions aux deux détenus, Drake Parker et son complice Dixone Grenne, tous deux membres du gang Chamberlain Hills Family (p\_lus connu sous le nom de Grove St. Family). Nous avons pu en tirer quelque chose :
 
@@ -22,9 +23,9 @@ Nous nous sommes donc rendu à la prison de l'État de San Andreas pour avoir la
 > 
 > **Dixone Grenne :** C'est pas à moi les armes, de toute façon la police n'a aucune preuve, je suis innocent, je n'ai rien fait.
 
-![](  /content/images/2016/06/dr.jpg)
-
-![Drake Parker et Dixone Grenne, accusés.](  /content/images/2016/06/gta-v-features-real-life-gangsters-as-voice-actors-for-authenticity-1101005.jpg)
+![](/content/images/2016/06/dr.jpg)
+![Drake Parker et Dixone Grenne, accusés.](/content/images/2016/06/gta-v-features-real-life-gangsters-as-voice-actors-for-authenticity-1101005.jpg)
+_Drake Parker et Dixone Grenne, accusés._
 
 Nous avons pu parler au juge qui allait mettre fin à cette affaire à la convocation des accusés qui aura lieu le mardi 20 mai 2014. Voilà ce que le juge Aarone O'Finer a pu nous apporter :
 

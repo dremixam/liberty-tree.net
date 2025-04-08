@@ -14,7 +14,8 @@ J'arrive donc tôt ce matin à Tongva Hills pour en savoir plus sur ce cru 2014.
 
 A 5 heures du matin, un semi-remorque quitte les lieux tandis qu'un autre est encore en cours de chargement.
 
-![Le camion en cours de chargement.](  /content/images/2016/06/art%20vigne%2021%2007%2014.jpg)
+![Le camion en cours de chargement.](/content/images/2016/06/art%20vigne%2021%2007%2014.jpg)
+_Le camion en cours de chargement._
 
 Mr Marlowe vient ensuite à ma rencontre. Après une visite des alentours, Mr Marlowe me ramène vers le camion qui se prépare à partir :
 
@@ -36,7 +37,8 @@ J'en profite quand même pour demander au personnes présentes ici, sur la terra
 > 
 > **Charles, 75 ans :** Rien ne vaut un bon Bordeaux de mon pays !
 
-![Le vignoble de Marlowe se situe à 5 heures de route de Los Santos.](  /content/images/2016/06/art%20vigne%202%2021%2007%2014.jpg)
+![Le vignoble de Marlowe se situe à 5 heures de route de Los Santos.](/content/images/2016/06/art%20vigne%202%2021%2007%2014.jpg)
+_Le vignoble de Marlowe se situe à 5 heures de route de Los Santos._
 
 Les bouteilles du Vignoble de Marlowe ne se trouvent pas en grande surface mais peuvent être achetées dans certains magasins d'alcool ou au vignoble lui même, à partir de 50 dollars la bouteille. Bonne dégustation !
 

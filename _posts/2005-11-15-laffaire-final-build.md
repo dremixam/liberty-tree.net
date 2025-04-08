@@ -16,7 +16,8 @@ La police a enquêté sur cette affaire étrange et a trouvé plusieurs choses q
 
 Premièrement, Final Build est le plus grand pollueur de San Andreas. De vieux bidons d'huile, des déchets toxiques et des matériaux usagés ont été jetés dans le Fisher's Lagoon. Ces déchets ont causé du tort à la nature, et même aux humains, comme c'est le cas chez Mr. Corner.
 
-![Tonneaux toxiques sur les rives du Fisher Lagoon](  /content/images/2005/01/fb_pollution.jpg)
+![Tonneaux toxiques sur les rives du Fisher Lagoon](/content/images/2005/01/fb_pollution.jpg)
+_Tonneaux toxiques sur les rives du Fisher Lagoon_
 
 Tram Corner est né en 1980 à l'hôpital de Montgomery. Ses parents vivaient à Palomino Creek et Mrs. Corner était enceinte. Mais personne ne pouvait s'attendre à ce qui allait arriver à Tram Corner. Dès sa naissance, son corps était difforme, il avait une malformation du dos et son visage était déformé à l'extrême. Dans sa jeunesse, il est allé plusieurs fois à l'hôpital de Los Santos, mais il n'ont rien pu faire. Nous l'avons interviewé :
 
@@ -44,13 +45,15 @@ Après que Mr. Corner ait terminé de pleurer, j'ai continué mon entrevue.
 
 Je n'ai pas pu poursuivre l'entrevue car Tram Corner étais trop ému. Nous avons été rencontrer la police et voici ce qu'ils nous ont dit :
 
-![Bill Honor, agent de police](  /content/images/2005/01/fb_police.jpg)
+![Bill Honor, agent de police](/content/images/2005/01/fb_police.jpg)
+_Bill Honor, agent de police_
 
 Une affaire semblable s'était déjà produite à Liberty City, celle de Pan Lantic Construction qui n'avait pas terminé l'hôtel de Stunton Island et le tunnel au nord de Shoreside Vale. Le patron, Finral Albert Burnquist-Ildag s'était enfui avec l'argent de la construction et on ne l'a pas revu. Les deux affaires semblent être liées. C'est le même genre de problèmes dans les deux cas. La police à découvert que le patron de Final Build, Bob Billyjo, n'était qu'un faux nom. En fait son nom est Finral A. Burnquist ou Finrald Albert Burnquist-Ildag. Un autre indice prouve que c'est bien lui. Le nom Final Build peut ce diviser en FIN-AL BU-ILD ou les abréviation de FINral ALbert BUrnquist-ILDag.
 
 Mr. Burquist-Ildag a été accusé de détournement de fonds supérieurs et devra purger le reste de sa vie dans la prison de haute sécurité de San Fierro. Aussi, Mr. Corner a gagné sa cause. Il n'aura plus à travailler de sa vie car Mr. Burquist-Ildag s'est vu contraint de verser plus de deux milliards de dollars d'intérêts à Tram Corner.
 
-![Finral Albert Burnquist-Ildag](  /content/images/2005/01/fb_boss.jpg)
+![Finral Albert Burnquist-Ildag](/content/images/2005/01/fb_boss.jpg)
+_Finral Albert Burnquist-Ildag_
 
 Malheureusement, le quartier de Doherty, victime d'un séisme il y a longtemps et qui n'est toujours pas reconstruit, devra trouver un nouvel entrepreneur, car on ne peut plus compter sur FinalBuild.
 

@@ -9,9 +9,8 @@ tags:
 
 Hier, alors qu'elle cherchait un endroit tranquille pour exercer sa profession, Mlle L. a remarqué de la lumière dans un garage, intriguée, elle s'est dirigée vers la porte de ce garage qui était restée entrouverte, et là, quelle ne fut pas sa stupeur de voir pas moins de trois voiture du FBI entreposées.
 
-![](  /content/images/v1/user21/fbi_voitures_01.jpg)
-
-![](  /content/images/v1/user21/fbi_voitures_02.jpg)
+![](/content/images/v1/user21/fbi_voitures_01.jpg)
+![](/content/images/v1/user21/fbi_voitures_02.jpg)
 
 Mademoiselle L. a tout de suite alertée la police, étonnée de voir ces voitures dans ce garage non officiel. La police a ensuite transmit le dossier au FBI qui a dépêché sur place ses agents. Résultat de l’enquête, le propriétaire du garage voulait faire une collection de voiture du FBI.
 

@@ -9,7 +9,7 @@ tags:
 
 Le site internet de la **Bank of Liberty** fût penétré le 28.09.02 par des petits "pirates" à 16h36.
 
-![](  /content/images/v1/user20/bankofliberty.jpg)
+![](/content/images/v1/user20/bankofliberty.jpg)
 
 Ces pirates auraient pu prendre ou trouver des informations concernant les comptes de plusieurs clients et ceux de la banque. Le porte-parole de la banque violée nous a "formellement assuré" que les pirates n'ont rien touché.
 

@@ -12,13 +12,13 @@ _Un déséquilibré provoque la police de Los Santos en envoyant des photos de l
 
 Cela fait quelques jours qu'un individu encore inconnu des services de police leur envoie par mail d'une adresse intraçable des photos de lui détruisant des voitures de police. On ne connait pas son identité mais son mode opératoire. Il vole une voiture de police, puis la brûle avec de l'essence et se prend en photo avec lors de l'explosion. Nous avons mis la main sur quelques uns de ces clichés.
 
-![](  /content/images/2016/06/25_1.jpg)
-
-![](  /content/images/2016/06/25.jpg)
+![](/content/images/2016/06/25_1.jpg)
+![](/content/images/2016/06/25.jpg)
 
 Toutes les photos semblant provenir du canal, des unités de police y sont désormais toujours postées, sans voir la trace de cet homme.
 
-![Commissariat de Los Santos](  /content/images/2016/06/25_3.jpg)
+![Commissariat de Los Santos](/content/images/2016/06/25_3.jpg)
+_Commissariat de Los Santos_
 
 Nous nous sommes rendus au commissariat de Los Santos pour avoir le point de vue de la police, nous avons interviewé le lieutenant Doug Hankman :
 

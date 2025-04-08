@@ -14,10 +14,10 @@ Vingt ans déjà que les Love Fist ne s'étaient pas produits sur scène, et ce 
 
 Pour les plus flemmards d'entre vous, leur nouvelle album : « Kiss my ass in the sky » sera dans les bacs le lendemain du concert, il y aura même une ouverture spéciale des ventes à leur studio à Vice City, mais il faudra y être dès minuit.
 
-![](  /content/images/2005/01/lf2.jpg)
+![](/content/images/2005/01/lf2.jpg)
 
 Nous pouvons parler plutôt d'une véritable réunification, car les papys rockers mettent vraiment le paquet sur ce nouvel album et sur ce concert, qui sera sûrement leur dernier, souhaitons lui autant de succès que les précédents. Et soyez au rendez-vous, une réunification qui sera certainement très impressionnante.
 
-![](  /content/images/2005/01/lf.jpg)
+![](/content/images/2005/01/lf.jpg)
 
 <!--kg-card-end: markdown-->

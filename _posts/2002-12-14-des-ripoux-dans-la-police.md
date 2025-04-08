@@ -9,11 +9,11 @@ tags:
 
 _Après une longue enquête que j'ai mené, je peux dire officiellement qu'il y a des ripoux dans les policiers de Liberty City._
 
-![](  /content/images/v1/user24/AgressionPolice.jpg)  
- ![](  /content/images/v1/user24/Fillemorte.jpg)  
- ![](  /content/images/v1/user24/Fillehopital.jpg)  
- ![](  /content/images/v1/user24/Filllebattu.jpg)  
- ![](  /content/images/v1/user24/Filleprison.jpg)
+![](/content/images/v1/user24/AgressionPolice.jpg)
+![](/content/images/v1/user24/Fillemorte.jpg)
+![](/content/images/v1/user24/Fillehopital.jpg)
+![](/content/images/v1/user24/Filllebattu.jpg)
+![](/content/images/v1/user24/Filleprison.jpg)
 
 Voilà comment j'en suis venue à cette conclusion dramatique.
 

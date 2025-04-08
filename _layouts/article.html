@@ -1,8 +1,9 @@
 ---
 layout: default
 current: post
+title: "{{ page.name }} - Liberty-Tree"
 class: post-template
-disqus: false
+disqus: true
 ---
 
 <!-- default -->
@@ -42,7 +43,8 @@ into the {body} of the default.hbs template -->
                     {% if forloop.index == page.tags.size %}
                     <a href='/tag/{{ tag | slugify: "latin" }}/'>{{ tag | upcase }}</a>
                     {% else %}
-                    <a href='/tag/{{ tag | slugify: "latin" }}/'>{{ tag | upcase }}</a>,
+                    <a href='/tag/{{ tag | slugify: "latin" }}/'>{{ tag | upcase }}</a>
+                    <span class="tags-divider">-</span>
                     {% endif %}
                     {% endfor %}
                     {% endif %}

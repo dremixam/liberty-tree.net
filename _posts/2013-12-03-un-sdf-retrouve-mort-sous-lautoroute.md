@@ -18,7 +18,7 @@ La police se demande actuellement s’il ne pourrait pas s’agir d’une balle 
 
 Nous sommes donc allés interroger deux jeunes portant les couleurs du gang des Ballas, faisant rage en ce moment sur Grove Street.
 
-![](  /content/images/2016/06/0_0_32.jpg)
+![](/content/images/2016/06/0_0_32.jpg)
 
 > Mais merde, enculé, quand est-ce que vous allez piger qu’on n’y est pour rien ! C’est pas parce que y’a un pov’ type qui s’est fait descendre que c’est forcément nous ! Allez parler aux chinois plutôt.
 
@@ -26,6 +26,7 @@ Vous l’aurez compris : que ce soit par la force ou la persuasion, ces jeunes g
 
 Rappelons pour terminer que la vie à Los Santos est assez « simple » : soit vous êtes totalement pauvre comme ces gens et vous vivez sous les ponts, soit vous vous retrouvez dans la misère et la violence des ghettos dominés par les gangs, ou bien vous avez plus de chance et vous vivez dans le luxe de Rockford Hills. C’est une constatation triste, mais réaliste : les classes moyennes disparaissent.
 
-![Le camp dans lequel vivaient la victime et ses congénères.](  /content/images/2016/06/0_0_33.jpg)
+![Le camp dans lequel vivaient la victime et ses congénères.](/content/images/2016/06/0_0_33.jpg)
+_Le camp dans lequel vivaient la victime et ses congénères._
 
 <!--kg-card-end: markdown-->

@@ -18,7 +18,8 @@ Les enquêteurs du LCPD semblent privilégier la dernière piste pour l’instan
 
 Nous avons recueilli quelques témoignages.
 
-![Le chef cuisinier et une serveuse, à l'arrière du restaurant](  /content/images/2016/06/245254EFLC89201461703PM578.png)
+![Le chef cuisinier et une serveuse, à l'arrière du restaurant](/content/images/2016/06/245254EFLC89201461703PM578.png)
+_Le chef cuisinier et une serveuse, à l'arrière du restaurant_
 
 > **Ching Li, chef cuisinier :** C’était de la si bonne viande, dommage que ce soit illégal dans ce pays. Bien tendre comme il faut, et si facile à cuire… Miam.
 > 

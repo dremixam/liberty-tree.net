@@ -12,7 +12,7 @@ _Résumé d'un film qui risque de cartonner dans les salles de cinéma de Libert
 Carlos (Miguel) et sa femme Marty (Misty) demandent à Jones (Mike Michael) de leur apporter 10 kg de spank à l'hôtel privé qui se situe à Shoreside Vale.  
 Jones prend les 10 kgs qui étaient stockés quelque part à la Panlantic et leurs apporte en passant par le tunnel pour éviter les contrôles de police. Une grande course poursuite s'engage alors dans le tunnel et Jones doit arriver à Shoreside avec les 10 kilos de spank sans les flics aux fesses.
 
-![](  /content/images/2016/07/ss3_t-jpg.JPG)
+![](/content/images/2016/07/ss3_t-jpg.JPG)
 
 En exclusivité pour le Liberty Tree, voici une interview de Mike Michael, le personnage principal:
 

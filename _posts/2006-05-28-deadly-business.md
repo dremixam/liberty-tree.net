@@ -14,24 +14,25 @@ Los Santos, 7:30PM. Le soleil disparaît doucement au loin en cette douce soiré
 
 Voici ce que nous avons pu apprendre de la part de Philip qui ne souhaite pas voir sa photo publiée dans le journal par crainte des représailles. D'un point de vue plus clair avec une reconstitution sommaire de la part de la LSPD, les choses se sont déroulées ainsi : 7:30PM, Pedro Almondez, proprietaire du Tiki Theater, club de strip tease de Watts, arrive à Unity Station, lieu où il avait rendez-vous avec Jackson Daussy, membre des Orange Grove Families (OGF). Le lieutenant Mendez surveillant le district de East Los Santos depuis maintenant deux ans nous avoue qu'il avait un œil sur Almondez pour des deals peu honnêtes entre la communauté Hispano-Cubaine et les OGF de Ganton.
 
-![Le Tiki Theater de Watts](  /content/images/2005/01/tikiyo.jpg)
+![Le Tiki Theater de Watts](/content/images/2005/01/tikiyo.jpg)
+_Le Tiki Theater de Watts_
 
 > Nous pensons que le deal entre Daussy et Almondez a mal tourné _nous explique le lieutenant Mendez._ Nous pensons qu'Almondez s'est pointé à l'heure prévue avec sa Ferrari, qu'il a voulu en demander trop à Daussy et ce dernier ayant la gâchette facile l'aurait abattu de deux balles dans la poitrine. Il semblerait que son calibre se soit enrayé, c'est pourquoi il aura sauté dans le véhicule de Pedro pour l'achever en lui roulant dessus.
 
-![Feu Pedro Almondez, reposant en paix sous son coupé Italien](  /content/images/2005/01/killed.jpg)
+![Feu Pedro Almondez, reposant en paix sous son coupé Italien](/content/images/2005/01/killed.jpg)
+_Feu Pedro Almondez, reposant en paix sous son coupé Italien_
 
 Dès l'arrivée des forces de l'ordre sur la scène du crime, Philip Julian a pu donner une bonne description de l'assassin ainsi que de son véhicule. Un portrait robot a immédiatement été envoyé a toutes les unités de patrouille et une équipe aérienne repéra rapidement le principal suspect. Une patrouille tenta alors d'intercepter Daussy au niveau de Conférence mais ce dernier força le barrage et une course poursuite endiablée commença. Après plusieurs carambolages et divers coups de feu, Daussy Perda le contrôle de sa New Yorker et s’écrasa contre un mur.
 
-![](  /content/images/2005/01/helicam1.jpg)
-
-![Photos de la course-poursuite prises par la caméra de surveillance de la patrouille aérienne](  /content/images/2005/01/helicam2.jpg)
-
-![](  /content/images/2005/01/portraitrobot.jpg)
-
-![Le portrait robot établi par Philip Julian ainsi qu'une photo de Jackson Daussy prise lors d'une sortie des OGF.](  /content/images/2005/01/photosmile.jpg)
+![](/content/images/2005/01/helicam1.jpg)
+![Photos de la course-poursuite prises par la caméra de surveillance de la patrouille aérienne](/content/images/2005/01/helicam2.jpg)
+_Photos de la course-poursuite prises par la caméra de surveillance de la patrouille aérienne_[](/content/images/2005/01/portraitrobot.jpg)
+![Le portrait robot établi par Philip Julian ainsi qu'une photo de Jackson Daussy prise lors d'une sortie des OGF.](/content/images/2005/01/photosmile.jpg)
+_Le portrait robot établi par Philip Julian ainsi qu'une photo de Jackson Daussy prise lors d'une sortie des OGF._
 
 Jackson Daussy a donc été placé en détention provisoire jusqu’à l'audience préliminaire qui devrait avoir lieu dans le courant de semaine prochaine. Il risque une peine d'emprisonnement de 20 ans pour meurtre, récidive et délit de fuite.
 
-![La Chrysler New Yorker de Jackson au post de police de Los Santos.](  /content/images/2005/01/towtr.jpg)
+![La Chrysler New Yorker de Jackson au post de police de Los Santos.](/content/images/2005/01/towtr.jpg)
+_La Chrysler New Yorker de Jackson au post de police de Los Santos._
 
 <!--kg-card-end: markdown-->

@@ -8,33 +8,30 @@ tags:
 - los-santos
 ---
 
-![](  /content/images/2005/01/Visite_-_aeroport_arrive.jpg)
-
-![](  /content/images/2005/01/Visite_-_limo_autoroute.jpg)
-
-![](  /content/images/2005/01/Visite_-_limo_downtown_1.jpg)
-
-![](  /content/images/2005/01/Visite_-_limo_downtown_2.jpg)
-
-![Photos prises à partir de l'hélico des nouvelles de WRLS-4 (NBC).](  /content/images/2005/01/Visite_-_limo_arrive_hotel.jpg)
+![](/content/images/2005/01/Visite_-_aeroport_arrive.jpg)
+![](/content/images/2005/01/Visite_-_limo_autoroute.jpg)
+![](/content/images/2005/01/Visite_-_limo_downtown_1.jpg)
+![](/content/images/2005/01/Visite_-_limo_downtown_2.jpg)
+![Photos prises à partir de l'hélico des nouvelles de WRLS-4 (NBC).](/content/images/2005/01/Visite_-_limo_arrive_hotel.jpg)
+_Photos prises à partir de l'hélico des nouvelles de WRLS-4 (NBC)._
 
 Parti de France un jour plus tôt, le jet privé qui transportait Mlle Carleton a touché piste à l’aéroport international de Los Santos vers la fin de la matinée de jeudi. Immédiatement transporté à bord d’une imposante limousine blanche, l'actrice a prise la direction de l’hôtel _Plaza Rivera_ où elle s'était installée durant son séjour de 2 jours.
 
-![La limousine passant la guérite de l'aéroport.](  /content/images/2005/01/Visite_-_limo_sortie_aeroport.jpg)
-
-![](  /content/images/2005/01/Visite_-_hotel_plaza_rivera.jpg)
-
-![Hôtel Plaza Rivera.](  /content/images/2005/01/Visite_-_hotel_balcon.jpg)
+![La limousine passant la guérite de l'aéroport.](/content/images/2005/01/Visite_-_limo_sortie_aeroport.jpg)
+_La limousine passant la guérite de l'aéroport._[](/content/images/2005/01/Visite_-_hotel_plaza_rivera.jpg)
+![Hôtel Plaza Rivera.](/content/images/2005/01/Visite_-_hotel_balcon.jpg)
+_Hôtel Plaza Rivera._
 
 Bien mal à qui aurait eu l’idée folle d’aller cogner à sa porte de chambre pour lui demander un autographe, puisque la moitié de l’étage avait été bouclée pour l’occasion et était surveillée en permanence par des agents de sécurité.
 
-![La limousine est passé par le garage sous-terrain de l'hôtel afin d'assurer plus de discrétion à la star.](  /content/images/2005/01/Visite_-_limo_hotel_garage_cam.jpg)
+![La limousine est passé par le garage sous-terrain de l'hôtel afin d'assurer plus de discrétion à la star.](/content/images/2005/01/Visite_-_limo_hotel_garage_cam.jpg)
+_La limousine est passé par le garage sous-terrain de l'hôtel afin d'assurer plus de discrétion à la star._
 
 Malgré un horaire très serré, la célèbre actrice a donné une conférence de presse pour faire la promotion de son prochain film auprès des nombreux journalistes qui s'étaient massés dans le hall de l'hôtel. À la fin du point de presse, mon photographe et moi avons eu le privilège d'être reçu en privé dans la suite de la star. C'est de là que nous avons réalisé cette entrevue.
 
 FICHE SIGNALÉTIQUE:
 
-![](  /content/images/2005/01/Visite_-_Fanny_Carleton.jpg)
+![](/content/images/2005/01/Visite_-_Fanny_Carleton.jpg)
 
 Nom: Carleton  
 Prénom: Fanny-Êve  
@@ -49,7 +46,8 @@ Mérites: Gagnante de 2 Golden Globes et 1 César
 
 > **LT&nbsp;:** C’est donc un plaisir réciproque je vous assure. Mais, puisque votre passage à Los Santos n’avait pas été annoncé nul part, et étant donné que nous savons maintenant que vous êtes ici pour des raisons purement personnelles, est-ce que vous pouvez quand même nous dire s’il fait partie de vos projets de revenir nous rendre visite une prochaine fois très bientôt ?
 
-![La jeune actrice a adopté Los Santos à sa première visite.](  /content/images/2005/01/Visite_-_Fanny_balcon_hotel.jpg)
+![La jeune actrice a adopté Los Santos à sa première visite.](/content/images/2005/01/Visite_-_Fanny_balcon_hotel.jpg)
+_La jeune actrice a adopté Los Santos à sa première visite._
 
 > **FC&nbsp;:** Oui absolument. J’adore cette ville ainsi que l’accueil que me réserve la population. Je suis ici que depuis quelques heures seulement et voilà j’ai déjà reçu plusieurs messages, sans oublier ces 3 magnifiques bouquets de fleurs. Je me sent vraiment très choyer d’être ici aujourd’hui. J’aurais aimé demeurer quelques jours de plus mais malheureusement il m’est impossible de le faire puisqu’à mon retour en France je serais attendu sur le plateau de tournage de « BULLE », une méga production dont le tournage débute très bientôt.
 
@@ -67,7 +65,8 @@ Mérites: Gagnante de 2 Golden Globes et 1 César
 
 > **LT&nbsp;:** Oui, tout à fait, un excellent film d’ailleurs! (...) Comment réagissez-vous face aux rumeurs qui veulent que vous soyez mise en nomination aux oscars pour votre rôle dans « Hidden Diary » à titre de meilleure actrice dans un rôle principal ?
 
-![Hidden Diary, un film qui a tenu l'affiche dans plus de 30 pays.](  /content/images/2005/01/Visite_-_cinema_affiche.jpg)
+![Hidden Diary, un film qui a tenu l'affiche dans plus de 30 pays.](/content/images/2005/01/Visite_-_cinema_affiche.jpg)
+_Hidden Diary, un film qui a tenu l'affiche dans plus de 30 pays._
 
 > **FC&nbsp;:** Je n’ai aucun mérite puisqu’il s’agit d’un travail d’équipe. Le succès de ce film appartient autant à la remarquable distribution et à l’équipe de tournage, qu’à moi seule. Je suis très heureuse par cette marque de reconnaissance et je suis persuadée que les autres nominées dans cette catégorie auront fait un travail tout aussi excellent (...) Je suis vraiment navré, on me fait signe que je dois déjà malheureusement vous quitter...
 
@@ -77,7 +76,8 @@ Mérites: Gagnante de 2 Golden Globes et 1 César
 
 > **LT&nbsp;_(rires)_ :** C'est une question de nos lecteurs... Depuis quelques semaines une rumeur se fait de plus en plus persistante... ah je vois sur votre visage que vous devinez ma prochaine question... je parle de cette photo paru dans le magazine EUROSTAR où l'on vous voit main dans la main avec le pilote de F1, Helmut Hans. Est-ce que vous pouvez-nous dire si cette rumeur est fondée ou pas?
 
-![Grand Prix Formule 1 de Yosaka au Japon.](  /content/images/2005/01/Visite_-_F1_Helmut_Hans.jpg)
+![Grand Prix Formule 1 de Yosaka au Japon.](/content/images/2005/01/Visite_-_F1_Helmut_Hans.jpg)
+_Grand Prix Formule 1 de Yosaka au Japon._
 
 > **FC :** Je n'aime pas parler de mes amours aux journalistes, car je crois que chaque artiste a droit à sa vie privée. Surtout qu’on nous demande très rarement notre autorisation avant de faire une incursion dans notre intimité. La preuve, ce chroniqueur chez EUROSTAR ne m’a jamais contacté avant de publier son article. Je suis donc très heureuse que vous ayez la politesse de demander comme vous le faite au lieu d’écrire n’importe quoi au sujet de ma relation avec Helmut Hans... Il me fait donc plaisir de vous&nbsp;annoncer en grande exclusivité que Helmut et moi nous nous sommes fiancé il y a quelques jours, lorsqu’il se trouvait au grand prix F1 de Silverstone au Royaume Uni. Nous nous fréquentons depuis bientôt 1 an déjà et c’est le grand amour entre lui et moi.
 

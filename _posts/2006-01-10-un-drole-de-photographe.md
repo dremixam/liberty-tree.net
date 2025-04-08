@@ -12,17 +12,15 @@ _Depuis quelques semaines, plusieurs personnes affirment avoir vu un homme se je
 
 Par une matinée ordinaire, Madame Smith se rendait à son travail dans Richman lorsqu'elle aperçut quelque chose qui allait la tourmenter pendant plusieurs semaines. Un photographe réalisait des clichés de Los Santos depuis Fallen Tree sur l'île de San Fierro. Jusque là rien de très époustouflant. Mais quelle ne fut pas la surprise de Madame Smith lorsque le même photographe alla se jeter dans l'eau et ne fit plus un seul mouvement pendant plusieurs minutes. La femme affolée nous confie avoir immédiatement appelé l'hôpital Grant de Los Santos mais les ambulanciers qui se sont rendus sur place lui ont dit n'avoir trouvé aucun corps.
 
-![](  /content/images/2005/01/Photo_1.jpg)
-
-![](  /content/images/2005/01/Photo_3.jpg)
+![](/content/images/2005/01/Photo_1.jpg)
+![](/content/images/2005/01/Photo_3.jpg)
 
 Mais l'incroyable histoire de Madame Smith ne s'arrête pas là puisque les ambulanciers ont porté plainte contre elle, lui reprochant d'être l'auteur de canulars stupides visant à enrayer le travail des secours. La pauvre Madame Smith a même écopé d'une amende de 1000$.
 
 Cependant, d'autres témoins viennent confirmer l'invraisemblable histoire de Madame Smith. Ils affirment eux aussi avoir vu un photographe se jeter dans la mer. Mais plus étrange encore, ces témoins affirment tous avoir vu la même scène mais à des jours différents. Les photos de cet article proviennent justement de l'un de ces témoins ayant vu la scène et ayant eu la présence d'esprit de réaliser ces clichés.
 
-![](  /content/images/2005/01/Photo_4.jpg)
-
-![](  /content/images/2005/01/Photo_5.jpg)
+![](/content/images/2005/01/Photo_4.jpg)
+![](/content/images/2005/01/Photo_5.jpg)
 
 Grâce à ces clichés, nous avons montré le visage de l'homme à l'administration de l'Etat basée à Las Venturas et ils nous ont donné l'adresse de l'homme en question. Nous nous sommes donc rendus chez lui et nous avons rencontrés le mystérieux bonhomme qui a accepté de répondre à quelques unes de nos questions :
 
@@ -48,6 +46,6 @@ Grâce à ces clichés, nous avons montré le visage de l'homme à l'administrat
 
 C'est sur ses mots que ce fait divers prend fin. Je sens bien que certains d'entre vous sont un peu déçus de l'issue de cet « événement » mais malheureusement nous ne faisons pas l'information, nous ne faisons que la relater.
 
-![](  /content/images/2005/01/Photo_6.jpg)
+![](/content/images/2005/01/Photo_6.jpg)
 
 <!--kg-card-end: markdown-->

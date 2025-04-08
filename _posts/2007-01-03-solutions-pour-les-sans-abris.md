@@ -13,25 +13,23 @@ C'est hier après-midi que la municipalité de Vice City a trouvé une solution 
 
 Ainsi, c'est un dimanche matin que l'on a décidé de faire travailler le VCPD. Objectif ? Réquisitionner le manoir de Starfish Island (celui qui a servi durant le tournage de Scarhead) en faisant dégager les anciens propriétaires. On a donc envoyé deux voitures bien rempli, soit huit policiers, les seuls qui ont bien voulu se lever un dimanche matin. "C'est dégueulasse mais c'est pour la bonne cause" comme nous le dit un brave flic allant faire son devoir de flic.
 
-![Le problème des sans-abris sera t-il enfin résolu ?](  /content/images/2005/01/sans-abris.jpg)
+![Le problème des sans-abris sera t-il enfin résolu ?](/content/images/2005/01/sans-abris.jpg)
+_Le problème des sans-abris sera t-il enfin résolu ?_
 
 Evidemment, ça n'a pas été la même lorsque il a fallu faire partir le baron de la drogue (c'est le prétexte pour virer le propriétaire). L'homme n'a pas été facile à convaincre, en sachant qu'il avait envoyé tous ses gardes du corps pour faire de la négociation musclée avec nos huit policiers, qui ont répliqué avec leur matraques et autres Colt 45.
 
 > Ce fut très simple. Ils disaient qu'ils voulaient négocier mais en réalité, nous avions compris que c'était un piège. Nous avons sortis les flingues du coffre et nous avons négocié...
 
-![](  /content/images/2005/01/manoir1.jpg)
-
-![](  /content/images/2005/01/manoir2.jpg)
+![](/content/images/2005/01/manoir1.jpg)
+![](/content/images/2005/01/manoir2.jpg)
 
 En tout, il y aura eu une dizaine de morts et enfin les policiers ont pu atteindre le hall mais une autre surprise les attendait : le propriétaire qui était armé d'un M-16 n'avait vraiment pas envie de partir et pourtant, les policiers sont parvenus à le maîtriser, en laissant les lieux prêts à l'accueil d'une bonne cinquantaine de personnes, si ce n'est plus, qui sont dans le besoin.
 
-![](  /content/images/2005/01/manoir3.jpg)
-
-![](  /content/images/2005/01/manoir4.jpg)
-
-![](  /content/images/2005/01/manoir5.jpg)
-
-![Immense manoir, avec bar, équipement de surveillance et jardin pour les enfants...](  /content/images/2005/01/manoir6.jpg)
+![](/content/images/2005/01/manoir3.jpg)
+![](/content/images/2005/01/manoir4.jpg)
+![](/content/images/2005/01/manoir5.jpg)
+![Immense manoir, avec bar, équipement de surveillance et jardin pour les enfants...](/content/images/2005/01/manoir6.jpg)
+_Immense manoir, avec bar, équipement de surveillance et jardin pour les enfants..._
 
 Le propriétaire, Mr. Fidel Raùl, clame son désespoir :
 
@@ -39,6 +37,7 @@ Le propriétaire, Mr. Fidel Raùl, clame son désespoir :
 
 Mais malgré cela, Mr. Fidel Raùl bénéficiera d'un logement gratuit proposé par quelques obscures personnes de la mairie de Vice City. La solution ayant bien marché, les autorités comptent l'appliquer en vidant prochainement un immeuble complet appartenant à la mafia russe.
 
-![Fidel Raùl, viré par la municipalité.](  /content/images/2005/01/fidel-ra_l.jpg)
+![Fidel Raùl, viré par la municipalité.](/content/images/2005/01/fidel-ra_l.jpg)
+_Fidel Raùl, viré par la municipalité._
 
 <!--kg-card-end: markdown-->

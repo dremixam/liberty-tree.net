@@ -16,7 +16,8 @@ La première raison qui semble choquer les lecteurs quotidiens selon de récente
 
 Mais bon, comme on dit, c’est de l’échec que l’on renaît.
 
-![DrEmixam.](  /content/images/2016/06/0_0-4_0.jpg)
+![DrEmixam.](/content/images/2016/06/0_0-4_0.jpg)
+_DrEmixam._
 
 > **DrEmixam :** Ces critiques sont honteuses. Nous nous battons tous les jours pour aller chercher les nouvelles dans tout San Andreas et ce par tous les dangers, et c’est comme ça qu’on nous remercie ?! Bordel de merde!
 > 
@@ -24,7 +25,7 @@ Mais bon, comme on dit, c’est de l’échec que l’on renaît.
 
 Nous l’avons bien compris, et quelques témoignages vont encore nous le confirmer : ce que veulent les lecteurs c’est de l’action et de l’humour. Alors amis journalistes, si vous voulez garder votre job, évitez d’écrire sur des sujets ennuyeux et descriptifs tels qu’une croisière quelconque ou la noyade d’un parfait inconnu dans le Lagon Zancudo… Allez plutôt risquer votre vie à poursuivre la piste d’un malfaiteur en cavale par exemple.
 
-![](  /content/images/2016/06/0_0-3_0.jpg)
+![](/content/images/2016/06/0_0-3_0.jpg)
 
 > **Emma, 27 ans :** Le Liberty Tree ? Ma grand-mère le lit tous les jours oui… Personnellement, je trouve ça tellement ennuyeux… En plus ils ne dévoilent jamais le top 20 des mecs les plus sexy de l’État…
 > 

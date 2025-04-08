@@ -10,7 +10,8 @@ tags:
 
 Alors que les derniers chiffres sur le taux de criminalité à San Andreas sont éloquents et que la Police arrête de plus en plus de criminels, le surpeuplement des prisons semble atteindre son paroxysme. En effet, la moyenne de peuplement des prisons de l'Etat est de 3 prisonniers par cellule. Même si de nombreux crimes de haine sont commis en prison (partage d'une cellule entre membres de gangs différents), de nouveaux pensionnaires arrivent chaque jour. Mr Gerard Holyday, directeur du pénitencier fédéral de Back O' Beyond, a répondu à nos questions.
 
-![Mr Gerard Holyday, directeur du Pénitencier Fédéral de Back O' Beyond](  /content/images/2005/01/Policier_1.jpg)
+![Mr Gerard Holyday, directeur du Pénitencier Fédéral de Back O' Beyond](/content/images/2005/01/Policier_1.jpg)
+_Mr Gerard Holyday, directeur du Pénitencier Fédéral de Back O' Beyond_
 
 > **Liberty Tree :** Le surpeuplement des prisons devient vraiment inquiétant ?
 
@@ -30,9 +31,8 @@ Après le discours de Mr McManara qui affirmait pouvoir s'occuper d'un détenu p
 
 _Discours de Mr le Gouverneur, Blueberry, 27 décembre 2005._
 
-![](  /content/images/2005/01/Voiture_de_police.jpg)
-
-![](  /content/images/2005/01/Cellules.jpg)
+![](/content/images/2005/01/Voiture_de_police.jpg)
+![](/content/images/2005/01/Cellules.jpg)
 
 Dans ce discours, le Gouverneur évoque l'augmentation record des évasions dans les prisons de l'Etat. Il y a quelques jours, des détenus ont attaqués une ferme de Dillimore. La population s'inquiète désormais. Il est conseillé de s'enfermer chez soi dès la nuit tombée et de garder une arme à disposition. Par ailleurs, appelez le 911 immédiatement si vous apercevez des personnes à combinaison orange.
 

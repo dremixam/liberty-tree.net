@@ -28,7 +28,8 @@ Voici un résumé de sa vie :
 
 **2005:** Les chinois veulent imposer leur nouvelle drogue, la Chang Qiu (voir précédents articles), ils décident de tuer Drunky Dog. Tyler part à San Andreas, il est interdit à vie (du moins, tant que les asiatiques y seront) de vivre à Liberty City.
 
-![Voici une photo de lui, prise il y a encore une semaine](  /content/images/2005/01/drogue4_0.jpg)
+![Voici une photo de lui, prise il y a encore une semaine](/content/images/2005/01/drogue4_0.jpg)
+_Voici une photo de lui, prise il y a encore une semaine_
 
 La suite, vous la connaissez. Pourquoi être baron de la drogue à San Andreas, et pas à Vice City ?
 
@@ -46,13 +47,13 @@ Tout simplement parce que la place était "libre", et qu'il espérait être celu
 
 Malheureusement pour lui, sa carrière fut stoppée comme celle de ses prédécesseurs. La police retrouva l’entrepôt, à proximité de l'aéroport et du port, l'idéal pour recevoir sa marchandise. On découvrit pas moins de la moitié de la Colombie dans cet entrepôt. Même constat pour les containers retrouvés dans la cour :
 
-![](  /content/images/2005/01/drogue2.jpg)
-
-![](  /content/images/2005/01/drogue3.jpg)
+![](/content/images/2005/01/drogue2.jpg)
+![](/content/images/2005/01/drogue3.jpg)
 
 Il y en avait au moins pour quatre tonnes de marchandise. La police visita également sa maison, et ils trouvèrent plein de sachets de drogue dans la cuisine.
 
-![Apparemment, il ne se servait pas de sa cuisine que pour cuisiner!](  /content/images/2005/01/drogue1.jpg)
+![Apparemment, il ne se servait pas de sa cuisine que pour cuisiner!](/content/images/2005/01/drogue1.jpg)
+_Apparemment, il ne se servait pas de sa cuisine que pour cuisiner!_
 
 Tyler Santiago alias Drunky Dog purge maintenant une peine de cinq ans à la prison de Los Santos.
 

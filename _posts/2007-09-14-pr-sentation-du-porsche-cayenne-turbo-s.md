@@ -7,7 +7,7 @@ tags:
 - los-santos
 ---
 
-![](  /content/images/2005/01/Cayenne_1.jpg)
+![](/content/images/2005/01/Cayenne_1.jpg)
 
 **Moteur :**
 
@@ -61,10 +61,8 @@ Allez, pour la beauté de l’exercice, on se paye un créneau bien étroit. Là
 
 En conclusion, le Cayenne est une vraie Porsche, ou tout a été pensé dans un esprit de performance optimale avec un bon confort. Ces qualités de 4x4 sont remarquables et laissent présager une vraie souveraineté lors de vos trajets dans les montagnes du **Mont**  **Chilliad**. Malgré un bon 22 litres de moyenne sur notre journée d’essai, ce fut bien le premier SUV que j’ai eu du mal à rendre à son propriétaire. Le Cayenne vous permet d’emmener les enfants à l’école, de rouler durant de long trajets en famille et tout ça sans vous sentir dépaysé…
 
-![](  /content/images/2005/01/Cayenne_2.jpg)
-
-![](  /content/images/2005/01/Cayenne_4.jpg)
-
-![](  /content/images/2005/01/Cayenne_3.jpg)
+![](/content/images/2005/01/Cayenne_2.jpg)
+![](/content/images/2005/01/Cayenne_4.jpg)
+![](/content/images/2005/01/Cayenne_3.jpg)
 
 <!--kg-card-end: markdown-->

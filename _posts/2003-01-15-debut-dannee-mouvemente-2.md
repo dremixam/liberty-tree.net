@@ -10,16 +10,14 @@ tags:
 
 Peu après la publication de mon article 'tank volant' le FBI est venu m’arrêter à la sortie du Liberty Tree, Flo a pu prendre quelques photos:
 
-![](  /content/images/2016/07/tommyarrete.jpg)
+![](/content/images/2016/07/tommyarrete.jpg)
 
 Apres ces événements, je me suis retrouvé au commissariat de Staunton où j'ai quand même eu le droit de voir mon avocat. Ce dernier m'a dit qu'il avait été voir flo et que celui ci allait écrire un article pour forcer les autorités à me libérer, en effet, si le FBI m'a arrêté c'est à cause de mon article où je dévoilais leur prototype de tank volant, mais 3 jours après j'étais toujours au trou et aucun article n'avait été publié. Mes autres collègues à la rédaction ont donc tout mis en oeuvre pour me faire sortir.  
 Je tiens tout d'abord à les remercier mais je voudrais signaler au passage que la manifestation, qu'ils ont soulevé, à été réprimée par les forces militaires de Liberty City, ces derniers n'ont pas hésité a rouler sur le malheureux manifestant qui a osé rester sur leur route:
 
-![](  /content/images/2016/07/arm.jpg)
-
-![](  /content/images/2016/07/dead1.jpg)
-
-![](  /content/images/2016/07/dead2.jpg)
+![](/content/images/2016/07/arm.jpg)
+![](/content/images/2016/07/dead1.jpg)
+![](/content/images/2016/07/dead2.jpg)
 
 Malgré ces événements, j'ai repris mes fonctions au Liberty tree et je croyais que la vie était redevenue normale quand flo m'a téléphoné:
 

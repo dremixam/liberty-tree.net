@@ -21,18 +21,12 @@ Nous affirme le chef Kunnigan.
 
 Quoiqu'il en soit, les prostitués en réponse à cet acte ont décidé de prendre une mesure radicale, elles feront payer plus cher la _consultation_ pour toute la fin de la semaine.
 
-![](  /content/images/v1/user21/portland_a_1.jpg)
-
-![](  /content/images/v1/user21/portland_a_2.jpg)
-
-![](  /content/images/v1/user21/portland_a_3.jpg)
-
-![](  /content/images/v1/user21/portland_a_5.jpg)
-
-![](  /content/images/v1/user21/portland_a_7.jpg)
-
-![](  /content/images/v1/user21/portland_a_4.jpg)
-
-![](  /content/images/v1/user21/portland_a_6.jpg)
+![](/content/images/v1/user21/portland_a_1.jpg)
+![](/content/images/v1/user21/portland_a_2.jpg)
+![](/content/images/v1/user21/portland_a_3.jpg)
+![](/content/images/v1/user21/portland_a_5.jpg)
+![](/content/images/v1/user21/portland_a_7.jpg)
+![](/content/images/v1/user21/portland_a_4.jpg)
+![](/content/images/v1/user21/portland_a_6.jpg)
 
 <!--kg-card-end: markdown-->

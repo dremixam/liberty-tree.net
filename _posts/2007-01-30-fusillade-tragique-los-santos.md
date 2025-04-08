@@ -18,13 +18,13 @@ Nous confie le témoin.
 
 La police de Los Santos arrive assez rapidement sur les lieux.&nbsp; La banque et ses alentours sont sous contrôle en moins de dix minutes, les négociations peuvent alors commencer. La police&nbsp;un&nbsp;doigt sur les noms des deux hommes de la banque : Philip Nikols connu des services de police pour conduite en état d'ivresse&nbsp;et&nbsp;son complice Frederic&nbsp;Graner,&nbsp;aussi connu pour violence conjugale. Suite à des informations délivrées par une vidéo de la caméra de surveillance détourné par une cellule spéciale, les armes utilisées seraient des armes de calibres 45 ainsi qu'un fusil d'assaut type AK-47.
 
-![les armes utilisées seraient des armes de calibres 45 ainsi qu'un fusil d'assaut type AK-47.](  /content/images/2005/01/fusillade-LS_cam.jpg)
+![les armes utilisées seraient des armes de calibres 45 ainsi qu'un fusil d'assaut type AK-47.](/content/images/2005/01/fusillade-LS_cam.jpg)
+_les armes utilisées seraient des armes de calibres 45 ainsi qu'un fusil d'assaut type AK-47._
 
 \*\*9h00&nbsp;PM :\*\*Les négociations n'étant pas au goût des deux braqueurs,&nbsp;ils commencent donc à ouvrirent le feu sur la police. Pas moins de dix policiers sont&nbsp;blessés, voire grièvement pour certains, ainsi que cinq morts&nbsp;en moins de cinq minutes.&nbsp; L'affaire est maintenant "tactique", elle appartient donc au SWAT, c'est environ cinquante agents qui se trouvent face à la banque ainsi que face à deux tueurs lourdement armés.
 
-![](  /content/images/2005/01/fusillade-LS_02.jpg)
-
-![](  /content/images/2005/01/fusillade-LS_03.jpg)
+![](/content/images/2005/01/fusillade-LS_02.jpg)
+![](/content/images/2005/01/fusillade-LS_03.jpg)
 
 Mais peu de temps après, Frederic Graner fait diversion pendant que son complice&nbsp;vole un pick-up. Frederic se fait neutraliser grâce à un tir dans l'épaule. Quant à Philip Nikols, il&nbsp;se sauve à bord d'un pick-up Ford F150. Il est contraint de stopper sa fuite au niveau de Market pour raison de pneus crevés. Il est&nbsp;appréhendé à son tour à cause d'un problème technique à son AKM . Il survivra à ses blessures et est amené&nbsp;au All Saints General Hospital&nbsp;de Los Santos, sous haute-protection. Quant à l'argent, il a été récupéré à bord du pick-up.
 

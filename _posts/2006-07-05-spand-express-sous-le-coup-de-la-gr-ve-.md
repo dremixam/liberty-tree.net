@@ -10,9 +10,9 @@ tags:
 
 Qui ne connaît pas Spandex Express ? Il est improbable que vous n' ayez jamais entendu parler de cette fameuse société spécialisée dans la construction de bâtiments. La plupart des immeubles et des hôtels de Vice City ont été fabriqués par cette société. Mais aujourd'hui, la société est au bord de la faillite car les ouvriers se sont tous mis en grève pour une raison inconnue. Pour connaître quelle était cette fameuse raison, nous avons&nbsp;interrogé Mr. Francis Benza, un employé de la société depuis 15 ans.
 
-![](  /content/images/2005/01/maison_de_Spangler.jpg)
-
-![Monsieur Benza et sa voiture (à droite) et l' appartement des Benza (à gauche).](  /content/images/2005/01/Mr_Benza_et_sa_voiture.jpg)
+![](/content/images/2005/01/maison_de_Spangler.jpg)
+![Monsieur Benza et sa voiture (à droite) et l' appartement des Benza (à gauche).](/content/images/2005/01/Mr_Benza_et_sa_voiture.jpg)
+_Monsieur Benza et sa voiture (à droite) et l' appartement des Benza (à gauche)._
 
 > **Liberty Tree :** Bien le bonjour, monsieur Benza.
 
@@ -25,10 +25,9 @@ Qui ne connaît pas Spandex Express ? Il est improbable que vous n' ayez jamais 
 > **Liberty Tree :** Hein ? Que voulez-vous dire par "c'est à cause du fric" ?
 
 > **Mr.Benza :** C' est bien simple, on est pas assez payé ! C' est à peine si ma femme et moi on arrive à vivre avec ce que je touche. Ma femme....elle doit se prostituer pour que l' on puisse manger. Je ne veux pas ça ! (il se met à pleurer.)
-
-![](  /content/images/2005/01/travail_de_Mme_Benza.jpg)
-
-![Madame Benza (à droite) et son "lieu de travail" (à gauche)](  /content/images/2005/01/Mme_Benza.jpg)
+![](/content/images/2005/01/travail_de_Mme_Benza.jpg)
+![Madame Benza (à droite) et son "lieu de travail" (à gauche)](/content/images/2005/01/Mme_Benza.jpg)
+_Madame Benza (à droite) et son "lieu de travail" (à gauche)_
 
 > **Liberty Tree :** &nbsp;Merci de nous avoir accordé un peu de votre temps pour nous parler de votre problème. Encore une chose, pourrions-nous avoir une de vos feuilles de paye?
 
@@ -36,9 +35,9 @@ Qui ne connaît pas Spandex Express ? Il est improbable que vous n' ayez jamais 
 
 Sur ce, il nous donne sa dernière feuille de paye et nous nous dirigeons vers la maison du président et fondateur de Spand Express.
 
-![](  /content/images/2005/01/maison_des_Benza.jpg)
-
-![Monsieur Spangler (à droite) et sa maison (à gauche)](  /content/images/2005/01/Mr_Spangler.jpg)
+![](/content/images/2005/01/maison_des_Benza.jpg)
+![Monsieur Spangler (à droite) et sa maison (à gauche)](/content/images/2005/01/Mr_Spangler.jpg)
+_Monsieur Spangler (à droite) et sa maison (à gauche)_
 
 Le chef de la société Spand Express, Alex Spangler, habite quant à lui dans une petite maison située à l' est de l' île de Prawn Island, réputée pour son cinéma. Nous avons réussi à lui poser quelques questions:
 
@@ -58,6 +57,7 @@ Le chef de la société Spand Express, Alex Spangler, habite quant à lui dans u
 
 Cela fait maintenant plus d' une semaine que les employés de la société Spand Express font la grève. La plupart d' entre eux ont dû se déclarer "être au chômage" pour avoir un peu d' argent, ce qui leur permettra de survivre, le temps de trouver un emploi stable. Mais les autres, ceux qui continuent la grève, réussiront-ils à obtenir ce qu' ils désirent, à savoir une augmentation? Dès que nous aurons plus d' infos, nous vous tiendrons au courant.
 
-![Les ouvriers manifestant devant le QG de l' entreprise.](  /content/images/2005/01/manifestation.jpg)
+![Les ouvriers manifestant devant le QG de l' entreprise.](/content/images/2005/01/manifestation.jpg)
+_Les ouvriers manifestant devant le QG de l' entreprise._
 
 <!--kg-card-end: markdown-->

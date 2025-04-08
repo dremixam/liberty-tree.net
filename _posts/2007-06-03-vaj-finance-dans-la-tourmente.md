@@ -10,15 +10,15 @@ tags:
 
 La société VAJ Finance est célèbre pour le cours élevé de ses actions. Depuis 3 ans, la société se porte à merveille et fait des bénéfices records. Mais, une situation si positive ne pouvait que cacher d'autres agissements, beaucoup moins glorieux. Il faut bien admettre que l'on commence à y être habitué dans le monde des finances. On en est plus à un scandale près. Voici donc le dernier scandale en date, celui que nous appellerons sobrement, le scandale VAJ Finance.
 
-![](  /content/images/2005/01/VAJ_Building_01.jpg)
-
-![](  /content/images/2005/01/VAJ_Logo.jpg)
-
-![Les locaux de l'entreprise au coeur de Downtown.](  /content/images/2005/01/VAJ_Building_02.jpg)
+![](/content/images/2005/01/VAJ_Building_01.jpg)
+![](/content/images/2005/01/VAJ_Logo.jpg)
+![Les locaux de l'entreprise au coeur de Downtown.](/content/images/2005/01/VAJ_Building_02.jpg)
+_Les locaux de l'entreprise au coeur de Downtown._
 
 Nous avons appris grâce à une de nos sources au VCPD que le directeur de VAJ Finance avait été placé en garde à vue pour une plainte de l'une de ses employées. Elle accuse en effet M.Thompson, le PDG de l'entreprise de harcèlement sexuel et de viol. La victime tient à garder l'anonymat mais notre source nous a appris qu'il s'agissait de Stacy Grauman, l'une des trois secrétaires personnelles de M.Thompson. On se demande d'ailleurs pourquoi il a besoin de trois secrétaires (à fortes poitrines qui plus est) mais bon, passons. Cette jeune femme accuse son patron de viol et de harcèlement qui auraient eu lieu au cours des 6 derniers mois. Par chance, nous avons pu l'interroger alors qu'elle quittait le commissariat.
 
-![Mme Grauman (photo anonyme fournie par le VCPD).](  /content/images/2005/01/VAJ_Victime.jpg)
+![Mme Grauman (photo anonyme fournie par le VCPD).](/content/images/2005/01/VAJ_Victime.jpg)
+_Mme Grauman (photo anonyme fournie par le VCPD)._
 
 > **Liberty Tree :** Madame Grauman's, que s'est-il passé avec M.Thompson ?
 
@@ -48,6 +48,7 @@ Le patrimoine de M.Thompson est également impressionnant. Il possède plusieurs
 
 Il semblerait donc que la carrière de Coray Thompson à la tête de VAJ Finance soit terminée. Un autre escroc directeur sera nommé pour le remplacer mais il aura la lourde tâche de sauver l'entreprise, qui avec cette affaire, risque bien de voir le cours de ses actions dégringoler. Et tout ça grâce à nous. Quant à Stacy Grauman, son anonymat n'aura pas duré bien longtemps. Elle n'avait qu'à accepter mes avances !
 
-![M.Thompson, l'homme de tous les excès.](  /content/images/2005/01/VAJ_Patron.jpg)
+![M.Thompson, l'homme de tous les excès.](/content/images/2005/01/VAJ_Patron.jpg)
+_M.Thompson, l'homme de tous les excès._
 
 <!--kg-card-end: markdown-->

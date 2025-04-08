@@ -16,18 +16,21 @@ Une habitante de l'un des gratte-ciels de Staunton a gentiment accepté de venir
 
 Nous raconte sous des larmes Jenny Brown, 23 ans,&nbsp; étudiante&nbsp;à l'université de Newport.
 
-![Jenny Brown en train de décrire la situation en larmes, dans les bureaux du Liberty Tree.](  /content/images/2005/01/jenny_brown_description.jpg)
+![Jenny Brown en train de décrire la situation en larmes, dans les bureaux du Liberty Tree.](/content/images/2005/01/jenny_brown_description.jpg)
+_Jenny Brown en train de décrire la situation en larmes, dans les bureaux du Liberty Tree._
 
 Pour accompagner la description de&nbsp; Jenny, le Musée D'Armes Modernes nous a cédé cette photo, représentant Belleville Park depuis leur toit.
 
-![Photo prise par la caméra de surveillance du toit du "Musée D'Armes Modernes".](  /content/images/2005/01/inndondation.jpg)
+![Photo prise par la caméra de surveillance du toit du "Musée D'Armes Modernes".](/content/images/2005/01/inndondation.jpg)
+_Photo prise par la caméra de surveillance du toit du "Musée D'Armes Modernes"._
 
 "L'hygiène des égoûts n'y est absolument pour rien !"  
 Nous a annoncé par téléphone un énervé Mr. Stuart Rodston, directeur de la compagnie des éboueurs "Vilprop", qui a été accusé longuement par la population pour "mauvaise hygiène des salles de bain" et "Pollution par les Trashmasters" (les camions-poubelle de la ville).
 
 Les forces de l'ordre, n'en pouvant plus, ont laissé la place&nbsp;à l'armée, qui a envoyé une patrouille en Hunter, le modèle basique d'hélicopteres de guerre, pour calmer la population,&nbsp;à l'aide de mitraillettes automatiques M-16, ce qui devrait améliorer la situation.
 
-![La patrouille sur le point de décoller du toit du quartier général de l'armée à Staunton Island.](  /content/images/2005/01/patrouille.jpg)
+![La patrouille sur le point de décoller du toit du quartier général de l'armée à Staunton Island.](/content/images/2005/01/patrouille.jpg)
+_La patrouille sur le point de décoller du toit du quartier général de l'armée à Staunton Island._
 
 Depuis cet événement tragique, le niveau de l'eau a considérablement baissé et la situation devrait redevenir normale d'ici quelques jours. Bien que tragique, cette inondation nous a noyé les gangsters les plus recherchés de la ville, ce qui est, avouons-le, plutôt&nbsp;une bonne&nbsp;nouvelle.
 

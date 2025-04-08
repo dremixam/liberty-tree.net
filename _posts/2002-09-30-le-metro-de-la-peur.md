@@ -16,12 +16,9 @@ Alors que je me dirigeai péniblement vers le wagon qui se présentait devant mo
 
 Voilà ce que nous a dit le pauvre homme avant d'annoncer sa démission et de prendre sa retraite après ce coup dur. A ce propos, il va bientôt sortir un livre, « Le Couloir de la Peur », où il raconte en détail sa pénible aventure. A voir aussi, son interview demain soir à la télévision, et son recueil de conseils tous plus pratiques les uns que les autres : « Comment survivre dans un métro ». Bonne lecture.
 
-![](  /content/images/2016/06/metro1_0.jpg)
-
-![](  /content/images/2016/06/metro2_0.jpg)
-
-![](  /content/images/2016/06/metro3_0.jpg)
-
-![](  /content/images/2016/06/metro4_0.jpg)
+![](/content/images/2016/06/metro1_0.jpg)
+![](/content/images/2016/06/metro2_0.jpg)
+![](/content/images/2016/06/metro3_0.jpg)
+![](/content/images/2016/06/metro4_0.jpg)
 
 <!--kg-card-end: markdown-->

@@ -14,7 +14,8 @@ A partir de ce moment, tout s'est enchaîné très vite : Otto Van Poeschen, dir
 
 En resumé, lorsqu'un client achetait une voiture chez Otto's Auto, ses coordonnées ainsi que celles de la voiture, y compris un double des clefs, étaient revendues pour 30% de la valeur de la dite auto aux car-jackers qui n'avaient plus qu'a profiter de l'absence du propriétaire pour embarquer sa récente acquisition.
 
-![La concession Otto's Autos de Esplanade East.](  /content/images/2005/01/otto2.jpg)
+![La concession Otto's Autos de Esplanade East.](/content/images/2005/01/otto2.jpg)
+_La concession Otto's Autos de Esplanade East._
 
 Les malfrats conduisaient ensuite le bolide jusqu’à un entrepôt de Las Venturas où il serait stockée en container puis expédiée vers l'Europe pour y être revendue le double du prix Americain. Philip Johanson a été la victime de cette machiavélique organisation. Il a acheté recement une Dodge Coronet Super Bee de 1970 chez _Otto's Autos_. Cinq jours plus tard, il constatait avec peine le vol de son Muscle Car. Heureusement pour M. Johanson, la police de San Fierro, en collaboration avec les forces de l'ordre de Las Venturas, a pu mettre fin à ce réseau criminel avant que la Dodge ne parte vers l'Italie.
 
@@ -24,12 +25,13 @@ Les malfrats conduisaient ensuite le bolide jusqu’à un entrepôt de Las Ventu
 
 > **LT :** M. Johanson, merci de votre témoignage, et bonne route !
 
-![Philip Johanson et son coupé Coronet Super Bee '70.](  /content/images/2005/01/philip.jpg)
+![Philip Johanson et son coupé Coronet Super Bee '70.](/content/images/2005/01/philip.jpg)
+_Philip Johanson et son coupé Coronet Super Bee '70._
 
 Otto Van Poeschen va donc comparaître au tribunal de grande instance de San Fierro pour complicité de vol dès le début de semaine prochaine mais Habdel Hakim, le chef de la bande de car-jackers reste introuvable. En l'espace de six mois, une trentaine de véhicules ont étés dérobés par ce réseau bien organisé.
 
-![](  /content/images/2005/01/sfpd.jpg)
-
-![Le commissariat de San Fierro où Otto Van Poeschen va séjourner quelques temps...](  /content/images/2005/01/jail.jpg)
+![](/content/images/2005/01/sfpd.jpg)
+![Le commissariat de San Fierro où Otto Van Poeschen va séjourner quelques temps...](/content/images/2005/01/jail.jpg)
+_Le commissariat de San Fierro où Otto Van Poeschen va séjourner quelques temps..._
 
 <!--kg-card-end: markdown-->

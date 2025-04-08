@@ -14,7 +14,7 @@ Le premier album, "Electroluminescence" s’était vendu à près de 1.5 million
 Avec des sons beaucoup plus rythmés mais aussi plus de basses, DJ Fachris compte bien se tailler une part du gâteau de la scène électro.  
 Des touches de Dream Music sont présentes, non sans nous rappeler quelques titres de Robert Miles; mais aussi des accents de BreakBeat et de Techno pure. Octopussound est un album très varié et qui se laisse écouter. Mais demandons directement au principal intéressé : DJ Fachris, que nous rencontrons dans sa maison de Shoreside Vale.
 
-![](  /content/images/2016/07/Fach.jpg)
+![](/content/images/2016/07/Fach.jpg)
 
 > **Liberty Tree :** DJ Fachris, tout d'abord bonjour et merci d'avoir accepté notre interview.
 

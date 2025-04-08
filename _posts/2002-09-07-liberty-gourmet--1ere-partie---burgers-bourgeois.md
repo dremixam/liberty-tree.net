@@ -47,6 +47,7 @@ Prix pratiqués : une étoile
 
 Résumé : « Burgers Bourgeois » est un restaurant assez haut de gamme proposant cependant des plats de fast food américain, alors si vous n'avez qu'une heure pour le lunch et un salaire mensuel de 5000$ l'endroit est fait pour vous.
 
-![](  /content/images/v1/user23/burger1.jpg)&nbsp;&nbsp; ![](  /content/images/v1/user23/burger2.jpg)
+![](/content/images/v1/user23/burger1.jpg)&nbsp;&nbsp; ![](/content/images/v1/user23/burger2.jpg)
+_](/content/images/v1/user23/burger1.jpg)&nbsp;&nbsp; ![_
 
 <!--kg-card-end: markdown-->

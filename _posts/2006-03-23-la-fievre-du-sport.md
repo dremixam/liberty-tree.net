@@ -23,12 +23,10 @@ Joseph approche à grands pas de Los Santos, les deux policiers tentent alors le
 
 Le criminel est accusé de meurtre et de délit de fuite, son passage devant le juge est prévu dans les prochains jours. Les obsèques de Marta Mc Smith auront lieu au cimetière d'Angel Pine dans quatre jours.
 
-![La Chevrolet de Joseph Mc Smith devant le comissariat de Los Santos.](  /content/images/2005/01/tow.jpg)
-
-![La maison des McSmith est gardée par les forces de l'ordre jusqu’à l'audience.](  /content/images/2005/01/copspine.jpg)
-
+![La Chevrolet de Joseph Mc Smith devant le comissariat de Los Santos.](/content/images/2005/01/tow.jpg)
+_La Chevrolet de Joseph Mc Smith devant le comissariat de Los Santos._[La maison des McSmith est gardée par les forces de l'ordre jusqu’à l'audience.](/content/images/2005/01/copspine.jpg)
 ![
-Les futurs appartements du criminel.](  /content/images/2005/01/cell1.jpg)
+Les futurs appartements du criminel.](/content/images/2005/01/cell1.jpg)
 
 Le Liberty Tree remercie les forces de l'ordre de Los Santos pour leur active coopération concernant ce reportage.
 

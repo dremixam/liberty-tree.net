@@ -14,6 +14,6 @@ Conséquences de ces agressions : de moins en moins d'équipes doivent répondre
 
 > **Un représentant des ambulanciers** : On ne contrôle plus rien, le mois dernier on a envoyé des gars qui n'avaient même pas leur permis… C'est n'importe quoi. Une femme accouche dans une station service pendant qu'une autre se vide de son sang après que son chat se soit coincé dans un arbre !
 
-![](  /content/images/2016/06/paramedics1.jpg)
+![](/content/images/2016/06/paramedics1.jpg)
 
 <!--kg-card-end: markdown-->

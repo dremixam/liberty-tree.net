@@ -14,7 +14,8 @@ Depuis le début de la semaine, on peut apercevoir un peu partout dans Los Santo
 
 Voici le récit d'un manifestant : "On en a ras le bol de toute cette violence !&nbsp; A bat les armes à feu ! On en a marre de voir tout les jours le SWAT ou le FBI débarquer dans nos rues ! Comment on va protéger nos gamins ?! La police n'est même pas capable de faire régner la loi ! On en a ras le \*\*\* ! Et tout ça à cause des distributeurs et des dealers !". Les distributeurs d'armes quant à eux ne se sentent absolument pas concernés dans cette histoire. Le représentant du plus grand fournisseur du pays, Ammu-Nation, a accepté de nous recevoir.
 
-![La facade d'Ammu-Nation](  /content/images/2005/01/portarme.jpg)
+![La facade d'Ammu-Nation](/content/images/2005/01/portarme.jpg)
+_La facade d'Ammu-Nation_
 
 > **Liberty Tree :** Pourquoi ne vous sentez-vous pas concernés par cette histoire qui provoque la colère de la population ?
 
@@ -34,13 +35,13 @@ Voici le récit d'un manifestant : "On en a ras le bol de toute cette violence !
 
 Après l'interview, nous nous sommes rendus dans la rue pour vérifier comment cela se passait réellement dans les quartiers où les armes et la violence sont omniprésentes. Il s'avère qu'en effet, les armes sont le seul moyen de régler des comptes. A Grove Street, c'est encore pire. Voici la photo d'un dealer qui ouvre le feu sur des passants pour une raison inconnue et surement, injustifiée.
 
-![](  /content/images/2005/01/portarme1.jpg)
-
-![Le dealer ouvrant le feu](  /content/images/2005/01/portarme2.jpg)
+![](/content/images/2005/01/portarme1.jpg)
+![Le dealer ouvrant le feu](/content/images/2005/01/portarme2.jpg)
+_Le dealer ouvrant le feu_
 
 La police, après les émeutes d'avant-hier à pris des mesures plus importantes que jamais. C'est le plan qu'avait prévu le chef de la police en cas de surcharge des forces policières. A présent, il n'y a pas une rue où il n'y a pas de policier, pour pouvoir intervenir rapidement et essayer de maîtriser la situation en attendant des renforts.
 
-![](  /content/images/2005/01/portarme3.jpg)
+![](/content/images/2005/01/portarme3.jpg)
 
 Le gouverneur a souhaité ne pas entendre les plaintes des manifestants, un mauvais point pour les prochaines élections...
 

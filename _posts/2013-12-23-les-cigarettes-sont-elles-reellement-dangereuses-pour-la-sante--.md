@@ -20,13 +20,13 @@ Une autre étude publiée en 2012 montre quant à elle que 100 % des non fumeurs
 
 Mais ce n'est pas tout, les médias occultent également une donnée importante, la cigarette apporte la confiance en soi à l'homme en quête de virilité et les relations sociales au misanthrope. Ainsi, combien de suicides sont évités chaque jour grâce au bien-être et au réconfort que procure une simple cigarette ?
 
-![](  /content/images/2021/12/660x373--1-.jpeg)
+![](/content/images/2021/12/660x373--1-.jpeg)
 _À quoi bon avoir un logement quand on a un paquet de Redwoods ?_
 
 La conclusion est alors évidente, loin d'être le pourvoyeur des cimetières généralement décrit, la cigarette sauve innocemment des millions de vies chaque année à travers le monde, sans parler des dizaines d'associations caritatives auxquelles les grandes compagnies contribuent financièrement grâce aux revenus issus du tabac.
 
 Alors la prochaine fois que vous êtes confrontés à un spot publicitaire faisant l'inventaire des sois-disant méfaits de la cigarette, ne vous laissez pas avoir, pensez par vous-même !
 
-![](  /content/images/2021/12/RedwoodCigarettes-GTAIV-Billboard-1.png)
+![](/content/images/2021/12/RedwoodCigarettes-GTAIV-Billboard-1.png)
 _Cet article est sponsorisé par Redwood Cigarettes_
 

@@ -34,7 +34,8 @@ Après 10 années de bons et&nbsp;loyaux services dans la communauté, après av
 
 A la mort de celui-ci, Chester monta en grade et obtint ce poste dont il a tant rêvé.
 
-![Le quartier général de la police de Vice City avec, à sa tête, Chester Repressia.](  /content/images/2005/01/Commissariat.jpg)
+![Le quartier général de la police de Vice City avec, à sa tête, Chester Repressia.](/content/images/2005/01/Commissariat.jpg)
+_Le quartier général de la police de Vice City avec, à sa tête, Chester Repressia._
 
 Lors de la conférence de presse, le commissaire Repressia a énoncé ses projets pour l’avenir et ce qu’il comptait&nbsp;entreprendre au sujet de la criminalité&nbsp; toujours grandissante de Vice City.
 
@@ -46,7 +47,8 @@ Le commissaire a terminé son discours par cette phrase forte&nbsp;:
 
 > Le temps de la corruption et de la fraude est terminée et il est temps pour Vice City de se reprendre en main une fois pour toutes!
 
-![Le nouveau commissaire est entré en fonction ce matin.](  /content/images/2005/01/policier.jpg)
+![Le nouveau commissaire est entré en fonction ce matin.](/content/images/2005/01/policier.jpg)
+_Le nouveau commissaire est entré en fonction ce matin._
 
 Il reste à espérer que le nouveau commissaire tiendra parole et ne finira pas comme les anciens qui ont déserté leur bureau.
 

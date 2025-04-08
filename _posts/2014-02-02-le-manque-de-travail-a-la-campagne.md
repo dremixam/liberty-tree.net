@@ -14,7 +14,7 @@ Ce qu’il en ressort le plus généralement, c’est qu’il est rare et beauco
 
 ## Une région rurale à dominante paysanne.
 
-![](  /content/images/2016/06/0_0_149.jpg)
+![](/content/images/2016/06/0_0_149.jpg)
 
 Du côté de Grapeseed, les gens vivent essentiellement de l’agriculture. Et contrairement à ce que beaucoup de citadins pensent, c’est un métier à part entière et extrêmement difficile. Mais il est clair aussi qu’un agriculteur n’a pas les moyens d’embaucher tous les jeunes du village sur son exploitation, et quand bien même, certains aimeraient peut être aussi choisir autre chose… Afin d’en savoir un peu plus, nous sommes donc allés à la rencontre d’un agriculteur :
 
@@ -22,13 +22,11 @@ Du côté de Grapeseed, les gens vivent essentiellement de l’agriculture. Et c
 
 Cela dit, quelles autres possibilités de carrière s’offrent à ces jeunes qui veulent rester dans leur campagne natale ?
 
-![](  /content/images/2016/06/0_0_150.jpg)
-
-![](  /content/images/2016/06/0_0_151.jpg)
-
-![](  /content/images/2016/06/0_0_152.jpg)
-
-![Une exploitation agricole.](  /content/images/2016/06/0_0_153.jpg)
+![](/content/images/2016/06/0_0_150.jpg)
+![](/content/images/2016/06/0_0_151.jpg)
+![](/content/images/2016/06/0_0_152.jpg)
+![Une exploitation agricole.](/content/images/2016/06/0_0_153.jpg)
+_Une exploitation agricole._
 
 ## L’exploitation du bois à Paleto Bay
 
@@ -38,15 +36,14 @@ La région de Paleto Bay est, comme vous le savez déjà certainement, beaucoup 
 
 Comme quoi dans ces régions, le travail est non seulement rare, mais aussi indispensable. Il l’est partout bien sûr, mais encore plus par ici étant donné qu’il y a peu de choix.
 
-![](  /content/images/2016/06/0_0_154.jpg)
-
-![](  /content/images/2016/06/0_0_155.jpg)
+![](/content/images/2016/06/0_0_154.jpg)
+![](/content/images/2016/06/0_0_155.jpg)
 
 Si le bois ou l’agriculture n’est pas votre passion, pourquoi ne rejoindriez-vous pas un poste de fonctionnaire stable et efficace dans tout l’Etat ?
 
 ## « Vous voulez aider votre patrie ? Devenez fonctionnaire de police ! »
 
-![](  /content/images/2016/06/0_0_156.jpg)
+![](/content/images/2016/06/0_0_156.jpg)
 
 Eh oui ! Les jeunes n’y pensent pas souvent, mais la police couvre tout l’État de San Andreas. Bon bien sûr, elle est parfois moins présente dans certaines zones reculées, au plus grand bonheur des malfrats. Donc si vous avez envie d’action, pourquoi n’iriez-vous pas rejoindre les rangs des forces de l’ordre ? L’agent Bob Segher de la caserne de Paleto Bay a bien voulu nous dire quelques mots :
 
@@ -58,7 +55,8 @@ Ou sinon, si vous avez dû courage en ces temps de crise, n’hésitez pas à ou
 
 > Je ne voulais pas continuer mes études, et je voulais à tout prix éviter d’aller en ville, alors j’ai décidé d’ouvrir mon propre commerce. Et franchement ça marche plutôt bien pour l’instant. Enfin, n’en ouvrez pas trop d’autres pour ne pas me piquer ma clientèle hein !
 
-![Jordan Miles, tatoueur.](  /content/images/2016/06/0_0_157.jpg)
+![Jordan Miles, tatoueur.](/content/images/2016/06/0_0_157.jpg)
+_Jordan Miles, tatoueur._
 
 Ce sont de belles paroles qui montrent bien que la campagne de Blaine County n’est pas aussi déserte en emplois que l’on veut nous le faire croire. Certains y arrivent, d’autres pas, mais ce n’est pas impossible. L’exode rural n’est plus aussi présent qu’il y a cinquante ans. Il reste cependant encore bien des domaines à exploiter, comme le tourisme par exemple. Espérons que les politiciens s’intéresseront vraiment à cette région…
 

@@ -10,13 +10,13 @@ tags:
 
 C'est aux alentours de midi qu'un certain Albert Guerry, livreur à la Well Stacked Company fut arrêté pour homicides involontaires, mise en danger d'autrui et non assistance à personne en danger.
 
-![](  /content/images/2005/01/pizaboy1.jpg)
+![](/content/images/2005/01/pizaboy1.jpg)
 
 Le jeune homme aurait livré ces mots aux policiers qui l'ont interrogé : "...j'avais un rencard de la dernière chance, j'voulais pas le rater !...". Bien triste nouvelle car le jeune homme n'a pas hésité à couper l'autoroute ce qui provoqua un terrible carambolage qui coûta la vie à 2 personnes et en blessa un quinzaine d'autres, à rouler sur les trottoirs et à renverser un passant qui est gravement blessé. Mais sa vie n'est pas en danger.
 
 Le jeune Albert Guerry fut incarcéré à la prison du quartier général du LVPD en attendant son procès. Il encoure une peine de 50 ans dont 1 an avec sursis.
 
-![](  /content/images/2005/01/LVPDprison_.jpg)
+![](/content/images/2005/01/LVPDprison_.jpg)
 
 Le directeur général de Well Stacked Pizza à San Andreas, Mr Miggan est indigné et ne comprend toujours pas le comportement du jeune homme. Nous avons recueillis ces quelques lignes :
 
@@ -31,11 +31,11 @@ Le directeur général de Well Stacked Pizza à San Andreas, Mr Miggan est indig
 
 En effet, Mr Miggan à vraiment l'air choqué par cet incident qui tombe mal car l'entreprise était en train de mettre en place un nouveau menu Giant pour les gourmands.
 
-![](  /content/images/2005/01/miggan.jpg)
+![](/content/images/2005/01/miggan.jpg)
 
 Nous avons également recueillis le témoignage d'un collègue et ami d'Albert Guerry. Voulant garder secrète son identité, nous l’appellerons Bob.
 
-![](  /content/images/2005/01/pizaboy2.jpg)
+![](/content/images/2005/01/pizaboy2.jpg)
 
 > **Liberty Tree :** Que ressentez-vous après ce que votre ami vient de faire ?
 

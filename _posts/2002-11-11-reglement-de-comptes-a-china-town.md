@@ -17,14 +17,10 @@ Quand nous sommes arrivé, de nombreux échanges de tirs avaient déjà eu lieu 
 
 Après avoir pris plusieurs balles, le criminel s'est échappé dans l'ambulance, nous ne savons pas si il a été abattu comme il se doit, ni même si il a été arrêté, mais le chef de la police nous assure que 'toutes les mesures ont été prises'.
 
-![](  /content/images/v1/user0/reglement0.jpg)
-
-![](  /content/images/v1/user0/reglement1.jpg)
-
-![](  /content/images/v1/user0/reglement2.jpg)
-
-![](  /content/images/v1/user0/reglement3.jpg)
-
-![](  /content/images/v1/user0/reglement4.jpg)
+![](/content/images/v1/user0/reglement0.jpg)
+![](/content/images/v1/user0/reglement1.jpg)
+![](/content/images/v1/user0/reglement2.jpg)
+![](/content/images/v1/user0/reglement3.jpg)
+![](/content/images/v1/user0/reglement4.jpg)
 
 <!--kg-card-end: markdown-->

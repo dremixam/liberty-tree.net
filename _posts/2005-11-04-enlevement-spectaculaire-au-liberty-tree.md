@@ -18,7 +18,7 @@ _Jeudi matin a eu lieu un enlèvement rocambolesque dans les locaux du Liberty T
 
 Voici le véhicule en question filmé par la caméra de surveillance située juste au dessus de l'entrée du Liberty Tree :
 
-![](  /content/images/2005/01/enlevement%281%29.jpg)
+![](/content/images/2005/01/enlevement%281%29.jpg)
 
 En entendant tout ce vacarme devant le journal, mon instinct de journaliste m'a bien évidemment poussé à aller voir ce qui s'était passé. Ce n'est qu'en arrivant au pied l'immeuble que j'ai appris la terrible nouvelle : Maxou, notre rédacteur en chef avait été enlevé. J'ai immédiatement prévenu mes collègues. Ceux-ci, sous le choc, ont d'abord refusé de me croire mais ont vite réalisé la gravité de l’événement.
 
@@ -46,7 +46,7 @@ Nous avons recueilli le témoignage d'un vendeur de hot-dogs qui a assisté à l
 > 
 > **Mr. Wales:** C'est tout à fait normal.
 
-![](  /content/images/2005/01/hot%20dog.jpg)
+![](/content/images/2005/01/hot%20dog.jpg)
 
 Nous avons pu vérifier les dires de Mr. Wales en visionnant l'enregistrement de la caméra de surveillance.
 
@@ -72,7 +72,7 @@ La nuit passe, avec l'angoisse que la remise de rançon se passe mal. Le lendema
 
 Le Vortex qui lui a servi a été retrouvé un peu plus tard en aval de Fern Ridge :
 
-![](  /content/images/2005/01/vortex.jpg)
+![](/content/images/2005/01/vortex.jpg)
 
 Notre rédacteur en chef était donc enfin libre. Après avoir fait sa déposition, il a pu répondre à quelques questions:
 

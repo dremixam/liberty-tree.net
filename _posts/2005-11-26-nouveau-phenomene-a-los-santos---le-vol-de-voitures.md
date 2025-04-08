@@ -26,7 +26,7 @@ J'interviewe Roy Soupman, homme d'affaire, dont le Huntley a déjà été volée
 > 
 > **RS _(m'ayant coupé)_ :** EEEEEEHHHH !!! Ma voiture !!!
 
-![](  /content/images/2005/01/vol2.jpg)
+![](/content/images/2005/01/vol2.jpg)
 
 Effectivement, sa voiture se fait voler sous nos yeux pour la sixième fois ! Bientôt un record... Il faut dire que c'est marrant de voir courir un vieil homme d'affaires.
 
@@ -36,7 +36,7 @@ La voiture possède un boîtier électronique, qui, dès qu'une serrure n'est pa
 
 Le premier cobaye a été Arturo Hernandez, hier, alors qu'il essayait de voler une Cheetah...
 
-![](  /content/images/2005/01/vol6.jpg)
+![](/content/images/2005/01/vol6.jpg)
 
 Alors que je lui demandais son avis, il m'a répondu : "
 
@@ -46,9 +46,8 @@ Ce système, bien qu'encore assez coûteux, sera sûrement un des best-sellers d
 
 Pendant ce temps, plusieurs garages ont été découverts :
 
-![](  /content/images/2005/01/vol5.jpg)
-
-![](  /content/images/2005/01/vol7.jpg)
+![](/content/images/2005/01/vol5.jpg)
+![](/content/images/2005/01/vol7.jpg)
 
 Tous ont un point commun : ils sont situés dans Downtown Los Santos. Plusieurs hypothèses sont alors possibles : soit les criminels ne sont pas des gangsters de rues, soit ils veulent être très discrets. Ces individus ne voulant pas être eux-mêmes dépouillés, ils ont préféré Downtown plutôt que les bas-fonds, pourtant remplis de hangars abandonnés.
 

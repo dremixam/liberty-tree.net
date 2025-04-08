@@ -20,9 +20,8 @@ Comme l'a dit Mike Roder, difficile de savoir pourquoi les audiences de Weazel N
 
 > **Max Halfe :** On a eu une hausse énorme au niveau de l'audience et nous espérons que cela continue. Ici au siège on pense que c'est grâce a notre nouveau programme, le "Weazel News Late Edition" car c'est depuis sa création que les audiences augmentent autant. Et puis, qui dit nouveau programme, dit nouvelle équipe et c'est vrai que cette nouvelle équipe est très performante.
 
-![Siège de Weazel News.](  /content/images/2016/06/cdn52.atwikiimg.jpg)
-
-![Camionnette de Weazel News.](  /content/images/2016/06/Weazel-news-rumpo-white-back-gtav.png)
+![Siège de Weazel News.](/content/images/2016/06/cdn52.atwikiimg.jpg)
+_Siège de Weazel News._[Camionnette de Weazel News.](/content/images/2016/06/Weazel-news-rumpo-white-back-gtav.png)
 
 En effet, le record d'audience de la chaîne a été battu lors du dernier "Weazel News Late Edition" avec comme présentateur Maximus Wallace et comme reporter Nick Ross, et peut-être qu'il sera encore battu dans les prochaines éditions. Weazel News pourrait devenir l'une des chaînes de télévision phares de l'État, avant peut-être de viser plus grand ?
 

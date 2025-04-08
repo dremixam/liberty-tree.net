@@ -21,12 +21,9 @@ Note du LT : le gagnant de cette année est le Sergent Cal Whitehall.
 
 **Communiqué de la LCPD: toutes les personnes ayant vu ce soir-là un Patriot aux alentours du commissariat de Staunton sont priées d'appeler le 555-2-887.**
 
-![](  /content/images/v1/user23/esc01.jpg.jpg)
-
-![](  /content/images/v1/user23/esc02.jpg.jpg)
-
-![](  /content/images/v1/user23/esc03.jpg.jpg)
-
-![](  /content/images/v1/user23/esc04.jpg.jpg)
+![](/content/images/v1/user23/esc01.jpg.jpg)
+![](/content/images/v1/user23/esc02.jpg.jpg)
+![](/content/images/v1/user23/esc03.jpg.jpg)
+![](/content/images/v1/user23/esc04.jpg.jpg)
 
 <!--kg-card-end: markdown-->

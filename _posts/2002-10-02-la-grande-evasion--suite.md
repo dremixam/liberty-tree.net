@@ -19,12 +19,9 @@ Alvaro Ramirez était un ressortissant colombien arrivé il y a deux mois à Lib
 
 **La Police met un nouveau numéro à votre disposition si vous apercevez un patriote noir avec des individus de type hispanique près de chez vous: 555-5-998.**
 
-![](  /content/images/v1/user23/pos01.jpg)
-
-![](  /content/images/v1/user23/pos02.jpg)
-
-![](  /content/images/v1/user23/pos03.jpg)
-
-![](  /content/images/v1/user23/pos04.jpg)
+![](/content/images/v1/user23/pos01.jpg)
+![](/content/images/v1/user23/pos02.jpg)
+![](/content/images/v1/user23/pos03.jpg)
+![](/content/images/v1/user23/pos04.jpg)
 
 <!--kg-card-end: markdown-->

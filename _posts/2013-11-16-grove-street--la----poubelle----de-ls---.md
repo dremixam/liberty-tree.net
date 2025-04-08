@@ -28,19 +28,18 @@ Ce n’est sans doute pas par la violence qu’il vaille le mieux faire face à 
 
 Une jeune femme nous a également confié à quel point elle était scandalisée de peut-être devoir quitter sa maison parce qu’un homme avait estimé avoir le droit de l’en chasser.
 
-![Une jeune femme ayant toujours vécu dans le quartier.](  /content/images/2016/06/0_0_8.jpg)
+![Une jeune femme ayant toujours vécu dans le quartier.](/content/images/2016/06/0_0_8.jpg)
+_Une jeune femme ayant toujours vécu dans le quartier._
 
 ## Rétrospective sur l’évolution du quartier
 
 Souvenons-nous qu’il y a près de vingt ans, dans les années 1990, ce quartier était déjà le théâtre de conflits entre gangs, qui effrayaient déjà la population. Et pourtant, personne n’avait pensé que cela pourrait être une solution de raser tout le quartier pour reconstruire des pavillons de luxe. D’ailleurs, en admettant que ce candidat mette réellement ses propos à exécution s’il est élu, ne pensez-vous pas que tous ces jeunes « à problèmes » iront chercher refuge dans d’autres quartiers, et que cela ne fera que délocaliser le problème ?
 
-![](  /content/images/2016/06/Groove_Street.jpg)
-
-![Grove Street dans les années 1990.](  /content/images/2016/06/Groove_Street_2.jpg)
-
-![](  /content/images/2016/06/0_0_10.jpg)
-
-![Grove Street aujourd'hui.](  /content/images/2016/06/0_0_11.jpg)
+![](/content/images/2016/06/Groove_Street.jpg)
+![Grove Street dans les années 1990.](/content/images/2016/06/Groove_Street_2.jpg)
+_Grove Street dans les années 1990._[](/content/images/2016/06/0_0_10.jpg)
+![Grove Street aujourd'hui.](/content/images/2016/06/0_0_11.jpg)
+_Grove Street aujourd'hui._
 
 La véritable question est : pensez-vous que le quartier a vraiment changé depuis tout ce temps ? Est-il plus dangereux ? C’est peut-être plutôt le contexte économique et social qui a changé, et la protection de l’emploi devrait plutôt être au cœur des motivations des candidats aux municipales en ce moment...
 

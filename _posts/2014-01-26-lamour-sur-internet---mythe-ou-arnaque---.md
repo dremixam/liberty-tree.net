@@ -12,9 +12,8 @@ Depuis le boom de l’an 2000, de plus en plus de foyers se sont équipés d’I
 
 ## Un site parmi tant d’autres
 
-![](  /content/images/2016/06/logo_love_meet_0.png)
-
-![](  /content/images/2016/06/LoveMeet.net_.jpg)
+![](/content/images/2016/06/logo_love_meet_0.png)
+![](/content/images/2016/06/LoveMeet.net_.jpg)
 
 Parmi la multitude de sites qu’il y a actuellement, c’est encore Lovemeet.net le plus utilisé par les habitants de San Andreas. Il est la référence en matière de formation de couples. Mais la question est, est-ce que ces couples durent-ils vraiment ? Connaissez-vous une seule personne qui a rencontré son grand amour sur Internet ? Parce que oui, ce n’est pas une histoire de croyance, tout le monde doit savoir qu’il a une moitié quelque part sur Terre, et une seule, pas plus. Est-ce que ce site permet vraiment de la trouver plus facilement, ou au contraire, est-ce que l’on y trouve que des pervers ?
 
@@ -24,13 +23,14 @@ Katelyn, 34 ans, nous a montré beaucoup d’enthousiasme vis-à-vis de ce site 
 
 > Avant de découvrir l’existence de ce site, j’étais persuadée que je finirais ma vie seule, et aujourd’hui j’ai rencontré un homme fabuleux. Nous allons nous marier la semaine prochaine ! Bon, je préfère ne pas mentionner qu'il a envie que je lui fasse des choses plus ou moins dégoûtantes, mais est-ce que ça en fait un pervers pour autant hein ? Des tas d’hommes sont comme ça.
 
-![Katelyn, accompagnée de son fiancé.](  /content/images/2016/06/0_0_128.jpg)
+![Katelyn, accompagnée de son fiancé.](/content/images/2016/06/0_0_128.jpg)
+_Katelyn, accompagnée de son fiancé._
 
 Un peu plus loin en ville, nous avons également rencontré des jeunes hommes, ayant un point de vue bien différent sur la question…
 
 > Perso, je me méfie de ces trucs virtuels, on ne sait pas qui récupère les données qu’on y envoie… L’an dernier, ma cousine a voulu essayer et en six mois de temps, elle s’est retrouvée dans un réseau de prostitution. Le problème, c’est que comme on l’a découvert trop tard, on n’a rien pu faire, elle était déjà partie à Liberty City avec son mac, le type qu’elle a dû rencontrer sur le site.
 
-![](  /content/images/2016/06/0_0_129.jpg)
+![](/content/images/2016/06/0_0_129.jpg)
 
 Les expériences des uns et des autres prouvent bien qu’Internet n’apporte pas forcément que du mauvais, mais qu’il faut rester sur ses gardes. Cependant, les chiffres semblent tout de même aller dans le sens du négatif en disant que seulement une rencontre sur 50 réalisée sur Internet se concrétise par un mariage. Si ce n’est aux personnes, à qui ces sites profitent-ils alors ?
 
@@ -40,7 +40,8 @@ Quitte à former de belles et romantiques histoires d’amour, ces sites comme L
 
 > C’est moi qui gère tout le côté marketing du site, et je peux vous dire que pour que ce soit le plus vendeur possible, mon boulot c’est d’inciter le plus possible les gens à parler d’eux et faire de nouvelles rencontres. C’est en développement les relations des uns, que ça fait le bonheur des autres. Je n’irai pas jusqu’à vous conseiller de boycotter tous ces réseaux sociaux et sites de rencontres, mais méfiez-vous de ce que vous postez dessus, c’est tout.
 
-![Un assistant marketing chez Life Invader.](  /content/images/2016/06/0_0_130.jpg)
+![Un assistant marketing chez Life Invader.](/content/images/2016/06/0_0_130.jpg)
+_Un assistant marketing chez Life Invader._
 
 Voilà un conseil très avisé que nous nous empresserons de suivre, n’est-ce pas ? En fait, Internet c’est un peu comme l’alcool et toutes les autres addictions, c’est à consommer avec modération. Vous ne trouvez pas ?
 

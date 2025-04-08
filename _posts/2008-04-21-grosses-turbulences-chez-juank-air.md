@@ -17,13 +17,12 @@ En effet, d'après un responsable, la compagnie perdrait plus de 100 millions de
 
 La compagnie prévoit donc de supprimer 10000 emplois, soit la moitié de ses effectifs, et la fin de ses activités les plus déficitaires : le fret et le transport de VIP. Une baisse des salaires de plus de 50 % est également prévue.
 
-![](  /content/images/2005/01/Shamal.jpg)
-
-![](  /content/images/2005/01/Andromada.jpg)
+![](/content/images/2005/01/Shamal.jpg)
+![](/content/images/2005/01/Andromada.jpg)
 
 Ces mesures n'ont pas manqué de susciter la colère des syndicats qui ont annoncé une grève générale dans l'Etat qui paralyserait le trafic aérien.
 
-![](  /content/images/2005/01/pilote.jpg)
+![](/content/images/2005/01/pilote.jpg)
 
 > Je gagne à peine 1500 $ par mois avec lesquels je dois élever 3 enfants, je n'imagine pas si on enlève 750 $, je m'en sortirais pas c'est sûr...
 

@@ -12,15 +12,14 @@ C'est effectivement cette nuit, que le barrage Sherman, édifié dans les année
 
 Hier, des fissures importantes avaient déjà été remarquées sur la face Sud du barrage, et les équipes d'entretien s'étaient empressées de venir sur place. Mais cette nuit une vague de 40m de haut s'est déversée dans le canal de Tierra Robada, causant ainsi d'incroyables pertes, humaines et matérielles.
 
-![](  /content/images/2005/01/las%20barrancas%20sec%201.jpg)
+![](/content/images/2005/01/las%20barrancas%20sec%201.jpg)
 
 Des parties entières de Tierra Robada sont pour le moment sous les eaux, le transport ferroviaire a bien sur été interrompu. On dénombre pour l'instant une centaine de morts, la plupart des habitants des zones à risques ayant été évacués. Les dégâts matériels sont quant à eux estimés a près de 40 millions de dollars.
 
 > C'est bien sur un drame historique que nous vivons, _déclare John Andrew Sherman, petit fils D'Andrew, adjoint au maire concerné par toutes les questions en rapport avec l'environnement_. Cet édifice représentait beaucoup pour la ville, et pour l'état. Outre les pertes engendrées par cette tragédie, il va nous falloir nous préoccuper du moyen d'assurer la fourniture d'énergie a tout l'état! Mais pour l'instant, entre nous, vous avez déjà vu des poissons fouiller les poubelles du Cluckin'Bell ?
 
-![](  /content/images/2005/01/las%20barrancas%20sec%202.jpg)
-
-![](  /content/images/2005/01/las%20barrancas%20eau%202.jpg)
+![](/content/images/2005/01/las%20barrancas%20sec%202.jpg)
+![](/content/images/2005/01/las%20barrancas%20eau%202.jpg)
 
 Il est vrai que maintenant que le niveau des eaux a considérablement monté, parfois même jusqu’à plus de 3 mètres, l'écosystème sous-marin en profite pour s'aventurer loin sur nos "terres".
 

@@ -14,9 +14,9 @@ Le premier jour ne fut pas de tout repos. Maxou, Fido et moi même somme arrivé
 
 Le deuxième jour fut celui des premières attaques, mais pas seulement morales... Le procès avait finalement commencé. Les premiers accrochages entre les avocats se ressentaient dans le tribunal, la police a même du intervenir. Heureusement, notre deuxième avocat évoqua le passé turbulent de Ken Rosenberg à la Cour (drogue, alcool, violence...) L'audience fut suspendue pour cause de hors sujet. Le procès reprit vers 15h30. En fin de journée, nous avions repris l'avantage. Audience remise au lendemain, le jury ne pouvant pas encore décidé. A la sortie, stupéfaction pour moi, on avait vandalisé ma pauvre voiture. Je dû alors rentrer en taxi.
 
-![](  /content/images/2005/01/caissecassez.jpg)
-
-![Ma voiture vandalisé par on ne sait qui](  /content/images/2005/01/caissecassez2.jpg)
+![](/content/images/2005/01/caissecassez.jpg)
+![Ma voiture vandalisé par on ne sait qui](/content/images/2005/01/caissecassez2.jpg)
+_Ma voiture vandalisé par on ne sait qui_
 
 Le troisième jour fut court puisque l'association qu'avait créé Mr. Bryan (voir l'article avant le procès) est intervenue et a envahie le tribunal. Même le S.W.A.T a eu du mal à les déloger. Il nous avait bien dit qu'il nous aiderait mais pas à ce point là. Cette journée nous laissa donc réfléchir à un plan d'attaque pour la quatrième journée qui s'annonçait ô combien intéressante.
 
@@ -24,7 +24,8 @@ Quatrième journée : Rien ! Le procureur était tombé malade pendant la nuit, 
 
 Enfin la cinquième journée, nous avons découvert avec horreur que des personnes avaient tagué sur un mur des croix gammés avec marqué A. Shrub et signé de "L.T". Audience remise au lendemain, le procureur était toujours malade, donc graffiti ou pas, l'audience n'aurait pas eu lieu. (Pour ne pas heurter la sensibilité des différentes ethnies nous avons masqué les croix gammés).
 
-![Les graffitis retrouvés sur un mur du tribunal.](  /content/images/2005/01/graffgrave.jpg)
+![Les graffitis retrouvés sur un mur du tribunal.](/content/images/2005/01/graffgrave.jpg)
+_Les graffitis retrouvés sur un mur du tribunal._
 
 Le sixième jour, et après enquête de la police, il s'avéra que quelqu'un, caché sous le nom de Mister X, aurait payé des Skinheads pour réaliser ces graffitis. Le procureur étant à nouveau sur pieds, l'audience repris normalement. Notre stratégie paya puisqu'en fin de journée, nous avions l'avantage encore une fois.
 

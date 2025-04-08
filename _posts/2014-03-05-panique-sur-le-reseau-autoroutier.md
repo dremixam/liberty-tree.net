@@ -16,11 +16,10 @@ Mais ce qui irrite le plus les autorités, c'est sa manie de poster des photos p
 
 > Si ce salopard croit qu'il va pouvoir continuer à faire le mariole en portant un de nos uniformes et en nous manquant ainsi de respect, il peut d'ores et déjà se foutre son flingue dans l'oignon, c'est moi qui vous le dis !
 
-![](  /content/images/2016/06/Bolingbroke_Penitentiary.jpg)
-
-![](  /content/images/2016/06/Route_68.jpg)
-
-![Sur ces quelques photos postées par l'individu, on le voit notamment posant devant l'entrée principale du pénitencier de Bolingbroke quelques instants avant l'évasion de la semaine dernière.](  /content/images/2016/06/Sandy_Shores.jpg)
+![](/content/images/2016/06/Bolingbroke_Penitentiary.jpg)
+![](/content/images/2016/06/Route_68.jpg)
+![Sur ces quelques photos postées par l'individu, on le voit notamment posant devant l'entrée principale du pénitencier de Bolingbroke quelques instants avant l'évasion de la semaine dernière.](/content/images/2016/06/Sandy_Shores.jpg)
+_Sur ces quelques photos postées par l'individu, on le voit notamment posant devant l'entrée principale du pénitencier de Bolingbroke quelques instants avant l'évasion de la semaine dernière._
 
 D'après les nombreuses photos postées depuis son compte Lifeinvader, qui compte désormais plus de 10 000 stalkers, l'homme serait en possession d'un SUV Declasse Granger ayant appartenu au FIB et d'une moto de la SAHP, ce qui lui aurait permis de n'être jamais inquiété par qui que ce soit.
 
@@ -30,11 +29,13 @@ Ni le FIB, ni la SAHP n'ont souhaité s'exprimer quant aux vols de véhicules of
 
 Bien que les autorités soient à pied d'œuvre pour essayer de repérer l'individu et ainsi l'empêcher de commettre d'autres crimes, il ne se passe pas un seul jour sans qu'un voire plusieurs cadavres ne soient retrouvés sur le bord de la chaussée, parfois même partiellement dénudés. À tel point que certains usagers ont décidé d'emprunter d'autres itinéraires, souvent plus longs, dans l'espoir de lui échapper.
 
-![Ce couple de touristes, dont les corps n'ont toujours pas été identifiés, ont commis une erreur qui leur aura coûté la vie. Ils n'auront sans doute jamais eu le temps d'apprécier le magnifique paysage désertique qui s'offrait à leurs yeux.](  /content/images/2016/06/Senora_Way.jpg)
+![Ce couple de touristes, dont les corps n'ont toujours pas été identifiés, ont commis une erreur qui leur aura coûté la vie. Ils n'auront sans doute jamais eu le temps d'apprécier le magnifique paysage désertique qui s'offrait à leurs yeux.](/content/images/2016/06/Senora_Way.jpg)
+_Ce couple de touristes, dont les corps n'ont toujours pas été identifiés, ont commis une erreur qui leur aura coûté la vie. Ils n'auront sans doute jamais eu le temps d'apprécier le magnifique paysage désertique qui s'offrait à leurs yeux._
 
 Il semblerait malgré tout que l'individu soit sujet à des sautes d'humeur fréquentes qui auraient notamment permis à certaines de ses victimes de s'en sortir sans trop d'égratignures. Ted E. Baer, un jeune homme de 23 ans, a de ce fait réussi l'inexplicable : réchapper à une agression avec seulement quelques côtes brisées et une fracture du poignet droit après que celui-ci a pu filmé l'individu avec son smartphone. Une vidéo de quelques secondes à peine a pu être extraite de la carte mémoire de l'appareil, alors très endommagé suite à l'agression.
 
-![La vidéo a déjà été visionnée plusieurs dizaines de milliers de fois depuis sa mise en ligne il y a seulement quelques jours.](  /content/images/2016/06/Recording_0.gif)
+![La vidéo a déjà été visionnée plusieurs dizaines de milliers de fois depuis sa mise en ligne il y a seulement quelques jours.](/content/images/2016/06/Recording_0.gif)
+_La vidéo a déjà été visionnée plusieurs dizaines de milliers de fois depuis sa mise en ligne il y a seulement quelques jours._
 
 > Aucun des charla... psychiatres à qui nous avons parlé n'est en mesure d'expliquer pourquoi ce gosse est encore vivant à l'heure actuelle. Sans doute n'était-il pas assez "mûr".
 

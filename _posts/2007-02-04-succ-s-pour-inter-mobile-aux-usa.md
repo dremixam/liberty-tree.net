@@ -10,7 +10,7 @@ tags:
 - las-venturas
 ---
 
-![](  /content/images/2005/01/logointermobile-molotov.jpg)
+![](/content/images/2005/01/logointermobile-molotov.jpg)
 
 Les résultats de&nbsp;Inter Mobile démontrent que l’arrivée de l’opérateur sur le marché, avec des offres et services « simples, différents et meilleurs », correspond bien à une véritable attente du marché.&nbsp;Inter Mobile a réussi à bousculer le marché et à s’imposer en seulement 9 mois comme la véritable alternative face aux opérateurs actuels, et est l’opérateur mobile virtuel ayant connu la croissance la plus rapide du marché.
 
@@ -36,7 +36,8 @@ _ **Sur la qualité du service...** _
 
 - D'autant plus que&nbsp;Inter Mobile rend la communication gratuite au-delà de la 3ème minute.\_
 
-![Le Building où sont installés le Service client de Inter Mobile et J&M Saudi Inc.](  /content/images/2005/01/jallal_mahmoudsaudiltdbuilding-molotov.jpg)
+![Le Building où sont installés le Service client de Inter Mobile et J&M Saudi Inc.](/content/images/2005/01/jallal_mahmoudsaudiltdbuilding-molotov.jpg)
+_Le Building où sont installés le Service client de Inter Mobile et J&M Saudi Inc._
 
 **© Fido\_le\_muet**
 
@@ -52,7 +53,7 @@ Inter Mobile a également mis en place une politique de partenariats avec les gr
 
 Les ambitions de 2007 verront un renforcement des équipes actuelles et la recherche de nouveaux leviers de croissance pour soutenir ce déploiement d’envergure.
 
-![](  /content/images/2005/01/interlibertypack-molotov.jpg)
+![](/content/images/2005/01/interlibertypack-molotov.jpg)
 
 > Au regard de ces excellents résultats, nous envisageons déjà de dépasser nos objectifs et donc d’accélérer notre percée sur le marché américain. Nos indicateurs sont tous à la hausse pour 2007, qu’il s’agisse des investissements publicitaires, du renforcement de notre présence dans les réseaux distributeurs ou des recrutements. Nous nous inscrivons dans une véritable dynamique de croissance pour 2007 et devrions atteindre plus rapidement que prévu le seuil du 1er million de clients annoncé au lancement.
 

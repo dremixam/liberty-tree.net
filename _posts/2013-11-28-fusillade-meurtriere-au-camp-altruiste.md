@@ -12,7 +12,8 @@ tags:
 
 Il est impensable de traiter des gens de cette façon de nos jours, surtout avec tous les traités internationaux relatifs aux droits de l’Homme. Lorsque la police s’est rendue sur les lieux après l’appel d’urgence, chaque policier a été anéanti. « Jamais nous n’avions encore vu de crime aussi sanglant », nous ont confié plusieurs agents encore sous le choc. Il est évident, même si ni l’autopsie, ni l’enquête n’ont encore montré leurs premières conclusions, que ces gens ont été massacrés par une arme à feu de sang froid. Cela dit, ils ont dû essayé de se défendre, étant donné que des fusils de précision et des mitrailleuses ont été retrouvés sur les lieux.
 
-![L'autel, lieu du massacre.](  /content/images/2016/06/0_0_23.jpg)
+![L'autel, lieu du massacre.](/content/images/2016/06/0_0_23.jpg)
+_L'autel, lieu du massacre._
 
 Le plus curieux, c’est qu’ils ont été tués devant leur autel. Personne de la ville ne savait vraiment en quoi consistaient leurs rites, mais on ne peut alors que supposer que le meurtrier en voulait à leurs croyances. Plusieurs habitants de Paleto Bay, une petite bourgade à quelques miles de là, nous ont rapporté que des auto-stoppeurs disparaissaient fréquemment dans cette région.
 
@@ -36,6 +37,7 @@ En ville, la peur ne cesse de monter. Deux jeunes femmes nous ont confié leurs 
 
 Et effectivement, personne ne peut encore assurer à l’heure actuelle que la ville, et même tout l’état, ne sont pas en grand danger.
 
-![Deux jeunes femmes inquiètes.](  /content/images/2016/06/0_0_24.jpg)
+![Deux jeunes femmes inquiètes.](/content/images/2016/06/0_0_24.jpg)
+_Deux jeunes femmes inquiètes._
 
 <!--kg-card-end: markdown-->

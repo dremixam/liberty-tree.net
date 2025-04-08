@@ -13,16 +13,11 @@ Ce matin, à l'heure où les honnêtes gens vont au travail, la police s'est att
 
 Le policier dont nous citons ces paroles et qui était ce matin chargé de cette tâche n'en revient toujours pas, en effet, il est vrai qu'à Liberty-City, on est à environ quatre voitures par personne ayant le permis, donc comme il n'est que très peu probable que ces personnes aient trois voitures supplémentaires (il est vrai que les habitants de la vallée Shoreside font remonter les statistiques avec leur moyenne de cinq voiture par tête), on pourrait donc croire qu'il y a environ autant de personnes qui ont leur permis que de personnes qui ne l'ont pas et conduisent quand même. De quoi vous faire peur quand vous prenez le volant, surtout que la plupart de ces personnes ont des voitures venant du NAC (Nelson's Auto Custom) où les voitures 'retouchées' ressortent jolies et puissantes mais pas aux normes sécurité de notre ville.
 
-![](  /content/images/v1/user21/record_01.jpg)
-
-![](  /content/images/v1/user21/record_02.jpg)
-
-![](  /content/images/v1/user21/record_03.jpg)
-
-![](  /content/images/v1/user21/record_04.jpg)
-
-![](  /content/images/v1/user21/record_05.jpg)
-
-![](  /content/images/v1/user21/record_06.jpg)
+![](/content/images/v1/user21/record_01.jpg)
+![](/content/images/v1/user21/record_02.jpg)
+![](/content/images/v1/user21/record_03.jpg)
+![](/content/images/v1/user21/record_04.jpg)
+![](/content/images/v1/user21/record_05.jpg)
+![](/content/images/v1/user21/record_06.jpg)
 
 <!--kg-card-end: markdown-->

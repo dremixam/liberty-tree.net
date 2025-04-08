@@ -8,13 +8,13 @@ tags:
 - los-santos
 ---
 
-![](  /content/images/2016/06/2.jpg)
+![](/content/images/2016/06/2.jpg)
 
 Le sénateur Landry Newman, habitué à la polémique et n'ayant pas peur des conflits (au contraire), a déclaré être contre la vente d'armes.
 
 > Seule la police devrait pouvoir détenir des armes. N'importe qui peut aller dans la première armurerie qu'il croise et s'acheter un fusil d'assaut, c'est n'importe quoi ! De plus, depuis quelques semaines, les "crews" prolifèrent en ville, et lorsqu'ils braquent des épiceries à main armée, le vendeur a lui aussi une arme, et donc une fusillade éclate. Quand d'honnêtes gardiens de la paix se font fusiller lors d'une descente à Grove Street, ce n'est pas vous qui indemnisez les familles, hein !
 
-![](  /content/images/2016/06/2_1.jpg)
+![](/content/images/2016/06/2_1.jpg)
 
 Nous nous sommes donc rendus dans ce quartier de Grove Street pour parler de ces potentielles réformes avec des membres de gangs. Ils ont refusé de nous dire leurs noms, et qu'on les prenne en photo.
 
@@ -30,6 +30,6 @@ Quelques heures après l'annonce du sénateur, un premier sondage a été mené 
 
 Les dirigeants d'Ammu Nation n'ont donc rien à craindre, ils ne sont pas prêts d'être contraints à fermer, et ce pour le bonheur de tous, ou presque.
 
-![](  /content/images/2016/06/2_2.jpg)
+![](/content/images/2016/06/2_2.jpg)
 
 <!--kg-card-end: markdown-->

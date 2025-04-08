@@ -38,7 +38,7 @@ Cependant, le candidat socialiste ne se laissera pas démonté et utilisera la p
 
 Une mémorable odyssée donc, que cette nouvelle élection. On en redemande. C'est peut-être la seule solution que le gouvernement a trouvée pour que la population s'intéresse davantage à son devoir de citoyen.
 
-![](  /content/images/2005/01/escorte.jpg)
+![](/content/images/2005/01/escorte.jpg)
 
 Je conclurai donc cet article en souhaitant bonne chance à notre État qui ne peut continuer à être dirigé de cette manière. Nos hommes politiques semblent ne pas voir la misère dans laquelle il sombre. C'est pourquoi, j'espère un effort de tous les républicains pour redresser la situation critique et non pas prononcer des mots en l'air.
 

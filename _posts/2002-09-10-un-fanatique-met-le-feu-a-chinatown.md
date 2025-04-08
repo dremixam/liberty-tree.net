@@ -13,9 +13,8 @@ Hier dans l'après-midi j'ai eu l'occasion de participer à l'inauguration de no
 
 En effet, un fanatique, Ray Darles, ayant volé au surplus militaire un M16 et des grenades s'était mis à tirer sur tout ce qui bougeait dans une rue piétonne de Chinatown. La police a entrepris une intervention rapide, cependant infructueuse, qui avait pour objet l'interpellation du fameux Darles qui tirait littéralement dans le tas de piétons, car comme nous le savons tous, l'habitant moyen s'approche pour voir un corps étalé par terre au lieu de s'enfuir du lieu de la boucherie...
 
-![](  /content/images/v1/user23/fana01.jpg)
-
-![](  /content/images/v1/user23/fana06.jpg)
+![](/content/images/v1/user23/fana01.jpg)
+![](/content/images/v1/user23/fana06.jpg)
 
 Toute la difficulté pour mettre le psychopathe hors l'état de nuire provenait de l'architecture urbaine de Chinatown, car le LCPD ne pouvait faire entrer aucun véhicule dans la zone piétonne où Darles s'était retiré.
 
@@ -29,12 +28,9 @@ Ces actes de barbarie inquiètent beaucoup les autorités de Chinatown, particul
 
 Notre ville essuie-t-elle une nouvelle vague de violence?
 
-![](  /content/images/v1/user23/fana02.jpg)
-
-![](  /content/images/v1/user23/fana03.jpg)
-
-![](  /content/images/v1/user23/fana05.jpg)
-
-![](  /content/images/v1/user23/fana04.jpg)
+![](/content/images/v1/user23/fana02.jpg)
+![](/content/images/v1/user23/fana03.jpg)
+![](/content/images/v1/user23/fana05.jpg)
+![](/content/images/v1/user23/fana04.jpg)
 
 <!--kg-card-end: markdown-->

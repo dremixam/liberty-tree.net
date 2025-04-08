@@ -8,7 +8,7 @@ tags:
 - las-venturas
 ---
 
-![](  /content/images/2005/01/envracLV2.jpg)
+![](/content/images/2005/01/envracLV2.jpg)
 
 **Lundi 02/10/06 :**
 
@@ -16,29 +16,24 @@ Ce lundi a eu lieu le premier lunch FerrariChat de Las Venturas. Après les conc
 
 Avec le récent développement d'internet, les clubs classiques, avec cotisations, les rencontres préparées à l'avance, les expositions officielles ont perdu de l'ampleur au profit des rencontres informelles. Rien n'est réellement préparé à l'avance et il suffit généralement d'une idée lancée à la volée sur le web pour donner lieu à un rassemblement improvisé de belles mécaniques.&nbsp; Ainsi LV regorge de propriétaire de Ferrari, dont de nombreux font partie de la communauté online de FerrariChat. Moi même étant propriétaire et membre de FC, j'ai décidé que Las Venturas devait elle aussi avoir son rassemblement de FChatters. Des rassemblements de communauté existaient déjà à Los Santos où les FChatters se réunissaient au Haus of Pizza, j'ai décidé tout d'abord qu'on se donnerait rendez-vous au SteakHouse de mon quartier mais finalement, le choix s'est porté sur ma résidence de Las Venturas.&nbsp; Finalement, c'est sous les yeux de voisins médusés qu'une demi-douzaine de Ferrari et autres italiennes sont arrivées dans le quartier. L'après-midi et le barbecue était l'occasion surtout de faire correspondre les pseudonymes du forum aux têtes de propriétaires. Globalement tout le monde était satisfait, surtout les enfants des voisins qui ont pu admirer les beaux véhicules en lançant des remarques comme "elle monte à combien?" et "quel est son prix?".
 
-![](  /content/images/2005/01/LVV1.jpg)
-
-![](  /content/images/2005/01/LVV2.jpg)
-
-![](  /content/images/2005/01/LVV3.jpg)
-
-![](  /content/images/2005/01/LVV4.jpg)
+![](/content/images/2005/01/LVV1.jpg)
+![](/content/images/2005/01/LVV2.jpg)
+![](/content/images/2005/01/LVV3.jpg)
+![](/content/images/2005/01/LVV4.jpg)
 
 **Mercredi 04/10/06 :**
 
 Sortie du Magazine Street Tuner d'Octobre consacré aux Hot Import Nights qui se sont déroulées le mois dernier au Casino Come-a-Lot de Las Venturas, avec en couverture, une des Best of Show, Chevrolet Cobalt SS avec un peu trop de chrome et des ailerons qui ne servent à rien. On notera également le retour de la rubrique Ultimate Drift Car avec un article sur la Nismo Autech Stagea de 650 chevaux de San Fierro.
 
-![](  /content/images/2005/01/LVV13.jpg)
+![](/content/images/2005/01/LVV13.jpg)
 
 **Jeudi 05/10/06 :**
 
 Une intoxication alimentaire est survenue au Burger Shot de Redsands West. Après avoir acheté un menu Salade avec Burger-XL, Hampton Gallum, un quinquagénaire travaillant dans un salon de coiffure local, s'est étouffé avec le steak du Burger XL à peine entamé. Il fut immédiatement transporté à l’hôpital de la Salvation. Les équipes du ministère de la santé ont découvert par la suite que les steaks vendus dans les Burgers-XL comportaient de la javel et devenaient verts dès que l'on les retirait de la plaque de cuisson. Le préparateur des steaks Benson Smith a été immédiatement interpellé peu après avoir avoué ajouter de l'eau de javel dans l'huile de tournesol servant à cuire les steaks. Pour sa défense, il confesse que cela fait deux ans qu'il boit de l'eau de javel au petit déjeuner et que cela le rend plus alerte au travail.
 
-![](  /content/images/2005/01/LVV10.jpg)
-
-![](  /content/images/2005/01/LVV11.jpg)
-
-![](  /content/images/2005/01/LVV12.jpg)
+![](/content/images/2005/01/LVV10.jpg)
+![](/content/images/2005/01/LVV11.jpg)
+![](/content/images/2005/01/LVV12.jpg)
 
 **Vendredi 06/10/06 :**
 
@@ -48,14 +43,10 @@ Brian Murray, propriétaire du Caligula's Casino avait présenté Jeudi son nouv
 
 L'enquête du LVPD suit son cours.
 
-![](  /content/images/2005/01/LVV5.jpg)
-
-![](  /content/images/2005/01/LVV6.jpg)
-
-![](  /content/images/2005/01/LVV7.jpg)
-
-![](  /content/images/2005/01/LVV8.jpg)
-
-![](  /content/images/2005/01/LVV9.jpg)
+![](/content/images/2005/01/LVV5.jpg)
+![](/content/images/2005/01/LVV6.jpg)
+![](/content/images/2005/01/LVV7.jpg)
+![](/content/images/2005/01/LVV8.jpg)
+![](/content/images/2005/01/LVV9.jpg)
 
 <!--kg-card-end: markdown-->

@@ -14,11 +14,12 @@ C'était un vendredi-midi plutôt calme à Los Santos. Quand le vol 240-7 en dir
 
 En effet, d'après plusieurs témoins, l'avion se serait crashé après avoir fait plusieurs 360°. Après que l'avion ait piqué du bec, le pilote aurait tenté de reprendre de l'altitude, mais aura finalement échoué. Et c'est ainsi que le Beagle s'est écrasé à proximité du manoir du célèbre rappeur Madd Dogg, faisant alors une immense onde de choc, qui fit exploser trois véhicules qui se trouvaient dans les parages.
 
-![Un des heureux survivants de cet accident](  /content/images/2005/01/Survivant.jpg)
+![Un des heureux survivants de cet accident](/content/images/2005/01/Survivant.jpg)
+_Un des heureux survivants de cet accident_
 
 Ensuite, le Liberty-Tree a décidé d'enquêter sur cette catastrophe. Pour commencer, nous avons dû trouver d'où venait ce Beagle. Une question dont nous avons vite trouvé la réponse : il venait de l'aéroport de Los Santos.
 
-![](  /content/images/2005/01/A_roport.jpg)
+![](/content/images/2005/01/A_roport.jpg)
 
 Une fois sur place, nous avons pu avoir une interview du responsable de l'entretien des appareils, Marc Saderec.
 
@@ -34,7 +35,8 @@ Une fois sur place, nous avons pu avoir une interview du responsable de l'entret
 > 
 > **MS :** Non, il était l'un des meilleurs de l’État. Malgré quelques problèmes d'alcool, il était bien.
 
-![Martin Lamers, pilote du vol 240-7.](  /content/images/2005/01/Pilot.jpg)
+![Martin Lamers, pilote du vol 240-7.](/content/images/2005/01/Pilot.jpg)
+_Martin Lamers, pilote du vol 240-7._
 
 Alors la grande question, c'est : comment un avion neuf, avec un plein de kérosène, et sans défectuosités, ait pu se crasher ? Le pilote serait-il le principal coupable?
 

@@ -16,7 +16,7 @@ Nous sommes allés à la rencontre d’un des plus importants et anciens product
 
 Peut-être le connaissez-vous déjà : il possède une demeure immense surplombant ses vignes où il accueille ses clients afin de déguster son vin.
 
-![](  /content/images/2016/06/0_0_51.jpg)
+![](/content/images/2016/06/0_0_51.jpg)
 
 Garrett Edwards, le propriétaire de ce vignoble, nous a confié que depuis plus de cinquante ans qu’il en est à la tête (à la suite de ses ancêtres), c’est la première fois qu’il connaît une période de crise.
 
@@ -24,9 +24,9 @@ Garrett Edwards, le propriétaire de ce vignoble, nous a confié que depuis plus
 
 M. Edwards nous a également rapporté à quel point la fabrication du vin est un travail important qui demande beaucoup de main d’œuvre. Et pour payer les employés tout en réussissant à garder une marge qui lui permet de vivre, il est bien obligé d’attirer les gens comme il peut. Mais les gens boiront-ils pendant les fêtes, non seulement à cause de la crise, mais aussi à cause de toutes ces publicités anti-alcool diffusées par le gouvernement fédéral ?
 
-![](  /content/images/2016/06/0_0_53.jpg)
-
-![La terrasse où les clients peuvent déguster le vin de M. Edwards.](  /content/images/2016/06/0_0_54.jpg)
+![](/content/images/2016/06/0_0_53.jpg)
+![La terrasse où les clients peuvent déguster le vin de M. Edwards.](/content/images/2016/06/0_0_54.jpg)
+_La terrasse où les clients peuvent déguster le vin de M. Edwards._
 
 Deux clients nous ont témoigné leur avis de l’endroit :
 
@@ -36,7 +36,7 @@ Ainsi, les privations se font de plus en plus nombreuses à Los Santos. On se cr
 
 Pour finir, nous avons également interrogé un ouvrier des vignes afin de connaître sa vision à lui-aussi.
 
-![](  /content/images/2016/06/0_0_55.jpg)
+![](/content/images/2016/06/0_0_55.jpg)
 
 > Pour ma part, je suis simplement content d’avoir du travail en ce moment. Ben oui, un boulot payé plus que le salaire minimum, sans qualification professionnelle, ça court pas les rues d’ordinaire alors imaginez aujourd’hui. Même si le patron dit qu’il a du mal, je suis certain qu’il ne coulera pas de si tôt. Et puis, franchement, qui ne boit pas de ce vin ? Tous mes collègues sont les premiers à en acheter, et encore plus pour les fêtes.
 

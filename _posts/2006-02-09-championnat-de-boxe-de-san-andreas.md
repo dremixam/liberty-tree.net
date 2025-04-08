@@ -54,7 +54,8 @@ C'est donc Tommy Hole, natif de Las Venturas, qui remporte le titre de Champion 
 
 Les surprises de ce championnat sont bien sûr l'ascension jusqu'en demi-finale de Lenny Johnson, fils de Carl Johnson, le célèbre homme d'affaires de San Andreas. Edward J. Jackson, ex-champion en titre, n'est pas parvenu jusqu'à la finale. Quant à Gary Leags, vainqueur il y a deux ans, il n'a pas passé le premier tour.
 
-![Tommy Hole à son entraînement avant la finale](  /content/images/2005/01/Boxeur2.jpg)
+![Tommy Hole à son entraînement avant la finale](/content/images/2005/01/Boxeur2.jpg)
+_Tommy Hole à son entraînement avant la finale_
 
 Nous avons réussi à intercepter Tommy Hole à la sortie du ring pour lui poser quelques questions.
 

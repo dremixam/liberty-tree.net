@@ -20,9 +20,9 @@ Telle est la question qui est dans toutes les bouches en ce moment. Il est inté
 
 Tout d’abord, sachez que si la routine des réveillons en famille vous ennuie profondément, c’est à Vespucci Beach qu’il vous faudra être. En effet, la municipalité a cette année mis en place un réveillon géant sur la plage avec vin chaud, vin pétillant local de M. Edwards, musique jusqu’au petit matin. C’est la première fois en dix ans qu’un aussi gros événement se prépare à LS, et certains y voient là un calcul politique du maire en vue des prochaines élections municipales…
 
-![](  /content/images/2016/06/0_0_72.jpg)
-
-![La grande plage de Vespucci, et Karen, une passante.](  /content/images/2016/06/0_0_73.jpg)
+![](/content/images/2016/06/0_0_72.jpg)
+![La grande plage de Vespucci, et Karen, une passante.](/content/images/2016/06/0_0_73.jpg)
+_La grande plage de Vespucci, et Karen, une passante._
 
 Karen, une passante nous a donné son point de vue sur cette soirée :
 
@@ -36,17 +36,17 @@ Seulement, en parlant de Sandy Shores, il ne va pas rien s’y passer non plus. 
 
 > Pour le Nouvel an ? Bah j’crois qu’on va rester tout simplement chez not’ femme. On sortira pt’être voir ce qu’ils ont prévu, mais pour moi ce genre de truc c’est plus pour les nécessiteux, non ? Nous on a bossé toute l’année pour se payer le festin des fêtes, alors on le partagera en famille.
 
-![](  /content/images/2016/06/0_0_74.jpg)
-
-![Les premiers préparatifs et deux habitants de Sandy Shores.](  /content/images/2016/06/0_0_75.jpg)
+![](/content/images/2016/06/0_0_74.jpg)
+![Les premiers préparatifs et deux habitants de Sandy Shores.](/content/images/2016/06/0_0_75.jpg)
+_Les premiers préparatifs et deux habitants de Sandy Shores._
 
 Les mentalités à la campagne semblent donc encore une fois bien différentes de celles des citadins. En ville, si un événement est organisé, tout le monde (ou presque) fonce ; ici, on se pose plus de questions.
 
 Outre ce repas organisé en plein désert, le seul endroit où les plus fêtards (ou les célibataires endurcis) peuvent espérer se retrouver autour d’une bière, c’est le bar à fléchette plein sud. La patronne nous a dit ouvrir ce soir-là en espérant faire de bons bénéfices. Par contre, si vous y allez, surtout évitez de prendre des photos de votre soirée : ça rend les habitués des lieux un peu « agressif » et vous irez droit aux ennuis…
 
-![](  /content/images/2016/06/0_0_76.jpg)
-
-![Le repaire des célibataires endurcis du désert.](  /content/images/2016/06/0_0_77.jpg)
+![](/content/images/2016/06/0_0_76.jpg)
+![Le repaire des célibataires endurcis du désert.](/content/images/2016/06/0_0_77.jpg)
+_Le repaire des célibataires endurcis du désert._
 
 ## Les Golfeurs, eux-aussi en fête
 
@@ -56,9 +56,9 @@ Quoiqu’il en soit, la fête qui se prépare chez les golfeurs semble elle auss
 
 > Eh bien, mon frère et moi venons ici depuis que nous sommes tout petits. On a un peu grandi dans ce club en fait. Et c’est tout naturellement que nous allons y passer le réveillon du Nouvel an. Parce que en fait, la tradition n’est-elle pas tout simplement de le passer avec les personnes que l’on aime ?
 
-![](  /content/images/2016/06/0_0_78.jpg)
-
-![Le club de golf de Los Santos.](  /content/images/2016/06/0_0_79.jpg)
+![](/content/images/2016/06/0_0_78.jpg)
+![Le club de golf de Los Santos.](/content/images/2016/06/0_0_79.jpg)
+_Le club de golf de Los Santos._
 
 Ce sont de bien belles et justes paroles. Il n’y a de toute façon qu’une chose à faire : profiter de cette soirée ! Cela n’a lieu qu’une fois dans l’année, alors ne nous prenons pas la tête pour une fois avec toutes ces différences sociales, et essayons simplement de nous amuser, au moins avec ceux qu’on aime.
 

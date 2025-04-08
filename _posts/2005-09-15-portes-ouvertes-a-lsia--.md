@@ -14,7 +14,7 @@ Avant-hier, un terrible accident a ébranlé le quartier Market de Los Santos. V
 
 Les secours ainsi que la police sont immédiatement arrivés sur les lieux et ont bouclé la zone. Après avoir inspecté minutieusement la carcasse et retrouvé la boîte noire, les experts ont affirmé que l'avion provenait du Los Santos International Airport et ne volait que depuis une courte période. Plus intriguant, le pilote, un homme d'une vingtaine d'années, serait un amateur, selon l'enregistrement audio, ponctué d'exclamations telles que "Beurk, j'ai le mal de l'air", "Shit, à quoi servent tous ces boutons ?" ou encore "Fuckin' plane, au secours, je veux descendre, maman".
 
-![](  /content/images/2005/01/avion2.jpg)
+![](/content/images/2005/01/avion2.jpg)
 
 Les enquêteurs se sont donc immédiatement tournés vers Los Santos International Airport. Comment cet homme sans aucun diplôme de pilote aurait-il pu s'emparer de l'engin ? Une négligence du personnel ? Daniel Vattic, directeur de l'aéroport, nie :
 
@@ -28,18 +28,16 @@ Dès lors une vérification s'impose : Los Santos International Airport est-il i
 
 > **Agent:** Quinze ans de métier, moi, jeune homme ! Jamais accepté un seul pot-de-vin ! Pas aujourd'hui que ça va commencer. Cassez-vous ou j'appelle les renforts.
 
-![](  /content/images/2005/01/avion3.jpg)
-
-![](  /content/images/2005/01/avion4.jpg)
+![](/content/images/2005/01/avion3.jpg)
+![](/content/images/2005/01/avion4.jpg)
 
 A priori notre brave homme accomplit sa tâche avec entrain. Mais il existe forcément un moyen d'entrer. En continuant vers l'ouest, on remarque un long et épais mur de brique, moins haut que les autres et sans grillage. Pourquoi ne pas tenter de passer par dessus ? Il suffirait de s'aider d'une échelle, ou même d'un véhicule. Justement, un camion est garé dans les environs, magnifique escalier de fortune s'il en est. Quelques acrobaties plus tard, nous voici à l'intérieur de l'aéroport, au nez et à la barbe du gardien. Des hangars et du goudron à perte de vue. Et surtout, aucun garde ni dispositif de sécurité. La voie est libre. En marchant pendant quelques minutes, on finit par trouver un petit avion, un Dodo. Surprise, celui-ci est ouvert et prêt à fonctionner. Tout comme le Shamal situé à quelques mètres de là, en bout de piste. Le voile est levé sur la prétendue sûreté de l'aéroport.
 
-![](  /content/images/2005/01/avion5.jpg)
-
-![](  /content/images/2005/01/avion6.jpg)
+![](/content/images/2005/01/avion5.jpg)
+![](/content/images/2005/01/avion6.jpg)
 
 Si quelques éléments sont à éclaircir dans l'affaire du crash, on sait déjà que des sanctions seront prises à l'encontre de la direction de l'aéroport. Celui-ci ne sera pas fermé mais les autorités ont fait appel à l'armée pour assurer la sécurité du complexe, en attendant une réorganisation des dispositifs et du personnel. Il est toutefois à craindre que nos concitoyens prennent les moyens de transport aériens en grippe, au vu de tous les incidents récents qui y sont associés.
 
-![](  /content/images/2005/01/avion7.jpg)
+![](/content/images/2005/01/avion7.jpg)
 
 <!--kg-card-end: markdown-->

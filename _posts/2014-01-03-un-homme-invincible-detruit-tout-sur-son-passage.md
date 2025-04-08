@@ -14,23 +14,22 @@ En effet, alors qu'il est activement recherché par le L.S.P.D pour meurtre, le 
 
 L'homme est touché à de nombreuses reprises mais ne réagit pas, il continue de combattre la police. Nous ne savons rien de ce criminel mais il ne craint pas les balles. La police a évidemment demandé des renforts, une équipe du N.O.O.S.E a donc été dépêchée à Rockford Hills, là où tout a commencé.
 
-![Le N.O.O.S.E arrivé sur les lieux.](  /content/images/2016/06/5_3.jpg)
+![Le N.O.O.S.E arrivé sur les lieux.](/content/images/2016/06/5_3.jpg)
+_Le N.O.O.S.E arrivé sur les lieux._
 
 L'homme qui n'a physiquement rien de particulier ne semble pas ressentir de douleur face aux fusils le mitraillant de tous les côtés. Armé d'un arsenal impressionnant, il continue à assouvir sa soif de destruction dans les environs de Morningwood puis Phillbox Hill avant de se volatiliser. La police n'a aucune trace de lui et le recherche activement.
 
-![](  /content/images/2016/06/5_5.jpg)
-
-![Grenades adhésives et minigun.](  /content/images/2016/06/5_11.jpg)
+![](/content/images/2016/06/5_5.jpg)
+![Grenades adhésives et minigun.](/content/images/2016/06/5_11.jpg)
+_Grenades adhésives et minigun._
 
 Rien ni personne ne lui a résisté, il a balayé les autorités avec une aisance déconcertante. J'ai essayé de lui demander des informations sur lui, des réponses à toutes les questions que l'on peut se poser : "Qui est-ce ? Est-il humain ? Pourquoi fait-il cela ?". Mais son fusil de précision et son minigun m'ont dissuadé d'insister quand il m'a fait comprendre qu'il ne voulait pas parler.
 
-![](  /content/images/2016/06/5_4.jpg)
-
-![](  /content/images/2016/06/5_8.jpg)
-
-![](  /content/images/2016/06/5_7.jpg)
-
-![Il a anéanti tous les moyens de l'état.](  /content/images/2016/06/5_6.jpg)
+![](/content/images/2016/06/5_4.jpg)
+![](/content/images/2016/06/5_8.jpg)
+![](/content/images/2016/06/5_7.jpg)
+![Il a anéanti tous les moyens de l'état.](/content/images/2016/06/5_6.jpg)
+_Il a anéanti tous les moyens de l'état._
 
 Lorsqu'il a vu un Rhino Tank se diriger vers lui, il a sereinement pris son lance-roquettes en main pour exploser le blindé.
 
@@ -48,7 +47,8 @@ Au cours de cette "apocalypse", j'ai pu interviewer quelques civils :
 > 
 > **Denise, 68 ans :** Il n'est toujours pas mort, c'est un monstre !
 
-![Plus d'une cinquantaine d'impacts de balles étaient présents sur son corps.](  /content/images/2016/06/5_12.jpg)
+![Plus d'une cinquantaine d'impacts de balles étaient présents sur son corps.](/content/images/2016/06/5_12.jpg)
+_Plus d'une cinquantaine d'impacts de balles étaient présents sur son corps._
 
 En ce qui concerne le point de vue de la police, j'ai pu après cet événement m'entretenir avec le lieutenant Doug Hankman :
 
@@ -74,9 +74,9 @@ Craig Edwards. Jake Enfield. Paul Oléander. Patrick Grey.
 
 Les autres policiers et agents du N.O.O.S.E abattus n'ont pas encore été identifiés mais le bilan est estimé à presque une centaine de victimes.
 
-![](  /content/images/2016/06/5.jpg)
-
-![Des foyers brisés par ce "fléau".](  /content/images/2016/06/5_9.jpg)
+![](/content/images/2016/06/5.jpg)
+![Des foyers brisés par ce "fléau".](/content/images/2016/06/5_9.jpg)
+_Des foyers brisés par ce "fléau"._
 
 Le maire a préféré ne pas se prononcer suite à ces événements.
 

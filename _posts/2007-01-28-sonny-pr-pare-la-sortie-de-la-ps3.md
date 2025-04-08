@@ -31,6 +31,7 @@ Premier constat : "Elle est lourde, sept kilos. L\_a tenir sur ses genoux fait m
 
 Au final,&nbsp;on attend juste que quelques uns s'amusent avec la PS3 pour qu'elle dévoile son potentiel et devienne amusante pour tout le monde, souligne Tanguy. Finalement, attendre quelques mois aura du bon : la console et ses jeux auront peut-être eu le temps de mûrir.
 
-![Le jeune "Player", Tanguy](  /content/images/2005/01/08764.jpg)
+![Le jeune "Player", Tanguy](/content/images/2005/01/08764.jpg)
+_Le jeune "Player", Tanguy_
 
 <!--kg-card-end: markdown-->

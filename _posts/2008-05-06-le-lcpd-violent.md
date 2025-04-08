@@ -11,7 +11,8 @@ _Le LCPD fait aujourd'hui encore, la une des journaux. Mais cette fois-ci, ce n'
 
 "Je ne lâcherais pas l'affaire tant que justice n'aura pas été faite !", ce sont les derniers mots prononcés par James O'Conner lors de la première audience de Jacob Polsner. En effet, monsieur O'Conner affirme avoir été battu par l'officier Polsner. Ce n'est pas la première histoire de ce type dans laquelle le LCPD est impliqué, d'après quelques témoignages, le LCPD aurait des méthodes de travail plutôt musclé.
 
-![Un suspect après un interrogatoire ...](  /content/images/2005/01/LCPDPOLICE2.jpg)
+![Un suspect après un interrogatoire ...](/content/images/2005/01/LCPDPOLICE2.jpg)
+_Un suspect après un interrogatoire ..._
 
 Suite à cette nouvelle polémique, le maire, monsieur Bart O'Donovan a accepté de nous rencontrer :
 
@@ -31,7 +32,8 @@ Suite à cette nouvelle polémique, le maire, monsieur Bart O'Donovan a accepté
 
 > **O'donovan :** Tout le plaisir était pour moi.
 
-![Une arrestation assez musclée...](  /content/images/2005/01/LCPDPOLICE3.jpg)
+![Une arrestation assez musclée...](/content/images/2005/01/LCPDPOLICE3.jpg)
+_Une arrestation assez musclée..._
 
 Ce scandale aura engendré la démission de quelques agents, ce qui n'aide en nul façon le LCPD, déjà en manque de ressources humaines.
 

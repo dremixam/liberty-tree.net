@@ -12,7 +12,8 @@ _Des mesures sont en projet contre les combats clandestins qui font de graves vi
 
 Depuis plusieurs mois à Los Santos, des combats clandestins sont secrètement organisés. Il y a d'un côté les combattants qui doivent mettre KO leurs adversaires pour gagner de l'argent, et de l'autre les spectateurs qui parient sur un des "fighters".
 
-![Le Mount Zonah Medical Center.](  /content/images/2016/06/17_4.jpg)
+![Le Mount Zonah Medical Center.](/content/images/2016/06/17_4.jpg)
+_Le Mount Zonah Medical Center._
 
 Nous nous sommes rendus au Mount Zonah Medical Center où nous avons rencontré le Dr Sally Green :
 
@@ -26,11 +27,9 @@ La police en revanche, n'apprécie vraiment pas et des mesures seraient en proje
 
 J'ai personnellement réussi à m'infiltrer dans un événement de ce type.
 
-![](  /content/images/2016/06/18_2_0.jpg)
-
-![Les combats sont particulièrement sanglants et choquants.](  /content/images/2016/06/18_4.jpg)
-
-![Même les femmes se battent.](  /content/images/2016/06/18.jpg)
+![](/content/images/2016/06/18_2_0.jpg)
+![Les combats sont particulièrement sanglants et choquants.](/content/images/2016/06/18_4.jpg)
+_Les combats sont particulièrement sanglants et choquants._[Même les femmes se battent.](/content/images/2016/06/18.jpg)
 
 J'ai interviewé un des combattants, qui se fait appeler Punisher :
 

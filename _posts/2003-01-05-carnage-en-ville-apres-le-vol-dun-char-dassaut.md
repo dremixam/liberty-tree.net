@@ -12,13 +12,13 @@ La nuit de bon nombre de nos concitoyens a été dérangée par des explosions e
 
 Le FBI a annoncé dès 0h36 qu'ils allaient agir ils ont donc placé un satellite de surveillance au dessus de la ville pour permettre aux agents de surveiller son déplacement.
 
-![](  /content/images/v1/user26/TANK.jpg)
+![](/content/images/v1/user26/TANK.jpg)
 
 Dès qu'ils ont pu le faire, ils ont commencé à poursuivre l'individu à travers la ville. Le fou ayant réussi à éliminer une cinquantaine d'agent, l'armée a décidé d'envoyer des bombardiers: une cinquantaine d'appareils ont été nécessaires pour stopper le massacre.
 
 Au petit matin, les Liberticiens qui ont eu la chance de ne pas se trouver dans le rue pendant la nuit ont pu remarquer l'étendu du massacre rien qu'en regardant les trottoirs.
 
-![](  /content/images/v1/user26/massacre.JPG)
+![](/content/images/v1/user26/massacre.JPG)
 
 Nous ne savions toujours pas ce matin qui était l'homme et ne pourrons peut-être jamais le savoir en raison de l'état de ce qui reste du Rhino mais le directeur l’hôpital de Shoreside Vale a annoncé qu'un des malades de la section psychiatrique, un ancien militaire avide de guerre et de destruction, s'est échappé quelques heures avant les événements.
 

@@ -13,11 +13,10 @@ Quatre heures du matin, aux environs de la base militaire de Bone county, une é
 
 Malgré tout, quatre hommes, en queue de convoi, étaient encore en vie. Ils se mirent à couvert derrière un rare Suv tenant encore debout&nbsp; pour empêcher les assaillants de voler le "butin", un chargement d'armes dont une partie reste un &nbsp;secret militaire, ainsi que de simples explosifs de type "C-4". N'écoutant que leur courage, les hommes restants ont réussi à se replier à l'aéroport de Verdant Meadows. Par chance, quelques&nbsp;vigiles chargés de la sécurité de cette&nbsp;piste étaient en poste, et en plus, ils étaient armés. Ils sont donc venus immédiatement prêter main fortes aux militaires. Malgré leur arrivé rapide, ils ont juste réussi à battre en retraite et l'armement est tombé aux mains des mercenaires.
 
-![](  /content/images/2005/01/patriot1.jpg)
-
-![](  /content/images/2005/01/patriot2.jpg)
-
-![Le camion bélier.](  /content/images/2005/01/dune.jpg)
+![](/content/images/2005/01/patriot1.jpg)
+![](/content/images/2005/01/patriot2.jpg)
+![Le camion bélier.](/content/images/2005/01/dune.jpg)
+_Le camion bélier._
 
 Nous avons interrogé un sergent qui était sur les lieux :
 
@@ -44,9 +43,8 @@ D’après un autre officier, la voiture en tête du convoi a été détruite pa
 
 Avec l'appui de ces "héros", les militaires ont rapidement repris le contrôle de la situation, et ainsi, appelé rapidement des renforts. Quatre Patriots ont été envoyé ainsi que deux hélicoptères de combat Hunter qui ont décollé à 4h25. La police de Las Venturas ainsi que les gardes-côtes étaient en alerte. Finalement, une patrouille a repéré&nbsp;six Huntley qui se dirigeaient vers le Gant Bridge. La poursuite a mal tourné : Les Hunters n'ont pas pu couvrir les Patriots sur le pont, et les hommes dans les 4x4 ont détruit une voiture civile au lance-roquette, bloquant les Patriots et faisant de nombreux blessés et&nbsp;deux morts, les occupants de la voiture touchée. Les Huntleys ont continué leur route, avec à leur poursuite seulement&nbsp;deux Hunter qui ne pouvaient pas se risquer a ouvrir le feu dans la circulation. Ils ont finalement été semés et les mercenaires ont disparu dans la nature.
 
-![](  /content/images/2005/01/caisseburn.jpg)
-
-![](  /content/images/2005/01/cadavreterroriste.jpg)
+![](/content/images/2005/01/caisseburn.jpg)
+![](/content/images/2005/01/cadavreterroriste.jpg)
 
 On a donc enquêté sur&nbsp;qui pouvait bien&nbsp;faire un coup de ce genre, et d'après nous, seule une milice, W&P, "War and Patriotism", qui en tuant des policiers et des gangsters, veut instaurer une milice dans San Andreas. D'après un informateur, ils sont sur le point de faire un gros coup, une opération "Coup de poing" en quelque sorte. Mais avaient-ils vraiment besoin de quelques armes ? Sûrement pas, ils s'équipent chez les Russes et n'ont pas besoin d'autres choses. Alors pour un gros coup, peut-être voulaient-ils&nbsp;du plus gros calibre ?
 

@@ -12,7 +12,8 @@ Il devait être à peu près l’heure du déjeuner lorsque Matthew White s’es
 
 La famille de la victime a déclaré peu de temps après le drame qu’elle était encore trop sous le choc pour en parler plus. Aujourd’hui, la fiancée de Matthew a contacté le Liberty Tree afin de rendre un hommage public à « l’amour de sa vie », parti trop tôt.
 
-![Miranda, la fiancée de Matthew, ici accompagnée de sa sœur.](  /content/images/2016/06/0_0_60.jpg)
+![Miranda, la fiancée de Matthew, ici accompagnée de sa sœur.](/content/images/2016/06/0_0_60.jpg)
+_Miranda, la fiancée de Matthew, ici accompagnée de sa sœur._
 
 > **Liberty Tree :** Alors Miranda, près d’un an après, comment vivez-vous cette situation ?
 > 
@@ -28,6 +29,7 @@ La famille de la victime a déclaré peu de temps après le drame qu’elle éta
 
 Cet entretien a donc dû évidemment être écourté bien précipitamment. Il est difficile à dire si on se remet vraiment un jour du décès d’un proche, qui plus est un innocent, mais en tout cas, cela semble étonnant de penser à monter une fondation de ce genre… La police devrait enquêter sur ces gens, au cas où. Nombreuses sont les fondations diverses dans ce pays qui cachent en vérité des trafics illégaux en tout genre…
 
-![Les dernières traces sur Terre de Matthew.](  /content/images/2016/06/0_0_61.jpg)
+![Les dernières traces sur Terre de Matthew.](/content/images/2016/06/0_0_61.jpg)
+_Les dernières traces sur Terre de Matthew._
 
 <!--kg-card-end: markdown-->

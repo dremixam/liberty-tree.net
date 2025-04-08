@@ -26,7 +26,8 @@ L'initiative permettra de sauver des dizaines de milliers de nos petites têtes 
 
 Dès lors, chaque année de septembre à mai environ, il est impossible de croiser le moindre enfant dans les villes concernées puisque tous se trouvent dans des internats loin de toute civilisation tels que la _Bullworth Academy._
 
-![La Bullworth Academy, une institution de choix pour l'éducation des enfants.](  /content/images/2016/06/bullworth-academy.png)
+![La Bullworth Academy, une institution de choix pour l'éducation des enfants.](/content/images/2016/06/bullworth-academy.png)
+_La Bullworth Academy, une institution de choix pour l'éducation des enfants._
 
 Ainsi, nos progénitures peuvent s'épanouir librement loin de l'influence violente de la ville comme nous l'explique Richard Head, directeur de la _Bullworth Academy_ :
 

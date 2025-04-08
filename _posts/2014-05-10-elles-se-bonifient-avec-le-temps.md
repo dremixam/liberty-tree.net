@@ -14,15 +14,11 @@ Si vous étiez dans le centre-ville de Los Santos jeudi, vous n'avez pas pu rate
 
 En effet, des Tornados aux Stinger GT, des berlines aux sportives classiques, un regroupement d'anciens modèles refais à neuf a été organisé.
 
-![](  /content/images/2016/06/27.jpg)
-
-![Des hommes de 30 à 60 ans étaient présents.](  /content/images/2016/06/27_3.jpg)
-
-![](  /content/images/2016/06/27_1.jpg)
-
-![Quasiment tous les types de véhicules étaient présents, de plus de 30 ans pour la plupart.](  /content/images/2016/06/27_2.jpg)
-
-![Un grand nombre de participants et visiteurs ont été présents.](  /content/images/2016/06/27_7.jpg)
+![](/content/images/2016/06/27.jpg)
+![Des hommes de 30 à 60 ans étaient présents.](/content/images/2016/06/27_3.jpg)
+_Des hommes de 30 à 60 ans étaient présents._[](/content/images/2016/06/27_1.jpg)
+![Quasiment tous les types de véhicules étaient présents, de plus de 30 ans pour la plupart.](/content/images/2016/06/27_2.jpg)
+_Quasiment tous les types de véhicules étaient présents, de plus de 30 ans pour la plupart._[Un grand nombre de participants et visiteurs ont été présents.](/content/images/2016/06/27_7.jpg)
 
 Nous avons rencontré M. Puni, l’organisateur de l’événement :
 
@@ -34,9 +30,8 @@ Nous avons rencontré M. Puni, l’organisateur de l’événement :
 > 
 > **M. P :** Ces gens m'ont contacté sur mon site internet : [http://www.grandtheftauto-online.net/](http://www.grandtheftauto-online.net/).
 
-![](  /content/images/2016/06/27_8.jpg)
-
-![](  /content/images/2016/06/27_9.jpg)
+![](/content/images/2016/06/27_8.jpg)
+![](/content/images/2016/06/27_9.jpg)
 
 Les participants sont ensuite partis faire un tour dans le centre-ville avant de rejoindre l'autoroute, profitant d'une circulation fluide, avant que chacun rentre chez soi.
 

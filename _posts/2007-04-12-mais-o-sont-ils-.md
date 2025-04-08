@@ -10,7 +10,7 @@ tags:
 
 Ne vous étonnez pas si vous ne recevez plus votre journal favori et ne vous étonnez pas non plus que votre marchand de journaux vous disent : "Le Liberty Tree ? Ah non, pas reçu... Demain p'têtre." En fait, ce n'est qu'une raison pour vous faire attendre. Aujourd'hui, le LT vous révèle la vérité de cette absence qui dure depuis le 28 mars.
 
-![](  /content/images/2005/01/liberty_tree_gant_bridge.jpg)
+![](/content/images/2005/01/liberty_tree_gant_bridge.jpg)
 
 L'équipe du LT étant en situation de stress, avait demandé au grand patron un jour de repos pour faire une coupure avec le monde du travail et les soucis du monde. Maxou, en bon chef d'entreprise a accordé ce jour. Le cauchemar commença. Un petit groupe&nbsp;composé de&nbsp;Special-K, Mr.R, Dami1444, Pavlov, NelsoN, ainsi que Logan, avait décidé de partir pour un jour dans une destination inconnue. Je me souviens d'ailleurs, de ce que certains m'avaient dit quand je leur demandais où ils allaient :
 
@@ -44,6 +44,6 @@ Mais rassurez-vous,&nbsp;les disparus&nbsp;ne le sont plus et reviennent actuell
 
 Mais cela n'est qu'un détail car, plus important encore, le Liberty Tree a prévu de déménager à la suite d’événements récents (la montée du loyer à Los Santos notamment...).
 
-![](  /content/images/2005/01/newbuilding.jpg)
+![](/content/images/2005/01/newbuilding.jpg)
 
 <!--kg-card-end: markdown-->

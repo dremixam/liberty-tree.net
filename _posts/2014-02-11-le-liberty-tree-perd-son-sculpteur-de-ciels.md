@@ -20,10 +20,11 @@ Notre cher Kiki est entré au Liberty Tree, certainement en arborant son CV remp
 
 Ce qui lui a certainement permis d'être original par rapport aux autres journalistes, c'est sans aucun doute son style unique. Non seulement il ne s'est jamais caché de sa passion pour la photographie, mais il état le seul à avoir un style d'écriture aussi particulier. Chaque journaliste a le sien, mais il avait quelque chose que l'on ne retrouve pas ailleurs. Et je ne dis pas ça pour qu'il se redresse dans ses talonnettes bien entendu !
 
-Entré à la rédaction courant novembre 2013, nous nous rappelons tous de [son premier article décrivant une immersion chez les Altruistes](  /2013/11/28/immersion-dans-lanti-mercantilisme-ecologique---quand-lamerican-dream-seffondre/).  
+Entré à la rédaction courant novembre 2013, nous nous rappelons tous de [son premier article décrivant une immersion chez les Altruistes](/2013/11/28/immersion-dans-lanti-mercantilisme-ecologique---quand-lamerican-dream-seffondre/).  
 Kiki se décrit lui-même comme un journaliste au tempérament spontané, c'est-à-dire qu'il aime écrire quand il en a envie, et non pas quand le [big boss](http://fr.liberty-tree.net/auteur/dr-emixam) le lui demande.
 
-![Autoportrait du journaliste en pleine action](  /content/images/2016/06/0_0_165.jpg)
+![Autoportrait du journaliste en pleine action](/content/images/2016/06/0_0_165.jpg)
+_Autoportrait du journaliste en pleine action_
 
 ## Toute l'équipe souhaite une bonne continuation à son journaliste
 
@@ -31,16 +32,11 @@ Eh oui, c'est l'idée de cet article aussi les amis. Il ne faut pas passer les m
 
 Pour clore cet épisode chers lecteurs, je vous propose d'en rester sur plusieurs de ses photos.
 
-![](  /content/images/2016/06/0_0_166.jpg)
-
-![](  /content/images/2016/06/0_0_167.jpg)
-
-![](  /content/images/2016/06/0_0_168.jpg)
-
-![](  /content/images/2016/06/0_0_169.jpg)
-
-![](  /content/images/2016/06/0_0_170.jpg)
-
-![](  /content/images/2016/06/0_0_171.jpg)
+![](/content/images/2016/06/0_0_166.jpg)
+![](/content/images/2016/06/0_0_167.jpg)
+![](/content/images/2016/06/0_0_168.jpg)
+![](/content/images/2016/06/0_0_169.jpg)
+![](/content/images/2016/06/0_0_170.jpg)
+![](/content/images/2016/06/0_0_171.jpg)
 
 <!--kg-card-end: markdown-->

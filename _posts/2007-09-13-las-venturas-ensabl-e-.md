@@ -11,9 +11,9 @@ D'après une étude météorologique entreprise par la municipalité de Las Vent
 
 Des études ont été lancées il y à environ 6 mois car de nombreux habitants de Fort Carson et d'El Castillo Del Diablo se sont plaint de s'être réveiller avec un tapis de sable chez eux. Après preuves, le maire de Las Venturas, Stephen Goodman a demandé à la compagnie météorologique de San Andreas de venir sur le terrain pour expliquer ce phénomène. Les chercheurs sont malheureusement formels : d'ici 10 ans ou moins, la sublime ville de Las Venturas sera sous le sable.
 
-![](  /content/images/2005/01/LV.jpg)
-
-![La jolie ville de Las Venturas et le désert.](  /content/images/2005/01/Desert.jpg)
+![](/content/images/2005/01/LV.jpg)
+![La jolie ville de Las Venturas et le désert.](/content/images/2005/01/Desert.jpg)
+_La jolie ville de Las Venturas et le désert._
 
 Voici maintenant, Roger Mayers, spécialiste de la météo et&nbsp; des phénomènes météo.
 
@@ -34,9 +34,8 @@ Voici maintenant, Roger Mayers, spécialiste de la météo et&nbsp; des phénom�
 Terrible nouvelle pour les habitants de Las Venturas. Où iront t-ils ?  
 Il semblerait que seuls les habitants Bayside Marina, Las Barrancas, et autres petits village dans ce secteur soient sauvés vu que le désert se dirige à l'Est et non à l'Ouest...
 
-![Roger Mayers](  /content/images/2005/01/RogerM.jpg)
-
-![Une tempête de sable](  /content/images/2005/01/TempeteSable.jpg)
+![Roger Mayers](/content/images/2005/01/RogerM.jpg)
+_Roger Mayers_[Une tempête de sable](/content/images/2005/01/TempeteSable.jpg)
 
 Interrogeons maintenant, Stephen Goodman,maire de Las Venturas :
 
@@ -56,7 +55,8 @@ Interrogeons maintenant, Stephen Goodman,maire de Las Venturas :
 
 > **LT :** Bien merci monsieur le maire !
 
-![Le maire : Stephene Goodman](  /content/images/2005/01/MaireLV.jpg)
+![Le maire : Stephene Goodman](/content/images/2005/01/MaireLV.jpg)
+_Le maire : Stephene Goodman_
 
 Voici donc les mesures prises par la municipalité. Espérons que ces barrages et autres pluies vont arrêter l'avancée du désert vers la magnifique ville de Las Venturas.
 

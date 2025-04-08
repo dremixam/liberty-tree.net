@@ -22,6 +22,7 @@ Nous apprenons ensuite dans l'article du _Daily_ les mésaventures de Mister X/J
 
 Balivernes et billevesées donc, puisque ce Mister X n'a jamais fait partie de l'équipe du Liberty Tree. De plus, aucun membre du staff ne peut se plaindre de n'avoir jamais subi de tels sévices, une petite claque sur la tête pour la motivation, au pire. Le bizutage n'est pas interdit dans notre état, que je sache.
 
-![Un rapide coup d’œil au classement des journalistes actifs à l'époque le confirme, aucun Mister X n'a jamais signé d'articles au LT.](  /content/images/2016/06/samedi%2026%20juillet%2008%20-%20234648_0.jpg)
+![Un rapide coup d’œil au classement des journalistes actifs à l'époque le confirme, aucun Mister X n'a jamais signé d'articles au LT.](/content/images/2016/06/samedi%2026%20juillet%2008%20-%20234648_0.jpg)
+_Un rapide coup d’œil au classement des journalistes actifs à l'époque le confirme, aucun Mister X n'a jamais signé d'articles au LT._
 
 <!--kg-card-end: markdown-->

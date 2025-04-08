@@ -10,7 +10,8 @@ tags:
 
 Au Liberty Tree, tous les journalistes sont déconcertés&nbsp;: pouvoir lire des lettres écrite par le plus talentueusement mauvais des reporters, j’ai nommé Canar qui, souvenez vous est mort lors d'un crash dans les environs de Montgomery (lire l'article). L’affaire avait pris&nbsp;une ampleur quasi-nulle les premiers jours où l’on recevait une première lettre d’outre-tombe qui était une lettre de motivation pour retravailler au LT. Alors à la direction, on veut bien mais bon, engager un mec déjà enterré, pardon, rangé à la morgue, c’était même pas la peine de concevoir ce plan là. Qui était donc ce mystérieux auteur se faisant passer pour Canar&nbsp;? Personne ne s’est&nbsp;donné une réponse et d’ailleurs, on a jeté la lettre sans avoir pris le temps de l’archiver.
 
-![Le canular de mauvais goût. Notez au passage sa marque de sympathie envers moi.](  /content/images/2005/01/lettre_canar.jpg)
+![Le canular de mauvais goût. Notez au passage sa marque de sympathie envers moi.](/content/images/2005/01/lettre_canar.jpg)
+_Le canular de mauvais goût. Notez au passage sa marque de sympathie envers moi._
 
 Tout allait bien à la direction quand ce dimanche, le 12 novembre 2006, nous relevons du courrier et dans le tas, nous voyons une lettre d’un certain Canar voulant d’une part une réintégration rapide au sein du bureau du Liberty Tree et d’autre part, il voulait ma mort. Pourquoi&nbsp;? Je n’en sais rien mais je ne risque&nbsp;pas grand chose&nbsp;car il est rangé à la morgue. Quelques journalistes ont commencé sérieusement à réfléchir sur le miracle de Canar, sa renaissance&nbsp;:
 
@@ -30,19 +31,21 @@ Le LSPD a passé la main à la police de Vice City pour régler l’affaire. C�
 
 Le suspect qui sera bientôt coupable se nomme Cann Hoar, immigré clandestin récent selon le lieutenant Bools qui, en plus d’être coincé pour canular de mauvais goût (Hé bien oui, réengager Canar, c’est franchement dégueulasse, surtout pour ceux qui ont le cœur fragile), il retournera dans son pays d'origine.
 
-![Intervention de grande classe du VCPD pour arrêter le suspect.](  /content/images/2005/01/interventionswat.jpg)
+![Intervention de grande classe du VCPD pour arrêter le suspect.](/content/images/2005/01/interventionswat.jpg)
+_Intervention de grande classe du VCPD pour arrêter le suspect._
 
 La police de Los Santos a perquisitionné en vitesse dans ce qui fut le taudis de Canar et de son fan&nbsp;pour y trouver des preuves sur un éventuel complot. A Los Santos, ça n'avait rien donné : Canar habitait dans son propre bureau et à sa mort, Maxou avait fait incinérer tout ce qui pouvait concerner le malheureux. Par contre, l'arrestation du plaisantin a permis de découvrir&nbsp;deux articles de Canar, les seuls, encadrés, pour vous dire comment le fanatisme prend un point de vue bien obscur parfois.
 
-![La cabane du fan de Canar.](  /content/images/2005/01/planque_coco.jpg)
+![La cabane du fan de Canar.](/content/images/2005/01/planque_coco.jpg)
+_La cabane du fan de Canar._
 
 > On a retrouvé&nbsp;deux articles placardés sur le mur, et&nbsp;des spéciaux&nbsp;se sont&nbsp;ramenés pour enquêter avec nous qu'ils ont dit. Je lisais les articles&nbsp;et dès que je me suis retourné, les agents des services spéciaux s'étaient barrés et tout le salon était décoré avec des affiches communistes et même un portrait de Marx. C'est chié, non ?
 
 Nous témoigne un agent de police qui était sur les lieux. Non seulement, c'était un plaisantin et fan de Canar mais en plus, c'était, selon les dires de certains, "Des espions au service secret de l'ex-URSS" pour vous donner une information sur l'ampleur de la chose, surtout quand le portrait de Marx se voit affliger d'un canard jaune. Canar, chef d'une conspiration ? Peut-être...
 
-![](  /content/images/2005/01/articlecanar1.jpg)
-
-![Les deux articles et ce portrait affublé d'un canard.](  /content/images/2005/01/articlecanar2.jpg)
+![](/content/images/2005/01/articlecanar1.jpg)
+![Les deux articles et ce portrait affublé d'un canard.](/content/images/2005/01/articlecanar2.jpg)
+_Les deux articles et ce portrait affublé d'un canard._
 
 Avant de repartir, nous avons pu interviewer le lieutenant Bools qui est très satisfait pour sa première enquête réussi en 20 ans de carrière :
 
@@ -58,7 +61,8 @@ Avant de repartir, nous avons pu interviewer le lieutenant Bools qui est très s
 
 > **Lieutenant Bools :** Tant que le papelard est officiel, je conteste pas. Pour moi, c'est réglo.
 
-![Le lieutenant Bools cherchant le moindre témoignage.](  /content/images/2005/01/bools.jpg)
+![Le lieutenant Bools cherchant le moindre témoignage.](/content/images/2005/01/bools.jpg)
+_Le lieutenant Bools cherchant le moindre témoignage._
 
 Affaire très intéressante que cette affaire Canar qui a finalement tourné à la sauce conspiration. La police de Vice City est donc relevé de ses fonctions sur cette enquête afin de laisser place à de gros 4x4 GMC noir se garer et arrêter les comploteurs.
 

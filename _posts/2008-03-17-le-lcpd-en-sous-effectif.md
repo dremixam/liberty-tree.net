@@ -11,7 +11,8 @@ _Le LCPD, en manque d'effectifs, lance ce mois-ci une grande campagne de recrute
 
 "Mais que fait la police ?". C'est sûrement ce que vous vous dites quand il faut parfois plus d'une demie heure à une patrouille du LCPD pour intervenir sur les lieux d'une agression ou d'un vol de voiture. Nos officiers ne se tournent pourtant pas les pouces devant un succulent donut, malgré ce qu'on pourrait penser. A Liberty City, rien que pour le borough d'Algonquin, un délit grave comme une agression, un vol d'auto ou encore un braquage à main armée a lieu toutes les 4 minutes, et toutes les 45 secondes si l'on ajoute les quartiers de Broker, Alderney, Dukes, et Bohan à cette statistique. En tout état de cause, le métier de policier n'attire plus grand monde. Au lieu de se faire cracher dessus, tabasser, insulter, les jeunes préfèrent l'argent facile, les voitures de sport et les vêtements hors de prix.
 
-![L'élite de Liberty City n'attire plus grand monde...](  /content/images/2005/01/lcsfinest.jpg)
+![L'élite de Liberty City n'attire plus grand monde...](/content/images/2005/01/lcsfinest.jpg)
+_L'élite de Liberty City n'attire plus grand monde..._
 
 L'officier Stephanson, au LCPD depuis trois ans, a accepté notre interview, sans toutefois publier sa photo.
 
@@ -29,8 +30,8 @@ L'officier Stephanson, au LCPD depuis trois ans, a accepté notre interview, san
 
 Après toutes ces bonnes raisons, comment ne pas vouloir rejoindre l'élite de Liberty City ? Si c'est le cas, composez immédiatement le **555-RECRUIT.**
 
-![](  /content/images/2005/01/lcpd1.jpg)
-
-![Prêt à faire régner l'ordre et la justice ?](  /content/images/2005/01/lcpd2.jpg)
+![](/content/images/2005/01/lcpd1.jpg)
+![Prêt à faire régner l'ordre et la justice ?](/content/images/2005/01/lcpd2.jpg)
+_Prêt à faire régner l'ordre et la justice ?_
 
 <!--kg-card-end: markdown-->

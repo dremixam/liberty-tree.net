@@ -31,9 +31,9 @@ Brenda Reward connue comme la "Mère de la Fierté", dirigeante de la première 
 
 > **LT :** Bien merci Mme Pawers et bonne continuation !
 
-![](  /content/images/2005/01/Apawers_Gaypride.jpg)
-
-![Ashley Pawers - Le thème : Fast Food](  /content/images/2005/01/Pouletman_Gaypride.jpg)
+![](/content/images/2005/01/Apawers_Gaypride.jpg)
+![Ashley Pawers - Le thème : Fast Food](/content/images/2005/01/Pouletman_Gaypride.jpg)
+_Ashley Pawers - Le thème : Fast Food_
 
 Voilà , vous savez donc tout de la Gay Pride. Rendez-vous donc Demain à San Fierro pour y participer si l'envie vous démange. Pour plus d'informations, contactez Ashley Pawers au **555-682-236.**
 

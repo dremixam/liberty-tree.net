@@ -14,15 +14,14 @@ _Est-ce que le maire recommence ces magouilles avec la mafia ? Mr. Angus Wrong a
 
 Deux ans plus tard, en 1995 était publié des photo du maire déjeunant aux côtés des membres de la famille Dispiatchi (barrons de la drogue). L’année dernière il était accusé de protéger des passages de drogue pour le compte officiel de la ville, en échange de contrat concernant les autorités locales.
 
-![](  /content/images/2005/01/maire_R_C_Hole_3.jpg)
-
-![](  /content/images/2005/01/maire_R_C_Hole_2.jpg)
+![](/content/images/2005/01/maire_R_C_Hole_3.jpg)
+![](/content/images/2005/01/maire_R_C_Hole_2.jpg)
 
 Aujourd’hui, Angus Wrong, riche propriétaire résident a Liberty City accuse : « le maire est dans le pétrin une fois de plus ! ». Wrong affirme posséder des preuves comme quoi Hole aurait accepté des pots de vin en échange de contrats de construction pour la ville avec la mafia.
 
 > Je suis déterminé à faire tomber Hole et son gouvernement corrompu ! Si la justice refuse de me prendre au sérieux, j’affronterai cet incapable à ma manière !
 
-![](  /content/images/2005/01/M_R_Wrong_1.jpg)
+![](/content/images/2005/01/M_R_Wrong_1.jpg)
 
 En clair Mr.Wrong est déterminé a faire chuter monsieur le maire d’une manière ou d’une autre, bien que ses manières soient plus que douteuses.
 

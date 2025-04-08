@@ -24,9 +24,8 @@ Habitant à Santa Maria, je me suis rendu sur la plage pour demander leur avis a
 
 > **R.F.&nbsp;:** Prend une coupe de champagne !
 
-![Verona Beach, bien désert malgré la météo agréable qui règne sur LS.](  /content/images/2005/01/Playa.jpg)
-
-![Ray Flickdabean.](  /content/images/2005/01/flickdabean.jpg)
+![Verona Beach, bien désert malgré la météo agréable qui règne sur LS.](/content/images/2005/01/Playa.jpg)
+_Verona Beach, bien désert malgré la météo agréable qui règne sur LS._[Ray Flickdabean.](/content/images/2005/01/flickdabean.jpg)
 
 Suite au désarroi de Ray, nous avons voulu en avoir le cœur net. C'est ainsi que je me suis rendu à la mairie de Los Santos dans l'espoir de trouver une réponse positive. Étonnement, M. le Maire,&nbsp;Henry G. Carter,&nbsp;a accepté notre entrevue sans la moindre hésitation.
 
@@ -40,7 +39,8 @@ Suite au désarroi de Ray, nous avons voulu en avoir le cœur net. C'est ainsi q
 
 > **LT :** Merci d'avoir répondu à nos questions M. Carter, nous diffuserons une copie de l'annonce du bulletin de la mairie dans l’édition de demain.
 
-![La mairie de Los Santos.](  /content/images/2005/01/city_hall.jpg)
+![La mairie de Los Santos.](/content/images/2005/01/city_hall.jpg)
+_La mairie de Los Santos._
 
 Le Maire Carter se veut rassurant et semble prendre&nbsp;un maximum de précautions au sujet de cette éventuelle algue inconnue au bataillon des scientifiques marins de Los Santos. Les prochains jours seront à coup sûr révélateurs d'informations intéressantes...
 

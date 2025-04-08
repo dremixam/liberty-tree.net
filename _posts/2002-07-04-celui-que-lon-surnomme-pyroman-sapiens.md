@@ -20,21 +20,21 @@ Passons à son 300ème crime:
 
 Notre Pyroman se rend entre la route qui est à l'ouest du stade et la mer.
 
-![](  /content/images/2016/06/lancemolotov.jpg)
+![](/content/images/2016/06/lancemolotov.jpg)
 
 En premier, il liquide la personne qu'il est censé abattre au cocktail molotov en tuant tout policier se trouvant à proximité.
 
 Vu qu'il se nomme sapiens il a aussi tué les témoins qui ont vu la scène directe.
 
-![](  /content/images/2016/06/eliminetemoins.jpg)
+![](/content/images/2016/06/eliminetemoins.jpg)
 
 Mais on ne s'arrête pas là, attention le camion de pompiers arrive. Pas de problème,je m'en charge.
 
-![](  /content/images/2016/06/camionbrule.jpg)
+![](/content/images/2016/06/camionbrule.jpg)
 
 Comme nous l'avons dit plus haut, Pyroman Sapiens doit être très bien payé, il a donc les moyens de s'acheter un Cheetah et de s'enfuir avec.
 
-![](  /content/images/2016/06/fuitevoiture.jpg)
+![](/content/images/2016/06/fuitevoiture.jpg)
 
 Pyroman Sapiens n'est pas encore à portée des policiers, rien que d'entendre son pseudonyme les habitants de Liberty sursautent de peur et les chefs mafieux se frottent les mains.
 

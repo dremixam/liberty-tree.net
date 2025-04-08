@@ -14,13 +14,13 @@ Beaucoup de petits commerces peuplaient la ville de Liberty City. Kiosque, petit
 
 Liberty City, 21 janvier 2005, il ne reste plus que 10 petits commerces dans la ville contre plus de 125 en 1980 encore. Avant vous, aimiez passer au café du coin pour vous réchauffer. C'était jusqu'à l'arrivée de ces routes, ponts et hautes infrastructures qui ont commencé à peupler Liberty City.
 
-![](  /content/images/2005/01/caf_.jpg)
+![](/content/images/2005/01/caf_.jpg)
 
 A présent les petits commerçants ont déserté et sont partis vivre ailleurs. Ils ne vivaient pour la plupart, que de leur affaire. On a compté 6 suicides parmi ces commerçants. La faillite, et le manque d'argent en sont les causes principales. Comment faire pour vivre sans pécule dans ce monde qui est si cher?
 
 Nous avons interviewé un ancien propriétaire d'un kiosque qui a préféré rester anonyme.
 
-![](  /content/images/2005/01/marchand_0.jpg)
+![](/content/images/2005/01/marchand_0.jpg)
 
 > **Liberty-Tree :** Bonjour monsieur, quand avez vous établi votre commerce?
 > 

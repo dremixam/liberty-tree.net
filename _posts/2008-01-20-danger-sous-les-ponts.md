@@ -12,10 +12,9 @@ _Le LSPD a resserré sa surveillance aux abords des ponts et échangeurs sur son
 Le dernier cas recensé est celui d'un couple de retraité vivant à Mulholland qui s'offrait une petite balade en voiture à Santa Maria Beach, lorsqu'en passant sous le quai de Yacht Harbour ils ont reçu un énorme poubelle en plein pare-brise.
 
 ![]()
-
 ![]()
-
 ![L'état de la lunette avant de la voiture démontre bien la violence de l'impact.]()
+_L'état de la lunette avant de la voiture démontre bien la violence de l'impact._
 
 Le couple, grièvement blessé, est toujours présentement hospitalisé au County General où l'on craint particulièrement pour la vie de M. Atkinson qui souffre d'une sévère fracture du crâne, tandis que son épouse a subit plusieurs lacérations aux bras et au visage dû aux éclats de vitre.
 

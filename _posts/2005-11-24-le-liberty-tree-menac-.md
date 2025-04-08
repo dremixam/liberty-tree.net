@@ -20,7 +20,8 @@ Devinant qu'il s'agissait d'une information qui ne devait pas tomber entre toute
 
 J'ai immédiatement pris la menace très au sérieux et ai donc entrepris d'enquêter sur ce qui pouvait bien se passer la nuit aux docks de la ville. Je me trouvai une cachette d'où je pouvais observer les environs et m'installai pour une nuit d'observation. Il était près de 3 heures du matin lorsque je m'apprêtais à rentrer chez moi, découragé. Mais un bruit dans un hangar attira mon attention, un homme était en train de donner des instructions à un groupe d'autres hommes.
 
-![Les docks ne portaient plus la moindre trace de l'évènement au petit matin](  /content/images/2005/01/docks.jpg)
+![Les docks ne portaient plus la moindre trace de l'évènement au petit matin](/content/images/2005/01/docks.jpg)
+_Les docks ne portaient plus la moindre trace de l'évènement au petit matin_
 
 Je n'ai pas entendu la totalité de la conversation, mais tout de même assez pour comprendre que quelque chose de grave se préparait et pour reconnaître leur leader: il s'agissait de logansf2, un ancien rédacteur au Liberty Tree. J'ai donc pris mes précautions pour ne pas être repéré sur le retour et ai immédiatement prévenu la police de ce qui se préparait.  
 Aussitôt, les bureaux du Liberty Tree ont été investis par le FBI et l'ensemble du personnel a dû évacuer les lieux. Des bureaux provisoires ont été installés dans un lieu tenu secret et protégé par la police.

@@ -12,13 +12,15 @@ _Un Beoing 666 ayant décollé hier de l'aéroport international de Los Santos a
 
 En effet, hier à l'Aéroport International de Los Santos a décollé le Beoing 666 de la compagnie aérienne Adios Airlines en destination de Las Venturas. Or, au bout d'une heure de vol, l'avion a disparu des écrans radars des différents aéroports de la région. Les premières questions se sont posées au sujet de Stephen Terr, le commandant de bord et Aiden Orist, le co-pilote.
 
-![Jim Williams.](  /content/images/2016/06/20_3.jpg)
+![Jim Williams.](/content/images/2016/06/20_3.jpg)
+_Jim Williams._
 
 Nous avons rencontré Jim Williams, employé travaillant sur le tarmac :
 
 > Je ne comprends pas, c'est moi même qui ai préparé l'avion avec Sammy, et le pilote avait l'air normal, c'est pas son premier vol et il n'y avait jamais eu de problème. Le truc le plus inquiétant, c'est qu'il y avait 480 passagers, j'ai bien peur de ce qui se passera quand on les retrouvera...
 
-![Sammy Liarman](  /content/images/2016/06/20_4.jpg)
+![Sammy Liarman](/content/images/2016/06/20_4.jpg)
+_Sammy Liarman_
 
 Nous sommes donc allés parler à Sammy Liarman, collègue de Jim :
 
@@ -26,7 +28,7 @@ Nous sommes donc allés parler à Sammy Liarman, collègue de Jim :
 
 Ayant assez de carburant pour voler jusqu'à après demain à moyenne altitude, les rumeurs vont bon train pour avoir une idée de là où il pourrait être. La police s'est donc rendue aux domiciles du commandant de bord et du co-pilote. Dans l’appartement de Terr, ils ont découvert un appareil de simulation de vol, élément très inattendu pour un pilote.
 
-![](  /content/images/2016/06/20_2.jpg)
+![](/content/images/2016/06/20_2.jpg)
 
 Selon les enquêteurs, l'avion ne sortira pas du pays, comme nous l'explique le lieutenant Doug Hankman :
 
@@ -42,11 +44,11 @@ Cette histoire relativement inédite fait énormément parler d'elle, nous somme
 > 
 > **Bridget, 23 ans :** Je devais aller voir mon copain à San Fierro demain, mais j'ai vraiment trop peur maintenant, je pense plutôt prendre le train. Ou alors je n'y vais pas, au moins j'aurais une excuse à donner à ce gros con.
 
-![](  /content/images/2016/06/20.jpg)
+![](/content/images/2016/06/20.jpg)
 
 C'est donc une très triste période financière pour la compagnie Adios Airlines voyant son chiffre d'affaire chuter de 26 % depuis hier. La compagnie aura probablement du mal à relever l'altitude de ses finances.
 
-![](  /content/images/2016/06/20_5.jpg)
+![](/content/images/2016/06/20_5.jpg)
 
 Il en va de même pour la compagnie flyUS, celle-ci étant la principale de l'Aéroport International de LS, voyant un bon nombre de pertes. Le PDG de flyUS a desespérément déclaré :
 
@@ -54,6 +56,6 @@ Il en va de même pour la compagnie flyUS, celle-ci étant la principale de l'A�
 
 Complot ? Terrorisme ? Manifestation diabolique ? Affaire à suivre.
 
-![](  /content/images/2016/06/20_6.jpg)
+![](/content/images/2016/06/20_6.jpg)
 
 <!--kg-card-end: markdown-->

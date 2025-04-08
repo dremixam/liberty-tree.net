@@ -18,11 +18,13 @@ Devant se trouver rapidement des revenus, Garrett décide de mettre à contribut
 
 Et la semaine dernière, ils ouvrent leur entreprise. Le bouche-à-oreille fait venir de plus en plus de clients, notamment des jeunes en quête de sensations fortes et des vétérans du Vietnam qui souhaitent renouveler l'expérience.
 
-![Garrett faisant le premier saut depuis l'avion de l'entreprise](  /content/images/2016/06/0_0%20%281%29_17.jpg)
+![Garrett faisant le premier saut depuis l'avion de l'entreprise](/content/images/2016/06/0_0%20%281%29_17.jpg)
+_Garrett faisant le premier saut depuis l'avion de l'entreprise_
 
 > **Garrett Evans:** Ça n'a vraiment pas été simple, au début, le fait que je sorte de prison faisait peur au gens du coin, et on n'a pas trop voulu me prêter de l'argent pour le projet, mais on y est arrivé ! Et j'espère que l'idée va plaire.
 
-![Garrett faisant le premier saut depuis l'avion de l'entreprise](  /content/images/2016/06/0_0%20%282%29_14.jpg)
+![Garrett faisant le premier saut depuis l'avion de l'entreprise](/content/images/2016/06/0_0%20%282%29_14.jpg)
+_Garrett faisant le premier saut depuis l'avion de l'entreprise_
 
 Et l'ouverture de ce club donne aux habitants de Sandy Shores le sentiment d'être de moins en moins "la risée de San Andreas", "le trou paumé au milieu du désert", ou encore "Une ville de plage sans océan, un parc à roulottes et où la plage est un mélange de boues toxiques et d'os de poissons broyés". Une image qui colle à la peau de cette petite ville qui est le paradis des toxicomanes et des gens bizarres. D'autant que la municipalité a réalisé d'importants travaux de purification de l'Alamo Sea, et que Blaine County regorge d'endroits propres, naturels et magnifiques comme Raton Canyon.
 

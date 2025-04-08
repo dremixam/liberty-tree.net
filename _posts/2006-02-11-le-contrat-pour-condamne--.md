@@ -28,7 +28,8 @@ Le Liberty-Tree était au coin de Newport et en a profité pour poser des questi
 
 Nous estimons quand même que ce texte proposé par le gouverneur n'a pas été bien compris par beaucoup de Libertyciens. Le but est quand même de décriminaliser la ville par le travail et ce contrat tombe à pic.
 
-![Un détenu attendant son premier contrat de travail...](  /content/images/2005/01/cellules1.jpg)
+![Un détenu attendant son premier contrat de travail...](/content/images/2005/01/cellules1.jpg)
+_Un détenu attendant son premier contrat de travail..._
 
 Une autre manifestation est prévue le 14 février. Espérons que cette affaire prendra vite fin car d'un point de vue économique, toutes ces grèves générales ne sont pas bonnes pour la ville...
 

@@ -8,7 +8,7 @@ tags:
 - los-santos
 ---
 
-_Après des semaines de cavale, le [Père Noël qui commettait plusieurs braquages à main armée](  /2014/01/26/le-pere-noel-est-une-ordure/) a enfin été arrêté, et l'identité réelle du bonhomme est plus que surprenante..._
+_Après des semaines de cavale, le [Père Noël qui commettait plusieurs braquages à main armée](/2014/01/26/le-pere-noel-est-une-ordure/) a enfin été arrêté, et l'identité réelle du bonhomme est plus que surprenante..._
 
 Que les enfants se rassurent. Le Père Noël n'a pas été arrêté pour contrebande de cadeaux, ni pour maltraitance envers ses rennes. Celui qui a été arrêté était un usurpateur, un voleur qui utilisait le déguisement de l'honnête homme pour passer inaperçu lors de ses différents braquages.
 
@@ -22,7 +22,8 @@ Ainsi, la police s'est rendue au domicile d'un certain Antonio Rodriguéz, rési
 
 > **Antonio Rodriguéz :** Ça va gringo, arrête de me cogner, je vais parler... J'avais besoin de fric pour offrir des cadeaux à ma famille.. Puis après quelques braquages j'y ai pris goût, je faisais comme dans les films... Je me sentais puissant, tu comprends, amigo ?? Non, me touche pas, me touche pas !!
 
-![Le commissariat de Vespucci Beach.](  /content/images/2016/06/PereNoel7.jpg)
+![Le commissariat de Vespucci Beach.](/content/images/2016/06/PereNoel7.jpg)
+_Le commissariat de Vespucci Beach._
 
 Antonio Rodriguéz a été écroué et attend son procès qui devrait avoir lieu d'ici quelques semaines. C'est donc la fin de l'histoire du Père Noël braqueur...
 

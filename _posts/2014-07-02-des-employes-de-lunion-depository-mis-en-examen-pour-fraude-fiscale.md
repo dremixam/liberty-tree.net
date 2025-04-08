@@ -20,9 +20,9 @@ Suite au braquage de l'Union Deposity par une bande de braqueurs ayant dérobé 
 
 Et c'est à ce moment là que l'Union se rend compte qu'en plus des lingots d'or, il manque aussi 450 millions de dollars en petites coupures. Tout de suite alertée, la brigade financière retrouve quatre mois plus tard les cinq auteurs du vol dont ne donnerons pas les noms, pour éviter de compromettre l'enquête en cours : trois d'entre eux travaillaient encore dans le bâtiment, et ce sont eux qui ont été arrêtés ce matin puis emmenés au commissariat de Rockford Hills.
 
-![](  /content/images/2016/06/0_0_207.jpg)
+![](/content/images/2016/06/0_0_207.jpg)
 
-Quand aux deux autres, l'un s'est retranché dans une grange de Blaine County et le NOOSE donne encore l'assaut sur place à l'heure ou je termine cet article, et l'autre serait parti aux Bahamas. Sue Murry, nouvelle gouverneur de San Andreas ([voir article sur son élection au poste de gouverneur](  /2014/02/18/sue-murry-elue-gouverneur-de-san-andreas--/)) a affirmé dans un communiqué que le FIB et le NOOSE travaillent en coopération pour arrêter le dernier fuyard qui fait l'objet d'un mandat d'arrêt international d'Intrapol.
+Quand aux deux autres, l'un s'est retranché dans une grange de Blaine County et le NOOSE donne encore l'assaut sur place à l'heure ou je termine cet article, et l'autre serait parti aux Bahamas. Sue Murry, nouvelle gouverneur de San Andreas ([voir article sur son élection au poste de gouverneur](/2014/02/18/sue-murry-elue-gouverneur-de-san-andreas--/)) a affirmé dans un communiqué que le FIB et le NOOSE travaillent en coopération pour arrêter le dernier fuyard qui fait l'objet d'un mandat d'arrêt international d'Intrapol.
 
 De l'autre coté de la rue, en face de l'Union Depository, le porte-parole du FIB a organisé une conférence de presse a propos de cet homme d'une quarantaine d'année qui serait arrivé il y a 8 ans de Liberty City.
 

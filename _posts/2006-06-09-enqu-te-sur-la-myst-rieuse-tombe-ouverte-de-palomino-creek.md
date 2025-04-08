@@ -15,16 +15,16 @@ Mystère qui, en passant, attire toujours plus de touristes curieux dans le pais
 
 Pour les uns, ça serait une histoire de zombie, pour les autres un simple canular. Pour moi un simple malentendu...
 
-![Photo de la célèbre tombe ouverte](  /content/images/2005/01/La_tombe_ouverte.jpg)
+![Photo de la célèbre tombe ouverte](/content/images/2005/01/La_tombe_ouverte.jpg)
+_Photo de la célèbre tombe ouverte_
 
 Avant toute chose l'avis de mes compatriotes était nécessaire pour tenter de percer le secret de la tombe n°1313, selon le cadastre communal. Après maintes interviews, malheureusement, presque personne n'a su me donner une information satisfaisante.  
 Pire même : tout le monde à sa propre histoire sur cette tombe ! Une véritable légende s'y est formée autour.
 
 Néanmoins, j'eus tout de même quelques bribes d'informations intéressantes. Notamment sur l'identité de son macchabée maintenant disparu !
 
-![Mr H. Dearch](  /content/images/2005/01/Mr_H__Dearch.jpg)
-
-![Mr N. Patterson](  /content/images/2005/01/Mr_Nick_Patterson.jpg)
+![Mr H. Dearch](/content/images/2005/01/Mr_H__Dearch.jpg)
+_Mr H. Dearch_[Mr N. Patterson](/content/images/2005/01/Mr_Nick_Patterson.jpg)
 
 > Il s'appelait Nick je crois... Oui, Nick Patterson ! _Nous affirme Mr H.Dearch, habitant une maison pas loin du cimetière._ Je me souviens vaguement... C'était il y a 6 ans... Le pauvre homme; on l'a retrouvé mort chez lui ! Pas de cause apparente de décès. On l'a alors enterré dans un caveau tout simplement...caveau financé par sa famille resté en Europe.
 
@@ -47,9 +47,9 @@ Néanmoins, j'eus tout de même quelques bribes d'informations intéressantes. N
 Il ne fut aucun doute pour moi que la Police était mêlée à tout ça. Je fis alors des recherches sur l'inspecteur qui était chargé de l'affaire de la mort de Mr Patterson à l'époque. Après maintes investigations, je finis par retrouver le nom de l'inspecteur : Harry Wesson.  
 Malheureusement, l'inspecteur Wesson est mort depuis déjà plus de 8 mois suite à une fusillade sanglante à Rodeo Street, Los Santos.
 
-![](  /content/images/2005/01/La_reception_du_LSPD.jpg)
-
-![La réception du LSPD et le QG vue de l'extérieur](  /content/images/2005/01/LSPD_HQ.jpg)
+![](/content/images/2005/01/La_reception_du_LSPD.jpg)
+![La réception du LSPD et le QG vue de l'extérieur](/content/images/2005/01/LSPD_HQ.jpg)
+_La réception du LSPD et le QG vue de l'extérieur_
 
 Je n'eus malheureusement plus le choix. Il me fallait aller au QG de la LSPD à Los Santos et affronter la horde de policier corrompus de la ville. Evidemment, mon accueil à la réception fut assez froid. C'est seulement après plusieurs "pots-de-vin" que je pus enfin accéder aux archives de la police sur Mr Patterson. C'était le dossier PC-015-8743-86 et j'y découvris des informations extrêmement importantes, qui finalement ne me font pas regretté les 200 $ de "frais de consultation" que j'ai dû déboursé!
 
@@ -61,9 +61,9 @@ Un entretient avec le sergent W. Smith allait être obligatoire pour avoir le fi
 Le sergent&nbsp;W. Smith&nbsp;me reçut alors (gratuitement, heureusement !) chez lui, dans une belle maison de Montgomery, Red County.  
 Ses déclarations mirent une fin une bonne fois pour toute à la légende de la "tombe du Zombie" comme certains l'appellent.
 
-![](  /content/images/2005/01/Sergent_W__Smith.jpg)
-
-![Le sergent W. Smith et une photo d'archive de la police le soir de l'exhumation](  /content/images/2005/01/Image_d__archive_de_la_police.jpg)
+![](/content/images/2005/01/Sergent_W__Smith.jpg)
+![Le sergent W. Smith et une photo d'archive de la police le soir de l'exhumation](/content/images/2005/01/Image_d__archive_de_la_police.jpg)
+_Le sergent W. Smith et une photo d'archive de la police le soir de l'exhumation_
 
 J'appris de sa part que, je cite:
 

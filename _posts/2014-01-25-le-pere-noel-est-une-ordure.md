@@ -14,13 +14,15 @@ Ah, le Père Noël ! Un personnage adoré de tous, plus particulièrement des en
 
 Seulement, cette image du bon samaritain a été sérieusement écornée ces derniers jours. En cause, un homme déguisé en Père Noël, qui enchaîne les braquages de supérettes et de petites banques, probablement inspiré par la période des fêtes. En effet, un Père Noël passe vite inaperçu dans les rues bondées, et se fond très vite dans la foule. De plus, le butin du vol caché dans sa hotte, il devient très vite un fantôme.
 
-![Le Père Noël photographié par une caméra de surveillance.](  /content/images/2016/06/PereNoel.jpg)
+![Le Père Noël photographié par une caméra de surveillance.](/content/images/2016/06/PereNoel.jpg)
+_Le Père Noël photographié par une caméra de surveillance._
 
 Nous avons rencontré Shamar Khadi, gérant d'un débit de boissons braqué récemment par cet individu.
 
 > **Shamar Khadi :** Je n'ai rien vu venir. Il est rentré dans le magasin en imitant le Père Noël. Évidemment, j'étais content de le voir. Je lui ai demandé ce qu'il comptait amener sous le sapin cette année. Et là il m'a répondu "Ce sera ta tête qui sera sous le sapin si tu me files pas tout le fric" en sortant un fusil de sa hotte. J'ai eu terriblement peur. J'ai donné toute la caisse et il est parti. Je suis encore sous le choc !
 
-![Le débit de boissons de M. Khadi, à Los Santos.](  /content/images/2016/06/PereNoel2.jpg)
+![Le débit de boissons de M. Khadi, à Los Santos.](/content/images/2016/06/PereNoel2.jpg)
+_Le débit de boissons de M. Khadi, à Los Santos._
 
 Cette série de cambriolages intrigue et fascine. Se déguiser en Père Noël, quelle idée ! Beaucoup y ont sûrement pensé sans jamais le faire vraiment. Cet homme, lui, sévit dans son costume, et n'est nullement inquiété par les policiers, incapables de retrouver sa trace : il disparaît toujours avant l'arrivée des forces de l'ordre, qui se demandent alors s'il ne serait pas aidé par des complices, comme nous le confirme l'agent Mitch Evans :
 
@@ -30,14 +32,14 @@ Après cet entretien, nous sommes au moins sûrs d'une chose : Au LSPD, les poli
 
 La liste des commerces attaqués s'allonge. Épiceries, 24/7, banques mineures. Récemment, la banque Fleeca de Pillbox Hill et le LTD Limited à la sortie nord de Los Santos ont également été attaqués par ce braqueur insolite. Des photos prisent pas les caméras de surveillance de ces commerces tournent sur Internet, mais il reste impossible d'identifier ce fameux Père Noël.
 
-![](  /content/images/2016/06/PereNoel3.jpg)
+![](/content/images/2016/06/PereNoel3.jpg)
+![Deux commerces attaqués par le Père Noël.](/content/images/2016/06/PereNoel6.jpg)
+_Deux commerces attaqués par le Père Noël._
 
-![Deux commerces attaqués par le Père Noël.](  /content/images/2016/06/PereNoel6.jpg)
+C'est donc une réputation bien triste que le "Père Noël de Los Santos" fait au vrai Père Noël. Une réputation de criminel, de bandit prêt à braquer des commerces mineurs pour obtenir un peu d'argent. Espérons que la police de Los Santos mettra rapidement fin aux agissements de faux Père Noël, avant que celui-ci ne dévalise toutes les stations-services de San Andreas, [déjà suffisamment touchées en ce qui concerne les braquages](/2013/12/10/les-supermarches--cibles-favorites-des-braqueurs-amateurs/)...
 
-C'est donc une réputation bien triste que le "Père Noël de Los Santos" fait au vrai Père Noël. Une réputation de criminel, de bandit prêt à braquer des commerces mineurs pour obtenir un peu d'argent. Espérons que la police de Los Santos mettra rapidement fin aux agissements de faux Père Noël, avant que celui-ci ne dévalise toutes les stations-services de San Andreas, [déjà suffisamment touchées en ce qui concerne les braquages](  /2013/12/10/les-supermarches--cibles-favorites-des-braqueurs-amateurs/)...
-
-![](  /content/images/2016/06/PereNoel4_0.jpg)
-
-![Images capturées par des caméras de surveillance.](  /content/images/2016/06/PereNoel5.jpg)
+![](/content/images/2016/06/PereNoel4_0.jpg)
+![Images capturées par des caméras de surveillance.](/content/images/2016/06/PereNoel5.jpg)
+_Images capturées par des caméras de surveillance._
 
 <!--kg-card-end: markdown-->

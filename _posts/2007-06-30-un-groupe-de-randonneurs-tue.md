@@ -26,7 +26,8 @@ C'était à 14h22 hier. Un bus fait visiter la région d'Angel Pine à une quinz
 > 
 > **LT :** Merci Mr Haley.
 
-![C'est haut...](  /content/images/2005/01/gallery13.jpg)
+![C'est haut...](/content/images/2005/01/gallery13.jpg)
+_C'est haut..._
 
 Les deux survivants sont ensuite rentrés chez eux, après avoir passé une batterie de tests à l’hôpital d'Angel Pine. La question que tout le monde se pose maintenant est : pourquoi le bus a-t-il quitté la route? La réponse, la voici. Après enquête, il a s'est révélé le chauffeur du bus était saoul, avec 4,5 grammes d'alcool dans le sang. Le bus avait roulé sur un clou, ce qui explique le dérapage puis la sortie de route. Nous avons rencontré Amanda Baxter et James Heaton qui nous ont raconté l'accident :
 
@@ -36,10 +37,12 @@ Les deux survivants sont ensuite rentrés chez eux, après avoir passé une batt
 > 
 > **LT :** Merci, Mme Baxter.
 
-![Ces rochers ont sauvé deux vies...](  /content/images/2005/01/gallery9_3.jpg)
+![Ces rochers ont sauvé deux vies...](/content/images/2005/01/gallery9_3.jpg)
+_Ces rochers ont sauvé deux vies..._
 
 L'agence touristique en charge du bus accidenté à ensuite présenté ses excuses aux deux survivants. A noter que les obsèques des victimes auront lieu vendredi à San Fierro. A cause de cet accident, le tourisme risque de diminuer à Angel Pine et dans sa région...
 
-![Photo du bus avant l'accident](  /content/images/2005/01/gallery14_0.jpg)
+![Photo du bus avant l'accident](/content/images/2005/01/gallery14_0.jpg)
+_Photo du bus avant l'accident_
 
 <!--kg-card-end: markdown-->

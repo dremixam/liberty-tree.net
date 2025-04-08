@@ -9,7 +9,7 @@ tags:
 
 Imaginez-vous devant un distributeur de boissons, vous êtes alléché par ces bonnes boissons pas désaltérantes mais par malheur vous n'avez pas les quelques pièces pour vous en procurer une. Eh bien aujourd'hui, vous n'avez qu'a envoyer un SMS au numéro affiché sur le distributeur, avec comme texte ce qui est bien spécifié aussi sur le distributeur, et la facture vous est envoyé en fin de mois en somme avec toutes les autres commandes de boissons du mois.
 
-![](  /content/images/v1/user20/distributeur.jpg)
+![](/content/images/v1/user20/distributeur.jpg)
 
 **Expliquations du payement:**  
 Lorsque vous envoyez le SMS, étant donné que le distributeur chez 8-Ball est un _Nokia_ , le SMS en question va aller chez _Nokia_, qui lui va vous identifier (lieu d'habitation,...) et donc sait où envoyer la facture puis dit au distributeur qu'il peut lâcher la ou les boissons demandée(s). Vous recevrez donc, à la fin du mois, votre facture.

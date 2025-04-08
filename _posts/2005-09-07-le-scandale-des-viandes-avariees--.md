@@ -12,7 +12,7 @@ Scandale à Los Santos. Les fast-foods Burger Shots auraient vendus des menus B�
 
 Drôle de surprise hier matin, pour les habitués des Burger-Shots de Los Santos qui ont trouvé portes closes. En effet le S3 soupçonne la firme d'avoir vendu de la viande avariée à ses consommateurs. Les fast-foods de San Fierro et de Las Venturas restent ouverts même si la clientèle a nettement diminué . Le président de la société nie toute implication dans l’affaire et accuse même ses fournisseurs.
 
-![](  /content/images/2005/01/BSvendeuse.jpg)
+![](/content/images/2005/01/BSvendeuse.jpg)
 
 Pour de plus amples informations, j’ai interviewé Monsieur Fredrick, directeur du S3 :
 
@@ -32,7 +32,7 @@ Pour de plus amples informations, j’ai interviewé Monsieur Fredrick, directeu
 > 
 > **M. Fredrick:** Un mois de prison ferme et cinq mois avec sursis pour le fournisseur. De plus il doit verser 10 000 dollars de dédommagements à la société. Si c’est par contre le directeur de la firme qui est reconnu coupable, il doit payer une amende de 15 000 dollars et écope d’un an de prison dont six mois avec sursis.
 
-![](  /content/images/2005/01/burgershot%202.jpg)
+![](/content/images/2005/01/burgershot%202.jpg)
 
 L'enquête se terminera la semaine prochaine et les burgers-Shots de Los Santos ne devraient pas rouvrir avant un mois ! Ceux de San Fierro et de Las Venturas subiront d'importants contrôles dans les prochaines semaines.
 

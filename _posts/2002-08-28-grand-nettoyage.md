@@ -11,18 +11,14 @@ Alors que la guerre des gangs entre la mafia et les triades chinoises semble sur
 
 Le parrain a donc décidé de faire table rase en éliminant les brebis galeuses qui ont trahis son nom. C'est ainsi que le plus jeune des frères Forelli à été descendu, son cadavre ayant été dissimulé dans le coffre d'une voiture puis broyé à la casse. Notre photographe a pu prendre des clichés qui permettent d'identifier formellement le corps.
 
-![](  /content/images/v1/user1/farelli1.jpg)
-
-![](  /content/images/v1/user1/farelli2.jpg)
-
-![](  /content/images/v1/user1/farelli3.jpg)
-
-![](  /content/images/v1/user1/farelli4.jpg)
+![](/content/images/v1/user1/farelli1.jpg)
+![](/content/images/v1/user1/farelli2.jpg)
+![](/content/images/v1/user1/farelli3.jpg)
+![](/content/images/v1/user1/farelli4.jpg)
 
 Puis hier c'est celui que l'on surnommait "Bob le frisé" qui a été écrasé par une voiture, puis froidement exécuté sur Atlantic Qay. Il est probable que le vieux Savatore Leone ait encore recours aux assassinats dans un future proche s'il veut se maintenir à la tête de la mafia. Nous espérons néanmoins que ces opérations permettront d'éviter le bain de sang qui se prépare entre les mafiosi et les triades.
 
-![](  /content/images/v1/user1/forelli1.jpg)
-
-![](  /content/images/v1/user1/forelli2.jpg)
+![](/content/images/v1/user1/forelli1.jpg)
+![](/content/images/v1/user1/forelli2.jpg)
 
 <!--kg-card-end: markdown-->

@@ -22,7 +22,8 @@ Nous avons rencontré Catherine Laplanche, présentatrice de la météo à San A
 
 Sur la plage c'est l'hécatombe, les surfeurs et les touristes font trempette dans une eau à 22 °C ! La température idéale pour les méduses donc faites attention. Malgré ça, les baigneurs s'en donnent à cœur joie.
 
-![Les baigneurs de Los Santos](  /content/images/2005/01/vac20076.jpg)
+![Les baigneurs de Los Santos](/content/images/2005/01/vac20076.jpg)
+_Les baigneurs de Los Santos_
 
 Les magasins de tout l'Etat se dépêchent de remplir leurs stocks et de baisser un peu les prix pour attirer les clients, c'est une vraie guerre économique qui va se dérouler ici. Nous avons interrogé Mr.Porter, administrateur économique de San Andreas qui va nous expliquer comment tout ça va se dérouler.
 
@@ -44,15 +45,11 @@ Comme vous l'aurez compris, l'argent récolté servira à renouveler et aider le
 
 Tout autre chose à présent, pour passer vos vacances tranquillement, loin de la pollution de Downtown Los Santos ou de San Fierro, nous vous conseillons cette année... Angel Pine ! Pour les personnes ne sachant pas où se trouve ce "village" il vous faut continuer sur l'autoroute à l'ouest de San Fierro et prendre la sortie n°26. Des petits bungalows ont été prévus pour accueillir les touristes, et il y a la plage toute proche ! En plus de ça vous pourrez visiter les Badlands et grimper au sommet du Mont Chiliad ! Des excursions grandioses vous attendent avec des guides connaissant la région comme leur poche. Il suffit de vous rendre à l'agence touristique du coin.
 
-![](  /content/images/2005/01/vac20072.jpg)
-
-![Les bungalows](  /content/images/2005/01/vac20073.jpg)
-
-![](  /content/images/2005/01/vac20071.jpg)
-
-![Le plan de la région et la plage d'Angel Pine](  /content/images/2005/01/vac20075.jpg)
-
-![L'agence touristique](  /content/images/2005/01/vac20074.jpg)
+![](/content/images/2005/01/vac20072.jpg)
+![Les bungalows](/content/images/2005/01/vac20073.jpg)
+_Les bungalows_[](/content/images/2005/01/vac20071.jpg)
+![Le plan de la région et la plage d'Angel Pine](/content/images/2005/01/vac20075.jpg)
+_Le plan de la région et la plage d'Angel Pine_[L'agence touristique](/content/images/2005/01/vac20074.jpg)
 
 Voilà, le Liberty Tree espère que vous passerez de bonnes et agréables vacances 2007 en famille !
 

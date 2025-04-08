@@ -30,8 +30,7 @@ A l'occasion de ce match événement, j'ai le privilège d'interviewer Isaac Tur
 > 
 > **LT** : Isaac, mille mercis pour cette interview et croyez-moi, vous me compterez parmi les spectateurs !
 
-![Isaac Turner, pendant l'entraînement, est au meilleur de sa forme !](  /content/images/2005/01/16_Basketball.jpg)
-
+![Isaac Turner, pendant l'entraînement, est au meilleur de sa forme !](/content/images/2005/01/16_Basketball.jpg)
 _Le Liberty Tree_ avait été accusé à tort en 2003 par l'émission 75 minutes d'utiliser ses subventions de son ancien propriétaire, le Love Media, à des fins peu honnêtes. Archives du _Liberty-Tree_, reportage par **Pavlov**.
 
 <!--kg-card-end: markdown-->

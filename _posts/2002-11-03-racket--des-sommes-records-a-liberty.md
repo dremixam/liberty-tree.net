@@ -11,7 +11,7 @@ Le gang numéro 1 du racket à Liberty City c'est bien sur la famille Leone, qui
 
 La violence est toujours là quand la mafia envoie quelqu'un récupérer le fric:
 
-![](  /content/images/v1/user20/racket.jpg)
+![](/content/images/v1/user20/racket.jpg)
 
 Notamment avec la "bonne vieille batte de Baseball".
 

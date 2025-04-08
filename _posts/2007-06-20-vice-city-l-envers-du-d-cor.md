@@ -14,7 +14,7 @@ tags:
 
 Ce Vice City, tout le monde le connaît, mais presque personne n'a déjà entendu parler de l'autre face:
 
-![](  /content/images/2005/01/Vice-city_07.jpg)
+![](/content/images/2005/01/Vice-city_07.jpg)
 
 **Little Haïti, quartier défavorisé :** Loin derrière ces fêtes, les habitants, dont la majorité sont&nbsp; originaires de pays du&nbsp;sud de Vice City, sont dehors pour manifester en la mémoire d'un couple tué lors d'une fusillade entre les gangs locaux.
 
@@ -22,31 +22,28 @@ Ce Vice City, tout le monde le connaît, mais presque personne n'a déjà entend
 
 Nous confie Alberto, un Haïtien venu à Vice City à l'âge de 25 ans pour fuir la famine qu'a connu son pays.
 
-![](  /content/images/2005/01/Vice-city_11.jpg)
+![](/content/images/2005/01/Vice-city_11.jpg)
 
 **Alberto, l'un des&nbsp;nombreux d'habitants qui était&nbsp;dehors cette nuit-là...**
 
 L'émotion laisse place à la colère, puisque ces événements tragiques ne font jamais la une des plus grands journaux chics et branchés, à l'inverse des événements Stars qui sillonnent l'autre Vice City.
 
-![](  /content/images/2005/01/Vice-city_09.jpg)
+![](/content/images/2005/01/Vice-city_09.jpg)
 
 **Vice City compte de nombreux gangs dans ses rues.**
 
 On ne reconnait pas Vice City. &nbsp;Le contraste est tellement énorme, inimaginable, il faut y mettre au moins une fois les pieds pour le croire. Pourtant cette ville est en pleine expansion, les buildings sont en construction par dizaines,&nbsp;par conséquent&nbsp;Vice City est la ville dont l'essor immobilier est le plus important d'Amérique, il y a donc un choc immobilier immense, obligeant certaines personnes à vivre difficilement, ce qui entraîne une augmentation importante du taux de Sans Domicile Fixe, qui&nbsp;représente environ 20% de la population.
 
-![](  /content/images/2005/01/Vice-city_02.jpg)
-
-![](  /content/images/2005/01/Vice-city_03.jpg)
+![](/content/images/2005/01/Vice-city_02.jpg)
+![](/content/images/2005/01/Vice-city_03.jpg)
 
 **Les buildings sortent de terre par dizaines à Vice City.**
 
 Cette ville est devenue en moins de six ans, la ville fulgurante qu'elle est aujourd'hui, avec ses Yachts, ses Stars, ses belles voitures et pleins d'autres encore!&nbsp;&nbsp;Vice City&nbsp;vit actuellement une forte croissance entachée par les problèmes du trafic de stupéfiants, la corruption, le terrorisme et l'immigration, mais alors comment deux mondes totalement différents peuvent-ils cohabiter dans une même ville?
 
-![](  /content/images/2005/01/Vice-city_10.jpg)
-
-![La frontière entre ces deux mondes n'est qu'un simple pont.](  /content/images/2005/01/Vice-city_04.jpg)
-
-![](  /content/images/2005/01/Vice-city_16.jpg)
+![](/content/images/2005/01/Vice-city_10.jpg)
+![La frontière entre ces deux mondes n'est qu'un simple pont.](/content/images/2005/01/Vice-city_04.jpg)
+_La frontière entre ces deux mondes n'est qu'un simple pont._[](/content/images/2005/01/Vice-city_16.jpg)
 
 Nous avons pu suivre et poser nos questions au Sergent FloGiard de la Police de&nbsp;Vice City&nbsp;lors d'une patrouille dans&nbsp;l'arrière pays :
 
@@ -66,7 +63,7 @@ La nuit risque de ne pas être de tout repos pour le Sergent, qui comme tous les
 
 En arrivant à une intersection, le Sergent FloGiard signale au commissariat&nbsp;qu'il entre dans le coin le plus "chaud" de la ville:
 
-![](  /content/images/2005/01/Vice-city_13.jpg)
+![](/content/images/2005/01/Vice-city_13.jpg)
 
 **Ce carrefour est un lieu où les échanges de coup de feu sont fréquents.**
 
@@ -74,7 +71,7 @@ En arrivant à une intersection, le Sergent FloGiard signale au commissariat&nbs
 
 > **Sergent FloGiard:** Pas du tout, loin d'là. Car la plus part des fusillades de Gangs ont lieu à la limite entre Little Haïti et Little Havana. D'ailleurs on peut apercevoir des impacts de balles sur ce mur là-bas.
 
-![](  /content/images/2005/01/Vice-city_14.jpg)
+![](/content/images/2005/01/Vice-city_14.jpg)
 
 **Le mur criblé de balles.**
 
@@ -86,7 +83,7 @@ Le Sergent FloGiard connait Vice City mieux que personne à force de patrouiller
 
 Cette face de Vice City est souvent cachée, ce qui entraîne les clandestins droit dans le mur; puisque&nbsp;Vice City est aussi touché par l'immigration de jeunes Cubains et autres qui veulent connaître et vivre dans le Vice City dont tous le monde parle. Tous les moyens sont bon pour&nbsp; y arriver clandestinement, comme par exemple il y a une semaine de ça,&nbsp;la Police de l'immigration a trouvé trois personnes&nbsp;cachées dans la coque d'un bateau remorqué sur un camion venu tout droit de Liberty City. Vice City est donc&nbsp;la ville la plus hispanique d'Amérique.
 
-![](  /content/images/2005/01/Vice-city_15.jpg)
+![](/content/images/2005/01/Vice-city_15.jpg)
 
 **Ce type de pub est certes très attractive mais la surprise est inévitable.**
 
@@ -94,6 +91,6 @@ De plus, il n'y a pas que ça qui&nbsp;touche cette métropole, il y a aussi la 
 
 Strass, paillettes, champagne,&nbsp; belles filles,..voici les principaux ingrédients qui ont permis à Vice City de&nbsp;vivre&nbsp;un tel succès mais lorsque qu'on recule la vue est impressionnante et la ville méconnaissable. On comprend alors pourquoi Vice City est appelée ville de tous les excès...
 
-![](  /content/images/2005/01/Vice-city_08.jpg)
+![](/content/images/2005/01/Vice-city_08.jpg)
 
 <!--kg-card-end: markdown-->

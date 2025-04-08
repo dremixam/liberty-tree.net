@@ -12,8 +12,8 @@ _Le groupe de rap mondialement connu, 3Man Crew, et originaire de Liberty City r
 
 Les 3Man Crew, qui ne connaît-il pas ce groupe à la renommée mondiale? Les deux premiers albums de ces jeunes de 25 ans se sont déjà vendus à plus de 2 millions d'exemplaires rien qu'aux USA. Le groupe originaire de Wichita Gardens est actuellement dans le collimateur de l'office de la culture de notre ville. En effet, considérant le nombre de fans à Liberty, le directeur artistique Baz Flock a eu l'idée d'organiser le concert d'ouverture dans un lieu pouvant contenir environ 100 000 personnes, le choix s'est donc porté sur le stade commémoratif Liberty. Cependant, un lobby d'élus locaux de Staunton a essayé d'annuler le concert en soulevant le thème de l'insécurité.
 
-![](  /content/images/v1/user23/3man01.jpg)  
- ![](  /content/images/v1/user23/3man02.jpg)
+![](/content/images/v1/user23/3man01.jpg)
+![](/content/images/v1/user23/3man02.jpg)
 
 Nous nous sommes donc entretenus avec les 3Man Crew, le groupe aux 7 millions d'albums vendus dans le monde: S.V.E.N, DJ Seagull et FL57 pour mieux comprendre pourquoi il y a eu toute cette affaire mais pour parler aussi de leur album, de la tournée et de leur avenir.
 

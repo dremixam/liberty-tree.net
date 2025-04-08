@@ -54,25 +54,25 @@ Aucun accident n'a eu lieu pendant le Drag et Matt a réussi à gagner la course
 
 **La Flash**
 
-![](  /content/images/2005/01/FLASH.jpg)
+![](/content/images/2005/01/FLASH.jpg)
 
 La Flash est une voiture compacte, l'une des plus petites, mais aussi l'une des plus maniables. Elle n'est pas trop faite pour le Drag, ni pour le drift (dérivé comme le drag de la course de rue, sauf que les dérapages priment et que celui qui ale plus usé ses pneus a gagné.) mais elle est parfaite pour les courses au fort dénivelé comme à Las Collinas par exemple.
 
 **L'Hotring Racer**
 
-![](  /content/images/2005/01/HOTRING.jpg)
+![](/content/images/2005/01/HOTRING.jpg)
 
 C'est l'une des voitures les plus rapide au monde, vous en verrez peu dans votre vie. Tel une formule 1, elle flirte avec les 300 km/h facilement, ce bijoux n'est pas a mettre en toute les mains. Une accélération immédiate et une vitesse de pointe hors-normes, a n'utiliser que pour les Drags et les courses où les virages sont quasi-inexistants car une voiture d'un tel calibre est très dure à contrôler. Pour pilotes avertis
 
 **L'Uranus**
 
-![](  /content/images/2005/01/URANUS.jpg)
+![](/content/images/2005/01/URANUS.jpg)
 
 Elle aussi se débrouille plus que bien en vitesse de pointe, mais possède une accélération moyenne. Maniable mais pas trop, elle est faite pour le drift et les courses avec un nombre conséquent de virages. Elle est plus dédiée pour la frime que pour la course, mais les deux sont possibles.
 
 **La Sultan**
 
-![](  /content/images/2005/01/SULTAN.jpg)
+![](/content/images/2005/01/SULTAN.jpg)
 
 Une voiture aux formes effilées, elle en veut terriblement, déjà pour le style mais aussi pour ce qu'il y a sous le capot, superbement maniable et stable, un gamin pourrait presque la conduire. Un contact de San Fierro m'a affirmé justement que Mr. C.Vialpendo a une petite faiblesse pour elle.
 

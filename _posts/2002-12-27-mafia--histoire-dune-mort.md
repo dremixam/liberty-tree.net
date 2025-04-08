@@ -25,9 +25,9 @@ Enfin, M.Tovalia devait recevoir le colonel Cortez pour faire des affaires. Nous
 
 Enfin,je pense qu'il l'a fait exprès. Salvatore Leone a été tué il y a 2 semaines et quelqu'un veut la mort de la mafia jet-setienne. Le magazine Jet Set People a fait un zoom sur la grande famille italienne de Liberty à l'occasion de la semaine du cinéma à Vice City.
 
-![](  /content/images/v1/user25/luigi.jpg)  
- ![](  /content/images/v1/user25/maria.jpg)  
- ![](  /content/images/v1/user25/salvatore.jpg)
+![](/content/images/v1/user25/luigi.jpg)
+![](/content/images/v1/user25/maria.jpg)
+![](/content/images/v1/user25/salvatore.jpg)
 
 Eh oui, ça date de l’époque où Salvatore Leone était encore en vie. Un déchet du business du journalisme nous a parlé d'un coursier qui aurait tué M.Leone.  
 Le fils de Salvatore, Joey, a été interrogé:
@@ -40,13 +40,13 @@ Une fusillade a éclaté au port de PortLand, lors de la livraison de bière mex
 
 Giorgio Forelli a été emprisonné pour avoir tué le frère de Salvatore,Alberto Leone. Il a été transféré à la prison de Staunton et s'est fait tué par un Yakusa. Un autre Forelli a été trouvé mort à la casse de Harwood.
 
-![](  /content/images/v1/user25/forelli.jpg)
+![](/content/images/v1/user25/forelli.jpg)
 
 J'ai pu aller aux bureaux du FBI et ils m'ont donné ces photos.
 
-![](  /content/images/v1/user25/toni.jpg)  
- ![](  /content/images/v1/user25/asuka.jpg)  
- ![](  /content/images/v1/user25/elburro.jpg)
+![](/content/images/v1/user25/toni.jpg)
+![](/content/images/v1/user25/asuka.jpg)
+![](/content/images/v1/user25/elburro.jpg)
 
 Voici Asuka Kasen, Toni Cipriani et El Burro. Ils seraient eux aussi intéressés par la déroute de la Mafia. Je vais voir ce que je peux trouver d'autre...
 

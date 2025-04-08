@@ -15,11 +15,12 @@ Non, ne vous en faites pas, amis lecteurs qui désireraient faire le métier de 
 
 Nous témoigne le&nbsp;fonctionnaire visiblement encore sous le choc.
 
-![L'hôtel Ocean View qui fera fuir les clients désormais.](  /content/images/2005/01/oceanview.jpg)
+![L'hôtel Ocean View qui fera fuir les clients désormais.](/content/images/2005/01/oceanview.jpg)
+_L'hôtel Ocean View qui fera fuir les clients désormais._
 
 En effet, l'homme âgé&nbsp;de 31 ans, André Dufoin, Français et reporter au très contesté Liberty Free a été la malheureuse victime. "Ce mec a été liquidé d'une manière abominable. Jamais vu ça !" nous explique le lieutenant&nbsp;Phil Bracali&nbsp;de la police criminelle de Vice City. "On a trouvé un crochet à viande planté dans sa gorge ! C'est vraiment barbare !" Selon le légiste, l'homme aurait été tué depuis une dizaine de jours sans donner plus de précision à part qu'il vivait encore avant d'être tué. Aucune empreintes ou indices n'ont été trouvés sur le lieu du crime et fait penser au double meurtre qu'il y a eu il y a maintenant un peu moins&nbsp;deux mois et&nbsp; et qui n'a toujours pas été résolu.
 
-![](  /content/images/2005/01/scenecrime.jpg)
+![](/content/images/2005/01/scenecrime.jpg)
 
 De suite après avoir examiné le corps, les enquêteurs ont&nbsp;&nbsp;directement confisqué les enregistrements de la vidéo-surveillance. Pour le directeur de L'Ocean View, Mike Porden, c'est une affaire troublante :
 
@@ -27,15 +28,14 @@ De suite après avoir examiné le corps, les enquêteurs ont&nbsp;&nbsp;directem
 
 Pendant une heure, les policiers auront pris le directeur comme suspect principal, lui laissant le droit à un interrogatoire musclé quand un groom a finalement découvert un réceptionniste en caleçon,&nbsp;dans un placard, encore endormi sous l'effet du chloroforme selon les enquêteurs mais aussi une chemise hawaïenne soigneusement pliée. Pour eux, tout devient clair : le tueur a pu se découvrir sans surprise devant sa future victime, ou plutôt son contrat qui ne se serait pas douté que ce soit&nbsp;une personne&nbsp;venue dans l'intention de l'envoyer six pieds sous terre.
 
-![](  /content/images/2005/01/oceancam1.jpg)
-
-![](  /content/images/2005/01/oceancam2.jpg)
+![](/content/images/2005/01/oceancam1.jpg)
+![](/content/images/2005/01/oceancam2.jpg)
 
 Sur les vidéos, on distingue nettement une Cadillac Eldorado, qui se révélera être la même voiture retrouvé sur la plage un peu plus loin,&nbsp;avec au volant, une personne affublé d'une chemise hawaïenne ; détail rappelant encore le double meurtre des journalistes de SanAn News. Quant au réceptionniste, ce dernier&nbsp; affirme avoir vu ce réceptionniste faire un aller-retour :
 
 > L'hôtel marche jour et nuit et nous nous organisons pour accueillir les personnes le mieux possible sans montrer une tête de déterré. J'ai vu ce réceptionniste , c'est vrai mais je ne les connaît pas tous ! Certains partent puis reviennent. De quoi avait l'air le gars en question ? Ben il était sérieux, quoi...
 
-![](  /content/images/2005/01/oceancam3.jpg)
+![](/content/images/2005/01/oceancam3.jpg)
 
 Nous avons téléphoné à la direction du Liberty Free, en France : Pour M. Mang-Ha, le directeur, c'est une grande perte :
 
@@ -43,7 +43,8 @@ Nous avons téléphoné à la direction du Liberty Free, en France : Pour M. Man
 
 Ainsi M. Mang-Ha perd lui aussi un&nbsp;reporter, le seul,&nbsp;et nous laisse penser que le métier de journaliste devient très risqué avec le temps.
 
-![Une Cadillac défoncée et l'intérieur saccagé pour faire disparaître les traces.](  /content/images/2005/01/eldocass_e.jpg)
+![Une Cadillac défoncée et l'intérieur saccagé pour faire disparaître les traces.](/content/images/2005/01/eldocass_e.jpg)
+_Une Cadillac défoncée et l'intérieur saccagé pour faire disparaître les traces._
 
 Pour Phil Bracali, il faut trouver et débusquer la personne qui a assassiné ces trois journalistes à Vice City et débarquer chez le commanditaire de ces&nbsp;meurtres :
 
@@ -63,7 +64,8 @@ Pour Phil Bracali, il faut trouver et débusquer la personne qui a assassiné ce
 
 > **Phil Bracali _(rires)_ :** Non ! Il n'est pas encore né celui qui mettra un crochet dans ma gorge !
 
-![Phil Bracali, pris pour cible lui aussi ?](  /content/images/2005/01/phil_bracali.jpg)
+![Phil Bracali, pris pour cible lui aussi ?](/content/images/2005/01/phil_bracali.jpg)
+_Phil Bracali, pris pour cible lui aussi ?_
 
 Au moment où nous finissions l'article, nous avons été contacté par le VCPD pour nous signaler que le lieutenant avait été renversé par une voiture. Ce dernier, malgré des côtes cassées, est encore en vie et reste à l'hôpital sous haute surveillance policière.
 

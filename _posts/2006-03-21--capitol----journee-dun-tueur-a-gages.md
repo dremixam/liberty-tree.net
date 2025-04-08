@@ -12,15 +12,14 @@ _Pour ce premier numéro de Capitol, nous vous proposons le quotidien d'un tueur
 
 Nous sommes à Vice City, Little Havana. Ce que les passants ne savent pas, c'est qu'un tueur à gages, un porte-flingues comme on les appelle dans le milieu, habite dans unes des maisons pauvres. Peu de personnes le savent mais le tueur à gages a un fort intérêt économique pour la mafia ou tout autre gang et Antonio Mantano, cubain d'origine, a bien voulu nous faire partager son expérience.
 
-![](  /content/images/2005/01/barque2.jpg)
+![](/content/images/2005/01/barque2.jpg)
 
 D'abord, ce métier qui n'est pas très reconnu, pourrait-il avoir de l'avenir ? Nous pensons que non, tout simplement parce que c'est un métier de niche dont les places sont chères. Il faut avoir la réputation pour être reconnu. Par contre, si vous avez l'occasion de travailler pour une organisation criminelle en été par exemple, vous serez sollicités par vos employeurs étant donné votre bas prix.
 
 Il est 9h00 du matin. Antonio est levé depuis 5h00, nettoyant ses fusils et sa tronçonneuse. Le téléphone sonne : c'est son actuel patron qui veut obtenir ce qu'on lui doit. Vous l'aurez compris, Antonio va devoir chercher sa cible et le convaincre de rendre à César ce qui est à César. Nous sortons rapidement pour monter dans son break, pas très côté niveau mode mais terriblement discret. Nous roulerons jusqu'à Little Haitï pour s'arrêter devant une vieille maison. Nous en profitons pour poser quelques questions à Antonio :
 
-![](  /content/images/2005/01/baraque1.jpg)
-
-![](  /content/images/2005/01/perenial_0.jpg)
+![](/content/images/2005/01/baraque1.jpg)
+![](/content/images/2005/01/perenial_0.jpg)
 
 > **Liberty Tree :** Qu'allez vous faire maintenant ?
 > 
@@ -54,6 +53,6 @@ Un tueur à gages ne coûte pas si cher, comme on aurait pu le penser. Néanmoin
 
 C'est sur cette action qu'Antonio nous a dit au revoir. Ne vous en faites pas, il s'en est sorti tranquillement. Le prochain numéro de Capitol portera sur la brigade des stupéfiants à Liberty City : Comment les homes de cette brigade gèrent-ils la corruption ? Prennent-ils autant de risques qu'on veuille bien le croire ? Il y a t-il des meurtres illégales commandité par la mafia ?
 
-![](  /content/images/2005/01/affiche.jpg)
+![](/content/images/2005/01/affiche.jpg)
 
 <!--kg-card-end: markdown-->

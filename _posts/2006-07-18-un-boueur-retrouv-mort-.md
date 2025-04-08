@@ -16,11 +16,13 @@ Quelques témoins ayant&nbsp;assisté à la scène nous explique ce qu'ils ont v
 
 > **Mr et Mme Parker, commerçants :** On rentrait d'une fête chez des amis lorsque ce monsieur se dirigea sur nous à toute allure!Heureusement il tourna au dernier moment! et peu de temps après, il se retrouva dans un mur ! Nous avons décidés alors d'appeler le 911. On a failli y rester !
 
-![Le camion-poubelle de Jacky.](  /content/images/2005/01/accident2.jpg)
+![Le camion-poubelle de Jacky.](/content/images/2005/01/accident2.jpg)
+_Le camion-poubelle de Jacky._
 
 Ces témoignages peuvent nous faire penser que c'est un accident dû à l'alcool. Je décide alors d'aller interviewer Marcel, agent de la LSPD :
 
-![Marcel, agent de la LSPD.](  /content/images/2005/01/marcel.jpg)
+![Marcel, agent de la LSPD.](/content/images/2005/01/marcel.jpg)
+_Marcel, agent de la LSPD._
 
 > **Liberty Tree :** Bonjour et merci d'avoir accepté cet entrevue !
 
@@ -42,7 +44,8 @@ Un meurtre ? Pourquoi ? La déclaration du patron de Jacky donna une nouvelle pi
 
 Une coïncidence? peut-être. En examinant le dossier d'autopsie du frère de Jacky, Vance, On remarque qu'il fut tué par balle. Je décide alors de mener l'enquête pour vous, lecteurs du Liberty Tree. Plus tard dans le semaine je fus contacté par une personne qui veut garder l'anonymat. Elle m'apprit que le frère de Jacky avait assister à un attentat il y a un ans dans sa ville natale (Liberty city), Il reconnu l'auteur de cet attentat ( nous l’appellerons Mr X) et&nbsp;Vance fut menacé de mort par M r. X&nbsp;de peur qu'il le "balance" à la police.&nbsp;Il allait le faire est fut tué par Mr. &nbsp;X.
 
-![Vance avec son frère, Jacky](  /content/images/2005/01/vance_jacky.jpg)
+![Vance avec son frère, Jacky](/content/images/2005/01/vance_jacky.jpg)
+_Vance avec son frère, Jacky_
 
 Le jour de sa mort,&nbsp;Jacky MacOgen&nbsp;avait rendez-vous avec un agent du FBI, qui veut rester anonyme de peur de mourir, pour sûrement "vendre" Mr. X comme vengeance pour Vance.
 
@@ -62,9 +65,8 @@ Pour continuer mon enquête, je décide de contacter l'agent du FBI (nous l'appe
 
 Après cet entretien le tueur court toujours et n'est pas prêt d'aller derrière les barreaux car à l'heure où vous lisez ces dernières lignes, nous apprenions que "Kevin" fut atteint d'une crise cardiaque lors de son footing matinal.
 
-!["Kevin" qui fait son footing matinal](  /content/images/2005/01/footing.jpg)
-
-![Le corps de "Kevin" retrouvé par la LSPD.](  /content/images/2005/01/mort_kevin.jpg)
+!["Kevin" qui fait son footing matinal](/content/images/2005/01/footing.jpg)
+_"Kevin" qui fait son footing matinal_[Le corps de "Kevin" retrouvé par la LSPD.](/content/images/2005/01/mort_kevin.jpg)
 
 Coïncidence ? Je ne&nbsp;peux pas l'affirmer mais ce qui est sûr c'est que le reste de la famille est à l'abri de ce tueur en série qui est prêt à tout faire pour ne pas passer ses dernières années au frais dans une cellule...
 

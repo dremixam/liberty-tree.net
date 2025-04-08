@@ -36,13 +36,13 @@ Le véritable point noir sur cette voiture, c'est qu'il faut des actions chez AM
 
 Prix : 65.000 $
 
-![](  /content/images/2005/01/cls2.jpg)
+![](/content/images/2005/01/cls2.jpg)
 
 Sentinelle V12 :
 
 La firme Liberticienne a fait de gros efforts avec la sortie de la V12, un peu moins bien que la CLS, mais, j'ai été impressionné.
 
-![](  /content/images/2005/01/sentinel1.jpg)
+![](/content/images/2005/01/sentinel1.jpg)
 
 Finition : **3/5**
 
@@ -64,7 +64,7 @@ La Sentinelle V12 ne consomme pas beaucoup, ce qui m'a étonné pour une voiture
 
 Prix 32.000 $
 
-![](  /content/images/2005/01/sentinel2.jpg)
+![](/content/images/2005/01/sentinel2.jpg)
 
 Alors, si vous avez assez d'argent, la CLS 500 est à vous, mais si vous n'avez pas les moyens de l'acheter et que vous voulez goûter au sport et au luxe, la V12 est faite pour vous; moi, je n'ai pas encore assez d'argent, mais, j'économise pour la V12 !
 

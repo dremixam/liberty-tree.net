@@ -20,7 +20,7 @@ Les sièges chauffeur et passager en cuir sont chauffant et ventilés par un sys
 Le compteur digital bleu intègre différentes fonctions comme la distance entre le véhicule qui vous précède ou celui qui vous suit, mais aussi tout le panel d'un véhicule classique.  
 La console centrale du tableau de bord intègre le GPS, le poste laser et la radio AM/FM mais peut aussi faire office de moniteur pour une TV ou bien un lecteur DVD.
 
-![](  /content/images/2016/07/s55amg5.jpg)
+![](/content/images/2016/07/s55amg5.jpg)
 
 Carrosserie :
 
@@ -29,7 +29,7 @@ Une ligne pure et raçée à la fois, la taille imposante d'une berline sans tou
 Les feux arrière sont équipés de LEDs, ce qui donne un gain d'environ 50 millisecondes par rapport à des ampoules classiques.  
 Voir et être bien vu : Les rappels de clignotants dans les rétroviseurs permettent d’être plus visibles des autres.
 
-![](  /content/images/2016/07/s55amg3.jpg)
+![](/content/images/2016/07/s55amg3.jpg)
 
 Moteur :
 
@@ -42,7 +42,7 @@ Résistance aux piétons :
 Une grosse berline se doit d’être robuste.  
 Mercedes ne l'a pas oublié et permet de percuter un piéton à vive allure sans perdre d’élément de carrosserie.
 
-![](  /content/images/2016/07/s55amg6.jpg)
+![](/content/images/2016/07/s55amg6.jpg)
 
 Consommation :
 
@@ -71,12 +71,9 @@ Si comme moi vous désirez faire l'acquisition de ce véhicule, n’hésitez plu
 
 Je vous laisse en compagnie de quelques clichés de la belle et vous dis "à la semaine prochaine !".
 
-![](  /content/images/2016/07/s55amg.jpg)
-
-![](  /content/images/2016/07/s55amg1.jpg)
-
-![](  /content/images/2016/07/s55amg2.jpg)
-
-![](  /content/images/2016/07/s55amg4.jpg)
+![](/content/images/2016/07/s55amg.jpg)
+![](/content/images/2016/07/s55amg1.jpg)
+![](/content/images/2016/07/s55amg2.jpg)
+![](/content/images/2016/07/s55amg4.jpg)
 
 <!--kg-card-end: markdown-->

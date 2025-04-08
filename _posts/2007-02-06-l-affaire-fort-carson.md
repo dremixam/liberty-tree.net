@@ -10,7 +10,7 @@ tags:
 - los-santos
 ---
 
-![](  /content/images/2005/01/ovni-2-molotov.jpg)
+![](/content/images/2005/01/ovni-2-molotov.jpg)
 
 L’affaire Fort Carson débuta dans la nuit du 2 au 3 juillet lorsque des personnes observèrent dans le ciel un disque brillant. L'affaire en serait certainement resté là, si le 4/07/1947, un fermier de la région de Fort Carson (Las Venturas, S.A), Mac Brazel, n'avait pas découvert dans son ranch les débris d’un engin. Intrigué, celui-ci préviendra la base militaire de Las Venturas, quelques jours après sa découverte, le 7/07/1947. Les militaires viendront rapidement chercher les débris.
 
@@ -34,13 +34,14 @@ Malgré ces faits, la rumeur que l’armée possède un corps et un vaisseau ext
 
 En 1978, le major Jesse Marcel de la base de Las Venturas raconte a Stanton Friedman, physicien nucléaire et ufologue, que les débris qu'il a eu entre les mains ne ressemblaient à aucun matériaux existant à l'époque et qu'ils devaient provenir d'un OVNI.
 
-![Le major J.Marcel](  /content/images/2005/01/major-molotov.jpg)
+![Le major J.Marcel](/content/images/2005/01/major-molotov.jpg)
+_Le major J.Marcel_
 
 Dans les années 1980 de nombreuses photos de corps d’E.T. et de rapports TOP SECRET sur Fort Carson circulent. Des ufologues renommés, comme Moore, affirment avoir des dossiers SECRET, mais ceci se révéleront faux par la suite.
 
 En 90, le phénomène ne s’essouffle pas, la folie Fort Carson reprend, de nouvelles personnes affirment avoir vu des corps et les restes d’une soucoupe. Le congrès Américain décide alors de faire un rapport sérieux sur l’affaire. Ce rapport s’intitulera : **Fort Carson : Faits contre fiction.**
 
-![](  /content/images/2005/01/fortcarsonrapport-molotov.jpg)
+![](/content/images/2005/01/fortcarsonrapport-molotov.jpg)
 
 Dans ce rapport, on apprend que les OVNIs étaient en fait des sondes de l’armée américaine qui devaient détecter les explosions nucléaires (je vous rappelle qu’en 1947 on est en pleine guerre froide).
 
@@ -48,14 +49,15 @@ Cependant dans ce rapport on ne trouve rien sur les corps, c'est pourquoi les uf
 
 La même année sort en vidéo le film « autopsie de l’OVNI de Fort Carson ». Ce film sera diffusé sur Love Media, le 21 juin 1995, dans une émission présentée par J.Pradel (_l'Odyssée de l'étrange_). Ce film est un grand moment de la télévision, encore aujourd’hui tout le monde se souvient de ce corps, mais est-ce que ce corps est un extraterrestre, un pantin en latex, ou un humain déformé par des expériences médicales militaires ?
 
-![](  /content/images/2005/01/ovni-molotov2.jpg)
-
-![Quelques clichés du film](  /content/images/2005/01/ovni-molotov.jpg)
+![](/content/images/2005/01/ovni-molotov2.jpg)
+![Quelques clichés du film](/content/images/2005/01/ovni-molotov.jpg)
+_Quelques clichés du film_
 
 En 1995, le producteur Ray Santilli vend les droits de ce film à 27 chaines de télévision. D'après lui, ce document vient d'un cameraman de l'armée américaine, un certain Jack Barnet. Sur ce film on voit un extraterrestre ayant 6 doigts à chaque main, une grosse tête et pas de nombril (voir la photo ci-dessous).  
 Ce film sera présenté à un congrès d'ufologie les 19 et 20 août 1995. Mr Velasco, scientifique du CNES, témoigne : "Il était clair que Santilli venait faire du business. Les scientifiques étaient tout à fait minoritaire". Mais le film se vendra tout de même à 20000 exemplaires aux USA.
 
-![Ray Santilli](  /content/images/2005/01/raysantilli-molotov.jpg)
+![Ray Santilli](/content/images/2005/01/raysantilli-molotov.jpg)
+_Ray Santilli_
 
 **4 raisons de croire que ce film est une supercherie :**
 
@@ -74,6 +76,6 @@ Ce film semble être donc une véritable supercherie, réalisé à des fins comm
 Aujourd’hui le phénomène Fort Carson aurait tendance à s’essouffler, mais il continue à passionner (et oui, sinon vous ne seriez pas là), peut-être car cet événement permet de donner une réponse à une question que nous nous posons tous, "sommes-nous seuls dans l'univers ?".  
 Je ne possède pas la réponse, mais j'espère que nous ne sommes pas seuls.
 
-![](  /content/images/2005/01/fortcarsoncarte-molotov.jpg)
+![](/content/images/2005/01/fortcarsoncarte-molotov.jpg)
 
 <!--kg-card-end: markdown-->

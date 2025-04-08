@@ -16,13 +16,14 @@ Depuis plusieurs mois maintenant, de nombreuses saisies de drogue ont eu lieu à
 
 Le LSPD a alors intensifié ses recherches, interrogé des suspects, intercepté des cargaisons, mis des dealers sur écoute, procédé à des interrogatoires violents, et aurait au final obtenu deux noms de trafiquants importants : le premier s'appellerait « Chef » et le second se ferait nommer « Redman ».
 
-![](  /content/images/2016/06/Meth2_0.jpg)
-
-![Le débit de boissons sur lequel sont portés les soupçons.](  /content/images/2016/06/Meth5.jpg)
+![](/content/images/2016/06/Meth2_0.jpg)
+![Le débit de boissons sur lequel sont portés les soupçons.](/content/images/2016/06/Meth5.jpg)
+_Le débit de boissons sur lequel sont portés les soupçons._
 
 Leur trafic serait basé au débit de boissons de Sandy Shores, à l'ouest de la ville. La police a des soupçons concernant un labo clandestin de méth au premier étage. Mais la police recherche également un camping-car ancien, qui servirait également de labo. En effet, plusieurs témoins (dont nous-mêmes, voir photo) ont vu de la fumée blanche s'échapper du toit du camping-car, arrêté en plein désert ou près du Liquor Ace.
 
-![Le fameux camping-car suspect.](  /content/images/2016/06/Meth1.jpg)
+![Le fameux camping-car suspect.](/content/images/2016/06/Meth1.jpg)
+_Le fameux camping-car suspect._
 
 Nous avons rencontré Bryan Black, professeur de chimie à l'ULSA (University of San Andreas, Los Santos) :
 
@@ -32,10 +33,12 @@ Nous avons rencontré Bryan Black, professeur de chimie à l'ULSA (University of
 
 La rencontre fut de courte durée. M. Black était étrangement pâle. Probablement à cause du poisson périmé de la cantine, à midi...
 
-![M. Bryan Black.](  /content/images/2016/06/Meth3.jpg)
+![M. Bryan Black.](/content/images/2016/06/Meth3.jpg)
+_M. Bryan Black._
 
 L'enquête suit son cours. La police devrait bientôt obtenir un mandat de perquisition pour le débit de boissons, et elle n'aura pas trop de mal à retrouver le camping-car. Reste à trouver « Chef », aperçu à l'étage du Liquor Ace (voir photo envoyée par un lecteur), « Redman » et peut-être d'autres complices. Affaire à suivre...
 
-![La photo sur laquelle on peut apercevoir "Chef".](  /content/images/2016/06/Meth4.jpg)
+![La photo sur laquelle on peut apercevoir "Chef".](/content/images/2016/06/Meth4.jpg)
+_La photo sur laquelle on peut apercevoir "Chef"._
 
 <!--kg-card-end: markdown-->

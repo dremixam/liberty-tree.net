@@ -14,11 +14,9 @@ Nombreux sont ceux parmi vous qui ont déjà loué les services d’une limousin
 
 Il faut toutefois être très prudent lorsque vient le moment de se choisir une entreprise de transport en limousine car malheureusement il existe encore des gens sans scrupules qui ne respectent pas leurs engagements. Le bureau de la protection des consommateurs regorge de plaintes de toutes sortes chaque année, adressées contre des gens qui opèrent sans permis ni aucune accréditation.
 
-![](  /content/images/2005/01/Limo_-_Speedy_Limo_Shit_1.jpg)
-
-![](  /content/images/2005/01/Limo_-_Speedy_Limo_Shit_2.jpg)
-
-![](  /content/images/2005/01/Limo_-_Speedy_Limo_Shit_3.jpg)
+![](/content/images/2005/01/Limo_-_Speedy_Limo_Shit_1.jpg)
+![](/content/images/2005/01/Limo_-_Speedy_Limo_Shit_2.jpg)
+![](/content/images/2005/01/Limo_-_Speedy_Limo_Shit_3.jpg)
 
 À cette adresse, selon l'annonce du journal, nous étions  
 supposé trouver une limousine deluxe. Tout ce que nous avons  
@@ -28,15 +26,12 @@ Afin de vous informer et vous protéger, nous avons donc décidé de réaliser c
 
 Notre première visite s’est faite chez La Vie En Rose pour son originalité et surtout pour le caractère particulier de sa clientèle cible.
 
-![Carte d'affaire de Limousines La Vie En Rose.](  /content/images/2005/01/Limo_-_Vie_En_Rose_Title.jpg)
-
-![](  /content/images/2005/01/Limo_-_Vie_En_Rose_Limo_Fleet_1.jpg)
-
-![Flotte des limousines disponibles.](  /content/images/2005/01/Limo_-_Vie_En_Rose_Limo_Fleet_2.jpg)
-
-![](  /content/images/2005/01/Limo_-_Vie_En_Rose_Owner_Cars.jpg)
-
-![Photo des voitures personnelles de Carla St-James, la propriétaire de l'entreprise (ci-dessus à droite)](  /content/images/2005/01/Limo_-_Vie_En_Rose_Owner.jpg)
+![Carte d'affaire de Limousines La Vie En Rose.](/content/images/2005/01/Limo_-_Vie_En_Rose_Title.jpg)
+_Carte d'affaire de Limousines La Vie En Rose._[](/content/images/2005/01/Limo_-_Vie_En_Rose_Limo_Fleet_1.jpg)
+![Flotte des limousines disponibles.](/content/images/2005/01/Limo_-_Vie_En_Rose_Limo_Fleet_2.jpg)
+_Flotte des limousines disponibles._[](/content/images/2005/01/Limo_-_Vie_En_Rose_Owner_Cars.jpg)
+![Photo des voitures personnelles de Carla St-James, la propriétaire de l'entreprise (ci-dessus à droite)](/content/images/2005/01/Limo_-_Vie_En_Rose_Owner.jpg)
+_Photo des voitures personnelles de Carla St-James, la propriétaire de l'entreprise (ci-dessus à droite)_
 
 **Nom de l’entreprise&nbsp;:** La Vie En Rose
 
@@ -56,11 +51,10 @@ En plus d’avoir une flotte exclusivement composée de véhicules peints en ros
 
 Nous nous sommes ensuite dirigé vers Downtown Limousine, l’entreprise ayant le plus grand inventaire de limousines en ville.
 
-![Carte d'affaire de Downtown Limousines](  /content/images/2005/01/Limo_-_Downtown_Limo_Title.jpg)
-
-![](  /content/images/2005/01/Limo_-_Downtown_Limo_Fleet.jpg)
-
-![Flotte des limousines disponibles. Photo de Jerry Gallagher.](  /content/images/2005/01/Limo_-_Downtown_Limo_Owner.jpg)
+![Carte d'affaire de Downtown Limousines](/content/images/2005/01/Limo_-_Downtown_Limo_Title.jpg)
+_Carte d'affaire de Downtown Limousines_[](/content/images/2005/01/Limo_-_Downtown_Limo_Fleet.jpg)
+![Flotte des limousines disponibles. Photo de Jerry Gallagher.](/content/images/2005/01/Limo_-_Downtown_Limo_Owner.jpg)
+_Flotte des limousines disponibles. Photo de Jerry Gallagher._
 
 **Nom de l’entreprise&nbsp;:** Downtown Limousines
 
@@ -80,11 +74,10 @@ Avec un inventaire de plus de 6 millions de dollars, vous trouverez probablement
 
 Notre prochain arrêt, Beach Harbour Limousines Service, situé tout près de Santa Maria Beach.
 
-![Carte d'affaire de Beach Harbour Limousines.](  /content/images/2005/01/Limo_-_Beach_Harbour_Limo_Title.jpg)
-
-![](  /content/images/2005/01/Limo_-_Beach_Harbour_Limo_Fleet.jpg)
-
-![Flotte des limousines disponibles. Photo de Rudolfo Dominguez.](  /content/images/2005/01/Limo_-_Beach_Harbour_Limo_Owner.jpg)
+![Carte d'affaire de Beach Harbour Limousines.](/content/images/2005/01/Limo_-_Beach_Harbour_Limo_Title.jpg)
+_Carte d'affaire de Beach Harbour Limousines._[](/content/images/2005/01/Limo_-_Beach_Harbour_Limo_Fleet.jpg)
+![Flotte des limousines disponibles. Photo de Rudolfo Dominguez.](/content/images/2005/01/Limo_-_Beach_Harbour_Limo_Owner.jpg)
+_Flotte des limousines disponibles. Photo de Rudolfo Dominguez._
 
 **Nom de l’entreprise&nbsp;:** Beach Harbour Limousines Service
 
@@ -104,11 +97,10 @@ Cet ancien professeur de Salsa, très impliqué dans la communauté latino de Lo
 
 Après les charmes de la culture latino, nous voilà maintenant en route pour goûter l'hospitalité de la culture sicilienne.
 
-![Carte d'affaire de Caprielli's Limousine Service.](  /content/images/2005/01/Limo_-_Caprielli_Limo_Title.jpg)
-
-![](  /content/images/2005/01/Limo_-_Caprielli_Limo_Fleet.jpg)
-
-![Flotte des limousines disponibles. Photo de Vincent Caprielli.](  /content/images/2005/01/Limo_-_Caprielli_Limo_Owner.jpg)
+![Carte d'affaire de Caprielli's Limousine Service.](/content/images/2005/01/Limo_-_Caprielli_Limo_Title.jpg)
+_Carte d'affaire de Caprielli's Limousine Service._[](/content/images/2005/01/Limo_-_Caprielli_Limo_Fleet.jpg)
+![Flotte des limousines disponibles. Photo de Vincent Caprielli.](/content/images/2005/01/Limo_-_Caprielli_Limo_Owner.jpg)
+_Flotte des limousines disponibles. Photo de Vincent Caprielli._
 
 **Nom de l’entreprise&nbsp;:** The Caprielli’s Professional Limousine Service
 
@@ -128,11 +120,10 @@ Avec plein d’idée d’expension en tête, et l’acquisition prochaine de 2 n
 
 Dernière destination, et non la moindre, tous en direction de Richman pour y rencontrer une personnalité fort connue du monde de la musique Hip Hop, Will Schmith.
 
-![Carte d'affaire de Nightshade Vintage Limousine Service.](  /content/images/2005/01/Limo_-_Nightshade_Title.jpg)
-
-![](  /content/images/2005/01/Limo_-_Nightshade_Fleet.jpg)
-
-![Flotte des limousines disponibles. Photo de Will Schmith.](  /content/images/2005/01/Limo_-_Nightshade_Owner.jpg)
+![Carte d'affaire de Nightshade Vintage Limousine Service.](/content/images/2005/01/Limo_-_Nightshade_Title.jpg)
+_Carte d'affaire de Nightshade Vintage Limousine Service._[](/content/images/2005/01/Limo_-_Nightshade_Fleet.jpg)
+![Flotte des limousines disponibles. Photo de Will Schmith.](/content/images/2005/01/Limo_-_Nightshade_Owner.jpg)
+_Flotte des limousines disponibles. Photo de Will Schmith._
 
 **Nom de l’entreprise&nbsp;:** Nightshade Vintage Limousine Service
 

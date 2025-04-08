@@ -8,15 +8,16 @@ tags:
 - vice-city
 ---
 
-![Mr. Léonardo Burno, jugé comme l'un des plus grands escrocs de Vice City.](  /content/images/2005/01/aff-burno_6.jpg)
+![Mr. Léonardo Burno, jugé comme l'un des plus grands escrocs de Vice City.](/content/images/2005/01/aff-burno_6.jpg)
+_Mr. Léonardo Burno, jugé comme l'un des plus grands escrocs de Vice City._
 
 Tôt ce matin, la VCPD a arrêté le "Boss" de la _Burno Entreprise_, qui avait pour but, de voler le maximum d'argent à la ville en un temps limite, c'est-à-dire&nbsp;sept mois. La _Burno Entreprise_ est une entreprise du bâtiment d'une dizaine d'employés, qui est&nbsp;connue pour sa rapidité et ses faibles prix. Mais hélas, le travail n'est pas satisfaisant et les employés non-expérimentés auraient arnaqués des centaines de personnes pour la coquette somme de $20.500.000.
 
-![](  /content/images/2005/01/aff-burno_7.jpg)
+![](/content/images/2005/01/aff-burno_7.jpg)
 
 **26&nbsp;janvier 2005 :**
 
-![](  /content/images/2005/01/aff-burno_3.jpg)
+![](/content/images/2005/01/aff-burno_3.jpg)
 
 Une petite entreprise de dix employés du nom de _Burno Entreprise_ installe ses locaux dans le quartier de Downtow à Vice City. Au bout de trois mois, Léonardo Burno et ses hommes sont au sommet et ont une énorme liste de clients dont les plus grands bureaux, entreprises et même maisons de particuliers dans tout Vice city.
 
@@ -32,7 +33,7 @@ La police est appelée&nbsp;pour une saisie dans les bureaux de&nbsp;l'entrepris
 
 **17&nbsp;mai 2005, 11h49am :**
 
-![](  /content/images/2005/01/aff-burno_2.jpg)
+![](/content/images/2005/01/aff-burno_2.jpg)
 
 Une catastrophe vient tout bousculer : le dernier étage de la _Billings Insurance Building_ s'effondre et malheureusement, des personnes se trouvaient sur les lieux&nbsp;et n'ont pas survécus. L'affaire est laissée au lieutenant Horatio Brown de la police scientifique de Vice City. La lumière sur cet accident dramatique est vite faite et le lieutenant annonça son verdict à la population le 2&nbsp;juin 2005 :
 

@@ -16,25 +16,25 @@ Puis, visiblement excédé, DSK commence à faire usage de la violence contre la
 
 Au Liberty- Tree, cet événement d’une apparente banalité nous a interpellé et nous avons voulu comprendre comment il a pu se produire. Nous avons donc interviewé Passe-Partout, expert en clés et en serrures.
 
-![](  /content/images/2016/06/FmfxnEo23k20hlq3IB4VCg_0_0.jpg)
+![](/content/images/2016/06/FmfxnEo23k20hlq3IB4VCg_0_0.jpg)
 _Passe-Partout, expert en clés et en serrures_
 
 > **Passe-Partout :**  
 > C’est un problème qui survient fréquemment lorsque la clé commence à prendre de l’age, elle est systématiquement refusée par la serrure. C’est dû à l’oxydation qui se forme sur la clé et l’empêche de glisser correctement dans la fente.
 
-![](  /content/images/2016/06/serrure-ouille-1.png)
+![](/content/images/2016/06/serrure-ouille-1.png)
 _L’oxydation qui se forme sur la clé augmente les frottements et rend la serrure beaucoup plus difficile à pénétrer._
 
 > **Passe-Partout :**  
 > Cette oxydation augmente les frottements et rend donc extrêmement difficile l’introduction de la clé dans la fente. La meilleure solution semble donc d’utiliser un lubrifiant que l’on applique sur la clé et à l’intérieur de la serrure.
 
-![](  /content/images/2016/06/serrure-lubrification.png)
+![](/content/images/2016/06/serrure-lubrification.png)
 _La phase de lubrification est essentielle pour le bon entretien d’une serrure._
 
 > **Passe-Partout :**  
 > Enfin, après avoir correctement lubrifié les deux parties, il suffit de pratiquer un va-​et-​vient de la clé à l’intérieur de l’orifice jusqu’à ce que le glissement se fasse parfaitement, à ce moment vous pourrez ouvrir votre serrure sans dommages.
 
-![](  /content/images/2016/06/serrure-ok.png)
+![](/content/images/2016/06/serrure-ok.png)
 _Une fois la lubrification terminée, ouvrez simplement la porte._
 
 Il faut préciser qu’une clé plus jeune aurait très probablement ouvert la porte beaucoup plus rapidement même si l’usage de lubrifiant aurait là aussi simplifié l’opération. Après cette aventure, le désormais ex-patron du FMI a accepté de faire une courte déclaration avant de monter se coucher en compagnie de son épouse.

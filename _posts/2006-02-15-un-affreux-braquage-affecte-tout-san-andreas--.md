@@ -30,7 +30,7 @@ Les témoins de la scène ont pendant ce temps appelé la police qui tarde à ve
 
 Commence alors une infernale course-poursuite avec la police qui s'achèvera à l'Easter Bay Airport.
 
-![](  /content/images/2005/01/Easter_Bay_Airport.jpg)
+![](/content/images/2005/01/Easter_Bay_Airport.jpg)
 
 La voiture du braqueur tombe dans la mer alors que celles de la police s'écrasent les unes après les autres contre les piétons et les terminaux de l'aéroport. Faisant de très nombreux morts et bloquant les activités de l'aéroport !
 
@@ -38,7 +38,7 @@ Le drame social fait alors place à un crash économique. En effet, Sergio Domin
 
 Le début de l'enquête nous dit que l'arme de Sergio c'est enraillée à cause d'un défaut de fabrication. Clara Domingez, la femme de Sergio Domingez, compte porter plainte contre la société Ammu-Nation ce qui risque d'empêcher ces magasins d'arme de continuer leurs activités ! Les familles des victimes de la course-poursuite, suivis d'une grande partie de la population, veulent également porter plainte contre l'efficacité de la police.
 
-![](  /content/images/2005/01/policesan.jpg)
+![](/content/images/2005/01/policesan.jpg)
 
 John Cliff, responsable de la police de San Andreas, a donné une conférence de presse tôt ce matin. Liberty Tree était présent :
 

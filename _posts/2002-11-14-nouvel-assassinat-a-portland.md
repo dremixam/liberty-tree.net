@@ -17,18 +17,12 @@ Le chef Kunnigan se refuse à parler d'un tueur en série à partir du deuxième
 
 Par contre, pour le mouvement des prostitués, le fait est, un serial killer est dans Portland, et sévit à leur encontre. Pour protester encore un peu plus (elles avaient déjà augmenté leur prix en contestation), elles ont décidés de réduire le temps de _consultation_.
 
-[Une prostitué assassinée à Portland](  /2002/11/13/une-prostitue-assassinee-a-portland/)
-
-![](  /content/images/v1/user21/portland_b_1.jpg)
-
-![](  /content/images/v1/user21/portland_b_2.jpg)
-
-![](  /content/images/v1/user21/portland_b_6.jpg)
-
-![](  /content/images/v1/user21/portland_b_4.jpg)
-
-![](  /content/images/v1/user21/portland_b_5.jpg)
-
-![](  /content/images/v1/user21/portland_b_3.jpg)
+[Une prostitué assassinée à Portland](/2002/11/13/une-prostitue-assassinee-a-portland/)
+![](/content/images/v1/user21/portland_b_1.jpg)
+![](/content/images/v1/user21/portland_b_2.jpg)
+![](/content/images/v1/user21/portland_b_6.jpg)
+![](/content/images/v1/user21/portland_b_4.jpg)
+![](/content/images/v1/user21/portland_b_5.jpg)
+![](/content/images/v1/user21/portland_b_3.jpg)
 
 <!--kg-card-end: markdown-->

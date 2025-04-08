@@ -12,7 +12,8 @@ En effet, vous avez sans doute remarqué, habitants de Los Santos, que la ville 
 
 Des études ont démontré que les constructions progressent de 0.6% par trimestre.
 
-![Un des nombreux chantiers de la ville](  /content/images/2016/06/4_0.jpg)
+![Un des nombreux chantiers de la ville](/content/images/2016/06/4_0.jpg)
+_Un des nombreux chantiers de la ville_
 
 Los Santos est composée de 9% de zone inachevées, dont 7% seulement en centre-ville. Chiffre encore trop grand pour la population dénonçant l'attente de sans-abris pour de nouveaux logements, ou de bureaucrates pour de nouveaux locaux commerciaux.
 
@@ -20,7 +21,7 @@ Nous avons interrogé Peter Kennedy, businessman.
 
 > Nous désirons une réelle accélération dans le processus de construction, on ne va pas patienter encore 20 ans ! Cette attente dure depuis au moins le mois de septembre, c'est scandaleux ! Arrêtez votre égoïsme, nous sommes en train de perdre de l'argent là !
 
-![](  /content/images/2016/06/4_2.jpg)
+![](/content/images/2016/06/4_2.jpg)
 
 Nous nous sommes alors rendus sur un lieu de construction, à la rencontre du chef de chantier, Roger Willis, ayant l'air débordé.
 

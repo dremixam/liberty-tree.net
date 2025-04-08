@@ -23,6 +23,7 @@ Carmen Ortiz, une jeune femme vivant à Bohan a bien voulu nous déclarer son re
 
 > Les hommes sont tous des gros dégueulasses, voilà ce que j'en dis moi ! Que ce soit un maire ou un éboueur, ça reste un mec. Ils ne peuvent pas s'empêcher d'ailler voir ailleurs, c'est tout. Ils doivent penser que ça renforce leur virilité ou un truc du genre...
 
-![Carmen Ortiz.](  /content/images/2016/06/Carmen_Ortiz_GTA_IV_%28Internet%29.png)
+![Carmen Ortiz.](/content/images/2016/06/Carmen_Ortiz_GTA_IV_%28Internet%29.png)
+_Carmen Ortiz._
 
 <!--kg-card-end: markdown-->

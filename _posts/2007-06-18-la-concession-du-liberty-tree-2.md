@@ -13,7 +13,8 @@ Dans cette édition :
 • La BMW M3  
 • La nouvelle version du Hummer H²
 
-![BMW M3](  /content/images/2016/07/bmm3lt.jpg)
+![BMW M3](/content/images/2016/07/bmm3lt.jpg)
+_BMW M3_
 
 La nouvelle M3 de chez BMW est tout simplement exceptionnelle ! Et je ne vous parle pas de l'intérieur qui est aussi sublime que l'extérieur.
 
@@ -54,7 +55,8 @@ Couleur au choix (100$)
 Cette voiture a une attraction particulière, pour les fans des BMW qui allie classe, puissance et caractère, mais aussi pour les novices en la matière qui cherchent une voiture haute gamme. Nous vous rappelons qu'une concession BMW devrait voir le jour à la place du Wang Cars de San Fierro.  
 Voyons à présent la nouvelle édition du H².
 
-![Hummer H²](  /content/images/2016/07/hummerlt.jpg)
+![Hummer H²](/content/images/2016/07/hummerlt.jpg)
+_Hummer H²_
 
 Vous ne remarquez rien physiquement, mais Hummer à poussé loin et a fait de cette nouvelle version du H² un modèle aussi bien citadine que campagnarde, il vous permettra donc de passer partout où vous le souhaiter grâce à son nouveau moteur.
 

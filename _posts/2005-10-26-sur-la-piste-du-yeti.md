@@ -16,15 +16,14 @@ L'alerte avait été donnée il y a quelques jours par la famille des deux homme
 
 Une journée complète s'étant écoulée sans nouvelle d'eux, les proches ont aussitôt appelé les pompiers et la gendarmerie de Los Santos, eux-mêmes appelant en renfort les secours de San Fierro. Cette intervention a pu mettre en valeur le bon fonctionnement d'une collaboration entre ces deux villes, enfin quelque chose qui marche correctement dans ce cher État de San Andreas.
 
-![](  /content/images/2005/01/helico%201.jpg)
-
-![](  /content/images/2005/01/helico%202.jpg)
+![](/content/images/2005/01/helico%201.jpg)
+![](/content/images/2005/01/helico%202.jpg)
 
 Les recherches ont duré trois jours, bravant l'épais brouillard qui avait piégé les alpinistes, jusqu'à ce matin où ils ont été aperçus, recroquevillés dans une caverne percée dans la roche.
 
 Les pauvres avaient survécu en avalant régulièrement leur fiole de liqueur forte. Inutile donc de vous dire que leur état de gaieté n'a pas facilité le travail des secouristes.
 
-![](  /content/images/2005/01/secours%20chiliad.jpg)
+![](/content/images/2005/01/secours%20chiliad.jpg)
 
 Finalement, après de longs efforts pour attraper les deux zigotos sous l'empire de l'alcool, ils ont été ramenés sains et saufs dans la caserne de Los Santos où ils ont passé la nuit. Le lendemain, remis de leurs émotions et après un bref rapport de police, ils ont accepté mon interview.
 

@@ -15,11 +15,9 @@ Il y a une semaine, les propriétaires des voitures conflictuelles ont vu un pap
 
 Espérons que la prochaine fois les mesures ne seront pas aussi draconiennes.
 
-![](  /content/images/v1/user21/net_01.jpg)
-
-![](  /content/images/v1/user21/net_02.jpg)
-
-![](  /content/images/v1/user21/net_03.jpg)
+![](/content/images/v1/user21/net_01.jpg)
+![](/content/images/v1/user21/net_02.jpg)
+![](/content/images/v1/user21/net_03.jpg)
 
 P.S. : au moment où nous mettons sous presse, nous apprenons que notre bien aimé rédacteur en chef avait sa voiture sur l'aéroport hier, et qu'elle a malencontreusement fini "explosée" comme les autres à la suite d'une erreur des militaires, en effet, le pilote du tank a pris le ticket de stationnement pour le billet de tir.
 

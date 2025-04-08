@@ -16,7 +16,8 @@ Et c'est Los Santos qui a remporté l'organisation, préféré à San Fierro. Ce
 
 La piscine retenue est la piscine olympique de l'Université de Los Santos, située à deux pas du Richman Hôtel.
 
-![La piscine de l'Université de Los Santos, San Andreas.](  /content/images/2016/06/0_0%283%29.jpg)
+![La piscine de l'Université de Los Santos, San Andreas.](/content/images/2016/06/0_0%283%29.jpg)
+_La piscine de l'Université de Los Santos, San Andreas._
 
 Tout est déjà presque prêt puisque cette piscine est déjà utilisée, même si des gradins supplémentaires devront être construits. Je suis allé demander quelques mots à Joey McCrowl, ancien champion du monde de natation et médaillé d'or aux Jeux Olympiques, qui vit aujourd'hui une paisible retraite à Vinewood :
 
@@ -28,7 +29,7 @@ Mais aussi culturel : cet événement permettra de faire découvrir aux habitant
 
 > **Ernesto :** Nous avons la chance d'être en bord de mer, pourquoi construire une piscine ? Ne me dites pas que Vespucci Beach est complet et qu'il n'y a plus de place sur la plage, en plus nos gardes-côtes sont parmi les meilleurs du pays ! Nous n'avons absolument pas besoin d'une piscine !
 
-![](  /content/images/2016/06/0_0%285%29.jpg)
+![](/content/images/2016/06/0_0%285%29.jpg)
 
 En réponse à cette vive opposition, le maire a fait remarquer que beaucoup de personnes n'allaient pas à la plage par peur des requins, des vagues et des inconscients qui prennent des cours de jet-ski passant à quelques mètres des baigneurs, et qu'une piscine serait la solution pour ces personnes. Les championnats de natation se dérouleront en décembre à l'ULSA de Richman.
 

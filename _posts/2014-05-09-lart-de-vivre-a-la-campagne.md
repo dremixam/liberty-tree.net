@@ -14,11 +14,11 @@ Depuis quelques années, le coût de la vie à Los Santos, comme dans toutes les
 
 Pour répondre à toutes ces questions, notre reporter est allée mener l’enquête sur le terrain, dans son hélicoptère flambant neuf.
 
-![](  /content/images/2016/06/0_0_192.jpg)
+![](/content/images/2016/06/0_0_192.jpg)
 
 ## L’art de vivre à Chumash
 
-![](  /content/images/2016/06/0_0_193.jpg)
+![](/content/images/2016/06/0_0_193.jpg)
 
 Chumash est une petite bourgade située à l’ouest de l’Etat de San Andreas. Elle est en bord de mer et abrite également plusieurs commerces essentiels à ses habitants. Son point fort ? Son accès quasi direct à la Señora Freeway qui lui donne un accès à Los Santos en à peine deux petites heures. Mais mis à part cela, il n’y a pas grand chose d’autre : pas de cinéma, pas de bowling, et pire encore : pas (ou peu) de travail sur place.
 
@@ -26,9 +26,9 @@ Nous avons rencontré un habitant, John Adams, vivant dans une petite maison iso
 
 > Je n’en pouvais plus du rythme métro – boulot – dodo de Los Santos. J’ai fait un véritable burnout d’ailleurs il y a 10 ans, et après ça j’ai trouvé cette petite maison complètement isolée à vendre. Je m’y suis installé avec ma femme, et nous y élevons maintenant nos deux enfants dans la meilleure des tranquillités : ils peuvent courir partout dans les champs sans risque. Je vis en vendant des légumes bio, que nous cultivons ensemble nous-mêmes, au marché de North Chumash toutes les semaines, et ça me suffit pour être heureux.
 
-![](  /content/images/2016/06/0_0_194.jpg)
-
-![John Adams, et sa maison isolée.](  /content/images/2016/06/0_0_195.jpg)
+![](/content/images/2016/06/0_0_194.jpg)
+![John Adams, et sa maison isolée.](/content/images/2016/06/0_0_195.jpg)
+_John Adams, et sa maison isolée._
 
 Le dicton « vivre d’amour et d’eau fraîche pourrait presque s’appliquer ici…
 
@@ -36,9 +36,9 @@ Le dicton « vivre d’amour et d’eau fraîche pourrait presque s’appliquer 
 
 Sandy Shores est une petite bourgade encore plus reculée en plein milieu du Grand Señora Desert. Il n’y a que du sable à perte de vue, et il faut compter pas loin de 5 heures pour rejoindre LS par l’autoroute. Et pourtant, nombreux sont encore les citadins à venir s’y installer. Là, ce sont quelques habitués du bar le Yellow Jack qui nous ont répondu.
 
-![](  /content/images/2016/06/0_0_196.jpg)
-
-![Brigitte et Harry.](  /content/images/2016/06/0_0_197.jpg)
+![](/content/images/2016/06/0_0_196.jpg)
+![Brigitte et Harry.](/content/images/2016/06/0_0_197.jpg)
+_Brigitte et Harry._
 
 > **Brigitte :** Je vis ici avec mon mari depuis près de 20 ans, mais parce que nous sommes de vrais campagnards. Et puis j’ai mon bar pour vivre. Mais après à part les commerces et l’agriculture on n’a pas grand chose ici…
 > 
@@ -46,11 +46,10 @@ Sandy Shores est une petite bourgade encore plus reculée en plein milieu du Gra
 
 Seulement, qu’en est-il des cambriolages et autres larcins par ici ? Selon ces mêmes personnes, il n’y en aurait pas en plus grande proportion qu’en ville. Ils estiment que de toute façon il y aura toujours de la violence partout quoique l’on fasse. Cela en dit donc bien long sur l’opinion qu’ils portent aux forces de l’ordre et aux autorités politiques…
 
-![](  /content/images/2016/06/0_0_198.jpg)
-
-![](  /content/images/2016/06/0_0_199.jpg)
-
-![Quelques maisons de la bourgade susceptibles d'intéresser les citadins en exil.](  /content/images/2016/06/0_0_200.jpg)
+![](/content/images/2016/06/0_0_198.jpg)
+![](/content/images/2016/06/0_0_199.jpg)
+![Quelques maisons de la bourgade susceptibles d'intéresser les citadins en exil.](/content/images/2016/06/0_0_200.jpg)
+_Quelques maisons de la bourgade susceptibles d'intéresser les citadins en exil._
 
 Mais bien entendu, à la campagne, il y a aussi de la pauvreté et le camp de nomades au nord de Paleto Bay le montre bien.
 
@@ -58,15 +57,14 @@ Mais bien entendu, à la campagne, il y a aussi de la pauvreté et le camp de no
 
 Cela dit, derrière tous ces habitants issus des classes moyennes qui triment comme des forcenés pour s’en sortir, il y a toujours pire. Et c’est malheureusement le cas des habitants de ce petit camp de nomades, au bord de l’autoroute.
 
-![](  /content/images/2016/06/0_0_201.jpg)
-
-![](  /content/images/2016/06/0_0_202.jpg)
+![](/content/images/2016/06/0_0_201.jpg)
+![](/content/images/2016/06/0_0_202.jpg)
 
 Cette misère serait-elle susceptible d’atteindre l'ego surdimensionné des gens de la ville ? Eh bien, ça n’en a pas l’air…
 
-![](  /content/images/2016/06/0_0_203.jpg)
-
-![Martin et Lana.](  /content/images/2016/06/0_0_204.jpg)
+![](/content/images/2016/06/0_0_203.jpg)
+![Martin et Lana.](/content/images/2016/06/0_0_204.jpg)
+_Martin et Lana._
 
 > **Martin :** Moi, habiter à la cambrousse ? Haha la bonne blague. J’ai tout ce qu’il me faut ici : un skate park, des chaudasses tous les soirs, mes potes, des soirées arrosées, et un appart. Et je me débrouille très bien… Tant que mes parents m’aident encore un peu…
 > 

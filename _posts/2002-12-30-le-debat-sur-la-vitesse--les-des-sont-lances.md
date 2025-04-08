@@ -20,9 +20,9 @@ Le monde a été bouleversé dans les années 1980, les voitures étaient enfin 
 
 Aujourd'hui le constat est accablant: 24 000 accidents de la route (y compris 14 000 mortels), dont 60% sont dus à une vitesse inadaptée. Le Liberty Tree avec Westmann Statistic Co ont décidé de faire un test radar, dans Portland ces derniers jours. Nous avons réglé la vitesse sur 50mph, qui est la limite autorisée en entrée de grands axes à San Andreas par exemple. Le résultat de cette journée de tests fait peur: Sur les 2200 véhicules vérifiés, 1900 ont dépassé les 50mph! Il y a donc un malaise chez les conducteurs et habitants de Liberty.
 
-![](  /content/images/v1/user23/nona02.jpg)  
- ![](  /content/images/v1/user23/nona03.jpg)  
- ![](  /content/images/v1/user23/nona04.jpg)
+![](/content/images/v1/user23/nona02.jpg)
+![](/content/images/v1/user23/nona03.jpg)
+![](/content/images/v1/user23/nona04.jpg)
 
 Nous nous sommes rendus à la mairie, et la seule mesure proposée par le bureau du maire est
 

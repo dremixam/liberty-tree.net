@@ -16,13 +16,13 @@ Nous avons rencontré une jeune femme sur Verona Beach qui nous a dit ce qu'elle
 
 > Garde-côte c'est super comme métier ! On est toujours sur un beau bateau, on navigue au soleil... Vraiment, je trouve ce métier génial ! Dommage que j'habite dans les ghettos de Los Santos !
 
-![](  /content/images/2005/01/fille.jpg)
+![](/content/images/2005/01/fille.jpg)
 
 Mais nous avons rencontré un garde-côte de San Fierro qui ne trouve pas ce métier aussi passionnant que la jeune femme :
 
 > C'est horrible, les passages sont minuscules, on navigue entre des roches et de la ferraille, il y a toujours cette brume épaisse qui nous empêche de voir loin ! On doit repêcher des personnes au bord de la noyade mais ça fait cinq ans que je suis ici et personne ne s'est noyé ! Peut-être que c'est mieux à Los Santos mais quand j'étais là-bas en 1992, je devais faire attention aux guerres des gangs ! Croyez moi, Garde-côte, c'est un des pire métiers qu'il existe !
 
-![](  /content/images/2005/01/sanfierro.jpg)
+![](/content/images/2005/01/sanfierro.jpg)
 
 D'après cet homme, ce métier est une malédiction, pas comme à la télé !
 

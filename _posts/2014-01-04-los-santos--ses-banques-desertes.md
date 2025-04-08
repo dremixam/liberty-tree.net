@@ -20,9 +20,9 @@ Le principe, désormais bien rôdé, est le suivant. Pour effectuer un dépôt, 
 
 Les grands perdants de cette entrée fracassante dans le XXIe siècle sont... Les banques elles-mêmes, ou plutôt, les succursales qui, du jour au lendemain, ont vu leurs guichets se vider de tout client. Ne restent plus aujourd'hui que des bâtiments fantômes, où seuls quelques employés subsistent, fixant tristement le vide, ou jouant à s'envoyer des boulettes de papier.
 
-![](  /content/images/2016/06/0_0_57.jpg)
-
-![La grande banque centrale Maze et une agence Fleeca, Los Santos.](  /content/images/2016/06/0_0%20%281%29_8.jpg)
+![](/content/images/2016/06/0_0_57.jpg)
+![La grande banque centrale Maze et une agence Fleeca, Los Santos.](/content/images/2016/06/0_0%20%281%29_8.jpg)
+_La grande banque centrale Maze et une agence Fleeca, Los Santos._
 
 Il n'est pas encore question de licenciement dans un groupe comme dans l'autre, mais les employés se posent des questions. Plus de dépôts physiques est synonyme de coffres vides, et l'intérêt d'une banque sans liquidités étant très limité, leur avenir pourrait bien se voir chamboulé dans les mois à venir.
 

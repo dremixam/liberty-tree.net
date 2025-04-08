@@ -13,7 +13,8 @@ Malheureusement, par les temps qui courent, la corruption est rendue un fléau b
 
 Policiers, gardiens de sécurité, politiciens, toutes les souches du gouvernement sont infectée. Les cas se multiplient à une vitesse folle, tout semble maintenant devenu corruptible dans cet état. De nos jours il est rendu presque impossible d’identifier les contrevenants puisque c’est la lois du silence qui règne. Personne n’ose dénoncer qui que ce soit de peur d’être victime de représailles, donc il est tout à fait normal que le pourcentage des crimes soit à la hausse.
 
-![Voici quelques policiers et gardiens de prison accusés de corruption](  /content/images/2005/01/Corruption_2_.jpg)
+![Voici quelques policiers et gardiens de prison accusés de corruption](/content/images/2005/01/Corruption_2_.jpg)
+_Voici quelques policiers et gardiens de prison accusés de corruption_
 
 > Bien entendu, nous répétons sans arrêt à la population de ne pas se laisser acheter, mais trop souvent l’argent est un outil très persuasif et puisque lorsque vous êtes riche vous pouvez tout vous offrir, acheter quelqu’un pour qui se ferme les yeux sur quelque chose est devenu un véritable jeu d’enfant.
 
@@ -35,11 +36,10 @@ Pour le besoin de cet article, nous avons donc obtenu l’autorisation de suivre
 
 Aidé par quelques policiers en uniforme, notre trio s’est approché du véhicule et y ont fait sortir Cody Lopare pour le mettre ensuite en état d’arrestation.
 
-![](  /content/images/2005/01/Arestation_1_.jpg)
-
-![](  /content/images/2005/01/Arestation_2_.jpg)
-
-![Quelques photos de l’arrestation qui vont passer à l’histoire](  /content/images/2005/01/Arestation_3_.jpg)
+![](/content/images/2005/01/Arestation_1_.jpg)
+![](/content/images/2005/01/Arestation_2_.jpg)
+![Quelques photos de l’arrestation qui vont passer à l’histoire](/content/images/2005/01/Arestation_3_.jpg)
+_Quelques photos de l’arrestation qui vont passer à l’histoire_
 
 Même si cette arrestation est historique, et qu’elle envoi un message claire dans le milieu, il reste encore beaucoup de travail pour enrayer complètement la corruption. Il faudra commencer par sensibiliser les gens car le travail ne pourra jamais être fait uniquement que par les représentant de la loi. La participation des citoyens est primordiale pour atteindre nos objectifs.
 

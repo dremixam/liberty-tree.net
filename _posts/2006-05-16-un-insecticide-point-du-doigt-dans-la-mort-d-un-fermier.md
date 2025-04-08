@@ -8,25 +8,24 @@ tags:
 - los-santos
 ---
 
-![](  /content/images/2005/01/fermier_insecticide_cropduster.jpg)
+![](/content/images/2005/01/fermier_insecticide_cropduster.jpg)
 
 Voilà plusieurs années déjà que les producteurs agricoles utilisent le HU400 pour l'arrosage d'insecticide au-dessus des champs dans le but&nbsp; de contrer l'infestation de vermines et d'insectes. Alors que l'on croyait ce produit sans danger pour l'homme, l'annonce de ce décès inquiète les agriculteurs ainsi que les résidents de la campagne où est utilisé principalement le HU400.
 
 M Christian Harper, célibataire de 42 ans et producteur agricole de métier, ignorait que la terre qui lui avait pourtant apporté l'abondance depuis toujours serait également celle qui lui faucherait la vie. C'est pourtant ce qui s'est produit à l'heure du souper, lui qui prenait son repas après une longue journée dans les champs.
 
-![](  /content/images/2005/01/fermier_vue_terrain.jpg)
-
-![](  /content/images/2005/01/fermier_maison.jpg)
-
-![](  /content/images/2005/01/fermier_interieur_maison.jpg)
+![](/content/images/2005/01/fermier_vue_terrain.jpg)
+![](/content/images/2005/01/fermier_maison.jpg)
+![](/content/images/2005/01/fermier_interieur_maison.jpg)
 
 Ce n'est que le lendemain matin qu'un voisin, inquiet que son ami ne soit pas venu prendre son café comme il a pourtant religieusement l'habitude de le faire, s'est pointé chez l'homme et a alors fait la macabre découverte. Aux dires de ce voisin, M.Harper était toujours assis à table, la figure contre son assiette, lorsqu'il l'a aperçu. Le décès semble avoir été foudroyant puisque le malheureux n'a pas pu se rendre à son téléphone pour alerter quelqu'un.
 
-![L'endroit est demeuré sous bonne garde durant toute la nuit](  /content/images/2005/01/fermier_blockade.jpg)
+![L'endroit est demeuré sous bonne garde durant toute la nuit](/content/images/2005/01/fermier_blockade.jpg)
+_L'endroit est demeuré sous bonne garde durant toute la nuit_
 
 La nouvelle du décès s'est épandue dans la communauté comme une vraie traînée de poudre puisque dans ces petits villages tout le monde se connaît. Ce qui a été encore plus dévastateur c'est au moment d'apprendre la cause du décès. Tous sont maintenant inquiets et à la fois paniqué car on redoute une contamination générale des terres étant donné que tous achètent leur insecticide au même point de vente. Nombreux sont les habitants qui réclament une intervention médicale immédiate pour ne pas qu'il y ai d'autres victimes.
 
-![](  /content/images/2005/01/Passant_5.jpg)
+![](/content/images/2005/01/Passant_5.jpg)
 
 > On vie d'nos plantations... si ont peu pu cultiver nos champs bien de quoi donc on va vivre? Pis nos maisons et nos étables, on doit-tu tout brûler?
 
@@ -34,17 +33,16 @@ Se demandait l'un de ces habitants d'un air très songeur.
 
 La réaction du gouverneur ne s'est pas fait attendre. Celui-ci a ordonné par décret l'interdiction immédiate, jusqu'à nouvel ordre, de la vente ainsi que l'utilisation de ce type d'insecticide pour éviter l'apparition de nouveaux cas. De plus, l'ordre a été donné au département de santé de prendre les mesures appropriées pour que tous les moyens disponibles soient utilisés pour contenir tout risque de propagation. Un périmètre de sécurité de 20km carré a été érigé autour de la propriété de l'agriculteur pour permettre aux experts médico-légal de prendre des échantillons du sol afin de mesurer le niveau de concentration d'insecticide.
 
-![La camionnette de la victime sera analysée par le centre de prélèvement scientifique](  /content/images/2005/01/fermier_camion.jpg)
+![La camionnette de la victime sera analysée par le centre de prélèvement scientifique](/content/images/2005/01/fermier_camion.jpg)
+_La camionnette de la victime sera analysée par le centre de prélèvement scientifique_
 
 Un mystère demeure, pourquoi n'y as t'il pas eu d'autres victimes avant M. Harper? Pourtant ce produit chimique est utilisé depuis très longtemps, pourquoi soudainement il serait devenu mortel? Est-ce qu'il serait possible alors qu'il y ai eu mauvaise manipulation du produit?
 
-![](  /content/images/2005/01/fermier_sapa_usine.jpg)
-
-![](  /content/images/2005/01/fermier_sapa_cropdusters.jpg)
-
-![](  /content/images/2005/01/fermier_sapa_tanker.jpg)
-
-![Photos de LASA Inc où est produit le HU400, l'insecticideutilisé par les agriculteurs dans l'arrosage des champs](  /content/images/2005/01/fermier_sapa_traffic.jpg)
+![](/content/images/2005/01/fermier_sapa_usine.jpg)
+![](/content/images/2005/01/fermier_sapa_cropdusters.jpg)
+![](/content/images/2005/01/fermier_sapa_tanker.jpg)
+![Photos de LASA Inc où est produit le HU400, l'insecticideutilisé par les agriculteurs dans l'arrosage des champs](/content/images/2005/01/fermier_sapa_traffic.jpg)
+_Photos de LASA Inc où est produit le HU400, l'insecticideutilisé par les agriculteurs dans l'arrosage des champs_
 
 Pour tenter d'en savoir plus, nous avons interrogé Trew Barrymore, président du LASA Inc. (Laboratoire Agricole San Andreas Inc.), l'entreprise qui fabrique le HU400.
 
@@ -68,15 +66,18 @@ C'est sur ces derniers mots que M. Barrymore s'est retiré et a quitté la pièc
 
 Nous avons demandé à quelques résidents qui habitent tout près de l’usine pour voir s’ils étaient inquiets d’avoir cette entreprise comme voisin, voici les réponses que nous avons obtenus.
 
-![Germain Smith (résident depuis 12 ans)](  /content/images/2005/01/fermier_sapa_voisin_smith.jpg)
+![Germain Smith (résident depuis 12 ans)](/content/images/2005/01/fermier_sapa_voisin_smith.jpg)
+_Germain Smith (résident depuis 12 ans)_
 
 > Je me suis installé ici avant la construction de l’usine. Oui, j’aurais mieux aimé qu’ils aillent se bâtir ailleurs. Le va et vient des camions m’empêche de dormir!
 
-![André et Gisèle Anderson (résidents depuis 8 ans)](  /content/images/2005/01/fermier_sapa_voisin_anderson.jpg)
+![André et Gisèle Anderson (résidents depuis 8 ans)](/content/images/2005/01/fermier_sapa_voisin_anderson.jpg)
+_André et Gisèle Anderson (résidents depuis 8 ans)_
 
 > Ma femme et moi nous allons nous rapprocher de la ville. C’est rendu invivable ici, on peut plus s’asseoir dehors à cause de la mauvaise odeur qui sort de l’usine...&nbsp; c’est pas sain pour notre santé c’est le docteur qui nous l’a dit.
 
-![Richard et Kimberly Parker (résidents depuis seulement 1 an)](  /content/images/2005/01/fermier_sapa_voisin_parker.jpg)
+![Richard et Kimberly Parker (résidents depuis seulement 1 an)](/content/images/2005/01/fermier_sapa_voisin_parker.jpg)
+_Richard et Kimberly Parker (résidents depuis seulement 1 an)_
 
 > Durant la semaine mon épouse et moi nous travaillons à San Fierro. Nous venons ici les week-ends seulement. On savait pour l’usine en arrivant et ça ne nous dérange pas, c’est encore mieux que la ville ici. La seule chose qui nous dérange c'est les tempêtes de sable! héhéhé... »
 

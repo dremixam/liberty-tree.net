@@ -14,13 +14,12 @@ Samedi soir, deux personnes ont été retrouvées mortes dans un motel de Bluebe
 
 "C'était horrible!" se souvient Dick Garcia qui a découvert les deux victimes. "Il y avait du sang partout, sur le sol, sur le lit. Ces deux pauvres gens qui étaient là..."
 
-![](  /content/images/2005/01/Blueberry_Meurtre.jpg)
-
-![](  /content/images/2005/01/Blueberry_Fille.jpg)
+![](/content/images/2005/01/Blueberry_Meurtre.jpg)
+![](/content/images/2005/01/Blueberry_Fille.jpg)
 
 D'après les témoins que nous avons pu interroger, il y aurait eu des bruits de bagarre puis plusieurs coups de feu. Helen Prince, une autre résidente du motel, affirme avoir vu une silhouette qui partait en courant vers l'extérieur de la petite ville.
 
-![](  /content/images/2005/01/Blueberry_motel.jpg)
+![](/content/images/2005/01/Blueberry_motel.jpg)
 
 Arrivée peu de temps après le drame, la police a bouclé le motel et interrogé tous les résidents.
 
@@ -28,7 +27,7 @@ Arrivée peu de temps après le drame, la police a bouclé le motel et interrog�
 
 A déclaré le shérif McTiernan chargé de l'enquête.
 
-![](  /content/images/2005/01/Blueberry_Flic.jpg)
+![](/content/images/2005/01/Blueberry_Flic.jpg)
 
 > **Shérif McTiernan :** Nous avons retrouvé les papiers des victimes. C'était un couple en vacances et d'après les premières constatations, c'est un vol qui a mal tourné.
 > 
@@ -42,6 +41,6 @@ A déclaré le shérif McTiernan chargé de l'enquête.
 
 Le motel reste fermé jusqu'à nouvel ordre. La police a mis des scellés sur la porte de la chambre en attendant les résultats de l'enquête.
 
-![](  /content/images/2005/01/Police_Line.jpg)
+![](/content/images/2005/01/Police_Line.jpg)
 
 <!--kg-card-end: markdown-->

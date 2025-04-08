@@ -12,7 +12,7 @@ Les journalistes du Liberty Tree ont pris leurs vacances cette semaine, mais les
 
 Tout d'abord, une nouvelle guerre des gangs s'annonce à Liberty City. Les affrontements verbaux font rage entre les Yakuza, le Cartel Colombien, la Mafia et les Triades. Mais il va falloir inclure dans ce groupe les Yardies et les Hoods. Ces deux gangs, autrefois laissés pour compte dans les rixes urbaines essaient de revenir sur le devant de la scène. Les Yardies comme les Hoods ont présenté cette semaine les modifications qui pourraient prochainement être apportées à leurs moyens de transports. Ce ne sont en fait que de nouvelles décorations, mais elles sont plus voyantes, ce qui témoigne de leurs envies de se populariser. Côté business, on sait déjà que les Yardies ont fait des échanges avec leurs voisins, le Cartel Colombien. Les Hoods, eux, semblent plus prudents car leur territoire est peu développé, mais Red Jack préparerait une offensive pour faire reculer le Cartel. Toutes ces informations sont bien sur à prendre au conditionnel, sauf pour les voitures, dont je vous propose un aperçu.
 
-![](  /content/images/2016/06/hoods%24.jpg)
+![](/content/images/2016/06/hoods%24.jpg)
 
 Côté culturel, l'exposition du peintre Yvan Moloskovich, qui se termine demain, a connu un franc succès auprès des Liberticiens. Elle a rassemblé 50000 personnes sur 18 jours, sans compter donc Mardi et Mercredi. Le peintre que Nelson avait récemment interviewé se déclare enchanté et très honoré.
 

@@ -14,24 +14,23 @@ Le test de la semaine est pour le moins différent des autres car je vais aujour
 J'ai acheté ce véhicule à un habitant de Liberty-City, actuellement à la retraite, et après avoir fait quelques dessins ainsi qu'avoir noté les paramètres souhaités, je me suis mis au travail.  
 De la carrosserie au moteur en passant par l'habitacle, rien n'as été oublié. Jugez-en par vous même :
 
-![Avant](  /content/images/2016/07/mananajpg.jpg)
-
-![Après](  /content/images/2016/07/MananaBlackBeauty2.jpg)
+![Avant](/content/images/2016/07/mananajpg.jpg)
+_Avant_[Après](/content/images/2016/07/MananaBlackBeauty2.jpg)
 
 La tenue de route à été améliorée par une transmission 4 roues motrices au lieu d'une propulsion arrière sur la version d'usine.  
 La direction à aussi été revue par un angle de braquage plus important, ce qui permet de se sortir rapidement de situations 'ennuyantes'!  
 Les suspensions ont été rabaissées et les amortisseurs remplacés par d'autres, plus durs et assistés par un compresseur d'air, ce qui nous donne une tenue de route excellente même à vive allure
 
-![](  /content/images/2016/07/MananaBlackBeauty8_t.jpg)
+![](/content/images/2016/07/MananaBlackBeauty8_t.jpg)
 
 Niveau esthétique, rien n'a été laissé de côté :  
 Sellerie intérieure mauve avec intégration de feux de gabarit dans les portières.
 
-![](  /content/images/2016/07/MananaBlackBeauty9.jpg)
+![](/content/images/2016/07/MananaBlackBeauty9.jpg)
 
 Jantes d'origines remplacées par jantes aluminium "OZ racing" étoile 5 bâtons, blocs feux avants et arrières redessinés avec casquette de feux pour le bloc avant.
 
-![](  /content/images/2016/07/MananaBlackBeauty12.jpg)
+![](/content/images/2016/07/MananaBlackBeauty12.jpg)
 
 Mais venons-en au côté le plus alléchant ;) : le moteur.  
 Le moteur d'origine à été remplacé par un V12 de 300cv à compresseur. La vitesse max en ligne droite est de 286Km/h. Le O à 100km/h départ arrêté se fait en 2.1 secondes pour un freinage de 250 à O km/h en 3.3 secondes soit 6 mètres : attention, freins puissants!!
@@ -45,7 +44,7 @@ Il est vrai que le nombre de piétons tués chaque année percutés par un véhi
 
 La MBB (MananaBlackBeauty) se défend très bien grâce à son pare-choc renforcé monté sur amortisseurs et à sa calandre en plexiglas à mémoire de forme.
 
-![](  /content/images/2016/07/MananaBlackBeauty11.jpg)
+![](/content/images/2016/07/MananaBlackBeauty11.jpg)
 
 Notes:
 
@@ -72,16 +71,11 @@ J'ai rouler pendant à peu prés 2h30 pour faire ce test et j'ai l'impression d'
 
 Je vous laisse en (bonne) compagnie de quelques photos et vous dit "à la semaine prochaine, et bonne route à Liberty-City!"
 
-![](  /content/images/2016/07/MananaBlackBeauty-1.jpg)
-
-![](  /content/images/2016/07/MananaBlackBeauty10.jpg)
-
-![](  /content/images/2016/07/MananaBlackBeauty3.jpg)
-
-![](  /content/images/2016/07/MananaBlackBeauty4.jpg)
-
-![](  /content/images/2016/07/MananaBlackBeauty5.jpg)
-
-![](  /content/images/2016/07/MananaBlackBeauty6.jpg)
+![](/content/images/2016/07/MananaBlackBeauty-1.jpg)
+![](/content/images/2016/07/MananaBlackBeauty10.jpg)
+![](/content/images/2016/07/MananaBlackBeauty3.jpg)
+![](/content/images/2016/07/MananaBlackBeauty4.jpg)
+![](/content/images/2016/07/MananaBlackBeauty5.jpg)
+![](/content/images/2016/07/MananaBlackBeauty6.jpg)
 
 <!--kg-card-end: markdown-->

@@ -15,11 +15,11 @@ Nous suivîmes un groupe de deux personnes, Will et Eddie, qui nous fit une dém
 
 Ils choisirent les environs de Kiki's Design Contrôle, internet-café réputé, comme lieu de travail. Pour débuter, ils se postèrent à leur poste, c'est-à-dire Will, le sniper en rouge, dans l'internet café et Eddie, le jeune homme rose, dans la rue côté Shoreside Valey. Will commença à tirer sur quelques quidams inoffensifs.
 
-![](  /content/images/v1/user20/abattement.jpg)
+![](/content/images/v1/user20/abattement.jpg)
 
 Une fois abattus, M. Rose-bonbon alla gracieusement soustraire l'argent des dépouilles.
 
-![](  /content/images/v1/user20/volargent.jpg)
+![](/content/images/v1/user20/volargent.jpg)
 
 Entre-temps, Will disparut se chercher son tacot, puis arriva pêcher Eddie qui était bourré de radis. Ils prirent ensemble la poudre d'escampette.
 

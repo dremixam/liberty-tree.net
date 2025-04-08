@@ -8,19 +8,17 @@ tags:
 - los-santos
 ---
 
-![](  /content/images/2005/01/envracnewtitle.jpg)
+![](/content/images/2005/01/envracnewtitle.jpg)
 
 **Lundi 30/10/2006 :**
 
 Violente attaque à Jefferson, lundi dernier. Le bus de la ligne 21 traversant tout Los Santos a été la cible de deux&nbsp;tirs de roquette, faisant littéralement&nbsp;exploser le véhicule de transport en commun, alors bondé à cette heure là, ainsi qu'un innocent véhicule qui se trouvait à proximité. Les témoins nous racontent que tout s'est passé très vite, qu'un 4x4 Dodge s'est mis en travers de la route, un individu cagoulé a sorti un lance-roquette de la benne arrière et a fait feu deux fois sur le pauvre bus et ses occupants. Le bilan s'élève donc à 23 morts, dont 21 se trouvant dans le bus de la ligne 21. Les pompiers ainsi qu'une ambulance furent les premiers sur les lieux du drame, suivis de près par le LSPD et le coroner. Le maire de Los Santos, Henry G. Carter, déclara lors d'un discours donné sur BBS3 News, que les auteurs de cette attaque seront traqués sans relâche et sévèrement punis par la loi.
 
-![](  /content/images/2005/01/bangbus1.jpg)
-
-![](  /content/images/2005/01/bangbus3.jpg)
-
-![](  /content/images/2005/01/bangbus4.jpg)
-
-![Photos prises sur les lieux de l'explosion, à Jefferson.](  /content/images/2005/01/bangbus5.jpg)
+![](/content/images/2005/01/bangbus1.jpg)
+![](/content/images/2005/01/bangbus3.jpg)
+![](/content/images/2005/01/bangbus4.jpg)
+![Photos prises sur les lieux de l'explosion, à Jefferson.](/content/images/2005/01/bangbus5.jpg)
+_Photos prises sur les lieux de l'explosion, à Jefferson._
 
 **Mardi 31/10/2006 :**
 
@@ -34,10 +32,9 @@ Puisque aucune personne haut placée a voulu répondre à mes questions, je suis
 
 Mais l'affaire a commencé à prendre une ampleur relativement impressionnante quand Buddy a retrouvé sa moissonneuse-batteuse et son tracteur, complètement tagués, les vitres cassées et les pneus crevés. Une lettre avait été laissée sur le siège du chauffeur, demandant au fermier de cesser la production de biodiesel, sans quoi sa famille serait la prochaine cible. A l'heure où vous lisez ces lignes, Buddy Peterson a assigné l'Etat de San Andreas ainsi que la compagnie Xoomer en justice pour harcèlement.
 
-![](  /content/images/2005/01/colza2.jpg)
-
-![](  /content/images/2005/01/colza1.jpg)
-
-![L'exploitation de Fallen Tree et Buddy accompagné de son épouse.](  /content/images/2005/01/colza4.jpg)
+![](/content/images/2005/01/colza2.jpg)
+![](/content/images/2005/01/colza1.jpg)
+![L'exploitation de Fallen Tree et Buddy accompagné de son épouse.](/content/images/2005/01/colza4.jpg)
+_L'exploitation de Fallen Tree et Buddy accompagné de son épouse._
 
 <!--kg-card-end: markdown-->

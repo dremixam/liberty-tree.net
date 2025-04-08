@@ -15,19 +15,20 @@ Ces lois touchent plus exactement le monde de la vente légale d'armes à feu da
 
 Cela&nbsp;marche puisque en&nbsp;février 2006, le taux est passé de 50% à 20%. De nombreux vendeurs comme&nbsp;Florent Crisch&nbsp;doivent mettre le clé sous la porte mais maintenant on peut enfin de balader tranquillement sans risquer de se prendre une balle perdue à chaque coins de rue.
 
-![L'Ammu-nation de Florent Crisch.](  /content/images/2005/01/ammu_aband.jpg)
+![L'Ammu-nation de Florent Crisch.](/content/images/2005/01/ammu_aband.jpg)
+_L'Ammu-nation de Florent Crisch._
 
 Mais depuis peu, de nombreux règlements de compte ont eu lieu dans le coin de Santa Maria Beach et de &nbsp;Market à Los Santos et un attentat arrêté de peu par la police&nbsp;envers un bar près de Ganton.&nbsp;Pourquoi&nbsp;est-que Los Santos est de nouveaux la cible d'attentats ou de meurtres malgré les lois du Gouverneur ? On peut tout de suite penser que les lois ont été mal élaborées ou encore abandonnées par le gouvernement de San&nbsp;Andreas mais&nbsp;ce n'est pas là qu'il&nbsp;faut chercher :&nbsp;il n'est presque impossible que cette vague d’événements provienne de ces dispositions .
 
-![Les émeutes touchent tout le monde à Los Santos.](  /content/images/2005/01/emeutes.jpg)
+![Les émeutes touchent tout le monde à Los Santos.](/content/images/2005/01/emeutes.jpg)
+_Les émeutes touchent tout le monde à Los Santos._
 
 La police de San Andreas décide alors de&nbsp;se mobiliser pour faire une saisie d'armes à Los Santos Intersection car une importante arrivée d'armes vendues au noir arriverait&nbsp;dans un&nbsp;camion&nbsp;(information délivré par des informateurs de la LSPD). Les forces de l'ordre décident de fouiller tous les camions se dirigeant vers la ville. Puis un camion Mule beige contenait ce que les agents de police cherchaient.
 
 La saisie est importante : une&nbsp;dizaine d'armes en pièces&nbsp;dont des &nbsp;AK-47 et&nbsp; des Desert Eagle dissimulés dans des sacoches à raquettes de tennis pour le club de Los Santos.
 
-![Le TennisClub de Los Santos](  /content/images/2005/01/tennis_club.jpg)
-
-![La police stoppaient tous les camions qui allaient vers Los Santos.](  /content/images/2005/01/stop_camion.jpg)
+![Le TennisClub de Los Santos](/content/images/2005/01/tennis_club.jpg)
+_Le TennisClub de Los Santos_[La police stoppaient tous les camions qui allaient vers Los Santos.](/content/images/2005/01/stop_camion.jpg)
 
 D'après la police, le chauffeur du camion ignorait le contenu de ce qu'il transportait ainsi que sa provenance:
 
@@ -37,8 +38,8 @@ La piste&nbsp;à suivre serait le club de tennis de Los Santos pour lequel la li
 
 La piste plus juste à suivre est révélé plus tard dans l'enquête : Les armes illégales ne proviennent pas du stock de _Guns & Co_ qui fourni l'Etat de San Andreas en armes à feu légales mais plutôt de _Army's Weapons Of Liberty,_ le fournisseur de la ville Vice City et de Liberty City. L’œil se tourne maintenant vers Vice City, ville au cœur du développement d'armes. Le stock d'armes arrive&nbsp;à un port discret, loin des yeux des passants puis ensuite ramené au campement militaire où les armes sont distribuées aux magasins comme Ammu-Nation ou&nbsp; à des particuliers.
 
-![](  /content/images/2005/01/arrive_arme.jpg)  
- ![Le port où les armes arrivent.](  /content/images/2005/01/arrive_arme2.jpg)
+![](/content/images/2005/01/arrive_arme.jpg) 
+ ![Le port où les armes arrivent.](/content/images/2005/01/arrive_arme2.jpg)
 
 Les rumeurs courent vite dans des villes comme Vice City, il parait que des armes sont détournées lors de leur route vers la base militaire. Je décide d'interwiever, Jack Bridg, agent de police responsable de l'enquête, pour essayer de comprendre :
 
@@ -62,19 +63,19 @@ Les rumeurs courent vite dans des villes comme Vice City, il parait que des arme
 
 Maintenant tout est plus clair, les auteurs de ce trafic ne peuvent que être des hommes "de lois" . Le reste de l'enquête donnera plus d'indices : Les armes étaient toujours détournées par "petits paquets" jusqu'à un hangar où&nbsp;ils étaient stockés jusqu'à ce&nbsp;que leurs vendeurs puissent rencontrer leurs acheteurs.
 
-![](  /content/images/2005/01/boxville1.jpg)
-
-![Le Boxville en direction du hangar.](  /content/images/2005/01/boxville2.jpg)
-
-![Le hangar où les armes étaient stockées par les trafiquants.](  /content/images/2005/01/hangar_vc.jpg)
+![](/content/images/2005/01/boxville1.jpg)
+![Le Boxville en direction du hangar.](/content/images/2005/01/boxville2.jpg)
+_Le Boxville en direction du hangar._[Le hangar où les armes étaient stockées par les trafiquants.](/content/images/2005/01/hangar_vc.jpg)
 
 Les détourneurs et vendeurs d'armes étaient deux agents de la VCPD, ripoux bien sûr. Pour ne pas réveiller les soupçons de leurs collèges de travail, ils s'occupaient de mettre les caisses d'armes dans le camion militaires et quelques fois, ils détournaient des armes dans leur camionnette Boxville.
 
-![Le Boxville des trafiquants près du port où les armes arrivent.](  /content/images/2005/01/boxville_hangar.jpg)
+![Le Boxville des trafiquants près du port où les armes arrivent.](/content/images/2005/01/boxville_hangar.jpg)
+_Le Boxville des trafiquants près du port où les armes arrivent._
 
 Les acheteurs quand à eux, ils venaient directement de Los Santos pour acheter des armes puis les revendent au chef de gang&nbsp;d'El Caprinoli, le&nbsp;plus grand baron de drogue de Vice City qui opère surtout à Los Santos. Les acheteurs et vendeurs furent mis au courant et en contact par un indic' commun qui était nouveaux dans la famille El Caprinoli, nous confit plus tard, Alphonse Detrouck, contact de Jack Bridg à Vice City.
 
-![Les agents ripoux de Vice City avant leur arrestations.](  /content/images/2005/01/ripou_flic.jpg)
+![Les agents ripoux de Vice City avant leur arrestations.](/content/images/2005/01/ripou_flic.jpg)
+_Les agents ripoux de Vice City avant leur arrestations._
 
 Le club de sport n'était qu'une couverture pour les trafiquants, qui fournissaient le gang depuis plus de quelques semaines. Pourquoi faire ça, me direz-vous ? La réponse est l'argent. L'un des trafiquants de Vice City avoua avoir succombé à la tentation d'El Bosso, parrain du gang El Caprinoli pour plus de $1.000.000. Ainsi que toutes les sécurités de son gang. C'est-à-dire qu'il ne risque pas de se retrouver tué par un membre de la famille El Caprinoli.
 
