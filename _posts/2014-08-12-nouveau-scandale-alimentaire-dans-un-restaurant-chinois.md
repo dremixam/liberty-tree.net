@@ -26,5 +26,3 @@ _Le chef cuisinier et une serveuse, à l'arrière du restaurant_
 > **Rebecca, serveuse :** Ça fait plus de cinq ans que je travaillais ici et je ne me suis jamais doutée de rien, quelle gourde. J’ai aussitôt démissionné, sans préavis bien sûr. Enfin maintenant, j’ai plus de boulot et je suis poursuivie dans une affaire d’homicide… Ma vie est foutue.
 
 Et vous, mangez-vous souvent des nems ? Quelque soit votre restaurant préféré, il serait préférable d’arrêter en tout cas, surtout si vous y allez avec votre conjoint…
-
-<!--kg-card-end: markdown-->

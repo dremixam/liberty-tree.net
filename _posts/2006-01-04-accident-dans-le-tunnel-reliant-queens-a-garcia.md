@@ -34,5 +34,3 @@ Un hommage sera rendu aux victimes sous le tunnel qui sera expressément fermé 
 
 ![](/content/images/2005/01/acctunl4.jpg)
 ![](/content/images/2005/01/acctunl5.jpg)
-
-<!--kg-card-end: markdown-->

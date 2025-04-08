@@ -27,5 +27,3 @@ j'ai donc pris ma voiture et je suis allé chez lui, étant donné que j'habite 
 Deux minutes après mon arrivée, le FBI arrivait et m’arrêtait pour son meurtre.  
 Heureusement, mon avocat connaissait son boulot et je n'ai pas eu à retourner à l'ombre.  
 Dans ce début d'année mouvementé, c'est un journaliste du Liberty Tree qui disparaît et je crains d’être le prochain sur la liste.
-
-<!--kg-card-end: markdown-->

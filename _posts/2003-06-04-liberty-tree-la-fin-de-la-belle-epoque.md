@@ -31,5 +31,3 @@ Apres la _mort_ du journal il ne restera que la chose la plus importante qui y e
 C'est sur ce dernier article que je quitte définitivement le Liberty Tree qui à été, pour moi une très bonne aventure.
 
 _\*Mon frère, c'est une grande partie de notre histoire qui part, tu me comprends mon frere ?_
-
-<!--kg-card-end: markdown-->

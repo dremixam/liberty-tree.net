@@ -34,5 +34,3 @@ Bien entendu l'accusé nie les faits en bloc et campe sur ses positions, il est 
 La police mène l'enquête pour vérifier la véracité des dires de la victime si elle l'est réellement, elle demande donc à toute personne ayant pu voir ou soupçonner les faits de se manifester le plus vite possible. De notre côté nous avons également mené notre petite affaire et selon les employés qui côtoient les deux personnes, aucun d'entre eux n'auraient jamais rien vu de tel et le patron serait une personne honnête et droite avec ses salariés.
 
 Toujours dans le cadre de la "victime", son psychologue lui aurait assigné une thérapie de réinsertion car elle aurait subit des troubles suite au harcèlement. C'est donc la parole du PDG contre celle de son employée. Affaire à suivre...
-
-<!--kg-card-end: markdown-->

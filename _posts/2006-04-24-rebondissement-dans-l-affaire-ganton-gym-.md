@@ -33,5 +33,3 @@ Sinciti a été immédiatement mis sous surveillance par les forces de l'ordre d
 _La residence Marcello Sinciti depuis l'hélicoptère de la police de Las Venturas._
 
 Suite a une discussion en privée avec Mark Brown de la police de Los Santos, Tom Player voulait couper les ponts avec la mafia. Il devait donner des noms et être placé sous protection dès aujourd'hui, après un entretient avec le détective Brown. Le mobile du crime serait alors évident et l'implication de Sinciti inéluctable. Toujours est-il que la LSPD poursuit ses investigations et le Ganton Gym, qui aurait apparemment trouvé un nouveau propriétaire, va être fermé quelques jours pour les besoins de l'enquête.
-
-<!--kg-card-end: markdown-->

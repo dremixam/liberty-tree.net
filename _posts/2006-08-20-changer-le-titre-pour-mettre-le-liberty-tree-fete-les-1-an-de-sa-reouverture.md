@@ -47,5 +47,3 @@ Le courrier s'accumulait dans le bureau de Special-K qui devait être chargé d'
 ![](/content/images/2005/01/van2.jpg)
 
 Aujourd'hui, la guerre interne est bien finie et Maxou fait le ménage dans les dossiers du personnel afin d'en faire disparaître quelques-uns, ceux qui ne travaillaient plus au journal. C'est comme ça que s'est terminé sa première année. Bien entendu, j'ai sûrement oublié des événements mais qu'importe puisque ceux-ci étaient les plus importants à retenir. Merci à tous ceux qui ont sorti de quoi acheter le Liberty Tree à leur kiosque et nous espérons vous satisfaire davantage dans l'avenir.
-
-<!--kg-card-end: markdown-->

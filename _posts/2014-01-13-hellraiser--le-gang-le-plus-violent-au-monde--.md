@@ -37,5 +37,3 @@ Nous avons pu télécharger un enregistrement vocal avant la suppression du site
 > Nous sommes ici pour le business, et nous écraserons tous ceux qui bloquent notre route, vous devriez nous remercier, nous vous prouvons que le système de merde de défense américain contre le crime n'est pas au point : un simple gang de motards sème l'anarchie alors que se passera-t-il si un jour vous subissez une attaque terroriste ? Quand nous contrôlerons toute la ville vous comprendrez, et tout ceux qui veulent nous en empêcher finiront comme ces pédales de Lost !
 
 Nous espérons par dessus tout que les moyens mis en place par le gouvernement vont aboutir et nous débarrasser de ces tueurs.
-
-<!--kg-card-end: markdown-->

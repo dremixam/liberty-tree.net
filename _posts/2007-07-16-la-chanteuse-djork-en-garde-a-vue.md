@@ -52,5 +52,3 @@ Policiers et témoins racontent la métamorphose de la frêle chanteuse en une v
 Le photographe victime de l'agression sera évacué vers l'hôpital et s'en tirera avec une trentaine de points de suture et une dent cassée.
 
 Placée en garde à vue, Djork sera libérée après paiement de sa caution et intervention de maître Ken R.(que je ne cite pas volontairement par souci d’éthique journalistique étant donné mon lien de parenté avec lui), l'avocat des stars. Celui-ci, à la presse venue en nombre devant le poste de police, alléguera le "surmenage" de sa cliente "en rapport avec la série de concerts éprouvante qui a succédé à la promotion de son dernier album disponible chez tous les bons disquaires et centres commerciaux de San Andreas". Il déclarera de façon prémonitoire "le dossier clos" : en effet, le lendemain de l'incident, par le plus grand des hasards, le paparazzi probablement en quête de repentir reconnaîtra son entière responsabilité dans cette affaire et retirera sa plainte.
-
-<!--kg-card-end: markdown-->

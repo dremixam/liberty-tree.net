@@ -35,5 +35,3 @@ Le maire de Liberty City étant très furieux sur ce sujet a déclaré:
 C'était la plus grande grève générale que la ville de Liberty City ait connu à ce jour mais le maire a affirmé que grâce à son message, il n'y en aurait plus pendant une bonne année, au moins. On verra bien...
 
 ![](/content/images/2005/01/greve03.jpg)
-
-<!--kg-card-end: markdown-->

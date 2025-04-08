@@ -34,5 +34,3 @@ Une fois redescendu en suivant la même procédure qu'à l'aller, nous reprenons
 _"Grincheux" et le paysage post-apocalyptique._
 
 C'est ici que nous quittons notre compagnon alors qu'il est 6 heures et que le jour se lève sur la ville. "Grincheux" profitera d'une très courte nuit, puis retournera à sa vie plus classique mais avec pleins de souvenirs en tête. Cela restera pour nous une nuit riche en découverte et en émotions.
-
-<!--kg-card-end: markdown-->

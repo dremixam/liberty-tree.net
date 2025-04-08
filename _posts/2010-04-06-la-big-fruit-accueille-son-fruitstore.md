@@ -45,5 +45,3 @@ _L'iTable, un gros iCall._
 
 ![Premières photos de l'iComp. Un modèle qui se voudra "Neo Retro".](/content/images/2007/06/chp_analogcomp_11.jpg)
 _Premières photos de l'iComp. Un modèle qui se voudra "Neo Retro"._
-
-<!--kg-card-end: markdown-->

@@ -32,5 +32,3 @@ En effet, une telle résurrection est assez impressionnante. Et la raison en est
 _L'hôpital central de Los Santos._
 
 Du côté de l'hôpital, on s'est refusé à tout commentaire à propos de cette défaillance. L'infirmier en stage risque d'être sanctionné, et de son côté Brad Needles a été transféré à l'hôpital de Mount Zonah afin de subir des examens plus poussés concernant son pacemaker. Il pourra ensuite rentrer chez lui et espérer oublier cette sordide petite histoire...
-
-<!--kg-card-end: markdown-->

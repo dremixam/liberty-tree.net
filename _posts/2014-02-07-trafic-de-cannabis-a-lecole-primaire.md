@@ -41,5 +41,3 @@ La police s'est ainsi rendue dans une petite ferme au nord de Grapeseed, perdue 
 _La plantation de cannabis de Grapeseed._
 
 L'enfant devrait être relâché après avoir reçu de nombreuses remontrances de la part des policiers et de sa famille. Quant à son oncle, il risque beaucoup plus que son neveu, à savoir presque 10 ans de prison. Il sera jugé dans les jours qui viennent.
-
-<!--kg-card-end: markdown-->

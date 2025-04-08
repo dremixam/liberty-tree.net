@@ -53,5 +53,3 @@ N'hésitez pas non plus à vous déguiser ! Suburban et Binco ont développé un
 _Notre cher patron, prêt pour la fête !_
 
 Voilà, vous êtes enfin prêts pour aller festoyer ! N'oubliez pas toutefois de rester prudent, ce serait bête de gâcher une si belle journée à cause d'un accident. Nous souhaitons à tous une joyeuse Fête de l'Indépendance !
-
-<!--kg-card-end: markdown-->

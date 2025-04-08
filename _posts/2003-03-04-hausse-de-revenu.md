@@ -18,5 +18,3 @@ On a decidé de refaire les magasins ZIP, de les remplacer par Gash. Bien entend
 Ce couturier produit des vêtements de luxe à Vice City. Il n'est pas rare de voir quelqu'un chez Rafaels et une heure plus tard en boite de nuit. Le maire s'habille chez Rafaels ainsi que Mc Affrey, Luigi Goterelli (patron du "Sex Club Seven"), Alfred Bright(top model de LC) et tous les Dandys de Liberty City. Nos voitures ont été importées en France, en Russie et au Canada (en ce qui concerne les Maibatsu).  
 Les avions de l’aéroport Francis volent vers plusieurs pays comme la Chine et les Phillipines. Les prochains revenus fiscaux serviront à renforcer le bras armé de la loi.'  
 Apparemment, la ville refait surface. Nos salaires, au LT, ont augmentés de 10%.
-
-<!--kg-card-end: markdown-->

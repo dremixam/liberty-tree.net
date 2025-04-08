@@ -46,5 +46,3 @@ Les semaines à venir donneront beaucoup de fil à retordre aux fédéraux puisq
 _Les camions ont été inspectés par le FBI._[Seul indice, une trace de pneu sur la route.](/content/images/2005/01/Essence_trace_pneus.jpg)
 
 La question qui est sur toutes les lèvres, est-ce que le gouvernement interviendra afin de freiner la hausse du prix du pétrole et éviter une nouvelle crise du pétrole. Pour le moment c'est la politique de l'autruche auprès des élus puisque ni le gouverneur de San Andreas, ni son attaché presse n'ont&nbsp; retourné un seul de nos appels. Comme il est dans notre habitude de le faire au Liberty Tree, nous nous ferons persistant auprès des personnes concernés afin de vous livrer les réponses que vous attendez.
-
-<!--kg-card-end: markdown-->

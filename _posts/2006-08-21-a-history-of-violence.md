@@ -63,5 +63,3 @@ _La police a escorté Jim Rexroth jusqu'à l'hôpital Schuman._
 > **G.D. :** Je n'ai malheureusement pas l'autorisation de vous dévoiler les détails tant que l'enquête n'a pas été plus approfondie.
 
 Les investigations&nbsp;sur les circonstances du braquage&nbsp;sont en cours,&nbsp;mais pour l'instant, la police se concentre sur l'enlèvement du pauvre Mickaël Lanning. "Nous pensons que le troisième complice a déjà quitté l'Etat avec son otage. Ils sont peut-être déjà à San Fierro, voire Las Venturas" nous explique Jeffrey Grey, agent du FBI chargé de l'enquête. Tous les moyens&nbsp;sont mis en oeuvre pour retrouver&nbsp;Mickaël Lanning&nbsp;: des barrages ont été placés, la surveillance dans les aéroports ainsi que sur les voies maritimes est montée d'un cran . En attendant, nous ne pouvons que souhaiter qu'il ne soit pas arrivé malheur&nbsp;au jeune homme. Je resterai en contact avec le FBI pour vous tenir au courant de chaque nouvelle information.
-
-<!--kg-card-end: markdown-->

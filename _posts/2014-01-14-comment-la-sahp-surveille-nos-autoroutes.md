@@ -40,5 +40,3 @@ Là encore, quelques minutes seulement passent avant qu'une poursuite ne soit la
 _Photo de la caméra embarquée de la voiture de patrouille._
 
 Nous retournons une dernière fois au bureau du shérif, et alors que l'agent Jokins tombe de sa chaise (dont les pieds avaient été sciés) sous les regards hilares de ses collègues, nous saluons le capitaine et toute son équipe, ravis d'avoir pu partager un peu de leur temps. Nous en sommes désormais sûrs, nos autoroutes sont très bien surveillées et nous pouvons y circuler sans crainte.
-
-<!--kg-card-end: markdown-->

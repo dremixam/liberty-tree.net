@@ -58,5 +58,3 @@ Aucun mort à déplorer donc, mais une circulation perturbée pendant quelques h
 ![](/content/images/2005/01/crashtrain2.jpg)
 ![Un impressionant accident qui aurait vite pu tourner au drame.](/content/images/2005/01/crashtrain3.jpg)
 _Un impressionant accident qui aurait vite pu tourner au drame._[S'en suivit quelques complications au niveau de la circulation...](/content/images/2005/01/trafficjam.jpg)
-
-<!--kg-card-end: markdown-->

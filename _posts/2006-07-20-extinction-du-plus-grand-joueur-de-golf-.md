@@ -61,5 +61,3 @@ Il partit, nous laissant seuls dans son bureau. Après une heure de recherches i
 
 ![La police emmenant Mr.Castado et ses complices au commissariat.](/content/images/2005/01/V_hicule-de-police.jpg)
 _La police emmenant Mr.Castado et ses complices au commissariat._
-
-<!--kg-card-end: markdown-->

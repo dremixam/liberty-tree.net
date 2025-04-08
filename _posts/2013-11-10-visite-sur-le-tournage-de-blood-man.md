@@ -85,5 +85,3 @@ _Toute l'équipe pose pour le Liberty Tree chez Monsieur le Maire._
 > Bah alors ? Tu pars déjà ? On a à peine commencé la soirée… Si tu as du mal à tenir j'ai de la poudre hein. _(Il sniffe un gramme de coke sur le creux de sa main tout en me tendant un petit sachet.)_
 
 ![](/content/images/2016/06/Vinewood%20sign.jpg)
-
-<!--kg-card-end: markdown-->

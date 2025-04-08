@@ -17,5 +17,3 @@ Concrètement, ce don généreux a servi à acheter les cameras et autres appare
 Voici, en exclusivité, les premières photos prises avec ces « joujous » haut de gamme.
 
 En espérant que cette « évolution technologique » ne va pas finir comme notre dernière machine à café assistée par ordinateur, et que tout son potentiel sera utilisé par les journalistes du Liberty-Tree…
-
-<!--kg-card-end: markdown-->

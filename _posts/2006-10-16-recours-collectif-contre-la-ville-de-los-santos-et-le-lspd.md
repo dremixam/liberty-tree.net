@@ -51,5 +51,3 @@ _Les employés municipaux profitent maintenant d'une protection policière._
 En attendant la date du début des audiences, étrangement, il n’y a pas eu d’autres coupures d’eau et d’électricité dans les quartiers concernés, et en plus les patrouilles aériennes passent désormais presque inaperçus. Par contre les employés municipaux sont maintenant escortés par des officiers du LSPD suite à la lecture de lettres de menace qui ont été envoyées à l'Hôtel de Ville.
 
 Espérons que le maire et le chef de la police redresseront à temps leur côte de popularité auprès des résidents mécontents qui pourraient alors se venger en votant pour leurs adversaires aux prochaines élections.
-
-<!--kg-card-end: markdown-->

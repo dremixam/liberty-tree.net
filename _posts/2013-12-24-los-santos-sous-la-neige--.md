@@ -53,5 +53,3 @@ Du côté des météorologues, on en est resté sans voix. Et pour cause, eux-m�
 _De Paleto Bay à Chumash, la côte ouest n'a pas été épargnée non plus._
 
 Le trafic aérien a été temporairement paralysé, seulement quelques hélicoptères ont été autorisés à décoller, la faute au brouillard. Cet épisode neigeux devrait toutefois rester exceptionnel. En effet, les températures commencent à remonter, et personne ne sait encore combien de temps tiendra la neige. En attendant, amusez-vous bien et profitez-en, mais restez prudents, notamment sur les routes de montagne ! Le Liberty Tree vous souhaite à tous un Joyeux Noël !
-
-<!--kg-card-end: markdown-->

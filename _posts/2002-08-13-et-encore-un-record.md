@@ -17,5 +17,3 @@ Il a déclaré que c'était un vieux rêve depuis qu'il s'était échoué sur la
 Liberty City abrite toujours plus de champions, ce qui prouve bien qu'elle n'est pas uniquement remplie de criminels (casier judiciaire de Ron : 165 braquages à main armée, 13 assassinats, 564165 vols de voiture, 74 vols de sac à main).
 
 ![](/content/images/v1/user6/Bato2.jpg)
-
-<!--kg-card-end: markdown-->

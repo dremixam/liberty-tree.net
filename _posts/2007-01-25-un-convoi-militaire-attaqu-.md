@@ -57,5 +57,3 @@ Le Secrétaire d'Etat&nbsp;à la défense :
 > Ce convoi transportait des armes chimiques avec un défaut de fabrication au laboratoire, elle sont donc complètement inoffensives. Nous avons gardé ça secret pour ne pas affoler la population, mais nous vous&nbsp;assurons que vous n'avez rien&nbsp;à craindre, ces armes sont totalement inopérantes. Nos services font le maximum pour retrouver ces armes et ces terroristes, qui paieront cher.
 
 D'après un autre informateur, ils auraient déjà une piste mais impossible d'en savoir plus, la mission serait compromise. Vous pouvez donc dormir sur vos deux oreilles sans craindre d'attentat chimique, du moins pas pour l'instant...
-
-<!--kg-card-end: markdown-->

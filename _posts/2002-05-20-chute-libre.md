@@ -13,5 +13,3 @@ Incroyable mais vrai, un policier de notre bonne ville de Liberty City a été r
 Il travaillait actuellement sur le dossier tenu « Top Secret » mais que la rédaction se doit de vous communiquer, celui de l'agent double Tanner, « travaillant » chez les Yakuzas, retrouvé sauvagement assassiné par une personne mystérieuse alors qu'il se rendait au poste de police pour faire son rapport. Était il sur une bonne piste ? Tant de questions qui n'ont actuellement pas trouvées de réponses…
 
 La conclusion que l'on ne peut s'empêcher de tirer est le fait que le nombre des membres des forces de l'ordre de Liberty City est actuellement en forte baisse !
-
-<!--kg-card-end: markdown-->

@@ -29,5 +29,3 @@ Aujourd'hui, à moins d'une semaine du triste 17ème anniversaire de cette catas
 
 ![](/content/images/2005/01/Site%20Doherty%206.jpg)
 ![](/content/images/2005/01/Site%20Doherty%205.jpg)
-
-<!--kg-card-end: markdown-->

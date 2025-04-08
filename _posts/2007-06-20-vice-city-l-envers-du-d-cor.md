@@ -92,5 +92,3 @@ De plus, il n'y a pas que ça qui&nbsp;touche cette métropole, il y a aussi la 
 Strass, paillettes, champagne,&nbsp; belles filles,..voici les principaux ingrédients qui ont permis à Vice City de&nbsp;vivre&nbsp;un tel succès mais lorsque qu'on recule la vue est impressionnante et la ville méconnaissable. On comprend alors pourquoi Vice City est appelée ville de tous les excès...
 
 ![](/content/images/2005/01/Vice-city_08.jpg)
-
-<!--kg-card-end: markdown-->

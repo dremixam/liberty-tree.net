@@ -41,5 +41,3 @@ _Le sergent Zoran au volant de sa Chevrolet 1987._[](/content/images/2005/01/cap
 ![](/content/images/2005/01/cap87int.jpg)
 ![Les puristes diront que cette carrosserie et la dernière vraie "fullsize" de la General Motors.](/content/images/2005/01/cap87.jpg)
 _Les puristes diront que cette carrosserie et la dernière vraie "fullsize" de la General Motors._
-
-<!--kg-card-end: markdown-->

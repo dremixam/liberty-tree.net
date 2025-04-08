@@ -31,5 +31,3 @@ _Tous les vols en direction de San Fierro sont, depuis ce matin, indisponibles._
 
 ![](/content/images/2005/01/js.jpg)
 _Arthur Smithjones, inspecteur à la DGACC._
-
-<!--kg-card-end: markdown-->

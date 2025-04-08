@@ -57,5 +57,3 @@ Il en va de même pour la compagnie flyUS, celle-ci étant la principale de l'A�
 Complot ? Terrorisme ? Manifestation diabolique ? Affaire à suivre.
 
 ![](/content/images/2016/06/20_6.jpg)
-
-<!--kg-card-end: markdown-->

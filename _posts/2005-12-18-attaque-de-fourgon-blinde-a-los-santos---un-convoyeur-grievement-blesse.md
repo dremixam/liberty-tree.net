@@ -60,5 +60,3 @@ Le véhicule a été retrouvé quelques heures après, accidentée à un carrefo
 ![](/content/images/2005/01/robb7.jpg)
 
 Cette affaire n'est pas encore terminée, sept millions de dollars sont dans la nature. Une nouvelle mafia venue de l'est de l’Europe semble s'installer dans la ville. Si vous avez un renseignement n’hésitez pas a contacter le poste de police le plus proche de chez vous.
-
-<!--kg-card-end: markdown-->

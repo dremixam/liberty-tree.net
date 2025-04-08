@@ -23,5 +23,3 @@ Les recherches sont actuellement en cours pour retrouver l'auteur de l'exploit. 
 Il n'est pas le seul à vouloir le récupérer, en effet, tous les gangs de la ville cherchent à le contacter, eux qui cherchent cette fameuse banque depuis tant d'années...
 
 Ici nous avons en exclusivité les photos de l'événement, prises par un de nos envoyés spéciaux, employé à la banque, dont nous tairons le nom.
-
-<!--kg-card-end: markdown-->

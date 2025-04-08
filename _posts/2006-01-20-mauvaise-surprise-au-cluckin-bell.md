@@ -24,5 +24,3 @@ Nous avons alors décidé de mener notre propre enquête sur l'origine des produ
 ![](/content/images/2005/01/Resto_Chinois.jpg)
 
 Nous avons pu vérifier (malheureusement sans appareil photo) les conditions dans lesquelles la nourriture était traitée et nous avons été effarés par le non-respect total des normes hygiéniques en vigueur. Les viandes traînent au sol et tout le monde marche autour, les éviers sont sales, rien n'est propre et on peut apercevoir quelques cafards par ci par là. De quoi vous dégoûter à vie des fast-foods! En tout cas on comprend mieux après cette excursion comment un rat a pu se trouver dans le hamburger de mademoiselle Thompson.
-
-<!--kg-card-end: markdown-->

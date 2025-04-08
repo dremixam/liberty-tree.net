@@ -55,5 +55,3 @@ Nous avons aussi obtenus une courte entrevue avec Tom Player, propriétaire de l
 _Tom Player, propriétaire de Ganton Gym nous a accordé une courte entrevue dans son apparemment près de Rodeo..._
 
 Tom Player n'as visiblement pas envie de s’étaler d'avantages sur cette sombre histoire de hausse des cotisations. Certaines personnes dont nous tairons les noms nous racontent que Player n'arriverait plus à payer sa "protection" de la Mafia de Los Santos et que ce serait la raison majeure de ce besoin d'argent. La langue de bois l'emportant sur l'information, nous n'en saurons pas plus pour l'instant, mais le propriétaire du Ganton Gym fera à coup sûr bientôt parler de lui...
-
-<!--kg-card-end: markdown-->

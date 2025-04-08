@@ -29,5 +29,3 @@ Nous espérons que les tensions entre Vice City et Liberty vont rapidement cesse
 
 ![](/content/images/2016/07/plane.JPG)
 ![](/content/images/2016/07/Tours.JPG)
-
-<!--kg-card-end: markdown-->

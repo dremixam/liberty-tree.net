@@ -14,5 +14,3 @@ Soyons réalistes : de nos jours, brûler les voitures n'est plus aussi amusant 
 Mais il semblerait que les adeptes de ce « sport » soient respectueux des automobilistes et attendent qu'ils soient sortis de leur voiture pour la faire exploser. D'ailleurs les hôpitaux de Liberty City ne déplorent aucun blessé ou tué durant ces activités diurnes, les rues étant désertes en été.
 
 Une affaire qui fait le bonheur du concessionnaire automobile de Portland : il a vu ses ventes augmenter fortement depuis le début du Car-Bombing. Il a d'ailleurs profité de l'occasion pour offrir une réduction (en plus du sapin désodorisant aux couleurs du magasin) aux victimes de ces activité estivales.
-
-<!--kg-card-end: markdown-->

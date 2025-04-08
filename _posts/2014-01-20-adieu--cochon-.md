@@ -27,5 +27,3 @@ Cette vie sans le cinéma n'avait visiblement aucun sens pour Gabe, qui a été 
 
 ![Salut, l'artiste.](/content/images/2016/06/0_0%20%281%29%20copie_0.png)
 _Salut, l'artiste._
-
-<!--kg-card-end: markdown-->

@@ -55,5 +55,3 @@ De leur côté, les autres éditeurs de jeux et notamment Nintendo et Atari ont 
 ![](/content/images/2005/01/Otaku_Affichage.jpg)
 
 Les Otakus sont de plus en plus nombreux aux Etats-Unis du fait du développement rapide du monde vidéo-ludique. On risque de voir une inflation de ce genre d'actes désespérés. Les autorités compétentes vont devoir trouver une solution pour limiter le nombre de joueurs atteints et surtout éviter qu'ils passent tant de temps devant les jeux vidéo. Certains parlent d'interdire les jeux à certains gamers, un peu à la manière des joueurs interdits de casino.
-
-<!--kg-card-end: markdown-->

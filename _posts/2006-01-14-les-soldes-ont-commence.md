@@ -36,5 +36,3 @@ Les magasins continuent de faire des ventes en grande quantité, ils sont pleins
 ![](/content/images/2005/01/sld1.jpg)
 
 Les soldes ne sont pas encore finies, les articles s'estompent rapidement, donc un conseil : Profitez en tant qu'il en est encore temps.
-
-<!--kg-card-end: markdown-->

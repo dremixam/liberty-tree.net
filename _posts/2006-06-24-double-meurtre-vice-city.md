@@ -56,5 +56,3 @@ Nous sommes donc&nbsp;dans l'hypothèse, très probable, que le meurtrier était
 _Une enquête qui risque de patauger longtemps au port de Vice._
 
 Au moment où nous bouclions cet article, la police de Vice City a fait appel aux autorités de Los Santos pour régler au plus vite l'affaire. Malheureusement, à moins de&nbsp;démanteler les réseaux mafieux, il sera impossible de retrouver l'assassin de nos deux confrères car l'arme utilisée pour l'acte a été retrouvée dans une poubelle, le numéro de série limée et la crosse, ainsi que la gâchette ont été recouvertes de bandes adhésives.
-
-<!--kg-card-end: markdown-->

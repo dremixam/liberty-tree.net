@@ -20,5 +20,3 @@ La police recherche toujours ces bandits voleurs de poissons.
 Des rumeurs disent que c'est la mafia qui provoque les triades dans la guerre des gangs.
 
 N'oubliez pas que Belly Up propose des postes de travail alors si vous cherchez un boulot, contactez Belly Up !
-
-<!--kg-card-end: markdown-->

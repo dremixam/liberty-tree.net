@@ -62,5 +62,3 @@ Nous avons parlé du sujet avec Mme Sanito, diététicienne :
 > C'est du grand n'importe quoi ! Ils font cela simplement pour rouler des mécaniques alors qu'au final, ce n'est que de la gonflette ! Il est bon pour la santé de muscler son corps, pas de le transformer en horreur ambulante ! Qu'ils se dopent chimiquement ou non, voyez ce qu'ils mangent : des œufs, des œufs et encore des œufs, rien d'équilibré. Ce sont juste des rigolos qui en vérité n'ont rien dans le pantalon !
 
 Le bodybuilding, musculation nécessaire, dangereuse, passionnante ou abusée, à vous de juger.
-
-<!--kg-card-end: markdown-->

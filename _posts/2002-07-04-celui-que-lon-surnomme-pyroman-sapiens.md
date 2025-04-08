@@ -39,5 +39,3 @@ Comme nous l'avons dit plus haut, Pyroman Sapiens doit être très bien payé, i
 Pyroman Sapiens n'est pas encore à portée des policiers, rien que d'entendre son pseudonyme les habitants de Liberty sursautent de peur et les chefs mafieux se frottent les mains.
 
 Ceci n'est surement pas le dernier article sur le fou dangereux PYROMAN SAPIENS !!!!
-
-<!--kg-card-end: markdown-->

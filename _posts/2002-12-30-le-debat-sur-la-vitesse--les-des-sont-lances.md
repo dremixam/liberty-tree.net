@@ -33,5 +33,3 @@ Ne vous étonnez donc pas de croiser des radars au centre-ville.
 Nous avons proposé, conjointement avec des clubs automobiles, une autre solution: ne pas établir de limitation mais donner des formations aux conducteurs afin de les rendre beaucoup plus responsables de leurs actes et leur permettre de faire la différence eux-mêmes entre une vitesse adaptée ou non. La mairie a trouvé cette solution trop onéreuse et _pas assez efficace_.
 
 Il est vrai que mettre des PV, ça rapporte et sauver des vies coûte trop cher, n'est ce pas M. le Maire?
-
-<!--kg-card-end: markdown-->

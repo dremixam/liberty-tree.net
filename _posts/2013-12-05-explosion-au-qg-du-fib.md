@@ -34,5 +34,3 @@ On pourrait penser à un attentat, à cette époque où notre belle patrie est v
 Sous la stupeur générale, le glouton sera conduit au commissariat le plus proche tandis que la police vérifiera ses dires. En tous les cas, une chose est sûre, ces foutus plats cuisinés sont le calvaire de notre société moderne.
 
 ![](/content/images/2016/06/0_0%20%284%29_0.jpg)
-
-<!--kg-card-end: markdown-->

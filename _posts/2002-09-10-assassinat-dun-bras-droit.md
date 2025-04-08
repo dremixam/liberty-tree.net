@@ -20,5 +20,3 @@ La police supçonne plusieurs personnes, notamment ses proches et quelques autre
 Bien sur, toute la famille de Leone est en pleures pour ce tragique accident qui n'aurait pas du arriver.
 
 Salvatore à promis de le venger, mais pour l'instant il devrait plutôt s'occuper de trouver un nouveau bras droit.
-
-<!--kg-card-end: markdown-->

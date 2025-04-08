@@ -31,5 +31,3 @@ De 19 h à 5 h du matin, la drogue est distribuée dans tout les quartiers chaud
 ![](/content/images/2005/01/china4.jpg)
 
 C'est la fin d'une belle époque, une courte époque sans crime en tous genres à Chinatown, depuis le départ des Triades en 2003...
-
-<!--kg-card-end: markdown-->

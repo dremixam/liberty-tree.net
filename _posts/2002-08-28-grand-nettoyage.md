@@ -20,5 +20,3 @@ Puis hier c'est celui que l'on surnommait "Bob le frisé" qui a été écrasé p
 
 ![](/content/images/v1/user1/forelli1.jpg)
 ![](/content/images/v1/user1/forelli2.jpg)
-
-<!--kg-card-end: markdown-->

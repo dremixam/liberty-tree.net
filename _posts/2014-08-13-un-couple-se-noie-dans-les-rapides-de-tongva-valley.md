@@ -32,5 +32,3 @@ _Harry Edwings, et la double cascade._
 > **Tony Miller, moniteur de canoë :** Tout le club est sous le choc, on ne comprend pas, on leur a pourtant donné tout le matériel nécessaire et on les avait prévenu qu'il fallait être à fond dans cette cascade. Surtout qu'en 6 ans de carrière ici, c'est la première fois qu'on a un accident.
 
 L'enquête est toujours en cours. Les cours de canoë sont suspendus jusqu'à demain midi.
-
-<!--kg-card-end: markdown-->

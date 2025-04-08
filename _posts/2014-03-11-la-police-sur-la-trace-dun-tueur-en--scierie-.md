@@ -39,5 +39,3 @@ Toutefois, une autre piste a émergé ces derniers jours : et si la secte du cam
 _La scierie de Paleto Bay._
 
 Dans les prochains jours, la scierie va être placée sous surveillance. La police va y être déployée, et elle aura les yeux rivés sur la fameuse scierie. Il ne reste qu'à espérer que cette surveillance permettra aux forces de l'ordre de stopper cet individu dangereux...
-
-<!--kg-card-end: markdown-->

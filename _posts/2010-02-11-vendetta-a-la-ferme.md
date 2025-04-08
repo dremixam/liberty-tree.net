@@ -43,5 +43,3 @@ _Jamais dans toute l'histoire de la télévision une émission n'aura aussi bien
 > **Kimberly, adolescente et Real-TV addict :** C’est génial, ça va me permettre d’économiser les quarante dollars que j’avais prévu d’utiliser pour voter contre lui à la prochaine élimination.
 
 Malgré la mort du candidat, la production a décidé de poursuivre l’émission, un arrangement financier a été conclu avec les autorités locales afin qu’aucune enquête ne perturbe le bon fonctionnement du tournage. Une nouvelle qui fait plaisir à tout le monde, ici, à Liberty-City où l’émission est très suivie.
-
-<!--kg-card-end: markdown-->

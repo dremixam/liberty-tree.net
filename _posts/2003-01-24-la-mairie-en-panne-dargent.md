@@ -84,5 +84,3 @@ En effet, l'ancien secrétaire de la mairie licencié il y a deux mois pour faut
 Ces informations sont très intéressantes, et prouve que l'actuel maire a du mal à garder de bonnes finances.
 
 Le maire a bien entendu démenti tous les dire de M.Eével Tgiod Titep.
-
-<!--kg-card-end: markdown-->

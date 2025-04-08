@@ -17,5 +17,3 @@ Il a réussit l'exploit (encore inexpliqué) de sauter au dessus du pont détrui
 Croyant avoir semé les forces de l'ordre (il avait sans doute oublié qu'une étoile de police flottait encore au dessus de sa tête) il s'est bêtement fait prendre dans le tunnel qui rejoint Shoreside.
 
 Il a à cette occasion montré tout le bien qu'il pense de nos valeureux défenseurs de l'ordre. Il a été relâché au petit matin 6 heures plus tard, comme l'exige la loi dans notre belle ville. On espère que cela lui aura servi de leçon.
-
-<!--kg-card-end: markdown-->

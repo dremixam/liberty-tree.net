@@ -44,5 +44,3 @@ _Jennifer Walker._
 Aujourd'hui, personne n'est capable de dire combien de temps la grève va encore durer, et combien de temps le parking va encore rester désert. Quoi qu'il en soit, la lutte s'annonce longue et intense, et selon les employés, les directeurs du magasin ne sont pas prêts de revoir leur magasin ouvert...
 
 ![](/content/images/2016/06/YouTool5.jpg)
-
-<!--kg-card-end: markdown-->

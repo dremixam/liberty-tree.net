@@ -71,5 +71,3 @@ Je vous laisse quelques clichés de mon test et vous dit "à la semaine prochain
 ![](/content/images/2016/07/taxi3.jpg)
 ![](/content/images/2016/07/taxi4.jpg)
 ![](/content/images/2016/07/taxi5.jpg)
-
-<!--kg-card-end: markdown-->

@@ -76,5 +76,3 @@ Une heure plus tard et les idées claires, je serra la main de Maxwell qui me so
 Malgré le fait que tout cet argent provienne en effet du milieu de la prostitution, Maxwell "Double M" apparaît comme un chef d'entreprise prenant son job au sérieux, traitant convenablement ses employées et voulant faire changer le regard des gens sur les proxénètes de Los Santos. Bien évidement, la majorité des maquereaux de la ville sont loin de ressembler à Maxwell, mais après avoir passé 24 heures avec Double M, je ne peux qu'entre-voir un changement positif des façons de faire de certains pimps de la côte ouest.
 
 \*NDLR : malgré ce que peut en dire NelsoN qui ne se déplace qu'en véhicule haut de gamme, ces Pontiac Grand Prix mises à disposition des journalistes roulent à merveille...
-
-<!--kg-card-end: markdown-->

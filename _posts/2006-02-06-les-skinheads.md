@@ -43,5 +43,3 @@ L'interview a mal fini, nos reporters se sont retirés très vite avant que tout
 Voila ce reportage est fini mais nous voulons que vous réfléchissiez en lisant cet article, à ce qui se passe en ce moment et d'accorder une minute de silence, une minute de pensée à toutes les vies qui ont été enlevées ces derniers jours.
 
 Merci
-
-<!--kg-card-end: markdown-->

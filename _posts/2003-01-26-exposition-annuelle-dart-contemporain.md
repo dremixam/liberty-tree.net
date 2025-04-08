@@ -28,5 +28,3 @@ Ces oeuvres d''art ne sont pas originales par leur style mais par les sujets des
 ![](/content/images/v1/user26/artist4.jpg)
 
 Ce jeune homme aurait surement été plus capable d''expliquer son art que son maître mais, fatigué par une longue journée j'ai préféré rentrer…
-
-<!--kg-card-end: markdown-->

@@ -38,5 +38,3 @@ Voici maintenant une petite biographie de chacun de ces représentants politique
 **O'Donovan** : Actuel maire, âgé de 73 ans, il a déjà fait passer de très bons projets (légalisation des prostitués et autre jeux d'argent). Il propose la suite de ces engagement déjà pris il y a 4 ans. Et suite aux dires de son ancien secrétaire, s'engage à remettre de l'argent dans la caisse de la mairie.
 
 Les élections auront lieu au cours du mois de janvier, voir février avec le problème de recompte des suffrages non-directs. Les élections seront en 2 tours. Et comme tous les 4 ans depuis la crêtions de Liberty City aucune femme ne se présente.
-
-<!--kg-card-end: markdown-->

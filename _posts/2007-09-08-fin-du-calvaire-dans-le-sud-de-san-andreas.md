@@ -28,5 +28,3 @@ Le lendemain, un homme alerte un groupe de pompiers, celui-ci a remarqué un ind
 _Les pompiers sillonnant Whetstone_
 
 L'enfer qu'a vécu la région ne devrait plus être qu'un vague souvenir dans quelques jours pour les fermiers et autres agriculteurs. Des années seront nécessaires à la restauration de la forêt...
-
-<!--kg-card-end: markdown-->

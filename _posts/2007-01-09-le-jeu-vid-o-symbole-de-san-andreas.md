@@ -72,5 +72,3 @@ Tout ceux qui désirent postuler pour un emploi au sein de la Nomura, veuillez m
 
 ![La maison des Reckform, où ils profiteront quelques temps de leur (sans aucun doute) futur succès !](/content/images/2005/01/Maison-Createur-Jeu.jpg)
 _La maison des Reckform, où ils profiteront quelques temps de leur (sans aucun doute) futur succès !_
-
-<!--kg-card-end: markdown-->

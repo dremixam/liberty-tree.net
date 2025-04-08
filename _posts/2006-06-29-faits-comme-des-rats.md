@@ -57,5 +57,3 @@ Je lui assurais que c'était très sérieux, avant de lui indiquer qu'il fallait
 _La camionnette suspecte et l'entrepôt où nous l'avons suivie._
 
 A l'heure où j'écris ces lignes, j'apprends que la police est sur cette affaire, elle a d'ores et déjà appréhendé plusieurs suspects, et saisi quelques kilos de marchandise qui devait être livrée au Burger Shot à Garcia. Si cette marchandise s'avère être une viande au rabais, les dirigeants de la B.S.C. seront... faits comme des rats. En attendant, si vous êtes tenté de passer dans un Burger Shot à San Fierro, dirigez vous plutôt vers Downtown ou, mieux, Juniper Hollow !
-
-<!--kg-card-end: markdown-->

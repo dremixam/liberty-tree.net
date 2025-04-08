@@ -21,5 +21,3 @@ Mr Leonetti ne s'étant pas exprimé sur les causes du naufrage, nous avons renc
 Il est recommandé à toute personne apercevant une dizaine d'individus de type asiatique dans les environs de Tierra Robada de le signaler aux autorités compétentes au 911.
 
 Apparemment, le Rêve Américain n'existe pas pour tout le monde...
-
-<!--kg-card-end: markdown-->

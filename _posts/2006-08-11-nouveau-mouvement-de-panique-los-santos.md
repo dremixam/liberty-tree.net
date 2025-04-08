@@ -57,5 +57,3 @@ Palomino Creek (library) : 555-020-021
 
 ![Photo de la bibliothèque de Palomino Creek qui sert actuellement de centre de secours.](/content/images/2005/01/bibliotheque_centre_secours.jpg)
 _Photo de la bibliothèque de Palomino Creek qui sert actuellement de centre de secours._
-
-<!--kg-card-end: markdown-->

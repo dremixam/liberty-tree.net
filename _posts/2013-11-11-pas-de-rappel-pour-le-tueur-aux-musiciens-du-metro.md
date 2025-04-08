@@ -33,5 +33,3 @@ Aucune déclaration publique n'a été faite, mais il semblerait que les gestes 
 
 ![La surveillance des lieux publics a été renforcée suite aux agressions visant les musiciens du métro.](/content/images/2016/06/0_0%20%2811%29.jpg)
 _La surveillance des lieux publics a été renforcée suite aux agressions visant les musiciens du métro._
-
-<!--kg-card-end: markdown-->

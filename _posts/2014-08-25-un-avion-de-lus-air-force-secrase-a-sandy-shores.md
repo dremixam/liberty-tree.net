@@ -37,5 +37,3 @@ Par chance, aucun soldat n'a perdu la vie. Certains souffrent de contusions ou d
 _Les secours sont rapidement arrivés sur place._
 
 Le pilote et le co-pilote, indemnes, sont en observation à l'hôpital de Mount Zonah, et seront bientôt interrogés par la police pour connaître les circonstances exactes de l'accident.
-
-<!--kg-card-end: markdown-->

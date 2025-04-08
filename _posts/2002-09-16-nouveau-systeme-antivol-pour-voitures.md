@@ -28,5 +28,3 @@ Celle-ci indique les prix suivants:
 **Interêt mensuel envers l'entreprise:** 100 $
 
 Ce qui fait une facture (cumul) de 2700 $ la première année puis (cumul) 1200 $ tous les ans.
-
-<!--kg-card-end: markdown-->

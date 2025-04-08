@@ -21,5 +21,3 @@ Un pompier interrogé nous a révélé :
 > C'est vraiment un miracle qu'il soit sortie d'un saut comme celui là indemne, surtout avec un vent comme celui là, un peu plus et il finissait dans l'eau avec son véhicule.
 
 Monsieur P. a finalement pu retourner chez lui peu de temps après, retrouver sa femme.
-
-<!--kg-card-end: markdown-->

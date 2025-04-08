@@ -61,5 +61,3 @@ Précise Jallal Jabbar, Président de Inter Mobile & associés chez J&M Saudi In
 
 Pour soutenir sa croissance,&nbsp;Inter Mobile a déjà créé en 2006 plus de 300 emplois directs et indirects par des choix audacieux et des prises de position favorisant les recrutements aux USA, qu’il s’agisse de son siège social à San Fierro, de sa force de vente dédiée en région, de son service client à&nbsp;Los Santos&nbsp;ou de la télévente à Liberty City.&nbsp;Inter Mobile a également investi, tous médias confondus, plus de $24.000.000 en publicité.  
 Dans cette dynamique de croissance, et pour réaliser ses objectifs commerciaux ambitieux,&nbsp;Inter Mobile devrait créer plus de 110 emplois en 2007 et prévoit déjà d’augmenter son budget d’investissement TV de 50%.
-
-<!--kg-card-end: markdown-->

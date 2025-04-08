@@ -66,5 +66,3 @@ La voici maintenant, après un sérieux lifting... Et pas que pour faire joli !
 Quelle vitesse ! Quelle accélération ! Je ne suis pas habitué avec ma petite Previon...(Heureusement que j'avais deux ou trois sacs plastique...)
 
 Voilà, à dans quelques jours pour le compte rendu du salon !
-
-<!--kg-card-end: markdown-->

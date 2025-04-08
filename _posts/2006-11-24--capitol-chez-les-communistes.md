@@ -61,5 +61,3 @@ _Nishgol et son garde du corps (à gauche)._
 _Mme Broush, chargée de l'achat des voix._
 
 Pour finir, nous remercions Joseph Staleine pour nous avoir accueilli, pour nous avoir donné une saucisse-merguez pour le retour ainsi qu'un formidable coffret triple deluxe des Chœurs de l'Armée Rouge. Joseph pense déjà à un inconnu au nom de Croutachef qui pourrait lui succéder et réussir à instaurer le communisme à Vice City. On lui souhaite bien du plaisir...
-
-<!--kg-card-end: markdown-->

@@ -45,5 +45,3 @@ Pour le chef d'accusation de tentatives d'homicides répétés, l'ADNPSA a décl
 _Mrs Jude et Manach, victimes de Zombotech_
 
 C'est maintenant au jury de décider si la société Zombotech est coupable de tous ces chefs d'accusation. Verdict dans la semaine.
-
-<!--kg-card-end: markdown-->

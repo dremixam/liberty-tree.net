@@ -19,5 +19,3 @@ Quand nous lui avons demandé s'il ne pensait pas que cet argent aurait pu être
 Par contre en ce qui concerne son passé criminel, Monsieur le maire nous a déclaré :
 
 > Un homme peut changer, le passé c'est le passé. On en a déjà assez parlé…
-
-<!--kg-card-end: markdown-->

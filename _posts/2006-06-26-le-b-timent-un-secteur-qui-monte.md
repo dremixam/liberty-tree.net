@@ -96,5 +96,3 @@ Enfin, Finalbuild est la société la plus occupée actuellement. Elle a été c
 _Les chantiers en cours de Finalbuild et un premier "rendering" pour Stratosphere Tower._
 
 Certes les chantiers défigurent le paysage mais ce n'est que provisoire et au final, tout le monde ou presque y trouve son compte. Que ce soit pour le tourisme ou pour l'emploi, les nouveaux bâtiments ont quand même un intérêt non négligeable. Et pour Panlantic et Finalbuild, la roue continue de tourner.
-
-<!--kg-card-end: markdown-->

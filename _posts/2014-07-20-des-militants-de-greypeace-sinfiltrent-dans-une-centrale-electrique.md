@@ -34,5 +34,3 @@ _Nathan, membre de Greypeace._
 Je laisse Nathan continuer son combat pour l'écologie dans Blaine County.
 
 Les militants seront jugés la semaine prochaine au tribunal de Los Santos et risquent jusqu'à trois ans de prison ferme, et une lourde amende.
-
-<!--kg-card-end: markdown-->

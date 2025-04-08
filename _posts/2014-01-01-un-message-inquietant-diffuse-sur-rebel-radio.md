@@ -55,5 +55,3 @@ Il est confirmé qu'une enquête a été ouverte.
 _Siège du FIB._
 
 Canular ou réelle menace ? Nous vous tiendrons au courant de l'avancée de l'enquête dans les jours à venir.
-
-<!--kg-card-end: markdown-->

@@ -44,5 +44,3 @@ Une heure plus tard, nous étions à Los Santos, dans le quartier de Marina, non
 _Les écolos au McDo c'est chaud._
 
 Pendant le trajet du retour, McCarthy m'expliqua que bientôt ils s'attaqueraient à une cible plus emblématique encore : le siège du groupe Cluckin Bell. Rassurez-vous, je ne compromets pas les chances de réussite du plan de Ronald, il a une idée bien précise derrière la tête et toutes les mesures de sécurité supplémentaires qui seront mis en oeuvre après publication de cet article n'auront que peu de conséquences sur la réussite de sa mission. Alors d'ici là, surveillez bien votre journal préféré !
-
-<!--kg-card-end: markdown-->

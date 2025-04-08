@@ -63,5 +63,3 @@ Jamy Stone, 39 ans :
 ![](/content/images/2005/01/suspect1.jpg)
 
 Le dernier rebondissement de la journée fut la disparition de l'amiral Hawkins qui sans aucun doute est impliqué dans l'affaire. Les enquêteurs sont en train de faire le rapprochement&nbsp;avec tous les accidents non élucidés et ceux qu'il aurait pu mettre en place, à l'insu de tous, depuis son grade d'amiral. Les deux compères sont maintenant les plus recherchés par l'Etat de San Andréas. Mais s'ils sont arrivés à déjouer tous les services de sécurité pour s'introduire au sein de la brigade marine, j'ai bien peur qu'ils seront plus malin que le LSPD et ne seront jamais arrêtés. Il reste cependant un mystère : pourquoi ce dernier attentat au risque - et c'est ce qui est arrivé - de démolir leur couverture ? Sans doute que l'agent qui conduisait le bateau guide avait trempé dans de sombres affaires et devait une dette non remboursée. Toutefois, la mission du pseudo-amiral était de toute façon terminée puisque la veille de l'attentat, il avait remis sa lettre de démission.
-
-<!--kg-card-end: markdown-->

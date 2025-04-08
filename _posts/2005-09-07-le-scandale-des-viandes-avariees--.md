@@ -35,5 +35,3 @@ Pour de plus amples informations, j’ai interviewé Monsieur Fredrick, directeu
 ![](/content/images/2005/01/burgershot%202.jpg)
 
 L'enquête se terminera la semaine prochaine et les burgers-Shots de Los Santos ne devraient pas rouvrir avant un mois ! Ceux de San Fierro et de Las Venturas subiront d'importants contrôles dans les prochaines semaines.
-
-<!--kg-card-end: markdown-->

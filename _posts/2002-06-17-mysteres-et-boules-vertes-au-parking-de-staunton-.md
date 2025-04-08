@@ -21,5 +21,3 @@ Un autre témoin qui occupait son après midi à boire de la vinasse à l'ombre 
 > Je l'ai vu moi...hips...il aaattrapait les p'tite boules vertes...ah ouais m'sieur les p'tites boules veeertes...burp, quand il les a toutes eu... bah il a sauté comme çaa !
 
 Au visionnage des bandes des cameras de surveillances, pas de trace des boules vertes. Les agissements du 'rocker' sont de plus en plus mystérieux.
-
-<!--kg-card-end: markdown-->

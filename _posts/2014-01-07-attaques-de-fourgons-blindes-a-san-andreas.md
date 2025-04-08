@@ -34,5 +34,3 @@ Le LSPD a lancé un appel à témoins à travers tout l'état de San Andreas : q
 
 ![Un fourgon retrouvé vide dans un hangar.](/content/images/2016/06/Fourgons6_0.jpg)
 _Un fourgon retrouvé vide dans un hangar._
-
-<!--kg-card-end: markdown-->

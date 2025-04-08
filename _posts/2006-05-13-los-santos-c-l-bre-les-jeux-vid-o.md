@@ -47,5 +47,3 @@ Hélas, Degenatron n'avait pas de jeux nouvelle génération à nous montrer car
 _Duality, Bee Bee Gone et They Crawled From Uranus._
 
 Cette édition de l'Electronic Entertainment Expo a été particulièrement chargée, notamment du fait des deux futures consoles qui s'affronteront l'année prochaine. Les jeux présentés par Nintendo nous ont semblé plus aboutis que ceux de Degenatron. Mais il faut relativiser car Dege n'a pas dévoilé de titre next-gen à part le prototype They Crawled From Uranus. Rendez-vous est donc pris l'an prochain pour la nouvelle édition de l'E3. L'attente va être longue pour certains.
-
-<!--kg-card-end: markdown-->

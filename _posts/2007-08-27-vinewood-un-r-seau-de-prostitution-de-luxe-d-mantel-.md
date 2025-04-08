@@ -46,5 +46,3 @@ Pour être sûrs d'avoir des preuves des activités illicites des jeunes filles 
 ![](/content/images/2005/01/0_9985.jpg)
 
 Au même moment, Lynn Phâm était appréhendée dans sa propriété de Rodéo. Elle encourt jusqu'à 10 ans d'emprisonnement pour proxénétisme et la saisie de tous ses biens pour blanchiment d'argent. Les rumeurs prétendent qu'elle menacerait de dévoiler l'identité des personnes qui faisaient appel à ses services si elle était condamnée...
-
-<!--kg-card-end: markdown-->

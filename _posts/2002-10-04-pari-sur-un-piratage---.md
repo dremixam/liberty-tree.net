@@ -18,5 +18,3 @@ Les pirates, vivant à Milwaukee en Illinois aux Etats-Unis, une fois retracés 
 Nous possédons comme informations que le pari se jouait autour des 730'000 $
 
 Jolie brochette mais malheureusement le "mafieu" devra se procurer quelqu'un d'autre pour faire ce pari!
-
-<!--kg-card-end: markdown-->

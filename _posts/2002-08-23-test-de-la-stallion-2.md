@@ -53,5 +53,3 @@ Nous nous retrouvons la semaine prochaine pour un nouvel article, bonne route à
 ![](/content/images/2016/07/Stallion2.jpg)
 ![](/content/images/2016/07/Stallion3.jpg)
 ![](/content/images/2016/07/Stallion5.jpg)
-
-<!--kg-card-end: markdown-->

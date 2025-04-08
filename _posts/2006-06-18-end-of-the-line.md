@@ -75,5 +75,3 @@ _La forteresse de la drogue de Sean Amaru_[L'entrepôt de drogue](/content/image
 ![](/content/images/2005/01/30.jpg)
 ![La zone de sécurité](/content/images/2005/01/29.jpg)
 _La zone de sécurité_
-
-<!--kg-card-end: markdown-->

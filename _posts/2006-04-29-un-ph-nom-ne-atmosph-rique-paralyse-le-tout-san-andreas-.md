@@ -85,5 +85,3 @@ _Le brouillard frappe également San Fierro et Las Venturas_
 Pour le moment, le meilleur conseil que nous puissions vous donner c’est de conduire très prudemment si vous devez prendre la route et que vous vous retrouverez prisonnier du brouillard. Réduisez considérablement votre vitesse, actionnez vos feux d’urgence et gardez vos distances afin de ne pas terminer votre course en vous incrustant dans le pare-choc de la voiture que vous suivez. Et surtout souvenez-vous qu’il vaut mieux d’arriver tard et en un seul morceau que vite et éparpillé sur la chaussée. Prions tous ensemble pour que nous puissions retrouver rapidement la vie que nous avions avant que tout cela ne commence.
 
 Nous vous tiendrons informé sur l’évolution de la situation. N'oubliez pas que c’est dans le _Liberty Tree_ que vous le lirez le premier!
-
-<!--kg-card-end: markdown-->

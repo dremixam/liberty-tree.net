@@ -27,5 +27,3 @@ Cette forme de vol de voiture frappe fortement les esprits car elle est extrême
 La version la plus "soft" du home-jacking est statistiquement la plus courante. Le voleur vous file jusqu'à votre domicile. Il attend ensuite la nuit pour pénétrer dans votre garage. Il repère les clés et s'enfuit avec votre voiture en prenant garde de ne pas vous réveiller.
 
 Heureusement, aujourd'hui il existe des systèmes de verrouillage de portes de voitures automatique. Et pour les maisons, il vaut mieux penser à mettre une alarme.
-
-<!--kg-card-end: markdown-->

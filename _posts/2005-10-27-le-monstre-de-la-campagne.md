@@ -50,5 +50,3 @@ Le gouverneur de San Andreas a pris l'affaire très au sérieux, et envoie l'él
 ![](/content/images/2005/01/gor4.jpg)
 
 Mais seront-ils de taille face au monstre? Nous en saurons peut-être plus prochainement.
-
-<!--kg-card-end: markdown-->

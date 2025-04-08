@@ -40,5 +40,3 @@ Nous avons aussi eu l'occasion de questionner un routier, M. McSadder, passant t
 ![](/content/images/2005/01/int_rieur1.jpg)
 
 Des témoignages imprécis, voilà ce que nous obtiendrons. Évidemment, nous avons pas eu trop le temps d'aller scruter le ciel et c'est ce que nous avons fait la nuit, vers 2h03. En effet, des points lumineux, bien trop rapides pour que ce soient des avions de chasse traversent le ciel. Toutefois, impossible de dire que c'est peut-être des ovni. L'armée ferait-elle dans la censure ? Dans quel but ? Autant de questions que nous pouvons nous poser. Une seule chose est sûre, la vérité est ailleurs...
-
-<!--kg-card-end: markdown-->

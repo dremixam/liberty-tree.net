@@ -34,5 +34,3 @@ Au programme donc de cette journée de tournage à Sandy Shores : l'apocalypse. 
 _Quelques photos du tournage._
 
 Il va sans dire que la sortie de ce film de Jad est très attendue. Après avoir vu de nombreux extraits, nous ne pouvons que vous conseiller de vous précipiter dans les salles obscures à la sortie du film, au mois de mars prochain, car il s'agit du genre de film à ne louper sous aucun prétexte !
-
-<!--kg-card-end: markdown-->

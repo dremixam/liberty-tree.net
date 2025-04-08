@@ -41,5 +41,3 @@ Nous avons pu rencontrer le père de la victime, Patrick Philips :
 ![](/content/images/2016/06/16_5.jpg)
 
 Parle-t-on ici de foi ou de fanatisme, à vous de juger.
-
-<!--kg-card-end: markdown-->

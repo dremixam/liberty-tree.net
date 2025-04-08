@@ -49,5 +49,3 @@ Est-ce que le crash de l'avion aurait un rapport avec son problème d'alcool ? A
 Personne ne le sait.
 
 Au moment où j'écris cet article, j'apprends le bilan: "Une cinquantaine de morts dont les 3/4, des passagers du vol 240-7, et le reste, des passants." Cela est le seul détail que les autorités nous ont dévoilé. Nous vous tiendrons au courant des dernières nouvelles à ce sujet.
-
-<!--kg-card-end: markdown-->

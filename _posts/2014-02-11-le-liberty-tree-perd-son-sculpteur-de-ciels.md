@@ -38,5 +38,3 @@ Pour clore cet épisode chers lecteurs, je vous propose d'en rester sur plusieur
 ![](/content/images/2016/06/0_0_169.jpg)
 ![](/content/images/2016/06/0_0_170.jpg)
 ![](/content/images/2016/06/0_0_171.jpg)
-
-<!--kg-card-end: markdown-->

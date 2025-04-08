@@ -32,5 +32,3 @@ Malgré tout, ces courses restent dangereuses y compris pour les joueurs et les 
 ![](/content/images/2016/06/Capture%20d%E2%80%99%C3%A9cran%202013-12-18%20%C3%A0%2002.52.54.png)
 
 En attendant on espère que ces actes refroidiront les pilotes en herbe voulant prendre part à ces activités nocturnes. Malgré tout je vais savourer ma pseudo-victoire de ce soir, et prier pour que mon chef me laisse en vie.
-
-<!--kg-card-end: markdown-->

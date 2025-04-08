@@ -31,5 +31,3 @@ Katt Williams, Ricky Gervais et Frankie Boyle sont les plus connus, mais d'autre
 _Ricky Gervais et Katt Williams, deux stars de l'humour._
 
 C'est le début d'une nouvelle ère pour l'humour à Los Santos, et le Split Sides West devrait encore attirer de nombreux clients, occasionnant des rentrées d'argent importantes. Des rumeurs courent déjà sur une ouverture d'un club à San Fierro, Vice City, ou Las Venturas. Seul l'avenir nous dira si ces rumeurs s'avèrent fondées ou non.
-
-<!--kg-card-end: markdown-->

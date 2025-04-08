@@ -34,5 +34,3 @@ Voici les photos que j'ai ramené de cette escapade routière.
 ![](/content/images/2016/07/highway5.jpg)
 ![](/content/images/2016/07/highway6.jpg)
 ![](/content/images/2016/07/highway7.jpg)
-
-<!--kg-card-end: markdown-->

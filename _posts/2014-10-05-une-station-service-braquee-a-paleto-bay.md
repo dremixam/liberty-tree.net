@@ -40,5 +40,3 @@ _Lee Jiang._
 Lee Jiang peut donc s'avérer heureux, il s'en sort indemne et il aura récupéré la totalité du butin volé. Cette mauvaise expérience lui aura permis d'en tirer une leçon :
 
 > **Lee Jiang, bridé light :** Désormais, j'y réfléchirai à deux fois avant d'approcher d'un véhicule aux vitres teintées sans être vigilant !
-
-<!--kg-card-end: markdown-->

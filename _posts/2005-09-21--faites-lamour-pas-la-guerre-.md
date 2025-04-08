@@ -61,5 +61,3 @@ De plus, la prostitution mérite qu'on lui consacre un dossier complet, vu son i
 
 ![Les rues de San Fierro la nuit](/content/images/2005/01/Pimp_01.jpg)
 _Les rues de San Fierro la nuit_
-
-<!--kg-card-end: markdown-->

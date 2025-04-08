@@ -55,5 +55,3 @@ Toujours est-il qu'il faut absolument redresser la barre, car cette baisse signi
 _Les candidats déçus ont préféré s'isoler._
 
 Quoi qu'il en soit, le Liberty Tree félicite tous les diplômés, et souhaite bon courage à ceux qui ne l'ont pas obtenu, ce n'est pas bien difficile. Même si certains collègues (et ex-collègues) du Liberty Tree ne l'ont toujours pas obtenu. Et espérons que l'an prochain, le taux de réussite repassera au-dessus des 70%...
-
-<!--kg-card-end: markdown-->

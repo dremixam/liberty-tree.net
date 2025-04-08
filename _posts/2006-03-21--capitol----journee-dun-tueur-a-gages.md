@@ -54,5 +54,3 @@ Un tueur à gages ne coûte pas si cher, comme on aurait pu le penser. Néanmoin
 C'est sur cette action qu'Antonio nous a dit au revoir. Ne vous en faites pas, il s'en est sorti tranquillement. Le prochain numéro de Capitol portera sur la brigade des stupéfiants à Liberty City : Comment les homes de cette brigade gèrent-ils la corruption ? Prennent-ils autant de risques qu'on veuille bien le croire ? Il y a t-il des meurtres illégales commandité par la mafia ?
 
 ![](/content/images/2005/01/affiche.jpg)
-
-<!--kg-card-end: markdown-->

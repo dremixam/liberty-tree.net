@@ -55,5 +55,3 @@ Dans la rue, les citoyens sont soulagés d'apprendre que ces armes ne se retrouv
 Celui-là n'est pas un fan des vox pop, un peu normal puisqu'il s'agit d'un sympathisant des OGF. Il était mieux pour nous de ne pas traîner dans le secteur.
 
 Le message est donc envoyé, avis aux criminelles, n'égarez pas vos flingues car il ne vous sera pas facile de les remplacer. L'opération nettoyage vient de débuter, il faut donc se préparer à d'autres coup d'éclat comme celui réalisé par le ATF. Nous leur souhaitons la meilleures des chances !
-
-<!--kg-card-end: markdown-->

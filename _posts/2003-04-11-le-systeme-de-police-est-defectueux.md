@@ -16,5 +16,3 @@ On comprend donc que notre brave maire veut faire quelque chose de la situation.
 > En plus, _dit-elle_, cela augmentera la réputation de Liberty City comme ville très décadente devenue de moins en moins dangereuse.
 
 Mais pour moi, ceci n'est qu'une parole en l'air, faite pour les naïfs et les victimes de la politique qui ne la connaissent pas assez bien pour rassurer la populace.
-
-<!--kg-card-end: markdown-->

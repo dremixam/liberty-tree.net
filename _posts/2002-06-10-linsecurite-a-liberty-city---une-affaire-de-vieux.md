@@ -17,5 +17,3 @@ Comme vous avez pu le constater les sondages se multiplient et je suis sur que n
 Devant la menace grandissante, nous sommes partis à la chasse aux images pour le "Liberty Tree", l'opération PLV (Photographie La Vioque) était lancée.
 
 Un grand Merci à notre jeune reporter sans peur à qui nous devons ces clichés qui a tout de même perdu quelques dents et sa Banshee durant "l'opération".
-
-<!--kg-card-end: markdown-->

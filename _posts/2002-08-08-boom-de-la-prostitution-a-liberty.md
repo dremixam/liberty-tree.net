@@ -20,5 +20,3 @@ Les prix des prostituées varient entre 20 $ et 35 $, la moyenne étant de 25 $.
 Nous ignorons toujours pourquoi ce marché à augmenté, "mais ce qui compte c'est qu'il ait augmenté!" comme dirait certains maquereaux.
 
 Sachez que la prostitution à Liberty est légale à condition de verser un pourcentage à la ville, ce qui fait bien sur l'affaire de la municipalité.
-
-<!--kg-card-end: markdown-->

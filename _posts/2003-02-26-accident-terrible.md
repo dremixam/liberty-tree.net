@@ -16,5 +16,3 @@ Tous les matins, elle empruntait le pont shoreside, mais ce jour là, le pont s'
 
 Les secours n'ont rien pu faire pour la femme qui n'a toujours pas été retrouvée, cet événement tragique pousse les citoyens de la ville à poser une question a notre pourri de maire: 'pourquoi ne pas avoir investi dans des barrières automatiques?'  
 En attendant, le corps de la jeune femme n'a pas été retrouvé et les recherches devraient se poursuivre pendant 3 jours encore.
-
-<!--kg-card-end: markdown-->

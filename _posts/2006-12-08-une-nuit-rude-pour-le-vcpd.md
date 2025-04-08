@@ -53,5 +53,3 @@ De retour à Washington Beach, nous observons pendant un court instant un début
 Le VCPD annonce que c'était le dernier jour de violences dans ces quartiers . Affaire à suivre...
 
 ![](/content/images/2005/01/voiturebrul_3.jpg)
-
-<!--kg-card-end: markdown-->

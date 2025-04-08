@@ -38,5 +38,3 @@ _Photos prises depuis l'hélico du Liberty Tree._
 _Photo de la Mercury de V. Rosenthal prise par les plongeurs du LSPD._
 
 A l'heure actuelle, la police de Los Santos valide l'hypothèse du règlement de compte. En effet, les trois victimes étaient en relation avec la mafia de Los Santos dont le parrain, Marcello Sinciti déjà soupçonné du meurtre de Tom Player (voir article du 24/04/2006) reste introuvable. Il s'avère aussi que Theodore Salagas, Pauli Salieri et Victor Rosenthal avaient demandés une protection rapprochée pour eux ainsi que leurs familles auprès de la police de Los Santos en échange d'informations importantes sur l'organisation de Sinciti. Le meurtre de Tom Player ayant certaines similitudes avec les trois règlements de compte d'hier (T. Player avait été retrouvé criblé de balles dans sa propre Mercedes), Marcello Sinciti risque une lourde peine d’emprisonnement pour les quatre assassinats dont il serait le commanditaire.
-
-<!--kg-card-end: markdown-->

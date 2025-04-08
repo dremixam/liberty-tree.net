@@ -49,5 +49,3 @@ _La puissante italienne du maire de LS était apparue en couverture du magazine 
 _Une situation qui n'est pas prête de s'arranger._
 
 Merci à Special-K pour m'avoir trouvé un exemplaire de Turbo.
-
-<!--kg-card-end: markdown-->

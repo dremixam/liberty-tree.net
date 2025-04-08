@@ -40,5 +40,3 @@ La police criminelle de Los Santos mène toujours l'enquête sur cette mort trag
 > Cette mort est un vrai scandale. c'est affreux, voir inhumain ! C'est vrai, qui va vider les affaires de son bureau ? Vous vous imaginez même pas le bordel que ce type a pu foutre en si peu de temp.
 
 Certains journalistes ont aussi été entendus par la LSPD mais ces derniers ont très vite été disculpés. Pavlov, par exemple, ne pouvait se trouver sur les lieux du crime car il se trouvait au même moment au tournoi du plus grand château de cartes de l’état de San Andreas. Quand à moi, j'assistais à la finale de curling des poussins de San Fierro.
-
-<!--kg-card-end: markdown-->

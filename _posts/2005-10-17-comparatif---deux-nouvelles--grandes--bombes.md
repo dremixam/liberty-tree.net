@@ -69,5 +69,3 @@ Prix 32.000 $
 Alors, si vous avez assez d'argent, la CLS 500 est à vous, mais si vous n'avez pas les moyens de l'acheter et que vous voulez goûter au sport et au luxe, la V12 est faite pour vous; moi, je n'ai pas encore assez d'argent, mais, j'économise pour la V12 !
 
 Cet article m'a coûté 200 $ d'amende pour excès de vitesse.
-
-<!--kg-card-end: markdown-->

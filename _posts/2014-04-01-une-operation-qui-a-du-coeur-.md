@@ -30,5 +30,3 @@ Après de longues discussions, on décide de prévoir l'opération pour le mardi
 _Photo d'archives d'Adam Feeney._
 
 Adam Feeney sera autorisé à quitter l'hôpital d'ici quelques jours. Il devrait ensuite observer une longue période de repos, chez lui, dans le quartier de Dukes, avant de peut-être reprendre le travail.
-
-<!--kg-card-end: markdown-->

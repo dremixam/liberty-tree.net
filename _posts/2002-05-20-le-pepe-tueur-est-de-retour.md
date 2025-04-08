@@ -14,5 +14,3 @@ L'explosion a provoqué l'effondrement de la paroi extérieure de la cellule où
 Les policiers qui sont sur l'enquête pensent que le Cartel Colombien est responsable de cette évasion : plusieurs personnes ont dit avoir vu un 4x4 bleu sortir précipitamment du commissariat juste après l'explosion. De plus, les Colombiens sont à la recherche de nouveaux «mass-killers» pour pouvoir en finir avec leurs ennemis jurés les Yakuzas (information confirmée par la taupe qui infiltre le Cartel depuis un certain temps déjà).
 
 L'inspecteur ajouta quelques mots à propos de son enquête : « Je ne laisserai jamais une telle fripouille dégrader notre belle ville ». Affaire a suivre...
-
-<!--kg-card-end: markdown-->

@@ -38,5 +38,3 @@ Toujours est-il qu'aujourd'hui, à San Andreas, Up-N-Atom supplante Burger Shot 
 _Le restaurant de Vinewood Boulevard._
 
 Ainsi, Up-N-Atom, 66 ans plus tard, a su garder ses traditions tout en s'ouvrant à la publicité et aux offres commerciales. Espérons pour eux que la société continuera de surfer encore de longues années sur la vague du succès...
-
-<!--kg-card-end: markdown-->

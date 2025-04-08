@@ -32,5 +32,3 @@ Et dans un second temps, et c’est là le plus loufoque : la police a mis sur p
 ![](/content/images/2016/06/0_0_217.jpg)
 ![Le camp Altruiste et la gravure étrange.](/content/images/2016/06/0_0_218.jpg)
 _Le camp Altruiste et la gravure étrange._
-
-<!--kg-card-end: markdown-->

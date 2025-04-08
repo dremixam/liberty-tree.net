@@ -37,5 +37,3 @@ C'est sur ces déclarations plus que douteuses que nous avons pu montrer à quel
 
 ![](/content/images/2005/01/Tank.jpg)
 _Photos by weezer and Pliskin©_
-
-<!--kg-card-end: markdown-->

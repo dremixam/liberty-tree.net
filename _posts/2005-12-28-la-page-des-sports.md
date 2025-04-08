@@ -320,5 +320,3 @@ Les deux relégables de 1ère Ligue, Palomino Creek et Dillimore, sont au coude 
 7. Las Venturas Moons | 0 | 20 | 42 | -22
 
 8. Blueberry Berries | 0 | 22 | 44 | -22
-
-<!--kg-card-end: markdown-->

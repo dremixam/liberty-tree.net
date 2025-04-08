@@ -75,5 +75,3 @@ Le drapeau de son pays à la main, Sébastien Lib est heureux d'avoir gagné. Le
 > Ah enfin! je l'attendais cette victoire ! je suis content et fier d'avoir gagné ici, à Las Venturas. Bien sûr c'est dommage pour les autres pilotes ainsi que pour ce qui sont out, mais faut voir ca du bon côté, ce n'est pas toujours les mêmes qui gagnent et c'est ça qui fait la magie du sport! Je remercie mon équipe ainsi que tous ce qui m'ont soutenus ! Au revoir !
 
 Heureux d'avoir gagné, il fêta sa victoire avec son équipe ainsi qu'avec les autres participants. C'est pour ça que le sport est beau, la solidarité est toujours présente malgré les rivalités entre les écuries et les pilotes...
-
-<!--kg-card-end: markdown-->

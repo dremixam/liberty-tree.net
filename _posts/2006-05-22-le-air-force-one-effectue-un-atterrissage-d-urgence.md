@@ -40,5 +40,3 @@ Petit cours d'histoire - Saviez-vous que c'est au président Teddy Roosevelt, en
 Ce n'est seulement qu'en 1962 que la célèbre firme Boeing a obtenu le contrat du tout premier "_Air Force One_". Bien qu'il s'agissait au début d'un modèle 707 doté d'une configuration quasi standard, ce n'est que quelques année plus tard que l'avion a été remplacé par le modèle 747 que l'on connais aujourd'hui. Celui-ci possède en autre la capacité de ravitailler en plein vol et est équipé à la fine pointe de la technologie.
 
 Le "Air Force One" est sans contredit le _nec plus ultra_ des transporteurs aérien.
-
-<!--kg-card-end: markdown-->

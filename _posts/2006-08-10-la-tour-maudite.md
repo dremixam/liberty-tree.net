@@ -60,5 +60,3 @@ L'opération nettoyage et de reconstruction commencera très bientôt mais pour 
 Une enquête a été ouverte afin de déterminer la cause de l’incendie mais déjà des éléments importants renforcent la thèse du problème électrique. De plus, nous apprenons que plusieurs survivants auraient formé un groupe afin d’intenter un recours collectif contre le propriétaire de l’immeuble qu’ils tiennent personnellement responsable de ce drame puisqu’il connaissait la vulnérabilité de l’édifice en l’absence des gicleurs, et malgré cela il n’a pris aucune mesure pour s’assurer que personne ne courrait de risque. &nbsp;Ce dossier risque donc d’alimenter les journaux du pays pour encore bien longtemps.
 
 Le personnel et la direction du Liberty Tree adressent leurs plus sincères condoléances à ceux et celles qui ont perdu un être proche ou un(e) ami(e) dans cette tragédie.
-
-<!--kg-card-end: markdown-->

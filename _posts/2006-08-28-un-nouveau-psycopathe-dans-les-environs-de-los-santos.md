@@ -52,5 +52,3 @@ Nous avons déjà deux indices, quel sera le prochain ?
 Le meurtrier va-t'il refaire parler de lui ?  
 Qui est cet homme ?  
 Le Liberty Tree vous tiendra au courant de l'avancement de l'enquête !
-
-<!--kg-card-end: markdown-->

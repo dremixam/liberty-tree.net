@@ -49,5 +49,3 @@ Nous vous proposons grâce aux chiffres de Mr. Caine un pourcentage du taux gén
 _Courbe du taux de crimes (en % par habitants par mois) Janvier-Mai_
 
 Pour les personnes intéressées, l'entrée est au prix de 7$ pour les adultes et 2$ pour les enfants. Pour les moins de 8 ans, c'est gratuit, n'hésitez pas à y faire un petit tour.
-
-<!--kg-card-end: markdown-->

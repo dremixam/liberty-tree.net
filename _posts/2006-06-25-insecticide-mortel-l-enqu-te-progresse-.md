@@ -40,5 +40,3 @@ Dans un bulletin spécial diffusé à la télévision en après-midi, le gouvern
 _Impossible d'approcher le gouverneur à sa sortie du studio de télévision._
 
 Bien&nbsp;qu'il soit actuellement très difficile d'obtenir des réponses, nous continuerons nos recherches et vous tiendrons informés sur la situation à mesure qu'elle évoluera. Pour le moment, il est essentiel de faire preuve d'une très grande compréhension et ne pas vous laisser rattraper par la folie qui a gagné quelques citoyens. Il est également important de rapporter toute condition médicale douteuse à votre département de santé local ou à votre médecin de famille.
-
-<!--kg-card-end: markdown-->

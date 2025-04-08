@@ -35,5 +35,3 @@ Dans son testament, le Caporal souhaitait être enterré dans ses terres natales
 Si vous voyez cette homme, veuillez appeler la police le plus vite possible, et ne vous en approchez surtout pas.
 
 ![](/content/images/2016/06/zzzz.jpg)
-
-<!--kg-card-end: markdown-->

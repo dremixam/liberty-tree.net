@@ -84,5 +84,3 @@ _Richard et Kimberly Parker (résidents depuis seulement 1 an)_
 En attendant, l'anxiété gagne la population et les détaillants de ce produit ont mis leur lot sous verrou, suivant la directive du gouverneur de San Andreas.
 
 Le temps ne serait t'il pas venu de développer des nouvelles méthodes offrant une protection aux cultures au lieu de nous baser uniquement que sur l'usage de produits chimique. Savez-vous vraiment par où sont passé les légumes qui sont dans votre assiette? Vous sentirez-vous rassurer en mordant dans un épis de blé d'inde ou lorsque vous dégusterez une salade ou cette tomate? Voilà bien des questions que serez en droit de vous poser en repensant à ce qui est arrivé à ce malheureux fermier.
-
-<!--kg-card-end: markdown-->

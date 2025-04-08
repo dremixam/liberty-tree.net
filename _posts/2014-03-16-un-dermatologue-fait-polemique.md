@@ -42,5 +42,3 @@ Nous avons pu nous entretenir avec une victime de Drecker, Lisa Black, qui s'ét
 > **LB :** Il utilise un faux nom : il ne s'appelle pas Emilio Drecker mais Emilio Drekeropachimokatiboustakinari, je ne sais pas d'où il vient mais il n'a jamais fait d'études de médecine. Il a été vendeur de hot-dog à Liberty City avant d'avoir l'idée de devenir escroc ici.
 
 Lisa Black a alors porté plainte contre le Mount Zonah Medical Center et a touché la somme de 225 000$ de dommages et intérêts. A Los Santos, il est préférable de se méfier de tout le monde, même des médecins...
-
-<!--kg-card-end: markdown-->

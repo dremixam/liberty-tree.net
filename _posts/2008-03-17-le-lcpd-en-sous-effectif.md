@@ -33,5 +33,3 @@ Après toutes ces bonnes raisons, comment ne pas vouloir rejoindre l'élite de L
 ![](/content/images/2005/01/lcpd1.jpg)
 ![Prêt à faire régner l'ordre et la justice ?](/content/images/2005/01/lcpd2.jpg)
 _Prêt à faire régner l'ordre et la justice ?_
-
-<!--kg-card-end: markdown-->

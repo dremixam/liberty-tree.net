@@ -35,5 +35,3 @@ _La patrouille sur le point de décoller du toit du quartier général de l'arm�
 Depuis cet événement tragique, le niveau de l'eau a considérablement baissé et la situation devrait redevenir normale d'ici quelques jours. Bien que tragique, cette inondation nous a noyé les gangsters les plus recherchés de la ville, ce qui est, avouons-le, plutôt&nbsp;une bonne&nbsp;nouvelle.
 
 A l'heure qu'il est, des chercheurs parmi les plus compétents de Liberty City sont&nbsp;à la recherche de l'origine de cette inondation, pour éviter que cela ne se reproduise.
-
-<!--kg-card-end: markdown-->

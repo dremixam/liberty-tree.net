@@ -19,5 +19,3 @@ Nous avons pu interroger ce dernier lors de sa sortie du commissariat de San Fie
 > J'étais tranquillement devant mon ordinateur, en train de jouer au dernier UnderStrike quand j'ai reçu un courrier électronique. Ne recevant pas fréquemment de mails, je me suis empressé d'aller le lire, il contenait simplement un message disant: "Tape ZEIIVG". Ne comprenant pas l'importance de ce geste et imaginant qu'il s'agissait encore d'une de ces blagues stupides que l'on trouve souvent sur la toile je me suis exécuté et je n'ai compris les effets de mon acte que lorsque le FBI a frappé à la porte de ma chambre
 
 Ce matin, l'origine du mystérieux courrier électronique reste inconnue, les autorités rappellent qu'il est fortement déconseillé de lire les messages provenant de pirates informatiques et que tout acte de piratage est considéré comme du terrorisme.
-
-<!--kg-card-end: markdown-->

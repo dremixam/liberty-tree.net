@@ -16,5 +16,3 @@ Quand on sait que notre commerce est avant tout basé sur les casino, les BD por
 Leur première victime: la Mafia. En une semaine à peine, ils ont fait fermer leurs boutiques de magazines pour adultes, interdit toute leurs séries de jeux vidéo « Cake III Arena » et condamné leurs usines de pizza car celle-ci contenaient des OGM, un comble !
 
 Le maire ayant été acheté, une société secrète a été crée par des révolutionnaires, des racailles, des mafieux et moi. On a commencé à voler des armes et des voitures, et on a posé des bombes devant le siège des MdD Ça va défourailler à mort !
-
-<!--kg-card-end: markdown-->

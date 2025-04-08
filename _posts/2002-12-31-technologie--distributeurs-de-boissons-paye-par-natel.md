@@ -23,5 +23,3 @@ Sachez qu'un distributeur comme ça coûte vers les 3 000 $.
 C'est un objet, style jet-set, qui en fait, contribue à l'évolution quotidienne humaine.
 
 Toute l'équipe du Liberty Tree vous souhaite une bonne année!
-
-<!--kg-card-end: markdown-->

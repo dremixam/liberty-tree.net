@@ -130,5 +130,3 @@ _LT_ : Pour finir, quels sont vous projets personnels et professionnels pour le 
 _N_ : Personnellement, je vais changer le spoiler de ma S55 AMG car un taxi a oublié que la priorité est à droite et professionnellement, continuer de tester des véhicules pour nos chers habitants de LC sur le Liberty Tree et pour le NAC, beaucoup beaucoup d'idées sont en cours de réalisation.
 
 > _LT_ : Merci d'avoir répondu à nos questions.
-
-<!--kg-card-end: markdown-->

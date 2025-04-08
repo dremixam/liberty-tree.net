@@ -31,5 +31,3 @@ Le partenaire de Jason Paisley, Franck Macintosh, décrit le mini-van comme éta
 _Le Dodge Caravan et la Audi des complices de Lopez._[Le parking où l’échange de véhicule a été effectué.](/content/images/2005/01/titancap.jpg)
 
 Le LSPD a mis en place un barrage filtrant et tente d'intercepter tout véhicule correspondant à ce signalement, mais malgré les nombreux moyens déployés pour cette opération, aucun résultat positif n'est, au jour d'aujourd'hui, à déclarer. Si vous repérez ce type d'automobile, ou si vous pensez avoir croisé le visage d'Enrique Lopez, contactez sans attendre le 911.
-
-<!--kg-card-end: markdown-->

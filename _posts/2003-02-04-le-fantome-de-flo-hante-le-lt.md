@@ -20,5 +20,3 @@ Flo serait-il revenu de l'au delà pour nous hanter éternellement ? Personne ne
 En attendant, la vie a repris au Liberty Tree et notre rédacteur en chef RR4 estime qu'il vaut mieux prendre la chose avec philosophie.
 
 > **RR4 :** On va utiliser tous les messages de Flo comme papier toilette, ça va nous permettre de faire des économies.
-
-<!--kg-card-end: markdown-->

@@ -47,5 +47,3 @@ Je vous laisse jeter un petit coup d’œil aux exploits de John mais faites bie
 ![](/content/images/2016/07/jump7.jpg)
 ![](/content/images/2016/07/jump8.jpg)
 ![](/content/images/2016/07/jump9.jpg)
-
-<!--kg-card-end: markdown-->

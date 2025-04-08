@@ -40,5 +40,3 @@ La principale piste avancée par la police est celle des fans hystériques qui n
 _La police devant le siège de Rebel Radio._
 
 En attendant, Rebel Radio n'a pas souhaité communiquer à ce sujet, déclarant juste que ce "petit indicent" ne changerait en rien sa politique de fonctionnement, et qu'aucun changement ne serait à prévoir. La radio a également annoncé avoir accordé quelques jours de repos à l'animateur Patrick Anderson, le temps de se remettre de cette violente agression, plus fanatique qu'agressive...
-
-<!--kg-card-end: markdown-->

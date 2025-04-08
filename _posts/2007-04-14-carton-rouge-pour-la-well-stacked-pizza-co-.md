@@ -49,5 +49,3 @@ Route nationale : 90 km/h
 Autoroute : 140 km/h
 
 Bonne route avec le Liberty Tree !
-
-<!--kg-card-end: markdown-->

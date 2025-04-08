@@ -38,5 +38,3 @@ Curieux de savoir pourquoi les développeurs sortaient de telles nullités, j'ai
 > Notre seul but est de ravir toutes les familles ne pouvant pas acheter de jeux à $60. Chez Dalivex, nous faisons des produits de qualité pour toute la famille. Nous sommes un des seuls studios pouvant faire des jeux en quinze jours alors que la concurrence a besoin d'une vingtaine de mois pour créer un produit. De plus, pour ceux qui n'ont vraiment pas d'argent, nous organisons un Dalivex Tour à Blueberry où tous les fans pourront s'échanger leur jeux Dalivex. J'en profite pour vous dire que les saucisses apéros coûteront $6 pièces (faut bien rentabiliser la journée, quoi).
 
 > Commencez&nbsp;donc à retirer de l'argent. Chacune de ces précieuses choses&nbsp;coûtent environ $15 (certains trouveront ça encore trop cher) donc, ne vous en privez pas, achetez-en pour toute la famille si il faut. Quant à moi, je vais aller refourguer ces jeux&nbsp;aux lecteurs passionnés de merveilles vidéo-ludiques&nbsp;!
-
-<!--kg-card-end: markdown-->

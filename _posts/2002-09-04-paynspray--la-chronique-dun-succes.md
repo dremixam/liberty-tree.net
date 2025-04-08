@@ -31,5 +31,3 @@ Lors du reportage deux véhicules étaient exposées: une Kuruma noire métal av
 ![](/content/images/v1/user23/Pay02.jpg)
 
 Je me suis moi-même laissé convaincre et j'attends avec impatience une Cheetah cabriolet avec jantes chromées.
-
-<!--kg-card-end: markdown-->

@@ -40,5 +40,3 @@ J'ai pu réussir à l'interviewer malgré cette foule dense :
 Après que Mr.Everything ait reçu son diplôme, il repartit sans demander son reste en promettant quand même à la foule que son prochain record sera encore plus fabuleux .
 
 Bien sûr, je serais là pour ce prochain record, pour vous tenir au courant cher(e)s fidèles lecteurs (lectrices).
-
-<!--kg-card-end: markdown-->

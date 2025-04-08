@@ -35,5 +35,3 @@ M. Richards et M. Carrveson ont immédiatement été placé en garde à vue, con
 La population de Montgomery vit aujourd’hui sous la peur, craignant un nouveau meurtre. Quant au fourgon, il a été déplacé dans les locaux de la police car il s’agit d’un élément précieux d’enquête.
 
 Nous vous tiendrons au courant de l’avancement de cette affaire et souhaitons que les habitants de Montgomery retrouvent vite le calme et le répit que peut leur offrir la campagne de Red County.
-
-<!--kg-card-end: markdown-->

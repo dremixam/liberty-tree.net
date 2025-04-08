@@ -31,5 +31,3 @@ Cet entretien a donc dû évidemment être écourté bien précipitamment. Il es
 
 ![Les dernières traces sur Terre de Matthew.](/content/images/2016/06/0_0_61.jpg)
 _Les dernières traces sur Terre de Matthew._
-
-<!--kg-card-end: markdown-->

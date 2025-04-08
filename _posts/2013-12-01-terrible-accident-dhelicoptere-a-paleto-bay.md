@@ -30,5 +30,3 @@ Le mystère n'est que plus grand. Qui a tiré sur l'hélicoptère ? Les enquête
 Les quelques pistes ne sont pas avérées. L'armée n'effectuait pas d'exercice, et aucun tir n'a été effectué depuis Fort Zancudo. Merryweather avait un sous-marin stationné au large de Paleto Bay. Mais là aussi, la milice privée affirme n'avoir effectué aucun tir, même si les principaux soupçons se tournent vers eux. L'hypothèse d'un tir perdu et involontaire est plausible, mais il faudrait quand même un sacré concours de circonstances pour que l'hélicoptère ait été touché involontairement. L'enquête suit son cours, espérons avoir du nouveau rapidement...
 
 ![](/content/images/2016/06/Helico1_0.jpg)
-
-<!--kg-card-end: markdown-->

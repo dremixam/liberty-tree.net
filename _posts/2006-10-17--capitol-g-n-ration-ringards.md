@@ -72,5 +72,3 @@ Le soir, nous repartons très vite à l'aéroport en refusant poliment l'invitat
 
 ![Le karaoké du Malibu Club, lieu de rendez-vous incontournable de tous les ringards (Vous pouvez voir l'ami Josh déguisé en motard).](/content/images/2005/01/karaok_.jpg)
 _Le karaoké du Malibu Club, lieu de rendez-vous incontournable de tous les ringards (Vous pouvez voir l'ami Josh déguisé en motard)._
-
-<!--kg-card-end: markdown-->

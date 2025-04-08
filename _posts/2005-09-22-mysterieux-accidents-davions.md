@@ -30,5 +30,3 @@ C'est en cherchant une réponse à cette question que les policiers ont pu faire
 D'après les premières conclusions du shérif, les avions volant à basse altitude auraient traversé cette fumée et leurs pilotes respectifs auraient eu des comportements anormaux et dangereux entraînant la fin que l'on connaît.
 
 Le point positif dans cette affaire et la conclusion de cet article, c'est que l'on peut espérer que les victimes ont eu une fin joyeuse.
-
-<!--kg-card-end: markdown-->

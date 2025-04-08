@@ -25,5 +25,3 @@ Les prostitués quand à elles continuent leur mouvement de contestation, en obl
 ![](/content/images/2016/06/staunton_a_2.jpg)
 ![](/content/images/2016/06/staunton_a_3.jpg)
 ![](/content/images/2016/06/staunton_a_4.jpg)
-
-<!--kg-card-end: markdown-->

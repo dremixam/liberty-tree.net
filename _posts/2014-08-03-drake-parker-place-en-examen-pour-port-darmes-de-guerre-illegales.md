@@ -32,5 +32,3 @@ Nous avons pu parler au juge qui allait mettre fin à cette affaire à la convoc
 > **Juge Aarone O'Finer :** Ces deux gars là ont de très bons avocats, avec peu de preuve comme ça, nous aurons énormément de mal à les mettre en prison, et s'ils sortent au jugement, l'affaire sera élucidée et ils seront nommés non coupables, ils seront peut être même sortis d'ici samedi. Parmi les armes nous avons pu découvrir des AK-47, lances-roquettes, bombes collantes, M16, fusils à pompe... Donc ça fait une belle armurerie.
 
 Nous vous tiendrons au courant des dernières nouvelles, pour le moment restés connectés sur le Liberty Tree.
-
-<!--kg-card-end: markdown-->

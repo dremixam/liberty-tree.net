@@ -32,5 +32,3 @@ Nous nous sommes alors rendus sur un lieu de construction, à la rencontre du ch
 La ville est donc face à ce problème qui en engendre de nouveaux, mais pas de solution à l'horizon. Peut être que certaines réformes verront le jour...
 
 Le maire, quant à lui, a refusé toute déclaration.
-
-<!--kg-card-end: markdown-->

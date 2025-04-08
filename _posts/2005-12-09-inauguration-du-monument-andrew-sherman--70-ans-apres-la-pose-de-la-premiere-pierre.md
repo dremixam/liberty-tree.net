@@ -27,5 +27,3 @@ Jusqu'en 1986, le barrage Sherman fournissait en énergie la quasi totalité de 
 C'est donc après une courte cérémonie accompagnée de la fanfare de Fort Carson, que le gouverneur, après un long discours, a inauguré le monument Sherman, en hommage à tous les ouvriers et concepteurs de cette prouesse technologique. Des colombes ont ensuite été lâchées pour rendre hommage aux victimes de la catastrophe du 2 septembre 2005. Enfin, des tirs au fusil symboliques ont été effectués par la garde nationale de Las Venturas, tirs auxquels a succombé une bonne centaine de colombes, sous le regard effaré de John Andrew Sherman, également membre de la ligue de protection des oiseaux.
 
 ![](/content/images/2005/01/Sherman_7.jpg)
-
-<!--kg-card-end: markdown-->

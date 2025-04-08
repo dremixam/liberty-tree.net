@@ -42,5 +42,3 @@ C'est donc un fait divers tragique qui aura légèrement écorné la réputation
 > **Pierce Evans, gérant du Hookies :** Oui, ce sont des gens bien. Ils font un peu de saletés parfois, quand ils boivent, mais ils paient toujours leurs consommations. Il ne font jamais de mal à personne. Des gens plutôt tranquille, en somme.
 
 Il ne reste plus qu'à espérer que le tueur sera rapidement retrouvé et mis derrière les barreaux, tout en croisant les doigts pour qu'il ne commette pas d'autre massacre dans la région...
-
-<!--kg-card-end: markdown-->

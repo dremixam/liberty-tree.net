@@ -32,5 +32,3 @@ Nous n'avons aucune description à vous fournir, la police reste en alerte. Selo
 Des experts analysent en ce moment même des traces de sang qui proviendraient des voleurs.
 
 Nous vous tiendrons au courant dès que la police aura découvert l'identité des voleurs.
-
-<!--kg-card-end: markdown-->

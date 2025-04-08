@@ -94,5 +94,3 @@ Pare-choc renforcé design "Punisher" (800$)
 Le nouveau moteur est un grand PLUS pour le H² qui se devait de se refaire une beauté. Malgré ça, le côté esthétique du véhicule reste le même, ce qui est dommage. Dans les options vous retrouverez quand même de nouvelles jantes (couleurs au choix) ou un nouveau pare-choc qui donne un air plus "agressif" qu'il ne l'est déjà au H².
 
 Pour tout achat ou essais de véhicules, veuillez visiter nos partenaires en page d'accueil merci.
-
-<!--kg-card-end: markdown-->

@@ -24,5 +24,3 @@ Aujourd'hui, malgré une petite baisse de régime, le Liberty Tree ne cesse de s
 
 ![Les bureaux du LT à Liberty City.](/content/images/2005/01/666lowerstaunton.jpg)
 _Les bureaux du LT à Liberty City._
-
-<!--kg-card-end: markdown-->

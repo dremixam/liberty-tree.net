@@ -55,5 +55,3 @@ _Le taxi de Maximilien après l'accident._[](/content/images/2005/01/max.jpg)
 _Maximilien, héro d'une nuit et Vincent, tueur à gages désormais derrière les barreaux._
 
 Le Liberty Tree tient par ailleurs à remercier les forces de police pour le détail des événements de cette macabre soirée.
-
-<!--kg-card-end: markdown-->

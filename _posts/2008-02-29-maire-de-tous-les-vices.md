@@ -39,5 +39,3 @@ Rappelons qu'Isabella Ciccone est également membre du conseil d'administration 
 _Depuis ce fameux soir, le City Hall est surveillé de près par le LSPD._
 
 Avec tout ce qu'il se passe dans notre ville, nous sommes en droit de nous demander qui prend les décisions à l'Hôtel de ville, le maire Carter ou le crime organisé? Une question qui risque de demeurer d’actualité pour encore très longtemps. Est-ce que des nouvelles élections serait la solution, ce sera aux citoyens de décider.
-
-<!--kg-card-end: markdown-->

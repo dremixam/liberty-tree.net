@@ -31,5 +31,3 @@ Passe-Partout aurait donc été victime d'un guet-append. Nous n'avions plus de 
 > **DrEmixam :** Avec ses tendances sado-maso, j'ai toujours cru qu'on retrouverait PP crucifié dans un donjon, habillé en cuir avec un minibus dans le cul. C'est fou comme on peut se tromper sur les gens, ça me laisse perplexe.
 
 Toujours est-il que la série noire continue au Liberty Tree, et que la faucheuse [semble en avoir après nos journalistes](/2014/04/21/un-deuxieme-journaliste-retrouve-mort/). La faucheuse, si tu lis ces lignes...J'ai de l'argent, on peut négocier...
-
-<!--kg-card-end: markdown-->

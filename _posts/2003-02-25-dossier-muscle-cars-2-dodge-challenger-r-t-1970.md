@@ -58,5 +58,3 @@ Et voici quelques clichés de cette superbe Dodge
 ![](/content/images/2016/07/Chall5.jpg)
 ![](/content/images/2016/07/Chall9.jpg)
 ![](/content/images/2016/07/ChallSpeed.jpg)
-
-<!--kg-card-end: markdown-->

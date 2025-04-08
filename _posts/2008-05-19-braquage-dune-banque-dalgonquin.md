@@ -20,5 +20,3 @@ _Eugene Reaper, tentant de s'opposer aux gangsters..._
 Le corps du braqueur abattu a été identifié comme étant celui de Michael Keane. Les trois autres individus se sont frayés un chemin au milieu des forces de l'ordre pour finalement prendre la fuite par le métro. Actuellement, la police interroge tous les associés connus de Michael Keane, afin de dévoiler l'identité de ses complices. Nous avons tenté d'interroger Lucas Silverste, responsable de la sécurité de l'agence Bank of Liberty d'Algonquin, mais ce dernier a préféré ne pas répondre à nos questions. De sources fiables, nous savons que ce drame a fait au total 23 morts dont 5 civils. Il aura aussi remis en question la sécurité des banques de Liberty City, mais aussi d'autres grandes villes tels que Las Venturas, Los Santos et San Fierro. La banque réouvrira dans la semaine.
 
 La Bank of Liberty affirme que le butin s'élèverait à plus d'un million de dollars.
-
-<!--kg-card-end: markdown-->

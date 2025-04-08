@@ -25,5 +25,3 @@ Les grands perdants de cette entrée fracassante dans le XXIe siècle sont... Le
 _La grande banque centrale Maze et une agence Fleeca, Los Santos._
 
 Il n'est pas encore question de licenciement dans un groupe comme dans l'autre, mais les employés se posent des questions. Plus de dépôts physiques est synonyme de coffres vides, et l'intérêt d'une banque sans liquidités étant très limité, leur avenir pourrait bien se voir chamboulé dans les mois à venir.
-
-<!--kg-card-end: markdown-->

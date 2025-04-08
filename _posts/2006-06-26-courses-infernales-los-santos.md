@@ -78,5 +78,3 @@ Une voiture aux formes effilées, elle en veut terriblement, déjà pour le styl
 
 Au final, les courses de Los Santos ne sont pas accessibles à n'importe qui : déjà il faut avoir une demeure dans Richman pour pouvoir se payer sa tire, mais aussi être assez dingue pour faire des courses de rue avec.  
 Soyez raisonnable, il ne faut pas risquer sa vie, surtout celle des autres. A bientôt dans un autre reportage !
-
-<!--kg-card-end: markdown-->

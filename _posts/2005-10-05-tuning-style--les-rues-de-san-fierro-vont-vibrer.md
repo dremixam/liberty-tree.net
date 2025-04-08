@@ -59,5 +59,3 @@ Fin de ce petit tour, mais le tuning style reste à San Fierro jusqu'à Lundi, f
 ![](/content/images/2005/01/2imgG.jpg)
 
 Nous remercions les partenaires: Pay'n Spray, Wheel Archs Angels, Transfender et Wang Cars.
-
-<!--kg-card-end: markdown-->

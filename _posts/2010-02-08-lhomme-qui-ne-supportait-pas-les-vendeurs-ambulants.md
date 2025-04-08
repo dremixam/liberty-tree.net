@@ -40,5 +40,3 @@ L’agent Saunderson a bien voulu nous prêter main forte afin de nous donner pl
 A ce jour, la police a arrêté quelques milliers de suspects.  
 « Peut-être devrions nous les fouiller pour voir s’ils sont armés d’abord… » vient de déclarer l’officier McCormick.  
 Toute personne ayant des informations sur le tueur ou qui aurait un surnom à proposer est priée de se rendre au commissariat de police le plus proche. Elle se verra remettre une récompense de 10$, une étoile de shérif en plastique et un pistolet à impulsions électriques.
-
-<!--kg-card-end: markdown-->

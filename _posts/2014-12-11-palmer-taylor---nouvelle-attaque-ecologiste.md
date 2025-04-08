@@ -27,5 +27,3 @@ _Bryan Anderson._
 L'organisation écologiste Greypeace annonce de son côté qu'elle n'est en aucun cas liée à ce qu'il se passe dans la centrale.
 
 Mais ces deux personnes risquent beaucoup, s'ils sont reconnus coupables. D'après la Cour suprême de San Andreas, ils risqueraient entre un et deux ans de prison ferme avec 95 000 dollars d'amende. Et la destruction des aéronefs.
-
-<!--kg-card-end: markdown-->

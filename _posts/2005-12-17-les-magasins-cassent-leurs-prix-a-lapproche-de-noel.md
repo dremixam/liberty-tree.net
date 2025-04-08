@@ -42,5 +42,3 @@ Nous avons interviewé Roberto Scantamburlo, directeur du magasin Gnocchi à Rod
 > **R.S. :** Ma no ! Binco triche en proposant des prix si bas, c'est illégal ! Jé vais saisir le concilio de la concurrenzia ! Jé vais les attaquer en justicia !
 > 
 > **LT :** Bien merci monsieur Scantamburlo.
-
-<!--kg-card-end: markdown-->

@@ -84,5 +84,3 @@ Finalement, le public a choisi de sauver la vie de Johanna. Kevin (du moins ce q
 Et voilà, cette grande aventure prend fin. Vivement la deuxième saison, ou on nous promet des alligators nains à la place des poules. En attendant, j'ai personnellement trouvé cette saison assez ennuyeuse. La production a délaissé l'action et le gore au profit des aventures amoureuses des participants et ça, bon nombre des spectateurs n'a pas apprécié. On espère que des M-16 seront à la disposition des candidats la prochaine fois...
 
 Affaire à suivre.
-
-<!--kg-card-end: markdown-->

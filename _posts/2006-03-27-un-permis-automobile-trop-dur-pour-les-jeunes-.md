@@ -46,5 +46,3 @@ _Le Maire de San Fierro, Aaron McCormick_
 Nous espérons donc voir d'ici peu des résultats concluants de ces initiatives proposés par Mr McCormick, initiatives certes tranchantes mais qui peuvent porter leurs fruits!
 
 **Photos&nbsp;par NelsoN.**
-
-<!--kg-card-end: markdown-->

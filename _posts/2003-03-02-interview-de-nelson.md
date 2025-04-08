@@ -44,5 +44,3 @@ mécano au NelsoN Auto Custom:_
 > **LT :** Merçi NelsoN et bonne chance pour votre avenir très prometteur.
 
 > **N :** Merci will, bonne chance à vous aussi .
-
-<!--kg-card-end: markdown-->

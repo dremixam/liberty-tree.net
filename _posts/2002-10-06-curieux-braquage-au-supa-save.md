@@ -32,5 +32,3 @@ tags:
 > _O'B_: Laissez-nous faire notre travail, nous trouverons le coupable et je vous assure que vous serez les premiers informés.
 
 _Propos recueillis par Pierrealex_
-
-<!--kg-card-end: markdown-->

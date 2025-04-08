@@ -67,5 +67,3 @@ Tout ceci nous fait peur, car on doit commencer à se méfier de tout, même du 
 _Avis aux consommateurs: Si vous avez mangé un produit venant de l'un des magasin 24/7 de Los Santos, vous êtes prié de vous rendre à l'hôpital le plus proche afin de bénéficier d'un test complet (facturé 200$)._
 
 _Numéro Vert mis en place: **(485)-264-21**_
-
-<!--kg-card-end: markdown-->

@@ -55,5 +55,3 @@ Aujourd'hui, la faune de ces plaines désertiques a disparu, et surtout les "rat
 ![](/content/images/2005/01/usine.jpg)
 
 Ne prenant pas part au combat, nous sommes immédiatement partis, espérant que le gouvernement du pays réagisse à ces troubles qui sévissent dans San Andreas. Au moment où nous écrivions, le budget écologie avait été débloqué...pour financer la construction de centrales nucléaire. Drôle de façon de gérer le budget qui va sûrement attirer le mécontentement de certains.
-
-<!--kg-card-end: markdown-->

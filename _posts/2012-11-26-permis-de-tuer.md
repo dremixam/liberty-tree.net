@@ -29,5 +29,3 @@ Mais il n'empêche que la majorité des gens qui abusent de la télévision sont
 Le maire a beau s'opposer à [la proposition du candidat à la gouvernance de l'état Madd Dogg](/2012/11/19/dossier---faut-il-liberaliser-la-vente-des-armes-a-feu--/), il n'en reste pas moins que la télévision représente un danger bien plus réel pour la population que l'omniprésence des armes dans notre société. Et pourquoi ne pas supprimer tout simplement les taxes et limitations imposées à la vente d'armes pour les appliquer à la télévision ? Le courage n'est pas la première qualité de nos hommes politiques, on se doute donc naturellement qu'une telle décision n'est pas pour demain.
 
 [Source](http://www.lepoint.fr/societe/jeux-video-permis-de-tuer-27-11-2012-1534002_23.php)
-
-<!--kg-card-end: markdown-->

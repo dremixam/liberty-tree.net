@@ -20,5 +20,3 @@ Pas facile d'obliger un automobiliste, opprimé depuis des années par des limit
 ![](/content/images/2005/01/Barrage1.jpg)
 
 C'est au professeur Horst Schlacter (cf. photographie 4) que l'on doit cette prouesse. Il faut savoir que non seulement l'appareil est compatible avec tous les véhicules en circulation à San Andreas, mais aussi qu'il est capable de faire tourner en surrégime les moteurs des véhicules lents, pour permettre par exemple à une bonne vieille Perennial d'atteindre tout naturellement les 150 km/h. Ce système, interdit en ville où la vitesse est toujours limitée à 50 km/h, est rendu obligatoire sur autoroute et en rase campagne. Pour pallier les quelques problèmes existants, comme les rares explosions de moteur ou les quelques carambolages supplémentaires provoqués (augmentation de 125 % des accidents corporels), les forces de l'ordre parcourent et surveillent sans relâche nos belles routes (cf. photographie 5, un contrôle de routine).
-
-<!--kg-card-end: markdown-->

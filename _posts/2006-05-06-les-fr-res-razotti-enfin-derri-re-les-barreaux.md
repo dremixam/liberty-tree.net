@@ -39,5 +39,3 @@ Le maire de Vice City nous à fait une déclaration ce matin en réaction à la 
 > Je suis extrêmement fier de mon administration et de mes hommes qui ont accomplis un travail remarquable. Et je ne vais pas hésiter à dire que c'est grâce à mes policiers et à mes fonctionnaires que tout cela à été possible. Une fois de plus, l'efficacité des services de police de ma ville ne sont plus à démontrer.
 
 Cette histoire est une bonne occasion pour Mr le maire de redorer son blason auprès des citoyens trop souvent déçus par les échecs intempestifs des services de police.
-
-<!--kg-card-end: markdown-->

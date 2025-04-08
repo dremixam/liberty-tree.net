@@ -19,5 +19,3 @@ Il a bien fallu que je m’éloigne le plus vite possible, et en oubliant totale
 J'ai décidé de profiter de la plage de sable pour sortir du bateau (j'ai horreur de l'eau, j'ai vu bien trop de gens se noyer dans 20cm d'eau), et à peine avais-je touché le sable que mon bateau était déjà en feu: il avait tiré dessus jusqu'à le faire exploser, le sauvage!
 
 Ensuite, il m'a longuement regardé, droit dans les yeux, avec un sourire sadique aux lèvres, l'air de dire: « Que j'te revois plus traîner dans mon quartier! », puis il est parti.
-
-<!--kg-card-end: markdown-->

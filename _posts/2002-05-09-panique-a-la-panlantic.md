@@ -15,5 +15,3 @@ Cette entreprise était encore embryonnaire il y a quelque années, elle n'avait
 Pour blanchir l'argent, le Cartel commandait, par l'intermédiaire d'une société écran, la construction de bâtiments gigantesques, qu'il payait à Panlantic Construction à prix d'or. Les immeubles étaient ensuite construits rapidement pour un coût bien inférieur, le Cartel ré-empochant la différence. Ce système à même conduit à l'édification d'immeubles complètement inhabitables : Beaucoup de bâtiments de notre belle ville sont en réalité totalement vides, ce sont juste de belles façades creuses. On imagine facilement la quantité d'argent blanchi lors d'une telle construction.
 
 Fort heureusement, ce trafic a pris fin hier avec l'arrestation de Pablo Montana et les autres dirigeants de la Panlantic. La construction d'un immeuble de plus de trente étages au nord de Staunton Island à été interrompue, laissant au chômage une cinquantaine de personne.
-
-<!--kg-card-end: markdown-->

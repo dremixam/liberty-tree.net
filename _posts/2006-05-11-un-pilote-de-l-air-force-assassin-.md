@@ -59,5 +59,3 @@ _La shady cabin_
 Si un chasseur avait pris pour cible accidentellement ce pilote ? Peu probable, on ne chasse pas la nuit, et une balle de fusil ne pourrait pas abîmer un avion comme ca.
 
 Alors si quelqu'un vivait dans cette cabane et se sentait agressé ? Le fait que le sergent n’était pas équipé de lunette de vision nocturne peu expliquer qu'il ne s'est pas défendu, n'ayant probablement pas repéré le tireur. L’enquête avance peu et il est probable que l'on ne trouve jamais le responsable de la mort du sergent. Sa femme réclame d’ailleurs 4 000 000 $ de dommages et intérêt, en défendant que les secours ne sont jamais arrivés.
-
-<!--kg-card-end: markdown-->

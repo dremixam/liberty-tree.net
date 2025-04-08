@@ -79,5 +79,3 @@ Nous nous rencontrons dans le Burger de Staunton Island, mon interlocuteur à l'
 
 Sur ces dernières paroles, l'agent Ytrebil s'en est allé comme il était venu.  
 En tout cas, ce qu'on peut en conclure, c'est qu'avec des policiers comme ceux-ci le tueur va pouvoir encore passer de longues journées dehors à tuer des jeunes prostitués innocentes.
-
-<!--kg-card-end: markdown-->

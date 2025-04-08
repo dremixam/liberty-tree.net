@@ -37,5 +37,3 @@ Nous nous sommes déplacés jusqu'à Los Santos dans l'état de San Andreas pour
 > Mon cousin est un con ! Je lui ai toujours dit de faire attention à ce qu'il disait dans ses chansons et le voilà maintenant dans de beaux draps... Je me souviens, en 1998, dans la chanson The Death Of The State, il avait lancé des menaces de mort contre le maire de Liberty City. Il a passé 6 mois en prison et Dieu seul sait si maintenant ça sera pire...
 
 Le procès débutera le 22 février. Crazy Dogg, le PDG d'Head Radio ainsi que les diffuseurs de la station seront présents au tribunal.
-
-<!--kg-card-end: markdown-->

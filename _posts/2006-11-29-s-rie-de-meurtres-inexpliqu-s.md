@@ -36,5 +36,3 @@ Malgré la controverse ainsi que la mauvaise publicité faite contre Fernando Es
 «&nbsp;Ce sera une belle déco à mettre sur la tablette de sa cellule au pénitencier&nbsp;»,&nbsp;dit l’agent Ferguson lorsque nous lui avons demandé ce qu’il pensait de ces honneurs fait à Fernando Escobar.
 
 Sur le terrain, les agents de la brigade des stupéfiant continuent de ramasser les indices et se tiennent sur le qui-vive car selon certaines informations il pourrait y avoir d’autres victimes, ce qui expliquerait pourquoi certains dealers ont été mis sous étroite surveillance policière dans l’espoir de faire la lumière sur toute cette affaire.
-
-<!--kg-card-end: markdown-->

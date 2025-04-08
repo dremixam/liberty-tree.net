@@ -23,5 +23,3 @@ Isabella Wongfield se promenait paisiblement près du stade de Staunton Island�
 Mais ils n'ont pas tous eu cette chance, 15 piétons ont été renversé par Déesse, c'est le nom qu'il donne à sa Sentinelle.
 
 Pour que ce genre de tragédie ne se reproduise plus, la mairie envisage d'augmenter le nombre de lampadaires afin d'avoir des routes mieux éclairées et donc plus sûres.
-
-<!--kg-card-end: markdown-->

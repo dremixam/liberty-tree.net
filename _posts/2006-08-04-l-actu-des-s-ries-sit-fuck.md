@@ -49,5 +49,3 @@ Pour le directeur des programmes de Love Media TV, James Bourken&nbsp;cette sér
 _Les célèbres studios Inter Global Films auront servis au tournage de la série._
 
 D'ailleurs, le titre "Sit/Fuck" a posé de réels problèmes pour la commission de censure. Pourtant, Ringad Mourfish a tout de même convaincu ces messieurs qu'il fallait garder ce titre évoquant la vrai valeur de la série. Evidemment, la série a été placé en seconde partie de soirée juste après _Emergency._
-
-<!--kg-card-end: markdown-->

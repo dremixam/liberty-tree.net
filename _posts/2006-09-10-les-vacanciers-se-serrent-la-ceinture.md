@@ -29,5 +29,3 @@ Une tendance qui ne devrait vraiment pas améliorer le moral des hôteliers&nbsp
 ![](/content/images/2005/01/verdant.jpg)
 ![L'aérodrome de Verdant Meadrows.](/content/images/2005/01/verdant2.jpg)
 _L'aérodrome de Verdant Meadrows._
-
-<!--kg-card-end: markdown-->

@@ -41,5 +41,3 @@ Lors du salon de l'auto de Liberty City, nous avons pu rencontrer Chin Ko-Wan, P
 
 ![](http://www.liberty-tree.net/screens/screenshots/karin3.jpg) 
 Des centaines de Liberticiens vont bientôt recevoir leurs Dilletente, dont l'attente a déjà dépassée les 6 mois pour certains.
-
-<!--kg-card-end: markdown-->

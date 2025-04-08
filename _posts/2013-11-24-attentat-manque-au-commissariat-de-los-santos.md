@@ -20,5 +20,3 @@ Ce sont les agents de police en poste devant le commissariat, hilares, qui ont p
 Les terroristes, âgés de 17 à 19 ans sont sans emploi et connus des services de police pour détention de marijuana et militantisme subversif, ils seront mis en examen pour "tentative de suicide sur la voie publique ayant entraîné des dégradations et des troubles à l'ordre public", en effet la destruction du moteur du véhicule a entraîné une salissure de la chaussée et du marquage au sol, le coût des réparations est estimé à 33 $.
 
 Une personne âgée a fait un infarctus en raison d'une crise de rire incontrôlable en assistant à la tentative de fuite désespérée des jeunes terroristes en herbe, qui ne parvenaient pas à sortir de leur véhicule alors qu'ils étaient encerclés par les forces de police, sous les applaudissements et les acclamations des passants qui ont filmé la scène à l'aide de leur téléphone portable.
-
-<!--kg-card-end: markdown-->

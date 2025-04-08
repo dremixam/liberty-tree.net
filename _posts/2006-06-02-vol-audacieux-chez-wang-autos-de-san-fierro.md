@@ -43,5 +43,3 @@ Ce travail d'arrache pieds aura porté fruit puisqu'il a permis l'arrestation de
 _Arrestation de Roberto Valdez sous les yeux de ses acolytes (type en camisole/bretelles sur la photo du centre)_
 
 Pour le moment, Valdez aura tout le temps voulu de perfectionner un autre art derrière les barreaux puisqu'il a écopé d'une sentence de 4 ans de prison ferme.
-
-<!--kg-card-end: markdown-->

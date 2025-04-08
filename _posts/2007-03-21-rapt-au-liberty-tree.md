@@ -36,5 +36,3 @@ Le LSPD croit de plus en plus à la thèse de l'enlèvement et le lieutenant Cal
 _Documents datants de l'époque où Heinrich travaillait pour les services secrets Russes._
 
 A ce jour, beaucoup de questions restent sans réponses. Pourquoi Heinrich a-t-il quitté l'Europe ? Est-il en possession d'informations top-secrètes dont le gouvernement Soviétique ne souhaiterait révéler ? L’enquête mène, en tout cas, son cours, mais de nombreux mystères restent à être élucidés.
-
-<!--kg-card-end: markdown-->

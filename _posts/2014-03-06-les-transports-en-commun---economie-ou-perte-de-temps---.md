@@ -32,5 +32,3 @@ _Olivia Bennedetto, usagère de la ligne passant par Phillbox Hill._
 > Mon mari et moi travaillons tous les deux, et comme ce n’est pas exactement au même endroit c’est lui qui prend la voiture. Le réseau de transport est mauvais certes, mais il y a pire je pense, comme l’efficacité de la police de LS par exemple. On travaille comme des forcenés pour offrir à nos enfants le meilleur confort possible, et on risque tous les jours de se le faire voler par des voyous sans que la police ne puisse rien y faire ?
 
 Les citoyens ont bien conscience des problèmes liés aux transports en commun, mais comme c’est un cercle vicieux lié à la société toute entière, ils ne peuvent pas y faire grand chose. Une grève générale ou un boycott des transports sèmerait sans doute simplement la zizanie une journée sans changer grand chose, tant que les patrons des grosses sociétés s’en mettent plein les poches. Tiens, le rédac’ chef du Liberty Tree fait peut être bien partie de ces patrons-là. Alors grève générale des journalistes pour lundi prochain ?
-
-<!--kg-card-end: markdown-->

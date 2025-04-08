@@ -40,5 +40,3 @@ Ce fut le dernier message de la part de notre correspondant anonyme.
 
 ![Le detective Stavros.]()
 _Le detective Stavros._
-
-<!--kg-card-end: markdown-->

@@ -36,5 +36,3 @@ _M.Klym, un fervent joueur de golf_
 > **Liberty Tree :** Oui, hum. Je vous remercie d'avoir bien voulu nous répondre et j'espère que votre voix sera prise en compte.
 
 En attendant que le projet soit discuté, nous vous tiendrons au courant de l'avancement de cette affaire.
-
-<!--kg-card-end: markdown-->

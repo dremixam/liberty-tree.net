@@ -45,5 +45,3 @@ Plus drôle encore, l'avis de la personne qui s'occupe du bien-être de l'émiss
 
 ![Les disquaires n'aiment plus trop les starlettes de Star University.](/content/images/2005/01/disquaire.jpg)
 _Les disquaires n'aiment plus trop les starlettes de Star University._
-
-<!--kg-card-end: markdown-->

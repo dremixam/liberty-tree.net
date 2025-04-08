@@ -72,5 +72,3 @@ _Le type de lance flamme utilisé par Chabro El Burito_
 Parmi les objets perquisitionnés sur place se trouvait justement un lance flamme dans le coffre arrière de la voiture personnelle de _El Burito_. La police scientifique vont effectué plusieurs test pour déterminer si c'est le même qui a servit pour supprimer _Jeffrey Home_. Certaines sources affirment que _Chabro_ était à Liberty City pour s'attaquer à nul autre que _Ousaki_, le parrain des _Yakusas_. Il lui réservait le même sort que celui de _Home_. « _Les forces de l'ordre sont intervenu juste à temps pour éviter un autre bain de sang_ » a déclaré le chef de police de Liberty City, au moment d'annoncer la capture de _Chabro_ aux journalistes réunis devant le quartier général.
 
 Une nouvelle qui rassurera la population, et les pompiers également. Nous levons notre chapeau aux autorités pour ce magnifique coup de filet!
-
-<!--kg-card-end: markdown-->

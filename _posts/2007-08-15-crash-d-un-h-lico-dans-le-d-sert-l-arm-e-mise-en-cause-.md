@@ -51,5 +51,3 @@ Cette version est effectivement troublante, ce militaire est maintenant caché d
 _La salle de contrôle de la zone 69._
 
 Mais rien n'explique pourquoi un simple hélicoptère de tourisme a été abattu volontairement, un homme au courant de choses gênantes dans l'appareil ? En regardant la liste des passagers on ne découvre que des simples employés de bureau au passé simple, il faut croire que que l'homme était fou, l'Etat Major a déjà entamé son enquête.
-
-<!--kg-card-end: markdown-->

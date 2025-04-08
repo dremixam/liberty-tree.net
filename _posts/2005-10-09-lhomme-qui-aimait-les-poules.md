@@ -38,5 +38,3 @@ La nuit finit par tomber, Ash est sur ses gardes. Il décide de se poster dans s
 Deux jours plus tard, le suspect est à peu près vivant lorsqu'il avoue avoir violenté la volaille du fermier. Ce dernier porte plainte pour "bourrage de poule", il ne sera pas inquiété pour les quelques blessures infligées qui relèvent évidemment de la légitime défense. Le criminel en question se nomme Mark Carter, 34 ans, serveur chez Cluckin' Bell. Selon son avocat, son acte s'expliquerait par un état de folie passagère. Dans ce cas, pourquoi retourner sur les lieux du crime le lendemain ? Carter risque entre 2 et 358 années de prison. Son procès débutera dans quelques jours.
 
 ![](/content/images/2005/01/poul6.jpg)
-
-<!--kg-card-end: markdown-->

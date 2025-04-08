@@ -45,5 +45,3 @@ Nous avons interrogé le président de la San Andreas Federal Mint pour savoir c
 > **Liberty Tree :** Merci Mr. Fedge d'avoir répondu à nos questions.
 
 Vous l'aurez compris, fraudeurs, nous n'êtes à l'abri de rien !
-
-<!--kg-card-end: markdown-->

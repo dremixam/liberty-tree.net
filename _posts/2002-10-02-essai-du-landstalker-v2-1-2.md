@@ -81,5 +81,3 @@ A la semaine prochaine et bonne route à Liberty City !
 ![](/content/images/2016/07/Land6.jpg)
 ![](/content/images/2016/07/Land7.jpg)
 ![](/content/images/2016/07/Land8.jpg)
-
-<!--kg-card-end: markdown-->

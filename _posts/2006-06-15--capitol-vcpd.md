@@ -67,5 +67,3 @@ A l'heure où nous imprimions, Sonny Patey et Ricardo Tules étaient virés pour
 > Nous avons fait une énorme erreur en engageant ces deux rigolos. Grâce à eux, nous sommes la risée des bandits et de tout le reste de la vermine de cette ville. Mais dites vous bien qu'avec mes futures réformes, le vice n'existera plus et il faudra renommer cette ville ! Mais je dois vous laisser car j'ai une enveloppe et un peu de cok..heu, farine, à aller chercher...
 
 Une chose est sûre, la police de Vice City comporte beaucoup de vices dans ses rangs.
-
-<!--kg-card-end: markdown-->

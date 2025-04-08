@@ -24,5 +24,3 @@ Ces mesures sévères ont déclenché des émeutes dans toute la ville. Un fou f
 Les banlieues à risque ont été interdites d'accès par des barrages du FBI et de l'armée. Cette zone sera désormais réservée à des essais nucléaires, et a été entièrement évacuée, selon le maire.
 
 Pourtant, de nombreux SOS ont été lancés depuis cette région. Une étrange agitation règne dans ces quartiers, et des bagarres ont été signalées. « Des entraînements de commandos », affirme le maire… Une débilité de plus pour les citoyens. En tout cas, sûrement pas la fin des problèmes de la ville.
-
-<!--kg-card-end: markdown-->

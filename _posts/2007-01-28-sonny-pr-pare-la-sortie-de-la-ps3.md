@@ -33,5 +33,3 @@ Au final,&nbsp;on attend juste que quelques uns s'amusent avec la PS3 pour qu'el
 
 ![Le jeune "Player", Tanguy](/content/images/2005/01/08764.jpg)
 _Le jeune "Player", Tanguy_
-
-<!--kg-card-end: markdown-->

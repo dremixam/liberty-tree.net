@@ -70,5 +70,3 @@ Je ne peux pas terminer cette article sans remercier mon photographe, Steven Riv
 Je remercie également de façon individuelle toutes les personnes que nous avons croisées durant la nuit et qui nous ont aidé à leur manière par leur soutien, leur générosité et pour leurs témoignages. C'est dans des moments difficiles que se tissent les liens de l'amitié, ne l'oublions jamais afin que pareil crise ne se répète plus.
 
 Merci beaucoup.
-
-<!--kg-card-end: markdown-->

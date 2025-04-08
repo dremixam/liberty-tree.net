@@ -76,5 +76,3 @@ En attendant d'en savoir plus sur ce tragique incident, quelques collègues ont 
 > **Pavlov :** Lol, le champagne, tu as vu.
 
 > **Mr R :** Y'a pas à dire, ça craint.
-
-<!--kg-card-end: markdown-->

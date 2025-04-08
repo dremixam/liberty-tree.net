@@ -32,5 +32,3 @@ _L'achalandage a beaucoup diminué dans les Burger Shot. Est-ce que cette chaîn
 Pour le moment l’enquête et les analyses se poursuivent mais sur le terrain, nous remarquons que beaucoup moins de gens se précipitent chez Burger Shot pour aller goûter au tout nouveau Big-Shot. Complot ou non, si le propriétaire ne parvient pas à regagner la confiance du public nous pouvons facilement deviner que cette mésaventure risque de placer son entreprise dans une position très délicate.
 
 Pendant ce temps, la chaîne Well Stacked Pizza et Cluckin’Bell connaissent une forte hausse de leur clientèle, comme quoi le malheur de l’un fait le bonheur des autres.
-
-<!--kg-card-end: markdown-->

@@ -33,5 +33,3 @@ Avec: Mike Michael, Miguel, Misty, Darkel, 8 ball...
 Durée: 2h50  
 Note: 15/20  
 The Tunnel est le film de l'année, avec plein d'actions et de courses poursuites. L'adrénaline sera au rendez-vous.
-
-<!--kg-card-end: markdown-->

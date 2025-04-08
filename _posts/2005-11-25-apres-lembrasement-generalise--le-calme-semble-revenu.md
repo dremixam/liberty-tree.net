@@ -56,5 +56,3 @@ Le gouvernement et l'ensemble des autorités semblent avoir été profondément 
 Quand le ghetto brûle... les premiers brûlés n'y sont pas étrangers...
 
 ![](/content/images/2005/01/Emeutes_25.jpg)
-
-<!--kg-card-end: markdown-->

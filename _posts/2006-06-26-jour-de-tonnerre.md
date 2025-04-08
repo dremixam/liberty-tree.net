@@ -48,5 +48,3 @@ Nous avons rencontré Teddy Linden juste après sa victoire. Une interview à ch
 > **LT :** C'est en tout cas tout le mal que je vous souhaite ! Bon courage pour les prochaines courses, Teddy !
 
 La prochaine course de Nascar aura lieu sur la célèbre piste de Daytona en Floride, et il se pourrait bien que Teddy Linden fasse de nouveau des étincelles...
-
-<!--kg-card-end: markdown-->

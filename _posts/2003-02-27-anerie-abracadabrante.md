@@ -20,5 +20,3 @@ On ne sait pas qui a exécuté cet acte de vandalisme, cependant, c'est plutôt 
 A priori, quand on voit le négatif, on ne voit pas le positif, et quand on voit le positif on ne voit pas le négatif. Et bien les flics de Liberty l'ont pris positivement, ce qui est bien.
 
 Les frais de peinture pour "rafraîchir" l’immeuble de la police coûtera 55 000 $.
-
-<!--kg-card-end: markdown-->

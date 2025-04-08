@@ -29,5 +29,3 @@ L'interview s'achève sur ces mots...
 Les manifestants font actuellement passer des pétitions mais le plus étrange, c'est que les ventes ne cessent d'augmenter. Ces petites figurines vous coûteront près de 15 $ et sont en vente dans toutes les grandes surfaces de Los Santos et Las Venturas. Par contre, à San Fierro, vous les trouverez seulement dans les boutiques spécialisées et pour la modique somme de 10 $.
 
 Le lancement des poupées "Lance Vance" a déjà commencé dans San Fierro, va bientôt arriver dans Los Santos mais est interdit dans Las Venturas, là ou les manifestations sont les plus importantes. Toutes les figurines sont accompagnées d'un petit carnet avec toutes les informations sur la figurine.
-
-<!--kg-card-end: markdown-->

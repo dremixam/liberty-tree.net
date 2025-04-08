@@ -31,5 +31,3 @@ D'après M. Cumps, Jipé était loin de vouloir agir de manière violente, il av
 La folie de M. Valet s’enchaîna dès lors. Il descendit un autre spectateur, sortit dans la rue, finit par abattre une passante et se donna la mort dans l'allée qui jouxte le Queens.
 
 La police enquête depuis hier sur ce geste incompris, d'après M. Gotz, psychologue de la police de San Fierro, c'est la remise en cause de sa sexualité qui a entraîné ce carnage. L’identité des victimes n'a pas encore été communiquée.
-
-<!--kg-card-end: markdown-->

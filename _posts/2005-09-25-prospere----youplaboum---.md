@@ -97,5 +97,3 @@ _Les modèles comme cette Remington ou cette Tornado sont en vogue en ce moment_
 > **JMS:** Rentrez bien !
 
 C'est donc au volant d'une superbe Remington que je rentrai chez moi. Pour des raisons bizarres, Juan Miguel Suances n'a pas souhaité être pris en photo, mais il est certain que la Suances Transport and Rescue connaîtra un grand succès.
-
-<!--kg-card-end: markdown-->

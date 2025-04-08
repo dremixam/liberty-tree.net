@@ -47,5 +47,3 @@ Joseph Rabon, spécialiste en armes à feu et protections contre les balles,&nbs
 De nombreuses modifications ont été apportées à la police suite au braquage, car elle s'est rendue compte que les balles de 9MM des armes&nbsp;de la&nbsp;SAPD&nbsp;n'avaient presque pas d'effets sur les braqueurs à cause de leurs protections. A partir de maintenant la police sera équipée en&nbsp;armes provoquant plus de dégâts dans des situations de ce genre.
 
 Cette fusillade a bien mis en valeur l'énorme creux qu'il y a entre les moyens des criminels et ceux de la police...
-
-<!--kg-card-end: markdown-->

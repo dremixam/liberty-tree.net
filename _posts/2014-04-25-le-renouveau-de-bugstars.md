@@ -41,5 +41,3 @@ Notre visite sur les quais a permis de constater que l'entrepôt marchait à ple
 _L'entrepôt de Bugstars tourne aujourd'hui à plein régime._
 
 La publicité faite dans notre journal à donc payé. Sachez pour finir que la société Bugstars offre la première inspection à votre domicile, donc si vous pensez avoir des rats ou autres insectes chez vous, n'hésitez plus, et appelez Bugstars !
-
-<!--kg-card-end: markdown-->

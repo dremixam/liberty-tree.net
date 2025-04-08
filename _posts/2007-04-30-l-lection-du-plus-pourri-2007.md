@@ -36,5 +36,3 @@ _Nick Kysoar et sa demeure (joli coucher de soleil)._
 Les électeurs devront faire leur choix dimanche prochain et pour ceux qui oublieraient leur cartes de vote, la passe de billet _under ze table_ est toujours possible. A la fin de ce premier tour, il sera très simple de désigner un vainqueur. En effet, pas de second tour, c'est celui qui donne le plus au Pourri 2000, soit Jacky Carchay, qui sera le grand gagnant de ce Plus Pourri 2007.
 
 _N.B : Par soucis de transparence, les candidats ont bien voulu nous montrer là où ils vivent._
-
-<!--kg-card-end: markdown-->

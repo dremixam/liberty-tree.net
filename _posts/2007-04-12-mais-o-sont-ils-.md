@@ -45,5 +45,3 @@ Mais rassurez-vous,&nbsp;les disparus&nbsp;ne le sont plus et reviennent actuell
 Mais cela n'est qu'un détail car, plus important encore, le Liberty Tree a prévu de déménager à la suite d’événements récents (la montée du loyer à Los Santos notamment...).
 
 ![](/content/images/2005/01/newbuilding.jpg)
-
-<!--kg-card-end: markdown-->

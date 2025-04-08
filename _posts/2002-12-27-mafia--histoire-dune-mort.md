@@ -49,5 +49,3 @@ J'ai pu aller aux bureaux du FBI et ils m'ont donné ces photos.
 ![](/content/images/v1/user25/elburro.jpg)
 
 Voici Asuka Kasen, Toni Cipriani et El Burro. Ils seraient eux aussi intéressés par la déroute de la Mafia. Je vais voir ce que je peux trouver d'autre...
-
-<!--kg-card-end: markdown-->

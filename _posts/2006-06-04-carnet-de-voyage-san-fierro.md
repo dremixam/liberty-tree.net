@@ -75,5 +75,3 @@ C'est donc sur ces magnifiques images que s'achève la 4ème étape de notre car
 **Le prochain article sera écrit par P130 qui reprend les rennes en mains mais je ne partirai pas comme ça&nbsp; !!**
 
 _\*NDLR : NelsoN s'occupait de la chronique automobile au Liberty Tree il y a deux ans._
-
-<!--kg-card-end: markdown-->

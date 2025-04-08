@@ -30,5 +30,3 @@ Ce qui a mis la police sur cette enquête, qui a prit des proportions importante
 Certains policiers seraient également en train d'être entendu par la police des polices pour être certains qu'ils ne savaient pas que leurs véhicules étaient concernés par cette fraude. Si c'était le cas, les policiers contrevenants seraient alors immédiatement démis de leurs fonctions et seraient expulsés du pays. C'est ce que souhaite le gouverneur de l'Etat qui attend la confirmation des gouverneurs des autres Etats concernés pour pouvoir faire une demande d'application de la peine.
 
 L'identité du leader n'est toujours pas confirmée. Selon la police, c'est la mafia qui est à l'origine du réseau. Pour l'instant nous ne sommes sûr de rien donc nous concluons cet article en espérant que les autorités coincent les criminels.
-
-<!--kg-card-end: markdown-->

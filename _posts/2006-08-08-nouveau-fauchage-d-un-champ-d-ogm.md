@@ -51,5 +51,3 @@ Jõsé Bowen quant à lui, devrait donc passer devant le tribunal d'ici quelques
 Alors que la police de San Andreas s'acharne tous les jours à maintenir l'ordre, à éduquer les délinquants, alors que des dizaines d'agents meurent tous les ans dans des fusillades, ce sympathique politique se permet de montrer l'exemple en saccageant, en détruisant, en troublant l'ordre public. Allez, vive la politique !
 
 _LASA Inc. : Laboratoire Agricole de San Andreas Inc. Condamné dans l'affaire de l'insecticide mortel._
-
-<!--kg-card-end: markdown-->

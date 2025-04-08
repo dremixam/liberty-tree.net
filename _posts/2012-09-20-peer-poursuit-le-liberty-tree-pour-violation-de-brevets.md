@@ -43,5 +43,3 @@ _Dans cette image qui a circulé sur le réseau toute la journée, les deux entr
 En attendant que le procès ne démarre, c'est toute la toile, LifeInvader en tête, qui a commenté l'événement. La majorité des utilisateurs du réseau social ont choisi leur camp, et depuis, les moqueries fusent.
 
 Le journal continuera à paraître pendant la durée du procès, nous en profiterons pour vous rendre compte régulièrement de son avancement.
-
-<!--kg-card-end: markdown-->

@@ -33,5 +33,3 @@ Et l'ouverture de ce club donne aux habitants de Sandy Shores le sentiment d'êt
 Et l'entreprise Evans va s'agrandir: la nièce de Garrett viendra prochainement tenir les bureaux, pour que les deux compères puissent sauter en tandem. Ils envisagent aussi l'achat l'année prochaine d'un deuxième avion.
 
 Les bureaux et le départ des sauts se situe à l'aérodrome de Sandy Shores, vous pouvez aussi les contacter à l'office du tourisme de Sandy Shores ou sur leur site internet.
-
-<!--kg-card-end: markdown-->

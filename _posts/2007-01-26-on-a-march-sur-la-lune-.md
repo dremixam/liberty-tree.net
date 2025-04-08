@@ -32,5 +32,3 @@ Pas besoin de réexpliquer avec une parole d'expert comme celle-là. De retour �
 
 ![Arthur McSwelth, expert en relations diplomatiques.](/content/images/2005/01/arthurmc.jpg)
 _Arthur McSwelth, expert en relations diplomatiques._
-
-<!--kg-card-end: markdown-->

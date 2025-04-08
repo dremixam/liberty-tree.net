@@ -33,5 +33,3 @@ Deux thèses qui sont toutes les deux plausibles, même si celle de la panne gé
 
 ![Un autre accident causé par le black-out.](/content/images/2016/06/Panique4.jpg)
 _Un autre accident causé par le black-out._
-
-<!--kg-card-end: markdown-->

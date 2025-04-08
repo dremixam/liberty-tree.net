@@ -42,5 +42,3 @@ _Jimmy et Lily, deux étudiants._
 > **Jimmy :** C'est vrai. En plus, il y a des offres encore plus intéressantes vers la fin des soldes. En général, on repère pendant les premiers jours, puis on revient en espérant que ce qu'on a vu a été soldé.
 
 Sachez donc que les soldes d'hiver durent jusqu'au 11 février. D'ici là, vous avez encore le temps, chers lecteurs, de faire vos achats à prix réduit ! Il ne me reste plus qu'à vous souhaiter bon courage si jamais vous décidez de vous lancer à l'assaut d'un Binco ou d'un Suburban !
-
-<!--kg-card-end: markdown-->

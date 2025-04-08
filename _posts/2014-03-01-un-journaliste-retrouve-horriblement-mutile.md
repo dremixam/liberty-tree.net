@@ -41,5 +41,3 @@ Ne voyant pas son argent revenir comme promis, LibertyG100 aurait décidé de se
 _La villa de Bertrand Damoff à Chumash._
 
 Jusqu'à ce matin, et la découverte de son corps dans une ruelle. Chose étonnante toute fois : Un préservatif usagé a été retrouvé sur l'orifice anal du cadavre. Après de multiples analyses, la police en a conclu que le journaliste avait été violé, mais elle reste incapable de dire s'il s'agit d'un viol pré-mortem où post-mortem. Affaire à suivre...
-
-<!--kg-card-end: markdown-->

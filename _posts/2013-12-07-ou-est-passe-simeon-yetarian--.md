@@ -24,5 +24,3 @@ Ces deux personnes sont activement recherchées, car elles tiennent probablement
 _La dernière photo connue de Yetarian._
 
 Yetarian a-t-il été tué ? Aurait-il été capturé, ou aurait-il choisi de disparaître volontairement ? Ce sont les questions que les enquêteurs se posent. La police poursuit son enquête et devrait bientôt obtenir de nouvelles informations. En espérant une issue rassurante...
-
-<!--kg-card-end: markdown-->

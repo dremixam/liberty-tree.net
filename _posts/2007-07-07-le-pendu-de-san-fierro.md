@@ -51,5 +51,3 @@ Ce soir là, John est très excité. Il a entendu parler d'une "party" particuli
 _Le lieu du drame_
 
 Vers deux heures du matin, un hurlement déchire la nuit...Quelques heures plus tard, alors que le soleil darde ses premiers rayons, John est retrouvé mort au bout d'un corde, victime de son propre plaisir et de ses propres fantasmes en pratiquant la pendaison sexuelle.
-
-<!--kg-card-end: markdown-->

@@ -41,5 +41,3 @@ Un dernier hommage sera rendu à John Sturner le 7 février prochain, à l'égli
 
 ![Le cimetière de Hill Valley.](/content/images/2016/06/Sturner.jpg)
 _Le cimetière de Hill Valley._
-
-<!--kg-card-end: markdown-->

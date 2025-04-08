@@ -46,5 +46,3 @@ Le maire de Los Santos a lui aussi laisser entendre sa voix, voici un extrait de
 > ... Certes la presse de Vice City est censurée à un certain niveau, mais celle de San Andreas ne l'est pas, et je ne vois pas pourquoi le Liberty-Tree devrait, pour chaque Etat écrire un article différent. C'est pourquoi, moi Henry G. Carter maire de Los Santos, j'ai décidé de le soutenir et de subvenir à ses besoins !...
 
 Le discours du maire à également éveiller la foudre de Vice City qui à présent, souhaite ne plus faire circuler le Liberty Tree dans son Etat.
-
-<!--kg-card-end: markdown-->

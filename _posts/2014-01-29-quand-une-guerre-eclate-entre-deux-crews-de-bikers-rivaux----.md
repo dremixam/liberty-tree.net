@@ -49,5 +49,3 @@ Et c'est ce que nous pouvons constaté en effet. Ce Kurt a récemment achevé un
 ![](/content/images/2016/06/0_0_138.jpg)
 
 Si les autorités ne parviennent pas rapidement à calmer ces crews en colère, je n'ai qu'une chose à dire: Hey les amis, peace and love !
-
-<!--kg-card-end: markdown-->

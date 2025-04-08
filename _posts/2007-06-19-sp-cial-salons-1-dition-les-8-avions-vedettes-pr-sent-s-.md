@@ -102,5 +102,3 @@ Boeing sera incontestablement présent avec American Airlines pour la présentat
 **En bref**
 
 Un peu plus réduit que les précédents (sachant que IASF est un aéroport assez petit) ce salon prévoit d’être un peu moins friand de nouveautés en ce qui concerne l’aviation civile. Au contraire, le projecteur s’est plutôt tourné vers les hydravions et l’aviation militaire qui, elle prévoit de nombreuses nouveautés comme le Harrier AV-813, concurrent direct de notre bien connu Hydra.
-
-<!--kg-card-end: markdown-->

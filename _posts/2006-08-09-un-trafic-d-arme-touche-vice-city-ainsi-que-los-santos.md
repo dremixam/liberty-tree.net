@@ -82,5 +82,3 @@ Le club de sport n'était qu'une couverture pour les trafiquants, qui fournissai
 La police arrêta les&nbsp;deux agents de la police corrompus ainsi que les&nbsp;deux agents de Los Santos. Les membres du gang ont pu "régler des affaires" avec les armes&nbsp;illégales à&nbsp;Los Santos et le parrain, pour l'instant, court toujours mais soi-disant vers Liberty City pour essayer de s'imposer ailleurs où les armes sont légales...
 
 _Photos de Vice City par dami1444_
-
-<!--kg-card-end: markdown-->

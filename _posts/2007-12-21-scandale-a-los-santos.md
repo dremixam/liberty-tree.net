@@ -35,5 +35,3 @@ A la lecture de cette interview, il est évident que la seule préoccupation de 
 Le tronçogode, meilleure vente de Mr Goldass avant la diffusion de sa campagne de publicité.
 
 Quoiqu'il en soit, les nombreuses plaintes déposées a l'encontre du magasin vont porter leurs fruits, et on peut affirmer qu'une amende de plusieurs millions de dollars aura l'effet d'une douche froide sur monsieur Goldass. On peut donc espérer voir ces publicités disparaître avant la fin du mois. Mme Hilary Campbell a souligné dans une interview accordée à VCN qu'elle ferait tout ce qui est en son pouvoir pour que les coupables subissent la peine capitale. Les esprits bien pensants de notre pays seront d'accord avec elle, il n'est en effet pas tolérable de savoir que de tels individus peuvent se promener librement dans notre pays.
-
-<!--kg-card-end: markdown-->

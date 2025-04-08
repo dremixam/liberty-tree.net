@@ -29,5 +29,3 @@ Voila encore un mystère que le Liberty-Tree doit élucider avant que cette hist
 > C'est bien une réaction de politiques ! Nous sommes en Amérique, tout le monde est libre, même l'état, et il peut très bien tuer des jeunes pour son intérêt financier.
 
 Certaines ONG prépareront des manifestations à travers tout le pays pour que quelque chose soit entrepris, avant que San Fierro ne devienne une ville fantôme.
-
-<!--kg-card-end: markdown-->

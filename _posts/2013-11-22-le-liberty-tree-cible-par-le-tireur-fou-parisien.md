@@ -40,5 +40,3 @@ C'est en cette fin de semaine, après que le forcené ait été arrêté à Pari
 > Oui euh… Comment dire ? Ça vous parait pas bizarre qu'il soit retourné à Paris ? M'enfin parlez-en si ça vous chante…
 
 Tout est bien qui finit bien donc malgré la question que pose la police, pourquoi le forcené a-t-il parcouru tous ces kilomètres juste pour mettre une balle dans la jambe de Passe-Partout ? Le Liberty Tree va-t-il réaliser un tirage exceptionnel à l'occasion de cet événement ? Tant de questions qui n'auront probablement pas de réponse de si tôt.
-
-<!--kg-card-end: markdown-->

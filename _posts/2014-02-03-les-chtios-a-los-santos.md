@@ -62,5 +62,3 @@ Voilà... Chers lecteurs, vous entendrez bientôt parler de nouveau des chtios. 
 _La Lampadi des Chtios._
 
 Sur ce... Moi je vais réfléchir sur la conscience humaine. Et sur la nature des nouveaux programmes de divertissement....
-
-<!--kg-card-end: markdown-->

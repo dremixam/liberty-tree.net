@@ -65,5 +65,3 @@ Avant de repartir, nous avons pu interviewer le lieutenant Bools qui est très s
 _Le lieutenant Bools cherchant le moindre témoignage._
 
 Affaire très intéressante que cette affaire Canar qui a finalement tourné à la sauce conspiration. La police de Vice City est donc relevé de ses fonctions sur cette enquête afin de laisser place à de gros 4x4 GMC noir se garer et arrêter les comploteurs.
-
-<!--kg-card-end: markdown-->

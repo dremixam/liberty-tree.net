@@ -107,5 +107,3 @@ Je vous dis "A la semaine prochaine" et vous souhaite une bonne route tout en vo
 ![](/content/images/2016/07/Pink2.jpg)
 ![](/content/images/2016/07/Pink3.jpg)
 ![](/content/images/2016/07/Pink6.jpg)
-
-<!--kg-card-end: markdown-->

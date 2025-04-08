@@ -68,5 +68,3 @@ Forelli Motors mise beaucoup sur la Excess pour battre la Sentinel. Surtout que&
 Pour l'instant la date de sortie est inconnue et le choix de couleurs est limité&nbsp;à un&nbsp;bleu-gris mais FM promet une nouvelle gamme de couleurs bientôt.
 
 Forelli fête cette année&nbsp;ses 25 années d'existence, et avec le transfert de la production de la Sentinel&nbsp;en Asie, Forelli Motors devient&nbsp;le&nbsp;seul&nbsp;constructeur automobile de Liberty City.&nbsp;Selon les spécialistes, l'année 2006 &nbsp;va être importante&nbsp;pour&nbsp;l'avenir de&nbsp;Forelli Motors&nbsp;et ses nouveaux modèles.
-
-<!--kg-card-end: markdown-->

@@ -19,5 +19,3 @@ Pour les plus flemmards d'entre vous, leur nouvelle album : « Kiss my ass in th
 Nous pouvons parler plutôt d'une véritable réunification, car les papys rockers mettent vraiment le paquet sur ce nouvel album et sur ce concert, qui sera sûrement leur dernier, souhaitons lui autant de succès que les précédents. Et soyez au rendez-vous, une réunification qui sera certainement très impressionnante.
 
 ![](/content/images/2005/01/lf.jpg)
-
-<!--kg-card-end: markdown-->

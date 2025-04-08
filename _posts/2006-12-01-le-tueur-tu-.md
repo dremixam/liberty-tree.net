@@ -50,5 +50,3 @@ Explique Phil Bracali qui mettait en détention provisoire le suspect âgé de 9
 
 ![Hernando Nagro, gérant d'un café et baron de la drogue avec ça...](/content/images/2005/01/barondrogue.jpg)
 _Hernando Nagro, gérant d'un café et baron de la drogue avec ça..._
-
-<!--kg-card-end: markdown-->

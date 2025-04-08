@@ -36,5 +36,3 @@ Enfin des suppositions ne suffisent bien entendu pas à condamner les gens. Par 
 ![](/content/images/2016/06/0_0_163.jpg)
 
 Pour l’instant nous ne pouvons pas en dire plus sur cette affaire, il faut juste espérer que la police fasse son travail correctement.
-
-<!--kg-card-end: markdown-->

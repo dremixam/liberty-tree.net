@@ -31,5 +31,3 @@ Nommé d'office par le tribunal, puisque le prévenu n'avait aucun avocat pour l
 _La vie reprend son cours dans le secteur sous la surveillance des hélicos du LSPD._
 
 Dans le quartier où s'est produit la prise d'otage, les choses reviennent lentement à la normale même si les gens ne parlent que de cela. Le Roboi's Food Mart a réouvert ses portes ce matin mais les clients ne se bousculent pas à la porte. Espérons que les affaires reprendront même si ont sent beaucoup de crainte dans l’air et pour cause puisque depuis son ouverture il y a 6 ans, ce mini mart a été la cible de 5 braquages, rien pour rassurer la clientèle c’est certain.
-
-<!--kg-card-end: markdown-->

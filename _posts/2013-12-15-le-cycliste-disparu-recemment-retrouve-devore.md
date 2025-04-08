@@ -44,5 +44,3 @@ Le shérif a déclaré aux journalistes que la police avait écarté la piste cr
 
 ![Le camp des Altruistes au parc national du Mount Chiliad.](/content/images/2016/06/Gta%20V%20%282%29.jpg)
 _Le camp des Altruistes au parc national du Mount Chiliad._
-
-<!--kg-card-end: markdown-->

@@ -41,5 +41,3 @@ A l’heure où vous lisez ces lignes, Peter Williamson se trouve toujours entre
 
 ![Le City Hall Hospital.](/content/images/2007/06/article0019.jpg)
 _Le City Hall Hospital._
-
-<!--kg-card-end: markdown-->

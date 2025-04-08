@@ -52,5 +52,3 @@ Pendant ce temps, plusieurs garages ont été découverts :
 Tous ont un point commun : ils sont situés dans Downtown Los Santos. Plusieurs hypothèses sont alors possibles : soit les criminels ne sont pas des gangsters de rues, soit ils veulent être très discrets. Ces individus ne voulant pas être eux-mêmes dépouillés, ils ont préféré Downtown plutôt que les bas-fonds, pourtant remplis de hangars abandonnés.
 
 On ne sait rien d'autre sur cette nouvelle bande qui pourtant, a fait couler beaucoup d'encre.
-
-<!--kg-card-end: markdown-->

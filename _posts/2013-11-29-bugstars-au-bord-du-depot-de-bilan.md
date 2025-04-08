@@ -42,5 +42,3 @@ _Chacun s'occupe comme il peut : certains se la coulent douce, d'autres travaill
 La société propose désormais des détections d'insectes gratuites, et est prête à baisser encore plus ses tarifs. Bugstars ne veut pas laisser tomber et compte bien rétablir son image, ainsi que récupérer sa place de meilleur exterminateur de l'état (qu'il a détenu entre 2008 et 2012). Si vous avez besoin de dératiser, n'hésitez pas !
 
 ![](/content/images/2016/06/Bugstars6.jpg)
-
-<!--kg-card-end: markdown-->

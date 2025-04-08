@@ -28,5 +28,3 @@ Rien de tel ne se fut jamais produit, ni sur chacune des îles de notre belle vi
 - "Le trafic à repris."
 
 - "Pas de licenciement aujourd'hui."
-
-<!--kg-card-end: markdown-->

@@ -34,5 +34,3 @@ _Le sergent Peter Marley._
 Seule l'enquête officielle du LSPD pourra nous apporter des réponses... En attendant, le mystère reste entier.
 
 ![](/content/images/2016/06/Incendie3_1.jpg)
-
-<!--kg-card-end: markdown-->

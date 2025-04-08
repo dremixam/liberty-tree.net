@@ -44,5 +44,3 @@ Cette situation pose un second problème&nbsp;: nous connaissons tous la situati
 > A maintes reprises, des membres de nos familles à l’étranger ont voulu émigrer vers les USA. Cependant, l’Etat leur&nbsp;a refusé le permis de séjour attribuable en prétextant que les conditions sanitaires dans lesquelles vivaient nos famille ne leur permettaient pas de séjourner aux USA.
 
 En fermant une page sur le trafic d’esclaves, nous en ouvrons une autre sur un problème diplomatique et social.
-
-<!--kg-card-end: markdown-->

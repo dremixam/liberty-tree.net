@@ -37,5 +37,3 @@ Le développement des mariages à Las Venturas a été tellement fulgurant qu'il
 Après avoir été longtemps en haut du classement pendant les années 80, Vice City a décliné mais depuis quelques années, elle remonte et figure à une très bonne place.
 
 Le mariage connaissait une baisse de régime depuis 10-20 ans mais aujourd'hui, c'est redevenu une pratique tendance. Et à Las Venturas, n'importe quoi peut redevenir à la mode.
-
-<!--kg-card-end: markdown-->

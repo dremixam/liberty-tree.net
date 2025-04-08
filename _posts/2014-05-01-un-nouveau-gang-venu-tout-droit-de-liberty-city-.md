@@ -46,5 +46,3 @@ D'après le témoignage d'Aaliyah, des gangsters se seraient retrouvés à plusi
 _Les deux gangs en train de marchander, sûrement pour des armes..._
 
 Sur ce, restez connectés sur le Liberty Tree pour être au courant des dernières infos dans le pays et partout dans le monde, et nous vous déconseillons fortement d'aller jouer aux policiers dans le milieu des gangs, ça pourrait être dangereux, voire fatal pour vous...
-
-<!--kg-card-end: markdown-->

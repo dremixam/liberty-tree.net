@@ -92,5 +92,3 @@ En effet, nous avons rencontré Pharell Johnson, banquier à Lombank :
 > **P.H :** Non, et je pense qu'il n'y en aura jamais.
 
 La gourmandise, néfaste pour la santé, le moral ou le porte-monnaie, est l'un des pires défauts des habitants de San Andreas.
-
-<!--kg-card-end: markdown-->

@@ -37,5 +37,3 @@ Certains spectateurs avaient eux aussi emmenés quelques fusées mais rien à vo
 BONNE ANNÉE A TOUS LES LECTEURS DU LIBERTY TREE
 
 ![](/content/images/2005/01/NYE_The_Strip.jpg)
-
-<!--kg-card-end: markdown-->

@@ -45,5 +45,3 @@ Je me rends donc seul à Las Venturas. Je guette les ondes radios de la police l
 Cette enquête aura permis de démontrer que les services de police de San Andreas se dégradent et qu'une belle pléiade de déséquilibrés sont engagés dans les forces de l'ordre. Le gouvernement devra sûrement agir, des associations se créant de toutes parts pour une sécurité renforcée dans notre État.
 
 _Photographe : Biorn_
-
-<!--kg-card-end: markdown-->

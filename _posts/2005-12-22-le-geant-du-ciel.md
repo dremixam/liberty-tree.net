@@ -32,5 +32,3 @@ Les photos que nous vous présentons dans cet article sont des images de synthè
 ![](/content/images/2005/01/ah3802.jpg)
 ![](/content/images/2005/01/ah3803.jpg)
 ![](/content/images/2005/01/LVairport.jpg)
-
-<!--kg-card-end: markdown-->

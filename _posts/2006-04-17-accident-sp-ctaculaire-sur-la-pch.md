@@ -43,5 +43,3 @@ La première équipe de police arriva peu après le crash, vers six heures dix, 
 ![](/content/images/2005/01/Fcar10.jpg)
 
 Plus de neuf chaînes de télévision locale étaient présentes sur le lieu du crash, pour relater cet accident typiquement Vinewoodien. Voir un ancien PDG criblé de dettes pulvériser un véhicule dont la valeur dépasse le million de dollars, ce n'est possible qu'à Los Santos.
-
-<!--kg-card-end: markdown-->

@@ -25,5 +25,3 @@ L'homme que j'y ai trouvé m'a donc expliqué la situation, ce clochard travaill
 Ces voitures aux allures charmeuses sont en fait des monstres envers l'économie de notre belle ville de Liberty City, en effet, depuis leur arrivée sur le marché l'effondrement de l'économie s'est accéléré!
 
 Liberty City se tirera-t-elle de cette nouvelle crise? Qui sait?...
-
-<!--kg-card-end: markdown-->

@@ -34,5 +34,3 @@ Mais l'histoire ne s'arrête pas là. Les pillards sont déjà connus puisque ce
 sont les même que pour l'attaque précédente et sont les même que celles dérobaient auparavant. La police se montre fier de les avoir attrapés. Après interrogatoire, ils ont avoué faire parti d'un réseau terroriste qui avait commendité un attentat contre la zone 69 de Las Venturas. Les individus n'étaient pas connus des services de police, ce qui leur facilitait la tâche. L'enquête est donc close et la police peut se féciliciter de cette arrestation improbable.
 
 Nous présentons toutes nos condoléances aux familles des disparus.
-
-<!--kg-card-end: markdown-->

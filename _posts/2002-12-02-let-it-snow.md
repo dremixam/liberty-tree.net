@@ -26,5 +26,3 @@ Je vous laisse regarder les quelques clichés frais de ce matin en vous souhaita
 ![](/content/images/2016/07/fsscr201.jpg)
 ![](/content/images/2016/07/fsscr202.jpg)
 ![](/content/images/2016/07/fsscr203.jpg)
-
-<!--kg-card-end: markdown-->

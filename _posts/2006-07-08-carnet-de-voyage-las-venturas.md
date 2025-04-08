@@ -79,5 +79,3 @@ Retrouvez aussi les précédentes étapes :
 _Remerciements :_
 
 _Merci aux mairies de&nbsp;Liberty, Vice, Los Santos, San fierro, Las Venturas. Un remerciement au Gouverneur de San Andreas pour son aide. Nous remercions&nbsp;tout particulièrement&nbsp;le&nbsp;Bureau national du Tourisme pour sa précieuse coopération, ainsi que le&nbsp;NCGIA (National Center for Geographic Information & Analysis)._
-
-<!--kg-card-end: markdown-->

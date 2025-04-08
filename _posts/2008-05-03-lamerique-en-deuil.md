@@ -27,5 +27,3 @@ Après quelques heures de recherches et une dizaine d'arrestations arbitraires, 
 _Des membres de Famille de Grove Street à l'origine de la mort du président._[Le pont sous lequel la dépouille du président a été retrouvée, fraîchement violée.](/content/images/2005/01/pont_george.jpg/)
 
 C'est donc dans des circonstances extrêmement étranges que notre quarante-quatrième président quitte ses fonctions. Comme le prévoit la constitution, c'est le vice président qui assurera l'intérim jusqu'aux élections.
-
-<!--kg-card-end: markdown-->

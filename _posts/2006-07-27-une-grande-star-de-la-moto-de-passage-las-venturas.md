@@ -76,5 +76,3 @@ Quelques photos de Valentineaux Kossi après sa victoire :
 ![](/content/images/2005/01/kossi2.jpg)
 ![](/content/images/2005/01/kossi3.jpg)
 ![](/content/images/2005/01/kossi1.jpg)
-
-<!--kg-card-end: markdown-->

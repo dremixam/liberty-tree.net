@@ -44,5 +44,3 @@ _La vue est imprenable depuis l'île d'Alcatraz._
 C'est donc une reconversion réussie pour cette île mythique, considérée par les habitants de San Fierro comme l'un des emblèmes de la ville, au même titre que le Gant Bridge. La vie carcérale s'est arrêtée sur le rocher mais une chose continue de fonctionner&nbsp;: le phare de l'île qui fonctionne sans interruption depuis 1854!
 
 ![](/content/images/2005/01/Alcatraz_05.jpg)
-
-<!--kg-card-end: markdown-->

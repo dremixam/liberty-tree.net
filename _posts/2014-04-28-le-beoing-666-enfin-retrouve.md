@@ -36,5 +36,3 @@ En ce qui concerne les autres victimes, les habitants de Los Santos et de Las Ve
 A noter que seulement deux corps n'ont pas été retrouvés : ceux de Stephen Terr et Aiden Orist, le commandant de bord et le co-pilote, et que deux parachutes ainsi que les boîtes noires manquaient également à l'appel...
 
 Affaire à suivre ?
-
-<!--kg-card-end: markdown-->

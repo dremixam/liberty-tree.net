@@ -45,5 +45,3 @@ Nous avons interrogé un des spécialistes travaillant au labo de la police scie
 > **Nick Stokes :** C'est peut-être ce qui s'est réellement passé mais pour l'instant nous n'avons aucune certitude.
 
 C'est certainement grâce à un oiseau que nous avons pu contrecarrer les plans d'un baron de la drogue. Mais Salazar était-il dans l'avion ou pas? Pour l'instant, personne ne le sait à cause de l'état des corps retrouvés! Nous continuerons à mener notre enquête pour vous permettre de comprendre ce qui c'est passé !
-
-<!--kg-card-end: markdown-->

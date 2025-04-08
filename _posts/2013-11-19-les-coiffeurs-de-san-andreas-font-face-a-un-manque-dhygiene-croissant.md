@@ -43,5 +43,3 @@ _Des clients mécontents._
 > C’est une honte ! La dernière fois que j’y suis allé, mon coiffeur n’avait même plus d’eau chaude pour faire les shampoings ! Et en plus, comme je suis apprenti électricien, j’ai remarqué que son installation électrique n’était plus aux normes en vigueur : ça veut dire qu’en y allant, on n’est même pas sûr de ressortir vivant, même sans agression !
 
 Ainsi, faut-il envisager de payer ses coupes plus cher ou bien se les faire soi-même afin d’avoir un service de qualité ?
-
-<!--kg-card-end: markdown-->

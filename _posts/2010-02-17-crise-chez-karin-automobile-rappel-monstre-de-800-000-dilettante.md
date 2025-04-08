@@ -39,5 +39,3 @@ _Une foule de publicités représentent la Karin Dilettante, en voici un échant
 
 Ce n’est pas la première crise « explosive » que rencontre Gordon Chan. En effet, en 2001, lorsqu’il était à la tête de Maibatsu, les voitures, lors d’un tonneau, s’enflammaient au niveau du moteur et explosaient quelques secondes après.  
 Les propriétaires des modèles concernés sont invités à venir réparer la faille chez son concessionnaire Karin le plus proche. Ceux ne le faisant pas sont passibles d’emprisonnement à Guanotiamo ainsi que la saisie de tous ses biens. Ça vous apprendra à jouer les bonnes consciences.
-
-<!--kg-card-end: markdown-->

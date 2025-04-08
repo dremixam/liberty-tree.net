@@ -60,5 +60,3 @@ Il est a rappelé que si vous souhaitez écrire à Francis Lelâne, vous pouvez 
 > Shoreside vale, Liberty City
 
 Titre de son nouvel album : « SuperStar in Prison » un disque « LC Bigdaube » (87 $)
-
-<!--kg-card-end: markdown-->

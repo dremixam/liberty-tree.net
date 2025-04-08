@@ -47,5 +47,3 @@ Bien évidemment, toutes ces tenues ne sont que des exemples de ce que l'on trou
 ![](/content/images/2016/06/0_0_184.jpg)
 
 Alors, quel style allez-vous porter en ce printemps ?
-
-<!--kg-card-end: markdown-->

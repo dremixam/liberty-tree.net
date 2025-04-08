@@ -49,5 +49,3 @@ Nous avons rencontré Jack Quazar, le directeur de DMA Design :
 > **Jack Quazar :** Nous avons l'équipe et la conception graphique a déjà commencé, tout se présente bien et nous faisons du mieux que nous pouvons pour ne pas décevoir les fans !
 
 Cet article s'arrête ici mais nous vous informerons de l'avancée des choses des que possible.
-
-<!--kg-card-end: markdown-->

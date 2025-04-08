@@ -36,5 +36,3 @@ Le FBI mène donc l’enquête en étroite collaboration avec la police de Liber
 
 ![Mike Litoris.](/content/images/2007/06/100220190047-Medium.jpg)
 _Mike Litoris._
-
-<!--kg-card-end: markdown-->

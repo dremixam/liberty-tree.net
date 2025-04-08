@@ -23,5 +23,3 @@ Bien sûr tout ceci n'est pas suffisant. J'ai donc pris contact avec un imprimeu
 C'est donc de cette manière que j'ai pu retrouver Little Worm qui a immédiatement accepté de retravailler au journal et j'ai pu recruter quelques autres journalistes en diffusant des annonces sur toutes les radios de l'état de San Andreas.
 
 C'est donc avec une équipe de trois personnes que le Liberty Tree peut redémarrer aujourd'hui, nous espérons que la distribution plus large de notre quotidien nous assurera un nombre de lecteurs plus important et une réussite. L'abonnement est bien entendu gratuit et ouvert à tous, alors profitez-en !
-
-<!--kg-card-end: markdown-->

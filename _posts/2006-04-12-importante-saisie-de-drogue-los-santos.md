@@ -86,5 +86,3 @@ _Photo de Guillaume Smith prise à East Los Santos._
 > **RS :** Oooh que si! En très grande quantité même... Bon, j’en ai assez dit, va falloir que vous quittiez maintenant, non mais faut que je fasse gaffe j’ai un job à protéger, j’en vous ai dit suffisamment pour le moment. Si vous désirez en savoir plus vous n’avez qu’à casser les pieds à Judy Kaler puisque c’est elle la patronne.
 
 Maintenant que le plus gros trafiquant de Los Santos est maintenant derrière les barreaux, pouvons-nous affirmer que la ville est maintenant propre? Rien de certain puisque dans ce milieu lorsque quelqu’un est mis hors circuit il est très fréquent de voir d’autres filières reprendre rapidement les affaire en mains. Néanmoins, avec cette victoire il ne sera pas difficile d’obtenir des plus gros budget auprès du gouverneur de l’état pour la lutte contre les narcotrafiquants.
-
-<!--kg-card-end: markdown-->

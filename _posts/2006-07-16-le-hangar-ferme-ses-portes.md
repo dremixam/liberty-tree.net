@@ -85,5 +85,3 @@ _John Maleak, aujourd'hui habitant de Ocean Beach._
 > **LT&nbsp;:** Merci beaucoup de cet interview Mr Maleak
 
 John Maleak habite désormais&nbsp;à Ocean Beach dans une petite maison et&nbsp;est à la retraite.
-
-<!--kg-card-end: markdown-->

@@ -51,5 +51,3 @@ Dans l'après-midi, Joey aura trois autres interventions à faire, pratiquement 
 Le retour au QG se fera à présent en quad. Après une journée plutôt tranquille, on est toujours en droit de se demander si le métier de garde-côte est mal jugé : en effet, on peut croire qu'il s'agit d'un métier facile, au vu du faible nombre d'interventions qu'a eu à faire Joey. Mais il faut penser au courage et à l'audace de ces hommes et ces femmes, qui n'hésitent pas à risquer leur vie pour en sauver d'autres. Rien que pour cela, ils méritent une bonne dose de respect.
 
 Rassurez vous, la série continue. La prochaine fois, nous rendrons visite aux ambulanciers de l'hôptial de Pillbox Hill. A bientôt !
-
-<!--kg-card-end: markdown-->

@@ -23,5 +23,3 @@ L’après midi nous avons eu le droit à une démonstration du monstre dans les
 ![](/content/images/v1/user26/course.jpg)
 
 Malgré cela l'association de défenses des vielles dames écrasées a déclaré que, selon leurs calculs, après la sortie de ce véhicule, le nombre de vielles dames écrasées devrait passer de 50 à 100 par jour et demande donc son interdiction.
-
-<!--kg-card-end: markdown-->

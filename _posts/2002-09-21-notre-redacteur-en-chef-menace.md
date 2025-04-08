@@ -16,5 +16,3 @@ L'individu, qui a agit à la faveur de l'obscurité nocturne, a inscrit à l'aid
 
 ![](/content/images/v1/user1/rr43.jpg)
 ![](/content/images/v1/user1/rr44.jpg)
-
-<!--kg-card-end: markdown-->

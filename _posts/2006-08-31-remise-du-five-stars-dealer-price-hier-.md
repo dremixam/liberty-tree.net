@@ -89,5 +89,3 @@ Sam Wang nous a laissé tester ce magnifique BMW X3 2.5L, actuellement au prix d
 _Le prestigieux parc auto de Wang Cars (Merci à Pavlov, ami proche de Sam Wang pour une partie des photos.)_
 
 Ces trois garages ont donc reçus le prix Five Stars Dealers. Le DMV a félicité tout particulièrement Bruce Shody pour son excellente gestion et la franche réussite du remodelage de l'ancien $hody's Used Autos.
-
-<!--kg-card-end: markdown-->

@@ -23,5 +23,3 @@ Alvaro Ramirez était un ressortissant colombien arrivé il y a deux mois à Lib
 ![](/content/images/v1/user23/pos02.jpg)
 ![](/content/images/v1/user23/pos03.jpg)
 ![](/content/images/v1/user23/pos04.jpg)
-
-<!--kg-card-end: markdown-->

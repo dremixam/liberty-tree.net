@@ -21,5 +21,3 @@ Les deux nouveaux véhicules ont immédiatement été adoptés par les membres d
 ![](/content/images/2005/01/newbuilding.jpg)
 
 En espérant simplement que ces véhicules aient une utilité plus importante que le Faggio que le Liberty Tree possédait mais qui a terminé dans la baie de San Fierro lorsque Little Worm a raté un virage...
-
-<!--kg-card-end: markdown-->

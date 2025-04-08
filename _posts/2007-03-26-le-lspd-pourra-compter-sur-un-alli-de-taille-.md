@@ -49,5 +49,3 @@ Avis à ceux qui seraient intéressé de voler ce bolide, chaque véhicule est m
 _La TX3000 veillera à la sécurité des honnêtes citoyens._
 
 Une fois que ce nouveau «&nbsp;Crimebuster&nbsp;» prendra du service, il ne restera qu’à suivre attentivement la réaction des malfrats afin d’examiner la vitesse qu’ils prendront pour s’ajuster contre cette nouvelle menace qui viendra nuire à leur petit business. Pour le moment, difficile à dire puisque les seules réponses proviennent de statistiques et de prévisions. Surtout gardez l’œil bien ouvert car il y aura très bientôt une TX3000 qui veillera au grain dans un quartier près de chez vous&nbsp;!
-
-<!--kg-card-end: markdown-->

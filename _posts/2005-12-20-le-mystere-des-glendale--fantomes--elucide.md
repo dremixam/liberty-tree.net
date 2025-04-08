@@ -29,5 +29,3 @@ C'est à ce moment là que Jack Walkerson a décidé de se venger. Il a ainsi vo
 Jack Walkerson a été arrêté pour vol et destruction de biens privés. Mais il a refusé de dire aux enquêteurs combien de Glendales il avait volé et abandonné. Le seul mystère qu'il reste à la population est donc celui de trouver toutes les Glendales de M.Walkerson. Bonne chance à tous !
 
 ![](/content/images/2005/01/Walkerson.jpg)
-
-<!--kg-card-end: markdown-->

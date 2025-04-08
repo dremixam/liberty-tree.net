@@ -60,5 +60,3 @@ Après quelques tournées planétaires, le ténor meurt dans sa résidence de va
 La rédaction du Liberty Tree transmet toutes ses condoléances aux proches du célèbre ténor.
 
 Nous vous recommandons tout particulièrement son album 2 CD posthume : "Gotrielli's always alive in we heart" pour la somme modique de 24,95 $
-
-<!--kg-card-end: markdown-->

@@ -28,5 +28,3 @@ Le maire de la ville a décidé de remettre une médaille aux agents de police q
 > Ces événements ont introduit une nouvelle violence dans notre paisible ville de Liberty City et je dois vous avouer que je ne sais pas quoi faire. Je suis dépassé par les événements.
 
 M. Le maire fut très critiqué après son intervention, notamment par le sénateur John Carpenter qui, rappelons-le, était candidat à la mairie de Liberty City.
-
-<!--kg-card-end: markdown-->

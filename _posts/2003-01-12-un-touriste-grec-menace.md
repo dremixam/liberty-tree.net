@@ -26,5 +26,3 @@ Plusieurs personnes ont été interrogés, notamment un spécialiste du tourisme
 Ce spécialiste M. Bronchard, un européen, conclu:
 
 > La réputation de Liberty City de la ville la plus décadente des USA continuera d'attirer le public mondial.
-
-<!--kg-card-end: markdown-->

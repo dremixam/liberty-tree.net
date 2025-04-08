@@ -20,5 +20,3 @@ Cette immense grue n'a toujours pas été retrouvée, David Edlifrepoc a été m
 ![](/content/images/v1/user24/Magie_1.jpg)
 ![](/content/images/v1/user24/Magie_2.jpg)
 ![](/content/images/v1/user24/Magie_3.jpg)
-
-<!--kg-card-end: markdown-->

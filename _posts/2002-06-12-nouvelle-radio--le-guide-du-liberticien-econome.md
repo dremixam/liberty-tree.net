@@ -20,5 +20,3 @@ Enfin écrivez les titres de vos chansons préférées sur l’écran digital si
 Miracle un doux son monte à vos oreilles, il s'agit bien sur de vos chansons préférées.
 
 Merci Liberty Tree !
-
-<!--kg-card-end: markdown-->

@@ -21,5 +21,3 @@ Une grande partie des véhicules encore garés en face du stade ont été incend
 Un film vidéo amateur tourné dans le stade au moment du match a montré certains "supporters", manifestement sous l'emprise de l'alcool, brandissant des fusils mitrailleurs au beau milieu d'une foule surexcitée par l’événement.
 
 Il semble évident qu' une fois encore les règles élémentaires de sécurité n'ont pas été respectées, et si la police ne fait rien pour rétablir le calme dans notre ville il faudra alors s'attendre à de nouveaux débordements lors des rencontres à venir.
-
-<!--kg-card-end: markdown-->

@@ -30,5 +30,3 @@ Toutefois, cet événement de renommée mondiale n'a pas toujours profité à to
 Alors si vous avez le temps, n'hésitez pas à vous rendre au concours d’élégance de Seville Beach où vous pourrez admirer, entre autre, la superbe Cadillac Eldorado, lauréate du concours de cette année.
 
 ![](/content/images/2005/01/Eldorado.jpg)
-
-<!--kg-card-end: markdown-->

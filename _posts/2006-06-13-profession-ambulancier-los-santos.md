@@ -129,5 +129,3 @@ Et voilà, c’est terminé. Gordon lance le code de retour au bercail. Ce sera 
 ![](/content/images/2005/01/ambulance_Gordon_Marianov.jpg)
 
 Chaque jour n’est jamais pareil, mais à la fin une chose demeure inchangée pour ces ambulanciers, c'est la satisfaction personnelle d'avoir accompli du bon boulot et d'avoir permis à quelques personnes de vivre plus longtemps et se rendre jusqu'au lendemain.
-
-<!--kg-card-end: markdown-->

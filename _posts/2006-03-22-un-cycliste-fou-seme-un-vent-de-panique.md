@@ -38,5 +38,3 @@ _Une station ayant une sale réputation_
 Nous recommandons donc à tous de garder l’œil très grand ouvert lorsque vous aurez à prendre la route. Nous vous tiendrons informé lorsque surviendra des développements dans cette histoire.
 
 **Photos San Andreas Associated Press**
-
-<!--kg-card-end: markdown-->

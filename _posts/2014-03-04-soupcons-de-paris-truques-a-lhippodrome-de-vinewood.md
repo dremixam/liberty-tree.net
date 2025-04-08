@@ -40,5 +40,3 @@ L'enquête en est encore à ses débuts, mais par précaution la police a préf�
 _L'hippodrome est resté fermé hier et le restera aujourd'hui._
 
 Du côté de la direction, Alan Horsemann a montré de sérieux signes de fatigue morale et physique, lui qui vit des temps très difficiles en ce moment. Son fils Keith Horsemann ne semble pas prêt à prendre la relève de son père, qui a géré avec brio l'hippodrome depuis son ouverture le 15 février 1967. Toutefois, le jeune Keith semble prêt à tout pour récupérer l'endroit... Et si celui-ci préparait un mauvais coup à son père ?...
-
-<!--kg-card-end: markdown-->

@@ -26,5 +26,3 @@ Un conseil : Ne vous promenez pas seul, et évitez les coins déserts.
 
 ![](/content/images/2005/01/ttcolec4.jpg)
 ![](/content/images/2005/01/ttcolec5.jpg)
-
-<!--kg-card-end: markdown-->

@@ -32,5 +32,3 @@ Depuis ce jour, Cyril Longchamps a repris l'entreprise familiale et a permis à 
 Depuis 1990, ZIP écrase la concurrence grâce à des lignes de vêtements de tout horizon : sportwear, homme, femme, enfant, mode, luxe... Employant 10875 employés à travers le monde, ZIP possède deux ateliers de confections situés respectivement à Portland, Liberty City, et à Singapour. Le magasin phare de la chaîne reste tout de même la gigantesque boutique de Time Place, malgré l'ouverture prochaine d'un magasin sur les Champs Elysées. Le grand magasin de mode Gallery qui écrasait ZIP dans la fin des années 80 a dû fermer en 1992 suite au succès de la chaîne française.
 
 ZIP est également présent en masse à San Andreas avec trois magasins et l'ouverture d'un quatrième prochainement à San Fierro. Le chiffre d'affaire lié à San Andreas, et plus particulièrement à San Fierro, a poussé Cyril Longchamps à ouvrir un grand magasin dans Doherty.
-
-<!--kg-card-end: markdown-->

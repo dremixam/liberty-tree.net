@@ -39,5 +39,3 @@ Malgré tout mon courage, je réussis à garder l'homme à bonne distance pendan
 Après une longue lutte, l'homme fut affublé d'une camisole de force et l'un des infirmiers m'expliqua que notre bien aimé facteur avait été très affaibli psychologiquement et qu'il allait être transféré à la section psychiatrique de l'hôpital de Liberty-City.
 
 Au l'instant où je termine cet article, l'identité de mon admiratrice reste mystérieuse et la famille du facteur a déposé une plainte. La police enquête donc mais ne dispose d'aucune piste exploitable. Le secret de mon admiratrice semble bien gardé...
-
-<!--kg-card-end: markdown-->

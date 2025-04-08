@@ -62,5 +62,3 @@ Nous apprenons également de la bouche du commissionnaire que tous les permis d�
 _École de conduite à San Fierro._
 
 Espérons maintenant que toutes ces nouvelles mesures réduiront le nombre d’accident et contribueront à sécuriser le réseau routier.Entre-temps, l’enquête sur le carambolage se poursuit.
-
-<!--kg-card-end: markdown-->

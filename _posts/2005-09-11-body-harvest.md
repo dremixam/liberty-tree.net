@@ -40,5 +40,3 @@ _L'arrestation musclée de Joe Bert_
 En conclusion, les services de l'ordre sont à mettre en cause dans ce sinistre pour leur inutilité, leur négligence et leur désintéressement profond.
 
 Nous vous tiendrons au courant du bilan final.
-
-<!--kg-card-end: markdown-->

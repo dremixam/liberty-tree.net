@@ -90,5 +90,3 @@ Alors c’est dans le Liberty Tree que vous l’avez lu en grande primeur... Fan
 Plusieurs fois récompensé pour la qualité de ses prestations au grand écran, il n’est pas difficile maintenant de comprendre pourquoi Fanny Carleton récolte un tel succès car cette jeune actrice de 32 ans a su conserver le parfait équilibre entre la carrière et une vie sentimentale. Elle demeurera sans contredit pour très longtemps la coqueluche de tous les cinéphiles, une femme qui ne cessera jamais de nous étonner par son talent extraordinaire.
 
 Nous rappelons à nos lecteurs que le film « BULLET » prendra l'affiche au grand écran au mois de Mai 2007. Pour le moment, vous pouvez encore vous consoler en revoyant Fanny Carleton dans « HIDDEN DIARY » qui est toujours en salle au cinéma _El Dritch_ sur Wilshire Boulevard, à Los Santos.
-
-<!--kg-card-end: markdown-->

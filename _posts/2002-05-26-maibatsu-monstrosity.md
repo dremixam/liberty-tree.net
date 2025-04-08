@@ -17,5 +17,3 @@ Le Maibatsu Monstrosity (le nom de la « bête ») devait être commercialisé
 C'est donc dans un climat de peur que se trouvent actuellement les services d'ordres. Espérons en tout cas que le Maibatsu Monstrosity ne se trouve pas entre les mains d'un anarchique en soif de pouvoir et de destruction, et Dieu sait qu'il en existe beaucoup de nos jours!
 
 C'est donc un appel à témoins qui est mis en place: si vous avez des indices pour trouver le « monstre » et que vous n'avez pas décidé d'en revendre les plans à des ennemis (ce qui pourrait vous rapporter gros) nous vous prions donc de communiquer vos témoignages à la rédaction: [libertytree@hotmail.com](mailto:libertytree@hotmail.com) - Merci.
-
-<!--kg-card-end: markdown-->

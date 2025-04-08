@@ -25,5 +25,3 @@ Sur le marché nous avons déjà vus des fanatiques qui parfumaient leurs masque
 Le réseau qui fournit ces facemakers est caché, le FBI mène l'enquête pour trouver d'où ils viennent. Nous vous informerons dès que nous aurons du neuf.
 
 (ndlr: la photo représente le masque par défaut qui est en vente sur le marché, si vous voyez un homme lui ressemblant, évitez le c'est sans doute un hors-la-loi)
-
-<!--kg-card-end: markdown-->

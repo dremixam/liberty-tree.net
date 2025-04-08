@@ -62,5 +62,3 @@ Il faudra deux ans aux développeurs de LMVE pour fignoler leur \_Pogo the Monke
 N'y allons pas par quatre chemins, Lornne Houser était un grand homme et c'est toute l'industrie du jeu vidéo qui pleure sa mort. Qui a bien pu se montrer aussi abominable envers cet artiste admiré de tous ? La police recherche activement le coupable, et bien évidemment vous serez informé dès que nous en saurons un peu plus. N'oublions pas enfin la bienveillante initiative de _LMVE_ qui rééditera d'ici quelques semaines les grands classiques _Degenatron_ en série limitée, 30$ pièce, en hommage à leur créateur.
 
 ![](/content/images/2005/01/monkey9.jpg)
-
-<!--kg-card-end: markdown-->

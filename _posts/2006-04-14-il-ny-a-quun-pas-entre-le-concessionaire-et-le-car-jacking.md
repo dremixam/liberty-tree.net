@@ -33,5 +33,3 @@ Otto Van Poeschen va donc comparaître au tribunal de grande instance de San Fie
 ![](/content/images/2005/01/sfpd.jpg)
 ![Le commissariat de San Fierro où Otto Van Poeschen va séjourner quelques temps...](/content/images/2005/01/jail.jpg)
 _Le commissariat de San Fierro où Otto Van Poeschen va séjourner quelques temps..._
-
-<!--kg-card-end: markdown-->

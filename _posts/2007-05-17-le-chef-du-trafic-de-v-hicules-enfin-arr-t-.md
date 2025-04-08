@@ -40,5 +40,3 @@ Alex Shrub souhaite donc se faire discret et s'éloigner de Vice City, pendant u
 
 Après cette entrevue rapide et intéressante, Mlle. Leonardo a été interpellée par la police pour une altercation avec un défenseur du maire.  
 Malheureusement, la police nous a empêché d'approcher Vince Shrub qui risque de passer le restant de sa vie en prison.
-
-<!--kg-card-end: markdown-->

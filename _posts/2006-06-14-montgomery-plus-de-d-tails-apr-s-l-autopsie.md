@@ -58,5 +58,3 @@ La police mettra toutes les dispositions nécessaires pour retrouver Bryan Moose
 _Jour comme nuit, les aéroports de la région sont extrêmement surveillés._
 
 A l'heure où j'écris cet article, "aucune trace&nbsp;du tueur n'a encore été trouvée malgré les blocus des aéroports organisés par les forces de l'ordre", selon les termes de la télévision locale. L'affaire de Montgomery, comme on l'appelle désormais, reste à poursuivre.
-
-<!--kg-card-end: markdown-->

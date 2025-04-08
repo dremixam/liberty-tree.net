@@ -18,5 +18,3 @@ Au départ, c'est par hasard lors d'une surveillance de routine devant la villa 
 Après enquête, ils découvrirent que l'agent avait été l'instigateur de cette rencontre, et ils décidèrent donc, mandat de perquisition à l'appui, de fouiller l'appartement de l'agent, et c'est sans surprise qu'il découvrirent 15 kilos de spank dans sa chambre ainsi que 500 000 dollars.
 
 Hélas, l'agent en question reste introuvable et pour le retrouver au plus vite, la police des polices à décidé de diffuser le portrait de l'agent du F.B.I. dans tous les commissariats ainsi qu'à la télévision. Une récompense sera offerte pour toute personne pouvant donner des renseignements sur le fuyard.
-
-<!--kg-card-end: markdown-->

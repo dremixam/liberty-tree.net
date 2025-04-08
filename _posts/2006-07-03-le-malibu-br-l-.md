@@ -56,5 +56,3 @@ Bill Pleaton, ingénieur à Stauton&nbsp;posséde une belle maison et des&nbsp;r
 
 ![Intervention des pompiers](/content/images/2005/01/rec_cam_18.jpg)
 _Intervention des pompiers_
-
-<!--kg-card-end: markdown-->

@@ -20,5 +20,3 @@ Des centaines de nos têtes blondes ont donc patientés afin de pouvoir acheter 
 Coté jeu, Bockstar tient ses promesses avec le cinquième épisode de sa serie phare. En effet, la qualité est au rendez vous, ainsi que le plaisir de jouer. Vous aurez ainsi le plaisir de tuer bon nombre de personnes innocentes, conduire ivre, assassiner sauvagement des membres des forces de l'ordre et collectionner armes et voitures en tout genre et le tout virtuellement (donc sans subir les conséquences désastreuses que ces actes impliqueraient dans la vie réelle).
 
 Bien sur, comme toujours, les Libertyciens consciencieux vérifieront l'âge de leurs marmots avant de leur acheter le jeu ce qui leur évitera d'avoir à demander aux bons messieurs de chez Bockstar d'avoir à le faire...
-
-<!--kg-card-end: markdown-->

@@ -19,5 +19,3 @@ Dit ce jeune serveur la tête en sang et le sourire à ce qu'il lui reste de lè
 > Chacun vient ici pour enterrer quelque chose, le travail, la déprime quotidienne, mais aussi parfois tout simplement pour se faire des dents ou casser du tibia.
 
 Ce genre d'attitude n'est pas sans refléter la vague de violence qui jour après jour envahit notre paisible ville de Liberty City, et si la police s'obstine à ne rien faire nous irons droit à la catastrophe, voire même à l'accident.
-
-<!--kg-card-end: markdown-->

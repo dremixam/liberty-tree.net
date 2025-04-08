@@ -34,5 +34,3 @@ Le tireur fut identifié par le LCPD comme étant Julio Pegorino, cousin de Jame
 
 ![Julio Pegorino (photo d'archive du LCPD)](/content/images/2007/06/100211105141-Medium.jpg)
 _Julio Pegorino (photo d'archive du LCPD)_
-
-<!--kg-card-end: markdown-->

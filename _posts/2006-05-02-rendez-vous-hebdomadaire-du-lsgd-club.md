@@ -46,5 +46,3 @@ Parler du rendez-vous du LSGD sans parler du club serait une grave erreur. Le Lo
 _Ma carte de membre._
 
 Un rendez-vous annuel&nbsp;a aussi lieu dans la villa personnelle de la famille Bruni où les membres du club fêtent dignement l'anniversaire du Gentlemen Drivers Club. Le LSGD devrait aussi participer à l’édition 2006 du CanonBall, célèbre course illégale reliant Los Santos à Liberty City, sans oublier une grande sortie du club à Las Venturas au mois de Juin.
-
-<!--kg-card-end: markdown-->

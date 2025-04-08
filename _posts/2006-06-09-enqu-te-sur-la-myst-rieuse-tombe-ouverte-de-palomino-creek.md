@@ -75,5 +75,3 @@ Pour ce qui est de la tombe, elle sera retiré du cimetière l'année prochaine,
 Voici comment une simple affaire d'exhumation est devenue une véritable légende ! Une chose est sûre, le corps de Mr Patterson est peut être parti, mais sa légende, elle, est resté sur place ! Et ce pour encore de nombreuses années je pense, malgré les explications données...
 
 Un merci tout particulier à Mr H. Dearch, le sergent Wesson et la mairie pour leurs aides inestimables.
-
-<!--kg-card-end: markdown-->

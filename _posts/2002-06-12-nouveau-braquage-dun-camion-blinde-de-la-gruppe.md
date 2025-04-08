@@ -21,5 +21,3 @@ Désespéré, il aurait déclaré:
 > J'suis blasé, j'ai jamais vu des fourgons blindés aussi fragiles...
 
 Quoiqu'il en soit, il passera la nuit en garde à vue, et a de fortes chances de se retrouver en prison pour quelques années.
-
-<!--kg-card-end: markdown-->

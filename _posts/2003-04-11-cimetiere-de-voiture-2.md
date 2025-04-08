@@ -22,5 +22,3 @@ Il est donc fortement déconseillé pour le moment de se garer dans le quartier 
 ![](/content/images/2016/07/c1.jpg)
 
 Elle n'a avidement plus la même allure une fois massacrée à coup de batte de Bass-Ball.
-
-<!--kg-card-end: markdown-->

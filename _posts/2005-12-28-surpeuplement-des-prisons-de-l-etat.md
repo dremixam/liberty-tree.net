@@ -35,5 +35,3 @@ _Discours de Mr le Gouverneur, Blueberry, 27 décembre 2005._
 ![](/content/images/2005/01/Cellules.jpg)
 
 Dans ce discours, le Gouverneur évoque l'augmentation record des évasions dans les prisons de l'Etat. Il y a quelques jours, des détenus ont attaqués une ferme de Dillimore. La population s'inquiète désormais. Il est conseillé de s'enfermer chez soi dès la nuit tombée et de garder une arme à disposition. Par ailleurs, appelez le 911 immédiatement si vous apercevez des personnes à combinaison orange.
-
-<!--kg-card-end: markdown-->

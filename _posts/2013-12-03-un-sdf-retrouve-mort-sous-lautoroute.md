@@ -28,5 +28,3 @@ Rappelons pour terminer que la vie à Los Santos est assez « simple » : soit v
 
 ![Le camp dans lequel vivaient la victime et ses congénères.](/content/images/2016/06/0_0_33.jpg)
 _Le camp dans lequel vivaient la victime et ses congénères._
-
-<!--kg-card-end: markdown-->

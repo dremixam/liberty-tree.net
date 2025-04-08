@@ -103,5 +103,3 @@ Vds vélo d'appartement de marque "Decaklon" modèle "Vaveete 2500" en parfait �
 
 Micro Ondes "Weurlpoule Cekwi" A vendre. Bon état, fonctionne parfaitement. $50.  
 **555-1033**
-
-<!--kg-card-end: markdown-->

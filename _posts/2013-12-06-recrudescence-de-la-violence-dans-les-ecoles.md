@@ -43,5 +43,3 @@ Cette montée de violence est vraiment préoccupante, d'autant plus que les conf
 _Jimmy, adolescent difficile._
 
 Reste à espérer que ce n'est qu'une mauvaise période, et que l'arrivée des fêtes de fin d'année va calmer les adolescents les plus turbulents...
-
-<!--kg-card-end: markdown-->

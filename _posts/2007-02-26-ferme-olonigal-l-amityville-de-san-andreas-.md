@@ -67,5 +67,3 @@ De plus, l'artillerie de ces "chasseurs de fantômes" est extrêmement sophistiq
 _L'une des seule photo où l'on aperçois un fantôme (à droite) de la ferme 'Olonigal._[](/content/images/2005/01/olonigal_07.jpg)
 
 D'où viennent ces êtres? Simple blague?&nbsp;Malédiction? De nombreuses questions restent à ce jour sans réponses. Mais ce qui est sûr, c'est que les forces surnaturelles habitant la maison ne vont pas laisser les prochains propriétaires dormir sur leurs deux oreilles...
-
-<!--kg-card-end: markdown-->

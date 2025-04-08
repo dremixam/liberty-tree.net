@@ -59,5 +59,3 @@ Mais Tim est à l'aube d'une nouvelle folie qui pourrait bien être la plus gran
 _La lune, nouvelle propriété de Tim McAustin._
 
 Nous entendrons donc parler à nouveau de ce milliardaire pas comme les autres et de son programme spatial touristique. Et pour ceux qui souhaitent le revoir plus tôt, il vous suffit de regarder la télévision, Tim ne peut pas s'empêcher de ne pas y apparaître chaque semaine.
-
-<!--kg-card-end: markdown-->

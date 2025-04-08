@@ -28,5 +28,3 @@ En clair Mr.Wrong est déterminé a faire chuter monsieur le maire d’une mani�
 J’ai enquêté pour le Liberty Tree sur ce certain M. Angus Wrong. M. Wrong est né a Portland dans une famille pauvre du cartier du Red Light District au milieu des gangs et de la drogue, à 18 ans il part de chez lui pour aller faire fortune sur l’île de Staunton Island ou il est homme de main pour un chef de la mafia. A 27 ans, il ouvre un magasin de vêtements nommé Binco sur la 5ème avenue. Après un grand succès avec ce magasin, il en ouvrit toute une chaîne dans l’état de San Andreas. A 38 ans, il devient grand patron d’une entreprise de l’immobilier sur Shoreside Vale puis il racheta des petites entreprises et finit par acheter son propre building sur Staunton Island. Aujourd’hui il s'attaque au gouvernement de la ville de Liberty City.
 
 Affaire à suivre...
-
-<!--kg-card-end: markdown-->

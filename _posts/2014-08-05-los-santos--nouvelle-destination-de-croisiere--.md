@@ -42,5 +42,3 @@ _Le "Ferry Terminal" d'Alderney_
 Autre exemple à Algonquin où des "pier" ont toujours existé entre Castle Gardens City et Varsity Heights pour accueillir les navires en provenance d'Europe.
 
 Los Santos a donc beaucoup d'amélioration à apporter à ses ports avant de devenir la première destination de croisière, de même que, ces géants des mers devenant de plus en plus gros, notre ville devra prévoir à l'avance des quais assez grands si des travaux ont lieux.
-
-<!--kg-card-end: markdown-->

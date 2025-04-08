@@ -118,5 +118,3 @@ A Vendre - Dodge Intrepid 1999. 101 547 Kms certifiés, bon état général. Pr�
 Lenny au **555-4712**
 
 ![](/content/images/2005/01/grilleannonce.jpg)
-
-<!--kg-card-end: markdown-->

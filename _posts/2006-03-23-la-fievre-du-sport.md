@@ -29,5 +29,3 @@ _La Chevrolet de Joseph Mc Smith devant le comissariat de Los Santos._[La maison
 Les futurs appartements du criminel.](/content/images/2005/01/cell1.jpg)
 
 Le Liberty Tree remercie les forces de l'ordre de Los Santos pour leur active coopération concernant ce reportage.
-
-<!--kg-card-end: markdown-->

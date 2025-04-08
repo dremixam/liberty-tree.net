@@ -33,5 +33,3 @@ Et le meilleur est à venir : suite aux résultats des diverses analyses post-mo
 _Le célèbre tramway verra son programme informatique totalement revu pour des raisons évidentes de sécurité._
 
 > Le mot de la fin : _C'est le 665è mort écrasé par un tramway cette année. Je vais faire reprogrammer tout le réseau, je ne tiens pas à ce que le malheur s'abatte sur San Fierro comme une pantoufle sur une mouche_, a déclaré le Maire.
-
-<!--kg-card-end: markdown-->

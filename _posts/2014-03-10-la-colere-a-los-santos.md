@@ -62,5 +62,3 @@ Pour les autres péchés :
 [Luxure](/2014/02/20/la-luxure-a-los-santos/),  
 [Gourmandise](/2014/02/28/la-gourmandise-a-los-santos/),  
 [Envie](/2014/02/26/lenvie-a-los-santos/).
-
-<!--kg-card-end: markdown-->

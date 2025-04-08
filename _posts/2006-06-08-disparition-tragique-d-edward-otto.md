@@ -64,5 +64,3 @@ Aujourd'hui, c'est le Vice-président qui prend les commandes, Michael Roller, u
 > C'est un événement tragique qui est arrivé aujourd'hui. Edward Otto est décédé et nous laisse seuls. Je suis donc&nbsp;dans l'obligation de le relever dans ses fonctions et je prend dès aujourd'hui le commandement de la société Otto's Auto en tant que PDG.
 
 Il est à noté que c'est la première fois que la société Otto's Auto n'est pas dirigé par un membre de la famille Otto.
-
-<!--kg-card-end: markdown-->

@@ -58,5 +58,3 @@ La police, craignant des représailles de la part des Ballas ou une nouvelle att
 _La police est sur les dents._
 
 Il ne reste plus qu'à espérer que les événements de novembre 2005,[qui avaient duré près de deux semaines](/2005/11/26/apres-lembrasement-generalise--le-calme-semble-revenu/), ne resteront qu'un mauvais souvenir et ne se reproduiront pas dans notre état. Ce serait bien dommage d'écorner encore une fois l'image de la Cité des Anges d'une telle manière.
-
-<!--kg-card-end: markdown-->

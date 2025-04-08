@@ -13,5 +13,3 @@ Après le boom de la prostitution (cf : [Boom de la prostitution à Liberty](/20
 La Spank est illégal à Liberty City, ce qui implique un marché noir au profit des mafieux. La solution à ce problème serait de légaliser sa consommation, mais la municipalité a reçu des e-mails anonymes (saufs ceux des Yardies) disant que si la mairie légalise la Spank, elle aura de "très mauvaises surprises". Ces e-mails viennent probablement de dealers et de gangs, notamment le gang des Yardies, l'actuel distributeur de Spank à Liberty City et qui n'a sans doute pas envie de voir la mairie lui voler son travail.
 
 Espérons que la municipalité trouvera une solution contre ce marché noir !
-
-<!--kg-card-end: markdown-->

@@ -98,5 +98,3 @@ Après quelques jours de recherche, je commence mes investigations. La plupart d
 > **M. S.:** Cela s'appelait le projet "Jet-Pack". Une sorte de gros sac à dos avec deux fusées pour décoller. Toutes les manœuvres étaient possibles et le hauteur maximum était de 10 mètres. Nous avions finalisé le prototype. Je ne sais pas ce qu'ils font avec depuis.
 
 Ainsi s'achève mon dossier. J'espère qu'il aura pu éclairer les sceptiques et fait fantasmer les rêveurs. En attendant c'est a vous de vous faire votre opinion sur ce lieu qui n'a pas fini de faire parler de lui.
-
-<!--kg-card-end: markdown-->

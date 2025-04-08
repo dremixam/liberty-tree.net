@@ -25,5 +25,3 @@ Beaucoup d'autre modèles font parties des ces vols quotidiens.
 Malgré les gros efforts des fabricants, en termes d'antivol et d'alarmes, les voleurs sont en général bien équipés et sont vite au courant des nouvelles technologies.
 
 Habitants de Liberty, restez sur vos gardes…
-
-<!--kg-card-end: markdown-->

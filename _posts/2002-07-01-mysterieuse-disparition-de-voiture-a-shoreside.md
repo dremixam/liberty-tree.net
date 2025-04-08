@@ -15,5 +15,3 @@ C'est hier après midi, vers 16h30 que la voiture de Patrick Homer a mystérieus
 > Ouais, trop bizarre, j'prenais tranquillement le tunnel de Shoreside pour aller à Staunton, quand ma voiture s'est mise à couler dans l'asphalte comme si c'était des sables mouvants. J'ai tout essayé mais aucun moyen de la faire ressortir, par la même occasion je me suis retrouvé aspiré moi aussi, et après avoir perdu conscience je me suis retrouvé à l’hôpital de Staunton. Pfft ça faisait pas 5 min que je l'avais piqué cette Banshee, et elle était encore comme neuve... j'suis vert.
 
 Personne n'a encore pu fournir d'explications scientifiques et logiques à ce mystère, mais espérons que quelqu'un va vite éclaircir tout ça avant que de nouvelles voitures ne disparaissent.
-
-<!--kg-card-end: markdown-->

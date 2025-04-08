@@ -59,5 +59,3 @@ Ou sinon, si vous avez dû courage en ces temps de crise, n’hésitez pas à ou
 _Jordan Miles, tatoueur._
 
 Ce sont de belles paroles qui montrent bien que la campagne de Blaine County n’est pas aussi déserte en emplois que l’on veut nous le faire croire. Certains y arrivent, d’autres pas, mais ce n’est pas impossible. L’exode rural n’est plus aussi présent qu’il y a cinquante ans. Il reste cependant encore bien des domaines à exploiter, comme le tourisme par exemple. Espérons que les politiciens s’intéresseront vraiment à cette région…
-
-<!--kg-card-end: markdown-->

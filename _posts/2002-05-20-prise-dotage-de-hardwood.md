@@ -50,5 +50,3 @@ La prise d'otage du drogué qui s'est crashé en Dodo sur le siège social des M
 **19h00 :** Les deux fuyards s'emparent de l'hélicoptère et s'enfuient.
 
 On ne sait rien d'eux pour le moment, à part qu'ils mènent la vie dure au Cartel Colombien. Le reste de cette sordide aventure mais néanmoins véritable ne vaut même pas la peine d'être raconté, de toutes manières ces événements sont monnaie-courante dans notre Belle ville et pis de toute façons j'en ai marre d'écrire.
-
-<!--kg-card-end: markdown-->

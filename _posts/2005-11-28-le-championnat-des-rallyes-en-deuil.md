@@ -41,5 +41,3 @@ Faisons marche arrière pour revenir dans sa brillante carrière :
 **2005 :** Présentation de la Sultan WRC Evo6 Turbo (désormais, les Sultan sont équipées d'un turbo qui les propulse à 300hp) C'est aussi avec cette machine qu'il perdra la vie...
 
 Aucune trace de sabotage ou erreur technique n'a été repérée, c'est seulement une erreur de conduite de la part du pilote. Le rallye a été interrompu. On vient d'apprendre que l'année prochaine, le trophée du Tour de San Andreas s'appellera le "Trophée Ronnie Stevens" et qu'un monument sera dressé à Doherty, lieu où il a passé sa jeunesse.
-
-<!--kg-card-end: markdown-->

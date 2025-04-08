@@ -68,5 +68,3 @@ Pour Phil Bracali, il faut trouver et débusquer la personne qui a assassiné ce
 _Phil Bracali, pris pour cible lui aussi ?_
 
 Au moment où nous finissions l'article, nous avons été contacté par le VCPD pour nous signaler que le lieutenant avait été renversé par une voiture. Ce dernier, malgré des côtes cassées, est encore en vie et reste à l'hôpital sous haute surveillance policière.
-
-<!--kg-card-end: markdown-->

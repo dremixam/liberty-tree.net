@@ -66,5 +66,3 @@ Nous avons rencontré Mr Arthur Van Walden, responsable du secteur télé-réali
 > **AVW :** Bien sûr ! Nous savons que ce sera un succès. Alors nous recommencerons. L’appât du gain est le seul objectif dans le show-business.
 
 L'avenir nous dira bientôt si Love Media TV a réussi son coup puisque la perte de téléspectateurs depuis l'arrêt de la diffusion de A.M.I.S a fait beaucoup souffrir la chaîne.
-
-<!--kg-card-end: markdown-->

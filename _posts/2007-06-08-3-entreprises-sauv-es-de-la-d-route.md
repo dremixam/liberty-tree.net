@@ -39,5 +39,3 @@ Mais, Donald Frump était là et a su aider ces 3 trois entreprises. Nous avons 
 > **Liberty Tree :** Donc vous éprouvez quelque chose, vous n'avez pas fait ça que pour le fr... heu le bénéfice. Nous vous remercions de nous avoir accordé ces quelques secondes.
 
 Sur ces mots, Donald Frump est monté dans sa limousine direction Vice City. Pour nous ce sera Los Santos...
-
-<!--kg-card-end: markdown-->

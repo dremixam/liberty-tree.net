@@ -39,5 +39,3 @@ Nous avons brusquement dû couper l'entrevue, mais voici justement les photos en
 ![](/content/images/v1/user0/Metro7.jpg)
 ![](/content/images/v1/user0/Metro8.jpg)
 ![](/content/images/v1/user0/Metro9.jpg)
-
-<!--kg-card-end: markdown-->

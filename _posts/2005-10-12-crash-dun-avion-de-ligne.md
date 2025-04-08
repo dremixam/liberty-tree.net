@@ -45,5 +45,3 @@ Comme il fallait s'y attendre le F.B.I. a rapidement stoppé cette interview et 
 Pour le moment l'enquête est au point mort et les familles attendent beaucoup des 2 boîtes noires.
 
 ![](/content/images/2005/01/AT-400%20en%20vol_0.jpg)
-
-<!--kg-card-end: markdown-->

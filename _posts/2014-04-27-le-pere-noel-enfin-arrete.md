@@ -26,5 +26,3 @@ Ainsi, la police s'est rendue au domicile d'un certain Antonio Rodriguéz, rési
 _Le commissariat de Vespucci Beach._
 
 Antonio Rodriguéz a été écroué et attend son procès qui devrait avoir lieu d'ici quelques semaines. C'est donc la fin de l'histoire du Père Noël braqueur...
-
-<!--kg-card-end: markdown-->

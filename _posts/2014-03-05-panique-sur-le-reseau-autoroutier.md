@@ -46,5 +46,3 @@ Personne à l'heure actuelle n'a pourtant été en mesure d'identifier le compli
 Devant l'incontestable violence faisant rage sur les autoroutes de l'état, nous ne pouvons que vous encourager à ne les emprunter sous aucun prétexte, sauf bien sûr si vous tenez absolument à terminer votre misérable vie fixé à un panneau de signalisation, totalement desséché par le soleil cuisant du désert et nu comme le ver pouvant être aperçu sortant de l'une de vos deux cavités orbitaires.
 
 Notre équipe vous tiendra bien évidemment informé de toute information pouvant être divulguée au fur et à mesure que l'enquête menée par les autorités - s'étant jusqu'ici révélées incompétentes - progresse, et nous engageons par ailleurs à relayer les éventuelles consignes émises par ces dernières.
-
-<!--kg-card-end: markdown-->

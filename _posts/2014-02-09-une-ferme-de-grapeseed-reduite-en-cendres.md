@@ -46,5 +46,3 @@ Seul l'avenir nous dira qui ou quoi est responsable de cet incendie suspect, qui
 
 ![La ferme en ruines.](/content/images/2016/06/Grapeseed_0.jpg)
 _La ferme en ruines._
-
-<!--kg-card-end: markdown-->

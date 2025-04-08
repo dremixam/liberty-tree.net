@@ -31,5 +31,3 @@ _Jackson Hunt, employé chez LTD Limited._
 Toujours est-il que malgré cette résistance des commerçants, les braquages mineurs sont toujours aussi nombreux, et chacun tente de trouver une solution à ce problème. Reste à espérer une baisse du taux de criminalité, ou un moyen de dissuasion suffisamment efficace pour réduire le nombre de méfaits de ce genre...
 
 ![](/content/images/2016/06/Supermarket5.jpg)
-
-<!--kg-card-end: markdown-->

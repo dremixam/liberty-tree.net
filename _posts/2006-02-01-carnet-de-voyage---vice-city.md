@@ -71,5 +71,3 @@ A Vice City, la mer est si bleue que l'on dirait de l'eau de javel. Quel dépays
 C'est donc sur ces magnifiques images que s'achève la deuxième étape de notre carnet de voyage...
 
 ...See you in Los Santos... ;)
-
-<!--kg-card-end: markdown-->

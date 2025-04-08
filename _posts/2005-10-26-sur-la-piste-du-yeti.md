@@ -48,5 +48,3 @@ Finalement, après de longs efforts pour attraper les deux zigotos sous l'empire
 > **Tom:** Ouais d'ailleurs, ça leur a bien fait plaisir, la petite bouteille qu'on leur a emmené...
 
 C'est donc sur ces mots que je clôture cet article. Avis aux amateurs de yéti donc, la montagne a ses risques qu'il faut prendre au sérieux.
-
-<!--kg-card-end: markdown-->

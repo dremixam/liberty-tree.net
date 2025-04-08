@@ -39,5 +39,3 @@ Mais malgré cela, Mr. Fidel Raùl bénéficiera d'un logement gratuit proposé 
 
 ![Fidel Raùl, viré par la municipalité.](/content/images/2005/01/fidel-ra_l.jpg)
 _Fidel Raùl, viré par la municipalité._
-
-<!--kg-card-end: markdown-->

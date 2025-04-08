@@ -32,5 +32,3 @@ _Sur ces photos, on peut voir le sous-marin avant sa disparition._
 Le sous-marin n'a pas encore été retrouvé, mais les autorités se font peu d'illusions.
 
 > **Agent Matt Darms :** Les voleurs doivent déjà être loin... On les retrouvera peut-être, mais dans longtemps...
-
-<!--kg-card-end: markdown-->

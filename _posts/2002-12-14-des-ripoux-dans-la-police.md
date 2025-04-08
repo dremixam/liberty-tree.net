@@ -24,5 +24,3 @@ Bizarrement les policiers sont arrivés très lentement ( 1 heure après l'appel
 Si ça s'était fini là ça aurait été scandaleux, mais non ce n'est pas fini, la personne qui s'était plainte est actuellement en prison pour faux témoignage, cet article est écrit pour la faire sortir.
 
 Il faudrait que la police des polices mette son nez là dedans à moins qu'ils soient déjà pourris à leur tour.
-
-<!--kg-card-end: markdown-->

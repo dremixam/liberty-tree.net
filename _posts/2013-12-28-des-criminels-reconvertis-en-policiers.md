@@ -43,5 +43,3 @@ Toutefois, le programme s'avère être efficace puisque la plupart des nouveaux 
 
 ![LSPD, toujours là pour vous.](/content/images/2016/06/0_0%20%283%29_3.jpg)
 _LSPD, toujours là pour vous._
-
-<!--kg-card-end: markdown-->

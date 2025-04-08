@@ -63,5 +63,3 @@ J'appelle un habitant, je le questionne, ce tag n'était pas là ce matin, je se
 ![](/content/images/2005/01/tag%206.jpg)
 
 Et nous revenons au Liberty Tree, tout nouveau de cet échange avec la population, et de valeurs qui nous étaient si longtemps apparues comme inutiles. La famille, le respect, l'entraide. ici, se termine notre journée des tags. A bientôt !
-
-<!--kg-card-end: markdown-->

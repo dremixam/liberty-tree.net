@@ -25,5 +25,3 @@ Durant l'après-midi, la police a relevé un inquiétant pic du taux de criminal
 ![](/content/images/2016/06/tv.jpg)
 ![Le chaos à San Fierro...](/content/images/2016/06/tv3.jpg)
 _Le chaos à San Fierro..._
-
-<!--kg-card-end: markdown-->

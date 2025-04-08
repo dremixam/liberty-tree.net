@@ -41,5 +41,3 @@ Alex Dobcek et Dimitri Sautine sont aujourd'hui activement recherchés par les f
 ![](/content/images/2005/01/dobcek.jpg)
 ![Le portrait robot de Dobcek et Sautine, activement recherchés par les forces de l'ordre et le FBI.](/content/images/2005/01/sautine.jpg)
 _Le portrait robot de Dobcek et Sautine, activement recherchés par les forces de l'ordre et le FBI._
-
-<!--kg-card-end: markdown-->

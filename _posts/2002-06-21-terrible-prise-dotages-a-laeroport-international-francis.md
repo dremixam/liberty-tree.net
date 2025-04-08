@@ -18,5 +18,3 @@ Deux hommes seraient à l'origine de cette prise d'otages, l'un des hommes a dem
 La police et le FBI sont arrivés rapidement sur les lieux, laissant place à plusieurs échanges de coups de feu. D'après les premières estimations, il y a deux civils légèrement blessés et un des preneur d'otages aurait succombé à ses blessure sur le chemin de l'hôpital.
 
 Son complice est mise en examen au QG de police de Liberty City à Satunton.
-
-<!--kg-card-end: markdown-->

@@ -32,5 +32,3 @@ Le roi est mort, vive le roi. Le Liberty Tree repart ainsi pour de nouvelles ave
 
 ![Le quartier de Star Junction, artère de Liberty City](/content/images/2016/06/Sans%20titre.png)
 _Le quartier de Star Junction, artère de Liberty City_
-
-<!--kg-card-end: markdown-->

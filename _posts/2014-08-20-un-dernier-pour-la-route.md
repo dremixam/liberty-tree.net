@@ -42,5 +42,3 @@ _Le véhicule de Satyr (ou Biorn) lorsqu'il avait été découvert, le 1er juin 
 Satyr était ensuite revenu en 2013 au journal, pour lequel il n'a écrit qu'un article, sur [un attentat manqué à Los Santos](/2013/11/25/attentat-manque-au-commissariat-de-los-santos/). Ensuite, plus rien. Occupé à commettre ces crimes sordides, pour une raison que l'on ignore encore. Dans sa lettre, encore une fois, il juge le Liberty Tree responsable de ses déboires. Il y a également décrit le modus operandi de ses crimes, en donnant de nombreux détails.
 
 La police de Los Santos a donc déclaré Satyr coupable de cinq homicides volontaires et prémédités, et son cadavre a été condamné à purger une peine de 150 ans à la prison de Bolingbroke.
-
-<!--kg-card-end: markdown-->

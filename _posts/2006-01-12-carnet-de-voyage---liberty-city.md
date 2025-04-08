@@ -67,5 +67,3 @@ Des visites guidées de l'intérieur du monstre métallique sont organisés tout
 Nous espérons que ce premier carnet vous à plu et qu'il vous aura donner envie de visiter Liberty City.
 
 See you in Vice City ... ;)
-
-<!--kg-card-end: markdown-->

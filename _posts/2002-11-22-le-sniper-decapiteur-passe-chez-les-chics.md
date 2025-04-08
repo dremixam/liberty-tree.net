@@ -23,5 +23,3 @@ Le FBI est toujours dans l'impasse en ce qui concerne le tueur, le profiler de W
 Nous confiait un enquêteur du FBI.
 
 Ainsi, les prostituées continuent leur mouvement de grève, en menaçant cette fois-ci de défiler un jour devant les bureaux du FBI.
-
-<!--kg-card-end: markdown-->

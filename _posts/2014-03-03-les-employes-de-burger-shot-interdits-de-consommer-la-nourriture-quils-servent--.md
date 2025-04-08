@@ -41,5 +41,3 @@ Alors que la polémique ne cesse d'enfler et que l'image de Burger Shot est déj
 > Ces propos diffamatoires sont tout simplement scandaleux ! Croyez moi, Burger Shot va réagir, et cette ordure sera traînée en justice. On retrouvera son nom, on saura de qui il s'agit !
 
 Ainsi donc, la chaîne Burger Shot est au plus mal au niveau de son image, et il faudra de longs mois avant que celle-ci reprenne un peu de couleurs. Et peut-être que dans quelques années, Burger Shot redeviendra le numéro 1 national de la restauration rapide, lui qui on le rappelle, est toujours numéro 1 mondial, mais devancé depuis peu par Up-N-Atom aux États-Unis.
-
-<!--kg-card-end: markdown-->

@@ -18,5 +18,3 @@ Notamment avec la "bonne vieille batte de Baseball".
 J'ai interrogé un "messager" et il m'a dit qu'il touchait 7,5 % du racket. Reste 92,5 pour Leone.
 
 Le maire a déjà créé une société pour venir en aide aux victimes mais ces derniers sont souvent menacés. Le point positif est que de plus en plus d’entreprises se dénoncent rackettées. Un pas en avant pour la lutte anti-criminelle.
-
-<!--kg-card-end: markdown-->

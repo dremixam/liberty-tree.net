@@ -19,5 +19,3 @@ Ces nouveaux véhicules alliés aux stages d'entrainement organisés par la mair
 La police, pour être bien sur d'être prête au bon moment, a même organisée un stage d'initiation à la grande vitesse. Ce stage s'est déroulé sur la piste n°2 de l'aéroport International Francis (voir les photos) les policiers ont ainsi put vérifier la puissance de ces nouveaux bolides.
 
 Espérons juste maintenant que les malfrats ne les volent pas comme il y a quelque temps ils ont volé tout un garage du SWAT.
-
-<!--kg-card-end: markdown-->

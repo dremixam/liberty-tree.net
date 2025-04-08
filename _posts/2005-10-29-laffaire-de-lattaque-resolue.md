@@ -44,5 +44,3 @@ Le piège a mal tourné, et la police a dû intervenir avec des camions "mule" p
 _photo prise par un policier_
 
 La cargaison transportée dans le camion était en fait du caviar, eh oui, juste du caviar, mais assez pour se faire un petit million de dollars en le revendant au marché noir.
-
-<!--kg-card-end: markdown-->

@@ -46,5 +46,3 @@ Voici les quelques photos de ce très beau coupé :
 ![](/content/images/2016/07/Hemi6.jpg)
 ![](/content/images/2016/07/Hemi8.jpg)
 ![](/content/images/2016/07/Hemi9.jpg)
-
-<!--kg-card-end: markdown-->

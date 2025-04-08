@@ -115,5 +115,3 @@ Voilà, la journée est terminée! "Repassez quand vous voulez! Les portes sont 
 Demain est un autre jour et la passion pour le métier de policier augmente avec le temps. Être policier, c'est avant tout faire respecter l'ordre et la justice tout en risquant sa vie. Le plus dur doit être le fait de travailler dans une ville comme Los Santos qui ne dort jamais: l'action est toujours là et le risque aussi.
 
 Aimer ce métier vient peut-être du fait d'aider les autres et de pouvoir réaliser son rêve de garçon...
-
-<!--kg-card-end: markdown-->

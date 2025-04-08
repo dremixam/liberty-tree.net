@@ -17,5 +17,3 @@ Les membres de la Triade ont barré l'entrée de la villa avec leurs camions, et
 Le conducteur de la limousine n'a visiblement pas perdu son sang froid puisqu'il est rentré sans pitié dans les tireurs et les camions postés devant l'entrée et s'est empressé de garer la voiture dans le garage de la villa.
 
 D'après notre taupe infiltrée dans la Mafia, la Triade n'a pas apprécié que Salvatore ait fait descendre ses principaux chefs la semaine dernière et préparait l'embuscade depuis quelques jours déjà. Devant l’échec qu'elle a subit hier, aucun doute qu'une nouvelle fusillade devrait bientôt éclater...
-
-<!--kg-card-end: markdown-->

@@ -87,5 +87,3 @@ Un vendeur dans la rue:
 Bref, malgré ce drame, la vie continue. Et encore plus qu'avant d'ailleurs.
 
 La vente aux enchères des affaires de newz.report commencera demain à 17h pour fêter l’événement. La valeur totale est estimée à 3.7$.
-
-<!--kg-card-end: markdown-->

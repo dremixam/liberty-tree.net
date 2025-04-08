@@ -41,5 +41,3 @@ Voilà l'histoire de ce cambriolage loupé à cause (ou grâce) d'un petit homme
 Après le service de sécurité publique, c'est le privé qui commence à être corrompus.
 
 **Photo de Fido-le-muet**
-
-<!--kg-card-end: markdown-->

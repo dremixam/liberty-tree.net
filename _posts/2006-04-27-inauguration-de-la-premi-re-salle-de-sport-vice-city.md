@@ -54,5 +54,3 @@ Il est vrai que la salle est très bien équipée: Espace fitness pour les dames
 Conclusion: Beaucoup pour pas cher.
 
 Il&nbsp;faut croire&nbsp;que l'idée originale de Mr Friday fera son petit bout de chemin et que son espace de sport et son programme de remise en forme motivera les viciens et les aideront à se défendre. Seule ombre au tableau, il reste à espérer que les criminels de la ville ne viendront pas y fortifier leur corps pour les rendre encore plus dangereux et agressifs...
-
-<!--kg-card-end: markdown-->

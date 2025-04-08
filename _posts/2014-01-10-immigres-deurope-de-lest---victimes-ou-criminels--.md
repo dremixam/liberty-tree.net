@@ -39,5 +39,3 @@ A ce sujet, le maire a déclaré :
 > Hove Beach ? Où est-ce ?
 
 Nobles convictions ou projets criminels, le mystère reste entier.
-
-<!--kg-card-end: markdown-->

@@ -43,5 +43,3 @@ Suite au désarroi de Ray, nous avons voulu en avoir le cœur net. C'est ainsi q
 _La mairie de Los Santos._
 
 Le Maire Carter se veut rassurant et semble prendre&nbsp;un maximum de précautions au sujet de cette éventuelle algue inconnue au bataillon des scientifiques marins de Los Santos. Les prochains jours seront à coup sûr révélateurs d'informations intéressantes...
-
-<!--kg-card-end: markdown-->

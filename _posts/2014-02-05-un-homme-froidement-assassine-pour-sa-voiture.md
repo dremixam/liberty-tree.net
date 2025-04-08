@@ -17,5 +17,3 @@ Cette photo a été prise discrètement par un voisin. Lorsque le corps a été 
 Quoiqu'il en soit, tout ceux qui le désire peuvent participer à la marche funèbre qui sera organisée dans les rues de Los Santos ce samedi en hommage à Mike et à toutes les autres victimes innocentes.
 
 Le maire de la ville quand à lui, s'est enfin décidé à faire quelque chose: les véhicules devront être obligatoirement balisés par leur propriétaire afin que l'on puisse les localiser en cas de vol, sous peine d'amende. Cela suffira-t-il ? Seul l'avenir nous le dira...
-
-<!--kg-card-end: markdown-->

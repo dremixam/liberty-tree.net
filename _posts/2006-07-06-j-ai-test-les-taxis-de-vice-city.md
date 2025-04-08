@@ -48,5 +48,3 @@ Parlons un peu du chauffeur maintenant. J'ai senti en lui l'influence que ses em
 _Mon chauffeur se dirigeant vers sa cible._
 
 Enfin, nous arrivons à l'aéroport, toujours vivant de cette expérience. Maintenant, le moment est venu de régler la note : le chauffeur me tend la main et m'observe du coin de l’œil entrain de fouiller dans mon porte-feuille. Je devais payer&nbsp;$150 et j'avais légèrement l'impression &nbsp;de m'être fait avoir quand l'homme me dit "C\_'est pas personnel, c'est les affaires !"\_. Ah, elles ont bon dos les affaires avec les taxis Kaufman. Mais dès que vous ferez un passage à Vice City, n'hésitez plus à prendre cette charmante compagnie. Certes, les trajets sont un peu chers mais voyez toutes les surprises que vous avez au fil du voyage...
-
-<!--kg-card-end: markdown-->

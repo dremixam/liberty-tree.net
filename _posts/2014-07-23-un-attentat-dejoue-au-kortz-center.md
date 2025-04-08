@@ -41,5 +41,3 @@ La police a commencé à étudier les caméras de surveillance afin d'identifier
 _Calvin Brighton._
 
 Le suspect n'a pas encore été identifié. La police de Los Santos recommande aux quelconques témoins d'événements similaires de prévenir immédiatement le commissariat le plus proche.
-
-<!--kg-card-end: markdown-->

@@ -23,5 +23,3 @@ Mais, depuis quelques mois, les habitants du "quartier des affaires" ne sont plu
 Je suis donc allé enquêter sur le terrain pour voir si ces propos n'étaient pas exagérés. Et j'ai été forcé de constater que des lieux naturels étaient bafoués par la pub!
 
 Le maire O'Donnovan a annoncé il y a peu qu'il était prêt à accueillir les présidents d'associations. Du côté des protestataires, on espère une mobilisation d'importance pour la manifestation "anti-pubs" qui aura lieu samedi prochain. Les liberticiens sont attendus nombreux devant la mairie, près du parc Belleville.
-
-<!--kg-card-end: markdown-->

@@ -42,5 +42,3 @@ L'équipe du Liberty Tree adresse d'ailleurs de sincères condoléances à toute
 
 ![](/content/images/v1/user23/maf06.jpg)
 ![](/content/images/v1/user23/maf07.jpg)
-
-<!--kg-card-end: markdown-->

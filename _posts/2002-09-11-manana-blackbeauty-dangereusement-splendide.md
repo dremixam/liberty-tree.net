@@ -77,5 +77,3 @@ Je vous laisse en (bonne) compagnie de quelques photos et vous dit "à la semain
 ![](/content/images/2016/07/MananaBlackBeauty4.jpg)
 ![](/content/images/2016/07/MananaBlackBeauty5.jpg)
 ![](/content/images/2016/07/MananaBlackBeauty6.jpg)
-
-<!--kg-card-end: markdown-->

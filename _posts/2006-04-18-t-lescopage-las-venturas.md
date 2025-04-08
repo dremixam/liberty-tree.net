@@ -51,5 +51,3 @@ Voici donc les paroles qui nous été reportées par les médias.
 En espérant que les survivants soient maintenant heureux et aient peu de séquelles mentales et physiques.
 
 Affaire à suivre.
-
-<!--kg-card-end: markdown-->

@@ -52,5 +52,3 @@ Nous avons recherché à avoir le ressenti des habitants de Los Santos face à c
 > **Barry, 53 ans :** Alors ça il fallait s'y attendre, mon fusil et moi on va les expatrier vite fait bien fait, c'est moi qui vous le dis !
 
 La police a-t-elle été trop sévère ? Ces gens du voyage ont-il eu raison d'effectuer ces abus ? La population de Los Santos est-elle vraiment raciste à 48% ? A vous de le dire !
-
-<!--kg-card-end: markdown-->

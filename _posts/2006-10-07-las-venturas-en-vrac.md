@@ -48,5 +48,3 @@ L'enquête du LVPD suit son cours.
 ![](/content/images/2005/01/LVV7.jpg)
 ![](/content/images/2005/01/LVV8.jpg)
 ![](/content/images/2005/01/LVV9.jpg)
-
-<!--kg-card-end: markdown-->

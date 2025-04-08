@@ -50,5 +50,3 @@ Sur ce, je vous dit&nbsp;à bientôt, et j'espère vous avoir donné envie d'inv
 ![](/content/images/2005/01/Lowrider3.jpg)
 ![Quelques photos de Lowriders que j'ai prise pendant la réunion.](/content/images/2005/01/Lowrider4.jpg)
 _Quelques photos de Lowriders que j'ai prise pendant la réunion._
-
-<!--kg-card-end: markdown-->

@@ -84,5 +84,3 @@ C'est donc sur ces magnifiques images que s'achève l'étape bonus de notre carn
 See you in&nbsp;Las Venturas&nbsp;...&nbsp; ;)
 
 **Le prochain article sera donc&nbsp;écrit&nbsp;par P130 comme je l'avais déjà&nbsp;annoncé à la fin de la 4ème étape du Carnet de Voyage.**
-
-<!--kg-card-end: markdown-->

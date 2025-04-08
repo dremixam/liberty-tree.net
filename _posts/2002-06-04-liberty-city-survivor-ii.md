@@ -72,5 +72,3 @@ Les éliminations approchent, et tout le monde est angoissé. Kevin et Billy ne 
 C'est finalement Darkel qui est éliminé. Fou de rage, il s'empare de son M-16 caché dans la roue de son MM et blesse Johanna et Billy. C'est Kevin qui a le réflexe de pousser sa roue sur lui et de l'écraser. Transporté aux urgences, Darkel s'échappera quelques jours plus tard.
 
 Ici se termine la première partie du résumé de Liberty Survivor II. Pour connaître la fin de cette émission qui passionne et crétinise tant les jeunes, rendez-vous dans l'édition de demain.
-
-<!--kg-card-end: markdown-->

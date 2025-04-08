@@ -18,5 +18,3 @@ Heureusement, grâce à une roquette bien placée, le vieillard fut expédié da
 ![](/content/images/v1/user6/vieuxfou1.jpg)
 ![](/content/images/v1/user6/vieuxfou2.jpg)
 ![](/content/images/v1/user6/vieuxfou3.jpg)
-
-<!--kg-card-end: markdown-->

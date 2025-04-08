@@ -54,5 +54,3 @@ Mais je préfère laisser parler les photos. A la semaine prochaine et bonne rou
 ![](/content/images/2016/07/Infernus6.jpg)
 ![](/content/images/2016/07/Infernus7.jpg)
 ![](/content/images/2016/07/Infernus8.jpg)
-
-<!--kg-card-end: markdown-->

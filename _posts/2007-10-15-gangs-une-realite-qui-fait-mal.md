@@ -82,5 +82,3 @@ Mais là encore, la vérité est erronée. Oui parce que les grandes arrestation
 _OGF, un gang qui fais peur..._
 
 Les gangs qui peuplent les rues de Los Santos et les autres villes du monde ont développés une sous-culture basé sur la violence et l'argent qui attirent de plus en plus de membres, surtout des enfants, qui y rentre de plus en plus jeune (ndlr, en moyenne 15-16 ans ). Quand on décide d'y rentrer, c'est surtout pour rechercher une famille, un soutien ... Ce problème ne concerne donc pas seulement la police, mais toute la société ...
-
-<!--kg-card-end: markdown-->

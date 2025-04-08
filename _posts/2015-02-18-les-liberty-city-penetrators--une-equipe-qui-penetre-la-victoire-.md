@@ -31,5 +31,3 @@ _Frédéric Cros joue un match contre les San Fierro Sporting._
 Après cette terrible défaite, les joueurs des Los Santos Panic ont passé deux nuits au grand Majestic Hotel sur Middle Park, de quoi récupérer de cet échec.
 
 Sur ce, restez fidèle au Liberty Tree, premier sur les Los Santos Panic.
-
-<!--kg-card-end: markdown-->

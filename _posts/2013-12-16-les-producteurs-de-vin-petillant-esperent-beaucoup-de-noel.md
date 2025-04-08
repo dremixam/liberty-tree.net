@@ -41,5 +41,3 @@ Pour finir, nous avons également interrogé un ouvrier des vignes afin de conna
 > Pour ma part, je suis simplement content d’avoir du travail en ce moment. Ben oui, un boulot payé plus que le salaire minimum, sans qualification professionnelle, ça court pas les rues d’ordinaire alors imaginez aujourd’hui. Même si le patron dit qu’il a du mal, je suis certain qu’il ne coulera pas de si tôt. Et puis, franchement, qui ne boit pas de ce vin ? Tous mes collègues sont les premiers à en acheter, et encore plus pour les fêtes.
 
 Espérons donc que ces paroles soient vraies. Ce serait horrible qu’un patrimoine comme celui-ci disparaisse pour une sordide histoire d’argent. Surtout que le vignoble est une des principales richesses naturelles de la région depuis plus de trente ans déjà.
-
-<!--kg-card-end: markdown-->

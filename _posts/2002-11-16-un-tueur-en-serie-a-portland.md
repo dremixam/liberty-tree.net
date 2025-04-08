@@ -25,5 +25,3 @@ La police, en réponse à une certaine peur qui s'instaure dans les rues de Port
 ![](/content/images/v1/user21/portland_c_3.jpg)
 ![](/content/images/v1/user21/portland_c_4.jpg)
 ![](/content/images/v1/user21/portland_c_5.jpg)
-
-<!--kg-card-end: markdown-->

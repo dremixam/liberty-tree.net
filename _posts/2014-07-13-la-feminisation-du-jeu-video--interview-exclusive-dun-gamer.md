@@ -42,5 +42,3 @@ Pour finir, nous avons recueilli quelques témoignages de passantes.
 > **Sofia :** À 14-15 ans, j’ai joué un peu ligne oui. C’était sympa, mais les mecs me prenaient toujours pour un gamin de huit ans… De toute façon j’ai arrêté maintenant. Il faut grandir dans la vie hein !
 
 Les jeux vidéo seraient-ils un signe d’immaturité d’après vous, ou tout le contraire ?
-
-<!--kg-card-end: markdown-->

@@ -54,5 +54,3 @@ L'entretien n'est pas allé plus loin, Nelson, pâle, tremblant et visiblement a
 De retour à Los Santos, « bak in da tauwn », pour reprendre les propos de M. Biorn, ce dernier a confié qu'il allait reprendre sa carrière de journaliste en utilisant le même nom qu'il a utilisé ces 7 dernières années : Satyr.
 
 Et c'est ainsi que s'achève l'épopée terrible et mystérieuse de l'affaire Biorn : de la drogue, des putes, des flingues et un mort, les ingrédients de base d'une anecdote typique de Los Santos, mais une conclusion unique...
-
-<!--kg-card-end: markdown-->

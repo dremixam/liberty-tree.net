@@ -40,5 +40,3 @@ Pour finir, nous vous invitons, vous lecteurs, à citer dans les commentaires de
 
 ![Le feu d'artifice tiré au-dessus de Del Perro Pier.](/content/images/2016/06/Retrospective1_0.jpg)
 _Le feu d'artifice tiré au-dessus de Del Perro Pier._
-
-<!--kg-card-end: markdown-->

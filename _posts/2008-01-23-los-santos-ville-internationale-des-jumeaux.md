@@ -61,5 +61,3 @@ Et les jumeaux sont partout à Los Santos. Nous avons rencontré Abe et John W.,
 
 ![Abe et John W]()
 _Abe et John W_
-
-<!--kg-card-end: markdown-->

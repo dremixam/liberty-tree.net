@@ -23,5 +23,3 @@ Et Lenny avait raison. Si Michael Thornes, le pilote du Shamal, était bien mort
 
 ![Javier Madrazo, photo d'archive.](/content/images/2016/06/JavierMadrazo-GTA5%20%281%29.png)
 _Javier Madrazo, photo d'archive._
-
-<!--kg-card-end: markdown-->

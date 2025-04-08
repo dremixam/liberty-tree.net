@@ -26,5 +26,3 @@ Cet homme est accusé de corruption, c'est la preuve qu'il n'a pas assez corromp
 Il aurait aussi commis beaucoup de meurtres, tous ceux qu'ils le faisaient "chier" il les "dégommait", sans trop se soucier de où il tirait. C'est alors que des rescapés l'ont menacé de divulguer les activités spéciales du conseiller.
 
 Les bons 75 % de ceux qui ont "osé" le menacer se sont trouvés morts dans leur lit d'hôpital un ou deux jours après. Pour le reste ils ont survécu grâce à la corruption et un seul, qui était sous haute surveillance à divulgué le secret. Désormais, il risque d'être toute sa vie sous "haute surveillance".
-
-<!--kg-card-end: markdown-->

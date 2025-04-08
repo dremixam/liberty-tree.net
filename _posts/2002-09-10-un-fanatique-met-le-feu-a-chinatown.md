@@ -32,5 +32,3 @@ Notre ville essuie-t-elle une nouvelle vague de violence?
 ![](/content/images/v1/user23/fana03.jpg)
 ![](/content/images/v1/user23/fana05.jpg)
 ![](/content/images/v1/user23/fana04.jpg)
-
-<!--kg-card-end: markdown-->

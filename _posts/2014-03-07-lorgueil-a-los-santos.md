@@ -55,5 +55,3 @@ Nous avons interviewé Bob Mattews et Russell Kane, les co-fondateurs du réseau
 > **Bob Mattews :** Tout à fait d'accord Russell. Et nous au moins on ne se fait pas sauter la cervelle en pleine conférence, haha !
 
 Nous avons tous un côté fier de notre pays, peut être même de nous-même, mais avons-nous vraiment de quoi l'être ?
-
-<!--kg-card-end: markdown-->

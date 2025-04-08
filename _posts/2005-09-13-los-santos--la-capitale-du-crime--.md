@@ -60,5 +60,3 @@ NDRL : selon d'autres sources, les dealers se compteraient
 par dizaines dans le seul quartier de Ganton.
 
 La semaine prochaine, nous vous livrerons un compte rendu détaillé des crimes ainsi que des dégradations en ville.
-
-<!--kg-card-end: markdown-->

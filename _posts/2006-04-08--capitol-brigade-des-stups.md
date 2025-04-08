@@ -64,5 +64,3 @@ La brigade des stupéfiants de Liberty City a vraiment été corrompu au fil des
 ![](/content/images/2005/01/affiche.jpg)
 
 Ainsi ce termine ce reportage sur la brigade des stupéfiants. Mike récupérera 4 kilos de cocaïne et les donnera aux policiers chargés _d'emmener la dope au labo_ et le cercle vicieux continuera donc... Le prochain numéro de $Capitol$ portera sur la mafia ou Cosa Nostra pour les connaisseurs. Quelles sont les retombées économiques grâce aux activités illégales de la mafia ? Pratique-t-elle encore la corruption ? La mafia, avantage ou inconvénient ? C'est à ces questions auxquelles nous répondront prochainement.
-
-<!--kg-card-end: markdown-->

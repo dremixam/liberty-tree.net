@@ -20,5 +20,3 @@ La police ne mît pas longtemps à retrouver l'homme chez lui grâce à la plaqu
 Il était endormi sur son divan, et la police retrouva l'arme du crime dans la poubelle du prévenu. C'est dire s'il était ivre.
 
 Quand à l'agent Smith, il décéda des suites de ses blessures 30 minutes après être arrivé à l'hôpital.
-
-<!--kg-card-end: markdown-->

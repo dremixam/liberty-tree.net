@@ -37,5 +37,3 @@ Face à cette menace, le maire de Los Santos a décidé de réagir :
 > Il est grand temps que notre ville se protège contre les hordes d'envahisseurs venus de tout le pays pour nous piquer notre fric et nos stars Vinewoodiennes. J'ai donc décidé de faire bloquer tous les ponts reliant les différentes parties de la ville et de cantonner les nouveaux arrivants aux quartiers les plus pauvres de Los Santos. On verra ensuite, si tout se passe bien, on pourra progressivement rouvrir tout ça.
 
 La fermeture des ponts de la ville devrait être effective dans les prochains mois. Les habitants sont invités à régler toute affaire les obligeant à les franchir le plus rapidement possible.
-
-<!--kg-card-end: markdown-->

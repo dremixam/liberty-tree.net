@@ -34,5 +34,3 @@ Voici les photos prises par un photographe qui était là pour prendre LC au lev
 ![](/content/images/2016/07/killing7.jpg)
 ![](/content/images/2016/07/killing8.jpg)
 ![](/content/images/2016/07/killing9.jpg)
-
-<!--kg-card-end: markdown-->

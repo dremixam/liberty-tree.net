@@ -25,5 +25,3 @@ Le bureau du NTSB a ouvert une enquête pour déterminer la nature du bris. Nous
 ![](/content/images/2005/01/01-beagle-takeoff.jpg)
 
 Un mécanicien travaillant pour la compagnie aérienne a effectué les réparations sur place permettant ainsi à l’avion de reprendre l’air lorsque la météo l’a permis pour s’en retourner en direction des hangars du transporteur situés à Los Santos.
-
-<!--kg-card-end: markdown-->

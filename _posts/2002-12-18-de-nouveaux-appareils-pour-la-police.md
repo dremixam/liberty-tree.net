@@ -19,5 +19,3 @@ La nouvelle annoncée ce matin par toutes les radios a déclenché la colère de
 La manifestation a mal tourné et le maire et le chef de la police ont échappé de peu au lynchage. Une dizaine de manifestants ont été mis en cabane et la vie a repris tranquillement à Liberty City.
 
 En espérant simplement que les appareils restants serviront à bannir le crime de notre ville et pas a nourrir les requins.
-
-<!--kg-card-end: markdown-->

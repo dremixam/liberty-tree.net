@@ -57,5 +57,3 @@ Las Venturas semble épargnée de ce top, mais on saute aussi du Emerald Isle (q
 _L'Emerald Isle_
 
 Bilan final : il aura fallu près d'une cinquantaine de morts et l'arrêt maladie du meilleur vendeur de Hot Dog de tout le pays pour que le gouvernement s'occupe sérieusement d'un des sports les plus controversés du moment.
-
-<!--kg-card-end: markdown-->

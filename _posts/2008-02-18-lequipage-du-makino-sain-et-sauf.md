@@ -47,5 +47,3 @@ _Une cargaison très convoitée. Photos gracieusement fournies par Wang Auto._
 _Le Makino, un navire aussi impressionnant qu'imposant._
 
 D'ici quelques jours, une fois les réparations terminées, l'impressionnant cargo pourra reprendre sa route pour Vancouver afin de livrer les milliers d'autres containers qu'il lui reste en cargaison.
-
-<!--kg-card-end: markdown-->

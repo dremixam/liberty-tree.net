@@ -23,5 +23,3 @@ Parmis les 23 cadavres retrouvés dans la salle principale se trouvait le corps 
 _La salle du cabaret._
 
 Le LCPD mène actuellement l'enquête, mais au moment où vous lisez ces lignes, les douilles retrouvées sur les lieux du crime ne correspondent à aucune arme enregistrée dans la base de données des armes à feu de Liberty City.
-
-<!--kg-card-end: markdown-->

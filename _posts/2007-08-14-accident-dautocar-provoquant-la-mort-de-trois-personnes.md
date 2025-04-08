@@ -72,5 +72,3 @@ _"...les accidents sont toujours aussi nombreux et aussi mortels"._
 Encore des morts sur les routes du bel Etat qu'est San Andreas. Elles restent quand même l’une des causes d’un fort taux de moralité dans l'Etat, juste avant les armes à feu. Espérons que cette fois-ci, cet accident aura des "bonnes" conséquences et ainsi permettre de voyager sereinement. Néanmoins, si l’on devait faire confiance à ces routes comme aux promesses des Hommes politiques, on serait loin de s’en sortir…
 
 Nous présentons toutes nos condoléances aux familles des disparus.
-
-<!--kg-card-end: markdown-->

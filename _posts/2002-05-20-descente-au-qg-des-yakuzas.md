@@ -19,5 +19,3 @@ Déclaration faite par Steven McCaine, chef de la LCPD, affichée dans tous les 
 La rédaction du Liberty-Tree vous invite donc à vous manifester, si vous avez une quelconque information à ce sujet, écrivez nous.
 
 Merci de votre coopération.
-
-<!--kg-card-end: markdown-->

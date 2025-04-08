@@ -38,5 +38,3 @@ A la suite de cette intervention, la police a déclaré qu'il n'y avait que six 
 ![](/content/images/2016/06/0_0%285%29_0.jpg)
 
 Le parking reste fermé pour l'instant, l'accès étant bloqué par des véhicules de police et une grille.
-
-<!--kg-card-end: markdown-->

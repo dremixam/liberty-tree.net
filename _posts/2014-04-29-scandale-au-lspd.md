@@ -58,5 +58,3 @@ Des traces de sperme retrouvées sur place ont confirmé l'identité des suspect
 _Le commissariat de Los Santos, situé au centre de cette affaire._
 
 Affaire à suivre donc... Le Liberty Tree vous tiendra au courant de l'avancée des événements, comme toujours !
-
-<!--kg-card-end: markdown-->

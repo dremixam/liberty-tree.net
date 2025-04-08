@@ -34,5 +34,3 @@ A déclaré John Boyler à la suite de son aventure extraordinaire.
 Signe divin? Chance inouïe? Dans tous les cas, cette aventure a encore plus plongé ces pèlerins dans leur religion.
 
 Personne n'a encore revendiqué l'attentat.
-
-<!--kg-card-end: markdown-->

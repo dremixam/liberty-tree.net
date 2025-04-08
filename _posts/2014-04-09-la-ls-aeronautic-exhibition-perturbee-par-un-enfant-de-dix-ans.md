@@ -111,5 +111,3 @@ Alors, vous choisissez laquelle ?
 (3) : Pour vous donner un ordre d'idée, imaginez un américain lambda qui arrive sur un trampoline ou qui saute dans une piscine. L'image vous suffit ?
 
 (4) : À savoir un crash imminent susceptible de le pulvériser dans un geyser de jolies lumières et de confettis de tôle, le tout agrémenté d'un bûcher à la taille de la connerie humaine en plein milieu de l'océan.
-
-<!--kg-card-end: markdown-->

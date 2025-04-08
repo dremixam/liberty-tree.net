@@ -30,5 +30,3 @@ Nous l’avons bien compris, et quelques témoignages vont encore nous le confir
 > **Emma, 27 ans :** Le Liberty Tree ? Ma grand-mère le lit tous les jours oui… Personnellement, je trouve ça tellement ennuyeux… En plus ils ne dévoilent jamais le top 20 des mecs les plus sexy de l’État…
 > 
 > **Jennifer, 25 ans :** Il est trop has-been ce canard. Je le lirais quand Nelson reviendra écrire un article par semaine, au moins celui-là il était vraiment drôle !
-
-<!--kg-card-end: markdown-->

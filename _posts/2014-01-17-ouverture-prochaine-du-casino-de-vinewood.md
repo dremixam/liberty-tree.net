@@ -47,5 +47,3 @@ La ville a prévu le nécessaire : un restaurant est situé à l'intérieur du c
 _Le parking extérieur du casino._
 
 Avec tous ces chiffres assez impressionnants, on a tous envie d'aller jouer dans ce casino ! Espérons que l'ouverture ne sera pas encore repoussée à maintes reprises, et que nous pourrons bientôt fouler le sol de ce casino qui s'annonce comme l'une des futures places fortes de Los Santos. Chers lecteurs, n'hésitez pas à y faire un tour après son ouverture !
-
-<!--kg-card-end: markdown-->

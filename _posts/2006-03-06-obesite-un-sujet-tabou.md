@@ -44,5 +44,3 @@ _Yann souffre beaucoup de son obésité : ses capacités physiques sont réduite
 _Yann se fait "chambrer" par des jeunes de son quartier_
 
 A première vue, les habitants de San Andreas ne sont pas prêts à faire baisser les chiffres concernant le taux d'obésité mais certaines personnes concernées et motivées comme Yann Winter ont encore à coeur de redevenir "normaux", comme disait le Gouverneur. Le procès entre la FFSAA et l'Etat de San Andreas sera ouvert prochainement à la Cour Suprême de San Fierro.
-
-<!--kg-card-end: markdown-->

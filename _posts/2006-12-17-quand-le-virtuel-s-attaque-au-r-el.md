@@ -59,5 +59,3 @@ _Les deux vigiles qui ont trouvé la mort._
 Tout cela nous montre bien qu’il y a un problème au sein de la société actuelle, autant chez les habitants des ghettos, toujours là pour causer des troubles, que chez les gens bien qui cèdent trop facilement à la tentation, et perdent ainsi toute trace de civilité en s’adonnant à des pratiques barbares.
 
 Mais que fait le gouvernement&nbsp;?
-
-<!--kg-card-end: markdown-->

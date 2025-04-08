@@ -24,5 +24,3 @@ Le quartier est redevenu très calme ce matin malgré les dégâts causés par l
 
 ![Des dégâts estimés à plusieurs milliers de dollars.](/content/images/2016/06/Course%20de%20rue%202.jpg)
 _Des dégâts estimés à plusieurs milliers de dollars._
-
-<!--kg-card-end: markdown-->

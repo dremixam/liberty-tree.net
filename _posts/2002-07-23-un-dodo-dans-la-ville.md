@@ -21,5 +21,3 @@ Yves trouve le dodo très pratique pour circuler à la place d'une caisse.
 Quant à la municipalité elle pense que cette _idée_ n'en est pas une bonne, le Dodo utilisant 20 litres au 100 km. Le conseil a voté contre pour cette raison et aussi vous imaginez des Dodo voler partout dans la ville, "Mais ça pourrait faire des collisions !", comme nous l'a dit le maire.
 
 Il sera donc formellement interdit de circuler avec un Dodo à la place d'une voiture sous peine de payer en amende 1000 $ par jour tant que le conducteur du "véhicule" n'arrêtera pas.
-
-<!--kg-card-end: markdown-->

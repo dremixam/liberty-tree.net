@@ -31,5 +31,3 @@ Quelques heures après l'annonce du sénateur, un premier sondage a été mené 
 Les dirigeants d'Ammu Nation n'ont donc rien à craindre, ils ne sont pas prêts d'être contraints à fermer, et ce pour le bonheur de tous, ou presque.
 
 ![](/content/images/2016/06/2_2.jpg)
-
-<!--kg-card-end: markdown-->

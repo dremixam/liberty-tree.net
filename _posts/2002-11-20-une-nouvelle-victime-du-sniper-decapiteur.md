@@ -21,5 +21,3 @@ Ainsi, on se trouve face à un problème économique comme nous le souligne le m
 On peut donc se demander quand les autorités se pencheront enfin sur le problème, il est vrai que les grandes pontes du FBI ne doivent pas encore avoir de problème de prostituées, avec le nombre de secrétaires qu'ils ont.
 
 En attendant, il est recommandé aux prostituées de porter un casque pare-balle (en vente dans tout les bons ammu-nation même si les prix ont plus que triplé)
-
-<!--kg-card-end: markdown-->

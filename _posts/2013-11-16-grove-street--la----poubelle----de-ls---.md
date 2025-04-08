@@ -42,5 +42,3 @@ _Grove Street dans les années 1990._[](/content/images/2016/06/0_0_10.jpg)
 _Grove Street aujourd'hui._
 
 La véritable question est : pensez-vous que le quartier a vraiment changé depuis tout ce temps ? Est-il plus dangereux ? C’est peut-être plutôt le contexte économique et social qui a changé, et la protection de l’emploi devrait plutôt être au cœur des motivations des candidats aux municipales en ce moment...
-
-<!--kg-card-end: markdown-->

@@ -68,5 +68,3 @@ Depuis la première annonce de cette nouvelle, la police de San Fierro a déjà 
 _Les traffic-cams du Gant Bridge confirment le faible achalandage_
 
 Espérons que le maire de San Fierro ne restera pas insensible aux préoccupations de son électorat et prendra les mesures appropriées en ordonnant un examen complet de la structure du pont. Si risque de catastrophe il y a, pourrons-nous alors l'éviter? Le mystère demeure complet.
-
-<!--kg-card-end: markdown-->

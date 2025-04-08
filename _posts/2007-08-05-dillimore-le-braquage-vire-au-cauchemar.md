@@ -72,5 +72,3 @@ Grosse récompense pour qui fournira toute information exploitable concernant le
 
 ![Photo du criminel abattu](/content/images/2005/01/1_019.jpg)
 _Photo du criminel abattu_
-
-<!--kg-card-end: markdown-->

@@ -75,5 +75,3 @@ _Jamais une image aussi nette du pénis d'un chinois n'avait pu être obtenue au
 - Religion : Le suicide collectif d’Epsilon sur Hove Beach est reporté pour cause de mauvais temps. Weasel News avait pourtant misé gros sur la transmission en direct.
 
 - Sport : les All Stars Algonquin déclarent forfait face aux Las Venturas Eagles pour cause de diarrhée collective. Le partenariat Burger Shot est remis en cause.
-
-<!--kg-card-end: markdown-->

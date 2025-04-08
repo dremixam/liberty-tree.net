@@ -37,5 +37,3 @@ Le point fort de KDC est sa décoration. Je vous laisse jeter un petit coup d’
 ![](/content/images/2016/07/kdc4.jpg)
 
 Donc, si vous souhaitez vous rendre chez Kiki's Design Contrôle, direction Torrington à côté du building AM&co.
-
-<!--kg-card-end: markdown-->

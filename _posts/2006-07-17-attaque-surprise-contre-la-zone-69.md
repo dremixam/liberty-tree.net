@@ -130,5 +130,3 @@ Toute information pouvant mené à la capture de ces dangereux criminels peuvent
 Les motifs invoqués par ces terroristes ne sont pas très clairs. L'armée serait en possession d'une bande magnétique qui ferait l'objet d'analyses. Cette bande audio envoyé par Spinner au département de la défense à Washington expliquerait les raisons qui ont poussé l'homme à agir. Cette cellule paramilitaire existe depuis quelques années, et était déjà sous étroite surveillance par le FBI, mais jusqu'à maintenant tout ce qu'on leur reprochait était de faire de la propagande qui visait à déstabiliser le gouvernement, mais personne ne se doutait qu'ils basculeraient dans les ligues majeur en s'attaquant à l'armé comme ils l'ont fait. Parions que le directeur du FBI devra rendre des comptes au congrès américain pour son inaction à déjouer les plans de ces malades mentaux.
 
 Chose certaine, cette histoire donnera maintenant encore d'autres munitions aux démocrates qui ont déjà sévèrement blâmé l'administration Loush pour son incapacité à prévenir les attentats du 11 novembre 2001 contre les tours jumelles du GLOBAL TRADE CENTER et du POLYGONE.
-
-<!--kg-card-end: markdown-->

@@ -55,5 +55,3 @@ A 18h05, Stan Shaw convoqua Ryan Bear et Terry Shaft dans la salle de débriefin
 
 ![L'emplacement réservé aux Hummer H2 du SID.](/content/images/2005/01/sidh2park.jpg)
 _L'emplacement réservé aux Hummer H2 du SID._
-
-<!--kg-card-end: markdown-->

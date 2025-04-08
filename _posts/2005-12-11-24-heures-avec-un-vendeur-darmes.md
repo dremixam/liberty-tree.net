@@ -42,5 +42,3 @@ Il contrôle et s'occupe des formalités finales, sert les clients tardifs puis 
 ![](/content/images/2005/01/camera.jpg)
 
 **18H :** Enfin il est l'heure de rentrer chez soi ! Je suis satisfait de devoir laisser Ruppert et son Ammu-Nation. Je suis impressionné du courage qu'il faut pour travailler ici, quant à moi, je jure solennellement que jamais je n'irai m'engager dans ce job.
-
-<!--kg-card-end: markdown-->

@@ -25,5 +25,3 @@ Paleto Bay a essuyé une défaite assez écrasante car en effet Grove Street a m
 > **Mike, 24 ans :** Il y avait vraiment beaucoup de technique, pour les 2 équipes et Paleto Bay s'est tout de même bien défendue.
 
 Le match aura donc été un franc succès, de même pour Rick Hannigan, PDG de ThriftEx ayant vu, à la suite du match, ses actions boursières augmenter de 2.7 %.
-
-<!--kg-card-end: markdown-->

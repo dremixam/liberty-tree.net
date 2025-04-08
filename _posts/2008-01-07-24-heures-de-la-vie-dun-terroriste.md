@@ -57,5 +57,3 @@ _L'embouteillage provoqué par l'intervention des secours et un passant, qui n'a
 C'est après une journée (très) courte mais très intense que cet article s'achève, l'attentat d'Achmed, quels qu'en aient été les objectifs n'a probablement pas atteint son but. Comme vous avez pu le voir, le métier de terroriste est un métier extrêmement dangereux et qui demande beaucoup de sacrifices, malheureusement pour les jeunes recrues, rare sont ceux qui multiplient les missions (surtout lorsqu'ils occupent le poste de bombe humaine) et, bien souvent, tous ces sacrifices sont vains.
 
 Quoiqu'il en soit, grâce au gouverneur John Sturner et au président George Grove, la menace terroriste qui pesait sur notre ville est de moins en moins présente. Vous pouvez donc dormir sur vos deux oreilles.
-
-<!--kg-card-end: markdown-->

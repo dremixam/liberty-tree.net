@@ -16,5 +16,3 @@ Depuis la mort de leur big boss, les mafieux sont devenus pitoyables, ils fuient
 ![](/content/images/v1/user24/Mafia4.jpg)
 
 Je me suis donc renseigné auprès de certain de mes potes, qui ont des relations avec la Mafia. Ils m'ont répondu que la Mafia avait un nouveau boss: dont le nom a été gardé secret par mesure de sécurité. Ce boss serait honnête, enfin il ne tuerait personne, il se servirait de la réputation de ces hommes pour faire les affaires. Donc si vous avez envie de gun gratos allez voir les mafieux.
-
-<!--kg-card-end: markdown-->

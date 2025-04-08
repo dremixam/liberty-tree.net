@@ -51,5 +51,3 @@ Ce nouveau projet de loi fait déjà son chemin puisque un récent sondage démo
 - Personnes reconnues coupables d’avoir versé un pot de vin&nbsp;(Avant=98% / Après=56%)
 
 Ces résultats démontrent que la nouvelle loi est un véritable succès. Nous invitons donc la population à continuer le combat contre la corruption afin que notre état soit lavé de ces criminels qui l’entachent.
-
-<!--kg-card-end: markdown-->

@@ -29,5 +29,3 @@ _La Pigalle, la Coquette, la JB 700 et la Roosevelt découvertes._
 > **Angelo Gomez, historien spécialisé en automobile :** Les pièces retrouvées sont certes à restaurer mais plutôt rares. Il y en a bien pour 4 millions de dollars. Et c'est probablement la dernière collection que l'on retrouvera à San Andreas.
 
 La collection sera mise aux enchères au salon de l'automobile de Los Santos en octobre prochain.
-
-<!--kg-card-end: markdown-->

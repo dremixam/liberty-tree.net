@@ -29,5 +29,4 @@ Il n'y a qu'une réponse possible à ce crime : l'unité. La France doit rester 
 - **Ahmed Merabet - gardien de la paix (1973?-2015)**
 - **Frank Brinsolaro - officier chargé de la sécurité de Charb (?-2015)**
 - **Frédéric Boisseau - agent de maintenance (1973-2015)**
-- **Elsa Cayat - psychanalyste et chroniqueuse (?-2015)**
-<!--kg-card-end: markdown-->
+- **Elsa Cayat - psychanalyste et chroniqueuse (?-2015)**<!--kg-card-end: markdown-->

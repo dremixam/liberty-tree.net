@@ -23,5 +23,3 @@ Après avoir rempli des papiers administratifs pendant près de deux heures j'ai
 Apres cette histoire, Mr P. a raconté son aventure mais personne ne l'a cru, en effet il n'avait pas emporté son appareil photo le jour où cela lui est arrivé.
 
 Nous avons appris tôt ce matin avant la publication du journal que Mr P avait mis fin a ses jours en sautant par la fenêtre de sa chambre à l'hôpital.
-
-<!--kg-card-end: markdown-->

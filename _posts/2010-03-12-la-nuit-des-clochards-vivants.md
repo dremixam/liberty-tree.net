@@ -53,5 +53,3 @@ Nous avons aussi interviewé quelques passants afin de connaître leur regard su
 > **Anonyme :** Haha, l’autre jour j’ai vu deux clodos, j’ai lancé une pièce de 25 cents et je les ai regardé se battre. Je croyais que ça marchait qu’avec les rabbins juifs…
 
 La situation ne risque pas de s’améliorer, les nombre de SDF augmentant de jours en jours et la ville promet un prix de 10 millions de dollars à celui qui trouvera le moyen de résoudre définitivement le problème.
-
-<!--kg-card-end: markdown-->

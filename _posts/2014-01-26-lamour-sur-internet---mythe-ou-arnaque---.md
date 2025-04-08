@@ -44,5 +44,3 @@ Quitte à former de belles et romantiques histoires d’amour, ces sites comme L
 _Un assistant marketing chez Life Invader._
 
 Voilà un conseil très avisé que nous nous empresserons de suivre, n’est-ce pas ? En fait, Internet c’est un peu comme l’alcool et toutes les autres addictions, c’est à consommer avec modération. Vous ne trouvez pas ?
-
-<!--kg-card-end: markdown-->

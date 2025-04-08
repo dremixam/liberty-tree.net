@@ -32,5 +32,3 @@ Vers 12 heures, la situation devenant dangereuse, le shérif demande l'aide du L
 Mais ces événements montrent la détresse de l'industrie de la volaille. La firme à la cloche à crête de coq est au bord du gouffre, ses actions au BAWSAQ avoisinaient les 0.4 dollars. La concurrence dans les fast food est rude : la demande de poulet serait moins forte depuis quelques années. _Burger Shot_ et _Cluckin' Bell_ perdraient même des clients depuis [notre article sur _Up-n-Atom Burger_](/2014/02/25/le-premier-up-n-atom-fete-son-soixante-sixieme-anniversaire/) ! La semaine prochaine, les secrétaires d'Etat à l'agriculture et à l'économie se rendront à Paleto Bay en compagnie du gouverneur de San Andreas afin de rencontrer les employés et de trouver une solution aux problème.
 
 Et à l'heure ou je termine cet article, les syndicalistes de l'usine Cluckin' Bell annoncent que jusqu'à ce qu'un accord soit trouvé, les employés des restaurants et des usines de la marque seront en grève.
-
-<!--kg-card-end: markdown-->

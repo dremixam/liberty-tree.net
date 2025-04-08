@@ -25,5 +25,3 @@ Voici les candidats (dont je fais partie ;) ) :
 
 Certains véhicules ont demandés des heures de travail à leur propriétaire pour redevenir dans l’état actuel. D'autres sont toujours restées dans un état impeccable pour divers raisons. Le point commun entre les différents propriétaires, qu'ils se soient donnés du mal ou non pour que leurs autos soient aussi belles, est la passion.  
 Les votes durent 15 jours, le véhicule gagnant aura le titre de plus beau véhicule de l'année pendant un an.
-
-<!--kg-card-end: markdown-->

@@ -45,5 +45,3 @@ La police de Los Santos est aujourd'hui montrée du doigt pour cette dramatique 
 
 ![Le Parker Center, QG de la police de Los Santos.](/content/images/2005/01/parker.jpg)
 _Le Parker Center, QG de la police de Los Santos._
-
-<!--kg-card-end: markdown-->

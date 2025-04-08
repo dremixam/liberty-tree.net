@@ -41,5 +41,3 @@ Nous sommes donc allés à la rencontre de Jeffrey, le videur du Vanilla Unicorn
 > Croyez-moi, j'en vois tous les jours des paumés qui viennent picoler ici et toucher les nichons de femmes qu'ils n'auront jamais. Et depuis que le patron a commencé à organiser lui aussi des soirées Speed Dating c'est pire. Les gens viennent ici pour se rencontrer, et s'ils sont déçus ils boivent encore plus. Et s'ils trouvent leur moitié, c'est pareil puisqu'ils s'offrent plusieurs verres.
 
 Ainsi, derrière ces soirées destinées aux rencontres pour célibataires, se cache une bien sombre réalité. Réalité qui prouve qu'il vaut mieux survivre dans cette jungle sociale en suivant son instinct plutôt qu'en suivant les modes imposées par les autres.
-
-<!--kg-card-end: markdown-->

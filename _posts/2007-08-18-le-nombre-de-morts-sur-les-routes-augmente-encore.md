@@ -46,5 +46,3 @@ Retour à Angel Pine. La circulation était pourtant fluide en cette nuit du 7 a
 
 ![Les deux véhicules carbonisés](/content/images/2016/06/gallery3.jpg)
 _Les deux véhicules carbonisés_
-
-<!--kg-card-end: markdown-->

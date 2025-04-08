@@ -37,5 +37,3 @@ _Le sergent McClyne_
 "Notre métier n'est pas facile et on gagne pas grand-chose. Mais on le fait par passion.", nous confie le sergent John McClyne. Ce quinquagénaire a travaillé pendant 20 ans dans cette unité et peut à présent songer à une retraite bien méritée.
 
 Si vous aussi vous voulez rejoindre ces secouristes, vous pouvez contacter le SAPD Recruiting Center. Les critères de recrutement sont drastiques et chaque année, des centaines de candidats se présentent mais seuls 5 sont recrutés.
-
-<!--kg-card-end: markdown-->

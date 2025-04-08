@@ -36,5 +36,3 @@ Suite à cette nouvelle polémique, le maire, monsieur Bart O'Donovan a accepté
 _Une arrestation assez musclée..._
 
 Ce scandale aura engendré la démission de quelques agents, ce qui n'aide en nul façon le LCPD, déjà en manque de ressources humaines.
-
-<!--kg-card-end: markdown-->

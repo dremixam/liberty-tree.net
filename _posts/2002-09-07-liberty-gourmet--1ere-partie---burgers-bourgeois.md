@@ -49,5 +49,3 @@ Résumé : « Burgers Bourgeois » est un restaurant assez haut de gamme proposa
 
 ![](/content/images/v1/user23/burger1.jpg)&nbsp;&nbsp; ![](/content/images/v1/user23/burger2.jpg)
 _](/content/images/v1/user23/burger1.jpg)&nbsp;&nbsp; ![_
-
-<!--kg-card-end: markdown-->

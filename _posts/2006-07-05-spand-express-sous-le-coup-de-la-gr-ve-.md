@@ -59,5 +59,3 @@ Cela fait maintenant plus d' une semaine que les employés de la société Spand
 
 ![Les ouvriers manifestant devant le QG de l' entreprise.](/content/images/2005/01/manifestation.jpg)
 _Les ouvriers manifestant devant le QG de l' entreprise._
-
-<!--kg-card-end: markdown-->

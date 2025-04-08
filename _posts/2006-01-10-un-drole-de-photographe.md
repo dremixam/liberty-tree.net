@@ -47,5 +47,3 @@ Grâce à ces clichés, nous avons montré le visage de l'homme à l'administrat
 C'est sur ses mots que ce fait divers prend fin. Je sens bien que certains d'entre vous sont un peu déçus de l'issue de cet « événement » mais malheureusement nous ne faisons pas l'information, nous ne faisons que la relater.
 
 ![](/content/images/2005/01/Photo_6.jpg)
-
-<!--kg-card-end: markdown-->

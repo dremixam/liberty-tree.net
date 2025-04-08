@@ -35,5 +35,3 @@ De son côté, le département hydroélectrique de Los Santos demande à sa clie
 _Un nouvel arrivage de climatiseurs chez William Appliance, sous bonne escorte policière pour éviter les débordements._
 
 D'ici à ce que la fraîcheur ou la pluie soient de retour, n'oubliez pas que si vous avez besoin de sortir de bien vous protéger en portant un chapeau ou une casquette, et en ayant toujours une bouteille d'eau avec vous pour ne pas vous déshydrater. Si vous avez prévu vous acheter un climatiseur pour la maison, ne vous faites par d’illusion puisque cet article convoité est en rupture de stock partout en ville, sinon il vous reste toujours le marché noir si cela ne vous fait rien de le payer beaucoup plus cher.
-
-<!--kg-card-end: markdown-->

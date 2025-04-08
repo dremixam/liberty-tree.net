@@ -78,5 +78,3 @@ Nous avons réussi à intercepter Tommy Hole à la sortie du ring pour lui poser
 > **LT :** Merci d'avoir répondu à nos questions.
 
 Le 7ème Championnat de Boxe s'est donc achevé avec un nouveau Champion de San Andreas. On se retrouvera l'an prochain pour la 8ème édition du Championnat de Boxe de San Andreas.
-
-<!--kg-card-end: markdown-->

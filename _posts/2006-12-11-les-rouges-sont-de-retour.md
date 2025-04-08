@@ -34,5 +34,3 @@ _Le casino Caligula_
 Mais le plus alarmant est de savoir que Dzermine entretient des liens avec son «&nbsp;camarade&nbsp;» Fidel, mais aussi avec la Corée du Nord, en leur vendant des armes contre de la drogue ou des éléments radioactifs.
 
 De plus, la mafia russe soutient officiellement depuis maintenant trois jours le parti de Joseph Staleine,&nbsp;à Vice City, et compte bien organiser à San Andreas même la création d’un autre parti communiste.&nbsp;Le plus grave c’est que ces «&nbsp;mafiosis communistes&nbsp;» prépareraient des attentats contre les casinos de Las Venturas, qui sont des «&nbsp;sanctuaires du capitalisme&nbsp;» d’après eux.Bien entendu le gouvernement ne fait rien, et laisse ces «&nbsp;rouges&nbsp;» évoluer librement et perpétrer leurs crimes sans qu’ils n’en soient inquiétés.
-
-<!--kg-card-end: markdown-->

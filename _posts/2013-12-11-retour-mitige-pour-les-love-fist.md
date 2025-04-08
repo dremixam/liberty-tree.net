@@ -18,5 +18,3 @@ _La scène des Love Fist au Tequila-la Club._
 Après ces quelques mots, Teddy ouvrit une bouteille de Piβwasser qu'il se vida sur la tête en hurlant "rock'n'roll !". Ce qui prouve bien le traumatisme généré par cette nouvelle mouture du groupe, loin des valeurs initiales qui animaient le quatuor dans les grandes années. Kent Paul, manager des Love Fist, nous a brièvement laissé entendre que le concert d'hier soir n'était qu'un "tour de chauffe", une soirée expérimentale avant un retour vers les tubes qui ont fait leur succès et, pourquoi pas, un concert phénoménal à la Maze Bank Arena au printemps prochain.
 
 En attendant le nouvel album du groupe attendu pour le mois de janvier, leur best-of, "F-hits-ing you", est toujours en vente dans les bacs.
-
-<!--kg-card-end: markdown-->

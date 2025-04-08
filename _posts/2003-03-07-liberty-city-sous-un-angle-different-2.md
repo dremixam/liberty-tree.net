@@ -24,5 +24,3 @@ Vous volerez avec des pilotes expérimentés et ayant plusieurs heures de vols d
 Pour les contacter ou réserver :  
 Tél. : **555-9292**  
 S'adresser à l'accueil l'aéroport.
-
-<!--kg-card-end: markdown-->

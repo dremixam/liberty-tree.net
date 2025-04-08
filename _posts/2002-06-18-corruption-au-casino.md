@@ -13,5 +13,3 @@ On avait envoyé notre meilleur reporteur enquêter sur le blanchiment d'argent 
 > Salut la rédaction du Liberty Tree. Kenji est un mec super honnête et il ne se passe rien de louche au casino de Staunton. En montant la haut, j'ai pu admirer un des plus beau point de vue de Liberty City, ça m'a donné envie de partir voyager. Je vais visiter le monde pendant quelques années. N'essayez jamais de me retrouver. Amitié aux journalistes du Liberty Tree
 > 
 > Maurice
-
-<!--kg-card-end: markdown-->

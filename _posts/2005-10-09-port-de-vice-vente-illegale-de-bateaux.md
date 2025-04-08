@@ -20,5 +20,3 @@ Ces deux engins étaient sur le point d'être livrés
 C'est d'ailleurs de là que vient le problème : Les officiers de la ville ne savent pas qui est l'auteur de ce commerce illicite même s'ils soupçonnent fortement la mafia Vicienne. Ces derniers temps, ils la surveillaient suite à de nombreuses plaintes pour des escroqueries en tous genres.
 
 Mais la question que l'on peut se poser est la suivante : La police interviendra-t-elle ou bouclera-t-elle l'affaire sans agir ? Car on sait très bien que même les officiers fédéraux tremblent devant la tout puissante organisation.
-
-<!--kg-card-end: markdown-->

@@ -40,5 +40,3 @@ Mais, Samuel Ashélof a cherché à savoir pourquoi il avait tué cet homme qui 
 ![](/content/images/2005/01/china32.jpg)
 
 La victime n'ayant pas de famille, aucune plainte n'a été déposée, mais le "vendeur" car son nom n'est pas révélé, est condamné à 20 ans de prison ferme dont 1 avec sursis.
-
-<!--kg-card-end: markdown-->

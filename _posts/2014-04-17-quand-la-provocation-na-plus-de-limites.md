@@ -41,5 +41,3 @@ Le maire, quant à lui, a refusé toute déclaration.
 La provocation, parfois nécessaire pour faire le buzz, est encrée dans l'humanité depuis des siècles mais peut parfois, voire souvent, empiéter sur la légalité, et aller trop loin.
 
 Si vous avez la moindre information, contactez le 911.
-
-<!--kg-card-end: markdown-->

@@ -50,5 +50,3 @@ Après avoir rencontré, nous avons continué notre ascension, et nous avons eu 
 Là-dessus, bonnes fêtes de fin d’année !
 
 ![](/content/images/2016/06/0_0-8_1.jpg)
-
-<!--kg-card-end: markdown-->

@@ -20,5 +20,3 @@ C'est donc il y a quelques jours que le chef de la police a pu dévoiler qui ils
 
 Malgré ces informations, la police n'a pu retrouver les individus même en allant les chercher chez eux. De plus, selon ses voisins, l'individu de couleur blanche ne serait pas reconnaissable car il aurait "changé de skin"...  
 Je n'ai toujours pas compris le signification de ceci mais je pense qu'ils ont en effet raison.
-
-<!--kg-card-end: markdown-->

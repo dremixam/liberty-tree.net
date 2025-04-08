@@ -90,5 +90,3 @@ Slogan : "Un pas de monstre en un clin d’œil avec Jiounite "
 Voilà donc les estimations officielles qui ne concernent que les citoyens de Vice City. Les candidats en tête sont Mr Kartel et Mr Wahts.
 
 Prochain article lorsque les élections seront terminées.
-
-<!--kg-card-end: markdown-->

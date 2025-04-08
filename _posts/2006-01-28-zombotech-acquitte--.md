@@ -39,5 +39,3 @@ Tous les autres jurés ont refusé de nous recevoir pour parler du verdict. En t
 Le président de l'ADNPSA est sorti du tribunal en colère où un taxi l'attendait
 
 _Photographe : Fido-le-Muet_
-
-<!--kg-card-end: markdown-->

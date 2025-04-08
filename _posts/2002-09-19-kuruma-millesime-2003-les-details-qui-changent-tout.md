@@ -88,5 +88,3 @@ Je vous laisse en compagnie des clichés de la Kuruma 2003 et vous dit "A la sem
 ![](/content/images/2016/07/Kuruma2k3a.jpg)
 ![](/content/images/2016/07/Kuruma2k3b.jpg)
 ![](/content/images/2016/07/Kuruma2k3d.jpg)
-
-<!--kg-card-end: markdown-->

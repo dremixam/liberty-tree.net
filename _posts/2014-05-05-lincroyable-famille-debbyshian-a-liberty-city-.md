@@ -24,5 +24,3 @@ A l'époque, la chaîne de télé Eyes-Bye-One dévoilait la série "Les Rues de
 _Robert Fishline._
 
 Pour le moment nous n'avons pas plus d'informations, mise à part que le premier épisode de cette grande télé-réalité sera diffusée pour la première fois le 13 mai 2014 sur EBO. Restez donc connectez sur le Liberty Tree, et à bientôt !
-
-<!--kg-card-end: markdown-->

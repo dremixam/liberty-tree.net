@@ -47,5 +47,3 @@ _Kurt Warner, présumé leader du gang._
 Contrairement aux autres gangs de motards, ils ne possèdent pas uniquement des motos et 4x4 mais aussi des bolides modifiés. Ce qui est sûr, c'est que les Lost n'auraient pas dû s'attaquer à eux, ils ont déjà 11 meurtres sur le dos en moins d'un mois.
 
 Affaire à suivre...
-
-<!--kg-card-end: markdown-->

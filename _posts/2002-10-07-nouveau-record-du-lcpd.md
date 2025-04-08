@@ -19,5 +19,3 @@ Le policier dont nous citons ces paroles et qui était ce matin chargé de cette
 ![](/content/images/v1/user21/record_04.jpg)
 ![](/content/images/v1/user21/record_05.jpg)
 ![](/content/images/v1/user21/record_06.jpg)
-
-<!--kg-card-end: markdown-->

@@ -50,5 +50,3 @@ D'ailleurs, à entendre les témoignages, tout le monde aime Ray J. Stunbuild. I
 _Avec 87% d'opinion favorables et 9% d'opposants dont Alex Shrub, Stunbuild a réussi son entrée à Vice City._
 
 Beaucoup de personne compte donc sur cet homme qui suscite des questions sur certains points. Le recrutement de masse commencera dans une dizaine de jour. En attendant, les ouvriers&nbsp;apportent des bouquets de fleurs devant les locaux du chantier&nbsp;pour dire à quel point il fallait pour le port de Vice City un "Unemployment Killer".
-
-<!--kg-card-end: markdown-->

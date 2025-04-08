@@ -30,5 +30,3 @@ Nous vous communiquerons d'autres informations dès que possible.
 
 Les habitants vont, quant à eux, être relogés provisoirement dans des locaux aménagés autour de Las Venturas.  
 Plus de peur que de mal, donc, ils devraient regagner leur domicile d'ici dimanche.
-
-<!--kg-card-end: markdown-->

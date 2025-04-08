@@ -37,5 +37,3 @@ La mairie et le LSPD n'ont pas encore fait de déclaration. Ce silence trahit sa
 Le décalage entre les intentions du gouvernement et les attentes des manifestants ne va pas dans le sens du retour au calme. L'élection du nouveau gouverneur de l’État de San Andreas promet d'être mouvementée et nous ne sommes pas à l'abri d'un retournement de situation.
 
 Comme vous le constatez, le suspense reste entier. Le mandat du prochain gouverneur ne sera sûrement pas de tout repos.
-
-<!--kg-card-end: markdown-->

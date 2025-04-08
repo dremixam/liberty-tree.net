@@ -57,5 +57,3 @@ _Darkel_
 _Billy_
 
 Voilà pour la présentation des participants. Leur tempérament bouillonnant n'a pas manqué de provoquer de belles bastons dans le loft. Résumé de trente jours de débilité dans l'article « Liberty City Survivor II », à venir dans une prochaine édition.
-
-<!--kg-card-end: markdown-->

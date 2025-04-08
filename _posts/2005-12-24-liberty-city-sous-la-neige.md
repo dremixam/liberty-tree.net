@@ -33,5 +33,3 @@ Cette méthode, bien que très grossière, semble porter ses fruits. En effet, v
 > **Ashley Pete, prostituée, 29 ans :** La neige réconforte les gens. Ça leur réchauffe le cœur d'avoir enfin un Noël blanc. Mais pour ceux qui ont encore besoin de réconfort, je suis là...
 
 Apparemment, la plupart des habitants semblent profiter de cette neige qui les remplit de joie alors que Noël sera fêté ce soir dans tous les foyers de Liberty City. Le Liberty Tree en profite donc pour vous souhaiter de bonnes fêtes de fin d'année.
-
-<!--kg-card-end: markdown-->

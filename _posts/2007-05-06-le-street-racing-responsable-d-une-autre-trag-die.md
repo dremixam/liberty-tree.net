@@ -74,5 +74,3 @@ De son côté, Bruce McKay, propriétaire du « Transfender » de Los Santos, et
 _Rencontre improvisée de fans du Street Racing, quelques instants avant le début d'une course._
 
 Il ne reste qu’à voir si la méthode forte qu’entend prôner la police aura l’effet de dissuasion recherché, et si les routes seront à nouveau immunisées contre la bêtise humaine de ces jeunes conducteurs déphasés, qui mettent en péril la vie de parfaits innocents.
-
-<!--kg-card-end: markdown-->

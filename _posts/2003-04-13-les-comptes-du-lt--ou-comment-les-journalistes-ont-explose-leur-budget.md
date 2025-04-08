@@ -41,5 +41,3 @@ Villa Marguerita
 Boîte postale 4  
 85 261 Cedar Grove  
 Liberty City_
-
-<!--kg-card-end: markdown-->

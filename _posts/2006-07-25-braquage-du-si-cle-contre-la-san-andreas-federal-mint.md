@@ -90,5 +90,3 @@ _David Lawrence, alias "Zéro"._
 > **FBI&nbsp;:** Héhéhéhé&nbsp;! Merci mais c’est un travail de longue haleine réalisé en équipe ne l’oublions pas&nbsp;!
 
 Pour le moment nous ignorons les accusations qui seront portés contre les 3 hommes puisque la date de leur comparution n’a pas encore été décidée, sauf que basé sur le type d’offense reproché, parions qu’ils seront à l'ombre pour suffisamment de temps pour se repentir de leur crime. Dans l’immédiat, la réserve fédérale, par l’entremise de son porte-parole Mathiew Willard, nous a confirmé avoir remplacé le logiciel informatique par un programme beaucoup plus résistant au piratage. Cette mise à jour s’est également effectuée aux autres réserves à travers le pays.
-
-<!--kg-card-end: markdown-->

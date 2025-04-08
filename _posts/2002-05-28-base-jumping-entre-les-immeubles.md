@@ -23,5 +23,3 @@ On recense environ 10 morts et une vingtaine d'arrestations pour « tentative 
 Hier soir, nous avons suivi John sur le toit de l'immeuble de l'AMco lors de son entrainement quotidien, et voici les photos que nous avons pu ramener après avoir transporté John à l'hôpital de Staunton (fracture du col du fémur au 3ème saut)
 
 Espérons que les forces de l'ordre vont vite trouver une parade à ce sport plus que dangereux, afin que nous ne soyons jamais obligés de nous protéger dans des véhicules blindés...
-
-<!--kg-card-end: markdown-->

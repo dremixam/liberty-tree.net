@@ -51,5 +51,3 @@ Le transport aérien a repris normalement en fin de soirée hier à l’aéropor
 _Gouverneur John Sturner._
 
 En l'absence du maire Carter, qui se dorait la couenne aux Bahamas, c'est le gouverneur de San Andreas, John Sturner, qui a pris la parole dans une allocution diffusée hier soir à la télévision et sur les stations de radio. Il a demandé aux résidents de Los Santos de se serrer les coudes et de ne pas hésiter à participer aux opérations de nettoyage qui se sont mis en branle dans presque tous les arrondissements de la ville. Ceux et celles de l'extérieur qui sont intéressés à offrir leur aide sont invités à communiquer avec l’hôtel de ville de Los Santos au +555-1234 ou avec la croix rouge au +800-SA-REDCROSS.
-
-<!--kg-card-end: markdown-->

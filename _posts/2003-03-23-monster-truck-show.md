@@ -38,5 +38,3 @@ Voici les photos ramenées de l'entrainement de Mike au chantier de Staunton Pla
 ![](/content/images/2016/07/Monster4.jpg)
 ![](/content/images/2016/07/Monster5.jpg)
 ![](/content/images/2016/07/Monster7.jpg)
-
-<!--kg-card-end: markdown-->

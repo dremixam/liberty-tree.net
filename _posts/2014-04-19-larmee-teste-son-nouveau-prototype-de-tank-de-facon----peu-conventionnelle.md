@@ -51,5 +51,3 @@ Ne comprenant pas réellement les motivations de l'armée, nous avons rencontré
 > **H. :** Pour l'instant, tout cela est top secret, mais vous pouvez toujours vous rendre sur [http://www.grandtheftauto-online.net](http://www.grandtheftauto-online.net) si cela peut vous aider.
 
 Est-ce que l'armée est dans son droit avec ces tests ? Est-ce qu'elle ne l'est pas ? A vous de le dire !
-
-<!--kg-card-end: markdown-->

@@ -49,5 +49,3 @@ Solarin hors course ? C'est en effet ce que l'on peut penser, les travaux vont, 
 ![](/content/images/2005/01/3img8.jpg)
 
 A noter: le prix du baril de pétrole a enregistré une légère hausse, il passe de 20 dollars à 89,99 dollars et la Solair est classée voiture de collection, édition limitée. Elle coûte environ 253 000$ en version de base.
-
-<!--kg-card-end: markdown-->

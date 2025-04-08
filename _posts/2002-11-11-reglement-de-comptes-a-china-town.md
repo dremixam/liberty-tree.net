@@ -22,5 +22,3 @@ Après avoir pris plusieurs balles, le criminel s'est échappé dans l'ambulance
 ![](/content/images/v1/user0/reglement2.jpg)
 ![](/content/images/v1/user0/reglement3.jpg)
 ![](/content/images/v1/user0/reglement4.jpg)
-
-<!--kg-card-end: markdown-->

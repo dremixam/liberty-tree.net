@@ -21,5 +21,3 @@ On peut donc espérer que maintenant, à la suite de cette réunion et en prévi
 ![](/content/images/v1/user21/rencontre_04.jpg)
 ![](/content/images/v1/user21/rencontre_05.jpg)
 ![](/content/images/v1/user21/rencontre_06.jpg)
-
-<!--kg-card-end: markdown-->

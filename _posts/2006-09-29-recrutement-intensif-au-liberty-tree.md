@@ -32,5 +32,3 @@ Il est évident que nous faisons ce recrutement dans le but de faire revivre le 
 
 ![](/content/images/2005/01/liberty_tree_gant_bridge.jpg)
 _PS : Vous n'aurez pas besoin de mettre de photo dans votre article. Votre candidature doit être assez longue (même longueur que cet article) et cohérente. Bonne chance !_
-
-<!--kg-card-end: markdown-->

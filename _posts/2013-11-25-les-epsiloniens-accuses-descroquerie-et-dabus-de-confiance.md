@@ -58,5 +58,3 @@ Il est encore bien sûr trop tôt pour savoir exactement qui sont ces gens, mais
 
 ![Jane, une représentante du groupe des "enfants de la montagne".](/content/images/2016/06/0_0_21.jpg)
 _Jane, une représentante du groupe des "enfants de la montagne"._
-
-<!--kg-card-end: markdown-->

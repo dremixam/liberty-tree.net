@@ -40,5 +40,3 @@ Notons qu’en plus des radars photo, le gouverneur de San Andreas a également 
 _Quantumlink HQ à Los Santos._
 
 En conclusion, le gouvernement souhaite atteindre des objectifs de réduction importante du nombre de victimes sur les routes par tous les moyens possible, et pour y arriver il compte sur ce nouveau procédé comme outil de dissuasion. L’installation des radars photo sur le territoire s'effectuera sur quelques mois durant lesquels ils feront graduellement leur apparition dans le paysage urbain. C’est à la firme suédoise _Quantumlink_, dont le siège social nord américain est situé à Los Santos, que reviendra le mandat de livrer les 2000 appareils qui ont été commandé par le ministère de la sécurité publique.
-
-<!--kg-card-end: markdown-->

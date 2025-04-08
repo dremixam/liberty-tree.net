@@ -49,5 +49,3 @@ Ses yeux bleus se mouillent, mais elle ravale ses larmes.
 
 Henry et Julie ont eu deux autres enfants. Brayan est né tout juste un an après la mort d’Eva. Pour la première fois son visage s'éclaire : « Mon fils a 6 ans. Il sait qu'il a eu une grande sœur. » Le petit garçon est pleinement conscient de la détresse de ses parents. Du fantôme de cette sœur. « Samedi dernier, on allait sur Wichita Gardens en voiture, raconte Henry et il y a eu une pub avec une petite fille à la radio, Mon fils m'a regardé et m'a dit "Papa, je sais à qui tu penses". »  
 La directrice de l'hôpital que nous avons interrogé, a renvoyé vers la direction des affaires juridiques et familiales de Liberty City. Et là, le service de communication se contente d'affirmer : « Si le juge d'instruction rend une ordonnance de non-lieu, nous ne pouvons commenter une décision de justice. »
-
-<!--kg-card-end: markdown-->

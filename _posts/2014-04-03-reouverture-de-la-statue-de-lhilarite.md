@@ -40,5 +40,3 @@ Cinq mois de travaux plus tard, l'accès est de nouveau autorisé au public. Nou
 La statue de l'Hilarité est ouverte de 9h à 19h, tous les jours. De nombreux souvenirs sont en vente au pied de celle-ci, ainsi que dans les parcs alentours. Si jamais vous passez par Liberty City dans les semaines à venir, n'hésitez pas à y faire un tour !
 
 ![](/content/images/2016/06/Statue1.jpg)
-
-<!--kg-card-end: markdown-->

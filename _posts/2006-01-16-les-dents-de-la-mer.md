@@ -56,5 +56,3 @@ Si Vice City s'apprête à essuyer un gouffre économique sans pareil, Los Santo
 
 ![De nombreuses boutiques ont fermé suite à la fuite des touristes.](/content/images/2005/01/VC6.jpg)
 _De nombreuses boutiques ont fermé suite à la fuite des touristes._
-
-<!--kg-card-end: markdown-->

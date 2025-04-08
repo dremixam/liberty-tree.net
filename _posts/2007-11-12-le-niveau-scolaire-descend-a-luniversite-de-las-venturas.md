@@ -47,5 +47,3 @@ Mais les jeunes ne s’arrêtent pas là, la drogue ou la violence mineure ne so
 Nous avons essayé de rencontrer un de ces jeunes, malheureusement sous la menace nous n’avons pu placer aucun mot. Le gouverneur de San Andreas appel au calme et demande aux jeunes de rentrer en cours sans histoire ou il devra prendre des sanctions vis-à-vis des contrevenants (une garde à vue de 48h ou pour les possesseurs d’un casier judiciaire un alourdissement de la peine).
 
 Chers lecteurs, il faut se faire une raison, l’avenir de San Andreas est aux mains de la délinquance
-
-<!--kg-card-end: markdown-->

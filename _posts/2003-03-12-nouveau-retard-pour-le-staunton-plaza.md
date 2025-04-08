@@ -39,5 +39,3 @@ Berlines de luxe, maison à 600 000$ minimum, un maître de maison, et il essaye
 ![](/content/images/v1/user23/pan02.jpg)
 ![](/content/images/v1/user23/pan03.jpg)
 ![](/content/images/v1/user23/pan04.jpg)
-
-<!--kg-card-end: markdown-->

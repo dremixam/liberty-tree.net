@@ -37,5 +37,3 @@ H. Reynolds a profité de son témoignage pour vous faire parvenir cette informa
 **Venez profiter de nos soldes qui varient de -20% à -40%. Toutes les armes à feu sont disponibles, du MAGNUM-35 à la KALACHNIKOV-800.**
 
 **_497, Trenton Square, CA379874, store #057 - &nbsp;497-163-039_**
-
-<!--kg-card-end: markdown-->

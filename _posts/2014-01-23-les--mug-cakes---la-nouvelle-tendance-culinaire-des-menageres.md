@@ -50,5 +50,3 @@ Si le patron de Bean Machine semble aux anges, c’est celui de BurgerShot qui f
 > Ça fait plus de trente ans que mes burgers sont implantés dans la région, et en quelques mois un concurrent vient me piquer ma plus fidèle clientèle… Non mais sérieusement, dans quel monde vit-on ?!
 
 ![](/content/images/2016/06/0_0_107.jpg)
-
-<!--kg-card-end: markdown-->

@@ -54,5 +54,3 @@ Il est déjà 2h16 du matin lorsque nous ressortons du casino, les poches vides 
 **Conclusion :** Pour une fête et une soirée réussie entre amis, je conseille donc le fameux Four Dragon pour ceux qui aiment la culture asiatique sinon faites vos choix dans les autres casinos de Las Venturas qui ont eux aussi, le droit et le respect d'être visités.
 
 _Prochain article de "La Fièvre du Samedi Soir" pour des nuits à passer sur la piste de danse..._
-
-<!--kg-card-end: markdown-->

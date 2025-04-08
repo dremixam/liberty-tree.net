@@ -35,5 +35,3 @@ Mr.Gordon commença a sangloter et a pleurer, nous l'avons emmené dans nos loca
 Nous sommes revenu voir Mr.Gordon deux semaines plus tard. Sa femme s'était éteinte à la suite d'une crise cardiaque. C'est maintenant une famille complètement brisée. Mr.Gordon vit seul avec sa fille dans son 50m2 à Aspatria. C'est un exemple de ce qui arrive à la plupart des familles d'anciens commerçants.
 
 Seuls les plus riches peuvent s'en sortir et ils sont une minorité.
-
-<!--kg-card-end: markdown-->

@@ -29,5 +29,3 @@ _Ce genre de culture est souvent utilisée pour réapprovisionner illégalement 
 À part un ou deux endroits très connus, la plupart des dispensaires sont situés dans des quartiers calmes, entre une épicerie et une boutique de vêtements.
 
 **Seule la marijuana à usage médical est autorisée à San Andreas. Étrangement, certains ne possèdent pas d’ordonnance et s’en procurent encore grâce aux dealers. La légalisation de la marijuana médicale n’a pas entraîné la fin des réseaux illégaux mais a tout de même rapporté 4 millions de dollars à la ville de Los Santos au troisième trimestre 2013.**
-
-<!--kg-card-end: markdown-->

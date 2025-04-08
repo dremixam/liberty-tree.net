@@ -20,5 +20,3 @@ En effet, à défaut d'appareil photo, l'individu avait sur lui un lance-roquett
 
 ![](/content/images/v1/user6/flicneuneu2.jpg)
 ![](/content/images/v1/user6/flicneuneu3.jpg)
-
-<!--kg-card-end: markdown-->

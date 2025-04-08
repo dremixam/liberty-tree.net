@@ -42,5 +42,3 @@ Aussi, le chef de la police de LS a officiellement déclaré que Maximilien n'é
 Le jugement de Feliz Hyatt Torento a été repoussé à la semaine prochaine et de nouvelles charges ont été retenues contre lui concernant les assassinats de la nuit dernière.
 
 Le Liberty Tree tient par ailleurs à remercier les forces de police pour le détail des événements de cette macabre soirée.
-
-<!--kg-card-end: markdown-->

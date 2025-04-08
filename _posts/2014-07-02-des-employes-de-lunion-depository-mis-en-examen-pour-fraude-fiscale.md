@@ -37,5 +37,3 @@ Informés, les clients commencent à douter de la manière dont leur argent est 
 > **Roger, 43 ans :** Si ça se trouve tout mon fric finit au Vanilla Unicorn, je les comprends je fais pareil, ils ont le droit mais pas avec mon blé.
 > 
 > \_ **Dwayne, un ballas, 19 ans :** Si ils touchent à mon pognon, moi et mes potes on va les niquer ces bâtards de merde, c'est pas eux qui passent leurs journées à vendre la came dans la rue !!
-
-<!--kg-card-end: markdown-->

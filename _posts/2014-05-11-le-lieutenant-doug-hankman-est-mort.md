@@ -57,5 +57,3 @@ La peine de la police de Los Santos est donc intense, et on la comprend... Le li
 - [Quand la provocation n'a plus de limite](/2014/04/18/quand-la-provocation-na-plus-de-limites/)
 
 Les membres de gang présents au moment du drame se sont tous enfuis et n'ont pas été retrouvés par les forces de l'ordre. Enfin, il reste important de noter que la balle reçue par Hankman provenait du même pistolet que celui que possède chaque agent de police... Affaire à suivre ?
-
-<!--kg-card-end: markdown-->

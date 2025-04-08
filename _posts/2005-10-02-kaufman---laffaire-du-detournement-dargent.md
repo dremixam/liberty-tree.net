@@ -50,5 +50,3 @@ Vous l'avez bien compris, la société peu perdre gros sur cette affaire. D'aill
 ![](/content/images/2005/01/taxi%20concurrent.jpg)
 
 Cette affaire est une aubaine pour leur concurrent direct.
-
-<!--kg-card-end: markdown-->

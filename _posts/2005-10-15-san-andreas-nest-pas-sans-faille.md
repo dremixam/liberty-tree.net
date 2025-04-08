@@ -24,5 +24,3 @@ Sachez quand même qu'avec cette annonce, on prévoit une saturation de tous les
 A vous donc de faire votre choix. Simple sursaut ou alerte irréfutable ? Quoi qu'il en soit, les journalistes du Liberty Tree sont prêts à risquer leur vie pour vous tenir au courant de l'information. Par conséquent, nous ne bougerons pas de notre bureau.
 
 Par contre, je crois qu'il est grand temps que je prenne un peu de vacances. Notre rédacteur en chef ne verra certainement pas d'objection à ce que je parte quelques semaines loin d'ici ! La Russie peut-être. Finalement la ville, les États-Unis, ça vous use la santé ...
-
-<!--kg-card-end: markdown-->

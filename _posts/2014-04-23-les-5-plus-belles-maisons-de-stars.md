@@ -43,5 +43,3 @@ Et le meilleur pour la fin avec le château du gangsta rappeur Snoop Doggy avec 
 _Le château du gangsta rappeur Snoop Doggy._
 
 Sur ce, j'espère que cette article vous aura plu, et nous vous conseillons de rester connecté sur le Liberty Tree !
-
-<!--kg-card-end: markdown-->

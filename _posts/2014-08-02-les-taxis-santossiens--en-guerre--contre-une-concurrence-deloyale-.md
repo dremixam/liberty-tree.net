@@ -34,5 +34,3 @@ Je suis ensuite allé rencontrer un pionnier des Véhicules avec chauffeur :
 > **Joey, 74 ans, conducteur de VC :** Ouais, je comprends qu'on fasse du tort aux taxis, mais au début dans les années 70, nous on conduisait que les gens aux hôtels de luxe, une berline avec vitres teintées c'est plus joli qu'une voiture jaune identique à 200 autres dans la ville. Mais y'a quelques années, ceux qui manquaient de sous à la fin du mois se sont mis à faire comme nous, c'est à cause d'eux tout ce grabuge ! Et ils donnent une mauvaise image de nous en plus. Ah, c'était mieux avant !
 
 Néammoins, la centrale d'appel de la Dowtown Cab Co aidera les clients dans le besoin en indiquant des itinéraires BIS et les déviations mises en place. Vous pouvez appeler cette centrale d'appel au 323-555-5555.
-
-<!--kg-card-end: markdown-->

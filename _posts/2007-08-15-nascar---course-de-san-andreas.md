@@ -35,5 +35,3 @@ Au 40ème tour, les dix pilotes suivants sont en tête : Dekra, Markiza, Carello
 _Markiza en tête-à-queue_
 
 Les dépassements sont difficiles, car il est pratiquement impossible pour une voiture de se mettre dans le sillage immédiat de celle qui la devance. Carello devra donc se contenter de la 2ème place et Di Tomason de la 4ème, Markiza étant intercalé entre les deux. C'est donc Dekra qui remporte la course qui semblait lui être promise depuis son départ en pole position. Carello termine second et devance Markiza, Di Tomason, Ribank, Monroe, Wrangler et Matthey. Quant à Fergus, c'est l'une des pires courses de sa carrière : 13e place... Rendez-vous à Liberty City la semaine prochaine !
-
-<!--kg-card-end: markdown-->

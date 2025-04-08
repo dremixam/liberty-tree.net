@@ -70,5 +70,3 @@ Enfin, nous terminons par le candidat socialiste, Harry Johnson qui souhaite :
 - Enfin, créer des bourses pour les familles défavorisées.
 
 Nous espérons que cet article a pu alerter les indécis et faire prendre conscience de l'importance du vote aux abstentionnistes. Nous vous donnons donc rendez-vous dans deux jours pour mettre votre petit bulletin dans l'urne.
-
-<!--kg-card-end: markdown-->

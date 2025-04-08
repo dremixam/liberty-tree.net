@@ -61,5 +61,3 @@ On découvre un véhicule plutôt&nbsp;accueillant, plus propre, plus "funny" qu
 ![](/content/images/2005/01/LST3.jpg)
 
 Pour conclure, si cette pseudo-guerre est risible pour une personne extérieur, si les effets d'annonces et de cachotteries peuvent sembler ridicules, sachez que c'est bien la réalité et que vous en êtes tous des acteurs, chaque fois que vous prenez le taxi. A partir de lundi prochain, vous pourrez donc&nbsp;essayer la nouvelle compagnie **SAT Co** , tester le nouveau modèle de la **LST & Cie** ou rester fidèle à la firme **Cabbie**. A vous de juger !
-
-<!--kg-card-end: markdown-->

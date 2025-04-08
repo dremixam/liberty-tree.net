@@ -44,5 +44,3 @@ Bien des gens vont danser dans les clubs et les fêtes sur les chansons de ce no
 ![](/content/images/2005/01/vinyle_countdown.jpg)
 
 Aussi, je suis sûr que les déclarations de Madd Dogg sur les gangs -comment vivent les membres, pourquoi font-ils des émeutes énormes depuis plusieurs jours, pourquoi sont-ils mécontents envers le gouvernement, etc. - vont aider les gens à comprendre leur frustration.
-
-<!--kg-card-end: markdown-->

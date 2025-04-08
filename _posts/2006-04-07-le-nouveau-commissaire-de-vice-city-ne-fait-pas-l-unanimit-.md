@@ -57,5 +57,3 @@ Personne n’est dupe cependant et un récent sondage a montré que les citoyens
 Pire encore, après la conférence de presse, une violente émeute éclata dans le quartier centre, en face du commissariat central et une dizaine de personnes ont été interpellées.
 
 La première journée de Chester Repressia en tant que commissaire a commencée sur les chapeaux de roue et tout le monde semble croire que tout cela n’est que le commencement d’une vague de crime sans précédent dans l’histoire de Vice City.
-
-<!--kg-card-end: markdown-->

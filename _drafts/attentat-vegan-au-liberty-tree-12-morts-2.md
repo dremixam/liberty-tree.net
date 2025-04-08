@@ -16,5 +16,3 @@ agression odieuse
 Horreur et désolation devant les locaux du Liberty Tree, à 7h35 ce matin, un groupe d'activistes vegan s'est attaqué à notre journal. L'odieuse attaque a été revendiquée
 
 Très vite, le dièze #jesuisLT a surgi, concurrencé par le dièze #jesuisvegan
-
-<!--kg-card-end: markdown-->

@@ -47,5 +47,3 @@ Puis c'est dans la Capitale qu'a été arrêté par le FBI, Avery Carrington, le
 "Des têtes vont tomber", nous a dit Malcolm Folks à l'annonce de ceci. Notez que à l'heure où vous lisez ces lignes, le FBI a repris l'enquête au LCPD dans notre ville.
 
 Nous ne saurons probablement jamais qui a descendu Marty Chonks, mais nous pouvons déjà considérer que cet élément est à l'origine de l'un des plus grands scandales de l'année 2003.
-
-<!--kg-card-end: markdown-->

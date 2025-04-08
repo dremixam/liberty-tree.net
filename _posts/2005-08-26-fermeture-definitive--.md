@@ -36,5 +36,3 @@ Et quand on lui expose la haine toujours vivace entre les deux communautés, il 
 ![](/content/images/2005/01/Mairie.jpg)
 
 Depuis donc plus de trente ans, la situation dans cette petite rue de Portland est au point mort. On pourrait presque croire que ces travaux inachevés font maintenant partie intégrante du paysage de Liberty-City...
-
-<!--kg-card-end: markdown-->

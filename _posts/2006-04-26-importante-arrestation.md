@@ -56,5 +56,3 @@ _La maison de M. Carleone, maintenant détenue par le FBI pour l'enquête._
 Pour finir, je remercie le shérif pour tous ses renseignements et pour les photos données à la publication de cet article.
 
 Affaire à suivre...
-
-<!--kg-card-end: markdown-->

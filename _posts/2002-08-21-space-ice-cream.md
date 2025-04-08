@@ -14,5 +14,3 @@ C'est dans la journée d'hier que les douaniers d'Atlantic Quays à Portland ont
 Le Cartel Colombien affirme ne pas être responsable dans cette affaire, prétextant qu'ils auraient été dans l'incapacité d'acheminer la marchandise étant donné que leur bateau a récemment coulé dans le port de Portland.
 
 Aucune plainte concernant un comportement inhabituel de certains citoyens n'a pour l'instant été déposée. La police criminelle de Liberty-City est certaine de la culpabilité du glacier et de l'inculpation du Cartel Colombien, qui expliquerait la multiplication des camionnettes "Mr Whoopee" dans tous les quartier dits "chauds" de la ville. Pour l'instant aucune preuve n'a été trouvée et une enquête est en cours.
-
-<!--kg-card-end: markdown-->

@@ -35,5 +35,3 @@ On dénombre de nombreux morts et dégradations de matériel parmis les incident
 ![](/content/images/v1/user0/rc6.jpg)
 ![](/content/images/v1/user0/rc7.jpg)
 ![](/content/images/v1/user0/rc8.jpg)
-
-<!--kg-card-end: markdown-->

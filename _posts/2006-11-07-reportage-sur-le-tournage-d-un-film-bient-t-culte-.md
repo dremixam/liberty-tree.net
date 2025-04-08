@@ -100,5 +100,3 @@ Vous ne voulez pas attendre la sortie du film&nbsp;? Alors procurez-vous dès ma
 - **Nombres d'hommes mobilisés au total :** 328
 
 Une production **InterGlobal** Films
-
-<!--kg-card-end: markdown-->

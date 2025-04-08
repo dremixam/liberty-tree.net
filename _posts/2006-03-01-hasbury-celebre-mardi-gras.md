@@ -33,5 +33,3 @@ _Quelques uns des nombreux déguisements qu'on pouvait voir hier._
 Rendez-vous est donc pris l'an prochain pour une nouvelle journée de déguisement et de fête.
 
 _Pour plus d'informations sur Hasbury, reportez vous à l'article de Tommy Dodie du 11 novembre 2005 sur les Sixties._
-
-<!--kg-card-end: markdown-->

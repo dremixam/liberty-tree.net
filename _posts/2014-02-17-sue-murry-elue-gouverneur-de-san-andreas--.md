@@ -43,5 +43,3 @@ C'est donc la fin d'une carrière politique, celle d'un homme abusant des campag
 C'est donc une nouvelle ère qui commence pour San Andreas, après l'ère John Sturner (2001-2009), [décédé récemment](/2014/01/29/deces-de-john-sturner/), puis l'ère McDouglas (2009-2013). Espérons qu'elle permettra à San Andreas de rester l'une des régions les plus riches du pays, malgré la crise économique qui le touche.
 
 A noter que depuis la mise en examen de Cranley, le fantôme de Jolène n'apparaît plus au sommet du Mont Gordo...
-
-<!--kg-card-end: markdown-->

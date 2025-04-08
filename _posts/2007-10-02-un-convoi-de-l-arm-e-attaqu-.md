@@ -29,5 +29,3 @@ Selon les premières analyses, les fugitifs ont utilisé des AK-47 ainsi qu'un L
 > C'est vraiment malheureux ce qui arrive, tout San Andreas est en danger à cause de personnes à qui il manquent une case, moi je suis prêt à aider la police dans toute leurs démarches pour qu'on coince ces gars et qu'on les pende !
 
 Témoignage surprenant et agressif. Les autorités de San Andreas sont misent à rude épreuve, avec des assassins (voir Double homicide au sniper) et des terroristes ainsi que les violences entre gangs et autres règlements de comptes. Espérons que la situation redevienne normale d'ici peu.
-
-<!--kg-card-end: markdown-->

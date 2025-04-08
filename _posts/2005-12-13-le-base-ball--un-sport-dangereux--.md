@@ -22,5 +22,3 @@ L'ASPJB (L'agence de Sécurité et de Protections des Joueurs de Base-ball) a co
 Demain, en l'honneur de ce joueur courageux, tout les habitants de l'état seront invités à faire un minute de silence à midi.
 
 On espère simplement que ce drame ne se reproduira plus au base-ball, et qu'aucun drame aussi grave ne se reproduira dans d'autres sport.
-
-<!--kg-card-end: markdown-->

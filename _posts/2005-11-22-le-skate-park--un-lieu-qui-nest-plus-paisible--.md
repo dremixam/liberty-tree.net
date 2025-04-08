@@ -21,5 +21,3 @@ Un acte décrit comme sadique par les psychologues des affaires criminelles. Cel
 ![](/content/images/2005/01/afrontmen2.jpg)
 
 Le matin, les traces de cette affrontement étaient toujours présentes dans le Skate Park de Los Santos, un endroit qui normalement devait être paisible, faut-il croire en une étendue du ghetto vers des terres qui semblaient jusqu'alors épargnées par toutes ces violences ?
-
-<!--kg-card-end: markdown-->

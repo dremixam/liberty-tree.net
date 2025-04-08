@@ -39,5 +39,3 @@ Quatre ans plus tard, les liens existent toujours. «Nous avons des informations
 _Symbole des Avenging Angels_
 
 Après la prise de Los Flores les Avenging Angels avait salué comme un « devoir&nbsp;»&nbsp;­, Los Santos espérait que la communauté internationale allait enfin faire pression sur son voisin pour mettre un terme aux activités de ces groupes. Mais la priorité, pour Washington, était de traquer William Baxter, ce qui ne pouvait se faire sans l'aide de la police de San Andreas. Une erreur puisque l'on a depuis retrouvé la trace des Avenging Angels à Vice City, à Las Venturas, à Bonne Country, Flint Country, Red Country et à Tierra Robada.
-
-<!--kg-card-end: markdown-->

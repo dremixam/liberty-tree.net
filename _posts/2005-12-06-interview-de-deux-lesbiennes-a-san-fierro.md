@@ -41,5 +41,3 @@ Nous avons réalisé une interview pour mieux comprendre leur désir de se battr
 ![](/content/images/2005/01/lsb2.jpg)
 
 Comme quoi certains citadins ont du mal à évoluer, combien de temps faudra t-il pour que la mentalité de certaines personnes se modernisent ?
-
-<!--kg-card-end: markdown-->

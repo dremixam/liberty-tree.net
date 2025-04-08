@@ -40,5 +40,3 @@ Si nos dirigeants veulent mettre fin à leur carrière politique, ils ne peuvent
 Donc pas d'amélioration à prévoir pour demain. En attendant, ce sont les agents de police qui assurent l'intérim pendant que les délinquants et les bandits se la coulent douce.
 
 Au moment où j'écris ces lignes, nous apprenons que les éboueurs ont porté plainte contre le conseiller du gouverneur (ce dernier ne s'est d'ailleurs toujours pas exprimé) pour propos injurieux et atteinte aux droits de l'Homme.
-
-<!--kg-card-end: markdown-->

@@ -45,5 +45,3 @@ Le PDG de _l'Alpine Armuring Co_. se veut donc préventif et donne la priorité 
 _La LSPD bouclant le perimètre où la vieille Chevrolet a été retrouvée._
 
 A l'heure où vous lisez ces lignes, ni l'identité des trois braqueurs ni celle du tireur au lance-roquette n'ont été dévoilées. Aussi, personne n'est en mesure de nous communiquer le contenu des six valises noires dérobées ce matin.
-
-<!--kg-card-end: markdown-->

@@ -19,5 +19,3 @@ Cette pratique aurait pu être acceptée par la plupart des concitoyens (malgré
 Ainsi, chaque jour, de plus en plus de plaintes sont déposées aux commissariats de Liberty City, et la police cherche toujours un moyen d'empêcher cette nouvelle pratique, mais la plupart du temps le conducteur a plus de délits à se reprocher que le jeune rider et s'enfuit à l'approche des policiers.
 
 Nous avons pu prendre quelques photos d'une Blista se faisant "rider", la conductrice ayant eu la présence d'esprit de se jeter contre un mur, le malfrat a fini la tête dans la pelouse.
-
-<!--kg-card-end: markdown-->

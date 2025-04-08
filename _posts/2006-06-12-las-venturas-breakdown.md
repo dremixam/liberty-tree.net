@@ -53,5 +53,3 @@ _Photos amateurs prisent par un conducteur, témoin de l'accident..._[](/content
 _...et la Rolls Royce de Don Sincitti après la fusillade de Mullholand Intersection._
 
 Nous n'avons pu obtenir le moindre commentaire de la part de Mark Jefferson, encore sous le choc de l'accident, mais la police de Los Santos tient à préciser qu'aucun tort ne lui sera causé. La LSPD ajoute aussi que Marcello Sincitti a bien commandité le meurtre des six hommes retrouvés à Las Brujas ainsi que des quatre autres cités plus haut. Los Santos peut désormais dormir tranquille ? Pas forcément, car à l'heure où vous lisez ces lignes, Antonio Sincitti, fils ambitieux du Parrain et bien connu pour ses soirées débridées, vient d'être nommé à la place de son père et compte bien marcher sur ses pas. La pègre de LS a encore de beaux jours devant elle.
-
-<!--kg-card-end: markdown-->

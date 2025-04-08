@@ -58,5 +58,3 @@ Sur ce, j'ai dû mettre un terme rapidement à cette interview et du même coup 
 
 ![A Vice City, la fête ne fait que commencer...](/content/images/2005/01/CLUB_Malibu_02.jpg)
 _A Vice City, la fête ne fait que commencer..._
-
-<!--kg-card-end: markdown-->

@@ -51,5 +51,3 @@ _La maison de Thomas Erdisson dans laquelle se trouvait la Souk Machine._
 
 Aucune sanction n'a encore été trouvée pour Thomas Erdisson, mais ce dernier est toujours sous surveillance des forces de l'ordre, et aucune photo n'a été autorisée. La Souk Machine a aussi été démontée et apportée aux laboratoires du département des sciences de San Fierro, pour s'assurer que cet appareil a bien une conséquence sur le bon déroulement de certains événements.  
 Quant à moi, après ce reportage, et pour une raison inexpliquée, mon téléphone cellulaire, ma montre et mon PC portable refusèrent de se mettre en marche...
-
-<!--kg-card-end: markdown-->

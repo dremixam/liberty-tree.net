@@ -27,5 +27,3 @@ Je n'ai pas entendu la totalité de la conversation, mais tout de même assez po
 Aussitôt, les bureaux du Liberty Tree ont été investis par le FBI et l'ensemble du personnel a dû évacuer les lieux. Des bureaux provisoires ont été installés dans un lieu tenu secret et protégé par la police.
 
 L'attaque n'a toujours pas eu lieu, les journalistes attendent toujours dans la crainte mais rien ne semble se passer. Le FBI nous a assuré que dans deux semaines tout danger sera écarté et que nous pourrons regagner nos bureaux.
-
-<!--kg-card-end: markdown-->

@@ -35,5 +35,3 @@ Tout proche se trouve l'aérodrome de Sandy Shores. Une autre piste exploitée p
 _Stab City, déserté depuis quelque temps._
 
 En attendant, les voleurs s'en sortent avec près de huit millions de dollars en liquide. Espérons que ce braquage ne sera pas suivi par d'autres, car il n'y aura bientôt plus de banque à cambrioler à Los Santos et à Blaine County...
-
-<!--kg-card-end: markdown-->

@@ -49,5 +49,3 @@ Afin de découvrir comment un tel changement a été rendu possible, nous avons 
 ![](/content/images/2016/06/FLIC.jpg)
 
 Comme quoi à force de persévérer à être mauvais on peut finir par être bon. Ça marche avec tout, même avec les journalistes du Liberty Tree.
-
-<!--kg-card-end: markdown-->

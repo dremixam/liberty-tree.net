@@ -51,5 +51,3 @@ La police a immédiatement bloqué les rues aux alentours de la banque.
 Soyez sûr que nous n'entendrons plus jamais parler de ces messieurs avant longtemps, avec tout l'argent qu'ils ont empochés.
 
 _Photos de Fido-le-Muet_
-
-<!--kg-card-end: markdown-->

@@ -39,5 +39,3 @@ _L'une des dernières photos connues de NelsoN._
 Et en effet, DrEmixam avait raison. Quelques jours plus tard, les serveurs nous revenaient, un par un, après avoir été examinés. Quant à NelsoN, plus aucune nouvelle. Il a échappé à la surveillance des geôliers et est désormais en cavale. Il a totalement disparu des radars, et peut-être du pays, temporairement, on l'espère.
 
 Le FIB nous a toutefois adressé un avertissement : la prochaine fois qu'il serait surpris en affaires avec un pays latino-américain, il serait bon pour aller ramasser de la savonnette à la prison de Bolingbroke.
-
-<!--kg-card-end: markdown-->

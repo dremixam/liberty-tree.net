@@ -23,5 +23,3 @@ C'était donc une "fausse alerte" !! qui a beaucoup amusé les médias.
 Sachez que Liberty Tree © ne sera pas tenu responsable si il arrivait quelque chose à votre PC à cause de cet article.
 
 Toute l'équipe du Liberty Tree vous souhaite de bonnes et agréables vacances !!!
-
-<!--kg-card-end: markdown-->

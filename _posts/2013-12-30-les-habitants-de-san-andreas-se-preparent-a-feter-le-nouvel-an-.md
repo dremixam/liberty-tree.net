@@ -61,5 +61,3 @@ Quoiqu’il en soit, la fête qui se prépare chez les golfeurs semble elle auss
 _Le club de golf de Los Santos._
 
 Ce sont de bien belles et justes paroles. Il n’y a de toute façon qu’une chose à faire : profiter de cette soirée ! Cela n’a lieu qu’une fois dans l’année, alors ne nous prenons pas la tête pour une fois avec toutes ces différences sociales, et essayons simplement de nous amuser, au moins avec ceux qu’on aime.
-
-<!--kg-card-end: markdown-->

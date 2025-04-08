@@ -31,5 +31,3 @@ Ce n'est pas la première fois que ce genre de drame se produit. En effet, cela 
 _La carrière Davis Quartz._
 
 Depuis, la carrière est fermée, et devrait le rester pour encore quelque jours, en attendant de nouveaux éléments concernant l'enquête.
-
-<!--kg-card-end: markdown-->

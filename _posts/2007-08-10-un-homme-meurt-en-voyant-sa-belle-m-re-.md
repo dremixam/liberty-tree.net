@@ -47,5 +47,3 @@ Accueil du A.S.G.H : Attendez... je cherche dans l'ordinateur ... Mr.Mathew vous
 _Le All Saints General Hospital_
 
 Voici donc la cause du décès : une crise cardiaque. Aussi surprenant que cela puisse être, Steeve Mathiew est mort d'une crise cardiaque en voyant sa belle-mère! Nous présentons toutes nos condoléances à la famille Moon.
-
-<!--kg-card-end: markdown-->

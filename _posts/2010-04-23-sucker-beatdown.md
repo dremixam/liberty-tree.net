@@ -22,5 +22,3 @@ L’amicale de infirmiers de Liberty City a d’ores et déjà poussé sa gueula
 ![](/content/images/2007/06/suckerbeatdown-Medium.jpg)
 ![En exclusivité, deux images tirées du premier prime de Sucker Beatdown.](/content/images/2007/06/suckerbeatdown2-Medium.jpg)
 _En exclusivité, deux images tirées du premier prime de Sucker Beatdown._
-
-<!--kg-card-end: markdown-->

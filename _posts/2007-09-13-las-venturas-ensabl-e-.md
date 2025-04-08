@@ -59,5 +59,3 @@ Interrogeons maintenant, Stephen Goodman,maire de Las Venturas :
 _Le maire : Stephene Goodman_
 
 Voici donc les mesures prises par la municipalité. Espérons que ces barrages et autres pluies vont arrêter l'avancée du désert vers la magnifique ville de Las Venturas.
-
-<!--kg-card-end: markdown-->

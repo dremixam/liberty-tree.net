@@ -65,5 +65,3 @@ Le PDG de la marque LibertyCars nous affirme que toutes sortes de modifications 
 Vous retrouverez principalement tous ces nouveaux véhicules au Capital Autos de Portland.
 
 ![](/content/images/2005/01/capitalautos01_0.jpg)
-
-<!--kg-card-end: markdown-->

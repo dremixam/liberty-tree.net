@@ -54,5 +54,3 @@ La réponse à la question 'qu'est-ce qui fait que Vice City est si convoitée?'
 ![](/content/images/2016/07/rollerskater.jpg)
 ![](/content/images/2016/07/screen51.jpg)
 ![](/content/images/2016/07/korti1.jpg)
-
-<!--kg-card-end: markdown-->

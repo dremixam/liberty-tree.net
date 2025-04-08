@@ -56,5 +56,3 @@ Il y en avait au moins pour quatre tonnes de marchandise. La police visita égal
 _Apparemment, il ne se servait pas de sa cuisine que pour cuisiner!_
 
 Tyler Santiago alias Drunky Dog purge maintenant une peine de cinq ans à la prison de Los Santos.
-
-<!--kg-card-end: markdown-->

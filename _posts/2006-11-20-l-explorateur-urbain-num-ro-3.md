@@ -78,5 +78,3 @@ Puisque nous n’avons pas été en mesure d’obtenir des réponses du LVPD, no
 ![](/content/images/2005/01/Explo_-_ecrivez-moi.jpg)
 
 N'oubliez surtout pas de communiquer avec moi si vous êtes témoin d'une situation particulière, ou si vous avez une nouvelle qui pourrait intéresser nos lecteurs. C'est donc un rendez-vous dans notre prochain numéro!
-
-<!--kg-card-end: markdown-->

@@ -53,5 +53,3 @@ Nous avons rencontré Nicky Hansen, le directeur du parc de Del Perro :
 > **NH :** Aussi, oui... On verra.
 
 Ce fut une drôle d'interview... Espérons tout de même que Del Perro Pier ne connaîtra pas le même sort que Funland, situé à Firefly Island au sud de Liberty City, contraint de fermer ses portes il y a cinq ans pour entamer des travaux... Qui n'ont toujours pas commencé...
-
-<!--kg-card-end: markdown-->

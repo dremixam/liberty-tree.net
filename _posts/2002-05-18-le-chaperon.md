@@ -23,5 +23,3 @@ Après une course poursuite acharnée à bord d'une limousine noire dans nos rue
 > Il a mystérieusement disparu dans un Pay'n'Spray, je suis sûr de l'avoir vu y rentrer, mais la seule voiture qui en est ressortie avait une couleur complètement différente! Je n'avais pas vu ça en 15 ans de métier!
 
 Une disparition encore plus mystérieuse quand on sait que le commissaire W. Cunningham s'est vu décerné 14 fois la médaille du meilleur enquêteur de la ville.
-
-<!--kg-card-end: markdown-->

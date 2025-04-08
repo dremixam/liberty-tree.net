@@ -74,5 +74,3 @@ Nous avons interrogé un passant afin de connaître son avis sur l’éventuel a
 _Irvin Jones, un passant au discours traditionnel._
 
 Ainsi, les avis demeurent encore bien partagés sur le sujet. Seul l‘avenir pourra nous dire réellement si le pétrole est bien en voie d’extinction et si les énergies renouvelables suffiront à répondre aux besoins croissants de la population. Ce qui est certain, c’est qu’aujourd’hui, ce sont les pays qui détiennent les plus importants puits de pétrole que l’on surnomme « les rois du pétrole », étant donné qu’ils ont l’Or noir, l’argent infini et ce pour encore au moins une cinquantaine d’années.
-
-<!--kg-card-end: markdown-->

@@ -21,5 +21,3 @@ Au petit matin, les Liberticiens qui ont eu la chance de ne pas se trouver dans 
 ![](/content/images/v1/user26/massacre.JPG)
 
 Nous ne savions toujours pas ce matin qui était l'homme et ne pourrons peut-être jamais le savoir en raison de l'état de ce qui reste du Rhino mais le directeur l’hôpital de Shoreside Vale a annoncé qu'un des malades de la section psychiatrique, un ancien militaire avide de guerre et de destruction, s'est échappé quelques heures avant les événements.
-
-<!--kg-card-end: markdown-->

@@ -36,5 +36,3 @@ Cette situation permet de pointer du doigt la cruauté du marché économique d'
 Espérons que Maibatsu ne l'ait pas encore atteint.
 
 ![](/content/images/v1/user23/tab02.jpg)
-
-<!--kg-card-end: markdown-->

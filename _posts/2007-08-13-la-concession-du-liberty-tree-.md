@@ -102,5 +102,3 @@ Non communiquées
 Les reprises de la Skyline GTR est vraiment très souple et performante, on la confondrait presque avec une Ferrari. La voiture pousse très bien et est très maniable, une version plus "familiale" 4 portes devrait voir le jour mais rien n'est encore sur. Pour l'instant nous vous invitons à essayer ce modèle sportif.
 
 Pour tout achat ou essayage, veuillez visitez nos partenaires en page d'accueil merci.
-
-<!--kg-card-end: markdown-->

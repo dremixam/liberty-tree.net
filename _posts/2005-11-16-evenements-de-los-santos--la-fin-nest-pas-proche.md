@@ -33,5 +33,3 @@ Nous nous engageons à continuer de vous tenir au courant malgré le risque et l
 
 ![](/content/images/2005/01/Emeutes%206.jpg)
 ![](/content/images/2005/01/Emeutes%2015.jpg)
-
-<!--kg-card-end: markdown-->

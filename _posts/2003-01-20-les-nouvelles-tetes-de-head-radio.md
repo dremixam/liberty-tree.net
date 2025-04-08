@@ -53,5 +53,3 @@ Ainsi, Russ Mottla, notre premier DJ-présentateur a été remercié et remplac�
 Le Liberty Tree remercie le staff de Head Radio de nous avoir permis cet entretien.
 
 ![](/content/images/v1/user23/head03.jpg)
-
-<!--kg-card-end: markdown-->

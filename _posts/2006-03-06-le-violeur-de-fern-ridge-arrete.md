@@ -34,5 +34,3 @@ _L'église du quartier de Jefferson a été investie par les paroissiens pour ma
 Pour l'instant, le prêtre Jeremy Patrick Anderson est retenu en détention provisoire selon l'ordonnance du procureur général de Los Santos et dans l'attente de son procès qui se tiendra au Tribunal correctionnel de Los Santos jeudi prochain.
 
 **Photographe : P130**
-
-<!--kg-card-end: markdown-->

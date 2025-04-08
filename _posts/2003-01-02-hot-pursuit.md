@@ -30,5 +30,3 @@ Le fuyard fut abattu alors qu'il tentait une fois de plus de s’échapper.
 ![](/content/images/2016/07/Pursuit7.jpg)
 ![](/content/images/2016/07/Pursuit8.jpg)
 ![](/content/images/2016/07/Pursuit9.jpg)
-
-<!--kg-card-end: markdown-->

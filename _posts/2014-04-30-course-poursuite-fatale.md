@@ -41,5 +41,3 @@ En effet, la voiture a volontairement foncé dans le vide. Les deux jeunes gens 
 _Le camp des Altruistes, situé tout près du lieu de l'accident._
 
 L'enquête est maintenant lancée, mais il y a peu de chances que l'on découvre un jour le fin mot de l'histoire...
-
-<!--kg-card-end: markdown-->

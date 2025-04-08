@@ -25,5 +25,3 @@ Peu après notre entrevue avec l'honorable Maître Lim, le SFPD emmena le profes
 
 ![Quartier Général du SFPD.](/content/images/2005/01/sfpd.jpg)
 _Quartier Général du SFPD._
-
-<!--kg-card-end: markdown-->

@@ -14,5 +14,3 @@ Tout d'abord, ils veulent des salaires plus important pour leur redonner le mora
 Ensuite, ils exigent que la loi adoptée le mois dernier, qui permet à n'importe quel habitant de Liberty City de prendre un véhicule publique et d'effectuer quelques missions afin de se faire un peu d'argent de poche soit abrogée. Cette loi qui était à l'origine destinée à faire grandir le civisme de nos concitoyens en leur permettant de participer à quelques missions d'utilités générales - telles que l'arrêt de malfrats ou l'extinction de feus de voitures- a très vite provoqué un bordel sans nom. Les concitoyens qui effectuaient les missions d'ambulance ne se préoccupaient pas, la plus part du temps, des gens qu'ils écrasaient sur leur chemin ! Je ne parle même pas des accidents lors des missions de police!
 
 Il y aura donc une grève sans précédents dans les rues de Liberty demain à partir de 10 heures.
-
-<!--kg-card-end: markdown-->

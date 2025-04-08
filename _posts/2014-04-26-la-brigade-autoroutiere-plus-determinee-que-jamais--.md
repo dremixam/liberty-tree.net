@@ -51,5 +51,3 @@ Une journée après notre soirée très mouvementée, nous avons rencontré pour
 _Le nouveau véhicule de la police de Los Santos : le V12._
 
 Le Liberty Tree vous conseille donc de rester prudent lorsque vous prenez la route, et de vous méfier des autres conducteurs afin de minimiser les risques d'accidents. Évitez aussi l'alcool ou les stupéfiants, il ne faudrait pas que vous soyez responsable d'un terrible accident de la route...
-
-<!--kg-card-end: markdown-->

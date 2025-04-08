@@ -25,5 +25,3 @@ Le médecin chef de l'hôpital général de Carson M.Piquebien nous a éclairé 
 Les armes préférées de cette canaille sont les battes de base-ball, les coups de pieds, les grenades, le bazooka, le sniper et le M16.
 
 C'est Ammu-Nation qui ne vas pas être content !
-
-<!--kg-card-end: markdown-->

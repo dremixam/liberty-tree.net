@@ -38,5 +38,3 @@ _Il n'est pas rare de voir dans nos rues des individus lourdement armés sans qu
 Malik Carr, manifestant et probablement dealer :
 
 > C'est dingue que ce type se soit fait descendre juste parce qu'il avait un couteau, c'est vrai, un couteau quoi c'est que dalle ! Moi par exemple, jamais je sors dans la rue sans mon UZI, trop de risques mec. D'ailleurs c'est dingue je veux dire, la moitié des gens de cette ville sont armés jusqu'aux dents, et on croise même parfois des mecs avec un lance-roquettes sur l'épaule sans que ça dérange personne… Alors, un couteau ? Nigga please !
-
-<!--kg-card-end: markdown-->

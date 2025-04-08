@@ -16,5 +16,3 @@ Hier soir la police de Liberty City est passée à l'action en utilisant les gra
 Apres cet événement le sénateur John Carpenter insista pour féliciter les gardiens de la paix de Liberty City et ajouta quelques mots à la presse :
 
 > Je suis fier de la police de cette ville, et cet événement montre très bien l'efficacité et la bravoure de la LCPD.
-
-<!--kg-card-end: markdown-->

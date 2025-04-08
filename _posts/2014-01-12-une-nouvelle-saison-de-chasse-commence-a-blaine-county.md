@@ -62,5 +62,3 @@ Bien que la chasse soit à la base destinée à réguler le nombre d’animaux s
 _Deux militantes convaincues._
 
 Visiblement, ces personnes ne semblent pas faire la différence entre des petits délinquants qui n’ont rien de mieux à faire que de tirer sur des coyotes pour « passer le temps » que sur la régulation des animaux sauvages. Il est pourtant capital de comprendre que si l’on ne les régule pas un minimum, les randonneurs ne pourraient plus se promener dans les bois sans risquer de se faire tuer par l’une de ces bêtes.
-
-<!--kg-card-end: markdown-->

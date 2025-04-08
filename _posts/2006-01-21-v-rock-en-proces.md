@@ -40,5 +40,3 @@ A cause de cet auteur anonyme, la station V-rock va être remplacé par une stat
 > **L'avis des Love Fist :** T'inquiète ! C'est déjà fait !
 
 Jason Lewis met donc toutes les chances de son coté en utilisant les anciennes stars de la station.
-
-<!--kg-card-end: markdown-->

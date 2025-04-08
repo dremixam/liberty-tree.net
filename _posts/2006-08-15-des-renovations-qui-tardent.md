@@ -69,5 +69,3 @@ _Gouverneur John Sturner._
 Conclua le gouverneur.
 
 Voilà ce que l’on appelle une sortie publique. Suivant les instructions du gouverneur, nous avons essayé de poser la question aux maires des endroits que nous avons visités mais personne n’était disponible pour nous répondre au moment de nos appels. Nous pouvons facilement croire qu’un malaise s’est installé depuis la déclaration du gouverneur Sturner. Nous avons même entendu dire que certains maires songeraient à intenter des poursuites en diffamation. S’ils gagnent leur cause, espérons maintenant que l’argent servira à faire les travaux tant attendus par la population.
-
-<!--kg-card-end: markdown-->

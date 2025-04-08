@@ -44,5 +44,3 @@ _Le Craw Bar de Las Venturas._
 _Roy Rogers._
 
 L'enquête mène toujours son cours, et aux dernières nouvelles, le LSPD serait sur une piste sérieuse. Quand à l'officier Grobber, il ressorti du All Saints Hospital avec une bonne peur bleue et quelques hématomes.
-
-<!--kg-card-end: markdown-->

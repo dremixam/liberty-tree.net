@@ -35,5 +35,3 @@ Toujours d'après eux, leur présence ne devrait être que l'affaire de quelques
 ![](/content/images/2016/06/Requins5.jpg)
 
 D'ici là, il est fortement recommandé d'éviter les sorties en mer, mais dans le cas contraire, nous conseillons à tous les skippers en herbe de faire preuve de vigilance.
-
-<!--kg-card-end: markdown-->

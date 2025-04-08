@@ -36,5 +36,3 @@ La famille Sturner, encore sous le choc, a refusé toute entrevue. Nous avons en
 > Les Sturner sont choqués par l’enlèvement de Jeremiah, mais le gouverneur ne souhaite en aucun cas plier face à ce genre de menaces. C'est la porte ouverte à tout sinon !
 
 Les négociations seraient en cours, d’après le porte-parole du gouverneur, mais aucune autre information n'est parvenue ni de la mairie de Los Santos, ni de Parker Center, le QG du LSPD.
-
-<!--kg-card-end: markdown-->

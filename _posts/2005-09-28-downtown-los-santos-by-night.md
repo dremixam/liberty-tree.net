@@ -52,5 +52,3 @@ O'Grady n'ira pas plus loin. Apparemment, la peur de représailles l'empêche de
 
 ![Une scène malheureusement devenue banale, dans un quartier historique de la ville](/content/images/2005/01/Gangsta02.jpg)
 _Une scène malheureusement devenue banale, dans un quartier historique de la ville_
-
-<!--kg-card-end: markdown-->

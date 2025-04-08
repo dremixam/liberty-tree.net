@@ -30,5 +30,3 @@ _Je reprends donc la série des "24h de la vie de..." pour en consacrer un artic
 **19h00-21h00:** En passionné de football américain qu'il est, Donald se rend au stade de Staunton Island pour le match opposant les Liberty City Spyrs (LCS) aux Reds de San Fierro (Reds) pour la finale opposant les deux champions des conférences est et ouest. Score final ? Victoire des Reds de San Fierro 51-43. C'est donc la seule déception de Donald en cette journée importante dans l'avenir de Love Media.
 
 **21h30:** Donald Love rentre chez lui en hélicoptère pour aller dormir auprès de sa femme après avoir embrassé ses enfants.
-
-<!--kg-card-end: markdown-->

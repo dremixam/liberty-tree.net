@@ -16,7 +16,6 @@ Riley nous fait faire un rapide tour du propriétaire, et nous découvrons les q
 ![](/content/images/2016/06/Pompiers4.jpg)![](/content/images/2016/06/Pompiers3.jpg)
 _](/content/images/2016/06/Pompiers4.jpg)![_
 
-
 Alors que nous souhaitions interviewer un ou deux pompiers présents sur place, l'alarme sonne pour la première fois de la journée. Accident de la route, un camion et une ambulance prennent la route, direction Grove Street.
 
 > _\*\*Lieutenant Riley : \*\*C'est ça notre boulot : on a très peu de répit ! Et surtout, les alertes tombent souvent au mauvais moment ! Un jour, j'avais mal digéré les haricots du repas de midi et..._
@@ -44,5 +43,3 @@ Nouvelle alerte une heure plus tard, cette fois-ci plus importante : une maison 
 _La maison ravagée par les flammes._
 
 De retour à la caserne, nous nous rendons compte que la journée touche à sa fin. Elle a été plutôt tranquille par rapport à de nombreuses autres, et c'est tant mieux. Une fois encore, ces hommes courageux et vaillants méritent d'être récompensés et hautement estimés, car ils pratiquent l'un des plus beaux et plus respectables métiers du monde.
-
-<!--kg-card-end: markdown-->

@@ -42,5 +42,3 @@ A déclaré le shérif McTiernan chargé de l'enquête.
 Le motel reste fermé jusqu'à nouvel ordre. La police a mis des scellés sur la porte de la chambre en attendant les résultats de l'enquête.
 
 ![](/content/images/2005/01/Police_Line.jpg)
-
-<!--kg-card-end: markdown-->

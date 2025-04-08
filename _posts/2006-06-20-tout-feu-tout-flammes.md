@@ -36,5 +36,3 @@ Les preuves accablantes d’un incendie criminel s’accumulaient. Le même jour
 _Tandis que le fourgon blindé du LSPD embarque l'acteur, Brian  observe la scène avec tristesse._
 
 En bref, c’est un ras-le-bol de la routine qui a poussé la star à vouloir se suicider de cette manière. Remarquez, c’était aussi ironique&nbsp;: Brade devait tourner le film&nbsp; "Firemen" dans les mois à venir. "J’allais tout juste sentir mon personnage", nous confie Brade…
-
-<!--kg-card-end: markdown-->

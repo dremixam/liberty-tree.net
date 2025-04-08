@@ -39,5 +39,3 @@ A priori notre brave homme accomplit sa tâche avec entrain. Mais il existe forc
 Si quelques éléments sont à éclaircir dans l'affaire du crash, on sait déjà que des sanctions seront prises à l'encontre de la direction de l'aéroport. Celui-ci ne sera pas fermé mais les autorités ont fait appel à l'armée pour assurer la sécurité du complexe, en attendant une réorganisation des dispositifs et du personnel. Il est toutefois à craindre que nos concitoyens prennent les moyens de transport aériens en grippe, au vu de tous les incidents récents qui y sont associés.
 
 ![](/content/images/2005/01/avion7.jpg)
-
-<!--kg-card-end: markdown-->

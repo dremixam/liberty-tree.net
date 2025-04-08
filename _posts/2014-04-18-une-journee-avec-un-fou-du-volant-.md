@@ -63,5 +63,3 @@ Malheureusement, la fête s'arrêta là pour Tyler car cette nuit, alors qu'il �
 _Les restes de la Shafter de Tyler._
 
 Sur ce, le Liberty Tree vous souhaite une bonne soirée. Faites toutefois attention à vous car lorsque nous sommes dans notre voiture, nous ne sommes pas dans un jeu vidéo.
-
-<!--kg-card-end: markdown-->

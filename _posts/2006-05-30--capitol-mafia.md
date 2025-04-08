@@ -80,5 +80,3 @@ Ainsi, voilà ce qu'est une soirée avec la Mafia, bien que la plupart du temps,
 ![](/content/images/2005/01/affiche.jpg)
 
 Le prochain numéro de $Capitol$ se passera dans le milieu de la police de Los Santos : Où en sont les bavures policières ? Est-ce que les policiers terminent à 17h ? Ce sont des questions auxquelles nous répondrons.
-
-<!--kg-card-end: markdown-->

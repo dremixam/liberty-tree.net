@@ -59,5 +59,3 @@ _John Smith devant sa superbe voiture._
 _Prochain article de "La Fièvre du Samedi Soir"&nbsp;pour des nuits&nbsp;à passer&nbsp;sur la piste de danse..._
 
 ![](/content/images/2005/01/La_Fievre_du_Samedi_Soir_1.jpg)
-
-<!--kg-card-end: markdown-->

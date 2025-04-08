@@ -71,5 +71,3 @@ _Martin et Lana._
 > **Lana :** Avec mon fiancé, on a pensé à aller s’installer à Chumash à un moment (pas loin de la ville et moins cher), mais on ne voulait pas s’éloigner de nos familles. Et puis finalement, on s’en sort pas si mal que ça financièrement.
 
 Ainsi, c’est encore l’argent qui serait à la base des décisions des gens… Mais jusqu’où iraient-ils pour de l’argent ?
-
-<!--kg-card-end: markdown-->

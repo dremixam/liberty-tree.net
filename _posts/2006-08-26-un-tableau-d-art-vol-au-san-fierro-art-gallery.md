@@ -60,5 +60,3 @@ Après l'arrestation de la jeune femme, je peux m'entretenir avec Stan Shaw:
 > **Stan Shaw :** Je vous en prie...&nbsp;Nicolas vient là, tout de suite!
 
 Chaque chose&nbsp;est remit&nbsp;à sa place: la jeune femme et Mike Douine&nbsp;derrière les barreaux et le tableau dans la vitrine de la&nbsp;San Fierro Art Gallery qui possède un nouveau système de sécurité...
-
-<!--kg-card-end: markdown-->

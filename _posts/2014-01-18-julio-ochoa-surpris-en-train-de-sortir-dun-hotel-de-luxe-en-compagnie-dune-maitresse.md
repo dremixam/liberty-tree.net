@@ -25,5 +25,3 @@ Carmen Ortiz, une jeune femme vivant à Bohan a bien voulu nous déclarer son re
 
 ![Carmen Ortiz.](/content/images/2016/06/Carmen_Ortiz_GTA_IV_%28Internet%29.png)
 _Carmen Ortiz._
-
-<!--kg-card-end: markdown-->

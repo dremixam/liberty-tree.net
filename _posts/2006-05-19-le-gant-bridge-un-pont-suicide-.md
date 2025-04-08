@@ -68,5 +68,3 @@ Nous avons ensuite du&nbsp;interrompre cet interview&nbsp;car Mr Kool fut pris d
 ![](/content/images/2005/01/cadavre1.jpg)
 ![Photos de l'agent de Mr Kool](/content/images/2005/01/cadavre2.jpg)
 _Photos de l'agent de Mr Kool_
-
-<!--kg-card-end: markdown-->

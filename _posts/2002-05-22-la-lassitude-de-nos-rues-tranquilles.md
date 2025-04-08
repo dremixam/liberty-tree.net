@@ -18,5 +18,3 @@ Alors comment cette ville, qui a été proposée en son temps pour être la capi
 Aujourd'hui, plus personne ne rêve de fonder une entreprise, ou de faire progresser Liberty. Les gens marchent dans les rue, roulent dans leurs voitures sans savoir ou ils vont. Une simple contrariété les fait changer de direction, ils roulent ou marchent alors pendant des heures avant de retrouver leur domicile. Certain ne le retrouvent d'ailleurs jamais. Un homme debout au milieu de la route suffit à bloquer une rue entière ! Personne n'ose passer, en prenant le risque justifié d'écraser le malotru. De même lors d'une attaque à main armé, peu sont ceux qui osent encore sortir une arme et régler leur problème d'une manière décente, non, il est bien plus facile de se jeter par terre ou de fuir. Ne parlons même pas de nos « fières policiers » qui souffrent pour la plupart d'amnésie chronique et ne tabassent plus les délinquants.
 
 Nous je vous le dis chers concitoyens, Liberty City mérite un meilleur sort que celui qui se dessine pour elle. Il ne tient qu'à vous, et à vos enfants de sortir notre belle ville de cette dangereuse pente.
-
-<!--kg-card-end: markdown-->

@@ -36,5 +36,3 @@ Enfin, nous avons rencontré Mickael Hazelnoten, âgé de 22 ans, vivant à Litt
 _Karen Walker, âgée de 19 ans._
 
 Vous l'aurez compris, la situation ne risque pas de s'améliorer, mais gardez espoir, on ne sait jamais, rendez-vous à la publication des chiffres de l'obésité en 2014. Yes we can...
-
-<!--kg-card-end: markdown-->

@@ -49,5 +49,3 @@ _Le supermarché où j'ai dû faire œuvre de charité_
 C’est certainement le meilleur moment de la journée, excepté qu’il y a toujours la présence des caméras… Après une journée à courir partout, j’ai enfin le droit de me détendre un peu dans une boite de nuit branchée jusqu’à minuit passée… Enfin ça c’est pour les candidats normaux qui devront refaire la même chose le lendemain, moi je rends mon tablier et j’ai bien l’intention de m’éclater ce soir ! Comme quoi finalement tout ne se termine pas si mal. C’était une journée intéressante, qui montre bien à quel point les gosses qui rêvent de percer dans la musique sont quasiment exploités dès leur « formation ». Heureusement qu’il n’y a pas que ce genre d’émission pour y parvenir ; il y a aussi la possibilité d’avoir des relations parmi les mafieux de la ville… Eh oui les amis, l’argent fait tout (ou presque). Vous croyez que des gosses de South LS vont avoir la chance de faire entendre leurs petits rap à de grandes maisons de disques ? Que nenni.
 
 ![](/content/images/2016/06/0_0_147.jpg)
-
-<!--kg-card-end: markdown-->

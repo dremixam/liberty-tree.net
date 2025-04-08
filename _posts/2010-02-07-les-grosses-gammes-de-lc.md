@@ -41,5 +41,3 @@ _"Tires smokes like Buddha"_
 L’année 2010 devrait être un bon cru pour Thomas McGrim et son club, car les membres du LSGD (Los Santos Gentlemen Drivers) prévoient de traverser le pays pour une grosse rencontre à Liberty City vers le milieu du printemps. Pas moins de 50 bolides sont attendus. Vous êtes propriétaire d’une auto de prestige et souhaitez faire partie du Straight Ballin’ Liberty ? Cliquez sur le lien ci-dessous pour accéder à leur site internet, et remplir votre formulaire d’inscription !
 
 ![](/content/images/2007/06/bigballs8002.jpg)
-
-<!--kg-card-end: markdown-->

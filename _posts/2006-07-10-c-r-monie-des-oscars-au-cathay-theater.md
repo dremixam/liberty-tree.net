@@ -107,5 +107,3 @@ Au final tout le monde est content. Ou presque car à la sortie, la célèbre ac
 _Vinewood Call Girls : le film avec Candy Suxxx._
 
 Voilà donc ce que nous pouvions dire sur cette soirée des Oscars riche en rebondissements et en émotions. On retiendra surtout le prix de Jack Howitzer pour le film Exploder, l'Oscar du meilleur film pour Scarhead et l'émouvant documentaire Soldiers Of Misfortune sur la guerre du Golfe. A l'année prochaine.
-
-<!--kg-card-end: markdown-->

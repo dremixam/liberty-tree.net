@@ -62,5 +62,3 @@ Nous avons pu obtenir l'interview exclusive du seul survivant de ce drame en ét
 > **Jim(_en courant_) :** Et merde, ma mère m'avait dit que les saucisses me perdraient !
 
 Quelques minutes plus tard, Jim Turner fut arrêté et mis en prison. Quoi que vous fassiez, évitez le plus possible l'autoroute, elle est la cible de la plupart des courses urbaines, un puits à accidents et à cinglés en tout genre.
-
-<!--kg-card-end: markdown-->

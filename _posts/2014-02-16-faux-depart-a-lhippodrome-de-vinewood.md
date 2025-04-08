@@ -59,5 +59,3 @@ L'agent de sécurité, Jim Martell n'a pas été prévenu de l'annulation de l'�
 _Le siège de CNT._
 
 Pire encore, la chaîne de télévision CNT, était chargée de retransmettre en direct-live l’événement. Un contrat de 225 000$ avait été signé et en plus du remboursement, CNT demande 56 000 $ de dédommagement au père Horsemann. Nous n'avons malheureusement pu nous entretenir avec ce dernier. La grande course de 2014 aura-t-elle lieu à une autre date ? Cela reste pour l'instant très incertain.
-
-<!--kg-card-end: markdown-->

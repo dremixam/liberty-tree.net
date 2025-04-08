@@ -20,5 +20,3 @@ Voilà ce que nous a dit le pauvre homme avant d'annoncer sa démission et de pr
 ![](/content/images/2016/06/metro2_0.jpg)
 ![](/content/images/2016/06/metro3_0.jpg)
 ![](/content/images/2016/06/metro4_0.jpg)
-
-<!--kg-card-end: markdown-->

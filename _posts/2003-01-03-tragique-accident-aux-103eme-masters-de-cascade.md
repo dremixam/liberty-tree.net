@@ -19,5 +19,3 @@ Je demande une grande minute de silence après la lecture de cette article...sni
 ![](/content/images/v1/user24/CMDC_Scream.jpg)
 ![](/content/images/v1/user24/CMDC_Shumi.jpg)
 ![](/content/images/v1/user24/CMDC_Bat.jpg)
-
-<!--kg-card-end: markdown-->

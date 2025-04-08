@@ -41,5 +41,3 @@ En août, c'est l'anniversaire du LT. Il fallait en parler bien entendu car à c
 _Un crash et une image triste..._
 
 Vous avez bien supporté ce bref regard sur 2006 ? Nous ne pouvons maintenant que regarder l'année 2007 et c'est en cette occasion que je vous souhaite un bon bout d'an, mes meilleurs vœux (que je ne pense pas, bien évidemment ! Allez, avouez vous aussi que vous n'y pensez pas aussi !). Bon, fini la déconnade, soyez gentil avec vos grand-mères pour les étrennes et encore une fois bonne année.
-
-<!--kg-card-end: markdown-->

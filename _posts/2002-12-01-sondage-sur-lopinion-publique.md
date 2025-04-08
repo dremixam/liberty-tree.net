@@ -35,5 +35,3 @@ Une interview avec un sociologue se devait donc:
 **S. Mc Egl.** : Les personnes sont moins heureuses, ce qui entraîne de la haine, donc de la violence. C'est un cercle vicieux qu'il faudrait couper par le biais de la police.
 
 Ce sondage à été effectué par la mairie pour la maison blanche.
-
-<!--kg-card-end: markdown-->

@@ -19,5 +19,3 @@ Le grand patron du FBI nous disait lors d'un entretien coup de vent dans les cou
 > Vous ne pouvez pas savoir les idées bizarres que les gens ont, aujourd'hui, il s'agit d'un collectionneur de voiture du FBI, mais la semaine dernière, nous avons arrêté une personne qui collectionnait les dodos, qu'allons nous trouver la semaine prochaine ? un collectionneur de tank ?
 
 En effet, les craintes du patron du FBI peuvent-être justifié puisque la police a démantelé la semaine dernière un réseau de collectionneur de camion de glaces qui en avait déjà écoulé plus de quarante à travers tout le pays.
-
-<!--kg-card-end: markdown-->

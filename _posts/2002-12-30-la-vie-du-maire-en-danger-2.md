@@ -37,5 +37,3 @@ Nous avons donc rendu une visite au maire et en avons profité pour lui poser qu
 > **Maire :** Sans commentaires...
 
 Le maire éludant ainsi toute les questions posées nous avons décidé de mettre fin à la rencontre mais la question reste posée: Le maire va-t-il se représenter aux prochaines élections?
-
-<!--kg-card-end: markdown-->

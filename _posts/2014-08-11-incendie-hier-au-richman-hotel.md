@@ -33,5 +33,3 @@ _Landon Harper, Jon Jr Gravelli et Christopher Thomson_
 Jon Jr Gravelli serait venu à Los Santos pour des raisons qui restent floues, il est depuis reparti à Liberty City.
 
 Les réparations sont estimées à 600 000 $, l'affaire passera devant les tribunaux en octobre prochain, la justice déterminera à cette occasion qui devra payer les réparations.
-
-<!--kg-card-end: markdown-->

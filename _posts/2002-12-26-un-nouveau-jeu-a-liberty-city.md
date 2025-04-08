@@ -25,5 +25,3 @@ Ce jeu si dangereux soit-il fait de plus en plus d'adeptes chez les jeunes, et i
 ![](/content/images/v1/user24/Asport_4.jpg)
 ![](/content/images/v1/user24/Asport_5.jpg)
 ![](/content/images/v1/user24/Asport_7.jpg)
-
-<!--kg-card-end: markdown-->

@@ -115,5 +115,3 @@ AV Chevrolet Caprice 1989. Noire, équipée Lowrider. Idéale pour ne pas passer
 Contact : Mike **555-0021**
 
 ![](/content/images/2005/01/grilleannonce.jpg)
-
-<!--kg-card-end: markdown-->

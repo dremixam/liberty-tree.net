@@ -23,5 +23,3 @@ C'est pour toutes ces raisons que le gouvernement de l'état de San Andreas a d�
 > **Jack Johnson, chauffeur routier, 54 ans :** Le gouvernement a tout-à-fait raison d'installer ces radars automatiques; il y aura bientôt moins d'accidents et moins de décès.
 > 
 > **Terry Armstrong, commerçant à Los Santos, 53 ans :** Le gourvernement a 100% raison. Lundi dernier, lorsque je conduisais tranquillement sur une autoroute menant à Las Venturas, il y a eu un terrible accident: une dizaine de bolides sont entrés en collision d'où 8 décès et 6 blessés entre la vie et la mort.
-
-<!--kg-card-end: markdown-->

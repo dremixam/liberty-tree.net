@@ -91,5 +91,3 @@ tags:
 Les pieds dans la boue et sous une pluie torrentielle, je regarde s'éloigner le camion. A son bord, deux hommes qui ont dit non à la fatalité et à la misère. De véritables héros. Quelle dommage que notre périple se soit achevé si tôt ! J'avais encore tant à apprendre… Tout de même, ils auraient pu me ramener en ville. Bah, marcher sous la pluie entretient la santé. Aa… aaa… aaATCHA !
 
 It's such a long way home…
-
-<!--kg-card-end: markdown-->

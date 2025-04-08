@@ -35,5 +35,3 @@ Toujours dans la région de Cholla Road, un homme nous a communiqué :
 > Vous savez, pour moi c’est une simple affaire de trafic de méth’ comme il y en a partout dans la région. Mais vous savez aussi bien que moi que les flics aujourd’hui sont tous corrompus, encore plus à la campagne, alors ils étoufferont l’affaire avec les brigands eux-mêmes et ils nous feront croire qu’il s’agissait d’un loup.
 
 Ces propos sont assez troublants dans le sens où ils remettent en question toute l‘autorité de la police. Faut-il vraiment croire cet homme, sachant qu’il n’en était pas à son premier verre d’alcool lorsqu’il a témoigné ? Ou bien d’autres personnes pensent-elles que la police fait preuve d'une totale incompétence et n'est par conséquent plus digne de notre confiance et qu’il serait bon de remettre l’affaire aux hommes de la milice privée de Merryweather ?
-
-<!--kg-card-end: markdown-->

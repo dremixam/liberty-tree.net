@@ -31,5 +31,3 @@ _Depuis le plateau de l'émission, Jean-Pierre Fauxcul interrogera les candidats
 > **Jean-Pierre Fauxcul, animateur vedette :** On avait pensé au début donner les perdants en pâture aux animaux de la savane, mais deux problèmes importants nous en ont dissuadés : cela aurait sérieusement compliqué le recrutement des candidats et nos avocats nous ont parlé d’éventuels soucis d’ordre légal… C’est dommage, qui se soucie encore de la loi de nos jours ? On aurait pu faire une émission révolutionnaire avec ce concept…
 
 Comme d’habitude, un numéro fortement surtaxé vous permettra régulièrement de choisir parmi plusieurs nominés celui dont la tête vous revient le moins, Weasel conseille d’ailleurs aux téléspectateurs de voter le plus grand nombre de fois possible afin d’augmenter le poids de leur vote.
-
-<!--kg-card-end: markdown-->

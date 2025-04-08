@@ -46,5 +46,3 @@ _Billy, barman au Pleasure Dome._[](/content/images/2005/01/alcove.jpg)
 _L'ambiance feutrée du Pleasure est..._[](/content/images/2005/01/pleasure.jpg)
 ![...unique en son genre à San Fierro.](/content/images/2005/01/logojizz.jpg)
 _...unique en son genre à San Fierro._
-
-<!--kg-card-end: markdown-->

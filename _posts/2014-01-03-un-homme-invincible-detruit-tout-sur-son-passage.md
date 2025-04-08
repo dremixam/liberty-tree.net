@@ -81,5 +81,3 @@ _Des foyers brisés par ce "fléau"._
 Le maire a préféré ne pas se prononcer suite à ces événements.
 
 Surhomme, immortel, chanceux, psychopathe, super-héros ou fléau, chacun a sa propre opinion sur cet inconnu destructeur.
-
-<!--kg-card-end: markdown-->

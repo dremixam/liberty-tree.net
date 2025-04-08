@@ -17,5 +17,3 @@ La police arrivée trop tard, a fait remarquer que les clochards n'avaient plus 
 La police a quand même réussi à trouver quelques indices, les jeunes gens seraient venus en Banshee, or cette voiture a été retrouvée incendiée avec les autres voitures de la concession.
 
 Ce drame soulève encore une fois le problème du manque de patrouilles dans certains quartiers puisque la police n'est arrivée que deux heures plus tard.
-
-<!--kg-card-end: markdown-->

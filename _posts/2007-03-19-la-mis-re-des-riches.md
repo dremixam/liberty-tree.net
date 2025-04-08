@@ -36,5 +36,3 @@ Selon l'officier du LVPD affecté au dossier, le sergent détective Paul Naple, 
 _À gauche, une photo de Victor Akov. À droite, le portrait robot du deuxième suspect recherché._
 
 Enfin, nous pouvons affirmer que la richesse et l’argent règlent bien des problèmes sauf que les gens qui jouissent de la fortune sont tout aussi vulnérables que vous et moi. Nous souhaitons un prompt rétablissement à M. Moore et sa fiancée et espérons que le LVPD mettra rapidement la main&nbsp;sur ces crapules qui sont toujours&nbsp;au large.
-
-<!--kg-card-end: markdown-->

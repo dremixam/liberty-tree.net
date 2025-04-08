@@ -44,5 +44,3 @@ Aeroclub de Verdant Meadows: Contactez Logan, co-proprietaire du lieu.
 Las Venturas Training Center-052635468, Las Venturas International Airport, ouvert 24h/24.
 
 San Fierro Aviation Society-052154743, Easter Bay Airport, ouvert de 9h30 à 20h.
-
-<!--kg-card-end: markdown-->

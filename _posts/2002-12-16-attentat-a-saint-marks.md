@@ -25,5 +25,3 @@ Pour finir quelques photos prises par un amateur avant et pendant l'explosion.
 ![](/content/images/v1/user23/forel03.jpg)
 ![](/content/images/v1/user23/forel04.jpg)
 ![](/content/images/v1/user23/forel05.jpg)
-
-<!--kg-card-end: markdown-->

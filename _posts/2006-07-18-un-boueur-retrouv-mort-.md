@@ -69,5 +69,3 @@ Après cet entretien le tueur court toujours et n'est pas prêt d'aller derrièr
 _"Kevin" qui fait son footing matinal_[Le corps de "Kevin" retrouvé par la LSPD.](/content/images/2005/01/mort_kevin.jpg)
 
 Coïncidence ? Je ne&nbsp;peux pas l'affirmer mais ce qui est sûr c'est que le reste de la famille est à l'abri de ce tueur en série qui est prêt à tout faire pour ne pas passer ses dernières années au frais dans une cellule...
-
-<!--kg-card-end: markdown-->

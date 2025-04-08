@@ -80,5 +80,3 @@ De retour dans la ville, nous avons remarqué un bâtiment détruit par un incen
 _Le commerce de monsieur Rosenbauer et la remise dans laquelle il a été séquestré._
 
 Les résultats du sondage tendent donc à se confirmer. inhospitalité, injures et discriminations sont le lot des touristes qui visitent les lieux reculés de notre état. Nous ne pouvons qu'espérer une amélioration des choses dans le futur car les choses semblent ne pas pouvoir être pires. Aux autorités désormais de remettre de l'ordre dans les petites villes de San Andreas.
-
-<!--kg-card-end: markdown-->

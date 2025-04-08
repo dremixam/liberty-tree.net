@@ -21,5 +21,3 @@ Nous avons dans le club un jeune qui est au 9ème rang mondial de bungee jumping
 > Quand vous sautez vous sentez le vent siffler sur vos habits, c'est comme si il y avait un énorme ventilateur devant vous qui vous rafraîchit, la première fois vous avez l'impression de vous être jeté dans la gueule du loup, que c'est foutu, que vous allez mourir, vous foncez tête en bas contre la terre et au dernier moment la corde vous retient, c'est comme si dieu vous avait sauvé.
 
 Même le maire s'y est mis, avec enthousiasme.
-
-<!--kg-card-end: markdown-->

@@ -25,5 +25,3 @@ La police a appréhendé les suspects après un échange de coups de feu meurtri
 ![](/content/images/2005/01/Pol%20VS%20Gan.jpg)
 _Dernière minute :_  
 Le chef de gare de Los Santos a été arrêté par les forces de l’ordre dans le cadre d’une enquête sur des vols d’auto radios commis sur le parking de la gare. Peut-être l’ébauche d’une explication concernant la découverte de la bombe…
-
-<!--kg-card-end: markdown-->

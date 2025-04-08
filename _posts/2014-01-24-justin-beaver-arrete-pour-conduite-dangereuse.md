@@ -21,5 +21,3 @@ _L'officier Vincent._
 Une prise de sang plus tard, et la version de Beaver était confirmée par la science. Du sucre, du cacao et du lactose en très grande quantité, mal assimilé par son organisme. Son cœur s'est emballé, le cerveau libéra alors une grande dose d'adrénaline. La suite, nous la connaissons. Justin Beaver a donc été placé préventivement dans une cellule à Boilingbroke avant d'être déféré devant un juge qui a fixé sa caution à 2500 dollars, soit une somme bien modique pour le chanteur dont la fortune s'élève déjà à quelques millions. Malgré la rapidité de ses avocats, la "mugshot", photo d'identité judiciaire, avait déjà envahi les réseaux sociaux comme Bleeter ou Life Invader.
 
 ![](/content/images/2016/06/mugshot.jpg)
-
-<!--kg-card-end: markdown-->

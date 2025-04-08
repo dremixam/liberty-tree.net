@@ -107,5 +107,3 @@ Chrysler Dynasty. 215 000kms. Porte AV. D. à remplacer. Petit prix si urgent ! 
 Envie de s'envoyer en l'air ? N’hésitez plus ! Votre baptême de l'air pour 100$ , c'est au Charles Lindberg Club seulement ! LSIA, hangar 11. **555-878-PLANE**
 
 ![](/content/images/2005/01/grilleannonce.jpg)
-
-<!--kg-card-end: markdown-->

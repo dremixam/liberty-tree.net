@@ -40,5 +40,3 @@ George Brucie, l'un des policiers du LSPD témoigne, pour le LT, sur l'augmentat
 _Prostituée de luxe, de jour comme de nuit_
 
 En effet, si cette série de meurtre continue, ça va être joyeux la nuit à Los Santos.
-
-<!--kg-card-end: markdown-->

@@ -50,5 +50,3 @@ Dans les rues noires sous la lune de LS, nous sommes allés à la rencontre de d
 > **A :** Personnellement, si je suis une prostituée, c'est parce que j'aime ça.
 
 Y a-t-il de bonnes raisons de trahir la loi en vendant son corps ? Sommes nous aptes à le juger ? La prostitution, réelle économie souterraine, représenterait 12% du PIB de Los Santos. Face à tous ces déboires, le maire n'a rien voulu déclarer.
-
-<!--kg-card-end: markdown-->

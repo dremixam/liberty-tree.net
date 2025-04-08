@@ -39,5 +39,3 @@ Nous avons pu interviewer OG Loc à la sortie de sa maison de disque.
 _Dr Pre, le producteur de Madd Dogg et OG Loc_
 
 Celui que l'on s'amusait à surnommer "OG la loque" semble bien parti pour entrer dans l'histoire du rap grâce à cet album produit par Dr Pre et inspiré de Madd Dogg.
-
-<!--kg-card-end: markdown-->

@@ -36,5 +36,3 @@ Malheureusement le gouverneur n'estime pas que la situation requiert des renfort
 > Il est vraiment regrettable que le gouverneur soit conseillé par des andouilles, si nous n'avons pas rapidement des renforts la situation va méchamment dégénérer et les quartiers vont s'embraser devant notre incapacité à rétablir l'ordre, il y aura beaucoup de morts et beaucoup de dégâts si on a pas ces renforts (nous avons pris soin de censurer les insultes de Monsieur Caine).
 
 La situation risque effectivement de se transformer en véritable guerre civile si ces affrontements sortent des quartiers, nous risquerions de nous retrouver dans une situation pire qu'en 2005.
-
-<!--kg-card-end: markdown-->

@@ -32,5 +32,3 @@ A l'entrée tout d'abord, le portail ne peut être ouvert que par une personne, 
 _L'entrée du coffre est bien protégée !_
 
 Autant dire qu'il faudra s'y prendre de bonne heure pour attaquer cette banque, d'autant plus que la police de Ludendorff a installé une alarme directement reliée au poste de police de la ville, et qu'une patrouille est constamment présente aux alentours de la dite banque. Les principales banques de Los Santos, pour ne citer qu'elles, feraient bien de s'en inspirer...
-
-<!--kg-card-end: markdown-->

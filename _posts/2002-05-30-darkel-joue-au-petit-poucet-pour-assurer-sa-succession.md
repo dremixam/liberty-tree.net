@@ -19,5 +19,3 @@ Cette quête est une sorte de parcours initiatique, nous a expliqué un "candida
 > Plus on trouve de paquets, et plus Il s'intéresse à nous... il nous fait parvenir des armes de plus en puissantes. Il faut dire qu'on en a besoin, car un seul homme peut posséder tous les paquets. La lutte est rude, on risque notre peau pour lui ... mais ça en vaut la peine !
 
 Gageons que tous les criminels de Liberty s'entretuent dans la recherche des paquets dissimulés par le petit poucet Darkel. Prions le ciel qu'il ne trouve pas un successeur digne de lui.
-
-<!--kg-card-end: markdown-->

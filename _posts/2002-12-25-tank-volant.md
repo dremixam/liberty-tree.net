@@ -23,5 +23,3 @@ J'ai donc décidé de prendre contact avec la seule personne que je connaisse et
 
 J'ai pu lui extorquer quelques informations: Le FBI aurait conçu un prototype top secret de Rhino étant capable de voler à haute altitude et à grande vitesse.  
 Le mystère reste -quasiment- entier mais je vais poursuivre mon enquête...
-
-<!--kg-card-end: markdown-->

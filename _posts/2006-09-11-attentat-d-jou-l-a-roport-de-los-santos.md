@@ -47,5 +47,3 @@ Un porte-parole du FBI a indiqué dans la nuit lors d'une conférence de presse 
 _Liberty City : la cible des terroristes._
 
 C'est une nouvelle piqûre de rappel pour la population américaine. Le pays est toujours sous la menace constante des terroristes et ce nouvel incident intervient 6 mois après le vol d'un missile à capacité nucléaire dans la base ultra-protégée du désert de Bone County à l'ouest de Las Venturas. (Voir notre article du 21 février 2006)
-
-<!--kg-card-end: markdown-->

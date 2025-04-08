@@ -49,5 +49,3 @@ A l'heure où vous lisez ces lignes, Peter Williamson se trouve toujours entre l
 
 ![Le Carson General Hospital.]()
 _Le Carson General Hospital._
-
-<!--kg-card-end: markdown-->

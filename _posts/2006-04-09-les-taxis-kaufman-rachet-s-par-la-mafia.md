@@ -43,5 +43,3 @@ Tout cela semble bien étrange et les habitants de Vice City commencent à se to
 _Les taxis VC profitent bien de la rumeur pour augmenter leur nombre de clients._
 
 Tout cela signifie-t-il la fin des Kaufman? Le temps nous le dira. Une chose est sûre, tout cela risque bien d'être fatal à l'industrie du taxi vicien.
-
-<!--kg-card-end: markdown-->

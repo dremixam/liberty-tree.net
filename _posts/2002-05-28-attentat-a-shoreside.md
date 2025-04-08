@@ -16,5 +16,3 @@ Arrivés sur les lieux, ceux-ci s'empressent alors d'utiliser le robot dernière
 13h00, les personnes présentes retiennent leur souffle. Un grand bruit retentit alors, et là, stupéfaction, le contenu entier de la valise ayant explosé, quelques billets consumés se mettent à voler dans les airs!
 
 Après enquête, il s’avérerait que la valise appartenait au chef du gang du Cartel Colombien. Un échange aurait du avoir lieu, mais l'intervention de la LCPD et de leurs collaborateurs on fait échouer un plan qui, qui sait, aurait peut-être fortement compromis le sort de notre bonne vieille ville de Liberty-City!
-
-<!--kg-card-end: markdown-->

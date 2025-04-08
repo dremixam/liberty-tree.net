@@ -144,5 +144,3 @@ Nightshade Limousine s’adresse à ceux qui ont l’âme à la fête et qui dé
 Nous vous avons donc présenté les services les plus connus. Il existe plus d’une vingtaine d’autres transporteurs plus ou moins recommandables. N’oubliez donc pas de vous assurer de prendre toutes vos précautions lorsque viendra le moment de vivre votre baptême en limousine pour ne pas que votre rêve ne se transforme en cauchemar. Chaque transporteur doit être enregistré en plus d’être détenteur d’un permis du département de transports de San Andreas.
 
 Nous vous souhaitons un bon Limousinage à tous et à toutes!
-
-<!--kg-card-end: markdown-->

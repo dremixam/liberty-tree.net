@@ -41,5 +41,3 @@ Avis qui n'est pas du goût de tout le monde. Beaucoup de critiques commencent �
 Nous sommes alors en droit de nous poser des questions... Le jeu semble-t-il vide de tout contenu car le filon a été épuisé ? 17 épisodes sont-ils de trop pour une trilogie déclinée en plusieurs volets ? Les rythmes de sorties (un épisode tous les 6 mois pour 80 $) sont-ils trop élevés ?
 
 Il semblerait que seul le temps donnera réponse à ces questions et que l'avenir de la licence est entre les mains des pigeons acheteurs.
-
-<!--kg-card-end: markdown-->

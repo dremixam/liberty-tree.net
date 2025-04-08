@@ -41,5 +41,3 @@ Une fois au commissariat je me suis présenté à l’accueil en temps que journ
 _Le détenu Ivan Dragan avant son incarcération (photo amateur)._
 
 N’ayant plus rien à faire au commissariat, je rentrais donc chez moi, l’affaire pas toute à fait résolue. Les conseils que je puisse vous donnez, sont de vous méfiez si vous prenez un taxi, demandez toujours les papiers qui garantissent le chauffeur et le véhicule. Sachant que ce trafic a été rencontré à Vice-City et San Fierro. En attente de nouvelle.
-
-<!--kg-card-end: markdown-->

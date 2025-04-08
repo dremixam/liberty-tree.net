@@ -35,5 +35,3 @@ A sa sortie, l'appareil devrait être disponible dans divers packs :
 - Le Multifruit Pack : avec cette offre vous vous assurez le haut de gamme en terme de téléphonie mobile, avec appareil photo intégré, accès Fruit Store, sticker Fruit et une réduction de 10 $ pour la FruitCard, le tout proposé au prix de... 999.99 $ seulement !
 
 Fruit a annoncé la sortie de cette petite merveille technologique pour le 21 décembre prochain, ce qui correspond à l'arrivée des festivités, beaucoup de personnes se disant déjà prêtes à offrir ce téléphone à leurs proches pour Noël entres autres. Maintenant reste à voir le nombre de personnes qui comptent s'arracher le bijou le jour de sa sortie ; la compagnie mise sur un chiffre de vente de 800 000 000 d'exemplaires dès le premier jour.
-
-<!--kg-card-end: markdown-->

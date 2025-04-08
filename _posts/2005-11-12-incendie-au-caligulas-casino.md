@@ -41,5 +41,3 @@ Quand cette nouvelle vint aux augustes oreilles de Joey Leone, le propriétaire 
 > **Joey:** Merci.
 
 Aujourd'hui, la famille Leone et la police de Las Venturas ont le même but mais des façons différentes de procéder; la famille de Salvatore suspecte et attaque d'autres familles et des ennemis proches jusqu'à trouver le coupable, tandis que la police reste sur les lieux du crime pour trouver des indices.
-
-<!--kg-card-end: markdown-->

@@ -24,5 +24,3 @@ Ils sont revenus vers dix heures, ce qui m'a étonné, je pensais que les passes
 C'est après avoir tapiné pendant une demi heure que son second client est arrivé. J'avoue ne pas avoir réalisé tout de suite que c'était son prochain client, enfin, je devrais plutôt dire ses prochains clients, qui arrivaient dans un car de tourisme. A peine était-elle montée dans le car que je voyais déjà les passagers commencer à se déshabiller.
 
 J'ai tout de suite pensé: "Bon, j'ai bien 2 heures devant moi… juste le temps qu'il me faut pour vérifier ce qu'on m'a dit sur une des "collègues" de Wendy".
-
-<!--kg-card-end: markdown-->

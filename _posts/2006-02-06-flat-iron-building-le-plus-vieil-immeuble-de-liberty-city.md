@@ -21,5 +21,3 @@ Aujourd'hui, le building occupe toujours la même fonction résidentielle mais l
 Le Flat Iron Building a donc de beaux jours devant lui et ce, pour le plus grand bonheur des touristes et des habitants de Liberty City.
 
 ![](/content/images/2005/01/Flat_Iron_03.jpg)
-
-<!--kg-card-end: markdown-->

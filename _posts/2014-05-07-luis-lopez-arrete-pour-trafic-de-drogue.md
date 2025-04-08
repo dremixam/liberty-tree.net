@@ -49,5 +49,3 @@ La petite amie de Luis Lopez, Kimy Desinise, a également bien voulu répondre a
 _Kimy Desinise la petite amie de Luis Lopez._
 
 Sur ce, restez connectés sur le Liberty Tree pour connaître les suites de cette affaire, et sachez que nous vous déconseillons l'usage de stupéfiants.
-
-<!--kg-card-end: markdown-->

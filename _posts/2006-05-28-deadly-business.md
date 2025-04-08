@@ -34,5 +34,3 @@ Jackson Daussy a donc été placé en détention provisoire jusqu’à l'audienc
 
 ![La Chrysler New Yorker de Jackson au post de police de Los Santos.](/content/images/2005/01/towtr.jpg)
 _La Chrysler New Yorker de Jackson au post de police de Los Santos._
-
-<!--kg-card-end: markdown-->

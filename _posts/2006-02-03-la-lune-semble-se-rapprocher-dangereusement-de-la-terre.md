@@ -25,5 +25,3 @@ Mais depuis l'annonce de cet événement inquiétant, la population a déjà com
 ![](/content/images/2005/01/Prophete.jpg)
 
 Il va donc falloir attendre les nouvelles informations du télescope de l'observatoire de Verdant Bluffs avant de tirer des plans sur la comète.
-
-<!--kg-card-end: markdown-->

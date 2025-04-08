@@ -32,5 +32,3 @@ _Freddy Birday_[Avant](/content/images/2005/01/recyclage4.jpg)
 _Après_
 
 En attendant la réparation des dégâts et l'embauche d'un nouvel écraseur, la décharge publique de San Fierro restera fermée jusqu'à nouvel ordre.
-
-<!--kg-card-end: markdown-->

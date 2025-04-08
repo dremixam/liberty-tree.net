@@ -64,5 +64,3 @@ Aéroport International LS : Le voyage s'arrête ici et les souvenirs sont bien 
 C'est donc sur ces magnifiques images que s'achève la 3ème étape de notre carnet de voyage ...
 
 ... See you in San Fierro ...&nbsp; ;)
-
-<!--kg-card-end: markdown-->

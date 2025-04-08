@@ -24,5 +24,3 @@ Par contre, pour le mouvement des prostitués, le fait est, un serial killer est
 ![](/content/images/v1/user21/portland_b_4.jpg)
 ![](/content/images/v1/user21/portland_b_5.jpg)
 ![](/content/images/v1/user21/portland_b_3.jpg)
-
-<!--kg-card-end: markdown-->

@@ -32,5 +32,3 @@ Car comme le dit Kinsley, les victimes de cette arnaque sont tombés dans le pan
 _De gauche à droite, Sophie, Jesus et Teophus, victimes de l’arnaque._
 
 A l’heure où vous lisez ces lignes, le LCPD continue de chercher le pirate à l’origine de l’arnaque, mais les agents qui s’occupent de l’enquête se refusent à tout commentaire. Ça m’apprendra de leur demander une interview pendant leur pause café.
-
-<!--kg-card-end: markdown-->

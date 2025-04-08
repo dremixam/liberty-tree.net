@@ -32,5 +32,3 @@ On ne sait pas pourquoi ce camion et pas un autre (Securicar par exemple) a ét�
 La police ne semble pas vouloir nous en dire plus, à croire que ce camion transportait de l'or.
 
 Quant au criminel restant, toujours pas de trace de lui d'après la police, c'est une, je cite : "affaire très mystérieuse, qui nous donnera beaucoup de fil à retordre."dit le chef de la police de Vice City. Plus d'infos dans la prochaine édition du Liberty Tree.
-
-<!--kg-card-end: markdown-->

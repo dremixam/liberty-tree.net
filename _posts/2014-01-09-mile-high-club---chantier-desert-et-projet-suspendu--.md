@@ -30,5 +30,3 @@ La présence de la sécurité récemment rend l'histoire plus étrange encore. N
 _Un agent de sécurité pas franchement accueillant._
 
 Bref, des événements criminels, un chantier de plus en plus gardé mais désert ! Le Mile High Club est un projet ambitieux, duquel il ne faut pas entacher l'image.
-
-<!--kg-card-end: markdown-->

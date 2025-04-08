@@ -26,5 +26,3 @@ _Siège de Weazel News._[Camionnette de Weazel News.](/content/images/2016/06/We
 En effet, le record d'audience de la chaîne a été battu lors du dernier "Weazel News Late Edition" avec comme présentateur Maximus Wallace et comme reporter Nick Ross, et peut-être qu'il sera encore battu dans les prochaines éditions. Weazel News pourrait devenir l'une des chaînes de télévision phares de l'État, avant peut-être de viser plus grand ?
 
 Pour vous rendre sur le site, c'est ici : [http://www.weazelnews.net/](http://www.weazelnews.net/)
-
-<!--kg-card-end: markdown-->

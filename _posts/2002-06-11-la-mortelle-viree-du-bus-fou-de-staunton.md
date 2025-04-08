@@ -21,5 +21,3 @@ En ce qui concerne la police, elle ignore totalement ce qui s'est passé hier et
 S'est exclamé le chef de la police quand nous l'avons interrogé
 
 Espérons que ce dangereux individu sera vite lyncher par la foule puisque la police n'a visiblement pas prévu d'intenter quoi que ce soit contre lui.
-
-<!--kg-card-end: markdown-->

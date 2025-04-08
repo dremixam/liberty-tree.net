@@ -80,5 +80,3 @@ Puis je suis allé au C.P. (Centre Protectum) interroger un membre de l'A.P.P.J.
 Je partais donc, l'A.A.S.A. étant en réunion, je n’ai pu interroger les membres.
 
 Il ne reste plus qu'à attendre que les réunions entre les conseillers et le maire se terminent dans cinq jours. Dans tout les cas, le maire est dans de "beaux draps". Espérons simplement que si manifestation se fait, il n'y aura pas de blessés ou plus...
-
-<!--kg-card-end: markdown-->

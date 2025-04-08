@@ -66,5 +66,3 @@ Après-midi sombre pour ce vendredi. Les obsèques de la conductrice tuée malen
 ![](/content/images/2005/01/cem1.jpg)
 ![Le cimetière de Los Santos où il nous a été interdit de pénétrer pour plus de photos.](/content/images/2005/01/cem2.jpg)
 _Le cimetière de Los Santos où il nous a été interdit de pénétrer pour plus de photos._
-
-<!--kg-card-end: markdown-->

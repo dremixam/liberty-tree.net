@@ -81,5 +81,3 @@ Parmi les victimes de ces vols, sont répertoriés quelques stars et personnalit
 Le Liberty Tree put se procurer quelques photos de véhicules volés. La liste complète sera communiquée ultérieurement par le LSPD. Elle devrait faire baver tout amateur de belles mécaniques.
 
 Au jour d'aujourd'hui Rick Haines (ainsi que la Novitec 575) reste introuvable et un mandat sera lancé contre lui par ordre du juge fédéral à la fin de la semaine, d'après le communiqué presse du département judiciaire de la LSPD.
-
-<!--kg-card-end: markdown-->

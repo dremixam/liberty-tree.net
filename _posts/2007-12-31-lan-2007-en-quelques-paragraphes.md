@@ -60,5 +60,3 @@ La rentrée 2007 a été marquée par le décès du célèbre ténor Sicilien Ad
 _Adolfo Gotrielli avant sa mort, à Los Santos._
 
 Et voilà, notre article touche à sa fin et comme vous avez pu le constater, 2007 a été riche en émotions. Puisse 2008 être aussi mouvementé, mais je fais confiance à tous les illuminés, tueurs en série, gangsters et autres dérangés du bocal pour nous mettre un peu d'animation dans tout ça. En attendant, toute l'équipe de la rédaction vous souhaite une excellente année 2008, (n')abusez (pas) sur la boisson, assurez-vous de n'avoir rien oublié en quittant l'appareil et couvrez-vous, ça caille dehors !
-
-<!--kg-card-end: markdown-->

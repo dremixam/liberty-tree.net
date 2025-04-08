@@ -40,5 +40,3 @@ Andrew nous a montré comment passer ces parties sans problème et ramasser des 
 ![](/content/images/v1/user24/TJ_5.jpg)
 ![](/content/images/v1/user24/TJ_6.jpg)
 ![](/content/images/v1/user24/TJ_7.jpg)
-
-<!--kg-card-end: markdown-->

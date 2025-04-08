@@ -49,5 +49,3 @@ N'oublions pas que jouer comporte des risques, mais arrêtez de faire chier vos 
 
 ![Fame or Shame, l'émission qui cartonne à la télévision.](/content/images/2016/06/fame%20or%20shame_0.jpg)
 _Fame or Shame, l'émission qui cartonne à la télévision._
-
-<!--kg-card-end: markdown-->

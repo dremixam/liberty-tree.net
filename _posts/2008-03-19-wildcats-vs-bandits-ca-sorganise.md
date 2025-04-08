@@ -48,5 +48,3 @@ Pour tous les Liberticiens ainsi que pour tous les habitants de l’état de San
 ![](/content/images/2005/01/vbn.jpg)
 ![](/content/images/2005/01/nbv.jpg)
 ![](/content/images/2005/01/gfd.jpg)
-
-<!--kg-card-end: markdown-->

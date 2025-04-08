@@ -20,5 +20,3 @@ Pourtant ce n'est pas l'avis du capitaine Kyle Balboa qui a été le premier à 
 L'enquête n'a duré pas moins de 3 mois, avant qu'à la suite de témoignages de personnes qui se trouvaient sur les lieux des incendies, les enquêteurs aient pu décrire le portrait d'un homme grand d'une apparence louche et qui titubait. En effet l'homme aurait allumé les feux à l'aide de vodka et il aurait selon les témoins terminé la bouteille en criant « c'est de la bonne ! ».
 
 Toutes ces pistes conduisent à la culpabilité du sergent John Eduard, qui est aujourd'hui en prison en attendant son procès qui devrait avoir lieu dans moins de 3 semaines.
-
-<!--kg-card-end: markdown-->

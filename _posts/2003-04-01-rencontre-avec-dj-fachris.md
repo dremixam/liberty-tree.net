@@ -41,5 +41,3 @@ Des touches de Dream Music sont présentes, non sans nous rappeler quelques titr
 > **DJ F :** Oui, je vais surement déménager pour Vice City dans les mois qui viennent. Le Malibu Club me propose un contrat intéressant !
 
 > **LT :** Bien, merci d'avoir répondu à nos questions et bonne chance pour l'avenir.
-
-<!--kg-card-end: markdown-->

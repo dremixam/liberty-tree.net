@@ -41,5 +41,3 @@ Mais cela fait une affaire de plus classée.
 
 ![Le chef de la police, George Fornley.](/content/images/2016/07/enquete_resolue.jpg)
 _Le chef de la police, George Fornley._[Fred Carter, juste avant qu'il ne soit embarqué par la police.](/content/images/2016/07/arrestation_criminel.jpg)
-
-<!--kg-card-end: markdown-->

@@ -39,5 +39,3 @@ Mais alors, d'où peut venir un tel succès ? Pour certains il ne s'agit que d'u
 _Un match de tennis à Vespucci Beach._
 
 Ainsi, la popularité du tennis n'est plus à prouver. Elle semble également ne pas être qu'une simple mode. Si vous hésitez encore à franchir le pas, n'hésitez plus une seule seconde ! Ce sport est l'un des plus plaisants à jouer. On se retrouve sur le court...
-
-<!--kg-card-end: markdown-->

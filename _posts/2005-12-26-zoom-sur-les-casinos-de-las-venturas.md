@@ -39,5 +39,3 @@ C'est ainsi que les casinos ont rendu Las Venturas si célèbre et sont devenus 
 La curiosité pour la ville de Las Venturas n'est donc pas prête de s'arrêter.
 
 ![](/content/images/2005/01/Four_Dragons.jpg)
-
-<!--kg-card-end: markdown-->

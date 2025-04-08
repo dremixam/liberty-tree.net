@@ -71,5 +71,3 @@ Je vous laisse sur cette phrase et vous dis "à la semaine prochaine !"
 ![](/content/images/2016/07/FBI3.jpg)
 ![](/content/images/2016/07/FBI5.jpg)
 ![](/content/images/2016/07/FBI6.jpg)
-
-<!--kg-card-end: markdown-->

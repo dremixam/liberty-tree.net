@@ -17,5 +17,3 @@ Sur les quarante-sept victimes, dix-neuf ne reverront jamais la lumière du jour
 Dès qu'il fût averti de la nouvelle, le maire a annoncé que des mesures sévères seraient prises contre les pompiers déserteurs. La nouvelle n'a pas arrêté ces derniers qui affirment qu'il ne pourra pas mettre au chômage tous les pompiers de la ville, le chef des pompiers s'est d'ailleurs adressé aux jeunes qui incendient les banlieues de la ville en leur expliquant que "le meilleur moyen de faire avancer les choses, c'est d'incendier la mairie !".
 
 Cette déclaration n'a absolument pas plu au maire, le chef des pompiers passera donc cette nuit au moins en prison. Cette crise met en danger les millions d'habitants que compte la ville et semble loin d'être terminée. Les pompiers restent donc chez eux ce soir alors que de plus en plus d'habitants se retrouvent sans domicile.
-
-<!--kg-card-end: markdown-->

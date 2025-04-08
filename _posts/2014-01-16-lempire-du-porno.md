@@ -41,5 +41,3 @@ Bien entendu la filière Larry Flat a su saisir l'opportunité Internet, en cré
 > Il s'agit d'un site Internet permettant aux gens de relier leur profil Lifeinvader avec les vidéos amateur ou pro qu'ils souhaiteraient réaliser. Ceci afin de peut-être devenir un authentique acteur des studios Larry Flat et de venir nous rejoindre dans la villa !
 
 Voilà après une rude journée et en avoir eu plein la vue, c'est ici que l'on vous quitte chers lecteurs. Quant à moi, la journée ne s'achève pas tout de suite, Kassy vient de me proposer d'aller boire un verre...
-
-<!--kg-card-end: markdown-->

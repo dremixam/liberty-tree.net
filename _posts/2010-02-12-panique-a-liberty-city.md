@@ -33,5 +33,3 @@ Selon la réalisatrice, le but de 2021 est purement et simplement didactique et 
 Les avant-premières avaient déjà montrées des signes précurseurs de ce phénomène, mais à une moindre échelle, ici c’est plusieurs milliers de personnes qui ont vu le film et autant de personnes qui ont perdu la raison.
 
 Les principaux psychologues et psychiatres du pays sont en train de mettre en place une thérapie afin de contrer le « virus » 2021 et éradiquer ses effets néfastes sur la population.
-
-<!--kg-card-end: markdown-->

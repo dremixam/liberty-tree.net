@@ -137,5 +137,3 @@ Il y a 7 gangs:
 - _Ballas_: De Glen Park a Idlewood et quelques endroit à East Los Santos.
 
 - _Front Yard Ballas_: Jefferson.
-
-<!--kg-card-end: markdown-->

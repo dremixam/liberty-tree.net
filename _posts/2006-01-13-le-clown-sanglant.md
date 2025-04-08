@@ -38,5 +38,3 @@ Cette interview s'achève sur cette photo :
 Sam se rendit au poste de police le plus proche avec sa pellicule et la police afficha des centaines d'exemplaires dans tout San Andreas et même à Liberty City et Vice City.
 
 Peu de temps après, le directeur du cirque Clinder s'est rendu dans le poste de police le plus prés de chez lui pour affirmer que ce « Clown Sanglant » était un vieux clown qui avait fait rire une génération, Rowni Vercetty !
-
-<!--kg-card-end: markdown-->

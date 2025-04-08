@@ -15,5 +15,3 @@ C'est samedi soir, lors d'une réception privée que John Badmar a fait son disc
 > Je suis très fier d'avoir sauvé ces 100 voitures des flammes avec le même camion, d'habitude m'en faut bien une dizaine avant d'en sauver autant...
 
 On comprend mieux pourquoi le maire hésite à donner plus de fonds aux pompiers de Liberty City, mais on peut encourager les pompiers qui comme John Badmar, savent préserver leur matériel, d'autant plus que le salaire du pompier dépend du nombre de feux éteints avec le même camion (John a gagné 25000$ rien qu'avec le dernier feu, il y a de quoi encourager les apprentis pompiers).
-
-<!--kg-card-end: markdown-->

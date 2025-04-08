@@ -106,5 +106,3 @@ Nous sommes donc allés chez monsieur Frances Bitrov, comme nous l' avait suggé
 
 ![Monsieur Bitrov, quelques minutes avant son arrestation.](/content/images/2005/01/directeur-college-liberty.jpg)
 _Monsieur Bitrov, quelques minutes avant son arrestation._
-
-<!--kg-card-end: markdown-->

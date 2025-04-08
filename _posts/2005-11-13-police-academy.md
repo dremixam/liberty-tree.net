@@ -78,5 +78,3 @@ Pour se tirer des situations les plus périlleuses, un bon reporter doit pouvoir
 ![](/content/images/2005/01/flik9.jpg)
 
 Le recrutement massif d'agents de police continue. Bien que cette initiative semble bienvenue, nos concitoyens sont en droit de se demander si la situation n'est pas trop alarmante pour faire appel à des novices, même bien encadrés. Par ailleurs, l'administration semble avoir privilégié une fois de plus le rapport de force pour régler les problèmes de délinquance, ce qui jusqu'ici s'est avéré inefficace. Le Liberty Tree vous tiendra bien sûr informé de la tournure des événements.
-
-<!--kg-card-end: markdown-->

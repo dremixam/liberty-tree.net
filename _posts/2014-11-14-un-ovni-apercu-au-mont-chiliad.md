@@ -34,5 +34,3 @@ _Le point de vue du sommet du Mont Chiliad._
 Quoi qu'il en soit, il y a fort à parier que cet endroit va devenir un haut fort de la culture extraterrestre et de ses fans, [eux qui se réunissaient déjà au lieu-dit "Beam Me Up"](/2014/02/27/les-fans-dovnis-se-retrouvent-a-sandy-shores/). Et qui sait, peut-être que quelqu'un saura profiter de cette nouvelle notoriété pour faire fortune... Erik Palomino, lui, souhaite en tout cas retourner à la vie normale le plus tôt possible et à se faire oublier, car il ne cherchait absolument pas à être célèbre, mais seulement "informer la population au sujet de ce qu'on nous cache".
 
 Mais que nous cache-t-on ? Affaire à suivre...
-
-<!--kg-card-end: markdown-->

@@ -22,5 +22,3 @@ Enfin, un membre du Cartel Colombien a aussi été assassiné, quelques minutes 
 Les policiers optent encore actuellement pour une bande organisée, mais les pistes d'un Gang venu d'une des autres îles (Hoods, Diablos, Mafia ou Triades) ou d'un sniper fou ne sont pas abandonnées.
 
 La Police étudie encore donc toutes les pistes, tandis qu'un appel à témoin a été lancé par la mairie.
-
-<!--kg-card-end: markdown-->

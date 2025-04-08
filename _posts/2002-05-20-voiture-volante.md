@@ -23,5 +23,3 @@ Mais le plus invraisemblable est que la LCCP (Liberty City Criminal Police) aura
 > Je n'ai pas d'avis sur la question, le mort est certainement un membre d'un gang, ce qui rend son décès bénéfique aux citoyens de Liberty City: moins de dangereux impliquent plus de sécurité.
 
 Donald Love, un important businessman et bienfaiteur de la ville a lui ajouté « Un de moins ! ». Une conclusion brève mais qui résume bien le sentiment de pas mal de monde.
-
-<!--kg-card-end: markdown-->

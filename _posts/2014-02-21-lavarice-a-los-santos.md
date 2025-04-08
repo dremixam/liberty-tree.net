@@ -62,5 +62,3 @@ Dans le sud de Los Santos se rassemblent un certain nombre de SDF, accusant cont
 ![](/content/images/2016/06/9_7.jpg)
 
 Avons-nous vraiment de quoi être fiers des valeurs de notre pays ? Chacun peut avoir son opinion sur le sujet. L'argent fait-il le bonheur ? Telle est la question.
-
-<!--kg-card-end: markdown-->

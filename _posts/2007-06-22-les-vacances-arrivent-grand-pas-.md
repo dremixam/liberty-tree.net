@@ -52,5 +52,3 @@ _Les bungalows_[](/content/images/2005/01/vac20071.jpg)
 _Le plan de la région et la plage d'Angel Pine_[L'agence touristique](/content/images/2005/01/vac20074.jpg)
 
 Voilà, le Liberty Tree espère que vous passerez de bonnes et agréables vacances 2007 en famille !
-
-<!--kg-card-end: markdown-->

@@ -98,5 +98,3 @@ _(Il sort de la pièce)_
 Le LT remercie Baz Flock d'avoir permis cette interview.
 
 Born in East L.C est disponible chez tous les bons disquaires depuis deux mois.
-
-<!--kg-card-end: markdown-->

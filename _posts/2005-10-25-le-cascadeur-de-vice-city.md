@@ -53,5 +53,3 @@ Le cascadeur de Vice nous a accordé une interview par téléphone par peur des 
 > **Le cascadeur du Vice:** Alors laissez moi pratiquer mon art tranquillement ! _il raccroche_
 
 Le mystère entourant ce pilote d'exception s'est un peu éclairci. Nous en saurons peut-être plus prochainement, qui sait ?
-
-<!--kg-card-end: markdown-->

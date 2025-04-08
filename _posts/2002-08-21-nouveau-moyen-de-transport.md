@@ -28,5 +28,3 @@ Voici les photos prises par nos reporters lors du test de la RC Bandit. Par manq
 ![](/content/images/v1/user6/RCbandit2.jpg)
 ![](/content/images/v1/user6/RCbandit3.jpg)
 ![](/content/images/v1/user6/RCbandit4.jpg)
-
-<!--kg-card-end: markdown-->

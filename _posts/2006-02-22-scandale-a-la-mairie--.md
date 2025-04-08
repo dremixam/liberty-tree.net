@@ -30,5 +30,3 @@ Nous avons enquêté de notre côté pour en savoir plus. D'après des sources a
 _Le Maire a été relâché et est reparti en limousine_
 
 Aujourd'hui, la Cour Suprême de Liberty City a statué sur le sort des intervenants dans l'affaire. Le Maire O'Donovan sera mis à l'épreuve pendant six mois. S'il enfreint la loi durant cette période, il sera destitué de ses fonctions et envoyé au pénitencier fédéral de la ville. Concernant l'entreprise Panlantic, le Tribunal jugera du sort de la société très bientôt. Concernant les employés municipaux, le verdict sera également rendu dans un court délai.
-
-<!--kg-card-end: markdown-->

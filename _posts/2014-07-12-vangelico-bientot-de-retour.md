@@ -34,5 +34,3 @@ Sur Portola Drive, on se réjouit de la réouverture de la bijouterie, qui étai
 _Dorset Drive._
 
 La réouverture est prévue pour la fin du mois d'août. Espérons que dorénavant, la bijouterie connaîtra uniquement calme et sérénité...
-
-<!--kg-card-end: markdown-->

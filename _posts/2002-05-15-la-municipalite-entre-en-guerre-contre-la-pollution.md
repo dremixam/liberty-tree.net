@@ -16,5 +16,3 @@ Mais à qui la faute? D'aucuns accusent la mafia, en effet, depuis son implantat
 Le maire n'est, comme d'habitude, pas resté indifférent. Il a décidé de soustraire 85% du budget des écoles de Liberty City pour acheter du colorant alimentaire bleu, histoire de faire retrouver à notre mer ses couleurs d'origine. « C'est mieux que rien ! » a déclaré notre maire bien-aimé lors d'une conférence de presse.
 
 Une rave-party aura lieu sur la plage de Portland le jour du lâcher de colorant dans trois jours. Venez nombreux ! Y aura de l'alcool et des pu… euh, des filles. Et après la méga-teuf, la mer aura retrouvé ses couleurs d'antan ! Cool ! Pis pas d'blèmes pour les déchets, on va tout bazarder dans la flotte…
-
-<!--kg-card-end: markdown-->

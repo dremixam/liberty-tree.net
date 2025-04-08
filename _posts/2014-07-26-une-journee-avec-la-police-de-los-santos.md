@@ -61,5 +61,3 @@ Quand nous sommes arrivés sur les lieux, la voiture était encore en feu et il 
 
 ![La voiture brûlée.](/content/images/2016/06/0_0_243.jpg)
 _La voiture brûlée._
-
-<!--kg-card-end: markdown-->

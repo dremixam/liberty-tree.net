@@ -55,5 +55,3 @@ Les pauvres habitants de Paleto Bay ne ferment pas l’œil de la nuit quand les
 ![](/content/images/2016/06/0_0-7_0.jpg)
 ![](/content/images/2016/06/0_0-6_0.jpg)
 ![](/content/images/2016/06/0_0-4_2.jpg)
-
-<!--kg-card-end: markdown-->

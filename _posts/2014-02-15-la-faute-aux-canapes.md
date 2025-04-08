@@ -22,5 +22,3 @@ Notre courte investigation ne nous mena même pas en dehors de la maison blanche
 > Vous n'êtes vraiment pas très malin, vous ruer sur des petits fours qui sont restés toute une après midi sous les projecteurs de télévision, c'était la méga chiasse assurée. Mais bon, c'est vous qui voyez.
 
 Les canapés, livrés le midi même par un traiteur indépendant (le traiteur officiel de la maison blanche étant bloqué à New York par les intempéries), étaient restés en effet toute l'après midi dans un bureau oval surchauffé, et où une vingtaine de personnes à l'hygiène douteuse s'étaient relayés à grands coups de caméras et de matériel vidéo. Grave erreur que de fondre sur le saumon fumé et autres soufflés au fromage, au point d'en choper une bonne intoxication alimentaire pour toute la semaine. Mais pas de panique, un bon lavement intestinal, quelques Spasfon, et nous serons de retour en moins de deux. En attendant, préférez une bonne ouiche Lorraine maison, c'est plus sûr.
-
-<!--kg-card-end: markdown-->

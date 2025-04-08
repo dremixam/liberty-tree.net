@@ -50,5 +50,3 @@ Comment se sont-ils introduits sur le site de l'antenne ?
 Quels sont leurs objectifs ?
 
 Nous vous tiendrons au courant de l'avancement de l'histoire dans les jours qui viennent.
-
-<!--kg-card-end: markdown-->

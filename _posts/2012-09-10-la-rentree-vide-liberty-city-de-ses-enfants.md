@@ -36,5 +36,3 @@ Ainsi, nos progénitures peuvent s'épanouir librement loin de l'influence viole
 Pendant ce temps, Liberty City repart pour une année pendant laquelle nos parcs désertés continueront à se dégrader lentement. Le maire de Liberty City a d'ailleurs récemment exposé de nouvelles idées permettant de protéger une autre tranche d'âge fragilisée de nos populations.
 
 > L'éloignement des enfants est une franche réussite. Plus de gosses pour nous emmerder sans compter le trou que les écoles faisaient dans les finances de la ville. Je pense qu'on devrait aller plus loin et envoyer tous nos vieux à Vice City. En plus de les mettre en sécurité, je suis certain que ça diminuerait grandement les bouchons sur nos routes !
-
-<!--kg-card-end: markdown-->

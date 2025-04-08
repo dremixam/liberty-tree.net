@@ -66,5 +66,3 @@ Une mère de famille, habituée&nbsp;au fast-foods de Mr&nbsp;. Allen James Bruc
 _Well Packed Pizza est le seul à ne pas effectuer de modifications pour le moment._
 
 Hé&nbsp;oui ! même les prix ont baissé ! Tout le monde semble être satisfait de ces nouveautés. Les plus grandes chaînes de restauration rapide commencent l'année de plus belle en améliorant la qualité et leur image pour pouvoir satisfaire de nombreux clients et ainsi&nbsp;améliorer leur business...
-
-<!--kg-card-end: markdown-->

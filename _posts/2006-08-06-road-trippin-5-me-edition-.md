@@ -77,5 +77,3 @@ L'arrivée des six participants, retransmise en direct sur InterGlobal TV. Deux 
 ![](/content/images/2005/01/camping3.jpg)
 ![Voici en exclusivité les photos du Camping-Car prêté par la firme Chevrolet, principal sponsor de l'émission.](/content/images/2005/01/camping4.jpg)
 _Voici en exclusivité les photos du Camping-Car prêté par la firme Chevrolet, principal sponsor de l'émission._
-
-<!--kg-card-end: markdown-->

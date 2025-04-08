@@ -41,5 +41,3 @@ _Le poste de police de Paleto Bay._
 > **Agent Colin Jameson :** Je suis sûr que son chat est dans le coup. C'est évident !
 
 De notre côté, on n'envisage aucunement cette thèse. Certains d'entre nous pensent également qu'il pourrait avoir été victime d'un acte isolé, ou d'un tueur fou. Seule l'enquête nous permettra d'avoir des réponses...
-
-<!--kg-card-end: markdown-->

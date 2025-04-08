@@ -65,5 +65,3 @@ Le parachutisme est un sport dangereux réservé pour des personnes qui ont&nbsp
 Bien sûr tous les sauts en ville montrés dans cet article sont illégaux sauf dans le cas d'une association&nbsp;(comme ci-dessus).
 
 **_A bientôt dans un prochain article._**
-
-<!--kg-card-end: markdown-->

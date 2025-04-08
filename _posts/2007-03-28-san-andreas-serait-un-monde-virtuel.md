@@ -59,5 +59,3 @@ L'entretien avec M.Stormdeker s'est terminé un peu brutalement lorsque que celu
 _L'ambulance emmenant M.Stormdeker._
 
 Rassurez-vous chers lecteurs, nous ne vivons pas dans un jeu vidéo. Toutes les "preuves" de Charles Stormdeker sont fausses. Notre monde est tout ce qu'il y a de plus normal, et ce n'est pas l'esprit d'un homme dérangé qui va nous faire croire le contraire. C'est aussi ça l'esprit du Liberty Tree : donner la possibilité à chacun de s'exprimer. Allez Jacky on remballe.
-
-<!--kg-card-end: markdown-->

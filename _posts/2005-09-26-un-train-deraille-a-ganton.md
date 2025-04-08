@@ -39,5 +39,3 @@ La série noire qui frappe San Andreas en ce moment continue, alors un conseil: 
 ![](/content/images/2005/01/train%202.jpg)
 ![](/content/images/2005/01/train%207.jpg)
 ![](/content/images/2005/01/train%208.jpg)
-
-<!--kg-card-end: markdown-->

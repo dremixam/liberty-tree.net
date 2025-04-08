@@ -40,5 +40,3 @@ _L'agent Paul Edwards_
 > Si maintenant on nous vole une voiture sous notre nez, où va le monde… Je trouve ça scandaleux de profiter des festivités de la fête de l’indépendance pour revendiquer son opposition au système politique ou je ne sais quoi d’autre !
 
 Et nous sommes bien d’accord Paul, mais c’est peut-être à tes collègues et à toi de mieux surveiller les citoyens pour ne pas que ça se reproduise au lieu d’allonger vos pauses cafés…
-
-<!--kg-card-end: markdown-->

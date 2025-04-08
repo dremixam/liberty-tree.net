@@ -33,5 +33,3 @@ Le gérant du garage, John Landon, encore sous le choc, a accepté notre intervi
 La police a pu relever des empreintes et des traces de sang sur la porte.
 
 L'Infernus a été retrouvée sur le parking du centre commercial de Vice City.
-
-<!--kg-card-end: markdown-->

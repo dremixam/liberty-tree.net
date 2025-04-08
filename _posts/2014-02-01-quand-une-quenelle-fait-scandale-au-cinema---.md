@@ -41,5 +41,3 @@ De nombreuses célébrités ont également été surprises en train de faire la 
 La polémique n'est donc pas près de désenfler, mais il ne faut pas oublier qu'il y a de nombreuses choses beaucoup plus importantes qui agitent notre beau pays...
 
 ![](/content/images/2016/06/Affiche%20film.jpg)
-
-<!--kg-card-end: markdown-->

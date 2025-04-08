@@ -31,5 +31,3 @@ Nous confie un pilote de ligne travaillant pour Juank Air. Les salaires de Juank
 La colère est attisée par le train de vie indécent des dirigeants de Juank Air. L'un d'entre eux, John McCrevard vient de s'offrir un Andromada privé à bord duquel il a aménagé une petite piscine. "C'est une honte !" s'écrie un responsable syndical. "Ces crapules doivent être limogées sans délai."
 
 La compagnie de l'oiseau blanc pourrait bien perdre des plumes dans cette affaire. Déjà meurtrie par la flambée des prix du kérosène, l'extravagance de ses patrons et la grogne de ses salariés pourraient mener Juank Air à un crash fatal.
-
-<!--kg-card-end: markdown-->

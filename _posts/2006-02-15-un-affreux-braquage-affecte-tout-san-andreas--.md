@@ -59,5 +59,3 @@ Ces paroles nous obligent à interrompre la séance qui se poursuivra demain à 
 Une chose reste à découvrir, Qui est ce qui a causé ce désastre ? En effet, les fouilles, qui ont commencé depuis ce matin, n'ont trouvées personne dans la voiture du braqueur.
 
 **Affaire à suivre...**
-
-<!--kg-card-end: markdown-->

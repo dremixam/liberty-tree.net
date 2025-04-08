@@ -34,5 +34,3 @@ _Un détenu attendant son premier contrat de travail..._
 Une autre manifestation est prévue le 14 février. Espérons que cette affaire prendra vite fin car d'un point de vue économique, toutes ces grèves générales ne sont pas bonnes pour la ville...
 
 _Photos by P130 and Bart-man_
-
-<!--kg-card-end: markdown-->

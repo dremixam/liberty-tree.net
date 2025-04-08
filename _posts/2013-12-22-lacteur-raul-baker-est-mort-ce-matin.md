@@ -31,5 +31,3 @@ Le tournage du 12ème opus de la série - qui doit sortir très prochainement - 
 
 ![Le prochain Madness Road sortira en 2014... sans Raul.](/content/images/2016/06/Sans%20titre-1.png)
 _Le prochain Madness Road sortira en 2014... sans Raul._
-
-<!--kg-card-end: markdown-->

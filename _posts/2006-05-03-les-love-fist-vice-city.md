@@ -68,5 +68,3 @@ Nous avons interviewé Jezz Torent à sa sorti de prison :
 > **J.T.&nbsp;:** Ouais, C’était un deal, ils sont formidables, on les remercie encore une fois ! Avec leurs gros bras la police a vraiment eu du mal a ouvrir les portes!
 
 Donc San Fierro peut se préparer a recevoir les révérends du rock, et les autorités aussi! Affaire à suivre
-
-<!--kg-card-end: markdown-->

@@ -44,5 +44,3 @@ Par ailleurs, après un interrogatoire en bonne et due forme, Mazi Ibo révéla 
 _L'appartement de Jefferson dans lequel ont été retrouvés les trois millions de dollar de la Los Santos Central Bank._
 
 Le LSPD n'a hélas pu retrouver le conducteur du Hummer de la Sanity Andreas mais tient à le remercier vivement pour son acte de citoyenneté si ce dernier venait à lire cet article.
-
-<!--kg-card-end: markdown-->

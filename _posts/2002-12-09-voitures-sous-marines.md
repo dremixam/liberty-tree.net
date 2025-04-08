@@ -22,5 +22,3 @@ A l'heure actuelle, Monsieur P. a été interné à la section psychiatrique de 
 ![](/content/images/v1/user6/souslamer7.jpg)
 ![](/content/images/v1/user6/souslamer8.jpg)
 ![](/content/images/v1/user6/souslamer9.jpg)
-
-<!--kg-card-end: markdown-->

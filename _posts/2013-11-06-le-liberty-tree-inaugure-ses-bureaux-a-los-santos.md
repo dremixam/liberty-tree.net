@@ -29,5 +29,3 @@ C'est en 2005, après avoir été racheté par un investisseur privé, que le jo
 _Les nouveaux locaux du Liberty Tree, au 13ème étage de l'Arcadius._
 
 Toute l'équipe du Liberty Tree vous souhaite une bonne lecture en notre compagnie et nous espérons que certains d'entre vous seront tentés par l'aventure et déposeront leur candidature pour devenir journalistes.
-
-<!--kg-card-end: markdown-->

@@ -46,5 +46,3 @@ Après une montée a 1000 pieds, et une fois la baie de San Fierro traversée, o
 Une petite heure plus tard nous arrivons à contacter SAVM pour l’atterrissage. Par chance, c’est la piste neuf qui est en service ce qui nous évite le circuit d’approche. La piste qui n’est pas éclairée a été assez difficile à trouver mais cela ne nous a pas posé trop de problèmes. L’atterrissage s’est déroulé parfaitement. Seul petit défaut du baron, ce modèle ne possède pas d’amortisseurs ce qui, lors des atterrissages sur les piste de terre battu et d’herbe, est assez dérangeant.
 
 En conclusion, le Baron est un avion qui allie la facilité de pilotage d’un avion d’entraînement aux performances d’un bimoteur. Il est idéal pour les sorties locales et son endurance lui permet de voler sur de longues distances. Il est très spacieux et très lumineux ce qui offre un panorama sublime. Coté points négatifs, il n’y a pas grand-chose à lui reprocher, a part les suspensions inexistantes.
-
-<!--kg-card-end: markdown-->

@@ -22,5 +22,3 @@ Nous avons pu visionner en avant première le premier épisode de la série, il 
 
 ![](/content/images/2016/06/streetsofsf3.jpg)
 ![](/content/images/2016/06/streetsofsf4.jpg)
-
-<!--kg-card-end: markdown-->

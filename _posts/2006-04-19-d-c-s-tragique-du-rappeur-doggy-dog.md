@@ -49,5 +49,3 @@ La résidence de Doggy-Dog à Los Santos deviendra un lieu culte très achaland�
 du monde entier. Nous pouvons déjà noter une plus grande présence policière dans le secteur
 
 Après avoir vécu plusieurs années privé de sa femme et de sa fille, les voilà en quelque sorte à nouveau réunis. Doggy-Dog restera gravé dans notre mémoire à jamais car c'est grâce à lui que la musique rap aura connu une évolution avant-gardiste ouvrant ainsi la porte à la relève. Il laisse donc un très grand héritage aux prochaines générations.
-
-<!--kg-card-end: markdown-->

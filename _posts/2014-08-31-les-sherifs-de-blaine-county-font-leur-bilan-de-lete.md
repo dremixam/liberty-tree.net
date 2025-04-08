@@ -30,5 +30,3 @@ _George Cowleman et le commissaire Jordan Levy, chef de la brigade autoroutière
 _Les véhicules banalisés et les hélicoptères._
 
 Dans quelques semaines, les hélicoptères rentreront à Fort Zancudo, tandis que les véhicules sont maintenant à l'année sur les routes de Blaine County. Même s'ils passeront la majeure partie de l'hiver dans un garage.
-
-<!--kg-card-end: markdown-->

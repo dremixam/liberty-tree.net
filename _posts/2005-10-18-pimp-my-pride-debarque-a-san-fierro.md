@@ -37,5 +37,3 @@ A la vue de sa nouvelle voiture, il explosa de joie et remercia tous les employ√
 Voila, Bill peut maintenant dire "thanks to Love Media for Pimping my pride".
 
 ![](/content/images/2005/01/Sky%20apre.jpg)
-
-<!--kg-card-end: markdown-->

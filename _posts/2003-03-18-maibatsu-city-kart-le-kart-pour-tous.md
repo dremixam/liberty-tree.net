@@ -25,5 +25,3 @@ Je vous laisse en juger par vous même avec les photos ramenées de ma petite vi
 ![](/content/images/2016/07/kart7.jpg)
 
 Le CityKart est annoncé à 10 000 $, une version améliorée devrait sortir cet été.
-
-<!--kg-card-end: markdown-->

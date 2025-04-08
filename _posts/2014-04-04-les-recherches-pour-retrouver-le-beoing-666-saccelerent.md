@@ -41,5 +41,3 @@ Beaucoup de personnes se sont plaintes auprès de la police, qui affirme n'être
 A ce sujet, le maire n'a rien souhaité déclarer.
 
 Nous continuerons bien évidemment à vous tenir au courant de l'avancement (ou non) des recherches.
-
-<!--kg-card-end: markdown-->

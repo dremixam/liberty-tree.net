@@ -40,5 +40,3 @@ La autorités en charge de l'affaire ne souhaitant plus répondre à nos questio
 ![](/content/images/2016/06/gallery24.jpg)
 
 Malgré la réputation tranquille d'Angel Pine et son tourisme en grande partie généré par le Mont Chiliad, un homme y a été tué avec une extrême violence que les habitants de cette petite ville ne sont pas prêts d'oublier. Selon nos dernières informations, le tueur serait toujours en cavale. Soyez rassurés, le shérif et ses adjoints continuent activement leur enquête auprès des habitants. Nous vous tiendrons bien entendu au courant de son avancement.
-
-<!--kg-card-end: markdown-->

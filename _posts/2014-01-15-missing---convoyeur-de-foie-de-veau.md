@@ -70,5 +70,3 @@ Je pense qu'il est temps d'abréger. Après une dernière photo de la scène, je
 _Vue globale de la scène._
 
 > Coucou toi ! Ouh c'est un gentil chaton ça ! Ouh c'est un gentil chaton, eh ?
-
-<!--kg-card-end: markdown-->

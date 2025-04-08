@@ -17,5 +17,3 @@ Cet attentat laisse une fabrique gravement endommagé, les pertes humaines et ma
 C'est un nouveau coup dur pour la Triade qui a de plus en plus de mal à remonter son budget depuis le premier attentat contre Belly Up (qui avait laissé l'usine complètement ravagée) et la défaite de la Triade face à la Mafia.
 
 Mr Chong Hordralfhabetix précise aussi que des postes sont dès maintenant libres dans la fabrique de poissons. Si vous êtes intéressés, contactez Belly Up au plus vite.
-
-<!--kg-card-end: markdown-->

@@ -41,5 +41,3 @@ C'est donc une réputation bien triste que le "Père Noël de Los Santos" fait a
 ![](/content/images/2016/06/PereNoel4_0.jpg)
 ![Images capturées par des caméras de surveillance.](/content/images/2016/06/PereNoel5.jpg)
 _Images capturées par des caméras de surveillance._
-
-<!--kg-card-end: markdown-->

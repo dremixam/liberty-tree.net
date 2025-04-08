@@ -42,5 +42,3 @@ Après le procès j'ai recueilli les impressions de Maxou et Fido :
 Grâce aux fonds récupérés lors du procès, Maxou nous a promis de renouveler le matériel comme les machines à café ou les ordinateurs. Une aubaine pour nous tous finalement !
 
 Nous nous excusons pour la lenteur d'impression de cet article.
-
-<!--kg-card-end: markdown-->

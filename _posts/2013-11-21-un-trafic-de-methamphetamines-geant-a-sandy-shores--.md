@@ -40,5 +40,3 @@ L'enquête suit son cours. La police devrait bientôt obtenir un mandat de perqu
 
 ![La photo sur laquelle on peut apercevoir "Chef".](/content/images/2016/06/Meth4.jpg)
 _La photo sur laquelle on peut apercevoir "Chef"._
-
-<!--kg-card-end: markdown-->

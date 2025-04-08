@@ -25,5 +25,3 @@ Selon la compagnie, les problèmes à bord avaient commencé après que l'équip
 L'île d'Alkatrez fait partie de l'archipel de Santoros. Elle fait 3 km de long sur 1,5 km de large.
 
 Le passager incontrôlable a eu 36 heures pour retrouver ses esprits et se rendre à San Fierro en ferry d'où il a pu finalement rejoindre, en bateau, Liberty City, toujours selon LSA.
-
-<!--kg-card-end: markdown-->

@@ -38,5 +38,3 @@ L'enquête préliminaire a mené à la piste du suicide. En effet, une telle chu
 _Le domicile de Brett Evans._
 
 La police devrait poursuivre son enquête dans les prochains jours. Mais il semble évident que le pauvre homme s'est suicidé, la faute peut-être à une vie trop difficile, où bien à une femme volage... Seule l'enquête nous le dira.
-
-<!--kg-card-end: markdown-->

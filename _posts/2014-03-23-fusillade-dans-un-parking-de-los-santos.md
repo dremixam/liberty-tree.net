@@ -47,5 +47,3 @@ Un homme a toutefois été témoin de la scène. Nous l'avons interrogé après 
 _Hank Goodman, témoin de la scène._
 
 Que peut bien être cette fameuse mallette ? Que pourrait-t-elle renfermer ? Le mystère reste entier...
-
-<!--kg-card-end: markdown-->

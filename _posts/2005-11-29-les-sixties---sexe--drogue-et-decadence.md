@@ -31,5 +31,3 @@ Souvenez vous. L'unique raison de vivre était le plaisir. Ce plaisir ne résida
 ![](/content/images/2005/01/Hippy_7.jpg)
 
 Ce mode de vie finira par tuer des milliers de hippies, un à un, leurs dieux vivants mourront d'overdose ou assassinés par des fans trop fanatiques, seuls leurs hymnes immortels resterons. Aujourd'hui, le Liberty Tree est retourné sur les lieux du mythe hippie, où seuls sont restées les fresques enfantines, respirant l'insouciance et la liberté. Et quand la nuit tombe, ressortent comme des fantômes, les pâles esprits hippy devenus clochards ou fous, symbolisant pitoyablement l'anticonformisme extrême qui décima tant de jeunes américains.
-
-<!--kg-card-end: markdown-->

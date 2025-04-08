@@ -50,5 +50,3 @@ L’endroit où s’est produit la tragédie n’aidant pas puisque très diffic
 ![](/content/images/2005/01/derail_-_gare_san_fierro_retard_depart_train.jpg)
 ![Le traffic férroviaire reprend sporadiquement, mais le souvenir de cette tragédie restera longtemps gravé dans la mémoire des usagers.](/content/images/2005/01/derail_-_retour_normal_gare_san_fierro.jpg)
 _Le traffic férroviaire reprend sporadiquement, mais le souvenir de cette tragédie restera longtemps gravé dans la mémoire des usagers._
-
-<!--kg-card-end: markdown-->

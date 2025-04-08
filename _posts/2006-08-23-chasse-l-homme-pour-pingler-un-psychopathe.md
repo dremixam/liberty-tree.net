@@ -97,5 +97,3 @@ Espérons que c'était l'homme et non le politicien qui a fait cette promesse ca
 _Le LVPD souhaite refermer l'étau sur l'agresseur en augmentant le nombre de patrouilleurs._
 
 Sur le terrain, nous remarquons déjà un plus grand nombre de policiers à pied et en auto patrouille. Souhaitons que cette mesure portera ses fruits et que le dangereux agresseur sera appréhendé rapidement avant qu'il ne fasse d'autres nouvelles victimes.
-
-<!--kg-card-end: markdown-->

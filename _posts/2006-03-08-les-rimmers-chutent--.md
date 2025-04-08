@@ -54,5 +54,3 @@ En attendant la quatrième journée de championnat, voici les résultats de cett
 10. Las Venturas Camels | 1 | 190 | 212 | -22
 
 **Photographe : Tommy Dodie**
-
-<!--kg-card-end: markdown-->

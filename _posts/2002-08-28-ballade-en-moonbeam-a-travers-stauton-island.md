@@ -50,5 +50,3 @@ Je remercie M. Steed pour son témoignage et vous dit 'à la semaine prochaine!
 ![](/content/images/2016/07/Moonbeam4.jpg)
 ![](/content/images/2016/07/Moonbeam8.jpg)
 ![](/content/images/2016/07/Moonbeam9.jpg)
-
-<!--kg-card-end: markdown-->

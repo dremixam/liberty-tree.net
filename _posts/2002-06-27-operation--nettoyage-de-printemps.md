@@ -32,5 +32,3 @@ Voilà par exemple une sorte de petit travail pour des étudiants qui ont envie 
 
 ![Pablo dans le parc qu'il aime tant](/content/images/2016/06/pabloparc.jpg)
 _Pablo dans le parc qu'il aime tant_[Pablo dans les rues de Portland](/content/images/2016/06/pabloportland.jpg)
-
-<!--kg-card-end: markdown-->

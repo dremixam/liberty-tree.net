@@ -29,5 +29,3 @@ D'après cet homme, ce métier est une malédiction, pas comme à la télé !
 Et récemment, à cause de certaines usines qui rejetaient leurs déchets dans la mer, un garde-côte est mort ! Nous savons que tout cela peut vous paraître exagéré, mais c'est la vérité !
 
 Alors avant de vous lancer dans la profession de garde-côte, arrêtez de regarder la télé, achetez un masque à gaz, faites attention à l'endroit vous êtes envoyé et réfléchissez y à deux fois ! Cet article est assez court mais il n'y a pas grand chose à dire la dessus.
-
-<!--kg-card-end: markdown-->

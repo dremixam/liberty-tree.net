@@ -36,5 +36,3 @@ Nous sommes allés enquêter au Daily Globe, pendant que les policiers y faisaie
 _Les sièges du Daily Globe et de Weazel News._
 
 Malgré les réfutations, les doutes sont toujours là. Et le Liberty Tree est aussi une victime : il vient de perdre tragiquement un deuxième journaliste en seulement quelques semaines...
-
-<!--kg-card-end: markdown-->

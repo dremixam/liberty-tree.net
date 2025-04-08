@@ -29,5 +29,3 @@ Les risques y sont grands : les détenus risquent de voir leur peine allongée e
 ![](/content/images/2016/06/0_0_64.jpg)
 
 Une prison autrefois exemplaire qui devient petit à petit une prison aussi mauvaise que les criminels qui y sont enfermés et chaque jour sa réputation est en forte baisse.
-
-<!--kg-card-end: markdown-->

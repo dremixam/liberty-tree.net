@@ -77,5 +77,3 @@ Aujourd’hui le phénomène Fort Carson aurait tendance à s’essouffler, mais
 Je ne possède pas la réponse, mais j'espère que nous ne sommes pas seuls.
 
 ![](/content/images/2005/01/fortcarsoncarte-molotov.jpg)
-
-<!--kg-card-end: markdown-->

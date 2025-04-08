@@ -39,5 +39,3 @@ Et effectivement, personne ne peut encore assurer à l’heure actuelle que la v
 
 ![Deux jeunes femmes inquiètes.](/content/images/2016/06/0_0_24.jpg)
 _Deux jeunes femmes inquiètes._
-
-<!--kg-card-end: markdown-->

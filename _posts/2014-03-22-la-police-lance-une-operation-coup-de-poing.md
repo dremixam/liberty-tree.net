@@ -36,5 +36,3 @@ J'ai interviewé un des combattants, qui se fait appeler Punisher :
 > Ouais, je sais que c'est illégal mais bon, c'est un moyen de se faire pas mal d'argent, quand on sait se battre bien sûr. Il nous faudrait encore plus de personnes prêtes à se lancer là-dedans.
 
 La police parviendra-t-elle à mettre un terme à ce carnage ? Nous en doutons tous...
-
-<!--kg-card-end: markdown-->

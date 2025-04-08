@@ -32,5 +32,3 @@ La Direction Générale de l'Aviation Civile a aussi fait savoir que l'aérodrom
 
 ![La très controversée base de Verdant Meadows.](/content/images/2005/01/verdantmeadowslol.jpg)
 _La très controversée base de Verdant Meadows._
-
-<!--kg-card-end: markdown-->

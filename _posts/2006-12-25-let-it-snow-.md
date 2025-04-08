@@ -35,5 +35,3 @@ Mais en milieu de matinée, la pluie a commencé a tomber sur la ville, la total
 
 Toute l'équipe du Liberty-Tree  
 vous souhaite un Joyeux Noël !
-
-<!--kg-card-end: markdown-->

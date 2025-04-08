@@ -59,5 +59,3 @@ Après ces témoignages, personne n'a voulu s'exprimer sur ce drame. Mais seulem
 _X accompagné de ses deux complices._
 
 X a lui même avoué les faits, il se serait fait licencier par Bob Bokner, le patron du Well Stacked Pizza d'Idlewood, et aurait voulu se venger car la perte de son travail l'aurait mis&nbsp;à la rue. Cela faisait&nbsp;trois mois qu'il n'avait plus de toit, lui, ainsi que son frère, qui serait mort de faim. X a été condamné&nbsp;à mort aujourd'hui&nbsp;à 10H23 par le tribunal de Los Santos, quand&nbsp;à ses&nbsp;deux complices, ils ont été accusés de complicité d'attentat et sont condamné&nbsp;à perpétuité. Une bien triste histoire se termine aujourd'hui&nbsp;à Los Santos...
-
-<!--kg-card-end: markdown-->

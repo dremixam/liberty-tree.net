@@ -24,5 +24,3 @@ La brigade des stup's comme on dit dans le métier remonta la piste du bateau, q
 ![](/content/images/2005/01/arrestation01.jpg/)
 ![Arrestation d'un des barons de la drogue](/content/images/2005/01/arrestation02.jpg/)
 _Arrestation d'un des barons de la drogue_
-
-<!--kg-card-end: markdown-->

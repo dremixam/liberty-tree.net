@@ -22,5 +22,3 @@ Parmi cette nouvelles génération de malfaiteurs, certains ont attiré l'attent
 Mais la police n'est pas resté les bras croisés. Le maire a annoncé hier après-midi la création de camps de concentration pour personnes âgées visant à caser les retraités dépassant un certain âge ou atteints d'Alzheimer.
 
 Cette mesure a été controversée par la Société Protectrice des Vieux, mais il faut ce qu'il faut, et puis c'est ça ou la fin des racailles et des mafieux de Liberty City. En plus cet aprèm' un vieux m'a chouré mon portable tout neuf, même que j'avais eu un mal fou à le dérober à un môme de 6 ans. Faut pas exagérer, tout de même !
-
-<!--kg-card-end: markdown-->

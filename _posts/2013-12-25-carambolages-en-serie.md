@@ -28,5 +28,3 @@ Le malheur des uns faisant le bonheur des autres, cet épisode neigeux ravit Man
 _Manuel._
 
 Le redoux étant annoncé dès ce matin, cette petite farce de fin d'année de dame Nature ne sera bientôt plus qu'un mauvais souvenir. En attendant, le DMV de l'état de San Andreas vous conseille de limiter vos déplacements et, dans la mesure du possible, de privilégier les transports en commun.
-
-<!--kg-card-end: markdown-->

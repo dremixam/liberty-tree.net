@@ -31,5 +31,3 @@ La somme volée est estimée à 75'000'000 $ nous dit le chef de l'action sur le
 Liberty City est en grande partie informatisée, une "aubaine" pour les pirateurs.
 
 Ces actes de piratages informatiques seront surement à suivre.
-
-<!--kg-card-end: markdown-->

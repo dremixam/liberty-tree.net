@@ -63,5 +63,3 @@ Devant nos regards hagards, il nous a présenté une première affiche de promot
 ![](/content/images/2016/06/TV1.jpg)
 
 "Allo Moulouda" sera donc lancée (hélas !) autour du mois de mars sur la chaîne. Elle va rejoindre une longue liste d'émissions pathétiques et sans intérêt : "Vinewood Girls", "America's Next Top Hooker", "Fizz!"... Et de nombreuses autres.
-
-<!--kg-card-end: markdown-->

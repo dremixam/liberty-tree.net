@@ -43,5 +43,3 @@ J'ai réussi à interroger le chef de l'établissement dont les déclarations la
 > Ici nous faisons notre possible pour maintenir la paix, mais vous n'avez pas idée du nombre d'affaires que nous avons à traiter. Actuellement nous mobilisons toutes nos troupes sur une affaire d'une importance capitale. Bon les gars c’en est où de l'affaire du voleur de donuts ? Je vous garantis que personne ne bougera de là tant qu'on aura pas trouvé celui qui me prive de mon quatre heures ! Euh... Vous couperez ça, hein ?
 
 Quoi qu'il en soit, faites attention à vous si vous décidez de vous balader dans les rues de Los Santos. On parle de [braquages d'épiceries](/2013/12/10/les-supermarches--cibles-favorites-des-braqueurs-amateurs/), guerres des gangs et meurtres en tous genres. Le seul moyen de se sentir en sécurité (ironie du sort) c'est de vous procurer une arme. Ce qui fait de cette ville "la ville où la sécurité est garantie par l'insécurité".
-
-<!--kg-card-end: markdown-->

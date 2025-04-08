@@ -91,5 +91,3 @@ Les secours de la ville dépêchés sur les lieux ont fourni des images à la pr
 - Nombre de personnes disparues : 342\_
 
 _Coût des futures rénovations (estimation selon Panlantic) : 6 458 925 $_
-
-<!--kg-card-end: markdown-->

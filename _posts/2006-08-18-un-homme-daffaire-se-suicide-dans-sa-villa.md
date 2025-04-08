@@ -82,5 +82,3 @@ _De gauche à droite: Davyd Guetho, Marcus Nood et Bob Céclair_
 Il a touché les sommets mais aussi le fond à cause de la drogue et a connu le bonheur avec sa femme, mais toujours hanté par son passé de toxicomane, il décide de mettre fin à ses jours malgré ses millions en banque...
 
 Sincères condoléances aux proches de Marcus Nood de la part du Liberty Tree.
-
-<!--kg-card-end: markdown-->

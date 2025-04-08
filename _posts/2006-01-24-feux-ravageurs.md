@@ -49,5 +49,3 @@ En effet des milliers de réfugiés comme M. Brainstorm ont créé des camps de 
 Outre les habitants qui font la guerre, il faut penser au reboisement. Pour faire repousser tous les arbres morts et détruits, il va falloir des années, et beaucoup d'argent. Le gouverneur de l'état est en train d'étudier un projet de financement spécial pour le reboisement de la flore de San Andreas.
 
 GreenPeace est déjà sur l'affaire, et ils ont commencé à rassembler des hommes et des femmes, du matériel et de l'argent pour aider l'état. Il ne reste plus qu'à savoir si l'état voudra bien payer...
-
-<!--kg-card-end: markdown-->

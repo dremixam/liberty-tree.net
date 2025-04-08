@@ -38,5 +38,3 @@ _Saut depuis le dirigeable._
 Une petite pensée pour Aaron Peeper, maire de la ville de Paleto Bay qui s'est tué en sautant de la tour du Fort Zancudo, son parachute ne s'étant pas ouvert, ce qui prouve que la sécurité n'est pas garantie, même avec un équipement haut de gamme.
 
 ![](/content/images/2016/06/fnmwpfw.jpg)
-
-<!--kg-card-end: markdown-->

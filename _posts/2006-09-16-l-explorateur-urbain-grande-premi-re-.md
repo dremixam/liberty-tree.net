@@ -42,5 +42,3 @@ De retour au véhicule, nous étions très heureux de planifier un arrêt chez c
 ![](/content/images/2005/01/Explo_-_ecrivez-moi.jpg)
 
 N'oubliez surtout pas de communiquer avec moi si vous êtes témoin d'une situation particulière, ou si vous avez une nouvelle qui pourrait intéresser nos lecteurs. C'est donc un rendez-vous dans notre prochain numéro!
-
-<!--kg-card-end: markdown-->

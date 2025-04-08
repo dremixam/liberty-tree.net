@@ -111,5 +111,3 @@ InterGlobal TV cherche des figurants pour la série "Yuppie and the Alien strike
 Besoin de place pour stocker toute sorte d'objet volumineux ou encombrant ? Nous disposons de plus de 15 box de 12m², surveillés par un gardien, disponibles immédiatement.
 
 Hammer & Lewinsky : **555-REALESTATE**
-
-<!--kg-card-end: markdown-->

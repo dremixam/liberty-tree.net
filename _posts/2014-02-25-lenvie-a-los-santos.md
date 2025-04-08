@@ -54,5 +54,3 @@ Patrick Keller, PDG de l'entreprise d'assurance Augury Insurance (AUG) a été s
 En effet, bon nombre de véhicules ont explosés à Los Santos, plus particulièrement depuis septembre 2013 (on observe une augmentation de véhicules explosés de 29%). Les principaux suspects sont les psychopathes, gangsters ou membres de Crews, mais Gambit a avancé l'hypothèse que ces actes soient commis par des hommes payés par Keller. Peu de temps avant d'interroger un suspect sur cette affaire, Gambit a touché plusieurs millions de dollars (nous ne savons toujours pas d'où ces millions viennent) et à lâché l'affaire pour aller vivre paisiblement à Vice City.
 
 L'envie, triste péché ne causant normalement pas de tort aux autres mais seulement à nous-mêmes, peut parfois bien changer les choses...
-
-<!--kg-card-end: markdown-->

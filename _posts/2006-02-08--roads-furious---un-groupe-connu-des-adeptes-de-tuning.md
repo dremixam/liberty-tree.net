@@ -39,5 +39,3 @@ Après cette séance de "chauffage", Robinson me fit signe de venir, il me dit q
 ![](/content/images/2005/01/rob.jpg)
 
 Après la diffusion de cet article il serait suicidaire pour moi de retourner voir tun-Duc, comprenez qu'il n'y aura pas beaucoup de chance pour qu'il y ait une suite à cette affaire.
-
-<!--kg-card-end: markdown-->

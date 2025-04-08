@@ -34,5 +34,3 @@ Anthony Stenz, producteur millionnaire, n'était pas connu du grand public mais 
 ![](/content/images/2005/01/ant03.jpg)
 
 Les autorités, arrivées à la propriété de Stenz trouvèrent la lettre qui leur a été adressée mais pas l'auteur de celle-ci. A l'heure où nous écrivons ces lignes, le producteur reste introuvable...
-
-<!--kg-card-end: markdown-->

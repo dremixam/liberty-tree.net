@@ -109,5 +109,3 @@ Je reprends lentement mon souffle, et écoute les bruits qui m'entourent. Une ru
 Je hâte le pas et débouche rapidement au bord d'une autoroute. Enfin. Mon billet de retour...
 
 Je repenserai à tout ça quand je rédigerai cet article. Le journalisme, c'est bien, mais plus jamais d'article sur les habitants de Blaine County. PLUS JAMAIS.
-
-<!--kg-card-end: markdown-->

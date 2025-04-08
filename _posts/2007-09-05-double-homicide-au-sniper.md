@@ -41,5 +41,3 @@ Les policiers chargés de l'enquête sont David Caine (Chef du LSPD) ainsi que&n
 > **Liberty Tree :** Merci Laeticia, à une prochaine fois je l'espère.
 
 Des spécialistes du crime ont alors usé de leur matériel, plus précieusement des lasers pour déterminer la position du sniper par rapport aux impacts des balles. Les forces de l'ordre sont montés sur le toit et n'ont trouvé que la lettre citée ci-dessus. L'enquête est donc au point mort pour l'instant et devrait se poursuivre pendant les prochains mois. La victime principale du drame est Bill Everson, âgé de 42 ans. D'après les premières informations obtenues par la famille et les autorités, Bill n'avait aucun passé judiciaire, ne jouait pas aux jeux d'argents et n'avait aucune dette. Bill Everson était journaliste au San News, un des concurrents du Liberty Tree, les enquêteurs penchent pour la thèse de la vengeance ou de la concurrence, le Liberty Tree a été placé sous surveillance, même si nous savons tous que nous n'y sommes pour rien. Nous vous tiendrons au courant de tout rebondissements dans cette enquête.
-
-<!--kg-card-end: markdown-->

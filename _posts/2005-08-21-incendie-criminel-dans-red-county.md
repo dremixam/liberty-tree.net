@@ -15,5 +15,3 @@ selon la vieille dame qui a survécu, son fils John un camionneur de 41 ans n'au
 Malheureusement, les secours n'ont pas été assez rapides et ce sont tous les autres occupants de l'immeuble et John Robinson qui ont péri en quelques minutes dans l'immeuble ravagé par les flammes.
 
 Les forces de l'ordre n'ont pas oublié de noter l'héroïsme avec lequel Miss Robinson a fait face à la situation, n'hésitant pas à aller dénoncer un membre de sa famille à la police malgré son âge avancé et ses difficultés pour marcher. Le maire a annoncé qu'il allait encourager la délation en récompensant "des actes que tout citoyen normal devrait envisager lorsque l'un de ses proches flirte avec le crime" par des sommes allant de 50 à 1000 dollars.
-
-<!--kg-card-end: markdown-->

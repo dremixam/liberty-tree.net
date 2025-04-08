@@ -28,5 +28,3 @@ Mais d’après un sondage Isot-Liberty Tree, prés de 99% des habitants sont pr
 _Les voitures telles que les 4x4 consomment de plus-en-plus de carburant_[Ce nouveau carburant est hautement explosif mais tellement économique !](/content/images/2005/01/feu.jpg)
 ![Des champs de pétrole à perte de vue, pourtant voués à disparaitre](/content/images/2005/01/petrole.jpg)
 _Des champs de pétrole à perte de vue, pourtant voués à disparaitre_
-
-<!--kg-card-end: markdown-->

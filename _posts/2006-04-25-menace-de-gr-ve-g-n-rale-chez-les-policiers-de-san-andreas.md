@@ -58,5 +58,3 @@ Nous sommes parvenu à obtenir quelques commentaires de la part de M. Félix Ngu
 _Plein d'essence au suprême, patrouilles de retenus sur les autoroutes et pause-café prolongées font partie des moyens de pression actuellement exercés par les policiers de San Andreas_
 
 Une difficile partie de bras de fer s'engage donc entre le syndicat et l'administration municipale puisque chacun semble déterminé à faire accepter son point de vue à l'autre. Au centre de ce conflit, encore des questions monétaire.&nbsp; Alors que nous avons un système de transport en commun qui se fait de plus en plus vieillissant, et que des sérieux travaux de réflexion sont requis pour rajeunir le système d'eau potable, de quelle manière nos élus vont trouvé l'argent nécessaire pour satisfaire l'appétit toujours vorace des employés de la fonction publique? Parions que la facture sera encore refilé aux citoyens, tellement facile considérant l'absence de surplus budgétaire dans la caisse municipale. Au bout du compte, espérons que tout se réglera sans une augmentation du compte de taxe.
-
-<!--kg-card-end: markdown-->

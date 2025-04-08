@@ -20,5 +20,3 @@ La pauvre Madame T. a immédiatement compris que quelque chose n'allait pas et a
 _Un touriste Vicien a quand même réussi à prendre cette photo_
 
 Les secours n'ont pas pu sauver Mme T. et son mari risque entre 20 ans de prison et la peine de mort.
-
-<!--kg-card-end: markdown-->

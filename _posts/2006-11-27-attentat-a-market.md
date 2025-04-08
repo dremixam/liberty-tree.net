@@ -34,5 +34,3 @@ Le SID récupéra alors les bandes de vidéosurveillance des gares visitées par
 _Aziza Benaoui filmée par la caméra de vidéosurveillance de Unity Station._
 
 A l'heure où vous lisez ces lignes, le LSPD remonte encore ce qui reste des 53 victimes de cet attentat. Une chapelle ardente a été dressée dans la cour des studios InterGlobal, mais par respect des familles, nous n'avons pris aucune photo. La station de Market va aussi être fermée pour une durée indéterminée, pour sécuriser la gare dans un premier temps, et surtout, commencer les travaux de rénovation de cette dernière.
-
-<!--kg-card-end: markdown-->

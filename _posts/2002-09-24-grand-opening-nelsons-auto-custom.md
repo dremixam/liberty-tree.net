@@ -27,5 +27,3 @@ Re-ndrc: Le NAC a maintenant son propre site web: [http://nac.shacknet.nu](http:
 ![](/content/images/2016/07/nelsons2.jpg)
 ![](/content/images/2016/07/nelsons3.jpg)
 ![](/content/images/2016/07/nelsons4.jpg)
-
-<!--kg-card-end: markdown-->

@@ -14,5 +14,3 @@ Il était 20 heures, ce mardi 14 mai quand, juste avant la fermeture, deux homme
 Tout aurait pu se passer normalement, si seulement la femme du pompiste n'était pas arrivé pour la fermeture de la station-service. En effet, le braqueur, surpris par celle-ci, fit volte-face et ouvra le feu. Pendant ce temps, le pompiste derrière le comptoir saisi son fusil à canon scié et tira sur le braqueur.
 
 Bilan, la femme du pompiste légèrement blessée à l'épaule et le braqueur quand à lui son sort reste incertain, ayant été touché dans le dos. Le complice est toujours en fuite…
-
-<!--kg-card-end: markdown-->

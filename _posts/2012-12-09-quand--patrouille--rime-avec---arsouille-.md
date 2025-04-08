@@ -13,5 +13,3 @@ Il n'est que 8 heures ce matin lorsque M. Dick Sander, habitant de Las Venturas,
 Après une rapide enquête, il s'avère que le conducteur était un policier d'une cinquantaine d'années et ayant plusieurs antécédents d'alcoolisme durant son service. Le policier s'en sort indemne mais pas sa plaque puisque la prise de sang révèle un taux d'alcoolémie d'1,2 gramme d'alcool par litre de sang. Un taux légèrement supérieur à celui autorisé durant le service, qui lui est d'un gramme seulement.
 
 Nous pouvons ainsi nous demander : mais que fait la police ?
-
-<!--kg-card-end: markdown-->

@@ -17,5 +17,3 @@ Il devient, pendant tout le temps de la modification, votre assistant personnel.
 Une équipe de mécanos compétents est à votre écoute pour que votre nouveau véhicule vous donne entière satisfaction.
 
 Alors n’hésitez plus une seconde, cliquez sur la bannière ci dessous et faites vous plaisir ;).
-
-<!--kg-card-end: markdown-->

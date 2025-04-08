@@ -33,5 +33,3 @@ La saison 2008 instaure de nouvelles règles : Maintenant, dès qu'un accident p
 La saison 2007 aura vu de nombreux faits marquants : Le transfert de Carello de Toyota à Chevrolet, les nombreuses batailles entre Carello et Markiza, le crash de Fergus à Atlanta, celui de Cesaris et Hanna, la pluie d'Indianapolis offrant une victoire à Di Tomason... tout cela aura donné une belle saison 2007.
 
 Le premier rendez-vous de la saison 2008 sera donc le 19 septembre à Los Santos et nous y serons pour suivre en direct cette course, qui s'annonce déjà passionnante !
-
-<!--kg-card-end: markdown-->

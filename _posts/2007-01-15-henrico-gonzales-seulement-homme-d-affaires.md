@@ -26,5 +26,3 @@ L'avocat de l'homme d'affaire, Maurice Goldberg, a fait des remarques :
 
 ![Maurice Goldberg, avocat de M. Gonzales](/content/images/2005/01/producteur.jpg)
 _Maurice Goldberg, avocat de M. Gonzales_
-
-<!--kg-card-end: markdown-->

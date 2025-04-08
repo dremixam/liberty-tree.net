@@ -75,5 +75,3 @@ Je vous laisse en compagnie de quelques clichés de la belle et vous dis "à la 
 ![](/content/images/2016/07/s55amg1.jpg)
 ![](/content/images/2016/07/s55amg2.jpg)
 ![](/content/images/2016/07/s55amg4.jpg)
-
-<!--kg-card-end: markdown-->

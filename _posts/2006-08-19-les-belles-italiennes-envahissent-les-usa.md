@@ -48,5 +48,3 @@ Mais l'arrivée de ces voitures italiennes n'est pas du goût de tout le monde e
 _Shelby GT500, Dodge Viper et Ford Mustang : les cibles des marques italiennes._
 
 Il est encore trop tôt pour interpréter les chiffres de vente de Ferrari et Lamborghini mais les analystes financiers annoncent un boom des ventes pendant les premiers mois du fait de la nouveauté de la chose. Toujours selon ces experts, les ventes devraient ensuite se stabiliser et rester légèrement en deçà des ventes d'américaines. Mais attendons de voir comment nos constructeurs nationaux vont&nbsp;réagir pour fidéliser la clientèle.
-
-<!--kg-card-end: markdown-->

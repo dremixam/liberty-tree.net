@@ -55,5 +55,3 @@ Après avoir mangé un très bon hamburger, nous retrouvons Doug non loin de là
 _Doug._
 
 Si jamais vous aperceviez ou rencontriez des extraterrestres d'ici samedi et l'ouverture du festival, merci de les prévenir et de leur indiquer la route jusqu'à "Beam Me Up", ça fera toujours plaisir à la petite centaine de fans qui s'y trouvent.
-
-<!--kg-card-end: markdown-->

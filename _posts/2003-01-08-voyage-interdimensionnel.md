@@ -21,5 +21,3 @@ Pensant qu'il s'agissait encore d'un canular je commençais a partir lorsqu'il a
 
 Quand il s'était retrouvé dans cet étrange endroit cet homme avait eu la présence d'esprit de sortir son vieux polaroid pour prendre ces clichés qui prouvent parfaitement ses dires.  
 Existerait-il vraiment un passage inter-dimensionnel a Liberty City? J'ai volé durant des heures en dodo au dessus de Liberty City et je n'en ai jamais découvert, mais, qui sait?
-
-<!--kg-card-end: markdown-->

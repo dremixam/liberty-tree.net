@@ -30,5 +30,3 @@ Le maire a tenu à rassurer la population lors d'une conférence de presse :
 > Bonjour à tous, habitants de Liberty City. En ce jeudi 6 septembre 2012, je sais que vous êtes tous choqués par l'ampleur de l'attaque de Maisonnette 9. Les policiers ont beaucoup de mal à retrouver le coupable, même en réunissant tous les indices. C'est pour ça que j'ai appelé plusieurs troupes de police et de N.O.O.S.E. en plus, tous droit venus de Washington et entraînés pendant des années au Texas, pour protéger cette ville, qui a maintenant subi trop d'attaques. Et pour finir, je voudrais que les journalistes arrêtent de se mêler de cette affaire. Merci.
 
 Suite à cette intervention, la police a cessé de nous fournir des informations sur la progression de l'enquête, nous allons donc attendre pour en savoir plus. Mais l'affaire reste à suivre et vous la ne manquerez pas.
-
-<!--kg-card-end: markdown-->

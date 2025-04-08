@@ -77,5 +77,3 @@ Michael Fontana :
 ![](/content/images/2016/07/fsscr008-1.jpg)
 
 Merci à tous ceux qui ont activement votés via le Liberty Tree et aussi un grand merci à la FVC qui a organisé ce concours. A l'an prochain pour la remise en titre du plus beau véhicule de l'année.
-
-<!--kg-card-end: markdown-->

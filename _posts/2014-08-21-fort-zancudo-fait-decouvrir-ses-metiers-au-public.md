@@ -51,5 +51,3 @@ Je décide donc d'aller rencontrer le général Lincoln:
 > **Général Lincoln :** Le Miljet est une avion ayant une autonomie de 18 heures de vol, c'est donc un des meilleurs appareils de l'US Air Force, et c'est pour cette raison qu'ils nous servira au transport de personnel entre Fort Zancudo et les autres bases ou aéroports du pays, il servira aussi et surtout à la recherche de personnes disparues en mer lors de naufrages. Le Besra servira plutôt à la Patrouille Acrobatique Militaire de San Andreas, mais, bien sûr, nous allons en armer quelque-uns au cas où un P-996 Lazer serait en maintenance ou engagé dans un conflit. Et pour finir, l'hélicoptère Swift nous permettra lui-aussi de faire du sauvetage en mer et dans les montagnes aux alentours de la base.
 
 La popularité de l'armée auprès de la population s'élève à 78% (le LSPD en est à 24%). L'armée envisage de faire une deuxième édition l'année prochaine.
-
-<!--kg-card-end: markdown-->

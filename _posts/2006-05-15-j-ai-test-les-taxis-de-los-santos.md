@@ -48,5 +48,3 @@ Quant aux chauffeurs, la compagnie devrait sérieusement envisager une formation
 Enfin, mon chauffeur et moi arrivons au Liberty Tower après un long calvaire (Et c'est comme ça tous les jours.). Je sors rapidement en lâchant quelques billets et j'en profite pour respirer l'air pur de Los Santos ! Je pourrais&nbsp;aussi vous parler&nbsp;du trajet du soir mais ce serait une perte de temps car c'est la même chose que le matin mais en sens inverse et donc plus dangereux car c'est en descente. Ainsi je vous laisse juger de la LS Taxis, compagnie de grandeur et de décadence.
 
 _NDLR : L'équivalence de 4 pneus neufs&nbsp;a été prélevé du salaire de Tenpenny sitôt l'article paru. Merci à lui pour son honnêteté_.
-
-<!--kg-card-end: markdown-->

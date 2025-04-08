@@ -41,5 +41,3 @@ J'en profite quand même pour demander au personnes présentes ici, sur la terra
 _Le vignoble de Marlowe se situe à 5 heures de route de Los Santos._
 
 Les bouteilles du Vignoble de Marlowe ne se trouvent pas en grande surface mais peuvent être achetées dans certains magasins d'alcool ou au vignoble lui même, à partir de 50 dollars la bouteille. Bonne dégustation !
-
-<!--kg-card-end: markdown-->

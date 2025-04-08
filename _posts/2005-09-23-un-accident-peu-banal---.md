@@ -71,5 +71,3 @@ L’officier Jonathan McNiels a répondu à quelques-unes de nos questions.
 > **M. M.:** Bon, moi c’est pas tout ça, mais je doit aller prendre mon café. C’était ma pause. Au revoir.
 
 Cette interview n’ayant pas abouti à grand-chose, nous en savons déjà plus sur le compte du directeur du All Saints General Hospital. Les rumeurs d’un trafic de nitroglycérine ne sont pour le moment pas écartées. Nous allons suivre cette affaire de très près et continuer de vous garder informés sur cette enquête.
-
-<!--kg-card-end: markdown-->

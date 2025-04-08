@@ -33,5 +33,3 @@ Arrivés sur le lieu du combat, les Jacks durent affronter 15 Nines. Les Jacks g
 A la suite de cet événement, plus un Nine ne fut aperçu. Or une masse de personnes fut enregistrée pour le vol de Vice City.
 
 (ndlr 2012 : cet article est un grand n'importe quoi, c'est probablement le truc le plus naze en ligne ici)
-
-<!--kg-card-end: markdown-->

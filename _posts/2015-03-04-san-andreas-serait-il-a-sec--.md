@@ -33,5 +33,3 @@ Mark Mayor, l'un des propriétaires du champ, s'inquiète pour les conséquences
 D'après le témoignage de Marc Mayor, San Andreas a un gros souci et ce souci pourrait passer comme si de rien n'était ou ravager l'économie de l'État. Ceci ne prévoit rien de bon pour l'avenir de l'État.
 
 Affaire à suivre...
-
-<!--kg-card-end: markdown-->

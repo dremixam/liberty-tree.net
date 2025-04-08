@@ -36,5 +36,3 @@ Mais l'affaire a commencé à prendre une ampleur relativement impressionnante q
 ![](/content/images/2005/01/colza1.jpg)
 ![L'exploitation de Fallen Tree et Buddy accompagné de son épouse.](/content/images/2005/01/colza4.jpg)
 _L'exploitation de Fallen Tree et Buddy accompagné de son épouse._
-
-<!--kg-card-end: markdown-->

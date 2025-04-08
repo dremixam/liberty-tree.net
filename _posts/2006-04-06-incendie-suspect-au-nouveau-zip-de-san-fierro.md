@@ -36,5 +36,3 @@ Notons également que durant l’intervention, un pompier a subit des blessures 
 _Le sapeur a été rapidement transporté à l'hôpital pour y soigner des blessures aux jambes_[Une photo prise durant la soirée par un touriste ne montre rien d'anormal](/content/images/2005/01/ZIP_incendie_7.jpg)
 
 Si vous possédez des informations pouvant mener à l’arrestation du suspect, nous vous invitons à les communiquer immédiatement au détective Jean-Claude Reno de la police de San Fierro.
-
-<!--kg-card-end: markdown-->

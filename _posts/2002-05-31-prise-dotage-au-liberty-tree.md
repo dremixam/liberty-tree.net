@@ -20,5 +20,3 @@ Soudain apercevant une femme qui se déshabillait dans l'immeuble d'en face, Mr 
 Les autres journalistes se levèrent alors et jetèrent le corps du malfrat par la vitre, n'ayant pas remarqué que ce dernier était tartiné de bloc de C-4. Ils ne se doutèrent pas que lorsque le corps s'écraserait par terre il créerait une explosion énorme entraînant 360 morts dont 140 policiers et 220 civils.
 
 Le maire, en deuil après ce drame décida de remettre aux journalistes la médaille d'honneur pour leur courage et leur bravoure. Il n'a pas voulu se prononcer sur cette tragédie.
-
-<!--kg-card-end: markdown-->

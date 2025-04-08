@@ -33,5 +33,3 @@ A de nombreuses reprises, des agents du FIB ont été vus près des paraboles, c
 > Non, ces écoutes ne sont absolument pas illégales. On écoute, mais on ne note rien. Seulement si le mot terroriste est entendu, ou s'il y a un rapport avec cela. Pareil en ce qui concerne LifeInvader ou Bleeter. C'est tout simplement par précaution.
 
 Beaucoup de soupçons sont encore présents. En effet, notre contact a refusé de répondre à de nombreuses questions, semblait fébrile, et nous n'avons pas pu aller plus loin qu'au rez-de-chaussée... Difficile de faire confiance à une agence gouvernementale qui cache de nombreux secrets, l'avenir nous dira si toutes ces histoires et rumeurs s'avèrent vraies.
-
-<!--kg-card-end: markdown-->

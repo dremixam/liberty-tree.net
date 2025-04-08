@@ -18,5 +18,3 @@ _Les unités représentent le nombre moyen de ventes journalières d'armes des m
 Cela dit, ne faites pas comme M. Larner, propriétaire de la chaîne des magasins Ammu-Nation, qui comme discours de bonne continuation a annoncé:
 
 > Hier, nous étions au bord du gouffre, aujourd'hui, nous faisons un grand pas en avant...
-
-<!--kg-card-end: markdown-->

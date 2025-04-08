@@ -41,5 +41,3 @@ Il faut préciser qu’une clé plus jeune aurait très probablement ouvert la p
 
 > **Dominique Strauss-Khan :**  
 > Il manquerait plus que cette saloperie étrangère bas de gamme qui refuse de faire ce qu’on lui dit de faire vienne en plus se plaindre ensuite !
-
-

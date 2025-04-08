@@ -70,5 +70,3 @@ _La rénovation de l'église située Liberty Ln à Algonquin n'aurait pas pu êt
 Malgré tout, la vie continue au Liberty Tree et même si nos avocats ont déposé une plainte pour diffamation contre la direction du Daily Globe, nous n’avons rien changé à nos habitudes.
 
 > **NelsoN :** Tout ce que ca change, c’est qu’on leur a trouvé un nouveau nom, maintenant on les appelle le « Faily Globe. » HAHAHAHA !
-
-<!--kg-card-end: markdown-->

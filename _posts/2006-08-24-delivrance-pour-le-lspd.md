@@ -55,5 +55,3 @@ J’ai interrogé un des policiers pour un savoir un peu plus sur cette affaire 
 
 ![Mary Cole, son ex-petite amie](/content/images/2005/01/Mary_Cole.jpg)
 _Mary Cole, son ex-petite amie_
-
-<!--kg-card-end: markdown-->

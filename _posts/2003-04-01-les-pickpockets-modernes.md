@@ -24,5 +24,3 @@ Une fois abattus, M. Rose-bonbon alla gracieusement soustraire l'argent des dép
 Entre-temps, Will disparut se chercher son tacot, puis arriva pêcher Eddie qui était bourré de radis. Ils prirent ensemble la poudre d'escampette.
 
 Ce fut, et ça l'est toujours, une grossière amélioration, si l'on pût dire, du pickpocket.
-
-<!--kg-card-end: markdown-->

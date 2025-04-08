@@ -58,5 +58,3 @@ _Finral Albert Burnquist-Ildag_
 Malheureusement, le quartier de Doherty, victime d'un séisme il y a longtemps et qui n'est toujours pas reconstruit, devra trouver un nouvel entrepreneur, car on ne peut plus compter sur FinalBuild.
 
 Voici donc une affaire de close, mais n'oublions pas que d'autres affaires comme celle-ci peuvent arriver. Donc, prenez le temps de choisir votre entrepreneur avant de faire des constructions.
-
-<!--kg-card-end: markdown-->

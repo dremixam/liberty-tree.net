@@ -41,5 +41,3 @@ Ce genre de silence ne me plaît pas du tout, c'est ainsi qu'après quelques rec
 _Harry Brightman._
 
 Nous se savons toujours pas où sont les cinq autres voitures volées mais le LCPD mène l'enquette. Les comptes de la _Met Destiny_ vont être passés au peigne fin cette semaine pour vérifier qu'aucune autre opération frauduleuse de ce genre n'ait été commise dans le passé.
-
-<!--kg-card-end: markdown-->

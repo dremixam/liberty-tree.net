@@ -49,5 +49,3 @@ Et ces retards peuvent facilement empirer, particulièrement après une étude p
 La prochaine étape du centre scientifique de San Fierro est de déterminer combien ces retards, dû à l'utilisation d'un téléphone cellulaire au volant, coûtent aux usagers, en temps et en carburant.
 
 "Nous avons déjà commencé à échafauder un début d'étude à ce sujet", nous explique Chris Armstrong, "et je peux déjà vous dire que les résultats s'annoncent évocateurs".
-
-<!--kg-card-end: markdown-->

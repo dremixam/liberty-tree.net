@@ -32,5 +32,3 @@ Le papy va-t-il être arrêté ?
 Le maire va-t-il être démis de ses fonctions ?
 
 Affaire à suivre.
-
-<!--kg-card-end: markdown-->

@@ -24,5 +24,3 @@ Une foule nombreuse est venue les acclamer, elle n'a pas été déçu le spectac
 ![](/content/images/v1/user0/looping2.jpg)
 ![](/content/images/v1/user0/looping3.jpg)
 ![](/content/images/v1/user0/looping4.jpg)
-
-<!--kg-card-end: markdown-->

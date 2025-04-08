@@ -23,5 +23,3 @@ Des familles de victimes demandent un investissement plus important de l'État q
 ![](/content/images/2005/01/motocq2.jpg)
 
 La situation stagne et, en attendant qu'une loi oblige les motards a porter le casque, n'oubliez pas que cela ne peut que vous sauver la vie !
-
-<!--kg-card-end: markdown-->

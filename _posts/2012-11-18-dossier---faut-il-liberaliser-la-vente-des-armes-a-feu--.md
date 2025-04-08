@@ -41,5 +41,3 @@ Dans son programme, le candidat Madd Dogg promet d'ouvrir le marché des armes �
 Parmi les solutions les plus en vue, le patron du plus grand Ammu-Nation de l'Etat de San Andreas envisage de créer une carte de fidélité, ce qui serait une première dans le domaine. Ainsi, pour un montant prédéfini d'armes ou de munitions achetées, une arme de choix serait offerte (lance-roquettes ou minigun selon les hypothèses les plus ambitieuses). Si les opposants aux armes risquent d'élever leur voix, il faut bien reconnaître que dans l'optique de se défendre contre d'éventuelles agressions, monsieur Tout-Le-Monde, en possession d'un lance-roquettes flambant neuf, serait quelque peu dissuasif.
 
 A suivre dans notre dossier spécial élections : le développement des jeux d'argent (candidat Wu Zi Mu).
-
-<!--kg-card-end: markdown-->

@@ -24,5 +24,3 @@ Des parties entières de Tierra Robada sont pour le moment sous les eaux, le tra
 Il est vrai que maintenant que le niveau des eaux a considérablement monté, parfois même jusqu’à plus de 3 mètres, l'écosystème sous-marin en profite pour s'aventurer loin sur nos "terres".
 
 Heureusement, d'après les spécialistes, "le surplus d'eau devrait continuer à s'écouler le long du canal pour rejoindre la mer, et le niveau de l'eau des environs redeviendrait normal d'ici 24 ou 36 heures".
-
-<!--kg-card-end: markdown-->

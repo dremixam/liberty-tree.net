@@ -99,5 +99,3 @@ Notre rédacteur en chef était donc enfin libre. Après avoir fait sa dépositi
 > **LT:** Merci pour cette interview.
 
 Les agents du F.B.I. qui n'ont visiblement pas cru au témoignage de Maxou concentrent leurs recherches sur lui et tentent de prouver qu'il avait entièrement prévu son enlèvement avec ses ravisseurs. Cette théorie n'est pas crédible un instant quand on connaît la bonne foi de Maxou et sa dévotion pour son journal (qu'il a entièrement recréé) et pour ses lecteurs. L'enquête restera donc très certainement au point mort encore longtemps.
-
-<!--kg-card-end: markdown-->

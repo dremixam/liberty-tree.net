@@ -59,5 +59,3 @@ Voici le témoignage de quelques personnes (voulant rester anonymes)&nbsp;que j�
 > Non, car je ne vois pas du tout à quoi ça sert, c'est le boulot des flics, non ?
 
 J'espère que vous serez rassurés d'apprendre la nouvelle en lisant cet article. Mais attention, la meilleure des sécurités, c'est encore la prudence !
-
-<!--kg-card-end: markdown-->

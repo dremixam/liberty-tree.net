@@ -41,5 +41,3 @@ Selon un spécialiste en gestion de scène de crime, les 6 premières heures son
 _L'un des nombreux barrage policier qui avaient été mis en place dans l'espoir d'épingler les braqueurs._
 
 Espérons que ces conseils serviront aux brillants cerveaux de la police scientifique du FBI. Avis aux curieux, si vous voulez un conseil, éviter ce secteur durant quelques jours sauf si vous adorez les embouteillages car de nombreux barrages de police sont toujours en place et n’ont toujours pas encore été levés au moment de mettre cette article sous presse.
-
-<!--kg-card-end: markdown-->

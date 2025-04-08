@@ -29,5 +29,3 @@ Des voisins ont certainement dû avoir peur en entendant les cris et les bruits 
 _Les derniers survivants sur le port._
 
 Avec tous ces débordements et l’incompétence de la police pour rattraper les fuyards, le maire a pris un arrêté municipal visant à interdire toutes modifications automobiles. Alors que la justice a été saisie de l’affaire pour statuer sur l’illégalité ou non de cet arrêté, les manifestants se font de plus en plus nombreux en ville, et cela paraît normal : le tuning n’apporte pas que des mauvaises choses, c’est indéniable. Il suffirait peut-être de simplement mieux l’encadrer… C’est le même souci que la vente d’arme : il faut éviter de le laisser en vente libre.
-
-<!--kg-card-end: markdown-->

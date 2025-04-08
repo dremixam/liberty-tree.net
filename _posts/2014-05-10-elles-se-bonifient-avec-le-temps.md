@@ -34,5 +34,3 @@ Nous avons rencontré M. Puni, l’organisateur de l’événement :
 ![](/content/images/2016/06/27_9.jpg)
 
 Les participants sont ensuite partis faire un tour dans le centre-ville avant de rejoindre l'autoroute, profitant d'une circulation fluide, avant que chacun rentre chez soi.
-
-<!--kg-card-end: markdown-->

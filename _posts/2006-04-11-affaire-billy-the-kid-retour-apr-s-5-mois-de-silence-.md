@@ -48,5 +48,3 @@ La chose la plus bizarre qui a été laissée sur le lieu du crime, sont des pap
 Telles sont les phrases de John Starliner, PDG de la Chuff & Co.
 
 Nous allons voir si ces phrases ont porté leurs fruits dans une prochaine édition du Liberty Tree !
-
-<!--kg-card-end: markdown-->

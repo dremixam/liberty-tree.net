@@ -33,5 +33,3 @@ Toute l’équipe des renseignements de la base travaille désormais en collabor
 
 ![](/content/images/2005/01/Area_69_Radar.jpg)
 ![](/content/images/2005/01/Area_69_Silo.jpg)
-
-<!--kg-card-end: markdown-->

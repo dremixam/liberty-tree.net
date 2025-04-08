@@ -29,5 +29,3 @@ Les gangs sont sans merci envers leurs rivaux de toujours. Certains sont battus 
 Devant cette situation de crise, le maire a tenu à faire une annonce :
 
 > Mes chers concitoyens, la situation est grave. Les gangs se sont emparés de la ville et y mènent une véritable guérilla. La police met bien sûr tout en œuvre pour tenter de mettre fin à ce massacre, mais je crains que ce ne soit suffisant. C'est pourquoi j'ai pris la décision de faire appel à l'armée pour les aider. Je ne souhaitais pas en arriver à ce stade, mais c'est la seule solution envisageable à l'heure actuelle. En attendant, restez chez vous. Ne sortez sous aucun prétexte. Votre vie vaut plus que celles d'une bande de voyous déscolarisés et battus pendant leur enfance à coups de bâtons !
-
-<!--kg-card-end: markdown-->

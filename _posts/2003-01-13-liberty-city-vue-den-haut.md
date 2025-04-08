@@ -23,5 +23,3 @@ Il nous a expliqué à ce propos :
 > Quand on rentre à Liberty City, on se dit... et Liberty c'est quoi ? C'est des gens ? une histoire? Ou seulement des murs et des trottoirs ?
 
 Yann Arthus Tranbert a gracieusement permis au Liberty Tree de publier quelques unes de ses meilleures photos.
-
-<!--kg-card-end: markdown-->

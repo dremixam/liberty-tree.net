@@ -43,5 +43,3 @@ Comme vous pouvez le remarquer, le département des transports de San Andreas n�
 > Cet emploi est pour mois une bénédiction. Au chômage depuis que les bus avait «&nbsp;disparus&nbsp;» au profit du train, je faisais des petits boulots par-ci par-là et ce n’était pas toujours «&nbsp;clean&nbsp;». J’espère que le département des transports va conserver ce système de navettes dans l’Etat.
 
 Le département des transports nous&nbsp;a signalé qu’à l’occasion de la réouverture de la gare de Market après travaux, il y aurait une cérémonie d’hommage aux victimes de l’attentat ainsi que la construction d’un monument commémoratif en l’honneur des victimes.
-
-<!--kg-card-end: markdown-->

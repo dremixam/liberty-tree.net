@@ -60,5 +60,3 @@ Je vous souhaite la bienvenue pour le second article de "La Fièvre du Samedi So
 ![](/content/images/2005/01/Cinema_LV.jpg)
 
 **Conclusion :** Pour une fête et une soirée réussie entre amis, il est conseillé d'aller se défouler sur la piste de danse de la discothèque de votre choix. Nous avons cité celles qui nous ont le plus marqué. Puis ne finissez la nuit comme ça, il faut aller soit boire dans un bar soit manger ou alors aller voir un bon film au cinéma
-
-<!--kg-card-end: markdown-->

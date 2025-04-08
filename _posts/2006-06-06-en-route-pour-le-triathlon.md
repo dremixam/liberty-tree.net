@@ -41,5 +41,3 @@ _Tom Carver, 26 ans, Employé au Cluckin'Bell_
 _John Tennison, 28 ans, Boxeur Poids Lourd_
 
 > Ce triathlon est un très bon moyen pour moi de m’entraîner à devenir meilleur. Tous les jours je tape dans ces sacs de sable mais ça ne suffit pas. Il faut sans cesse essayer de dépasser ses limites. Et cette épreuve est extra pour cela. Elle met&nbsp;au défi&nbsp;toutes tes capacités physiques : Ton apnée, ton endurance, ta musculature. Je pense faire parti des favoris mais un incident est très vite arrivé. La somme ne m'intéresse pas, j'en gagne déjà assez pendant les tournois. Si je remporte la compétition je m'engage à donner cet argent à une association.
-
-<!--kg-card-end: markdown-->

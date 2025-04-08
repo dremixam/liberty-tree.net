@@ -50,5 +50,3 @@ Il semblerait donc que la carrière de Coray Thompson à la tête de VAJ Finance
 
 ![M.Thompson, l'homme de tous les excès.](/content/images/2005/01/VAJ_Patron.jpg)
 _M.Thompson, l'homme de tous les excès._
-
-<!--kg-card-end: markdown-->

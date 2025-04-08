@@ -21,5 +21,3 @@ Les premiers chiffres devraient arriver d'ici un mois pour le quartier de Portla
 ![](/content/images/2016/07/cam2.jpg)
 ![](/content/images/2016/07/cam3.jpg)
 ![](/content/images/2016/07/cam4.jpg)
-
-<!--kg-card-end: markdown-->

@@ -34,5 +34,3 @@ Mais aussi culturel : cet événement permettra de faire découvrir aux habitant
 En réponse à cette vive opposition, le maire a fait remarquer que beaucoup de personnes n'allaient pas à la plage par peur des requins, des vagues et des inconscients qui prennent des cours de jet-ski passant à quelques mètres des baigneurs, et qu'une piscine serait la solution pour ces personnes. Les championnats de natation se dérouleront en décembre à l'ULSA de Richman.
 
 Los Santos Transit annonce déjà que des bus feront des liaisons entre les différentes gares routières du comté, l'aéroport et la piscine. Une présence policière plus renforcée sera aussi présente pour toute la durée des événements, afin d'éviter d'éventuels débordements.
-
-<!--kg-card-end: markdown-->

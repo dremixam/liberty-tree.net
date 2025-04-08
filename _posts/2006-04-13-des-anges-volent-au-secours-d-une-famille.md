@@ -69,5 +69,3 @@ De retour de leur séjour, la famille Gauthier ont retrouvé l'équipe des Anges
 _Quelques photos de l'intérieur de la nouvelle maison des Gauthier.Nous constatons que tout a été mis en oeuvre pour s'assurer du confort de la petite famille_
 
 C'était donc une nouvelle mission accomplie pour la&nbsp; « _Brigade des Anges_ » que nous désirons également remercier pour nous avoir permis la réalisation de cet article. Les producteurs tiennent à rappeler aux lecteurs de ne pas hésiter à communiquer avec eux si vous connaissez un parent ou un ami qui aurait bien besoin de notre visite.
-
-<!--kg-card-end: markdown-->

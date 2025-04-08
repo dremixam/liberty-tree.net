@@ -36,5 +36,3 @@ Percevant que je le mettais mal à l'aise, j'ai arrêté de questionner.
 Avec les informations que nous détenons, on peut supputer que quelqu'un, payé par les éventuelles rencontres entre médecins tue les "intrusions". Ce qui pourrait expliquer le mystérieux "pourcentage dû". Ou alors ce sont les médecins qui tuent.
 
 Un jour, peut-être, on saura.
-
-<!--kg-card-end: markdown-->

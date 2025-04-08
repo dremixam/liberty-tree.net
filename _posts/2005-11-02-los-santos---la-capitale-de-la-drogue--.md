@@ -39,5 +39,3 @@ En effet, le gérant, Markus Goldberg, dit que quelqu'un lui a proposé 5000 $ p
 ![](/content/images/2005/01/deal8.jpg)
 
 Conclusion : apparemment, toutes ces pistes mènent au même homme, surement le nouveau Baron de la drogue dont on ne connaît rien, mais dont on découvrira sans doute bientôt l'identité. Affaire à suivre dans les prochaines éditions du Liberty Tree.
-
-<!--kg-card-end: markdown-->

@@ -24,5 +24,3 @@ En effet, l'Amérique est le plus gros émetteur de ces gaz qui tuent notre plan
 Pourtant, selon nos dirigeants, ces dérèglements seraient uniquement liés à un complot de pays ennemis, voire même aux terroristes, cibles privilégiées de tous les malheurs de l'Amérique depuis les attentats du 11 Octobre 2002 à Liberty City. De plus, M. Daniel Richmann, sénateur, a déclaré dans la presse qu'une "machine à dérégler le temps serait cachée sous la Tour Eiffel à Paris". Rappelons que M. Richmann avait déjà évoqué la dangerosité de la Tour Eiffel et de la France lorsque celle ci avait exprimé son désaccord lors de la guerre au Tadjaristan.
 
 Cet imbroglio de déclarations ne satisfait pas la population américaine. L'industrie pétrochimique semble pâtir du mauvais temps et l'ensemble de la profession maritime a déclaré son intention de grève si la situation ne s'améliorait pas. Les métiers de la mer sont en effet les premiers touchés par cette crise et on ne compte plus les bateaux disparus en mer.
-
-<!--kg-card-end: markdown-->

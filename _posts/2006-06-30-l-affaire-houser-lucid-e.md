@@ -86,5 +86,3 @@ Le procès de Bubba Hotep est en cours. L'avocat de l'accusation, Jack Rifle, r�
 > D'abord nous attaquons Love Media en justice, puis on fera interdire la commercialisation de leurs bidules et on condamnera à mort leurs dirigeants. Les jeux vidéo sont dangereux ! Ils tuent chaque jour des millions de gens, détournent nos enfants de leurs études, en plus ça nous coûte la peau des fesses chaque année à Noël.
 
 ![](/content/images/2005/01/2monkey9.jpg)
-
-<!--kg-card-end: markdown-->

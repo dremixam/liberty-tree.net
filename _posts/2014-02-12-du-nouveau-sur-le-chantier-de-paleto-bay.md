@@ -34,5 +34,3 @@ Ainsi, sur les coups de 10 heures, des pelleteuses et des camions-bennes étaien
 _Les ouvriers et les engins de chantier sur place._
 
 Que penser donc de ce revirement de situation ? Le projet a-t-il été relancé ? Ou un autre a été décidé, sans avoir été annoncé aux citoyens et aux élus locaux ? La réponse viendra dans quelques semaines voire quelques mois, lorsque le projet prendra vraiment forme...
-
-<!--kg-card-end: markdown-->

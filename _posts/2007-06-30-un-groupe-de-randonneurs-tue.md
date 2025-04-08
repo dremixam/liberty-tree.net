@@ -44,5 +44,3 @@ L'agence touristique en charge du bus accidenté à ensuite présenté ses excus
 
 ![Photo du bus avant l'accident](/content/images/2005/01/gallery14_0.jpg)
 _Photo du bus avant l'accident_
-
-<!--kg-card-end: markdown-->

@@ -35,5 +35,3 @@ _Le principal suspect des enquêteurs, un dealer de drogue._
 Cette affaire montre encore une fois les ravages provoqués par la drogue. Les dealers sont prêts à tuer pour s'enrichir un maximum. De plus cela les renforce à l'intérieur de leurs gangs respectifs, ils acquièrent un respect plus grand de la part des autres membres du gang. Tout est question de prestige.
 
 Hélas on se demande ce qui pourra un jour mettre un terme à ces guerres de gangs incessantes et à la revente de drogue.
-
-<!--kg-card-end: markdown-->

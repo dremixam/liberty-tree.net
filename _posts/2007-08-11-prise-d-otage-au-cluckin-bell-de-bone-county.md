@@ -45,5 +45,3 @@ _Le SWAT repart, le FBI et les Scientifiques arrivent._
 Un agent du FBI : Oh vous savez nous sur des affaires comme celles-ci on arrive seulement après, aujourd'hui nous ne sommes là juste pour épauler la police scientifique et fermer le restaurant jusqu'à nouvel ordre. Nous avons également une deuxième équipe à la bijouterie.
 
 Cette affaire s'est donc bien terminée, les otages sont juste choqués et on tout de suite été examinés par un médecin sur place, le restaurant devrait ouvrir d'ici quelques jours en attendant la fin de l'enquête.
-
-<!--kg-card-end: markdown-->

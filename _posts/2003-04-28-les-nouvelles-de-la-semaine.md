@@ -21,5 +21,3 @@ Suite à l'article d'Alex, la Police de Portland a fait un tour dans le quartier
 Les manifestants anti-pubs ont obtenu de la mairie l'arrêt total du placement de panneaux publicitaires, mais le maire O'Donovan a néanmoins déclaré que les publicités déjà présentes ne seraient pas supprimées. Les associations déclarent être à demi satisfaites, et appellent leurs adhérents à venir débattre sur ce thème à l'aire de pique-nique de Staunton View.
 
 Je termine mon article par des explications : le Liberty Tree devrait reprendre son cours normal dans les jours qui viennent.
-
-<!--kg-card-end: markdown-->

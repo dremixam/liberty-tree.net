@@ -37,5 +37,3 @@ Même son de cloche du côté du Rockford Plaza, même si les enseignes et les c
 _Le Mega Mall de Davis et le Rockford Plaza._
 
 Noël est dans moins d'un mois désormais. Je vais maintenant aller faire mes courses, au Rockford Plaza (car ma petite paie de journaliste me le permet !), et acheter tout plein de cadeaux. J'espère pour vous amis lecteurs que vous passerez de joyeuses fêtes, au chaud dans notre belle ville qu'est Los Santos ! Joyeux Noël et Beaux Nénés !
-
-<!--kg-card-end: markdown-->

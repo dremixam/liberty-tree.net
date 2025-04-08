@@ -44,5 +44,3 @@ La police, après les émeutes d'avant-hier à pris des mesures plus importantes
 ![](/content/images/2005/01/portarme3.jpg)
 
 Le gouverneur a souhaité ne pas entendre les plaintes des manifestants, un mauvais point pour les prochaines élections...
-
-<!--kg-card-end: markdown-->

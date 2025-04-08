@@ -17,5 +17,3 @@ C'était sans compter sur le courage et les aptitudes en arts martiaux de Mlle J
 Personne n'a donc été blessé et Mlle Badge a immédiatement remis le fusil à la police lorsqu'elle est arrivée. Mr Ackman, profondément ébranlé par l'incident, a été transporté à l'hôpital de Las Venturas où il sera gardé en observation pendant trois jours. Egalement sous le choc, les habitants de Montgomery ont profité de ce nouvel événement qui ne fait qu'agrandir la déjà longue liste des braquages et tentatives dans la bourgade, pour manifester une énième fois dans les rues afin de demander une présence constante de la police dans leur commune. En effet, il n'y a à ce jour aucun commissariat ou même simple poste à Montogmery, et les bandits profitent du temps considérable que mettent les forces de l'ordre à intervenir dans ces lieux, pour réaliser là de nombreux forfaits.
 
 La police, pour temporiser, a décidé de placer dans les rues du village et notamment à proximité du magasin "Hannibal", trois voitures de patrouille pour surveiller d'éventuelles nouvelles agressions. Cela a pour le moment calmé la populace, mais on doute fort que cela dure...
-
-<!--kg-card-end: markdown-->

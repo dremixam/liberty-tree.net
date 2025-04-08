@@ -20,5 +20,3 @@ Bien malheureusement ça ne marche pas pour tous. Ça vaut quand même le coup d
 Des habitants de Liberty City avec qui j'ai pu discuter qui ont fait le test m'ont dit qu'ils ne savaient pas pourquoi ils ne se sont pas fait prendre. Un truc doit pourtant bien exister ! En tout cas, ils n'ont toujours rien trouvé de plus ou moins efficace dans ces enrôlements. Quelle catastrophe !
 
 Si vous êtes prochainement confronté à être enrôlé, je vous conseille vivement de rater ce test.
-
-<!--kg-card-end: markdown-->

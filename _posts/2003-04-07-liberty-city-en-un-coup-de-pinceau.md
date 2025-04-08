@@ -38,5 +38,3 @@ Pour nous faire patienter, voici un petit extrait du talent de notre peintre Lib
 ![](/content/images/2016/07/photo2.jpg)
 ![](/content/images/2016/07/photo3.jpg)
 ![](/content/images/2016/07/photoexp.jpg)
-
-<!--kg-card-end: markdown-->

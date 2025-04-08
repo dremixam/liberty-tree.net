@@ -16,5 +16,3 @@ Voilà le message publié sur Lifeinvader :
 Ainsi donc, voilà une nouvelle qui va faire rager non seulement les forces de l'ordre, mais aussi tous les malfrats qui ont dû tenter de l'éliminer par le passé, comme c'est bien souvent le cas dans ces milieux.
 
 On se souvient de l'homme comme d'un alcoolique. De plus, on sait aussi qu'il avait fui Vice City avant d'y revenir quelques années plus tard. Après tout, c'est peut-être cette manie de fuir les problèmes sans arrêt qui l'a maintenu en vie jusqu'à aujourd'hui ? Quoiqu'il en soit, il ne fait aucun doute qu'il s'agit là d'une belle provocation de la part d'un ancien criminel endurci.
-
-<!--kg-card-end: markdown-->

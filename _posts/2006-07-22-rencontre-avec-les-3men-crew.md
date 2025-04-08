@@ -102,5 +102,3 @@ _Photos des studios d'AMD Records fournies par M. Betancourt._
 En conclusion, ce sont trois garçons assagis que nous retrouvons aujourd'hui, avec des lyrics moins violents, des mélodies plus douces, faisant de "Made in Ganton" un disque indispensable à avoir chez soi.
 
 \*Les 3Men Crew ont déjà été interviewés par Pavlov en 2003 à la sortie de "Born in East LC".
-
-<!--kg-card-end: markdown-->

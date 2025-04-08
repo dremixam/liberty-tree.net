@@ -33,5 +33,3 @@ En parlant avec le sergent Wayne Dricoll, l'un des patrouilleurs affectés à la
 ![]()
 
 Il est également demandé aux automobilistes de ne surtout pas ralentir en passant sous un pont car cela pourrait être très dangereux pour eux ainsi que pour les autre automobilistes qui les précèdent. Demeurez quand même sur vos gardes mais ne vous empêchez pas de circuler.
-
-<!--kg-card-end: markdown-->

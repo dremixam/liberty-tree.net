@@ -26,5 +26,3 @@ Pour mieux faire connaître à ses lecteurs l'homme le plus recherché du monde 
 En effet, le Cartel Escuela serait un des seuls avec quelques autres cartel, triades et mafias à être présents dans tous les "domaines" : drogues, proxénétisme, trafic d'armes, assassinats, ect. Le Cartel Escuela était même allé jusqu'à se créer un site internet pour recruter et se faire des nouveaux clients.
 
 Intrapol félicite l'IAA qui a su ramener vivant le trafiquant le plus recherché du monde. Mais le condamner sera pour les enquêteurs très difficile puisque Pablo Escuela posséderait les meilleurs avocats du continent.
-
-<!--kg-card-end: markdown-->

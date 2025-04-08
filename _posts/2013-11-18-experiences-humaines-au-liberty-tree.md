@@ -24,5 +24,3 @@ Balivernes et billevesées donc, puisque ce Mister X n'a jamais fait partie de l
 
 ![Un rapide coup d’œil au classement des journalistes actifs à l'époque le confirme, aucun Mister X n'a jamais signé d'articles au LT.](/content/images/2016/06/samedi%2026%20juillet%2008%20-%20234648_0.jpg)
 _Un rapide coup d’œil au classement des journalistes actifs à l'époque le confirme, aucun Mister X n'a jamais signé d'articles au LT._
-
-<!--kg-card-end: markdown-->

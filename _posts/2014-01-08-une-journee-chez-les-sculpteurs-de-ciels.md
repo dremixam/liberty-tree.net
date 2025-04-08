@@ -78,5 +78,3 @@ Tout ça était vraiment chouette, mais tellement fatigant.
 Je rentre chez moi à la nuit tombée, l'appareil plein, un léger mal de l'air avec vertiges et nausées au programme, mais finalement pas déçu de cette journée.
 
 Si d'aventure vous vous promenez dans Blaine County et que vous entendez le cri d'un vieux diesel à l'agonie, levez les yeux, et peut-être aurez-vous la chance de voir passer un vieux coucou conduit par un énergumène sympathique...
-
-<!--kg-card-end: markdown-->

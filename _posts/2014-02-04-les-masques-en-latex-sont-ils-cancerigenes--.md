@@ -48,5 +48,3 @@ Nous avons recueilli les témoignages de deux autres personnes atteintes par un 
 _Mr Kenstone et Mr Hermann._
 
 Cette étude aura donc révélé au grand jour les dangers dus au fait de rejeter les déchets toxiques dans l'air... Ils contaminent des éléments sans aucun lien, et provoquent des cancers, par exemple... Espérons que des mesures seront prises pour que de tels événements restent très rares !
-
-<!--kg-card-end: markdown-->

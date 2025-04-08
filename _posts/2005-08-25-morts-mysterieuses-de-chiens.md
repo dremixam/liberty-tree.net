@@ -19,5 +19,3 @@ Nous avons donc interrogé le gérant pour connaître l'origine de ces boites: T
 Notre enquête s'est donc poursuivie à Liberty dans l'usine qui avait appartenu il y a deux ans à un certain Marty Chonks, lequel travaillait pour les gangs de la ville, en effet, il aidait ces derniers a se débarrasser des "témoins gênants" en les mélangeants à la nourriture qui était vendue ensuite dans nos magasins.
 
 En arrivant sur place, nous avons constaté que l'usine était toujours cadenassée depuis qu'elle avait été perquisitionnée, nous n'avons donc pas pu trouver d'où proviennent ces boîtes. Nos chiens mangent-ils de la viande humaine avariée depuis deux ans ? La police n'a pas voulu nous en dire plus... En attendant, nous ne pouvons qu'espérer que les résultats de l'enquête soient rendus publics auquel cas nous vous en ferions part immédiatement.
-
-<!--kg-card-end: markdown-->

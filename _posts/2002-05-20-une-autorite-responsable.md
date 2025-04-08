@@ -28,5 +28,3 @@ Le conducteur entra dans le chantier PanLantic, et monta tout en haut de la tour
 Les agents imbibés Smith et Wesson ont été surpris par leurs collègues du FBI à vendre de la Spank, durant la poursuite, et à en consommer un peu en même temps. Six caissons de bière avaient été descendus d'un coup par les policiers (trois chacun).
 
 Sans cette découverte, Vincent, le conducteur, n'aurait jamais été cru par les autorités, lorsqu'il racontait sa version des faits.
-
-<!--kg-card-end: markdown-->
