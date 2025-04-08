@@ -6,6 +6,8 @@ author: misterred
 date: '2012-09-16 22:00:00'
 tags:
 - los-santos
+redirect_from:
+- /les-gangs-de-los-santos-en-guerre
 ---
 
 Los Santos, 15 heures : une émeute éclate entre les gangs. C'est une véritable guerre qui fut déclarée aujourd'hui dans les rues de la ville.
