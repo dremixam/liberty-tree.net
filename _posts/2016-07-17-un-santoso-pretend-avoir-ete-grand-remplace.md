@@ -4,6 +4,7 @@ title: Un Santosin prétend avoir été grand-remplacé
 cover: "/content/images/2016/07/billy2.jpeg"
 author: dremixam
 date: '2016-07-17 02:58:13'
+checked: true
 tags:
 - los-santos
 ---
@@ -59,5 +60,3 @@ _Le Pillbox Hill Medical Center où monsieur N'Gashabo est décédé_
 > **Stuart Piddidiot :** C'est triste ce qui est arrivé à ce monsieur N'Gashabo mais je suis également rassuré, il s'était montré très agressif envers ma femme et moi à plusieurs reprises.
 
 Bref, ces histoires de grand remplacement s'avèrent une fois de plus n'être que des légendes colportées par des individus instables. En définitive, tout est bien qui finit bien.
-
-

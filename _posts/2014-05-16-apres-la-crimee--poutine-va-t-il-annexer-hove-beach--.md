@@ -4,6 +4,7 @@ title: Après la Crimée, Poutine va-t-il annexer Hove Beach ?
 cover: "/content/images/2016/06/map.jpg"
 author: dremixam
 date: '2014-05-16 22:00:00'
+checked: true
 tags:
 - liberty-city
 ---
@@ -27,4 +28,3 @@ Le président soviétique russe, Vladimir Poutine, a bien compris cet état de f
 _Les navires russes stationnés au large de Liberty City attirent les curieux._
 
 Ce déploiement de force au portes même de notre pays inquiète au plus haut point nos autorités locales qui dénoncent une agression inacceptable mais Vladimir Poutine se veut rassurant en garantissant que ses troupes ne sont présentes que pour garantir que l'élection se déroule dans un climat serein et sans que des pressions ne soient exercées sur les électeurs.
-

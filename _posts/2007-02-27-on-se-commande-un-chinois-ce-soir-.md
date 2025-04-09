@@ -46,6 +46,3 @@ La police de Vice City draguait encore aujourd'hui les eaux de la ville en se pr
 
 ![Les gardes-côtes draguant le littoral.](/content/images/2005/01/costguard.jpg)
 _Les gardes-côtes draguant le littoral._
-
-
-<!--kg-card-end: markdown-->

@@ -27,5 +27,3 @@ La tension dans la communauté s'est faite grandissante à la suite de la confé
 En réponse à la manifestation ayant mobilisé 300.000 personnes selon l'organisation et 34 selon la police, l'avocat personnel du Président Trump, Rudy Giuliani, s'est exprimé, provoquant la polémique.
 
 Rudy Giuliani : "Je vais vous confier un secret. On a discuté avec les Iraniens, on leur a dit : "Si vous nous aidez à trouver des sales trucs sur Biden, on vous laisse tranquille." Ils ont refusé, et maintenant ils viennent pleurer."
-
-

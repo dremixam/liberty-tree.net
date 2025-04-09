@@ -4,6 +4,7 @@ title: Les cigarettes sont elles réellement dangereuses pour la santé ?
 cover: "/content/images/2016/06/660x373.jpg"
 author: dremixam
 date: '2013-12-23 23:00:00'
+checked: true
 tags:
 - los-santos
 ---
@@ -29,4 +30,3 @@ Alors la prochaine fois que vous êtes confrontés à un spot publicitaire faisa
 
 ![](/content/images/2021/12/RedwoodCigarettes-GTAIV-Billboard-1.png)
 _Cet article est sponsorisé par Redwood Cigarettes_
-

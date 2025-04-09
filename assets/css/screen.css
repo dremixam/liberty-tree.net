@@ -463,6 +463,21 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     text-transform: uppercase;
 }
 
+.article-disclaimer {
+    background-color: #fff3cd; /* Couleur de fond jaune-orangée */
+    color: #856404; /* Couleur du texte */
+    border: 1px solid #ffeeba; /* Bordure assortie */
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-size: 0.7em;
+    line-height: 1.5;
+}
+
+.article-disclaimer p {
+    margin: 0;
+}
+
 .reading-time {
     font-size: 1.2rem;
     font-weight: 500;

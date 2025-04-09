@@ -15,8 +15,7 @@ into the {body} of the default.hbs template -->
     <div class="inner">
         <nav class="site-nav-center">
             {% if site.logo %}
-            <a class="site-nav-logo" href="/"><img src="/{{ site.logo }}"
-                    alt="{{ site.title }}" /></a>
+            <a class="site-nav-logo" href="/"><img src="/{{ site.logo }}" alt="{{ site.title }}" /></a>
             {% else %}
             <a class="site-nav-logo" href="/">{{ site.title }}</a>
             {% endif %}
@@ -63,6 +62,19 @@ into the {body} of the default.hbs template -->
             {% endif %}
 
             <section class="post-full-content">
+                <!-- Disclaimer -->
+                {% unless page.checked %}
+                <div class="article-disclaimer">
+                    <p>
+                        Cet article a été écrit dans un contexte spécifique et peut refléter des sensibilités ou des
+                        approches qui peuvent ne plus correspondre
+                        à celles de son auteur aujourd'hui. Avec le recul, certaines choses ne seraient plus écrites de
+                        la même manière aujourd'hui. Ces archives
+                        restent néanmoins une trace précieuse d'une époque où créativité et passion guidaient chaque
+                        ligne. Merci de le lire avec recul.
+                    </p>
+                </div>
+                {% endunless %}
                 <div class="kg-card-markdown">
                     {{ content }}
                 </div>
@@ -84,8 +96,7 @@ into the {body} of the default.hbs template -->
                 {% if author[1].username == page.author %}
                 <section class="author-card">
                     {% if author[1].picture %}
-                    <img class="author-profile-image" src="/{{ author[1].picture }}"
-                        alt="{{ page.author }}" />
+                    <img class="author-profile-image" src="/{{ author[1].picture }}" alt="{{ page.author }}" />
                     {% endif %}
                     <section class="author-card-content">
                         <h4 class="author-card-name"><a href="/author/{{ page.author }}">{{
@@ -147,14 +158,13 @@ into the {body} of the default.hbs template -->
             {% endif %}
             {% endfor %}
             {% if related_posts > 1 %}
-            <article class="read-next-card" {% if site.cover %}
-                style="background-image: url(/{{ site.cover }})" {% else %} {% if page.cover %}
-                style="background-image: url(url(/{{ page.cover }})" {% endif %} {% endif %}>
+            <article class="read-next-card" {% if site.cover %} style="background-image: url(/{{ site.cover }})" {% else
+                %} {% if page.cover %} style="background-image: url(url(/{{ page.cover }})" {% endif %} {% endif %}>
                 <header class="read-next-card-header">
                     <small class="read-next-card-header-sitetitle">&mdash; {{ site.title }} &mdash;</small>
                     {% if primary %}
-                    <h3 class="read-next-card-header-title"><a href="/tag/{{ primary | slugify: "
-                            latin" }}/">{{ primary | capitalize }}</a></h3>
+                    <h3 class="read-next-card-header-title"><a href="/tag/{{ primary | slugify: " latin" }}/">{{ primary
+                            | capitalize }}</a></h3>
                     {% endif %}
                 </header>
                 <div class="read-next-divider">{% include infinity.html %}</div>

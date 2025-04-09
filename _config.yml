@@ -22,8 +22,8 @@ navigation: True # show the navbar links
 subscribers: False # you need to connect an external service for this to work,
 
 # Disqus
-disqus: False
-disqus_shortname: jekyllt # replace with your disqus username
+disqus: True
+disqus_shortname: libertytree # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-69281367-1 # replace with your GA tracking identifier

@@ -34,6 +34,3 @@ Ce sont sur ces belles paroles que notre interview avec Simon se termine. Nous l
 
 ![Malheureusement, Simon n'est pas le seul S.D.F à San Andreas...](/content/images/2005/01/sdf2_0.jpg)
 _Malheureusement, Simon n'est pas le seul S.D.F à San Andreas..._
-
-
-<!--kg-card-end: markdown-->

@@ -3,6 +3,7 @@ layout: article
 title: 'Enquête : La mort d''Amy Winehouse élucidée'
 author: dremixam
 date: '2011-07-29 22:43:00'
+checked: true
 tags:
 - liberty-city
 ---
@@ -26,5 +27,3 @@ C'est donc ce matin au lever du soleil que la police frappe à la porte de B. Ac
 Vu le côté exceptionnel de l'affaire, un procès a pris place dans l'après midi. Le jeune criminel était en effet surveillé par la police depuis qu'il avait téléchargé deux albums de Michael Jackson quelques jours seulement avant sa mort. Faute de preuves et de loi permettant de l'inculper à l'époque, il n'avait pas été inquiété mais était depuis ce jour sous surveillance.
 
 Aujourd'hui, et grâce à la merveilleuse loi votée l'an dernier par le congrès, le tribunal a pu prononcer une sentence exemplaire —mais amplement méritée— de sept cent vingt-quatre années de prison accompagnées de dommages et intérêts atteignant un montant total de quatre-vingt-seize millions de dollars répartis entre les majors de l'industrie audiovisuelle.
-
-

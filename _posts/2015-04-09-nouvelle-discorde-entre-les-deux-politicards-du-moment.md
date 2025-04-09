@@ -18,7 +18,6 @@ Rappelons que Sue Murry est issue d’une famille modeste de Vespucci Beach, et 
 ![Jock Cranley et son opposante Sue Murry.](/content/images/2016/06/Sue_Murry_1.png)
 _Jock Cranley et son opposante Sue Murry._
 
-
 > **Franck, motard :** Sue Murry s’est prostituée ? Bon Dieu ce que je regrette de pas l’avoir sautée maintenant !
 
 > **Alice, serveuse :** Ce Cranley est un gros porc qui ne respecte pas les femmes de toute façon. Ça ne m’empêchera pas de voter pour elle quand même...
@@ -26,6 +25,3 @@ _Jock Cranley et son opposante Sue Murry._
 ![](/content/images/2016/06/E1a5piUfyEGD6SITud-kRw_0_0_0.jpg)
 ![Franck et Alice, citoyens.](/content/images/2016/06/V6Tn9Zlk6UuOX5nTuYaF4w_0_0_0.jpg)
 _Franck et Alice, citoyens._
-
-
-<!--kg-card-end: markdown-->

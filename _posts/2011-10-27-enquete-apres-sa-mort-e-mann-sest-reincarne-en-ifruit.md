@@ -26,5 +26,3 @@ Une fois l'interview terminée, l'iFruit mal reposé sur la table basse du salon
 _Le malheureux iFruit cassé_
 
 Depuis cet événement, de très nombreuses personnes ont prétendu posséder un appareil de marque Fruit dans lequel Jobs se serait réincarné. La véracité de toutes ces affirmation est très difficile à vérifier, il est donc très peu probable que l'on trouve dans quel nouvel appareil révolutionnaire l'iFruit de Claude M. s'est réincarné après cette mort tragique.
-
-
