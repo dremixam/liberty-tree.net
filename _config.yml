@@ -31,9 +31,16 @@ google_analytics: UA-69281367-1 # replace with your GA tracking identifier
 # Permalinks
 permalink: /:year/:month/:day/:title/
 
+# Sitemap
+url: https://liberty-tree.net
+
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed, jekyll-redirect-from]
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-sitemap
 
 feed:
   path: feed.xml
