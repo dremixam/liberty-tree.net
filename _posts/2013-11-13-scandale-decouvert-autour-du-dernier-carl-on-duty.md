@@ -4,7 +4,7 @@ title: Scandale découvert autour du dernier Carl On Duty
 cover: "/content/images/2016/06/carl-on-duty-black-ghosts.png"
 authors:
   - passe-partout
-date: '2013-11-13 00:00:00''
+date: '2013-11-13 00:00:00'
 tags:
 - los-santos
 redirect_from:

@@ -4,7 +4,7 @@ title: Drive'n'Crash
 cover: "/content/images/2016/06/Crash1.jpg"
 authors:
   - little-worm
-date: '2005-08-24 00:00:00''
+date: '2005-08-24 00:00:00'
 tags:
 - vice-city
 redirect_from:

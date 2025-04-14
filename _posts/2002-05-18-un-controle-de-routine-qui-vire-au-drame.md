@@ -3,7 +3,7 @@ layout: article
 title: Un contrôle de routine qui vire au drame
 authors:
   - fanofrpg
-date: '2002-05-18 00:00:00''
+date: '2002-05-18 00:00:00'
 tags:
 - liberty-city
 redirect_from:

@@ -3,7 +3,7 @@ layout: article
 title: Nouvel assassinat à Portland
 authors:
   - fxbt
-date: '2002-11-15 00:00:00''
+date: '2002-11-15 00:00:00'
 tags:
 - liberty-city
 redirect_from:

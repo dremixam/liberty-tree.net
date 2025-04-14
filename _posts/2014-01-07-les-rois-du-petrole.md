@@ -4,7 +4,7 @@ title: Les rois du pétrole
 cover: "/content/images/2016/06/0_0_83.jpg"
 authors:
   - ezoah
-date: '2014-01-07 00:00:00''
+date: '2014-01-07 00:00:00'
 tags:
 - los-santos
 redirect_from:

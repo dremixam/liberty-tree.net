@@ -4,7 +4,7 @@ title: 'Carnet de voyage : Liberty City'
 cover: "/content/images/2016/06/luigi2.jpg"
 authors:
   - p130
-date: '2006-01-13 00:00:00''
+date: '2006-01-13 00:00:00'
 tags:
 - liberty-city
 redirect_from:

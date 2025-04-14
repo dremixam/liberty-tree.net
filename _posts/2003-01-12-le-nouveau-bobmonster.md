@@ -4,7 +4,7 @@ title: Le nouveau BobMonster
 cover: "/content/images/v1/user26/bobmonster.jpg"
 authors:
   - dremixam
-date: '2003-01-12 00:00:00''
+date: '2003-01-12 00:00:00'
 tags:
 - liberty-city
 redirect_from:

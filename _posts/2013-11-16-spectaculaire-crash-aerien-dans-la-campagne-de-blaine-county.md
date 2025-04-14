@@ -4,7 +4,7 @@ title: Spectaculaire crash aérien dans la campagne de Blaine County
 cover: "/content/images/2016/06/20131112_171223%20%28Medium%29_0.jpg"
 authors:
   - nelson
-date: '2013-11-16 00:00:00''
+date: '2013-11-16 00:00:00'
 tags:
 - los-santos
 redirect_from:

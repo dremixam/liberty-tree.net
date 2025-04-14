@@ -4,7 +4,7 @@ title: Mystères et boules vertes au parking de Staunton
 cover: "/content/images/2016/06/Stallion2_0.jpg"
 authors:
   - baz
-date: '2002-06-18 00:00:00''
+date: '2002-06-18 00:00:00'
 tags:
 - liberty-city
 redirect_from:

@@ -4,7 +4,7 @@ title: Le maire R.C. Hole recommence à faire des siennes !
 cover: "/content/images/2016/06/maire_R_C_Hole_1.jpg"
 authors:
   - arno
-date: '2006-03-25 00:00:00''
+date: '2006-03-25 00:00:00'
 tags:
 - liberty-city
 redirect_from:

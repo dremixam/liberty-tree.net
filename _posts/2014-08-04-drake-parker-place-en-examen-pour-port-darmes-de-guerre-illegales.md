@@ -4,7 +4,7 @@ title: Drake Parker placé en examen pour port d'armes de guerre illégales
 cover: "/content/images/2016/06/0_0%20%284%29_13.jpg"
 authors:
   - aymar
-date: '2014-08-04 00:00:00''
+date: '2014-08-04 00:00:00'
 tags:
 - los-santos
 redirect_from:

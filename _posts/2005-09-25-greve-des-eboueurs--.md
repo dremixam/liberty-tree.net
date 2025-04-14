@@ -4,7 +4,7 @@ title: Grève des éboueurs !
 cover: "/content/images/2016/06/sanitari.jpg"
 authors:
   - p130
-date: '2005-09-25 00:00:00''
+date: '2005-09-25 00:00:00'
 tags:
 - los-santos
 redirect_from:

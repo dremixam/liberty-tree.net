@@ -4,7 +4,7 @@ title: V-Rock en procès
 cover: "/content/images/2016/06/vrock.jpg"
 authors:
   - diabolik-c
-date: '2006-01-22 00:00:00''
+date: '2006-01-22 00:00:00'
 tags:
 - vice-city
 redirect_from:

@@ -4,7 +4,7 @@ title: Après la Crimée, Poutine va-t-il annexer Hove Beach ?
 cover: "/content/images/2016/06/map.jpg"
 authors:
   - dremixam
-date: '2014-05-17 00:00:00''
+date: '2014-05-17 00:00:00'
 checked: true
 tags:
 - liberty-city

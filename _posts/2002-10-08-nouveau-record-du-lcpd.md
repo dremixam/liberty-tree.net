@@ -3,7 +3,7 @@ layout: article
 title: Nouveau record du LCPD
 authors:
   - fxbt
-date: '2002-10-08 00:00:00''
+date: '2002-10-08 00:00:00'
 tags:
 - liberty-city
 redirect_from:

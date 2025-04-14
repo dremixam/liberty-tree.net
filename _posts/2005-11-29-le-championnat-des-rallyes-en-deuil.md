@@ -4,7 +4,7 @@ title: Le championnat des rallyes en deuil
 cover: "/content/images/2016/06/rip5.jpg"
 authors:
   - civic666
-date: '2005-11-29 00:00:00''
+date: '2005-11-29 00:00:00'
 tags:
 - vice-city
 redirect_from:

@@ -4,7 +4,7 @@ title: Exposition annuelle d'art contemporain
 cover: "/content/images/v1/user26/artist2.jpg"
 authors:
   - dremixam
-date: '2003-01-27 00:00:00''
+date: '2003-01-27 00:00:00'
 tags:
 - liberty-city
 redirect_from:

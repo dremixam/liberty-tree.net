@@ -4,7 +4,7 @@ title: Les crimes rebondissent à cause du mystérieux "facemaker"
 cover: "/content/images/2016/06/facemaker.jpg"
 authors:
   - max-2
-date: '2002-07-01 00:00:00''
+date: '2002-07-01 00:00:00'
 tags:
 - liberty-city
 redirect_from:

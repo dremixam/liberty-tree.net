@@ -3,7 +3,7 @@ layout: article
 title: La mairie en panne d'argent
 authors:
   - titof-abs
-date: '2003-01-25 00:00:00''
+date: '2003-01-25 00:00:00'
 tags:
 - liberty-city
 redirect_from:

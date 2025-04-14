@@ -4,7 +4,7 @@ title: Les Rues de San Fierro
 cover: "/content/images/2016/06/streetsofsf.jpg"
 authors:
   - dremixam
-date: '2005-08-30 00:00:00''
+date: '2005-08-30 00:00:00'
 tags:
 - san-fierro
 redirect_from:

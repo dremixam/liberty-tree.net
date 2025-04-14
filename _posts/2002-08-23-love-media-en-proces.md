@@ -4,7 +4,7 @@ title: Love Media en procès
 cover: "/content/images/v1/user10/LoveMedia.jpg"
 authors:
   - pierrealex
-date: '2002-08-23 00:00:00''
+date: '2002-08-23 00:00:00'
 tags:
 - liberty-city
 redirect_from:

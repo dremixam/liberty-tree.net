@@ -4,7 +4,7 @@ title: Panique à la Panlantic
 cover: "/content/images/2016/06/panlantic.jpg"
 authors:
   - baz
-date: '2002-05-10 00:00:00''
+date: '2002-05-10 00:00:00'
 tags:
 - liberty-city
 redirect_from:

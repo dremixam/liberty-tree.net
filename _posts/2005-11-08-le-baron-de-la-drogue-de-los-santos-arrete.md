@@ -4,7 +4,7 @@ title: Le baron de la drogue de Los Santos arrêté
 cover: "/content/images/2016/06/drogue4.jpg"
 authors:
   - civic666
-date: '2005-11-08 00:00:00''
+date: '2005-11-08 00:00:00'
 tags:
 - los-santos
 redirect_from:

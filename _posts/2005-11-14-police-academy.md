@@ -4,7 +4,7 @@ title: Police Academy
 cover: "/content/images/2016/06/flik1.jpg"
 authors:
   - little-worm
-date: '2005-11-14 00:00:00''
+date: '2005-11-14 00:00:00'
 tags:
 - los-santos
 redirect_from:

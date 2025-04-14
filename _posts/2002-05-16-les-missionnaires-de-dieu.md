@@ -3,7 +3,7 @@ layout: article
 title: Les Missionnaires de Dieu
 authors:
   - little-worm
-date: '2002-05-16 00:00:00''
+date: '2002-05-16 00:00:00'
 tags:
 - liberty-city
 redirect_from:

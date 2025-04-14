@@ -4,7 +4,7 @@ title: NASCAR - Course de San Andreas
 cover: "/content/images/2016/06/gallery15.jpg"
 authors:
   - dydou
-date: '2007-08-16 00:00:00''
+date: '2007-08-16 00:00:00'
 tags:
 - los-santos
 - san-fierro

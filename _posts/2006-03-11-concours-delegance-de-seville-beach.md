@@ -4,7 +4,7 @@ title: Concours d’élégance de Seville Beach
 cover: "/content/images/2016/06/Concours.jpg"
 authors:
   - fido_le_muet
-date: '2006-03-11 00:00:00''
+date: '2006-03-11 00:00:00'
 tags:
 - los-santos
 redirect_from:

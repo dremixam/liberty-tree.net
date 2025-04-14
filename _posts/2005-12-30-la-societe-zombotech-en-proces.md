@@ -4,7 +4,7 @@ title: La société Zombotech en procès
 cover: "/content/images/2016/06/Zombotech.jpg"
 authors:
   - bart_man
-date: '2005-12-30 00:00:00''
+date: '2005-12-30 00:00:00'
 tags:
 - vice-city
 redirect_from:

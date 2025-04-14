@@ -4,7 +4,7 @@ title: Weazel News bat des records d'audience
 cover: "/content/images/2016/06/Weazel_News.png"
 authors:
   - vitanique
-date: '2014-11-28 00:00:00''
+date: '2014-11-28 00:00:00'
 tags:
 - los-santos
 redirect_from:

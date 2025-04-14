@@ -4,7 +4,7 @@ title: 24 heures de la vie de... Donald Love
 cover: "/content/images/2016/06/donald%20love.jpg"
 authors:
   - waxtabo
-date: '2005-11-04 00:00:00''
+date: '2005-11-04 00:00:00'
 tags:
 - liberty-city
 redirect_from:

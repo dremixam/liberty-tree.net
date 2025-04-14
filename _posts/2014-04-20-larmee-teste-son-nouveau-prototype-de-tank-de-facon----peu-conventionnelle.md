@@ -4,7 +4,7 @@ title: L'armée teste son nouveau prototype de tank de façon... peu conventionn
 cover: "/content/images/2016/06/22_4.jpg"
 authors:
   - nevod
-date: '2014-04-20 00:00:00''
+date: '2014-04-20 00:00:00'
 tags:
 - los-santos
 redirect_from:

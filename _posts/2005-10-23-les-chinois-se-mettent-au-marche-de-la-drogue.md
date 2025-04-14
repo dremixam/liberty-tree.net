@@ -4,7 +4,7 @@ title: Les chinois se mettent au marché de la drogue
 cover: "/content/images/2016/06/china5.jpg"
 authors:
   - civic666
-date: '2005-10-23 00:00:00''
+date: '2005-10-23 00:00:00'
 tags:
 - vice-city
 redirect_from:

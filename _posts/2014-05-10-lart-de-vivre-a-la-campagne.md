@@ -4,7 +4,7 @@ title: L'art de vivre à la campagne
 cover: "/content/images/2016/06/0_0_191.jpg"
 authors:
   - ezoah
-date: '2014-05-10 00:00:00''
+date: '2014-05-10 00:00:00'
 tags:
 - los-santos
 redirect_from:

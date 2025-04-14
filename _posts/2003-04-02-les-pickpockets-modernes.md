@@ -3,7 +3,7 @@ layout: article
 title: Les pickpockets modernes
 authors:
   - max-2
-date: '2003-04-02 00:00:00''
+date: '2003-04-02 00:00:00'
 tags:
 - liberty-city
 redirect_from:

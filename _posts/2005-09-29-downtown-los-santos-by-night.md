@@ -4,7 +4,7 @@ title: Downtown Los Santos by night
 cover: "/content/images/2016/06/downtown_02_0.jpg"
 authors:
   - liberleo
-date: '2005-09-29 00:00:00''
+date: '2005-09-29 00:00:00'
 tags:
 - los-santos
 redirect_from:

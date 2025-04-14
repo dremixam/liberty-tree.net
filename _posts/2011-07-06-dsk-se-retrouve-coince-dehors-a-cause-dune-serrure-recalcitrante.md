@@ -4,7 +4,7 @@ title: DSK se retrouve coincé dehors à cause d'une serrure récalcitrante
 cover: "/content/images/2016/06/6d07bc9bae6214e9649a904c617988a9.jpeg"
 authors:
   - dremixam
-date: '2011-07-06 00:00:00''
+date: '2011-07-06 00:00:00'
 tags:
 - liberty-city
 redirect_from:

@@ -3,7 +3,7 @@ layout: article
 title: "''Space ice-cream''"
 authors:
   - pierrealex
-date: '2002-08-22 00:00:00''
+date: '2002-08-22 00:00:00'
 tags:
 - liberty-city
 redirect_from:

@@ -4,7 +4,7 @@ title: Un homme froidement assassiné pour sa voiture
 cover: "/content/images/2016/06/0_0_159.jpg"
 authors:
   - ezoah
-date: '2014-02-06 00:00:00''
+date: '2014-02-06 00:00:00'
 tags:
 - los-santos
 redirect_from:

@@ -4,7 +4,7 @@ title: Un sacré bouchon
 cover: "/content/images/2016/06/embouteillage.jpg"
 authors:
   - jil-90
-date: '2005-11-02 00:00:00''
+date: '2005-11-02 00:00:00'
 tags:
 - vice-city
 redirect_from:

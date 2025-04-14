@@ -4,7 +4,7 @@ title: '"Faites l''amour pas la guerre"'
 cover: "/content/images/2016/06/sexshop_1.jpg"
 authors:
   - liberleo
-date: '2005-09-22 00:00:00''
+date: '2005-09-22 00:00:00'
 tags:
 - san-fierro
 redirect_from:

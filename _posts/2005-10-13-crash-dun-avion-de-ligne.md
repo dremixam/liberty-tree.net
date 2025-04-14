@@ -4,7 +4,7 @@ title: Crash d'un avion de ligne
 cover: "/content/images/2016/06/AT-400%20en%20vol.jpg"
 authors:
   - xtrmboss
-date: '2005-10-13 00:00:00''
+date: '2005-10-13 00:00:00'
 tags:
 - san-fierro
 redirect_from:

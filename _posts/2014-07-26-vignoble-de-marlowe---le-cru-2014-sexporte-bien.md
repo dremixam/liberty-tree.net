@@ -4,7 +4,7 @@ title: 'Vignoble de Marlowe : le cru 2014 s''exporte bien'
 cover: "/content/images/2016/06/art%20vigne3%2021%2007%2014.jpg"
 authors:
   - titi
-date: '2014-07-26 00:00:00''
+date: '2014-07-26 00:00:00'
 tags:
 - los-santos
 redirect_from:

@@ -3,7 +3,7 @@ layout: article
 title: Un fort vent bloque des avions
 authors:
   - max-2
-date: '2002-12-18 00:00:00''
+date: '2002-12-18 00:00:00'
 tags:
 - liberty-city
 redirect_from:

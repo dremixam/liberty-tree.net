@@ -4,7 +4,7 @@ title: Interview de deux lesbiennes à San Fierro
 cover: "/content/images/2016/06/lsb.jpg"
 authors:
   - noobsanarckist
-date: '2005-12-07 00:00:00''
+date: '2005-12-07 00:00:00'
 tags:
 - san-fierro
 redirect_from:

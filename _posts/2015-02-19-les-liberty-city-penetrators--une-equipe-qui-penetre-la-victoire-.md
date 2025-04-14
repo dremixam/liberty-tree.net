@@ -4,7 +4,7 @@ title: Les Liberty City Penetrators, une équipe qui pénètre la victoire
 cover: "/content/images/2016/06/lc.jpg"
 authors:
   - aymar
-date: '2015-02-19 00:00:00''
+date: '2015-02-19 00:00:00'
 tags:
 - liberty-city
 redirect_from:

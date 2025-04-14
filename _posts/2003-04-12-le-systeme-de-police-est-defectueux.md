@@ -4,7 +4,7 @@ title: Le système de police est "défectueux"
 cover: "/content/images/2016/06/default.jpg"
 authors:
   - max-2
-date: '2003-04-12 00:00:00''
+date: '2003-04-12 00:00:00'
 tags:
 - liberty-city
 redirect_from:

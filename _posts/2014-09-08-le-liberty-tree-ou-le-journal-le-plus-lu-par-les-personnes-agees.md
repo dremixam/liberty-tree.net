@@ -4,7 +4,7 @@ title: Le Liberty Tree ou le journal le plus lu par les personnes âgées
 cover: "/content/images/2016/06/0_0_249.jpg"
 authors:
   - ezoah
-date: '2014-09-08 00:00:00''
+date: '2014-09-08 00:00:00'
 tags:
 - los-santos
 redirect_from:

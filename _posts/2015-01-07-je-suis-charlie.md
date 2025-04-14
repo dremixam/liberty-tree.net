@@ -4,7 +4,7 @@ title: Je suis Charlie
 cover: "/content/images/2016/06/JeSuisCharlie.jpg"
 authors:
   - dremixam
-date: '2015-01-07 00:00:00''
+date: '2015-01-07 00:00:00'
 redirect_from:
 - /2015/01/06/je-suis-charlie
 ---

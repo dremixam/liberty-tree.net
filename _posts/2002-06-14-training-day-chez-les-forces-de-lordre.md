@@ -4,7 +4,7 @@ title: Training day chez les forces de l'ordre
 cover: "/content/images/2016/06/police7_0.jpg"
 authors:
   - baz
-date: '2002-06-14 00:00:00''
+date: '2002-06-14 00:00:00'
 tags:
 - liberty-city
 redirect_from:

@@ -4,7 +4,7 @@ title: Bungee jumping
 cover: "/content/images/2016/06/saut.jpg"
 authors:
   - max-2
-date: '2002-07-31 00:00:00''
+date: '2002-07-31 00:00:00'
 tags:
 - liberty-city
 redirect_from:

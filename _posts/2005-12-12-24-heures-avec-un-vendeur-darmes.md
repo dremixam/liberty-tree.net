@@ -4,7 +4,7 @@ title: 24 heures avec un vendeur d'armes
 cover: "/content/images/2016/06/amunation.jpg"
 authors:
   - p130
-date: '2005-12-12 00:00:00''
+date: '2005-12-12 00:00:00'
 tags:
 - los-santos
 redirect_from:

@@ -3,7 +3,7 @@ layout: article
 title: Notre rédacteur en chef menacé
 authors:
   - baz
-date: '2002-09-22 00:00:00''
+date: '2002-09-22 00:00:00'
 tags:
 - liberty-city
 redirect_from:

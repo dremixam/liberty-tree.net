@@ -4,7 +4,7 @@ title: Mystérieux accidents d'avions
 cover: "/content/images/2016/06/nevadaok1.jpg"
 authors:
   - salvatore
-date: '2005-09-23 00:00:00''
+date: '2005-09-23 00:00:00'
 tags:
 - san-fierro
 redirect_from:

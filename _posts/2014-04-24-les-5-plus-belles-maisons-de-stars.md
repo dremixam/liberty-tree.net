@@ -4,7 +4,7 @@ title: Les 5 plus belles maisons de stars
 cover: "/content/images/2016/06/0_0%20%285%29_9.jpg"
 authors:
   - aymar
-date: '2014-04-24 00:00:00''
+date: '2014-04-24 00:00:00'
 tags:
 - los-santos
 redirect_from:

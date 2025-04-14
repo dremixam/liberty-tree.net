@@ -3,7 +3,7 @@ layout: article
 title: Le Pape lance un appel à la paix
 authors:
   - max-2
-date: '2002-10-20 00:00:00''
+date: '2002-10-20 00:00:00'
 tags:
 - liberty-city
 redirect_from:

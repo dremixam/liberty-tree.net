@@ -4,7 +4,7 @@ title: 'Carnet de Voyage : Vice City'
 cover: "/content/images/2016/06/cartepostale.jpg"
 authors:
   - p130
-date: '2006-02-02 00:00:00''
+date: '2006-02-02 00:00:00'
 tags:
 - vice-city
 redirect_from:

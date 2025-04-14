@@ -4,7 +4,7 @@ title: La fin du gang des "mains d'or"
 cover: "/content/images/2016/06/pad3_0.jpg"
 authors:
   - nelson
-date: '2006-10-13 00:00:00''
+date: '2006-10-13 00:00:00'
 tags:
 - los-santos
 redirect_from:

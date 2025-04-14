@@ -4,7 +4,7 @@ title: L'affaire de l'attaque résolue
 cover: "/content/images/2016/06/camion.jpg"
 authors:
   - logan
-date: '2005-10-30 00:00:00''
+date: '2005-10-30 00:00:00'
 tags:
 - vice-city
 redirect_from:

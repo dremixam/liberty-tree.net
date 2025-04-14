@@ -5,7 +5,7 @@ title: Inauguration du Monument Andrew Sherman, 70 ans après la pose de la prem
 cover: "/content/images/2016/06/Sherman_5.jpg"
 authors:
   - thomas
-date: '2005-12-10 00:00:00''
+date: '2005-12-10 00:00:00'
 tags:
 - vice-city
 redirect_from:

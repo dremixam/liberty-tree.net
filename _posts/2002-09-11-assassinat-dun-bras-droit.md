@@ -3,7 +3,7 @@ layout: article
 title: Assassinat d'un bras droit
 authors:
   - max-2
-date: '2002-09-11 00:00:00''
+date: '2002-09-11 00:00:00'
 tags:
 - liberty-city
 redirect_from:

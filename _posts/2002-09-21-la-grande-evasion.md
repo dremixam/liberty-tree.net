@@ -3,7 +3,7 @@ layout: article
 title: La Grande Evasion
 authors:
   - pavlov
-date: '2002-09-21 00:00:00''
+date: '2002-09-21 00:00:00'
 tags:
 - liberty-city
 redirect_from:

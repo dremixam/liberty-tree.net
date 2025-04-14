@@ -4,7 +4,7 @@ title: Retour gagnant ?
 cover: "/content/images/2016/06/OG_Loc.jpg"
 authors:
   - bart_man
-date: '2006-01-08 00:00:00''
+date: '2006-01-08 00:00:00'
 tags:
 - los-santos
 redirect_from:

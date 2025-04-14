@@ -4,7 +4,7 @@ title: Un forcené menace de détruire le panneau Vinewood
 cover: "/content/images/2016/06/Vinewood_Sign_0.jpg"
 authors:
   - offic3r-3dwards
-date: '2012-11-15 00:00:00''
+date: '2012-11-15 00:00:00'
 tags:
 - los-santos
 redirect_from:

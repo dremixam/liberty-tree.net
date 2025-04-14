@@ -4,7 +4,7 @@ title: Scandale à la mairie !
 cover: "/content/images/2016/06/MaireLC6_0.jpg"
 authors:
   - bart_man
-date: '2006-02-23 00:00:00''
+date: '2006-02-23 00:00:00'
 tags:
 - liberty-city
 redirect_from:

@@ -4,7 +4,7 @@ title: Body Harvest
 cover: "/content/images/2016/06/harvest.jpg"
 authors:
   - p130
-date: '2005-09-12 00:00:00''
+date: '2005-09-12 00:00:00'
 tags:
 - las-venturas
 redirect_from:

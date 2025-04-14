@@ -4,7 +4,7 @@ title: Ânerie abracadabrante
 cover: "/content/images/v1/user20/tetedemort.jpg"
 authors:
   - max-2
-date: '2003-02-28 00:00:00''
+date: '2003-02-28 00:00:00'
 tags:
 - liberty-city
 redirect_from:

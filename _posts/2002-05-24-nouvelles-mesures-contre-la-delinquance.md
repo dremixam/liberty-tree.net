@@ -3,7 +3,7 @@ layout: article
 title: Nouvelles mesures contre la délinquance
 authors:
   - little-worm
-date: '2002-05-24 00:00:00''
+date: '2002-05-24 00:00:00'
 tags:
 - liberty-city
 redirect_from:

@@ -4,7 +4,7 @@ title: Un cycliste fou sème un vent de panique
 cover: "/content/images/2016/06/Crazy_BMX.jpg"
 authors:
   - special-k
-date: '2006-03-23 00:00:00''
+date: '2006-03-23 00:00:00'
 tags:
 - san-fierro
 redirect_from:

@@ -4,7 +4,7 @@ title: La côte ouest de plus en plus attrayante
 cover: "/content/images/2016/06/11.jpg"
 authors:
   - dremixam
-date: '2012-08-29 00:00:00''
+date: '2012-08-29 00:00:00'
 tags:
 - los-santos
 - vice-city

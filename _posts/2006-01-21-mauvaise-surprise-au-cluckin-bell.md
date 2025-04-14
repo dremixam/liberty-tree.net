@@ -4,7 +4,7 @@ title: Mauvaise surprise au Cluckin' Bell
 cover: "/content/images/2016/06/Cluckin_Bell.jpg"
 authors:
   - fido_le_muet
-date: '2006-01-21 00:00:00''
+date: '2006-01-21 00:00:00'
 tags:
 - san-fierro
 redirect_from:

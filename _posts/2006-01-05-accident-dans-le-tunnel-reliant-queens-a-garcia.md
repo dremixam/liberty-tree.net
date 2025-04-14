@@ -4,7 +4,7 @@ title: Accident dans le tunnel reliant Queens à Garcia
 cover: "/content/images/2016/06/acctunl_0.jpg"
 authors:
   - noobsanarckist
-date: '2006-01-05 00:00:00''
+date: '2006-01-05 00:00:00'
 tags:
 - las-venturas
 redirect_from:

@@ -4,7 +4,7 @@ title: Arrestation d'un délinquant
 cover: "/content/images/2016/06/doigt_0.jpg"
 authors:
   - baz
-date: '2002-06-11 00:00:00''
+date: '2002-06-11 00:00:00'
 tags:
 - liberty-city
 redirect_from:

@@ -3,7 +3,7 @@ layout: article
 title: Mafia, histoire d'une mort
 authors:
   - flo
-date: '2002-12-28 00:00:00''
+date: '2002-12-28 00:00:00'
 tags:
 - liberty-city
 redirect_from:

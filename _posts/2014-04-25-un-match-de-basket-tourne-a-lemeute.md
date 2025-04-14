@@ -4,7 +4,7 @@ title: Un match de basket tourne à l'émeute
 cover: "/content/images/2016/06/Basket.jpg"
 authors:
   - dydou
-date: '2014-04-25 00:00:00''
+date: '2014-04-25 00:00:00'
 tags:
 - los-santos
 redirect_from:

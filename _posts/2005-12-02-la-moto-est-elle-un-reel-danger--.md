@@ -4,7 +4,7 @@ title: La moto est-elle un réel danger ?
 cover: "/content/images/2016/06/motocq3.jpg"
 authors:
   - noobsanarckist
-date: '2005-12-02 00:00:00''
+date: '2005-12-02 00:00:00'
 tags:
 - vice-city
 redirect_from:

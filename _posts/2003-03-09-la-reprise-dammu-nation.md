@@ -4,7 +4,7 @@ title: La reprise d'Ammu-Nation
 cover: "/content/images/v1/user20/a-m.jpg"
 authors:
   - max-2
-date: '2003-03-09 00:00:00''
+date: '2003-03-09 00:00:00'
 tags:
 - liberty-city
 redirect_from:

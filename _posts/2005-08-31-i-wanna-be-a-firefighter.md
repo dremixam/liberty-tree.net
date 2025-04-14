@@ -4,7 +4,7 @@ title: I wanna be a firefighter
 cover: "/content/images/2016/06/Pinpon01.jpg"
 authors:
   - little-worm
-date: '2005-08-31 00:00:00''
+date: '2005-08-31 00:00:00'
 tags:
 - san-fierro
 redirect_from:

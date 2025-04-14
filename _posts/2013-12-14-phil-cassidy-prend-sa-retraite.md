@@ -3,7 +3,7 @@ layout: article
 title: Phil Cassidy prend sa retraite
 authors:
   - ezoah
-date: '2013-12-14 00:00:00''
+date: '2013-12-14 00:00:00'
 tags:
 - vice-city
 redirect_from:

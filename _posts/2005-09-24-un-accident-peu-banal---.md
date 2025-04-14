@@ -4,7 +4,7 @@ title: Un accident peu banal…
 cover: "/content/images/2016/06/mechant_accident.jpg"
 authors:
   - animal-tnt
-date: '2005-09-24 00:00:00''
+date: '2005-09-24 00:00:00'
 tags:
 - los-santos
 redirect_from:

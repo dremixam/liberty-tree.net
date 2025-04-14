@@ -4,7 +4,7 @@ title: Carambolages en série
 cover: "/content/images/2016/06/0_0%20%288%29_1.jpg"
 authors:
   - nelson
-date: '2013-12-26 00:00:00''
+date: '2013-12-26 00:00:00'
 tags:
 - los-santos
 redirect_from:

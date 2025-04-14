@@ -4,7 +4,7 @@ title: Darkel joue au petit poucet pour assurer sa succession
 cover: "/content/images/2016/06/darkel.jpg"
 authors:
   - baz
-date: '2002-05-31 00:00:00''
+date: '2002-05-31 00:00:00'
 tags:
 - liberty-city
 redirect_from:

@@ -4,7 +4,7 @@ title: Élections du nouveau maire de Vice City
 cover: "/content/images/2016/06/bu.jpg"
 authors:
   - chaos-red
-date: '2006-02-11 00:00:00''
+date: '2006-02-11 00:00:00'
 tags:
 - vice-city
 redirect_from:

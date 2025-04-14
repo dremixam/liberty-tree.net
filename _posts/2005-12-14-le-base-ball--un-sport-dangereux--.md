@@ -4,7 +4,7 @@ title: Le Base-ball, un sport dangereux ?
 cover: "/content/images/2016/06/joueurmort.jpg"
 authors:
   - filzonfire
-date: '2005-12-14 00:00:00''
+date: '2005-12-14 00:00:00'
 tags:
 - los-santos
 - las-venturas

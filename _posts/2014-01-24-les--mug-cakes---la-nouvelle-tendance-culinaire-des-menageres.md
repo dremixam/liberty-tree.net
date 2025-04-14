@@ -4,7 +4,7 @@ title: Les "mug cakes", la nouvelle tendance culinaire des ménagères
 cover: "/content/images/2016/06/0_0_101.jpg"
 authors:
   - ezoah
-date: '2014-01-24 00:00:00''
+date: '2014-01-24 00:00:00'
 tags:
 - los-santos
 redirect_from:

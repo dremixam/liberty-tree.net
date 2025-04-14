@@ -4,7 +4,7 @@ title: Une nouvelle victime du sniper décapiteur
 cover: "/content/images/2016/06/staunton_b_1.jpg"
 authors:
   - fxbt
-date: '2002-11-21 00:00:00''
+date: '2002-11-21 00:00:00'
 tags:
 - liberty-city
 redirect_from:

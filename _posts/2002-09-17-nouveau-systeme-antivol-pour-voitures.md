@@ -3,7 +3,7 @@ layout: article
 title: Nouveau système antivol pour voitures
 authors:
   - max-2
-date: '2002-09-17 00:00:00''
+date: '2002-09-17 00:00:00'
 tags:
 - liberty-city
 redirect_from:

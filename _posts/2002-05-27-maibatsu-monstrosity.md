@@ -4,7 +4,7 @@ title: Maibatsu Monstrosity
 cover: "/content/images/2016/06/MaibatsuFr.jpg"
 authors:
   - pierrealex
-date: '2002-05-27 00:00:00''
+date: '2002-05-27 00:00:00'
 tags:
 - liberty-city
 redirect_from:

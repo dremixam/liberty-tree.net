@@ -4,7 +4,7 @@ title: La dernière ronde du « maître des Sentinelles »
 cover: "/content/images/2016/06/sentinelle.jpg"
 authors:
   - rr4
-date: '2002-05-01 00:00:00''
+date: '2002-05-01 00:00:00'
 tags:
 - liberty-city
 redirect_from:

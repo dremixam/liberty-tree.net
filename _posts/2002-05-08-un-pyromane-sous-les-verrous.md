@@ -3,7 +3,7 @@ layout: article
 title: Un pyromane sous les verrous
 authors:
   - play2man2002
-date: '2002-05-08 00:00:00''
+date: '2002-05-08 00:00:00'
 tags:
 - liberty-city
 redirect_from:

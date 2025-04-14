@@ -4,7 +4,7 @@ title: Les nouvelles têtes de Head Radio
 cover: "/content/images/v1/user23/head01.jpg"
 authors:
   - pavlov
-date: '2003-01-21 00:00:00''
+date: '2003-01-21 00:00:00'
 tags:
 - liberty-city
 redirect_from:

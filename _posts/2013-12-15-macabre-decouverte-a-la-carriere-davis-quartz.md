@@ -4,7 +4,7 @@ title: Macabre découverte à la carrière Davis Quartz
 cover: "/content/images/2016/06/Carriere.jpg"
 authors:
   - dydou
-date: '2013-12-15 00:00:00''
+date: '2013-12-15 00:00:00'
 tags:
 - los-santos
 redirect_from:

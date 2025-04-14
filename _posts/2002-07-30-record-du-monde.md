@@ -3,7 +3,7 @@ layout: article
 title: Record du monde
 authors:
   - pierrealex
-date: '2002-07-30 00:00:00''
+date: '2002-07-30 00:00:00'
 tags:
 - liberty-city
 redirect_from:

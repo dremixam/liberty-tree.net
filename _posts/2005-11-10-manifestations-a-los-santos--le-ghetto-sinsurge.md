@@ -4,7 +4,7 @@ title: Manifestations à Los Santos, le ghetto s'insurge
 cover: "/content/images/2016/06/Emeutes%201.jpg"
 authors:
   - thomas
-date: '2005-11-10 00:00:00''
+date: '2005-11-10 00:00:00'
 tags:
 - los-santos
 redirect_from:

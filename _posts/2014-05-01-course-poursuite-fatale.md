@@ -4,7 +4,7 @@ title: Course-poursuite fatale
 cover: "/content/images/2016/06/Accident4.jpg"
 authors:
   - dydou
-date: '2014-05-01 00:00:00''
+date: '2014-05-01 00:00:00'
 tags:
 - los-santos
 redirect_from:

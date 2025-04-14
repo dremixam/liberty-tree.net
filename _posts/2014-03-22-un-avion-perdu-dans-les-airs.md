@@ -4,7 +4,7 @@ title: Un avion perdu dans les airs
 cover: "/content/images/2016/06/20_1.jpg"
 authors:
   - nevod
-date: '2014-03-22 00:00:00''
+date: '2014-03-22 00:00:00'
 tags:
 - los-santos
 redirect_from:

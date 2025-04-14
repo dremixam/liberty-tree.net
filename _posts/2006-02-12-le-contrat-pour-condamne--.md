@@ -4,7 +4,7 @@ title: Le contrat pour condamné !
 cover: "/content/images/2016/06/hotel01.jpg"
 authors:
   - tenpenny
-date: '2006-02-12 00:00:00''
+date: '2006-02-12 00:00:00'
 tags:
 - liberty-city
 redirect_from:

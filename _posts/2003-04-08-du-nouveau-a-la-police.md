@@ -4,7 +4,7 @@ title: Du nouveau à la Police
 cover: "/content/images/v1/user30/police.jpg"
 authors:
   - pastrana
-date: '2003-04-08 00:00:00''
+date: '2003-04-08 00:00:00'
 tags:
 - liberty-city
 redirect_from:

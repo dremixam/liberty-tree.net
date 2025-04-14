@@ -4,7 +4,7 @@ title: La fièvre du sport
 cover: "/content/images/2016/06/tow.jpg"
 authors:
   - nelson
-date: '2006-03-24 00:00:00''
+date: '2006-03-24 00:00:00'
 tags:
 - san-fierro
 - los-santos

@@ -4,7 +4,7 @@ title: Corruption au casino
 cover: "/content/images/2016/06/gta.jpg"
 authors:
   - baz
-date: '2002-06-19 00:00:00''
+date: '2002-06-19 00:00:00'
 tags:
 - liberty-city
 redirect_from:

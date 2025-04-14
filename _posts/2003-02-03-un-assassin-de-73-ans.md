@@ -4,7 +4,7 @@ title: Un assassin de 73 ans
 cover: "/content/images/v1/user26/papyfou.jpg"
 authors:
   - dremixam
-date: '2003-02-03 00:00:00''
+date: '2003-02-03 00:00:00'
 tags:
 - liberty-city
 redirect_from:

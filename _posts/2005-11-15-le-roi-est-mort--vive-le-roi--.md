@@ -4,7 +4,7 @@ title: Le roi est mort, vive le roi !
 cover: "/content/images/2016/06/gouverneur.jpg"
 authors:
   - p130
-date: '2005-11-15 00:00:00''
+date: '2005-11-15 00:00:00'
 tags:
 - vice-city
 redirect_from:

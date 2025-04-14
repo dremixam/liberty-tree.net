@@ -3,7 +3,7 @@ layout: article
 title: Un nouveau jeu à Liberty City
 authors:
   - titof-abs
-date: '2002-12-27 00:00:00''
+date: '2002-12-27 00:00:00'
 tags:
 - liberty-city
 redirect_from:

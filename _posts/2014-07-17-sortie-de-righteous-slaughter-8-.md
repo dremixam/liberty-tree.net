@@ -4,7 +4,7 @@ title: Sortie de Righteous Slaughter 8
 cover: "/content/images/2016/06/slaughter%202_1.jpg"
 authors:
   - duddy-frutti
-date: '2014-07-17 00:00:00''
+date: '2014-07-17 00:00:00'
 tags:
 - los-santos
 redirect_from:

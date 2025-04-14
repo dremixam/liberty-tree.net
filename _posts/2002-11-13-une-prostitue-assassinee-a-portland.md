@@ -3,7 +3,7 @@ layout: article
 title: Une prostitué assassinée à Portland
 authors:
   - fxbt
-date: '2002-11-13 00:00:00''
+date: '2002-11-13 00:00:00'
 tags:
 - liberty-city
 redirect_from:

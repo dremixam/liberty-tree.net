@@ -4,7 +4,7 @@ title: Le collectionneur de têtes est revenu
 cover: "/content/images/2016/06/ttcolec1.jpg"
 authors:
   - noobsanarckist
-date: '2006-01-02 00:00:00''
+date: '2006-01-02 00:00:00'
 tags:
 - liberty-city
 redirect_from:

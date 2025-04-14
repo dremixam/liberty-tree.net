@@ -4,7 +4,7 @@ title: Émeute au stade
 cover: "/content/images/2016/06/stade3_0.jpg"
 authors:
   - generalmike
-date: '2002-06-09 00:00:00''
+date: '2002-06-09 00:00:00'
 tags:
 - liberty-city
 redirect_from:

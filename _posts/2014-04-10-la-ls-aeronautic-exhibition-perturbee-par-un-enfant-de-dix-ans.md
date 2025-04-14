@@ -4,7 +4,7 @@ title: La LS Aeronautic Exhibition perturbée par un enfant de dix ans
 cover: "/content/images/2016/06/0_0%20%2835%29.jpg"
 authors:
   - kiki
-date: '2014-04-10 00:00:00''
+date: '2014-04-10 00:00:00'
 tags:
 - los-santos
 redirect_from:

@@ -4,7 +4,7 @@ title: La rentrée vide Liberty City de ses enfants
 cover: "/content/images/2016/06/Untitled%20%281%29.jpg"
 authors:
   - dremixam
-date: '2012-09-11 00:00:00''
+date: '2012-09-11 00:00:00'
 tags:
 - liberty-city
 redirect_from:

@@ -4,7 +4,7 @@ title: 'Missing : convoyeur de foie de veau'
 cover: "/content/images/2016/06/0_0%20%2819%29_1.jpg"
 authors:
   - kiki
-date: '2014-01-16 00:00:00''
+date: '2014-01-16 00:00:00'
 tags:
 - los-santos
 redirect_from:

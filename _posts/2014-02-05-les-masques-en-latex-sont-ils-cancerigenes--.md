@@ -4,7 +4,7 @@ title: Les masques en latex sont-ils cancérigènes ?
 cover: "/content/images/2016/06/Masques.jpg"
 authors:
   - dydou
-date: '2014-02-05 00:00:00''
+date: '2014-02-05 00:00:00'
 tags:
 - los-santos
 redirect_from:

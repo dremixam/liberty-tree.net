@@ -4,7 +4,7 @@ title: Wichita Garden
 cover: "/content/images/v1/user25/ganghoods.jpg"
 authors:
   - flo
-date: '2002-12-23 00:00:00''
+date: '2002-12-23 00:00:00'
 tags:
 - liberty-city
 redirect_from:

@@ -3,7 +3,7 @@ layout: article
 title: Le drogué à la coupe d'Elvis
 authors:
   - little-worm
-date: '2002-05-19 00:00:00''
+date: '2002-05-19 00:00:00'
 redirect_from:
 - /2002/05/18/le-drogue-a-la-coupe-delvis
 ---

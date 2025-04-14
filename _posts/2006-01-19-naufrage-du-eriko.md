@@ -4,7 +4,7 @@ title: Naufrage du Eriko
 cover: "/content/images/2016/06/naufrage.jpg"
 authors:
   - bart_man
-date: '2006-01-19 00:00:00''
+date: '2006-01-19 00:00:00'
 tags:
 - san-fierro
 redirect_from:

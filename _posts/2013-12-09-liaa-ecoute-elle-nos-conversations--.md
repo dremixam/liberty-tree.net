@@ -4,7 +4,7 @@ title: L'IAA écoute-elle nos conversations ?
 cover: "/content/images/2016/06/FIB.jpg"
 authors:
   - dydou
-date: '2013-12-09 00:00:00''
+date: '2013-12-09 00:00:00'
 tags:
 - los-santos
 redirect_from:

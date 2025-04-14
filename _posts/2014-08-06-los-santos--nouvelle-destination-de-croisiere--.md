@@ -4,7 +4,7 @@ title: Los Santos, nouvelle destination de croisière ?
 cover: "/content/images/2016/06/cruise%2023%2007%2014.jpg"
 authors:
   - titi
-date: '2014-08-06 00:00:00''
+date: '2014-08-06 00:00:00'
 tags:
 - los-santos
 redirect_from:

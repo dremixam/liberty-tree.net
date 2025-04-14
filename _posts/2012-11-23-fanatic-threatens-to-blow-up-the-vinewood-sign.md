@@ -4,7 +4,7 @@ title: Fanatic Threatens To Blow Up The Vinewood Sign
 cover: "/content/images/2016/06/Vinewood_Sign_1.jpg"
 authors:
   - offic3r-3dwards
-date: '2012-11-23 00:00:00''
+date: '2012-11-23 00:00:00'
 tags:
 - los-santos
 redirect_from:

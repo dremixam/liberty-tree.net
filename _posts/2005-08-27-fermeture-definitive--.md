@@ -4,7 +4,7 @@ title: Fermeture définitive ?
 cover: "/content/images/2016/06/ClosedStreet4.jpg"
 authors:
   - pastrana
-date: '2005-08-27 00:00:00''
+date: '2005-08-27 00:00:00'
 tags:
 - liberty-city
 redirect_from:

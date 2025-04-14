@@ -4,7 +4,7 @@ title: 'Nouvelle menace sur Liberty City: les "hackers"'
 cover: "/content/images/2016/06/prisaupiege_0.jpg"
 authors:
   - max-2
-date: '2002-06-23 00:00:00''
+date: '2002-06-23 00:00:00'
 tags:
 - liberty-city
 redirect_from:

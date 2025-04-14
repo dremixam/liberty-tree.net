@@ -4,7 +4,7 @@ title: Un groupe de randonneurs tué
 cover: "/content/images/2016/06/gallery14_1.jpg"
 authors:
   - dydou
-date: '2007-07-01 00:00:00''
+date: '2007-07-01 00:00:00'
 tags:
 - san-fierro
 - los-santos

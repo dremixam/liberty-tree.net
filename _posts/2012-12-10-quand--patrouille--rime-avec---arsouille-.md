@@ -4,7 +4,7 @@ title: Quand "patrouille" rime avec  "arsouille"
 cover: "/content/images/2016/06/Capture%20d%E2%80%99%C3%A9cran%202012-12-02%20%C3%A0%2021.21.58.jpg"
 authors:
   - bancale
-date: '2012-12-10 00:00:00''
+date: '2012-12-10 00:00:00'
 tags:
 - las-venturas
 redirect_from:

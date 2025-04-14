@@ -4,7 +4,7 @@ title: Entretien avec les 3Man Crew
 cover: "/content/images/v1/user23/born.jpg"
 authors:
   - pavlov
-date: '2003-02-24 00:00:00''
+date: '2003-02-24 00:00:00'
 tags:
 - liberty-city
 redirect_from:

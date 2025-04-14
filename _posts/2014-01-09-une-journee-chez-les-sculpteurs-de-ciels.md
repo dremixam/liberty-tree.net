@@ -4,7 +4,7 @@ title: Une journée chez les Sculpteurs de Ciels
 cover: "/content/images/2016/06/0_0%20%284%29_8.jpg"
 authors:
   - kiki
-date: '2014-01-09 00:00:00''
+date: '2014-01-09 00:00:00'
 tags:
 - los-santos
 redirect_from:

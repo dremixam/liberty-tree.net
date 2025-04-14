@@ -4,7 +4,7 @@ title: De plus en plus de prostituées à Los Santos
 cover: "/content/images/2016/06/0_0_255.jpg"
 authors:
   - vitanique
-date: '2015-02-14 00:00:00''
+date: '2015-02-14 00:00:00'
 tags:
 - los-santos
 redirect_from:

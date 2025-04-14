@@ -4,7 +4,7 @@ title: Explosion au QG du FIB
 cover: "/content/images/2016/06/0_0%20%281%29_4.jpg"
 authors:
   - nelson
-date: '2013-12-06 00:00:00''
+date: '2013-12-06 00:00:00'
 tags:
 - los-santos
 redirect_from:

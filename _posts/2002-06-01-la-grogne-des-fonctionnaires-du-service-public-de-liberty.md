@@ -3,7 +3,7 @@ layout: article
 title: La grogne des fonctionnaires du service public de Liberty
 authors:
   - baz
-date: '2002-06-01 00:00:00''
+date: '2002-06-01 00:00:00'
 tags:
 - liberty-city
 redirect_from:

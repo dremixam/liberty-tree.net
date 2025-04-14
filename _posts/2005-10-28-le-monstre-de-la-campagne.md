@@ -4,7 +4,7 @@ title: Le monstre de la campagne
 cover: "/content/images/2016/06/gor.jpg"
 authors:
   - jil-90
-date: '2005-10-28 00:00:00''
+date: '2005-10-28 00:00:00'
 tags:
 - vice-city
 redirect_from:

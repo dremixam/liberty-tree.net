@@ -4,7 +4,7 @@ title: Prospère... Youplaboum...
 cover: "/content/images/2016/06/suances11.jpg"
 authors:
   - megamind
-date: '2005-09-26 00:00:00''
+date: '2005-09-26 00:00:00'
 tags:
 - san-fierro
 redirect_from:

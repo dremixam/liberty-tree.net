@@ -4,7 +4,7 @@ title: Le clown Sanglant
 cover: "/content/images/2016/06/lieuducrime.jpg"
 authors:
   - diabolik-c
-date: '2006-01-14 00:00:00''
+date: '2006-01-14 00:00:00'
 tags:
 - vice-city
 - liberty-city

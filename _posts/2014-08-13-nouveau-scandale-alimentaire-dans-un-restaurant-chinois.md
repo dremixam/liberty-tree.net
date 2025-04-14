@@ -4,7 +4,7 @@ title: Nouveau scandale alimentaire dans un restaurant chinois
 cover: "/content/images/2016/06/563225EFLC89201460042PM338.png"
 authors:
   - ezoah
-date: '2014-08-13 00:00:00''
+date: '2014-08-13 00:00:00'
 tags:
 - liberty-city
 redirect_from:

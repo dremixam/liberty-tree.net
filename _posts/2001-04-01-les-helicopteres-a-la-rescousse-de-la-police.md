@@ -4,7 +4,7 @@ title: Les hélicoptères à la rescousse de la police
 cover: "/content/images/2016/06/helicopter.jpg"
 authors:
   - rr4
-date: '2001-04-01 00:00:00''
+date: '2001-04-01 00:00:00'
 tags:
 - liberty-city
 redirect_from:

@@ -4,7 +4,7 @@ title: Réouverture de la statue de l'Hilarité
 cover: "/content/images/2016/06/Statue3.jpg"
 authors:
   - dydou
-date: '2014-04-04 00:00:00''
+date: '2014-04-04 00:00:00'
 tags:
 - liberty-city
 redirect_from:

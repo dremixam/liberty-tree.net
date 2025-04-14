@@ -4,7 +4,7 @@ title: La lune semble se rapprocher dangereusement de la Terre
 cover: "/content/images/2016/06/Lune_3.jpg"
 authors:
   - fido_le_muet
-date: '2006-02-04 00:00:00''
+date: '2006-02-04 00:00:00'
 tags:
 - los-santos
 redirect_from:

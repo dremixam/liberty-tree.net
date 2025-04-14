@@ -4,7 +4,7 @@ title: Les supermarchés, cibles favorites des braqueurs amateurs
 cover: "/content/images/2016/06/Supermarket.jpg"
 authors:
   - dydou
-date: '2013-12-10 00:00:00''
+date: '2013-12-10 00:00:00'
 tags:
 - los-santos
 redirect_from:

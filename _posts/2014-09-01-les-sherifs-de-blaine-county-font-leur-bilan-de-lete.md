@@ -4,7 +4,7 @@ title: Les shérifs de Blaine County font leur bilan de l'été
 cover: "/content/images/2016/06/0_0%20%281%29_15.jpg"
 authors:
   - titi
-date: '2014-09-01 00:00:00''
+date: '2014-09-01 00:00:00'
 tags:
 - los-santos
 redirect_from:

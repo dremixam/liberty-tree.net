@@ -4,7 +4,7 @@ title: Nouveau braquage d'un camion blindé de la Gruppe
 cover: "/content/images/2016/06/Gruppe2_0.jpg"
 authors:
   - rr4
-date: '2002-06-13 00:00:00''
+date: '2002-06-13 00:00:00'
 tags:
 - liberty-city
 redirect_from:

@@ -4,7 +4,7 @@ title: Violents accidents sur la Route 68
 cover: "/content/images/2016/06/LIBERTY%20TREE%201.jpg"
 authors:
   - gamer-reporter
-date: '2014-07-16 00:00:00''
+date: '2014-07-16 00:00:00'
 tags:
 - los-santos
 redirect_from:

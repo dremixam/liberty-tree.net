@@ -3,7 +3,7 @@ layout: article
 title: 'Armée: un nouveau test d''adhésion'
 authors:
   - max-2
-date: '2003-01-23 00:00:00''
+date: '2003-01-23 00:00:00'
 tags:
 - liberty-city
 redirect_from:

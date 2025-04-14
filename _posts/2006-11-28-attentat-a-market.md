@@ -4,7 +4,7 @@ title: Attentat à Market
 cover: "/content/images/2016/06/smokkkk.jpg"
 authors:
   - nelson
-date: '2006-11-28 00:00:00''
+date: '2006-11-28 00:00:00'
 tags:
 - los-santos
 redirect_from:

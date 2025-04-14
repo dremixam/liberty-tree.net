@@ -4,7 +4,7 @@ title: Fermeture Temporaire de L'Aéroport de San Fierro
 cover: "/content/images/2016/06/airport.jpg"
 authors:
   - nelson
-date: '2005-08-29 00:00:00''
+date: '2005-08-29 00:00:00'
 tags:
 - vice-city
 redirect_from:

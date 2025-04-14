@@ -4,7 +4,7 @@ title: 22, v'là les flics !
 cover: "/content/images/2016/06/violence2%20%281%29.jpg"
 authors:
   - bart_man
-date: '2006-01-24 00:00:00''
+date: '2006-01-24 00:00:00'
 tags:
 - vice-city
 redirect_from:

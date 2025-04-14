@@ -4,7 +4,7 @@ title: La Mafia c'est plus ce que c'était
 cover: "/content/images/v1/user24/Mafia.jpg"
 authors:
   - titof-abs
-date: '2002-12-12 00:00:00''
+date: '2002-12-12 00:00:00'
 tags:
 - liberty-city
 redirect_from:

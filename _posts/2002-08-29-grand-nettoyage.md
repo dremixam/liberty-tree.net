@@ -3,7 +3,7 @@ layout: article
 title: Grand Nettoyage
 authors:
   - baz
-date: '2002-08-29 00:00:00''
+date: '2002-08-29 00:00:00'
 tags:
 - liberty-city
 redirect_from:

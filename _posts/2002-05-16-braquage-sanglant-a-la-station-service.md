@@ -3,7 +3,7 @@ layout: article
 title: Braquage sanglant à la station service
 authors:
   - fanofrpg
-date: '2002-05-16 00:00:00''
+date: '2002-05-16 00:00:00'
 tags:
 - liberty-city
 redirect_from:

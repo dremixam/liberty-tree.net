@@ -4,7 +4,7 @@ title: Passager ivre, débarqué sur une petite île
 cover: "/content/images/2016/06/AT-400.jpg"
 authors:
   - slizzel
-date: '2006-01-03 00:00:00''
+date: '2006-01-03 00:00:00'
 tags:
 - san-fierro
 redirect_from:

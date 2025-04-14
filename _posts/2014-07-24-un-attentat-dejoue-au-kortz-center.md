@@ -4,7 +4,7 @@ title: Un attentat déjoué au Kortz Center
 cover: "/content/images/2016/06/Attentat.jpg"
 authors:
   - dydou
-date: '2014-07-24 00:00:00''
+date: '2014-07-24 00:00:00'
 tags:
 - los-santos
 redirect_from:

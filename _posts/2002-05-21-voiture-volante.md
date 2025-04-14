@@ -4,7 +4,7 @@ title: Voiture volante
 cover: "/content/images/2016/06/YakuzaStinger.jpg"
 authors:
   - pierrealex
-date: '2002-05-21 00:00:00''
+date: '2002-05-21 00:00:00'
 tags:
 - liberty-city
 redirect_from:

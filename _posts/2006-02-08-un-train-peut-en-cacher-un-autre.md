@@ -4,7 +4,7 @@ title: Un train peut en cacher un autre
 cover: "/content/images/2016/06/cross.jpg"
 authors:
   - p130
-date: '2006-02-08 00:00:00''
+date: '2006-02-08 00:00:00'
 tags:
 - las-venturas
 redirect_from:

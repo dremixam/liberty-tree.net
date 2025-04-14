@@ -4,7 +4,7 @@ title: Le malade mental du jour
 cover: "/content/images/2016/06/Diablo2_0.jpg"
 authors:
   - little-worm
-date: '2002-05-28 00:00:00''
+date: '2002-05-28 00:00:00'
 tags:
 - liberty-city
 redirect_from:

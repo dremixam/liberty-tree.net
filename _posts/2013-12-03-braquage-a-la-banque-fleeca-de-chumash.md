@@ -4,7 +4,7 @@ title: Braquage à la banque Fleeca de Chumash
 cover: "/content/images/2016/06/Fleeca1.jpg"
 authors:
   - dydou
-date: '2013-12-03 00:00:00''
+date: '2013-12-03 00:00:00'
 tags:
 - los-santos
 redirect_from:

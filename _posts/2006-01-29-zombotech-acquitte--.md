@@ -4,7 +4,7 @@ title: Zombotech acquitté !
 cover: "/content/images/2016/06/Tribunal.jpg"
 authors:
   - bart_man
-date: '2006-01-29 00:00:00''
+date: '2006-01-29 00:00:00'
 tags:
 - san-fierro
 redirect_from:

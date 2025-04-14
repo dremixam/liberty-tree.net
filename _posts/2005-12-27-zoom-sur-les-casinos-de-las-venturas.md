@@ -4,7 +4,7 @@ title: Zoom sur les casinos de Las Venturas
 cover: "/content/images/2016/06/Visage_0.jpg"
 authors:
   - fido_le_muet
-date: '2005-12-27 00:00:00''
+date: '2005-12-27 00:00:00'
 tags:
 - las-venturas
 redirect_from:

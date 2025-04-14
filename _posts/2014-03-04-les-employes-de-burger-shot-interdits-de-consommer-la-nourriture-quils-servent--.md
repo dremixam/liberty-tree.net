@@ -5,7 +5,7 @@ title: Les employés de Burger Shot interdits de consommer la nourriture qu'ils 
 cover: "/content/images/2016/06/BurgerShot_1.jpg"
 authors:
   - dydou
-date: '2014-03-04 00:00:00''
+date: '2014-03-04 00:00:00'
 tags:
 - los-santos
 redirect_from:

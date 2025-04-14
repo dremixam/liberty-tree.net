@@ -4,7 +4,7 @@ title: Space Monkey 3D
 cover: "/content/images/2016/06/spacedito.jpg"
 authors:
   - diabolik-c
-date: '2006-01-18 00:00:00''
+date: '2006-01-18 00:00:00'
 redirect_from:
 - /2006/01/17/space-monkey-3d
 ---

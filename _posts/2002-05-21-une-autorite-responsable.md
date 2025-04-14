@@ -3,7 +3,7 @@ layout: article
 title: Une autorité responsable
 authors:
   - silent-snipe
-date: '2002-05-21 00:00:00''
+date: '2002-05-21 00:00:00'
 tags:
 - liberty-city
 redirect_from:

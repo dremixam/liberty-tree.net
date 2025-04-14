@@ -4,7 +4,7 @@ title: Peur sur le village
 cover: "/content/images/2016/06/montgomery.jpg"
 authors:
   - shardazzo
-date: '2005-09-19 00:00:00''
+date: '2005-09-19 00:00:00'
 tags:
 - san-fierro
 redirect_from:

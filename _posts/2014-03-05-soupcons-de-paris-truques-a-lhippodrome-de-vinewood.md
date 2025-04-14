@@ -4,7 +4,7 @@ title: Soupçons de paris truqués à l'hippodrome de Vinewood
 cover: "/content/images/2016/06/Hippodrome1_0.jpg"
 authors:
   - dydou
-date: '2014-03-05 00:00:00''
+date: '2014-03-05 00:00:00'
 tags:
 - los-santos
 redirect_from:

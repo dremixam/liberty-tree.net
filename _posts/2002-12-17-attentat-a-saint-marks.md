@@ -4,7 +4,7 @@ title: Attentat à Saint Marks
 cover: "/content/images/v1/user23/forel02.jpg"
 authors:
   - pavlov
-date: '2002-12-17 00:00:00''
+date: '2002-12-17 00:00:00'
 tags:
 - liberty-city
 redirect_from:

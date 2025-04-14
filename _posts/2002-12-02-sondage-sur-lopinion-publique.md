@@ -3,7 +3,7 @@ layout: article
 title: Sondage sur l'opinion publique
 authors:
   - max-2
-date: '2002-12-02 00:00:00''
+date: '2002-12-02 00:00:00'
 tags:
 - liberty-city
 redirect_from:

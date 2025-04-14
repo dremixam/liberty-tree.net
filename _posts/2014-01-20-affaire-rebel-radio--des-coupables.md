@@ -4,7 +4,7 @@ title: 'Affaire Rebel Radio: des coupables'
 cover: "/content/images/2016/06/0_0_131.jpg"
 authors:
   - libertyg100
-date: '2014-01-20 00:00:00''
+date: '2014-01-20 00:00:00'
 tags:
 - los-santos
 redirect_from:

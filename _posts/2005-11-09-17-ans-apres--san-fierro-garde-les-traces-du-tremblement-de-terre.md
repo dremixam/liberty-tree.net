@@ -4,7 +4,7 @@ title: 17 ans après, San Fierro garde les traces du tremblement de terre
 cover: "/content/images/2016/06/Site%20Doherty%201.jpg"
 authors:
   - thomas
-date: '2005-11-09 00:00:00''
+date: '2005-11-09 00:00:00'
 tags:
 - san-fierro
 redirect_from:

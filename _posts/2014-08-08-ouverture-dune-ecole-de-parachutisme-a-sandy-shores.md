@@ -4,7 +4,7 @@ title: Ouverture d'une école de parachutisme à Sandy Shores
 cover: "/content/images/2016/06/0_0_246.jpg"
 authors:
   - titi
-date: '2014-08-08 00:00:00''
+date: '2014-08-08 00:00:00'
 tags:
 - los-santos
 redirect_from:

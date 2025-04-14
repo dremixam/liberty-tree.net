@@ -4,7 +4,7 @@ title: Bizutage dans l'armée
 cover: "/content/images/2016/06/Tank.jpg"
 authors:
   - tenpenny
-date: '2006-02-22 00:00:00''
+date: '2006-02-22 00:00:00'
 tags:
 - vice-city
 redirect_from:

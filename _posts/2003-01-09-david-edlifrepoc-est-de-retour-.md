@@ -3,7 +3,7 @@ layout: article
 title: David Edlifrepoc est de retour.
 authors:
   - titof-abs
-date: '2003-01-09 00:00:00''
+date: '2003-01-09 00:00:00'
 tags:
 - liberty-city
 redirect_from:

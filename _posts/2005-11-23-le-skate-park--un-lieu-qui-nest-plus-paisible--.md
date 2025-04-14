@@ -4,7 +4,7 @@ title: Le Skate Park, un lieu qui n'est plus paisible..
 cover: "/content/images/2016/06/afrontmen1.jpg"
 authors:
   - noobsanarckist
-date: '2005-11-23 00:00:00''
+date: '2005-11-23 00:00:00'
 tags:
 - los-santos
 redirect_from:

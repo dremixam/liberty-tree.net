@@ -4,7 +4,7 @@ title: L'avarice à Los Santos
 cover: "/content/images/2016/06/9_1.jpg"
 authors:
   - nevod
-date: '2014-02-22 00:00:00''
+date: '2014-02-22 00:00:00'
 tags:
 - los-santos
 redirect_from:

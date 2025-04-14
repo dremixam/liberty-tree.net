@@ -4,7 +4,7 @@ title: 'Mile High Club : Chantier désert et projet suspendu ?'
 cover: "/content/images/2016/06/0_0%20%2821%29_0.jpg"
 authors:
   - justshot1
-date: '2014-01-10 00:00:00''
+date: '2014-01-10 00:00:00'
 tags:
 - los-santos
 redirect_from:

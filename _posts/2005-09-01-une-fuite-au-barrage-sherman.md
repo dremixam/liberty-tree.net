@@ -4,7 +4,7 @@ title: Une fuite au barrage Sherman
 cover: "/content/images/2016/06/Vue%20barrage.jpg"
 authors:
   - p130
-date: '2005-09-01 00:00:00''
+date: '2005-09-01 00:00:00'
 tags:
 - vice-city
 redirect_from:

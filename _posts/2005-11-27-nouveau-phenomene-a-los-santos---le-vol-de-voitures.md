@@ -4,7 +4,7 @@ title: 'Nouveau phénomène à Los Santos : le vol de voitures'
 cover: "/content/images/2016/06/vol1.jpg"
 authors:
   - civic666
-date: '2005-11-27 00:00:00''
+date: '2005-11-27 00:00:00'
 tags:
 - los-santos
 redirect_from:

@@ -4,7 +4,7 @@ title: Crash à Vinewood
 cover: "/content/images/2016/06/Explosion_1.jpg"
 authors:
   - mr-r
-date: '2006-03-04 00:00:00''
+date: '2006-03-04 00:00:00'
 tags:
 - los-santos
 redirect_from:

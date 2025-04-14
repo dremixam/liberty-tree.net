@@ -4,7 +4,7 @@ title: 'Les sixtie''s : sexe, drogue et décadence'
 cover: "/content/images/2016/06/Hippy_1.jpg"
 authors:
   - thomas
-date: '2005-11-30 00:00:00''
+date: '2005-11-30 00:00:00'
 tags:
 - san-fierro
 redirect_from:

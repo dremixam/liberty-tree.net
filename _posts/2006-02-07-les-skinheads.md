@@ -4,7 +4,7 @@ title: Les skinheads
 cover: "/content/images/2016/06/skin_head.jpg"
 authors:
   - weezer
-date: '2006-02-07 00:00:00''
+date: '2006-02-07 00:00:00'
 tags:
 - liberty-city
 redirect_from:

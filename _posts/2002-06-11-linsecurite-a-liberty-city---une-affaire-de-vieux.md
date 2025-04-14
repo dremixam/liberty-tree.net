@@ -4,7 +4,7 @@ title: L'insécurité à Liberty city ? Une affaire de vieux
 cover: "/content/images/2016/06/PLV2_0.gif"
 authors:
   - mot3
-date: '2002-06-11 00:00:00''
+date: '2002-06-11 00:00:00'
 tags:
 - liberty-city
 redirect_from:

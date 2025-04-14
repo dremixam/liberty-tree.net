@@ -3,7 +3,7 @@ layout: article
 title: 24 heures de la vie d'une prostituée
 authors:
   - rr4
-date: '2002-06-07 00:00:00''
+date: '2002-06-07 00:00:00'
 tags:
 - liberty-city
 redirect_from:

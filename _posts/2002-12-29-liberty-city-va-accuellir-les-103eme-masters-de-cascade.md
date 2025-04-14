@@ -3,7 +3,7 @@ layout: article
 title: Liberty City va accuellir les 103ème "Masters De Cascade"
 authors:
   - titof-abs
-date: '2002-12-29 00:00:00''
+date: '2002-12-29 00:00:00'
 tags:
 - liberty-city
 redirect_from:

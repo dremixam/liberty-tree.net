@@ -4,7 +4,7 @@ title: Installation de radars automatiques à San Andreas
 cover: "/content/images/2016/06/MulhollandIntersection-GTASA-southwestwards.jpg"
 authors:
   - schumi_60
-date: '2006-01-10 00:00:00''
+date: '2006-01-10 00:00:00'
 tags:
 - vice-city
 redirect_from:

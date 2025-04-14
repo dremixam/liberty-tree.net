@@ -4,7 +4,7 @@ title: Championnat de Boxe de San Andreas
 cover: "/content/images/2016/06/Boxeur.jpg"
 authors:
   - bart_man
-date: '2006-02-10 00:00:00''
+date: '2006-02-10 00:00:00'
 tags:
 - vice-city
 redirect_from:

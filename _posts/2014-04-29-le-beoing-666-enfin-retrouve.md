@@ -4,7 +4,7 @@ title: Le Beoing 666 enfin retrouvé
 cover: "/content/images/2016/06/26_3.jpg"
 authors:
   - nevod
-date: '2014-04-29 00:00:00''
+date: '2014-04-29 00:00:00'
 tags:
 - los-santos
 redirect_from:

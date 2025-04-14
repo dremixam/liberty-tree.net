@@ -3,7 +3,7 @@ layout: article
 title: Les élections municipales approchent
 authors:
   - titof-abs
-date: '2003-01-29 00:00:00''
+date: '2003-01-29 00:00:00'
 tags:
 - liberty-city
 redirect_from:

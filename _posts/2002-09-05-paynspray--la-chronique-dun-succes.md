@@ -3,7 +3,7 @@ layout: article
 title: 'Pay''n''Spray: La chronique d''un succès'
 authors:
   - pavlov
-date: '2002-09-05 00:00:00''
+date: '2002-09-05 00:00:00'
 tags:
 - liberty-city
 redirect_from:

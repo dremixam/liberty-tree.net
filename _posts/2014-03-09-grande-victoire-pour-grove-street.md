@@ -4,7 +4,7 @@ title: Grande victoire pour Grove Street
 cover: "/content/images/2016/06/14.jpg"
 authors:
   - nevod
-date: '2014-03-09 00:00:00''
+date: '2014-03-09 00:00:00'
 tags:
 - los-santos
 redirect_from:

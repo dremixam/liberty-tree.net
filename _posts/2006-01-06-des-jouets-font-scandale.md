@@ -4,7 +4,7 @@ title: Des jouets font scandale
 cover: "/content/images/2016/06/Jouets.jpg"
 authors:
   - diabolik-c
-date: '2006-01-06 00:00:00''
+date: '2006-01-06 00:00:00'
 tags:
 - vice-city
 redirect_from:

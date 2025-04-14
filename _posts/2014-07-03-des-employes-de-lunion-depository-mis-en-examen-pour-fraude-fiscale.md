@@ -4,7 +4,7 @@ title: Des employés de l'Union Depository mis en examen pour fraude fiscale
 cover: "/content/images/2016/06/0_0%281%29.jpg"
 authors:
   - titi
-date: '2014-07-03 00:00:00''
+date: '2014-07-03 00:00:00'
 tags:
 - los-santos
 redirect_from:

@@ -4,7 +4,7 @@ title: La main au panier
 cover: "/content/images/2016/06/16_Basketball.jpg"
 authors:
   - nelson
-date: '2005-08-25 00:00:00''
+date: '2005-08-25 00:00:00'
 tags:
 - vice-city
 redirect_from:

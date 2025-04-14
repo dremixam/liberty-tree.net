@@ -4,7 +4,7 @@ title: Hasbury célèbre Mardi-Gras
 cover: "/content/images/2016/06/Hasbury_03.jpg"
 authors:
   - fido_le_muet
-date: '2006-03-02 00:00:00''
+date: '2006-03-02 00:00:00'
 tags:
 - san-fierro
 redirect_from:

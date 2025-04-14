@@ -4,7 +4,7 @@ title: Les habitants de San Andreas se préparent à fêter le Nouvel an
 cover: "/content/images/2016/06/0_0_71.jpg"
 authors:
   - ezoah
-date: '2013-12-31 00:00:00''
+date: '2013-12-31 00:00:00'
 tags:
 - los-santos
 - san-fierro

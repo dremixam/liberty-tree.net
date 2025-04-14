@@ -4,7 +4,7 @@ title: Un train déraille à Ganton
 cover: "/content/images/2016/06/train.jpg"
 authors:
   - p130
-date: '2005-09-27 00:00:00''
+date: '2005-09-27 00:00:00'
 tags:
 - los-santos
 redirect_from:

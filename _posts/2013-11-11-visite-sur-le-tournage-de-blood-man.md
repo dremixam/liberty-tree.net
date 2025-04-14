@@ -4,7 +4,7 @@ title: Visite sur le tournage de Blood-Man
 cover: "/content/images/2016/06/Une%20sc%C3%A8ne%20d%27action%20test%C3%A9%20avant%20d%27%C3%AAtre%20r%C3%A9alis%C3%A9%20.jpg"
 authors:
   - dremixam
-date: '2013-11-11 00:00:00''
+date: '2013-11-11 00:00:00'
 tags:
 - los-santos
 redirect_from:

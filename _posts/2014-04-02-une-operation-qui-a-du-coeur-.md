@@ -4,7 +4,7 @@ title: Une opération qui a du cœur
 cover: "/content/images/2016/06/WestdykeMemorialHospital-GTA4-exterior.jpg"
 authors:
   - dydou
-date: '2014-04-02 00:00:00''
+date: '2014-04-02 00:00:00'
 tags:
 - liberty-city
 redirect_from:

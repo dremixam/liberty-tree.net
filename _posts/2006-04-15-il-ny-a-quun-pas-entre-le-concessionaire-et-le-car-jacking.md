@@ -4,7 +4,7 @@ title: Il n'y a qu'un pas entre le concessionaire et le Car-Jacking
 cover: "/content/images/2016/06/otto2_0.jpg"
 authors:
   - nelson
-date: '2006-04-15 00:00:00''
+date: '2006-04-15 00:00:00'
 tags:
 - san-fierro
 redirect_from:

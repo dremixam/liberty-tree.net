@@ -4,7 +4,7 @@ title: Double meurtre à Blueberry
 cover: "/content/images/2016/06/Blueberry.jpg"
 authors:
   - fido_le_muet
-date: '2006-01-27 00:00:00''
+date: '2006-01-27 00:00:00'
 tags:
 - liberty-city
 redirect_from:

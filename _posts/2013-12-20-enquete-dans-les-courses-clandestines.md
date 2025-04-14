@@ -4,7 +4,7 @@ title: Enquête dans les courses clandestines
 cover: "/content/images/2016/06/Capture%20d%E2%80%99%C3%A9cran%202013-12-17%20%C3%A0%2015.57.21.png"
 authors:
   - panpan6903
-date: '2013-12-20 00:00:00''
+date: '2013-12-20 00:00:00'
 tags:
 - los-santos
 redirect_from:

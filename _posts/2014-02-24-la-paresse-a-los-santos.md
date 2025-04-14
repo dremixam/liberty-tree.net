@@ -4,7 +4,7 @@ title: La Paresse à Los Santos
 cover: "/content/images/2016/06/10.jpg"
 authors:
   - nevod
-date: '2014-02-24 00:00:00''
+date: '2014-02-24 00:00:00'
 tags:
 - los-santos
 redirect_from:

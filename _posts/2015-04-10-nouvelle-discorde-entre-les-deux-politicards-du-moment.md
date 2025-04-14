@@ -4,7 +4,7 @@ title: Nouvelle discorde entre les deux politicards du moment
 cover: "/content/images/2016/06/EkQ4rPKy7kmWmFQ8bH-Jpw_0_0_1.jpg"
 authors:
   - ezoah
-date: '2015-04-10 00:00:00''
+date: '2015-04-10 00:00:00'
 tags:
 - los-santos
 redirect_from:

@@ -4,7 +4,7 @@ title: Bientôt l'ouverture du salon de l'auto de San Andreas
 cover: "/content/images/2016/06/lscc.jpg"
 authors:
   - civic666
-date: '2005-11-19 00:00:00''
+date: '2005-11-19 00:00:00'
 tags:
 - vice-city
 redirect_from:

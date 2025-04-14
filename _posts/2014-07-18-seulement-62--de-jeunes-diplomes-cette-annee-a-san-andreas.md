@@ -4,7 +4,7 @@ title: Seulement 62% de jeunes diplômés cette année à San Andreas
 cover: "/content/images/2016/06/Diplome.jpg"
 authors:
   - dydou
-date: '2014-07-18 00:00:00''
+date: '2014-07-18 00:00:00'
 tags:
 - los-santos
 redirect_from:

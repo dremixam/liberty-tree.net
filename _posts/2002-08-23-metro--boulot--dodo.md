@@ -3,7 +3,7 @@ layout: article
 title: Métro, boulot, dodo
 authors:
   - rr4
-date: '2002-08-23 00:00:00''
+date: '2002-08-23 00:00:00'
 tags:
 - liberty-city
 redirect_from:

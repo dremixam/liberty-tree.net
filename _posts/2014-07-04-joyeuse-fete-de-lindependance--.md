@@ -4,7 +4,7 @@ title: Joyeuse fête de l'indépendance !
 cover: "/content/images/2016/06/FeteNationale.jpg"
 authors:
   - dydou
-date: '2014-07-04 00:00:00''
+date: '2014-07-04 00:00:00'
 tags:
 - los-santos
 redirect_from:

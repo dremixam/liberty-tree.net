@@ -4,7 +4,7 @@ title: Attentats à Liberty City
 cover: "/content/images/2016/06/attentat4.jpg"
 authors:
   - bart_man
-date: '2006-02-13 00:00:00''
+date: '2006-02-13 00:00:00'
 tags:
 - liberty-city
 redirect_from:

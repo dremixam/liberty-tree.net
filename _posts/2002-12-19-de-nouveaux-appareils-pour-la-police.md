@@ -4,7 +4,7 @@ title: De nouveaux appareils pour la police
 cover: "/content/images/2016/06/f16_2.jpg"
 authors:
   - dremixam
-date: '2002-12-19 00:00:00''
+date: '2002-12-19 00:00:00'
 tags:
 - liberty-city
 redirect_from:

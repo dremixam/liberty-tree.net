@@ -3,7 +3,7 @@ layout: article
 title: Pari sur un piratage!
 authors:
   - max-2
-date: '2002-10-05 00:00:00''
+date: '2002-10-05 00:00:00'
 tags:
 - liberty-city
 redirect_from:

@@ -4,7 +4,7 @@ title: Un affreux braquage affecte tout San Andreas !
 cover: "/content/images/2016/06/camionette_hot_dog.jpg"
 authors:
   - pliskin
-date: '2006-02-16 00:00:00''
+date: '2006-02-16 00:00:00'
 tags:
 - san-fierro
 redirect_from:

@@ -4,7 +4,7 @@ title: San Andreas serait-il à sec ?
 cover: "/content/images/2016/06/0_0_254.jpg"
 authors:
   - vitanique
-date: '2015-03-05 00:00:00''
+date: '2015-03-05 00:00:00'
 tags:
 - los-santos
 redirect_from:

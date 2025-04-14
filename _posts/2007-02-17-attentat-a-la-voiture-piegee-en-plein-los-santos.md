@@ -4,7 +4,7 @@ title: Attentat à la voiture piegée en plein Los Santos
 cover: "/content/images/2016/06/jimtemoin.jpg"
 authors:
   - nelson
-date: '2007-02-17 00:00:00''
+date: '2007-02-17 00:00:00'
 tags:
 - los-santos
 redirect_from:

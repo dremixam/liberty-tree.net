@@ -4,7 +4,7 @@ title: Terrible accident d'hélicoptère à Paleto Bay
 cover: "/content/images/2016/06/Helico1.jpg"
 authors:
   - dydou
-date: '2013-12-02 00:00:00''
+date: '2013-12-02 00:00:00'
 tags:
 - los-santos
 redirect_from:

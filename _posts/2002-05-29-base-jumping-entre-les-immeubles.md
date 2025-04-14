@@ -4,7 +4,7 @@ title: Base jumping entre les immeubles
 cover: "/content/images/2016/06/basejump2_0.jpg"
 authors:
   - rr4
-date: '2002-05-29 00:00:00''
+date: '2002-05-29 00:00:00'
 tags:
 - liberty-city
 redirect_from:

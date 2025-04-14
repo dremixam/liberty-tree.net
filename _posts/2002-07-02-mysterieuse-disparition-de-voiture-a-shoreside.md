@@ -4,7 +4,7 @@ title: Mystèrieuse disparition de voiture à Shoreside
 cover: "/content/images/2016/06/bug.jpg"
 authors:
   - rr4
-date: '2002-07-02 00:00:00''
+date: '2002-07-02 00:00:00'
 tags:
 - liberty-city
 redirect_from:

@@ -3,7 +3,7 @@ layout: article
 title: Enfin des mesures efficaces contre la délinquance
 authors:
   - baz
-date: '2002-05-29 00:00:00''
+date: '2002-05-29 00:00:00'
 tags:
 - liberty-city
 redirect_from:

@@ -3,7 +3,7 @@ layout: article
 title: Évasion du tonnerre
 authors:
   - pierrealex
-date: '2002-07-28 00:00:00''
+date: '2002-07-28 00:00:00'
 tags:
 - liberty-city
 redirect_from:

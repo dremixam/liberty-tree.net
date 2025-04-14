@@ -4,7 +4,7 @@ title: Vangelico bientôt de retour
 cover: "/content/images/2016/06/Vangelico_1.jpg"
 authors:
   - dydou
-date: '2014-07-13 00:00:00''
+date: '2014-07-13 00:00:00'
 tags:
 - los-santos
 redirect_from:

@@ -4,7 +4,7 @@ title: Le cascadeur de Vice City
 cover: "/content/images/2016/06/cascad.jpg"
 authors:
   - jil-90
-date: '2005-10-26 00:00:00''
+date: '2005-10-26 00:00:00'
 tags:
 - vice-city
 redirect_from:

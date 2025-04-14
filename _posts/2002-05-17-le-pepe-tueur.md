@@ -3,7 +3,7 @@ layout: article
 title: Le pépé tueur
 authors:
   - zico
-date: '2002-05-17 00:00:00''
+date: '2002-05-17 00:00:00'
 tags:
 - liberty-city
 redirect_from:

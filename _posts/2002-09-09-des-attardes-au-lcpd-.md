@@ -3,7 +3,7 @@ layout: article
 title: Des attardés au LCPD?
 authors:
   - little-worm
-date: '2002-09-09 00:00:00''
+date: '2002-09-09 00:00:00'
 tags:
 - liberty-city
 redirect_from:

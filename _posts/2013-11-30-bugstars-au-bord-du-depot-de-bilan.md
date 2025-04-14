@@ -4,7 +4,7 @@ title: Bugstars au bord du dépôt de bilan
 cover: "/content/images/2016/06/Bugstars2.jpg"
 authors:
   - dydou
-date: '2013-11-30 00:00:00''
+date: '2013-11-30 00:00:00'
 tags:
 - los-santos
 redirect_from:

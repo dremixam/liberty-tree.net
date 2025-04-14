@@ -4,7 +4,7 @@ title: Les cigarettes sont elles réellement dangereuses pour la santé ?
 cover: "/content/images/2016/06/660x373.jpg"
 authors:
   - dremixam
-date: '2013-12-24 00:00:00''
+date: '2013-12-24 00:00:00'
 checked: true
 tags:
 - los-santos

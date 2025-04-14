@@ -4,7 +4,7 @@ title: "$Capitol$ : journée d'un tueur à gages"
 cover: "/content/images/2016/06/affiche.jpg"
 authors:
   - tenpenny
-date: '2006-03-22 00:00:00''
+date: '2006-03-22 00:00:00'
 tags:
 - vice-city
 redirect_from:

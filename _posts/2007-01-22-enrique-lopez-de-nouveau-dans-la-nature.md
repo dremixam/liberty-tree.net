@@ -4,7 +4,7 @@ title: Enrique Lopez de nouveau dans la nature
 cover: "/content/images/2016/06/swatattaque_0.jpg"
 authors:
   - nelson
-date: '2007-01-22 00:00:00''
+date: '2007-01-22 00:00:00'
 tags:
 - los-santos
 redirect_from:

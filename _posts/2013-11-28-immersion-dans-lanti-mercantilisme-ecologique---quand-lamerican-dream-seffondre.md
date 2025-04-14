@@ -5,7 +5,7 @@ title: 'Immersion dans l''anti-mercantilisme écologique : quand l''American Dre
 cover: "/content/images/2016/06/0_0_26.jpg"
 authors:
   - kiki
-date: '2013-11-28 00:00:00''
+date: '2013-11-28 00:00:00'
 tags:
 - los-santos
 redirect_from:

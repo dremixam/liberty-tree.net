@@ -4,7 +4,7 @@ title: Taxi driver à Liberty City
 cover: "/content/images/2016/06/taxi_0.jpg"
 authors:
   - baz
-date: '2002-07-02 00:00:00''
+date: '2002-07-02 00:00:00'
 tags:
 - liberty-city
 redirect_from:

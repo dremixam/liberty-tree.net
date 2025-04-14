@@ -4,7 +4,7 @@ title: Le mystère du phare de Mont Gordo
 cover: "/content/images/2016/06/0_0_7.jpg"
 authors:
   - ezoah
-date: '2013-11-15 00:00:00''
+date: '2013-11-15 00:00:00'
 tags:
 - los-santos
 redirect_from:

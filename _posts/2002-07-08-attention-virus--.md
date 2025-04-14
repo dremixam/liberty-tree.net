@@ -4,7 +4,7 @@ title: Attention virus !
 cover: "/content/images/2016/06/virusblegeblague.jpg"
 authors:
   - max-2
-date: '2002-07-08 00:00:00''
+date: '2002-07-08 00:00:00'
 tags:
 - liberty-city
 redirect_from:

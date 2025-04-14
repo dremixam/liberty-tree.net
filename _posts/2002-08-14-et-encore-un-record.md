@@ -4,7 +4,7 @@ title: Et encore un record
 cover: "/content/images/v1/user6/Bato1.jpg"
 authors:
   - little-worm
-date: '2002-08-14 00:00:00''
+date: '2002-08-14 00:00:00'
 tags:
 - liberty-city
 redirect_from:

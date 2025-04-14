@@ -3,7 +3,7 @@ layout: article
 title: Le Métro de la Peur
 authors:
   - little-worm
-date: '2002-10-01 00:00:00''
+date: '2002-10-01 00:00:00'
 tags:
 - liberty-city
 redirect_from:

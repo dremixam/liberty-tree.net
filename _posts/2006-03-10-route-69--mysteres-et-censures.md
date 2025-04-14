@@ -4,7 +4,7 @@ title: Route 69, mystères et censures
 cover: "/content/images/2016/06/bar_ovni.jpg"
 authors:
   - tenpenny
-date: '2006-03-10 00:00:00''
+date: '2006-03-10 00:00:00'
 tags:
 - san-fierro
 redirect_from:

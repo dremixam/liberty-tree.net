@@ -4,7 +4,7 @@ title: Une journée avec un fou du volant
 cover: "/content/images/2016/06/Tyler.jpg"
 authors:
   - aymar
-date: '2014-04-19 00:00:00''
+date: '2014-04-19 00:00:00'
 tags:
 - los-santos
 redirect_from:

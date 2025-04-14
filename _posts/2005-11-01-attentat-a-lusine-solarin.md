@@ -4,7 +4,7 @@ title: Attentat à l'usine Solarin
 cover: "/content/images/2016/06/2img1.jpg"
 authors:
   - imhotep43
-date: '2005-11-01 00:00:00''
+date: '2005-11-01 00:00:00'
 tags:
 - san-fierro
 redirect_from:

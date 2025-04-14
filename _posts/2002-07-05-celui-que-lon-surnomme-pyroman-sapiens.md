@@ -4,7 +4,7 @@ title: Celui que l'on surnomme "Pyroman Sapiens"
 cover: "/content/images/2016/06/fuitevoiture.jpg"
 authors:
   - max-2
-date: '2002-07-05 00:00:00''
+date: '2002-07-05 00:00:00'
 tags:
 - liberty-city
 redirect_from:

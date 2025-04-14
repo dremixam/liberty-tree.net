@@ -4,7 +4,7 @@ title: La femme qui effrayait Blueberry arrêtée
 cover: "/content/images/2016/06/helena.jpg"
 authors:
   - megamind
-date: '2005-09-09 00:00:00''
+date: '2005-09-09 00:00:00'
 tags:
 - los-santos
 redirect_from:

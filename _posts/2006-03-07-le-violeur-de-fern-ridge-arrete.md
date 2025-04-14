@@ -4,7 +4,7 @@ title: Le violeur de Fern Ridge arrêté
 cover: "/content/images/2016/06/viol1.jpg"
 authors:
   - bart_man
-date: '2006-03-07 00:00:00''
+date: '2006-03-07 00:00:00'
 tags:
 - los-santos
 redirect_from:

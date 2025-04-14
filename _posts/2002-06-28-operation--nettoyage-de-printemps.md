@@ -4,7 +4,7 @@ title: 'Opération: Nettoyage de printemps'
 cover: "/content/images/2016/06/pabloparc.jpg"
 authors:
   - max-2
-date: '2002-06-28 00:00:00''
+date: '2002-06-28 00:00:00'
 tags:
 - liberty-city
 redirect_from:

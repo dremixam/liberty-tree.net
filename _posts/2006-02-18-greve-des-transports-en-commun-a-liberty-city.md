@@ -4,7 +4,7 @@ title: Grève des transports en commun à Liberty City
 cover: "/content/images/2016/06/greve02.jpg"
 authors:
   - thefoxben
-date: '2006-02-18 00:00:00''
+date: '2006-02-18 00:00:00'
 tags:
 - liberty-city
 redirect_from:

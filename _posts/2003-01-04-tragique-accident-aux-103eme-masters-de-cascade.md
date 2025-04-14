@@ -3,7 +3,7 @@ layout: article
 title: Tragique accident aux 103ème "Masters De Cascade"
 authors:
   - titof-abs
-date: '2003-01-04 00:00:00''
+date: '2003-01-04 00:00:00'
 tags:
 - liberty-city
 redirect_from:

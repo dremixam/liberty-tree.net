@@ -4,7 +4,7 @@ title: Le renouveau de Bugstars
 cover: "/content/images/2016/06/Bugstars_1.jpg"
 authors:
   - dydou
-date: '2014-04-26 00:00:00''
+date: '2014-04-26 00:00:00'
 tags:
 - los-santos
 redirect_from:

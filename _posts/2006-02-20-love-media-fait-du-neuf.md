@@ -4,7 +4,7 @@ title: Love Media fait du neuf
 cover: "/content/images/2016/06/logoLMTV.jpg"
 authors:
   - bart_man
-date: '2006-02-20 00:00:00''
+date: '2006-02-20 00:00:00'
 tags:
 - liberty-city
 redirect_from:

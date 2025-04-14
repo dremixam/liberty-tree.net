@@ -4,7 +4,7 @@ title: San Fierro, l'enfer pour tous
 cover: "/content/images/2016/06/pollu1.jpg"
 authors:
   - oswald-cobblepote
-date: '2006-01-16 00:00:00''
+date: '2006-01-16 00:00:00'
 tags:
 - san-fierro
 redirect_from:
