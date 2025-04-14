@@ -19,7 +19,6 @@ CNAME: liberty-tree.net
 
 # Social info
 navigation: True # show the navbar links
-subscribers: False # you need to connect an external service for this to work,
 
 # Disqus
 disqus: True
