@@ -28,7 +28,8 @@ logo: 'assets/images/ghost.png'
                 <img class="author-profile-image" src="/{{ author.image | default: site.default_avatar }}" alt="{{ author.name }}">
                 <h1 class="site-title">{{ author.name }}</h1>
                 <h2 class="author-bio">
-                    {% if author.content and author.content | strip != "" %}
+                    {% assign cleaned_content = author.content | strip %}
+                    {% if cleaned_content != "" %}
                         {{ author.content }}
                     {% else %}
                         {{ site.default_bio }}

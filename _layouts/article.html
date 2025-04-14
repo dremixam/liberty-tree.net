@@ -110,11 +110,14 @@ into the {body} of the default.hbs template -->
                             <h4 class="author-card-name">
                                 <a href="/author/{{ author.slug }}">{{ author.name }}</a>
                             </h4>
-                            {% if author.content and author.content | strip != "" %}
-                            <p>author {{ author.content }}</p>
+                            <p>
+                            {% assign cleaned_content = author.content | strip %}
+                            {% if cleaned_content != "" %}
+                                {{ author.content }}
                             {% else %}
-                            <p>site {{ site.default_bio }}</p>
+                                {{ site.default_bio }}
                             {% endif %}
+                            </p>
                             {% if author.link %}
                             <p class="author-link">
                                 Site perso : <a href="{{ author.link }}" target="_blank" rel="noopener noreferrer">
