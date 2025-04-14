@@ -168,7 +168,7 @@ into the {body} of the default.hbs template -->
                     var disqus_config = function () {
                         var this_page_url = '{{ site.url }}{{ page.url }}';
                         var this_page_identifier = '{{ page.id }}';
-                        var this_page_title = '{{ page.title | escape: "js" }}';
+                        var this_page_title = '{{ page.title | escape }}';
                     };
                     (function () {
                         var d = document, s = d.createElement('script');
