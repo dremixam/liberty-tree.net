@@ -111,9 +111,9 @@ into the {body} of the default.hbs template -->
                                 <a href="/author/{{ author.slug }}">{{ author.name }}</a>
                             </h4>
                             {% if author.content and author.content | strip != "" %}
-                            <p>{{ author.content }}</p>
+                            <p>author {{ author.content }}</p>
                             {% else %}
-                            <p>{{ site.default_bio }}</p>
+                            <p>site {{ site.default_bio }}</p>
                             {% endif %}
                             {% if author.link %}
                             <p class="author-link">
