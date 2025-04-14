@@ -7,6 +7,7 @@ layout: article
 redirect_from:
 - /2005/09/07/le-scandale-des-viandes-avariees
 - /2005/09/07/le-scandale-des-viandes-avariees/
+- /2005/09/08/le-scandale-des-viandes-avariees--/
 tags:
 - los-santos
 title: Le scandale des viandes avariées !

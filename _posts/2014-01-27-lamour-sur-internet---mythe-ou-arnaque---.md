@@ -7,6 +7,7 @@ layout: article
 redirect_from:
 - /2014/01/26/lamour-sur-internet-mythe-ou-arnaque
 - /2014/01/26/lamour-sur-internet-mythe-ou-arnaque/
+- /2014/01/27/lamour-sur-internet---mythe-ou-arnaque---/
 tags:
 - los-santos
 title: 'L''amour sur Internet : mythe ou arnaque ?'

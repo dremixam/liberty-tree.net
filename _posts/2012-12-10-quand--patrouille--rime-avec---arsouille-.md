@@ -7,6 +7,7 @@ layout: article
 redirect_from:
 - /2012/12/09/quand-patrouille-rime-avec-arsouille
 - /2012/12/09/quand-patrouille-rime-avec-arsouille/
+- /2012/12/10/quand--patrouille--rime-avec---arsouille-/
 tags:
 - las-venturas
 title: Quand "patrouille" rime avec  "arsouille"

@@ -7,6 +7,7 @@ layout: article
 redirect_from:
 - /2012/11/30/fruit-devoile-son-nouvel-ifruit-phone
 - /2012/11/30/fruit-devoile-son-nouvel-ifruit-phone/
+- /node/1017
 tags:
 - los-santos
 title: Fruit dévoile son nouvel iFruit Phone !

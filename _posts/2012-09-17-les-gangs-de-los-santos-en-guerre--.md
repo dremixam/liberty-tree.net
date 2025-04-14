@@ -7,6 +7,7 @@ layout: article
 redirect_from:
 - /les-gangs-de-los-santos-en-guerre
 - /les-gangs-de-los-santos-en-guerre/
+- /2012/09/17/les-gangs-de-los-santos-en-guerre--/
 tags:
 - los-santos
 title: Les gangs de Los Santos en guerre !

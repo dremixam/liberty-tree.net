@@ -6,6 +6,7 @@ layout: article
 redirect_from:
 - /2002/12/06/bilan-mitige-pour-maibatsu-inc
 - /2002/12/06/bilan-mitige-pour-maibatsu-inc/
+- /2002/12/06/bilan-mitige-pour-maibatsu-inc-/
 tags:
 - liberty-city
 title: Bilan mitigé pour Maibatsu INC.

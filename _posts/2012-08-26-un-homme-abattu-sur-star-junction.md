@@ -7,6 +7,7 @@ layout: article
 redirect_from:
 - /2012/08/25/un-homme-abattu-sur-star-junction
 - /2012/08/25/un-homme-abattu-sur-star-junction/
+- /un-déséquilibre-abattu-par-la-police
 tags:
 - los-santos
 title: Un homme abattu sur Star Junction

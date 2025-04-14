@@ -7,6 +7,7 @@ layout: article
 redirect_from:
 - /2005/08/14/reouverture-du-liberty-tree
 - /2005/08/14/reouverture-du-liberty-tree/
+- /ouverture-du-nouveaux-liberty-tree-los-santos
 tags:
 - vice-city
 title: Réouverture du Liberty Tree

@@ -7,6 +7,7 @@ layout: article
 redirect_from:
 - /2005/12/18/attaque-de-fourgon-blinde-a-los-santos-un-convoyeur-grievement-blesse
 - /2005/12/18/attaque-de-fourgon-blinde-a-los-santos-un-convoyeur-grievement-blesse/
+- /2005/12/19/attaque-de-fourgon-blinde-a-los-santos---un-convoyeur-grievement-blesse/
 tags:
 - los-santos
 title: 'Attaque de fourgon blindé à Los Santos : Un convoyeur grièvement blessé'
