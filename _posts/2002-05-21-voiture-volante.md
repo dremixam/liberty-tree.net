@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Voiture volante
-cover: "/content/images/2016/06/YakuzaStinger.jpg"
 authors:
-  - pierrealex
+- pierrealex
+cover: /content/images/2016/06/YakuzaStinger.jpg
 date: '2002-05-21 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/20/voiture-volante
+- /2002/05/20/voiture-volante/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/20/voiture-volante
+title: Voiture volante
 ---
+
 
 Hier, en fin d'après midi, suite à des coups de feu, des passants on dit avoir vu une voiture du Cartel Colombien quitter le garage à étages de Staunton par la voie des airs ! Un passant aurait même déclaré
 

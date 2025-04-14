@@ -1,12 +1,14 @@
 ---
-layout: article
-title: Le drogué à la coupe d'Elvis
 authors:
-  - little-worm
+- little-worm
 date: '2002-05-19 00:00:00'
+layout: article
 redirect_from:
-  - /2002/05/18/le-drogue-a-la-coupe-delvis
+- /2002/05/18/le-drogue-a-la-coupe-delvis
+- /2002/05/18/le-drogue-a-la-coupe-delvis/
+title: Le drogué à la coupe d'Elvis
 ---
+
 
 Un drogué fait des ravages à Liberty. Première partie d'un drame qui fait trembler des million d'habitants.
 

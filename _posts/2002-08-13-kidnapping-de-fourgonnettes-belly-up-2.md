@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Kidnapping de fourgonnettes Belly Up
 authors:
-  - max-2
+- max-2
 date: '2002-08-13 11:59:00'
+layout: article
 tags:
 - liberty-city
+title: Kidnapping de fourgonnettes Belly Up
 ---
+
 
 Cet après-midi, trois fourgonnettes Belly Up ont été volé des mains de leurs conducteurs. Personne n'a encore revendiqué l'attaque.  
 C'est en début d'après-midi que tout s'est passé: un des trois livreurs allant distribuer ses paquets de poissons dans divers restaurants, et ne se doutant de rien, a eu la mauvaise surprise de se faire attaquer: le véhicule du malfrat le bloquant, le camion a été obligé de s'arrêter, et l'homme qui le suivait en a profité pour courir jusqu’à la porte, l'ouvrir et tirer d'un coup sec le conducteur, avant d'entrer dans la voiture et de partir, comme un jeu d'enfant !  

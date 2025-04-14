@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un dermatologue fait polémique
-cover: "/content/images/2016/06/17_4_0.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/17_4_0.jpg
 date: '2014-03-17 00:00:00'
+layout: article
+redirect_from:
+- /2014/03/16/un-dermatologue-fait-polemique
+- /2014/03/16/un-dermatologue-fait-polemique/
 tags:
 - los-santos
-redirect_from:
-  - /2014/03/16/un-dermatologue-fait-polemique
+title: Un dermatologue fait polémique
 ---
+
 
 _De nombreux tiers ont porté plainte contre un médecin véreux..._
 

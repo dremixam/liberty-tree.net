@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Hasbury célèbre Mardi-Gras
-cover: "/content/images/2016/06/Hasbury_03.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2016/06/Hasbury_03.jpg
 date: '2006-03-02 00:00:00'
+layout: article
+redirect_from:
+- /2006/03/01/hasbury-celebre-mardi-gras
+- /2006/03/01/hasbury-celebre-mardi-gras/
 tags:
 - san-fierro
-redirect_from:
-  - /2006/03/01/hasbury-celebre-mardi-gras
+title: Hasbury célèbre Mardi-Gras
 ---
+
 
 _Comme tous les ans, San Fierro fête le Carnaval et comme d'habitude, les participants se retrouvent à Hasbury, quartier anti-conformiste où se côtoient toutes les minorités de la ville._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Passe plus partout
-cover: "/content/images/2016/06/0_0%20%2811%29_4.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/0_0%20%2811%29_4.jpg
 date: '2014-04-23 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/22/passe-plus-partout
+- /2014/04/22/passe-plus-partout/
 tags:
 - los-santos
-redirect_from:
-  - /2014/04/22/passe-plus-partout
+title: Passe plus partout
 ---
+
 
 _La série noire continue, avec la fin tragique de notre collègue, Passe-Partout._
 

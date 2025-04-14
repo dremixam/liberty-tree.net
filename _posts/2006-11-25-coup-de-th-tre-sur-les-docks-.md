@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Coup de théâtre sur les Docks !
-cover: "/content/images/2005/01/chine_1.jpg"
 authors:
-  - nams
+- nams
+cover: /content/images/2005/01/chine_1.jpg
 date: '2006-11-25 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Coup de théâtre sur les Docks !
 ---
+
 
  **Les Docks, Los Santos, 24/11/2006, 15:00 :**
 

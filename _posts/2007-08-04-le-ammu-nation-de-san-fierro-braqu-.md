@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Le Ammu-Nation de San Fierro braqué
-cover: "/content/images/2005/01/fusi1.jpg"
 authors:
-  - passe-partout
+- passe-partout
+cover: /content/images/2005/01/fusi1.jpg
 date: '2007-08-04 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Le Ammu-Nation de San Fierro braqué
 ---
+
 
 Hier matin, dans le, d'habitude, paisible quartier d'Ocean Flats plusieurs crissements de pneus retentissent,&nbsp; ainsi que plusieurs coups de feu dans le Ammu-Nation, une patrouille de police toute proche prévient alors le central qui envoie directement des renforts qui ne tardent pas à arriver et encercler le magasin. Les pillards qui dévalisaient les étagères prennent alors le vendeur en otage et menacent de l'exécuter si ils tentent quoi que ce soit. Le S.W.A.T et le B.I.U de San Fierro sont alors appelés en renforts.
 

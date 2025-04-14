@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Panique sur le réseau autoroutier
-cover: "/content/images/2016/06/Union_Rd.jpg"
 authors:
-  - offic3r-3dwards
+- offic3r-3dwards
+cover: /content/images/2016/06/Union_Rd.jpg
 date: '2014-03-06 00:00:00'
+layout: article
+redirect_from:
+- /2014/03/05/panique-sur-le-reseau-autoroutier
+- /2014/03/05/panique-sur-le-reseau-autoroutier/
 tags:
 - los-santos
-redirect_from:
-  - /2014/03/05/panique-sur-le-reseau-autoroutier
+title: Panique sur le réseau autoroutier
 ---
+
 
 Un détraqué réussit à semer la panique sur l'ensemble du réseau autoroutier de l'état depuis plusieurs semaines, et ce malgré la multiplication des actions entreprises par les forces de l'ordre ces derniers jours pour tenter de l'appréhender et ainsi restaurer le calme et la sérénité qui régnaient depuis si longtemps sur les autoroutes des comtés de Blaine et de Los Santos.
 

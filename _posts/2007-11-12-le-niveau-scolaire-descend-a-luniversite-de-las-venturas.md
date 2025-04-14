@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Le niveau scolaire descend à l’Université de Las Venturas
 authors:
-  - passe-partout
+- passe-partout
 date: '2007-11-12 22:42:00'
+layout: article
 tags:
 - las-venturas
+title: Le niveau scolaire descend à l’Université de Las Venturas
 ---
+
 
 _L’information a été communiquée récemment à la mairie de Las Venturas, les résultats des élèves de l’Université sont en baisse par rapport aux dernières années. Les professeurs accusent directement l’industrie du jeu vidéo et les émissions de télé-réalité._\*
 

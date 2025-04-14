@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Carnage en ville après le vol d'un char d'assaut
-cover: "/content/images/v1/user26/satellite.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/v1/user26/satellite.jpg
 date: '2003-01-06 00:00:00'
+layout: article
+redirect_from:
+- /2003/01/05/carnage-en-ville-apres-le-vol-dun-char-dassaut
+- /2003/01/05/carnage-en-ville-apres-le-vol-dun-char-dassaut/
 tags:
 - liberty-city
-redirect_from:
-  - /2003/01/05/carnage-en-ville-apres-le-vol-dun-char-dassaut
+title: Carnage en ville après le vol d'un char d'assaut
 ---
+
 
 La nuit de bon nombre de nos concitoyens a été dérangée par des explosions et des cris de terreur, en effet vers 22h un individu qui n'a pu être identifié s'est introduit chez Phil Cassidi et a volé le Rhino que celui-ci possède en fracturant la porte. Il a ensuite commencé son escapade meurtrière à travers la ville. On dénombrait ce matin au moins 258 morts et près de 1500 blessés, les hôpitaux de Liberty on vite été submergés et de nombreuses personnes ont péri faute de soins.
 

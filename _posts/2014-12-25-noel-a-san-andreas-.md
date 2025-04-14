@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Noël à San Andreas
-cover: "/content/images/2016/06/0_0_269.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_269.jpg
 date: '2014-12-25 00:00:00'
+layout: article
+redirect_from:
+- /2014/12/24/noel-a-san-andreas
+- /2014/12/24/noel-a-san-andreas/
 tags:
 - los-santos
-redirect_from:
-  - /2014/12/24/noel-a-san-andreas
+title: Noël à San Andreas
 ---
+
 
 _Depuis quelques jours, la grande majorité des foyers de San Andreas se sont équipés d'un sapin fraîchement coupé, qu'ils ont ensuite décoré de guirlandes et de boules de couleur. Qu'on le veuille ou non, que l'on y croie ou non, la magie de Noël finira toujours par s'opérer, même pour les plus sceptiques. Que ce soit sous la forme d'un gros cadeau, ou par le fait d'être juste avec ses proches._
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Traffic de véhicules gouvernementaux à Liberty City
-cover: "/content/images/2005/01/fb1.jpg"
 authors:
-  - passe-partout
+- passe-partout
+cover: /content/images/2005/01/fb1.jpg
 date: '2007-05-10 00:00:00'
+layout: article
 tags:
 - liberty-city
+title: Traffic de véhicules gouvernementaux à Liberty City
 ---
+
 
 ![Un exemple de véhicule dans une décharge](/content/images/2005/01/fb4.jpg)
 _Un exemple de véhicule dans une décharge_

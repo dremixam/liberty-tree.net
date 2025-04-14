@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le Speed Dating fait fureur à Los Santos
-cover: "/content/images/2016/06/0_0_185.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_185.jpg
 date: '2014-04-22 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/21/le-speed-dating-fait-fureur-a-los-santos
+- /2014/04/21/le-speed-dating-fait-fureur-a-los-santos/
 tags:
 - los-santos
-redirect_from:
-  - /2014/04/21/le-speed-dating-fait-fureur-a-los-santos
+title: Le Speed Dating fait fureur à Los Santos
 ---
+
 
 _Nombreux sont les célibataires à Los Santos et les bars branchés, alors pourquoi ne pas cumuler les deux pour former des couples ? Cette nouvelle mode serait-elle mieux ou plus dangereuse encore que les sites de rencontre ?_
 

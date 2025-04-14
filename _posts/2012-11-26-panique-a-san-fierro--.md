@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Panique à San Fierro !
-cover: "/content/images/2016/06/tv3.jpg"
 authors:
-  - bancale
+- bancale
+cover: /content/images/2016/06/tv3.jpg
 date: '2012-11-26 00:00:00'
+layout: article
+redirect_from:
+- /2012/11/25/panique-a-san-fierro
+- /2012/11/25/panique-a-san-fierro/
 tags:
 - san-fierro
-redirect_from:
-  - /2012/11/25/panique-a-san-fierro
+title: Panique à San Fierro !
 ---
+
 
  **Un vent de panique a soufflé sur la ville de San Fierro hier après midi. Plusieurs dizaines de casseurs ont semé le trouble dans la ville, incendiant près d'une trentaine de voitures. La cause pourrait être une panne sur le transmetteur TV de la ville qui a plongé celle-ci dans le black out télévisuel total.**
 

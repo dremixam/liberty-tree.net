@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les fans d'OVNIs se retrouvent à Sandy Shores
-cover: "/content/images/2016/06/Alien.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Alien.jpg
 date: '2014-02-27 00:00:00'
+layout: article
+redirect_from:
+- /2014/02/26/les-fans-dovnis-se-retrouvent-a-sandy-shores
+- /2014/02/26/les-fans-dovnis-se-retrouvent-a-sandy-shores/
 tags:
 - los-santos
-redirect_from:
-  - /2014/02/26/les-fans-dovnis-se-retrouvent-a-sandy-shores
+title: Les fans d'OVNIs se retrouvent à Sandy Shores
 ---
+
 
 _Comme chaque année depuis douze ans, au début du mois de mars, les fans d'ovnis en tous genres se retrouvent au lieu-dit "Beam Me Up", attendant comme chaque année des êtres venus d’ailleurs et en espérant les apercevoir..._
 

@@ -1,15 +1,16 @@
 ---
-layout: article
-title: L’Explorateur Urbain – Numéro 4
-cover: "/content/images/2005/01/Explo_-_Photo_Titre.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/Explo_-_Photo_Titre.jpg
 date: '2007-02-01 00:00:00'
+layout: article
 tags:
 - los-santos
 - san-fierro
 - las-venturas
+title: L’Explorateur Urbain – Numéro 4
 ---
+
 
 ![](/content/images/2005/01/explo_-_title_no_4.jpg)
 ![](/content/images/2005/01/Explo_4_-_Potter_Article_Title.jpg)

@@ -1,12 +1,13 @@
 ---
-layout: article
-title: 'Blue FBI : le véhicule de notre bien-aimé redac'' chef ;)'
 authors:
-  - nelson
+- nelson
 date: '2002-10-12 15:03:00'
+layout: article
 tags:
 - liberty-city
+title: 'Blue FBI : le véhicule de notre bien-aimé redac'' chef ;)'
 ---
+
 
 ![today's car](/content/images/2016/07/preview.jpg)
 _today's car_

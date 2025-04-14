@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Gay Pride à San Fierro.
-cover: "/content/images/2005/01/SF_meurtre.jpg"
 authors:
-  - vercetti
+- vercetti
+cover: /content/images/2005/01/SF_meurtre.jpg
 date: '2007-06-30 00:00:00'
+layout: article
 tags:
 - san-fierro
 - los-santos
 - las-venturas
+title: Gay Pride à San Fierro.
 ---
+
 
 Demain, à San Fierro aura lieu la Gay Pride, événement spécial de toute  
 la communauté Gay. Les origines de la Gay Pride, "Marche de la fierté  

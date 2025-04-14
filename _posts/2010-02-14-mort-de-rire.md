@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Mort de rire
 authors:
-  - nelson
+- nelson
 date: '2010-02-14 15:41:00'
+layout: article
 tags:
 - liberty-city
+title: Mort de rire
 ---
+
 
 Johnny McLovin, jeune humoriste originaire d’Angel Pine, dans l’état de San Andreas, était depuis quelques jours à l’affiche du Split Sides Comedy Club d’Algonquin. Alors qu’il effectuait le quatrième stand-up de sa carrière Liberticienne, l’un des spectateurs se leva de sa chaise, sorti un Beretta de sa veste et logea une balle en pleine tête de l’humoriste qui s’écroula sur scène, sous les applaudissements du public.
 

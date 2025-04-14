@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Prise d'otage de Hardwood
 authors:
-  - little-worm
+- little-worm
 date: '2002-05-20 18:05:00'
+layout: article
 tags:
 - liberty-city
+title: Prise d'otage de Hardwood
 ---
+
 
 La prise d'otage du drogué qui s'est crashé en Dodo sur le siège social des Missionnaires de Dieu s'est enfin terminée. Bilan : 45 morts, 27 blessés, et le criminel a réussi à s'échapper. Petit rappel des événements :
 

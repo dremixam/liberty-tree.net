@@ -1,12 +1,13 @@
 ---
-layout: article
-title: 'Grand Opening : NelsoN''s Auto Custom'
 authors:
-  - nelson
+- nelson
 date: '2002-09-24 14:22:00'
+layout: article
 tags:
 - liberty-city
+title: 'Grand Opening : NelsoN''s Auto Custom'
 ---
+
 
 Chers lecteurs, Bonjour!
 

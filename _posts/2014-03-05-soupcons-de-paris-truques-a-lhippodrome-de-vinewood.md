@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Soupçons de paris truqués à l'hippodrome de Vinewood
-cover: "/content/images/2016/06/Hippodrome1_0.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Hippodrome1_0.jpg
 date: '2014-03-05 00:00:00'
+layout: article
+redirect_from:
+- /2014/03/04/soupcons-de-paris-truques-a-lhippodrome-de-vinewood
+- /2014/03/04/soupcons-de-paris-truques-a-lhippodrome-de-vinewood/
 tags:
 - los-santos
-redirect_from:
-  - /2014/03/04/soupcons-de-paris-truques-a-lhippodrome-de-vinewood
+title: Soupçons de paris truqués à l'hippodrome de Vinewood
 ---
+
 
 _Le LSPD a fait fermer l'hippodrome de Vinewood hier après avoir découvert que des paris truqués pourraient y avoir eu lieu. La décision prise par la police semble curieuse, d'autant plus que personne sur place ne semble être au courant de quoi que ce soit..._
 

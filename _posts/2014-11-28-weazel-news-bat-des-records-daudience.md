@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Weazel News bat des records d'audience
-cover: "/content/images/2016/06/Weazel_News.png"
 authors:
-  - vitanique
+- vitanique
+cover: /content/images/2016/06/Weazel_News.png
 date: '2014-11-28 00:00:00'
+layout: article
+redirect_from:
+- /2014/11/27/weazel-news-bat-des-records-daudience
+- /2014/11/27/weazel-news-bat-des-records-daudience/
 tags:
 - los-santos
-redirect_from:
-  - /2014/11/27/weazel-news-bat-des-records-daudience
+title: Weazel News bat des records d'audience
 ---
+
 
 _Au cours de la dernière édition de Weazel News, le nombre de vues a explosé. En effet, depuis quelques temps, Weazel News est en hausse. Mieux, depuis la dernière édition, c'est devenu le numéro 1 des programmes les plus regardés de tout San Andreas._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Une station-service braquée à Paleto Bay
-cover: "/content/images/2016/06/StationService.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/StationService.jpg
 date: '2014-10-06 00:00:00'
+layout: article
+redirect_from:
+- /2014/10/05/une-station-service-braquee-a-paleto-bay
+- /2014/10/05/une-station-service-braquee-a-paleto-bay/
 tags:
 - los-santos
-redirect_from:
-  - /2014/10/05/une-station-service-braquee-a-paleto-bay
+title: Une station-service braquée à Paleto Bay
 ---
+
 
 _Une station-service a été braquée par deux hommes hier matin. Fort heureusement, il n'y a aucun blessé à déplorer, et les bandits ont été arrêtés dans le courant de l'après-midi._
 

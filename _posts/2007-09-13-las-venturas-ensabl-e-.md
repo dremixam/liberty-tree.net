@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Las Venturas ensablée ?
 authors:
-  - vercetti
+- vercetti
 date: '2007-09-13 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: Las Venturas ensablée ?
 ---
+
 
 D'après une étude météorologique entreprise par la municipalité de Las Venturas et de nombreuses observations sur le terrain, le désert de Las Venturas avance ! En effet car, il pleut de moins en moins dans le désert (Pour info : il pleuvait une à deux fois par mois, trois fois était vraiment très rare) et donc le sable s'envole très facilement et comme vous le savez, le désert de Las Venturas est assez réputé pour ses nombreuses tempêtes de sable. Ainsi, il avance non pas vers l'Ouest mais vers l'Est, autrement dit vers la ville même de Las Venturas ! Nous pourrions donc voir dans 10 ans tout au plus, la ville complètement ensablée !
 

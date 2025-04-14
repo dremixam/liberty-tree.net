@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Catastrophe : le barrage Sherman a cédé'
-cover: "/content/images/2016/06/las%20barrancas%20eau%203_0.jpg"
 authors:
-  - megamind
+- megamind
+cover: /content/images/2016/06/las%20barrancas%20eau%203_0.jpg
 date: '2005-09-02 00:00:00'
+layout: article
+redirect_from:
+- /2005/09/01/catastrophe-le-barrage-sherman-a-cede
+- /2005/09/01/catastrophe-le-barrage-sherman-a-cede/
 tags:
 - vice-city
-redirect_from:
-  - /2005/09/01/catastrophe-le-barrage-sherman-a-cede
+title: 'Catastrophe : le barrage Sherman a cédé'
 ---
+
 
 C'est effectivement cette nuit, que le barrage Sherman, édifié dans les années 30 en l'honneur d'Andrew Sherman, fondateur du Conseil Central des Energies, s'est brisé, libérant pas moins de 275 millions de mètres cubes d'eau destinée habituellement a fournir l'électricité à tout l'état de San Andreas.
 

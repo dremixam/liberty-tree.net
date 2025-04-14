@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Importante saisie de drogue à Los Santos
-cover: "/content/images/2005/01/dealer.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2005/01/dealer.jpg
 date: '2006-04-12 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Importante saisie de drogue à Los Santos
 ---
+
 
 La nuit dernière, la police a enfin pu mettre la main au collet de Bloody Ders (alias "Dug"), reconnu comme étant l’un des plus gros trafiquant de drogue de Los Santos. À en juger par la quantité de cocaïne saisit sur place, nous pouvons affirmer qu’il se préparait à compléter l’une des plus importante transaction de sa carrière de criminel.
 

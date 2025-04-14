@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Accidents en série à Del Perro Pier
-cover: "/content/images/2016/06/DelPerro3.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/DelPerro3.jpg
 date: '2014-02-07 00:00:00'
+layout: article
+redirect_from:
+- /2014/02/06/accidents-en-serie-a-del-perro-pier
+- /2014/02/06/accidents-en-serie-a-del-perro-pier/
 tags:
 - los-santos
-redirect_from:
-  - /2014/02/06/accidents-en-serie-a-del-perro-pier
+title: Accidents en série à Del Perro Pier
 ---
+
 
 _Depuis quelques jours, le parc d'attractions de Del Perro connaît de nombreux soucis humains et techniques. Conséquence : le parc est désormais quasiment désert._
 

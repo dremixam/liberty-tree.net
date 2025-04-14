@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un SDF retrouvé mort sous l'autoroute
-cover: "/content/images/2016/06/0_0_31.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_31.jpg
 date: '2013-12-04 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/03/un-sdf-retrouve-mort-sous-lautoroute
+- /2013/12/03/un-sdf-retrouve-mort-sous-lautoroute/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/03/un-sdf-retrouve-mort-sous-lautoroute
+title: Un SDF retrouvé mort sous l'autoroute
 ---
+
 
 Même sans avoir déjà reçu les résultats de l’autopsie, il apparaît évident que cet homme a été canardé par une arme à longue portée, sa tête ayant littéralement explosée. Évidemment, il n’y a aucun témoin de la scène, cet endroit étant bien à l’abri des regards. Il semblait vivre avec plusieurs autres personnes, sensiblement du même âge. Ceux-ci ont pu nous déclarer qu’il s’agissait d’un immigré roumain d’une quarantaine d’années, sans histoire. Et sans papier non plus bien sûr. Mais, est-ce parce que c’était un immigré qu’il fallait nécessairement le tuer ? Cela semble invraisemblable, mais aussi l’unique motivation probable du tueur.
 

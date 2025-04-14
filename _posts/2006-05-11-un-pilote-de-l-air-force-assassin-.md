@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Un pilote de l'air force assassiné
-cover: "/content/images/2005/01/dead1.jpg"
 authors:
-  - logan
+- logan
+cover: /content/images/2005/01/dead1.jpg
 date: '2006-05-11 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Un pilote de l'air force assassiné
 ---
+
 
 Hier au environs de 4H du matin, un pilote de l'Us air force, le sergent John blue, a été retrouvé criblé de balles, et son avion, un avion furtif, a été localisé&nbsp; juste a coté de la shady cabin. D’après l'air force, Le sergent J. était en patrouille dans le secteur et en avait l'habitude : Rien ne laisse supposer qu'il ait fait une erreur de pilotage, son ailier déclare :
 

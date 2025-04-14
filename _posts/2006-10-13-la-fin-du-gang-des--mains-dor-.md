@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La fin du gang des "mains d'or"
-cover: "/content/images/2016/06/pad3_0.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/pad3_0.jpg
 date: '2006-10-13 00:00:00'
+layout: article
+redirect_from:
+- /2006/10/12/la-fin-du-gang-des-mains-dor
+- /2006/10/12/la-fin-du-gang-des-mains-dor/
 tags:
 - los-santos
-redirect_from:
-  - /2006/10/12/la-fin-du-gang-des-mains-dor
+title: La fin du gang des "mains d'or"
 ---
+
 
 East Los Santos, sept heures du matin. Madame Perreira prépare son café au lait, comme tous les matins, avant de s'installer confortablement dans son canapé pour suivre deux épisodes de la série Hawaï Five-O. La routine, jusqu'au moment où elle aperçoit une voiture stationnée en marche arrière dans une ruelle donnant directement sur la fenêtre de sa cuisine.
 

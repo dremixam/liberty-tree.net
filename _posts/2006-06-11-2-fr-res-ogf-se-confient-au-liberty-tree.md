@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 2 frères OGF se confient au Liberty Tree
-cover: "/content/images/2005/01/OGF_home.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2005/01/OGF_home.jpg
 date: '2006-06-11 00:00:00'
+layout: article
 tags:
 - los-santos
+title: 2 frères OGF se confient au Liberty Tree
 ---
+
 
 Malgré le côté un peu jet-set du monde des gangs de rue, où l'on voit des types se promener à bord de Hummer, Escalade ou autre caisse du tonnerre en portant une quantité industrielle de bijoux en or sur eux, la réalité est toute autre. C'est dans la rue qu'ils ont fait leur éducation, et c'est dans cette même rue que tout se terminera.
 

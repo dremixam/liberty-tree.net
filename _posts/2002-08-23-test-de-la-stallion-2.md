@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Test de la Stallion
 authors:
-  - nelson
+- nelson
 date: '2002-08-23 12:02:00'
+layout: article
 tags:
 - liberty-city
+title: Test de la Stallion
 ---
+
 
 Chers lecteurs, bonjour!
 

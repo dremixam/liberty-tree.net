@@ -1,12 +1,13 @@
 ---
-layout: article
-title: 'Gangs : une réalité qui fait mal'
 authors:
-  - fido_le_muet
+- fido_le_muet
 date: '2007-10-15 21:31:00'
+layout: article
 tags:
 - los-santos
+title: 'Gangs : une réalité qui fait mal'
 ---
+
 
 _Aujourd'hui toutes les grandes villes connaissent leur lot de violence. Los Santos, elle, n'échappe pas à la règle; elle doit affronter un problème majeur : les gangs. Enquête du Liberty Tree._
 

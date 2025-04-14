@@ -1,14 +1,15 @@
 ---
-layout: article
-title: Accident spéctaculaire sur la PCH
-cover: "/content/images/2005/01/Fcar04.jpg"
 authors:
-  - pavlov
+- pavlov
+cover: /content/images/2005/01/Fcar04.jpg
 date: '2006-04-17 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
+title: Accident spéctaculaire sur la PCH
 ---
+
 
 _Il était six heures du matin quand un bruit retentissant se fit entendre sur la PCH, Pacific Coast Highway, relaint Los Santos à Las Venturas. Les habitants du quartier de Verona Beach furent réveillés par le bruit de deux supercars en plein gymkhana urbain. Une Ferrari noire, et une autre voiture de sport bleue fonçaient à toute vitesse dans la rue, nous affirme M. Li, un témoin oculaire et puis au moment ou elles allaient vers le tunnel, nous on a entendu une explosion, on a vu un nuage de fumée..._
 

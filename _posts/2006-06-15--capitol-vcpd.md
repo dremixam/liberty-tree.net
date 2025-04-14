@@ -1,13 +1,14 @@
 ---
-layout: article
-title: "$Capitol$ : VCPD"
-cover: "/content/images/2005/01/affiche.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/affiche.jpg
 date: '2006-06-15 00:00:00'
+layout: article
 tags:
 - vice-city
+title: '$Capitol$ : VCPD'
 ---
+
 
 Samedi, 5:00AM. Confortablement installés dans l'accueil du QG de la police, en train de boire un jus de chaussettes immonde, nous attendons les policiers qui nous guiderons pendant notre reportage. La police de Vice City n'a rien à voir avec ce qu'on avait connu à présent dans les villes telles que Liberty City, Los Santos, San Fierro ou bien Las Venturas. A Vice City, il n 'y a aucune issue possible :
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: J'ai testé les taxis de Vice City
-cover: "/content/images/2005/01/pubkaufman.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/pubkaufman.jpg
 date: '2006-07-06 00:00:00'
+layout: article
 tags:
 - vice-city
+title: J'ai testé les taxis de Vice City
 ---
+
 
 Après avoir passé au crible la LS Taxis, me revoilà, non pas sur&nbsp;la plage de Santa Maria beach à Los Santos mais&nbsp;sous la lune de Vice City, à l'ombre des palmiers d'une propriété de Starfish Island. Confortablement installé sur le transat, le téléphone apporté sur un plateau dans les mains d'un serveur, je me prépare psychologiquement à tester la Kaufman Cab, la seule compagnie de taxi qui vaille réellement le coup (et le coût aussi).
 

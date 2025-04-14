@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Le pendu de San Fierro
 authors:
-  - f-rosenberg
+- f-rosenberg
 date: '2007-07-07 20:18:00'
+layout: article
 tags:
 - san-fierro
+title: Le pendu de San Fierro
 ---
+
 
 _Dimanche dernier, un promeneur a découvert le cadavre d'un pendu dans un entrepôt désaffecté de Doherty. Suicide ou règlement de comptes ? John S., la victime, était pourtant au demeurant un individu ordinaire sans histoire. Le LT a enquêté pour vous..._
 

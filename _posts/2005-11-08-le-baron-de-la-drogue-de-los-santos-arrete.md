@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le baron de la drogue de Los Santos arrêté
-cover: "/content/images/2016/06/drogue4.jpg"
 authors:
-  - civic666
+- civic666
+cover: /content/images/2016/06/drogue4.jpg
 date: '2005-11-08 00:00:00'
+layout: article
+redirect_from:
+- /2005/11/07/le-baron-de-la-drogue-de-los-santos-arrete
+- /2005/11/07/le-baron-de-la-drogue-de-los-santos-arrete/
 tags:
 - los-santos
-redirect_from:
-  - /2005/11/07/le-baron-de-la-drogue-de-los-santos-arrete
+title: Le baron de la drogue de Los Santos arrêté
 ---
+
 
 _Le baron de la drogue qui a fait couler beaucoup d'encre ces derniers jours a été arrêté. Drunky Dog, alias Tyler Santiago, est bien connu des services de police de Liberty City. Qui est-il réellement ?_
 

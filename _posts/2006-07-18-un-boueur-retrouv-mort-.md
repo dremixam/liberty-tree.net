@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Un éboueur retrouvé mort.
-cover: "/content/images/2005/01/accident1.jpg"
 authors:
-  - gtaboss33
+- gtaboss33
+cover: /content/images/2005/01/accident1.jpg
 date: '2006-07-18 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Un éboueur retrouvé mort.
 ---
+
 
 Ce matin, aux alentours de 4 heures, Jacky MacOgen, jeune éboueur de 24 ans originaire de Liberty City,&nbsp;a été&nbsp;retrouvé mort dans son camion-poubelle près des Ocean Docks de Los Santos.
 

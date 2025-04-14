@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Attentat à la voiture piegée en plein Los Santos
-cover: "/content/images/2016/06/jimtemoin.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/jimtemoin.jpg
 date: '2007-02-17 00:00:00'
+layout: article
+redirect_from:
+- /2007/02/16/attentat-a-la-voiture-piegee-en-plein-los-santos
+- /2007/02/16/attentat-a-la-voiture-piegee-en-plein-los-santos/
 tags:
 - los-santos
-redirect_from:
-  - /2007/02/16/attentat-a-la-voiture-piegee-en-plein-los-santos
+title: Attentat à la voiture piegée en plein Los Santos
 ---
+
 
 Un véhicule du LSPD explosa hier matin sur le parking du Jim's Sticky Ring de Los Santos. La thèse de l'attentat reste en tête de liste. Explications...
 

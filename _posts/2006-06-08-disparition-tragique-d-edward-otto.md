@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Disparition tragique d'Edward Otto
-cover: "/content/images/2005/01/bateauavecvedette1.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/bateauavecvedette1.jpg
 date: '2006-06-08 00:00:00'
+layout: article
 tags:
 - san-fierro
+title: Disparition tragique d'Edward Otto
 ---
+
 
 Le PDG des concession Otto's Autos, Edward Otto,&nbsp;est décédé dans des conditions tragiques, rappelant ainsi le décès de son frère Jerry, mort dans un accident d'avion. La pérennité de son entreprise Otto's Autos, créée par son arrière grand-père en 1832, qui ne vendait alors que des bicyclette, sera assurée par le vice-président, Michael Roller. Rappelons que c'est dans cette concession qu'est né le premier contrat de vente automobile, ainsi&nbsp;que le fameux guide Otto.
 

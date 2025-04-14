@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Car riding dans nos rues paisibles
-cover: "/content/images/2016/06/carriding2_0.jpg"
 authors:
-  - rr4
+- rr4
+cover: /content/images/2016/06/carriding2_0.jpg
 date: '2002-06-05 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/04/car-riding-dans-nos-rues-paisibles
+- /2002/06/04/car-riding-dans-nos-rues-paisibles/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/04/car-riding-dans-nos-rues-paisibles
+title: Car riding dans nos rues paisibles
 ---
+
 
 Les jeunes libertyciens en mal de sensations ont inventé un nouveau moyen de locomotion rapide et gratuit.
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: La Fièvre du Samedi Soir
-cover: "/content/images/2016/07/La_Fievre_du_Samedi_Soir_1.jpg"
 authors:
-  - scarface1991
+- scarface1991
+cover: /content/images/2016/07/La_Fievre_du_Samedi_Soir_1.jpg
 date: '2006-05-07 17:27:00'
+layout: article
 tags:
 - las-venturas
+title: La Fièvre du Samedi Soir
 ---
+
 
 _Pour le premier numéro de "La Fièvre du Samedi Soir" je vais vous raconter le quotidien des casinos de Las Venturas où les civils et les stars de la jet-set sont là pour se retrouver autour d'une table, jouer, s'amuser et surtout gagner de l'argent. Tout pour passer une soirée inoubliable._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Drake Parker placé en examen pour port d'armes de guerre illégales
-cover: "/content/images/2016/06/0_0%20%284%29_13.jpg"
 authors:
-  - aymar
+- aymar
+cover: /content/images/2016/06/0_0%20%284%29_13.jpg
 date: '2014-08-04 00:00:00'
+layout: article
+redirect_from:
+- /2014/08/03/drake-parker-place-en-examen-pour-port-darmes-de-guerre-illegales
+- /2014/08/03/drake-parker-place-en-examen-pour-port-darmes-de-guerre-illegales/
 tags:
 - los-santos
-redirect_from:
-  - /2014/08/03/drake-parker-place-en-examen-pour-port-darmes-de-guerre-illegales
+title: Drake Parker placé en examen pour port d'armes de guerre illégales
 ---
+
 
 Le 2 Mai, nous vous parlions d'un nouveau gang (Les Hot Boys) qui faisait son apparition à Los Santos et qui était allié aux membres de Grove Street. Nous avons approfondie notre recherche avec l'aide du LSPD (Los Santos Police Département) pour en savoir plus. Nous avons pu interroger l'Officier Kalen Parker :
 

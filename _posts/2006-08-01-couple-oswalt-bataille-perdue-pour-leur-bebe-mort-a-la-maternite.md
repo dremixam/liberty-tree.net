@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Couple Oswalt, bataille perdue pour leur bébé mort à la maternité
-cover: "/content/images/2005/01/hopital2.jpg"
 authors:
-  - pyro
+- pyro
+cover: /content/images/2005/01/hopital2.jpg
 date: '2006-08-01 18:14:00'
+layout: article
 tags:
 - liberty-city
+title: Couple Oswalt, bataille perdue pour leur bébé mort à la maternité
 ---
+
 
 _C’était il y a sept ans, Eva Oswalt est morte à la maternité à l'âge de trois jours dans de mystérieuses conditions..._
 

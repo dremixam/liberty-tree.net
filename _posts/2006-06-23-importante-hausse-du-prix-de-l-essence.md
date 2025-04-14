@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Importante hausse du prix de l'essence
-cover: "/content/images/2005/01/Essence_title.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/Essence_title.jpg
 date: '2006-06-23 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Importante hausse du prix de l'essence
 ---
+
 
 ![Attaque contre le cortège du président Irakien à Tikrit (FOX NEWS).](/content/images/2005/01/Essence_mort_president_Irak.jpg)
 _Attaque contre le cortège du président Irakien à Tikrit (FOX NEWS)._[Photo satellite de l’ouragan Margarita au-dessus des Keys en Floride.](/content/images/2005/01/Essence_ouragan_Margarita.jpg)

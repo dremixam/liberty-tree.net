@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Élections du nouveau maire de Vice City
-cover: "/content/images/2016/06/bu.jpg"
 authors:
-  - chaos-red
+- chaos-red
+cover: /content/images/2016/06/bu.jpg
 date: '2006-02-11 00:00:00'
+layout: article
+redirect_from:
+- /2006/02/10/elections-du-nouveau-maire-de-vice-city
+- /2006/02/10/elections-du-nouveau-maire-de-vice-city/
 tags:
 - vice-city
-redirect_from:
-  - /2006/02/10/elections-du-nouveau-maire-de-vice-city
+title: Élections du nouveau maire de Vice City
 ---
+
 
 _Lundi, mardi et jeudi, les citoyens de la ville du "vice" iront voter pour leur nouveau maire. Les campagnes publicitaires ont d'ores et déjà commencé et il semblerait que les "Viciens" aient un faible pour Fabionno Kartel, le jeune poulain d'Alexandre Shrub._
 

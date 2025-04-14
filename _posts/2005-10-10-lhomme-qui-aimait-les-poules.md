@@ -1,15 +1,17 @@
 ---
-layout: article
-title: L'homme qui aimait les poules
-cover: "/content/images/2016/06/poul5.jpg"
 authors:
-  - little-worm
+- little-worm
+cover: /content/images/2016/06/poul5.jpg
 date: '2005-10-10 00:00:00'
+layout: article
+redirect_from:
+- /2005/10/09/lhomme-qui-aimait-les-poules
+- /2005/10/09/lhomme-qui-aimait-les-poules/
 tags:
 - vice-city
-redirect_from:
-  - /2005/10/09/lhomme-qui-aimait-les-poules
+title: L'homme qui aimait les poules
 ---
+
 
 _Après une altercation musclée, un maraudeur s'en prenant à d'innocentes volailles d'Hilltop Farm a été mis derrière les barreaux._
 

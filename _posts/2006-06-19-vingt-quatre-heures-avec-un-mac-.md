@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 24 heures avec un "mac"
-cover: "/content/images/2005/01/pimpup.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/pimpup.jpg
 date: '2006-06-19 00:00:00'
+layout: article
 tags:
 - los-santos
+title: 24 heures avec un "mac"
 ---
+
 
 Au delà de l'image classique du "Pimp" en manteau de fourrure et chapeau orné d'une plume, couvert de bijoux, roulant en Cadillac où l'or remplace le chrome, qui sont vraiment les proxénètes de Los Santos? Oubliez les clichés de Ron O'Neil dans Super Fly, car le maquereau moderne est un vrai businessman essayant de gérer au mieux son entreprise.
 

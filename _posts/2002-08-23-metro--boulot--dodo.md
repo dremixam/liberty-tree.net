@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Métro, boulot, dodo
 authors:
-  - rr4
+- rr4
 date: '2002-08-23 00:00:00'
+layout: article
+redirect_from:
+- /2002/08/22/metro-boulot-dodo
+- /2002/08/22/metro-boulot-dodo/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/08/22/metro-boulot-dodo
+title: Métro, boulot, dodo
 ---
+
 
 Le "train-train" quotidien pesant de Liberty City entraîne certains de nos concitoyens à commettre des actes dangereux et irréfléchis.
 

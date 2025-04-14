@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le mystère des Glendale "fantômes" élucidé
-cover: "/content/images/2016/06/Glendale_2.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2016/06/Glendale_2.jpg
 date: '2005-12-21 00:00:00'
+layout: article
+redirect_from:
+- /2005/12/20/le-mystere-des-glendale-fantomes-elucide
+- /2005/12/20/le-mystere-des-glendale-fantomes-elucide/
 tags:
 - vice-city
-redirect_from:
-  - /2005/12/20/le-mystere-des-glendale-fantomes-elucide
+title: Le mystère des Glendale "fantômes" élucidé
 ---
+
 
 _Le mystère des Glendales abandonnées dans la campagne de San Andreas a enfin été résolu. Hélas pour les adeptes du paranormal, pas de monstres ni d'extraterrestres..._
 

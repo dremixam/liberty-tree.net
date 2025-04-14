@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Reportage sur le tournage d'un film bientôt culte...
-cover: "/content/images/2005/01/affiche-OGF.jpg"
 authors:
-  - antholintello
+- antholintello
+cover: /content/images/2005/01/affiche-OGF.jpg
 date: '2006-11-07 00:00:00'
+layout: article
 tags:
 - los-santos
 - san-fierro
 - las-venturas
+title: Reportage sur le tournage d'un film bientôt culte...
 ---
+
 
  **Genre :** Action
 

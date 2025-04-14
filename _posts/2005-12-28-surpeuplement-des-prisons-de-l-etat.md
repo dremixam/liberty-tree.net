@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Surpeuplement des prisons de l'Etat
-cover: "/content/images/2005/01/Cellules.jpg"
 authors:
-  - bart_man
+- bart_man
+cover: /content/images/2005/01/Cellules.jpg
 date: '2005-12-28 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Surpeuplement des prisons de l'Etat
 ---
+
 
 Alors que les derniers chiffres sur le taux de criminalité à San Andreas sont éloquents et que la Police arrête de plus en plus de criminels, le surpeuplement des prisons semble atteindre son paroxysme. En effet, la moyenne de peuplement des prisons de l'Etat est de 3 prisonniers par cellule. Même si de nombreux crimes de haine sont commis en prison (partage d'une cellule entre membres de gangs différents), de nouveaux pensionnaires arrivent chaque jour. Mr Gerard Holyday, directeur du pénitencier fédéral de Back O' Beyond, a répondu à nos questions.
 

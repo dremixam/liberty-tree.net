@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Henrico Gonzales, seulement homme d'affaires
-cover: "/content/images/2005/01/henrico-Gonzales.jpg"
 authors:
-  - newz-report
+- newz-report
+cover: /content/images/2005/01/henrico-Gonzales.jpg
 date: '2007-01-15 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Henrico Gonzales, seulement homme d'affaires
 ---
+
 
 Le&nbsp;millionnaire qui avait été&nbsp;accusé après que les experts des Revenus Intérieurs&nbsp;aient trouvés des irrégularités sérieuses de comptabilité dans ses livres, y compris 450,000 $ de revenu non déclaré.
 

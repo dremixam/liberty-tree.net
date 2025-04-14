@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Quand le virtuel s'attaque au réel
-cover: "/content/images/2005/01/Console_Wnon.jpg"
 authors:
-  - heinrich
+- heinrich
+cover: /content/images/2005/01/Console_Wnon.jpg
 date: '2006-12-17 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Quand le virtuel s'attaque au réel
 ---
+
 
 Stephen Moors, le directeur du Verona Mall, pensait avoir réalisé un coup de maître en assurant à son magasin l’exclusivité des ventes de la Wnon à San Andreas pour la première semaine précédant sa sortie. Cela devait assurer un coup de pub incroyable pour le centre commercial en lui permettant de faire de gros bénéfices, surtout en cette période de fête de Noël. Le directeur avait confié ces quelques mots à nos confrères de San News « La Wnon est une console révolutionnaire, en nous assurant l’exclusivité des ventes, nous allons attirer tout les «&nbsp;gamers&nbsp;» de l’Etat, en plus des joueurs occasionnels et des parents en quête de cadeaux pour leurs enfants. Ce sera une grande journée&nbsp;»
 

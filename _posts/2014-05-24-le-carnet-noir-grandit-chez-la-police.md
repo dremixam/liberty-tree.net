@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le carnet noir grandit chez la police
-cover: "/content/images/2016/06/ZZZZZ_0.jpg"
 authors:
-  - gamer-reporter
+- gamer-reporter
+cover: /content/images/2016/06/ZZZZZ_0.jpg
 date: '2014-05-24 00:00:00'
+layout: article
+redirect_from:
+- /2014/05/23/le-carnet-noir-grandit-chez-la-police
+- /2014/05/23/le-carnet-noir-grandit-chez-la-police/
 tags:
 - los-santos
-redirect_from:
-  - /2014/05/23/le-carnet-noir-grandit-chez-la-police
+title: Le carnet noir grandit chez la police
 ---
+
 
  **Hier soir, le caporal Billy Walsh a périt dans un violent accident à Alta Street.**
 

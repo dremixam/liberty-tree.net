@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Naked Cars
-cover: "/content/images/2005/01/760Li.jpg"
 authors:
-  - dami
+- dami
+cover: /content/images/2005/01/760Li.jpg
 date: '2007-07-06 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Naked Cars
 ---
+
 
 Il est 9h30 ce lundi 4 juin. Comme tous les matins, Jack Carver, officier du LSPD se prépare à partir en patrouille dans le centre-ville. A bord de sa Caprice, café chaud et donuts à volonté (c'est d'après lui "le secret d'une patrouille réussie ..." ). Comme à l'accoutumée, cette mission de routine se passera dans le plus grand calme, bien que l'officier ne soit pas très enchanté par le fait de devoir calmer des automobilistes exaspérés coincés par les bouchons. Pourtant, à la sortie du commissariat, il ne fera pas cent mètres avant d'être envoyé chercher une épave planquée dans un parking souterrain de Downtown. L'officier de police nous avait expliqué :
 

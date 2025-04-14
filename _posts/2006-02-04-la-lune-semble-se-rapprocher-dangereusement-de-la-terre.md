@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La lune semble se rapprocher dangereusement de la Terre
-cover: "/content/images/2016/06/Lune_3.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2016/06/Lune_3.jpg
 date: '2006-02-04 00:00:00'
+layout: article
+redirect_from:
+- /2006/02/03/la-lune-semble-se-rapprocher-dangereusement-de-la-terre
+- /2006/02/03/la-lune-semble-se-rapprocher-dangereusement-de-la-terre/
 tags:
 - los-santos
-redirect_from:
-  - /2006/02/03/la-lune-semble-se-rapprocher-dangereusement-de-la-terre
+title: La lune semble se rapprocher dangereusement de la Terre
 ---
+
 
 _Depuis quelques semaines, plusieurs citoyens ont remarqué que la taille de la lune avait augmenté de façon plus que rapide. La population s'inquiète._
 

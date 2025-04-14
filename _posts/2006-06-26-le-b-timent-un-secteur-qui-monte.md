@@ -1,14 +1,15 @@
 ---
-layout: article
-title: Le bâtiment, un secteur qui monte
-cover: "/content/images/2005/01/Construction_Panlantic_LC.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2005/01/Construction_Panlantic_LC.jpg
 date: '2006-06-26 00:00:00'
+layout: article
 tags:
 - liberty-city
 - los-santos
+title: Le bâtiment, un secteur qui monte
 ---
+
 
 Vous en croisez tous les jours en allant au boulot, en allant chercher vos enfants à l'école ou encore en allant faire vos courses. Mais vous n'y faites pas attention ou presque. Pourtant, dans quelques années ils auront disparus et laisseront place à des bâtiments flambants neufs et souvent très imposants. Je veux bien sûr parler des chantiers de construction. Il y en a des centaines partout dans le pays, de Liberty City à Los Santos. Mais ce que vous ignorez peut-être, c'est que le secteur du bâtiment est extrêmement concurrentiel. Plusieurs entreprises se livrent une bataille sans merci pour construire les immeubles ou les casinos de demain.
 

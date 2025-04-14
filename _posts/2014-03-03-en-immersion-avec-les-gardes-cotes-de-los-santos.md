@@ -1,15 +1,17 @@
 ---
-layout: article
-title: En immersion avec les gardes-côtes de Los Santos
-cover: "/content/images/2016/06/Garde-cote.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Garde-cote.jpg
 date: '2014-03-03 00:00:00'
+layout: article
+redirect_from:
+- /2014/03/02/en-immersion-avec-les-gardes-cotes-de-los-santos
+- /2014/03/02/en-immersion-avec-les-gardes-cotes-de-los-santos/
 tags:
 - los-santos
-redirect_from:
-  - /2014/03/02/en-immersion-avec-les-gardes-cotes-de-los-santos
+title: En immersion avec les gardes-côtes de Los Santos
 ---
+
 
 _Le métier de garde-côte est souvent considéré comme l'un des plus méconnus du grand public. Pour vous lecteurs, le Liberty Tree s'est glissé dans le milieu de la surveillance des plages et du sauvetage en mer..._
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'Vice City : L''envers du décor'
-cover: "/content/images/2005/01/Vice-city_05.jpg"
 authors:
-  - gtaboss33
+- gtaboss33
+cover: /content/images/2005/01/Vice-city_05.jpg
 date: '2007-06-20 00:00:00'
+layout: article
 tags:
 - vice-city
+title: 'Vice City : L''envers du décor'
 ---
+
 
  **Vice City, ville de 400.000 habitants&nbsp;- 9 juin 2007 - 23:45 PM :** La ville commence à s'animer. Sur Washington Beach, l’endroit par excellence pour les touristes, les voitures de sport sont à l'affût dans les rues, l'entrée des plus grandes boîtes de la ville, comme le Malibu Club, sont envahis par de grands milliardaires et de jolies filles. Les plages, quant à elles, sont aussi des lieux privilégiés pour les&nbsp;plus grands fêtards, tous&nbsp;riches bien sûr.&nbsp;Ils sont près à dépenser une fortune lors de ces soirées _People ,_ comme on les appelle, pour du champagne, et autres boissons dont le prix peut atteindre des sommets exorbitants! Vice City est le rêve américain de la démesure où règne corps athlétique et frime en tout genre.
 

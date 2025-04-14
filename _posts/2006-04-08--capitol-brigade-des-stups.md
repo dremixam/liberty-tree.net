@@ -1,13 +1,14 @@
 ---
-layout: article
-title: "$Capitol$ : Brigade des stups"
-cover: "/content/images/2005/01/affiche.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/affiche.jpg
 date: '2006-04-08 00:00:00'
+layout: article
 tags:
 - liberty-city
+title: '$Capitol$ : Brigade des stups'
 ---
+
 
 Mardi 28 mars. Alors que tous les secteurs et brigades du LCPD partent faire régner l'ordre, un seul secteur reste dans son coin, bien en dehors des manifestations, c'est la brigade des stups. Nous sommes à Trenton Police, Portland. Ici, c'est la&nbsp;Cosa Nostra&nbsp;et les Triades qui contrôlent le quartier, et seul réside les Diablos, avec leur trafic de cocaïne dont cette dernière sera remise aux prostituées.
 

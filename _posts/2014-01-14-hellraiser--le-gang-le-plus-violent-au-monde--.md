@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Hellraiser, le gang le plus violent au monde ?
-cover: "/content/images/2016/06/0_0_121.jpg"
 authors:
-  - gamer-reporter
+- gamer-reporter
+cover: /content/images/2016/06/0_0_121.jpg
 date: '2014-01-14 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/13/hellraiser-le-gang-le-plus-violent-au-monde
+- /2014/01/13/hellraiser-le-gang-le-plus-violent-au-monde/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/13/hellraiser-le-gang-le-plus-violent-au-monde
+title: Hellraiser, le gang le plus violent au monde ?
 ---
+
 
 ## Le gang qui a terrassé les Lost en 3 jours.
 

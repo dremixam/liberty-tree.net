@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Le LCPD en sous-effectif !
 authors:
-  - dremixam
+- dremixam
 date: '2008-03-17 13:31:00'
+layout: article
 tags:
 - liberty-city
+title: Le LCPD en sous-effectif !
 ---
+
 
 _Le LCPD, en manque d'effectifs, lance ce mois-ci une grande campagne de recrutement. Êtes-vous prêt à rejoindre l'élite des forces de l'ordre ?_
 

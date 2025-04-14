@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Bikini Line dans l'eau chaude
-cover: "/content/images/2005/01/Bikini-Line_Cover.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2005/01/Bikini-Line_Cover.jpg
 date: '2006-10-11 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Bikini Line dans l'eau chaude
 ---
+
 
 ![QG de Bikini Line.](/content/images/2005/01/Bikini-Line_QG.jpg)
 _QG de Bikini Line._

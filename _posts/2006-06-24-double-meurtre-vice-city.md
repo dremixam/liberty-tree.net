@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Double meurtre à Vice City
-cover: "/content/images/2005/01/viceport.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/viceport.jpg
 date: '2006-06-24 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Double meurtre à Vice City
 ---
+
 
 "Ça fait pas longtemps que je bosse dans le coin et je crois que je vais démissionner !". Tels sont les propos d'un docker travaillant au port de Vice City&nbsp;qui a découvert il y a&nbsp;maintenant trois jours, deux cadavres dans une Cadillac Eldorado mouillant à quelques mètres du quai.
 

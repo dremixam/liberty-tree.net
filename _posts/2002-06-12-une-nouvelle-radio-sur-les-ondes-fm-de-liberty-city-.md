@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Une nouvelle radio sur les ondes FM de Liberty City!
 authors:
-  - mot3
+- mot3
 date: '2002-06-12 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/11/une-nouvelle-radio-sur-les-ondes-fm-de-liberty-city
+- /2002/06/11/une-nouvelle-radio-sur-les-ondes-fm-de-liberty-city/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/11/une-nouvelle-radio-sur-les-ondes-fm-de-liberty-city
+title: Une nouvelle radio sur les ondes FM de Liberty City!
 ---
+
 
 Blasés d'écouter les derniers tubes à la mode sur Jah, Head ou autres radio ? Soyez heureux et fêtez l'arrivée d'une toute nouvelle radio très... personnalisable.
 

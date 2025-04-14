@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Have a bad day !
-cover: "/content/images/2016/06/csi3_0.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/csi3_0.jpg
 date: '2006-05-12 00:00:00'
+layout: article
+redirect_from:
+- /2006/05/11/have-a-bad-day
+- /2006/05/11/have-a-bad-day/
 tags:
 - los-santos
-redirect_from:
-  - /2006/05/11/have-a-bad-day
+title: Have a bad day !
 ---
+
 
 Les cadavres se suivent et se ressemblent à la morgue du LSPD en cette douce journée de Mai. Trois morts violentes, trois règlements de compte qui semblent être signés d'une seule et même personne.
 

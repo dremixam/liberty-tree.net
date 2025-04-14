@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Palmer-Taylor : Nouvelle attaque écologiste'
-cover: "/content/images/2016/06/0_0%20%287%29_7.jpg"
 authors:
-  - titi
+- titi
+cover: /content/images/2016/06/0_0%20%287%29_7.jpg
 date: '2014-12-12 00:00:00'
+layout: article
+redirect_from:
+- /2014/12/11/palmer-taylor-nouvelle-attaque-ecologiste
+- /2014/12/11/palmer-taylor-nouvelle-attaque-ecologiste/
 tags:
 - los-santos
-redirect_from:
-  - /2014/12/11/palmer-taylor-nouvelle-attaque-ecologiste
+title: 'Palmer-Taylor : Nouvelle attaque écologiste'
 ---
+
 
 _Hier matin, deux hommes ont été arrêtés à leur domicile. Ils sont accusés d'avoir fait voler des drones au dessus de l'usine à gaz naturel de Palmer-Taylor._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Le débat sur la vitesse: les dés sont lancés'
-cover: "/content/images/v1/user23/nona01.jpg"
 authors:
-  - pavlov
+- pavlov
+cover: /content/images/v1/user23/nona01.jpg
 date: '2002-12-31 00:00:00'
+layout: article
+redirect_from:
+- /2002/12/30/le-debat-sur-la-vitesse-les-des-sont-lances
+- /2002/12/30/le-debat-sur-la-vitesse-les-des-sont-lances/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/12/30/le-debat-sur-la-vitesse-les-des-sont-lances
+title: 'Le débat sur la vitesse: les dés sont lancés'
 ---
+
 
 _Dans notre ville, il n'y a aucune limitation de vitesse, ce qui correspond à la volonté de garder une ville de liberté, Liberty City. Pourtant, 60% des accidents de la route sont dus a une vitesse trop élevée. Le Liberty Tree a décidé de mener l'enquête._
 

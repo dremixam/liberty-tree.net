@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 24 heures avec un vendeur d'armes
-cover: "/content/images/2016/06/amunation.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2016/06/amunation.jpg
 date: '2005-12-12 00:00:00'
+layout: article
+redirect_from:
+- /2005/12/11/24-heures-avec-un-vendeur-darmes
+- /2005/12/11/24-heures-avec-un-vendeur-darmes/
 tags:
 - los-santos
-redirect_from:
-  - /2005/12/11/24-heures-avec-un-vendeur-darmes
+title: 24 heures avec un vendeur d'armes
 ---
+
 
 _Je me suis immiscé pendant 24 heures dans la vie de Ruppert Hills, vendeur au Ammu-Nation dans le centre de Los Santos. Un métier qui n'est pas de tout repos..._
 

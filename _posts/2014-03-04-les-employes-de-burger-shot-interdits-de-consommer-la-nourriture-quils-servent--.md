@@ -1,16 +1,18 @@
 ---
-layout: article
-title: Les employés de Burger Shot interdits de consommer la nourriture qu'ils servent
-  !
-cover: "/content/images/2016/06/BurgerShot_1.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/BurgerShot_1.jpg
 date: '2014-03-04 00:00:00'
+layout: article
+redirect_from:
+- /2014/03/03/les-employes-de-burger-shot-interdits-de-consommer-la-nourriture-quils-servent
+- /2014/03/03/les-employes-de-burger-shot-interdits-de-consommer-la-nourriture-quils-servent/
 tags:
 - los-santos
-redirect_from:
-  - /2014/03/03/les-employes-de-burger-shot-interdits-de-consommer-la-nourriture-quils-servent
+title: Les employés de Burger Shot interdits de consommer la nourriture qu'ils servent
+  !
 ---
+
 
 _Nouveau scandale sanitaire en vue dans le monde de la restauration rapide : un ancien employé de Burger Shot a révélé que les employés n'avaient pas le droit, pour raisons de santé, de consommer la nourriture qu'ils servent._
 

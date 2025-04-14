@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un drôle de photographe
-cover: "/content/images/2016/06/Photo_2.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2016/06/Photo_2.jpg
 date: '2006-01-11 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/10/un-drole-de-photographe
+- /2006/01/10/un-drole-de-photographe/
 tags:
 - san-fierro
-redirect_from:
-  - /2006/01/10/un-drole-de-photographe
+title: Un drôle de photographe
 ---
+
 
 _Depuis quelques semaines, plusieurs personnes affirment avoir vu un homme se jeter délibérément dans l'eau dans les environs de Fallen Tree au sud de San Fierro._
 

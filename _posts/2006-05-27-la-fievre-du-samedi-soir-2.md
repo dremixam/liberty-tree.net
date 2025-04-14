@@ -1,15 +1,16 @@
 ---
-layout: article
-title: La Fièvre du Samedi Soir
-cover: "/content/images/2005/01/Alhambra_3.jpg"
 authors:
-  - scarface1991
+- scarface1991
+cover: /content/images/2005/01/Alhambra_3.jpg
 date: '2006-05-27 17:49:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: La Fièvre du Samedi Soir
 ---
+
 
 _Pour ce second numéro de "La Fièvre du Samedi Soir" je vais vous emmener dans des soirées chaudes, très chaudes, dans les meilleures boîtes de nuits de l'Etat de San Andreas. Pour pouvoir prendre du plaisir, danser et peut-être conclure avec un bon petit resto' ou un bourrage de gueule dans un bar branché. Tout ça se passe ici, maintenant, dans"La Fièvre du Samedi Soir"..._
 

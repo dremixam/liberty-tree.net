@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Purge de paparazzi
-cover: "/content/images/2016/06/paparazzi3_0.jpg"
 authors:
-  - rr4
+- rr4
+cover: /content/images/2016/06/paparazzi3_0.jpg
 date: '2002-05-30 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/29/purge-de-paparazzi
+- /2002/05/29/purge-de-paparazzi/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/29/purge-de-paparazzi
+title: Purge de paparazzi
 ---
+
 
 C'est bien connu, la police abuse de ses droits, mais hier soir j'en ai eu la confirmation alors que je préparais un article sur les Yakuza.
 

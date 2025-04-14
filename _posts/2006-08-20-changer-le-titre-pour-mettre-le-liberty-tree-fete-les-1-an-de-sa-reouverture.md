@@ -1,12 +1,13 @@
 ---
-layout: article
-title: le Liberty Tree fête les 1 an de sa réouverture
 authors:
-  - tenpenny
+- tenpenny
 date: '2006-08-20 18:49:00'
+layout: article
 tags:
 - los-santos
+title: le Liberty Tree fête les 1 an de sa réouverture
 ---
+
 
 _Il y a un an, le Liberty Tree renaissait de ses cendres dans des bureaux tous neufs dans le quartier de Downtown. Jusqu'à aujourd'hui, le Liberty Tree peut se vanter d'avoir toujours évolué pour la plus grande satisfaction de ses lecteurs._
 

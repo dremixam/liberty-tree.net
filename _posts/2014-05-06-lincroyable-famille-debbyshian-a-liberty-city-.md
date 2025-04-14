@@ -1,15 +1,17 @@
 ---
-layout: article
-title: L'incroyable famille Debbyshian à Liberty City
-cover: "/content/images/2016/06/009.jpg"
 authors:
-  - aymar
+- aymar
+cover: /content/images/2016/06/009.jpg
 date: '2014-05-06 00:00:00'
+layout: article
+redirect_from:
+- /2014/05/05/lincroyable-famille-debbyshian-a-liberty-city
+- /2014/05/05/lincroyable-famille-debbyshian-a-liberty-city/
 tags:
 - liberty-city
-redirect_from:
-  - /2014/05/05/lincroyable-famille-debbyshian-a-liberty-city
+title: L'incroyable famille Debbyshian à Liberty City
 ---
+
 
 _En 2004, la chaîne de télévision bien connue des américains Eye-Be-One dévoilait une série de plusieurs saisons nommée "Les Rues de San Fierro". Elle revient cette fois-ci avec un nouveau show..._
 

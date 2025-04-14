@@ -1,13 +1,14 @@
 ---
-layout: article
-title: La mystérieuse fan terrorise le Liberty-Tree
-cover: "/content/images/2005/01/newbuilding.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/2005/01/newbuilding.jpg
 date: '2005-10-31 00:00:00'
+layout: article
 tags:
 - los-santos
+title: La mystérieuse fan terrorise le Liberty-Tree
 ---
+
 
 Il y a quelques jours, me sentant très seul depuis quelques temps, j'ai décidé d'insérer dans les petites annonces du Liberty Tree l'annonce suivante:  
 "Rédacteur en chef solitaire recherche jeune fille, contactez la rédaction."  

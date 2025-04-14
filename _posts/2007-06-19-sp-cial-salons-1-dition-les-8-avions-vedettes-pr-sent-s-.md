@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'Spécial salons 1° édition : les 8 avions vedettes présentés.'
-cover: "/content/images/2005/01/dh_beaver_2_.jpg"
 authors:
-  - pyro
+- pyro
+cover: /content/images/2005/01/dh_beaver_2_.jpg
 date: '2007-06-19 00:00:00'
+layout: article
 tags:
 - liberty-city
+title: 'Spécial salons 1° édition : les 8 avions vedettes présentés.'
 ---
+
 
 Ces deux salons incontournables pour les fans d’aviation ont la mauvaise réputation d’avoir lieu presque en même temps, ce qui désavantage beaucoup le pilote pas très riche qui ne peut se payer le voyage pour aller aux deux. Ce phénomène était arrivé en 1996 date à laquelle L’Ameravia s’est déroulé à Liberty City.
 

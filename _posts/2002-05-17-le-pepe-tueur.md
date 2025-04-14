@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Le pépé tueur
 authors:
-  - zico
+- zico
 date: '2002-05-17 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/16/le-pepe-tueur
+- /2002/05/16/le-pepe-tueur/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/16/le-pepe-tueur
+title: Le pépé tueur
 ---
+
 
 Un homme de 88 ans a été arrêté pour divers crimes atroces.
 

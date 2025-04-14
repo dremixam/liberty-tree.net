@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Gros plan sur le Transfender de Las Venturas
-cover: "/content/images/2016/06/t16.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/t16.jpg
 date: '2006-07-07 00:00:00'
+layout: article
+redirect_from:
+- /2006/07/06/gros-plan-sur-le-transfender-de-las-venturas
+- /2006/07/06/gros-plan-sur-le-transfender-de-las-venturas/
 tags:
 - las-venturas
-redirect_from:
-  - /2006/07/06/gros-plan-sur-le-transfender-de-las-venturas
+title: Gros plan sur le Transfender de Las Venturas
 ---
+
 
 Depuis plusieurs mois, le garage Transfender de Las Venturas, situé au sud du Strip, tourne à plein régime. Une étude interne menée par Vladislav Poliakov, propriétaire des garages Transfender, démontre que la succursale de Las Venturas est de loin le plus fréquenté de tout l'Etat de San Andreas. Petit retour dans le temps. 1992, Vladislav Poliakov, alors diplômé d'une école de commerce, quitte sa Russie natale pour les plages ensoleillées de Los Santos en vue d'y ouvrir un garage de modification d'automobiles au cas par cas.
 

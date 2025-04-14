@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Love Media en procès
-cover: "/content/images/v1/user10/LoveMedia.jpg"
 authors:
-  - pierrealex
+- pierrealex
+cover: /content/images/v1/user10/LoveMedia.jpg
 date: '2002-08-23 00:00:00'
+layout: article
+redirect_from:
+- /2002/08/22/love-media-en-proces
+- /2002/08/22/love-media-en-proces/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/08/22/love-media-en-proces
+title: Love Media en procès
 ---
+
 
 Hier, 03h00, les enfants de Liberty rentrent de leur escapade nocturne quotidienne, allument le poste de télévision, sur la chaîne _LoveTv_ (unique chaîne reçue à Liberty City). C'est alors qu'il découvrent avec effroi, un numéro de Strip-Tease effectué par les filles du Sex Club Seven. Les enfants, naïfs et incrédules, assistent au spectacle.
 

@@ -1,14 +1,16 @@
 ---
-layout: article
-title: "''Space ice-cream''"
 authors:
-  - pierrealex
+- pierrealex
 date: '2002-08-22 00:00:00'
+layout: article
+redirect_from:
+- /2002/08/21/space-ice-cream
+- /2002/08/21/space-ice-cream/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/08/21/space-ice-cream
+title: '''''Space ice-cream'''''
 ---
+
 
 C'est dans la journée d'hier que les douaniers d'Atlantic Quays à Portland ont décelé un important stock de glace au Spank en provenance de Colombie. Il était destiné aux camions de glace de l'enseigne "Mr Whoopee" . Le célèbre glacier possédant le monopole de la vente de glace à Liberty-City rétorque que ces glaces n'ont jamais été sollicitées par l'entreprise. Arthur Q, son président aurait déclaré:
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Les taxis Kaufman rachetés par la mafia
-cover: "/content/images/2005/01/Kaufman.jpg"
 authors:
-  - john-johnson
+- john-johnson
+cover: /content/images/2005/01/Kaufman.jpg
 date: '2006-04-09 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Les taxis Kaufman rachetés par la mafia
 ---
+
 
 Depuis de nombreuses années, la compagnie de taxis Kaufman Cabs à dû garder sa clientèle fidèle et nombreuse. La recette pour un bon taxi selon les viciens ? Tout d'abord, la disponibilité qui est le facteur le plus important chez Kaufman. Ensuite, la rapidité, puis le prix et enfin l’accueil. Toutes ces conditions, les taxis Kaufman Cabs les remplissent parfaitement. Voilà pourquoi la compagnie, qui vient récemment de fêter ses 20 ans, à dû conquérir le cœur du public..
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Grand Theft Auto
-cover: "/content/images/2005/01/GTA25.jpg"
 authors:
-  - pavlov
+- pavlov
+cover: /content/images/2005/01/GTA25.jpg
 date: '2006-11-12 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Grand Theft Auto
 ---
+
 
 Il est 3h40 du matin lorsque le commandant Eric Brown reçoit un appel radio de la part de l'officier Brzezinski. "Chef, ça bouge a Mulholland". Pour le commandant ce fut le signe que la bande de voleurs de voitures que le LSPD surveillait depuis quarante-huit heures était passée à l'action. Mais Eric Brown ne se doutait pas de l'ampleur de l'opération qu'il allait mener dans les heures qui suivirent.
 

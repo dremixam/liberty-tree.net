@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les supermarchés, cibles favorites des braqueurs amateurs
-cover: "/content/images/2016/06/Supermarket.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Supermarket.jpg
 date: '2013-12-10 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/09/les-supermarches-cibles-favorites-des-braqueurs-amateurs
+- /2013/12/09/les-supermarches-cibles-favorites-des-braqueurs-amateurs/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/09/les-supermarches-cibles-favorites-des-braqueurs-amateurs
+title: Les supermarchés, cibles favorites des braqueurs amateurs
 ---
+
 
 On compte une vingtaine de supermarchés et débits de boissons à travers Los Santos et Blaine County. Trois franchises se partagent les supérettes : 24/7, LTD Limited Service et Rob Liquor. Les supermarchés sont souvent très utiles pour les habitants, car ils sont ouverts à longueur de journée, et permettent de trouver toutes sortes d'articles.
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Feux Ravageurs
-cover: "/content/images/2016/06/4_foret_0.jpg"
 authors:
-  - filzonfire
+- filzonfire
+cover: /content/images/2016/06/4_foret_0.jpg
 date: '2006-01-25 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/24/feux-ravageurs
+- /2006/01/24/feux-ravageurs/
 tags:
 - vice-city
-redirect_from:
-  - /2006/01/24/feux-ravageurs
+title: Feux Ravageurs
 ---
+
 
 _Depuis plusieurs jours, des feux brûlent tout sur leurs passages aux quatre coins de l'état. Les pompiers ont perdu le contrôle._
 

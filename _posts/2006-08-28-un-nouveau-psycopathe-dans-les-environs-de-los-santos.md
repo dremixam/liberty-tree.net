@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Un nouveau psycopathe dans les environs de Los Santos
-cover: "/content/images/2005/01/psyco1.jpg"
 authors:
-  - civic666
+- civic666
+cover: /content/images/2005/01/psyco1.jpg
 date: '2006-08-28 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Un nouveau psycopathe dans les environs de Los Santos
 ---
+
 
 Tout commence en juillet 2006, alors que l'on&nbsp;retrouve un corps, vidé de la plupart de ses&nbsp;organes, pendu à un arbre, pas loin de Montgomery.
 

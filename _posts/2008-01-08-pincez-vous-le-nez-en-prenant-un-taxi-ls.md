@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Pincez-vous le nez en prenant un taxi LS!
 authors:
-  - special-k
+- special-k
 date: '2008-01-08 23:05:00'
+layout: article
 tags:
 - los-santos
+title: Pincez-vous le nez en prenant un taxi LS!
 ---
+
 
 _Déjà consacré comme joyaux du patrimoine de San Andreas lors de son centenaire, la compagnie de taxi de Los Santos ajoute à son historique en remportant une première place à un palmarès très peu flatteur._
 

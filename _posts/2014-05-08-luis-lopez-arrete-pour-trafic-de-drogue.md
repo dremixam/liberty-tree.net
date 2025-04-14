@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Luis Lopez arrêté pour trafic de drogue
-cover: "/content/images/2016/06/Sans%20titre.png"
 authors:
-  - aymar
+- aymar
+cover: /content/images/2016/06/Sans%20titre.png
 date: '2014-05-08 00:00:00'
+layout: article
+redirect_from:
+- /2014/05/07/luis-lopez-arrete-pour-trafic-de-drogue
+- /2014/05/07/luis-lopez-arrete-pour-trafic-de-drogue/
 tags:
 - los-santos
-redirect_from:
-  - /2014/05/07/luis-lopez-arrete-pour-trafic-de-drogue
+title: Luis Lopez arrêté pour trafic de drogue
 ---
+
 
 _Luis Fernando Lopez a été arrêté cette nuit pour trafic de drogue et blanchiment d'argent à Liberty City alors qu'il allait prendre un avion pour Los Santos..._
 

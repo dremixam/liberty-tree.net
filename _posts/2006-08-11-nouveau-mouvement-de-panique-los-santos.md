@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Nouveau mouvement de panique à Los Santos
-cover: "/content/images/2005/01/road_block2.jpg"
 authors:
-  - antholintello
+- antholintello
+cover: /content/images/2005/01/road_block2.jpg
 date: '2006-08-11 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Nouveau mouvement de panique à Los Santos
 ---
+
 
 Souvenez-vous des émeutes de 1992 qui éclatèrent à Los Santos à cause des charges d’accusations qui pesaient sur un officier de police. La situation était intenable et effrayante pour tout les habitants.
 

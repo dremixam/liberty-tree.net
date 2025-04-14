@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Meurtre au Los Santos Forum
-cover: "/content/images/2005/01/Stade_02.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2005/01/Stade_02.jpg
 date: '2006-04-28 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Meurtre au Los Santos Forum
 ---
+
 
 Hier matin, un homme a été retrouvé mort derrière le Los Santos Forum par un passant qui promenait son chien.
 

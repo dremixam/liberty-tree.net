@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Crash d'un avion de ligne
-cover: "/content/images/2016/06/AT-400%20en%20vol.jpg"
 authors:
-  - xtrmboss
+- xtrmboss
+cover: /content/images/2016/06/AT-400%20en%20vol.jpg
 date: '2005-10-13 00:00:00'
+layout: article
+redirect_from:
+- /2005/10/12/crash-dun-avion-de-ligne
+- /2005/10/12/crash-dun-avion-de-ligne/
 tags:
 - san-fierro
-redirect_from:
-  - /2005/10/12/crash-dun-avion-de-ligne
+title: Crash d'un avion de ligne
 ---
+
 
 _Hier soir, un avion de ligne AT-400 s'est malheureusement écrasé dans la baie de San Fierro. Récit d'un crash inexpliqué._
 

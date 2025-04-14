@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Liberty City sous un angle différent
 authors:
-  - alex
+- alex
 date: '2003-03-07 14:14:00'
+layout: article
 tags:
 - liberty-city
+title: Liberty City sous un angle différent
 ---
+
 
 _Cette semaine, le club d'aviation « Heliplane » a fêté ses 5 ans d'existence à l'Aéroport Int. Françis. C'est une bande de passionnés d'aéronautique que je suis allé rencontrer._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le Liberty Tree inaugure ses bureaux à Los Santos
-cover: "/content/images/2016/06/LT.jpg"
 authors:
-  - ethan-brook
+- ethan-brook
+cover: /content/images/2016/06/LT.jpg
 date: '2013-11-07 00:00:00'
+layout: article
+redirect_from:
+- /2013/11/06/le-liberty-tree-inaugure-ses-bureaux-a-los-santos
+- /2013/11/06/le-liberty-tree-inaugure-ses-bureaux-a-los-santos/
 tags:
 - los-santos
-redirect_from:
-  - /2013/11/06/le-liberty-tree-inaugure-ses-bureaux-a-los-santos
+title: Le Liberty Tree inaugure ses bureaux à Los Santos
 ---
+
 
 Le Liberty Tree fait à partir d'aujourd'hui son grand retour à Los Santos, la ville des stars et des paillettes. Le journal revient de loin mais il revient pour vous. Ce n'est pas la première fois que le journal renaît ainsi de ses cendres, retour sur bientôt treize années passées à vos cotés.
 

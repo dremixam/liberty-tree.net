@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Crash à Vinewood
-cover: "/content/images/2016/06/Explosion_1.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2016/06/Explosion_1.jpg
 date: '2006-03-04 00:00:00'
+layout: article
+redirect_from:
+- /2006/03/03/crash-a-vinewood
+- /2006/03/03/crash-a-vinewood/
 tags:
 - los-santos
-redirect_from:
-  - /2006/03/03/crash-a-vinewood
+title: Crash à Vinewood
 ---
+
 
 _Vers midi, un accident impliquant un avion et 3 véhicules a fait plusieurs morts à Vinewood._
 

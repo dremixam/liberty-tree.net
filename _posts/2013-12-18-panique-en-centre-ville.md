@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Panique en centre-ville
-cover: "/content/images/2016/06/Panique1.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Panique1.jpg
 date: '2013-12-18 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/17/panique-en-centre-ville
+- /2013/12/17/panique-en-centre-ville/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/17/panique-en-centre-ville
+title: Panique en centre-ville
 ---
+
 
 Hier dans le centre-ville de Los Santos, sur les coups de 16 heures, le trafic est souvent surchargé. En effet, la plupart des gratte-ciels remplis de bureaux se vident, et chaque employé cherche à rentrer chez lui le plus rapidement possible. Heureusement, en général, tout se passe pour le mieux... Sauf hier soir.
 

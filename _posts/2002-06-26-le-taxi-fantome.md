@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le taxi fantôme
-cover: "/content/images/2016/06/taxifantome2_0.jpg"
 authors:
-  - little-worm
+- little-worm
+cover: /content/images/2016/06/taxifantome2_0.jpg
 date: '2002-06-26 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/25/le-taxi-fantome
+- /2002/06/25/le-taxi-fantome/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/25/le-taxi-fantome
+title: Le taxi fantôme
 ---
+
 
 Cette après midi un taxi s'est promené dans Liberty, normal vu qu'un taxi est fait pour rouler,oui mais celui-ci était vide !
 

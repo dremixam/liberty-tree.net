@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un attentat déjoué au Kortz Center
-cover: "/content/images/2016/06/Attentat.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Attentat.jpg
 date: '2014-07-24 00:00:00'
+layout: article
+redirect_from:
+- /2014/07/23/un-attentat-dejoue-au-kortz-center
+- /2014/07/23/un-attentat-dejoue-au-kortz-center/
 tags:
 - los-santos
-redirect_from:
-  - /2014/07/23/un-attentat-dejoue-au-kortz-center
+title: Un attentat déjoué au Kortz Center
 ---
+
 
 _Un attentat à la voiture piégée a été déjoué hier, juste avant une visite du maire de la ville. Le suspect n'a pas encore été appréhendé._
 

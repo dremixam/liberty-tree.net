@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Liberty City vue d'en haut
-cover: "/content/images/v1/user1/yab11.jpg"
 authors:
-  - baz
+- baz
+cover: /content/images/v1/user1/yab11.jpg
 date: '2003-01-14 00:00:00'
+layout: article
+redirect_from:
+- /2003/01/13/liberty-city-vue-den-haut
+- /2003/01/13/liberty-city-vue-den-haut/
 tags:
 - liberty-city
-redirect_from:
-  - /2003/01/13/liberty-city-vue-den-haut
+title: Liberty City vue d'en haut
 ---
+
 
 Le dernier livre du célèbre photographe Liberticien, Yann Arthus Tranbert, vient de paraître aux éditions Love Presse. Comme à son habitude, il nous livre une vue inhabituelle de notre belle ville, avec des points de vue que seul un dodo permet d'obtenir. Après New York, Hong Kong et d'autres paysages capturés au quatre coins du monde, ce livre marque pour lui un retour aux sources. En effet il marque le retour du photographe dans sa ville natale qu'il avait désertée depuis plusieurs années au profit de Vice City. L'émotion de ses retrouvailles avec notre ville est palpable sur chaque cliché.
 

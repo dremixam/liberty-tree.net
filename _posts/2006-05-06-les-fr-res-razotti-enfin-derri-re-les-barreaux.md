@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Les frères Razotti enfin derrière les barreaux
-cover: "/content/images/2005/01/leaders_malfaiteurs.jpg"
 authors:
-  - john-johnson
+- john-johnson
+cover: /content/images/2005/01/leaders_malfaiteurs.jpg
 date: '2006-05-06 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Les frères Razotti enfin derrière les barreaux
 ---
+
 
  **V** ice City et ses prostituées, Vice City et ses trafics de drogue, Vice City et ses deals d'armes...
 

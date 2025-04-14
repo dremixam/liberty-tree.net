@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le sniper décapiteur passe chez les "chics"
-cover: "/content/images/2016/06/shoreside_a_1.jpg"
 authors:
-  - fxbt
+- fxbt
+cover: /content/images/2016/06/shoreside_a_1.jpg
 date: '2002-11-23 00:00:00'
+layout: article
+redirect_from:
+- /2002/11/22/le-sniper-decapiteur-passe-chez-les-chics
+- /2002/11/22/le-sniper-decapiteur-passe-chez-les-chics/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/11/22/le-sniper-decapiteur-passe-chez-les-chics
+title: Le sniper décapiteur passe chez les "chics"
 ---
+
 
 Cette nuit, dans le calme paisible de Shoreside Valley, une prostituée a été la nouvelle victime du sniper décapiteur.
 

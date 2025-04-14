@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Plage privée...privée de surf
-cover: "/content/images/2005/01/Playa.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/Playa.jpg
 date: '2006-04-10 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Plage privée...privée de surf
 ---
+
 
 Le maire de Los Santos a annoncé la nouvelle ce matin : il est desormais interdit de pratiquer le surf à Santa Maria et Verona Beach. Une nouvelle qui a fait l'effet d'un raz de marrée chez les adeptes de ce sport, nombreux à Los Santos.
 

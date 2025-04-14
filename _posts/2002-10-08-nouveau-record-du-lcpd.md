@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Nouveau record du LCPD
 authors:
-  - fxbt
+- fxbt
 date: '2002-10-08 00:00:00'
+layout: article
+redirect_from:
+- /2002/10/07/nouveau-record-du-lcpd
+- /2002/10/07/nouveau-record-du-lcpd/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/10/07/nouveau-record-du-lcpd
+title: Nouveau record du LCPD
 ---
+
 
 Ce matin, à l'heure où les honnêtes gens vont au travail, la police s'est attelée à une rude affaire, en effet, voulant faire un banal contrôle de vitesse à la jumelle sur la route du pont automatique de Staunton Island, le police a eu la mauvaise surprise, outre de contrôler un bon nombre de personnes à une vitesse supérieure aux 50 Mph (50 miles par heure = 80 km/h) autorisés à Liberty-City, de contrôler plus de cent quinze automobilistes sans permis de conduire.
 

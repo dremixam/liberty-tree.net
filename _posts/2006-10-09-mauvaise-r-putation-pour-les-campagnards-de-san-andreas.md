@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Mauvaise réputation pour les campagnards de San Andreas
-cover: "/content/images/2005/01/Locaux_Local__s_Montgomerry_1.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2005/01/Locaux_Local__s_Montgomerry_1.jpg
 date: '2006-10-09 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Mauvaise réputation pour les campagnards de San Andreas
 ---
+
 
 Encore une fois, les critiques pleuvent sur San Andreas. Pas question cette fois-ci des industriels qui rejettent leurs déchets dans le Pacifique, des habitants du centre-ville du polluent avec leurs 4x4 ou des politiciens verreux qui s'en mettent plein les poches. Non cette fois-ci, ce sont les campagnards de l'état qui sont visés. Population généralement sans histoire, ils sont aujourd'hui au cœur de critiques violentes relayées dans un sondage réalisé auprès de touristes. Cette enquête révèle en effet que les habitants des petites villes de San Andreas seraient antipathiques et désagréables. Voici les principaux résultats de ce sondage en détail :
 

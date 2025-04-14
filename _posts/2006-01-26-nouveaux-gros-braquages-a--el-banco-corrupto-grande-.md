@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Nouveaux gros braquages à "El Banco Corrupto Grande"
-cover: "/content/images/2016/06/b.jpg"
 authors:
-  - chaos-red
+- chaos-red
+cover: /content/images/2016/06/b.jpg
 date: '2006-01-26 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/25/nouveaux-gros-braquages-a-el-banco-corrupto-grande
+- /2006/01/25/nouveaux-gros-braquages-a-el-banco-corrupto-grande/
 tags:
 - vice-city
-redirect_from:
-  - /2006/01/25/nouveaux-gros-braquages-a-el-banco-corrupto-grande
+title: Nouveaux gros braquages à "El Banco Corrupto Grande"
 ---
+
 
 _Tout le monde se souvient de l'étonnant braquage qui avait eu lieu il y a une dizaine d'années. Il s'était en effet terminé en carnage avec 17 morts et un blessé grave. Et bien cette fois pas de mort, ni même de trace. Total : 2 000 000$ volés !_
 

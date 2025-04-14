@@ -1,14 +1,15 @@
 ---
-layout: article
-title: San Andreas devenu le berceau de la corruption
-cover: "/content/images/2005/01/Corruption_1_.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2005/01/Corruption_1_.jpg
 date: '2006-03-29 00:00:00'
+layout: article
 tags:
 - los-santos
 - vice-city
+title: San Andreas devenu le berceau de la corruption
 ---
+
 
 Malheureusement, par les temps qui courent, la corruption est rendue un fléau bien incrusté partout où que vous soyez à San Andreas.
 

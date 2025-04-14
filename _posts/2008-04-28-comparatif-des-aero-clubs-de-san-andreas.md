@@ -1,14 +1,15 @@
 ---
-layout: article
-title: Comparatif des aéro-clubs de San Andreas
 authors:
-  - dremixam
+- dremixam
 date: '2008-04-28 12:48:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Comparatif des aéro-clubs de San Andreas
 ---
+
 
 _Vous avez toujours rêvé d'être aux commandes d'un avion ou de faire du parachutisme ? Nous avons comparé pour vous les aéro-clubs de San Andreas._
 

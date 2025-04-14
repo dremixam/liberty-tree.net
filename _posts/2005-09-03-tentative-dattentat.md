@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Tentative d’attentat
-cover: "/content/images/2016/06/voiture.jpg"
 authors:
-  - klem
+- klem
+cover: /content/images/2016/06/voiture.jpg
 date: '2005-09-03 00:00:00'
+layout: article
+redirect_from:
+- /2005/09/02/tentative-dattentat
+- /2005/09/02/tentative-dattentat/
 tags:
 - los-santos
-redirect_from:
-  - /2005/09/02/tentative-dattentat
+title: Tentative d’attentat
 ---
+
 
 Arrestation musclée de la police à la gare de Los Santos. La LSPD a perdu un de ses membres lors d’une fusillade opposant les forces de l’ordre à un gang encore inconnu jusqu’alors.
 

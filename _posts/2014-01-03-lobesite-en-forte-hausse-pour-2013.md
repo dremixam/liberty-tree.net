@@ -1,15 +1,17 @@
 ---
-layout: article
-title: L'obésité en forte hausse pour 2013
-cover: "/content/images/2016/06/0_0%20%289%29_3.jpg"
 authors:
-  - sapher
+- sapher
+cover: /content/images/2016/06/0_0%20%289%29_3.jpg
 date: '2014-01-03 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/02/lobesite-en-forte-hausse-pour-2013
+- /2014/01/02/lobesite-en-forte-hausse-pour-2013/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/02/lobesite-en-forte-hausse-pour-2013
+title: L'obésité en forte hausse pour 2013
 ---
+
 
 C'est officiel, les chiffres sont tombés il y a quelques heures seulement. L'obésité aux Etats-Unis, particulièrement à Los Santos, a grimpé. Des chiffres hallucinants, puisque 54 % de la population de cette ville serait obèse. La faute à qui ? Aux fast-food, qui envahissent la ville, avec leurs prix attractifs et leur nourriture douteuse. Mais aussi au manque de sport de cette population, plus occupée à regarder leur écran plat dernière génération plutôt qu'à aller faire un footing matinal sur la plage de Vespucci Beach.
 

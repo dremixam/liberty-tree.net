@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les comptes du LT, ou comment les journalistes ont explosé leur budget
-cover: "/content/images/2016/06/swit.jpg"
 authors:
-  - pavlov
+- pavlov
+cover: /content/images/2016/06/swit.jpg
 date: '2003-04-14 00:00:00'
+layout: article
+redirect_from:
+- /2003/04/13/les-comptes-du-lt-ou-comment-les-journalistes-ont-explose-leur-budget
+- /2003/04/13/les-comptes-du-lt-ou-comment-les-journalistes-ont-explose-leur-budget/
 tags:
 - liberty-city
-redirect_from:
-  - /2003/04/13/les-comptes-du-lt-ou-comment-les-journalistes-ont-explose-leur-budget
+title: Les comptes du LT, ou comment les journalistes ont explosé leur budget
 ---
+
 
 Une enquête du magazine "75 minutes" de la chaîne KPLC a montré hier des absurdités monstres au sujet des journalistes du Liberty Tree.
 

@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Danger sous les ponts
 authors:
-  - special-k
+- special-k
 date: '2008-01-20 23:16:00'
+layout: article
 tags:
 - los-santos
+title: Danger sous les ponts
 ---
+
 
 _Le LSPD a resserré sa surveillance aux abords des ponts et échangeurs sur son territoire après avoir reçu plusieurs rapports faisant état d'objets de toutes sortes lancés contre des automobilistes passant sous ces structures. Les autorités prennent l'affaire très au sérieux._
 

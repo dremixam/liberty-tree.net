@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le sapeur-pompier du mois
-cover: "/content/images/2016/06/score_pompiers2_0.jpg"
 authors:
-  - rr4
+- rr4
+cover: /content/images/2016/06/score_pompiers2_0.jpg
 date: '2002-06-26 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/25/le-sapeur-pompier-du-mois
+- /2002/06/25/le-sapeur-pompier-du-mois/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/25/le-sapeur-pompier-du-mois
+title: Le sapeur-pompier du mois
 ---
+
 
 Ce week-end, le pompier le plus valeureux de Liberty City s'est vu décoré de la médaille d'honneur des pompiers par le chef de la caserne de Portland.
 

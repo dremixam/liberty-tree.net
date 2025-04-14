@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Seulement 62% de jeunes diplômés cette année à San Andreas
-cover: "/content/images/2016/06/Diplome.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Diplome.jpg
 date: '2014-07-18 00:00:00'
+layout: article
+redirect_from:
+- /2014/07/17/seulement-62-de-jeunes-diplomes-cette-annee-a-san-andreas
+- /2014/07/17/seulement-62-de-jeunes-diplomes-cette-annee-a-san-andreas/
 tags:
 - los-santos
-redirect_from:
-  - /2014/07/17/seulement-62-de-jeunes-diplomes-cette-annee-a-san-andreas
+title: Seulement 62% de jeunes diplômés cette année à San Andreas
 ---
+
 
 _L'année scolaire a touché à sa fin avec la traditionnelle remise des diplômes. Mais cette année, la fête a un goût amer : seulement 62% des étudiants ont obtenu le fameux diplôme, un bien triste record..._
 

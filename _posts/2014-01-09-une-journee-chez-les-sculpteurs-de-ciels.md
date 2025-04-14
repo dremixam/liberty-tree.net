@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Une journée chez les Sculpteurs de Ciels
-cover: "/content/images/2016/06/0_0%20%284%29_8.jpg"
 authors:
-  - kiki
+- kiki
+cover: /content/images/2016/06/0_0%20%284%29_8.jpg
 date: '2014-01-09 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/08/une-journee-chez-les-sculpteurs-de-ciels
+- /2014/01/08/une-journee-chez-les-sculpteurs-de-ciels/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/08/une-journee-chez-les-sculpteurs-de-ciels
+title: Une journée chez les Sculpteurs de Ciels
 ---
+
 
 Il y a des jours comme ça dans la vie d'un journaliste. Des jours où on a envie de lever le pied. Non pas qu'on se désintéresse des meurtres crapuleux et de tout ce qui peuple habituellement la rubrique des chiens écrasés, mais il arrive qu'on développe de l'urticaire suite à une overdose d'hémoglobine, ou après s'être fait drogué puis violé avant d'avoir couru plusieurs heures dans les bois pour échapper à ses tortionnaires.
 

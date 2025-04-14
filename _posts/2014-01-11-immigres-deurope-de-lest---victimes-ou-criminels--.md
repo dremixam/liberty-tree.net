@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Immigrés d''Europe de l''Est : victimes ou criminels ?'
-cover: "/content/images/2016/06/3_1.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/3_1.jpg
 date: '2014-01-11 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/10/immigres-deurope-de-lest-victimes-ou-criminels
+- /2014/01/10/immigres-deurope-de-lest-victimes-ou-criminels/
 tags:
 - liberty-city
-redirect_from:
-  - /2014/01/10/immigres-deurope-de-lest-victimes-ou-criminels
+title: 'Immigrés d''Europe de l''Est : victimes ou criminels ?'
 ---
+
 
 Coup de théâtre à Liberty City. Les immigrés d'Europe de l'Est, cantonnés dans le quartier de Hove Beach ont cette semaine annoncé qu'ils formeraient une association pour obtenir plus de droits et être traités comme des citoyens américains.
 

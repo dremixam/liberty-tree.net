@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Vice City, la ville la plus convoitée du moment
 authors:
-  - nelson
+- nelson
 date: '2003-02-22 12:52:00'
+layout: article
 tags:
 - liberty-city
 - vice-city
+title: Vice City, la ville la plus convoitée du moment
 ---
+
 
 _En effet, nous ne comptons plus le nombre de Libertyciens partis s'installer à Vice City ni ceux qui comptent s'y installer._
 

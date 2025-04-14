@@ -1,14 +1,15 @@
 ---
-layout: article
-title: Braquage d'une banque d'Algonquin
 authors:
-  - dremixam
+- dremixam
 date: '2008-05-19 13:29:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Braquage d'une banque d'Algonquin
 ---
+
 
 _L'audacieuse attaque d'une agence de "Bank of Liberty" a entraîné la mort d'un malfaiteur et plusieurs autres victimes civiles et policières. Le Liberty Tree est sur l'affaire._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Lornne Houser assassiné
-cover: "/content/images/2016/06/monkey5.jpg"
 authors:
-  - little-worm
+- little-worm
+cover: /content/images/2016/06/monkey5.jpg
 date: '2006-01-30 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/29/lornne-houser-assassine
+- /2006/01/29/lornne-houser-assassine/
 tags:
 - vice-city
-redirect_from:
-  - /2006/01/29/lornne-houser-assassine
+title: Lornne Houser assassiné
 ---
+
 
 _Le célèbre développeur de jeux vidéos a été retrouvé mort dans une chambre d'hôtel à Vice City._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Gonflette simple ou force pure ?
-cover: "/content/images/2016/06/19_4.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/19_4.jpg
 date: '2014-03-26 00:00:00'
+layout: article
+redirect_from:
+- /2014/03/25/gonflette-simple-ou-force-pure
+- /2014/03/25/gonflette-simple-ou-force-pure/
 tags:
 - los-santos
-redirect_from:
-  - /2014/03/25/gonflette-simple-ou-force-pure
+title: Gonflette simple ou force pure ?
 ---
+
 
 _Le bodybuilding à Los Santos connaît des passionnés mais aussi des controverses. Focus sur ce sport faisant de plus en plus parler de lui._
 

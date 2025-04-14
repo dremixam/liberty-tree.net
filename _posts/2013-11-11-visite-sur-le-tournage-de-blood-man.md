@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Visite sur le tournage de Blood-Man
-cover: "/content/images/2016/06/Une%20sc%C3%A8ne%20d%27action%20test%C3%A9%20avant%20d%27%C3%AAtre%20r%C3%A9alis%C3%A9%20.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/2016/06/Une%20sc%C3%A8ne%20d%27action%20test%C3%A9%20avant%20d%27%C3%AAtre%20r%C3%A9alis%C3%A9%20.jpg
 date: '2013-11-11 00:00:00'
+layout: article
+redirect_from:
+- /2013/11/10/visite-sur-le-tournage-de-blood-man
+- /2013/11/10/visite-sur-le-tournage-de-blood-man/
 tags:
 - los-santos
-redirect_from:
-  - /2013/11/10/visite-sur-le-tournage-de-blood-man
+title: Visite sur le tournage de Blood-Man
 ---
+
 
 Le Liberty Tree a été invité en exclusivité sur le tournage de Blood-Man, le nouveau film de Jad dont la sortie est prévue pour début 2014. Déroulement d'une journée riche en émotions et pleine de surprises en attendant la sortie du film.
 

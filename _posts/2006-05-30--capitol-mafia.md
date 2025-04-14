@@ -1,13 +1,14 @@
 ---
-layout: article
-title: "$Capitol$ : Mafia"
-cover: "/content/images/2005/01/affiche.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/affiche.jpg
 date: '2006-05-30 00:00:00'
+layout: article
 tags:
 - liberty-city
+title: '$Capitol$ : Mafia'
 ---
+
 
 Il est 14h32, nous sommes dans le bureau de Don Leone à St-Marks. Il nous reçoit afin que nous puissions négocier un reportage car les journalistes ne sont pas très aimés dans le milieu de la Mafia. Avec le talent de persuasion du Liberty&nbsp;Tree, nous obtenons&nbsp;cette faveur en échange d'un peu de pub de la Famille dans l'Etat de San Andreas. Autant vous dire qu'on risque&nbsp;de voir des hommes en costard débarquant au bureau pour nous tuer si on respecte pas cette demande :
 

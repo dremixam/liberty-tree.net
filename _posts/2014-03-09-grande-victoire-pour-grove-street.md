@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Grande victoire pour Grove Street
-cover: "/content/images/2016/06/14.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/14.jpg
 date: '2014-03-09 00:00:00'
+layout: article
+redirect_from:
+- /2014/03/08/grande-victoire-pour-grove-street
+- /2014/03/08/grande-victoire-pour-grove-street/
 tags:
 - los-santos
-redirect_from:
-  - /2014/03/08/grande-victoire-pour-grove-street
+title: Grande victoire pour Grove Street
 ---
+
 
 Mardi dernier au stade de East Los Santos s'est déroulée la finale du championnat local de football. Les verts de Grove Street et les rouges de Paleto Bay s'étant qualifiés respectivement en novembre et décembre se sont donc affrontés sur le stade refait à neuf depuis septembre 2013.
 

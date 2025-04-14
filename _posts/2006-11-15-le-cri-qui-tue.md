@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Le cri qui tue
-cover: "/content/images/2005/01/china01.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/china01.jpg
 date: '2006-11-15 00:00:00'
+layout: article
 tags:
 - san-fierro
+title: Le cri qui tue
 ---
+
 
 C'est un événement peu commun qui a frappé le quartier de Chinatown à San Fierro, hier en fin de matinée. D'après les témoins, un homme se serait effondré sans vie peu de temps après qu'une autre personne ait poussé un petit cri strident. Maintenu sur place jusqu'à l'arrivée du SFPD, l'homme en question raconta qu'il a usé de la technique du "cri qui tue" apprise dans un logiciel éducatif crée par Maître Lim et édité par Gilbert Software, pour liquider l'autre personne qui lui devait apparemment de l'argent.
 

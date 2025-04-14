@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Mais où sont-ils ?!
-cover: "/content/images/2005/01/liberty_tree_gant_bridge.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/liberty_tree_gant_bridge.jpg
 date: '2007-04-12 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Mais où sont-ils ?!
 ---
+
 
 Ne vous étonnez pas si vous ne recevez plus votre journal favori et ne vous étonnez pas non plus que votre marchand de journaux vous disent : "Le Liberty Tree ? Ah non, pas reçu... Demain p'têtre." En fait, ce n'est qu'une raison pour vous faire attendre. Aujourd'hui, le LT vous révèle la vérité de cette absence qui dure depuis le 28 mars.
 

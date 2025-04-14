@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les soldes ont commencé
-cover: "/content/images/2016/06/sld3.jpg"
 authors:
-  - noobsanarckist
+- noobsanarckist
+cover: /content/images/2016/06/sld3.jpg
 date: '2006-01-15 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/14/les-soldes-ont-commence
+- /2006/01/14/les-soldes-ont-commence/
 tags:
 - vice-city
-redirect_from:
-  - /2006/01/14/les-soldes-ont-commence
+title: Les soldes ont commencé
 ---
+
 
 _Panneaux scintillants, enseignes de toutes les couleurs. Les magasins illuminent l'obscurité durant la deuxième nuit des soldes._
 

@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Les 24/7 accusés de remballage!
 authors:
-  - gtaboss33
+- gtaboss33
 date: '2008-02-23 23:43:00'
+layout: article
 tags:
 - los-santos
+title: Les 24/7 accusés de remballage!
 ---
+
 
 _Scandale à Los Santos, les 24/7, magasins bons marchés, sont accusés de remballage de viandes périmées! Les consommateurs s'inquiètent et la Police est sur le coup! Enquête du Liberty Tree._
 

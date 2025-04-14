@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Un tableau d'art volé au San Fierro Art Gallery
-cover: "/content/images/2005/01/San-ferrio-art-gallery.jpg"
 authors:
-  - gtaboss33
+- gtaboss33
+cover: /content/images/2005/01/San-ferrio-art-gallery.jpg
 date: '2006-08-26 00:00:00'
+layout: article
 tags:
 - san-fierro
+title: Un tableau d'art volé au San Fierro Art Gallery
 ---
+
 
 La San Fierro Art Gallery est avant tout&nbsp;le plus grand musée d'art de San Fierro. Il est très connu pour ses tableaux des maîtres de l'art: Pablu Picassu et de Vincent Von Gohn. En 1998, un homme tenta de dérober un de ces tableau mais en vain, d’ailleurs il réside toujours dans sa prison de la SFPD. Mais l'impossible est arrivé, il y a 3 jours un homme a réussi a volé un magnifique tableau: _Women Nud._ Ce tableau vous dit quelque chose ? Oui, c'est bel et bien le fameux tableau de Picassu que tout le monde veut posséder mais le problème c'est que ce tableau est unique il existe seulement des posters....
 

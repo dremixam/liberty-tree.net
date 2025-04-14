@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un avion perdu dans les airs
-cover: "/content/images/2016/06/20_1.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/20_1.jpg
 date: '2014-03-22 00:00:00'
+layout: article
+redirect_from:
+- /2014/03/21/un-avion-perdu-dans-les-airs
+- /2014/03/21/un-avion-perdu-dans-les-airs/
 tags:
 - los-santos
-redirect_from:
-  - /2014/03/21/un-avion-perdu-dans-les-airs
+title: Un avion perdu dans les airs
 ---
+
 
 _Un Beoing 666 ayant décollé hier de l'aéroport international de Los Santos a mystérieusement disparu de tous les écrans radar de San Andreas. L'avion, qui devait rallier Las Venturas, n'a donné aucun signe de vie..._
 

@@ -1,12 +1,13 @@
 ---
+authors:
+- dremixam
+cover: /content/images/2016/07/IFruit9iX-GTAV.png
+date: '2011-10-27 10:00:00'
+featured: true
 layout: article
 title: 'Enquête : Après sa mort, Steve Jobs s''est réincarné en iFruit'
-featured: true
-cover: "/content/images/2016/07/IFruit9iX-GTAV.png"
-authors:
-  - dremixam
-date: '2011-10-27 10:00:00'
 ---
+
 
 La question que de nombreux adeptes de la marque fruitée se sont posé dernièrement concerne le devenir de Steve Jobs, fondateur de la marque, après sa mort. Nombre d'entre eux ont supposé qu'il se trouvait au paradis ou auprès de Dieu en personne, d'autres pensent qu'il est lui même Dieu ou tout simplement que son corps est bouffé par les vers comme pour n'importe qui d'autre.
 

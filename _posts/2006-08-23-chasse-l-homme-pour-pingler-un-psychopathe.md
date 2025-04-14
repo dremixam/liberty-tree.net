@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Chasse à l'homme pour épingler un psychopathe
-cover: "/content/images/2005/01/AgressionLV_-_title.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/AgressionLV_-_title.jpg
 date: '2006-08-23 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: Chasse à l'homme pour épingler un psychopathe
 ---
+
 
 ![Las Venturas est la scène de crimes d'une rare violence.](/content/images/2005/01/AgressionLV_-_welcome_lv.jpg)
 _Las Venturas est la scène de crimes d'une rare violence._[QG du LVPD. (photo Fido-le-muet)](/content/images/2005/01/AgressionLV_-_lvpdhq.jpg)

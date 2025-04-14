@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Une ferme de Grapeseed réduite en cendres
-cover: "/content/images/2016/06/Grapeseed.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Grapeseed.jpg
 date: '2014-02-10 00:00:00'
+layout: article
+redirect_from:
+- /2014/02/09/une-ferme-de-grapeseed-reduite-en-cendres
+- /2014/02/09/une-ferme-de-grapeseed-reduite-en-cendres/
 tags:
 - los-santos
-redirect_from:
-  - /2014/02/09/une-ferme-de-grapeseed-reduite-en-cendres
+title: Une ferme de Grapeseed réduite en cendres
 ---
+
 
 Un incendie a ravagé une ferme de Grapeseed hier dans l'après-midi, la détruisant complètement. La découverte récente d'un labo de méth situé au sous-sol pourrait expliquer cet incendie...\*
 

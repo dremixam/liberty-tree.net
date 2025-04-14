@@ -1,12 +1,13 @@
 ---
-layout: article
-title: 'Concours D''elegance Auto : Les Resultats'
 authors:
-  - nelson
+- nelson
 date: '2003-03-20 14:19:00'
+layout: article
 tags:
 - liberty-city
+title: 'Concours D''elegance Auto : Les Resultats'
 ---
+
 
 Cela fait maintenant 15 jours que vous votez pour votre véhicule favori. Voici enfin les résultats tant attendus du concours :
 

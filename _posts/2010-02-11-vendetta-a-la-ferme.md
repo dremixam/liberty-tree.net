@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Vendetta à la ferme
 authors:
-  - dremixam
+- dremixam
 date: '2010-02-11 15:28:00'
+layout: article
 tags:
 - liberty-city
+title: Vendetta à la ferme
 ---
+
 
 Cela faisait des années que les téléspectateurs attendaient qu’un tel événement se produise, c’est hier qu’a eu lieu le premier décès en direct live dans une émission de Real-TV américaine.
 

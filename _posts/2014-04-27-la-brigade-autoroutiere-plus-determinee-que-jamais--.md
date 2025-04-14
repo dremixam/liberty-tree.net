@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La brigade autoroutière plus déterminée que jamais !
-cover: "/content/images/2016/06/0_0%20%2813%29_5.jpg"
 authors:
-  - aymar
+- aymar
+cover: /content/images/2016/06/0_0%20%2813%29_5.jpg
 date: '2014-04-27 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/26/la-brigade-autoroutiere-plus-determinee-que-jamais
+- /2014/04/26/la-brigade-autoroutiere-plus-determinee-que-jamais/
 tags:
 - los-santos
-redirect_from:
-  - /2014/04/26/la-brigade-autoroutiere-plus-determinee-que-jamais
+title: La brigade autoroutière plus déterminée que jamais !
 ---
+
 
 _La police en a marre de tous les excès de vitesse commis dans l'état et elle veut le faire savoir..._
 

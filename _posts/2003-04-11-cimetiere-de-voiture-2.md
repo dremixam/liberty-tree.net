@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Cimetière de voiture
 authors:
-  - alex
+- alex
 date: '2003-04-11 13:44:00'
+layout: article
 tags:
 - liberty-city
+title: Cimetière de voiture
 ---
+
 
 Depuis plusieurs jours, les habitants du quartier d'Hepburn Heights à Portland doivent subir un réveil pénible avec chaque matins de nouvelles « victimes ». Les voitures garées dans le quartier sont chaque nuits la cible de dégradation. Des jeunes prennent en effet un malin plaisir à mettre le feu, détruire les voitures, ils s'amusent même à les mettre dans toutes les situations possibles inimaginables ! C'est le cas du taxi retrouvé jeudi matin sur les rails du métro aérien, le conducteur a heureusement réagi à temps lorsqu'il a vu le véhicule sur la voie.
 

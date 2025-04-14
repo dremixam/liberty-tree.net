@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Solutions pour les sans-abris
 authors:
-  - tenpenny
+- tenpenny
 date: '2007-01-03 21:01:00'
+layout: article
 tags:
 - vice-city
+title: Solutions pour les sans-abris
 ---
+
 
 _A Vice City, le nombre de personnes qui logent sous un pont ou dans un carton n'auront bientôt plus de soucis à se faire. Les autorités ont procédé à un essai de leur plan pour le moins spécial._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le Base Jump, nouvelle mode à San Andreas
-cover: "/content/images/2016/06/173.jpg"
 authors:
-  - gamer-reporter
+- gamer-reporter
+cover: /content/images/2016/06/173.jpg
 date: '2014-03-25 00:00:00'
+layout: article
+redirect_from:
+- /2014/03/24/le-base-jump-nouvelle-mode-a-san-andreas
+- /2014/03/24/le-base-jump-nouvelle-mode-a-san-andreas/
 tags:
 - los-santos
-redirect_from:
-  - /2014/03/24/le-base-jump-nouvelle-mode-a-san-andreas
+title: Le Base Jump, nouvelle mode à San Andreas
 ---
+
 
 _\_Depuis peu de temps, une nouvelle mode est arrivée dans notre ville et ses environ, le : Base Jump._
 

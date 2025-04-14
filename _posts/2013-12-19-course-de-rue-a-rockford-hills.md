@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Course de rue à Rockford Hills
-cover: "/content/images/2016/06/course%20de%20rue%201.jpg"
 authors:
-  - sapher
+- sapher
+cover: /content/images/2016/06/course%20de%20rue%201.jpg
 date: '2013-12-19 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/18/course-de-rue-a-rockford-hills
+- /2013/12/18/course-de-rue-a-rockford-hills/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/18/course-de-rue-a-rockford-hills
+title: Course de rue à Rockford Hills
 ---
+
 
 Cette nuit, le quartier chic de Rockford Hills à Los Santos a été plutôt animé. En effet vers 5 heures du matin, deux bolides, une Cheetah ainsi qu'une Entity XF ont été aperçus en pleine course de rue. Un fait qui est plutôt rare dans ce quartier de la ville, plutôt habitué à la conduite tranquille et prudente des retraités. Un témoin, Sonny Johnson, nous raconte les faits :
 

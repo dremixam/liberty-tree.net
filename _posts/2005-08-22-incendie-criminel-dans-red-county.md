@@ -1,13 +1,15 @@
 ---
-layout: article
-title: Incendie Criminel dans Red County
-cover: "/content/images/2016/06/incendie.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/2016/06/incendie.jpg
 date: '2005-08-22 00:00:00'
+layout: article
 redirect_from:
-  - /2005/08/21/incendie-criminel-dans-red-county
+- /2005/08/21/incendie-criminel-dans-red-county
+- /2005/08/21/incendie-criminel-dans-red-county/
+title: Incendie Criminel dans Red County
 ---
+
 
 Il était 2 heures du matin lorsque l'incendie s'est déclaré au rez-de-chaussée de ce petit immeuble de Red Country. Les pompiers, rapidement dépêchés sur place n'ont rien pu faire pour secourir les malheureux occupants de l'immeuble qui ont tous péri dans les flammes.
 

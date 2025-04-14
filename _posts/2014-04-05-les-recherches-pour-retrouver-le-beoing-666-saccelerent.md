@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les recherches pour retrouver le Beoing 666 s'accélèrent
-cover: "/content/images/2016/06/23_0.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/23_0.jpg
 date: '2014-04-05 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/04/les-recherches-pour-retrouver-le-beoing-666-saccelerent
+- /2014/04/04/les-recherches-pour-retrouver-le-beoing-666-saccelerent/
 tags:
 - los-santos
-redirect_from:
-  - /2014/04/04/les-recherches-pour-retrouver-le-beoing-666-saccelerent
+title: Les recherches pour retrouver le Beoing 666 s'accélèrent
 ---
+
 
 _Trois semaines après la disparition du Beoing 666, un premier sous-marin a été envoyé pour retrouver celui-ci._
 

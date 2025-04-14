@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un sacré bouchon
-cover: "/content/images/2016/06/embouteillage.jpg"
 authors:
-  - jil-90
+- jil-90
+cover: /content/images/2016/06/embouteillage.jpg
 date: '2005-11-02 00:00:00'
+layout: article
+redirect_from:
+- /2005/11/01/un-sacre-bouchon
+- /2005/11/01/un-sacre-bouchon/
 tags:
 - vice-city
-redirect_from:
-  - /2005/11/01/un-sacre-bouchon
+title: Un sacré bouchon
 ---
+
 
 _Quand un embouteillage sur l'autoroute tourne au désastre._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: L'affaire Final Build
-cover: "/content/images/2016/06/Final%20Build.jpg"
 authors:
-  - filzonfire
+- filzonfire
+cover: /content/images/2016/06/Final%20Build.jpg
 date: '2005-11-16 00:00:00'
+layout: article
+redirect_from:
+- /2005/11/15/laffaire-final-build
+- /2005/11/15/laffaire-final-build/
 tags:
 - los-santos
-redirect_from:
-  - /2005/11/15/laffaire-final-build
+title: L'affaire Final Build
 ---
+
 
 _L'entreprise de construction très connue Final Build, qui s'occupe des travaux dans l’État, a de très gros problèmes de gestion._
 

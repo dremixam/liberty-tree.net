@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Safari Réalité
 authors:
-  - dremixam
+- dremixam
 date: '2010-02-06 14:41:00'
+layout: article
 tags:
 - los-santos
+title: Safari Réalité
 ---
+
 
 C’est ce soir que sera diffusé sur Weazel le premier épisode de la nouvelle émission tant attendue en ce début d’année : La Ferme rapporte du Fric. Le principe de l’émission est simple, on réunit dix « célébrités » dans une ferme isolée de la savane africaine pendant deux mois, et on croise les doigts pour que les lions nous en débarrassent le plus rapidement possible.
 

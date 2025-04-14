@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Liberty City va accuellir les 103ème "Masters De Cascade"
 authors:
-  - titof-abs
+- titof-abs
 date: '2002-12-29 00:00:00'
+layout: article
+redirect_from:
+- /2002/12/28/liberty-city-va-accuellir-les-103eme-masters-de-cascade
+- /2002/12/28/liberty-city-va-accuellir-les-103eme-masters-de-cascade/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/12/28/liberty-city-va-accuellir-les-103eme-masters-de-cascade
+title: Liberty City va accuellir les 103ème "Masters De Cascade"
 ---
+
 
 _En effet Mr O'Donovan notre bien-aimé maire vient d'annoncer que les 103ème MDC se dérouleraient le 31 décembre 2002 à Liberty City._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Prospère... Youplaboum...
-cover: "/content/images/2016/06/suances11.jpg"
 authors:
-  - megamind
+- megamind
+cover: /content/images/2016/06/suances11.jpg
 date: '2005-09-26 00:00:00'
+layout: article
+redirect_from:
+- /2005/09/25/prospere-youplaboum
+- /2005/09/25/prospere-youplaboum/
 tags:
 - san-fierro
-redirect_from:
-  - /2005/09/25/prospere-youplaboum
+title: Prospère... Youplaboum...
 ---
+
 
 _Prospère, tel est le mot qui conviendrait le mieux pour définir cette entreprise récemment installée à San Fierro, la Suances Transport and Rescue._
 

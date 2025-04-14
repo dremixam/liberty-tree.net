@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Los Santos en vrac - Numéro 8
-cover: "/content/images/2005/01/logo_en_vrac.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/logo_en_vrac.jpg
 date: '2006-12-09 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Los Santos en vrac - Numéro 8
 ---
+
 
  **Lundi 4/12/2006 :**
 

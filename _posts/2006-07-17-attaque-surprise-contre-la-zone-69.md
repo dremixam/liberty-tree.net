@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Attaque surprise contre la Zone 69
-cover: "/content/images/2005/01/Zone69_title.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2005/01/Zone69_title.jpg
 date: '2006-07-17 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Attaque surprise contre la Zone 69
 ---
+
 
 Il y a quelques mois nous apprenions dans les quotidiens qu'un groupe extrémiste surnommé Hell's Warriors (Guerriers de L'Enfer), une milice anti-gouvernementale principalement dirigée par des anciens militaires, aurait mis la main sur un missile à moyenne portée lors d'une attaque menée contre un convoi militaire au moment où ceux-ci transféraient un lot de munitions vers une autre base.
 

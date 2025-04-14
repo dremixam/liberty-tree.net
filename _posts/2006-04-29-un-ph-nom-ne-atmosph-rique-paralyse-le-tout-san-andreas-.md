@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Un phénomène atmosphérique paralyse le tout San Andreas!
-cover: "/content/images/2005/01/Brouillard_3.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2005/01/Brouillard_3.jpg
 date: '2006-04-29 00:00:00'
+layout: article
 tags:
 - los-santos
 - san-fierro
 - las-venturas
+title: Un phénomène atmosphérique paralyse le tout San Andreas!
 ---
+
 
 ![Greenglass Institute](/content/images/2005/01/Brouillard_13.jpg)
 _Greenglass Institute_

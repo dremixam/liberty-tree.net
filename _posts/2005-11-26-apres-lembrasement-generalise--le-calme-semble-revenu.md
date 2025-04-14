@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Après l'embrasement généralisé, le calme semble revenu
-cover: "/content/images/2016/06/Emeutes_27_0.jpg"
 authors:
-  - thomas
+- thomas
+cover: /content/images/2016/06/Emeutes_27_0.jpg
 date: '2005-11-26 00:00:00'
+layout: article
+redirect_from:
+- /2005/11/25/apres-lembrasement-generalise-le-calme-semble-revenu
+- /2005/11/25/apres-lembrasement-generalise-le-calme-semble-revenu/
 tags:
 - los-santos
-redirect_from:
-  - /2005/11/25/apres-lembrasement-generalise-le-calme-semble-revenu
+title: Après l'embrasement généralisé, le calme semble revenu
 ---
+
 
 _Les extrêmes violences de ces derniers jours, à Los Santos, ont contaminé l'ensemble de l'État de San Andreas, et particulièrement la ville très cosmopolite de San Fierro. Le Liberty Tree au cœur de la jungle, suite et fin._
 

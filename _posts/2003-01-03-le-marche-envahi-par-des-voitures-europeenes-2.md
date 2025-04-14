@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Le marché envahi par des voitures Européenes
 authors:
-  - dremixam
+- dremixam
 date: '2003-01-03 11:52:00'
+layout: article
 tags:
 - liberty-city
+title: Le marché envahi par des voitures Européenes
 ---
+
 
 Ces derniers temps, quand je me rendais à mon travail au Liberty Tree, ma place de parking était tout le temps occupée par un clochard qui dormait dans des cartons si bien que, une fois, j'ai du me garer sur la place de notre rédacteur en chef. (ndrc: c'était donc toi!)
 

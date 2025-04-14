@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Fermeture définitive ?
-cover: "/content/images/2016/06/ClosedStreet4.jpg"
 authors:
-  - pastrana
+- pastrana
+cover: /content/images/2016/06/ClosedStreet4.jpg
 date: '2005-08-27 00:00:00'
+layout: article
+redirect_from:
+- /2005/08/26/fermeture-definitive
+- /2005/08/26/fermeture-definitive/
 tags:
 - liberty-city
-redirect_from:
-  - /2005/08/26/fermeture-definitive
+title: Fermeture définitive ?
 ---
+
 
 1972 : un terrible double-attentat défigure une rue du quartier de St Marks. Depuis, sur ces quelques mètres de ville abandonnés, la reconstruction se fait attendre. Le Liberty Tree a enquêté.
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les Liberty City Penetrators, une équipe qui pénètre la victoire
-cover: "/content/images/2016/06/lc.jpg"
 authors:
-  - aymar
+- aymar
+cover: /content/images/2016/06/lc.jpg
 date: '2015-02-19 00:00:00'
+layout: article
+redirect_from:
+- /2015/02/18/les-liberty-city-penetrators-une-equipe-qui-penetre-la-victoire
+- /2015/02/18/les-liberty-city-penetrators-une-equipe-qui-penetre-la-victoire/
 tags:
 - liberty-city
-redirect_from:
-  - /2015/02/18/les-liberty-city-penetrators-une-equipe-qui-penetre-la-victoire
+title: Les Liberty City Penetrators, une équipe qui pénètre la victoire
 ---
+
 
 Tous les fans de basket-ball le savent, les classicos sont chaque année plus violents sur le terrain, surtout quand ils opposent les grandes équipes leaders du classement comme les Liberty City Penetrators et les Los Santos Panic, c'est pour cela qu'hier soir au Algonquin Sport Stadium, tous les fans de basket aux États-Unis n'ont voulu manquer ce match pour rien au monde, que cela soit sur place, à la radio, à la télévision, ou encore sur Internet plusieurs millions de personnes était présentes. Entre les L.C. Penetrators et les L.S. Panic cela n'a jamais été le grand amour, ces deux équipes se font la guerre depuis leur création. Hier, les Liberty City Penetrators, qui jouaient à domicile, ont eu l'honneur et le plaisir de pénétrer (comme leur nom l'indique) les Los Santos Panic 102 - 83. Nous avons pu interroger le célèbre Dessie James qui avait fait la une des journaux au mois de mai 2014 avec cette erreur policière qui avait été commise envers son meilleur ami Luis Lopez mais qui fut relâché deux mois plus tard par le LCPD.
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Las Venturas en vrac
-cover: "/content/images/2005/01/LVV.jpg"
 authors:
-  - pavlov
+- pavlov
+cover: /content/images/2005/01/LVV.jpg
 date: '2006-10-07 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: Las Venturas en vrac
 ---
+
 
 ![](/content/images/2005/01/envracLV2.jpg)
 

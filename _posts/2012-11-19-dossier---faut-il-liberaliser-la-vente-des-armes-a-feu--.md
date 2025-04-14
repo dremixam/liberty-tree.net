@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Dossier : Faut-il libéraliser la vente des armes à feu ?'
-cover: "/content/images/2016/06/gallery23.jpg"
 authors:
-  - vilnaranda
+- vilnaranda
+cover: /content/images/2016/06/gallery23.jpg
 date: '2012-11-19 00:00:00'
+layout: article
+redirect_from:
+- /2012/11/18/dossier-faut-il-liberaliser-la-vente-des-armes-a-feu
+- /2012/11/18/dossier-faut-il-liberaliser-la-vente-des-armes-a-feu/
 tags:
 - los-santos
-redirect_from:
-  - /2012/11/18/dossier-faut-il-liberaliser-la-vente-des-armes-a-feu
+title: 'Dossier : Faut-il libéraliser la vente des armes à feu ?'
 ---
+
 
  **A l'occasion de la prochaine élection du nouveau gouverneur de San Andreas, nous vous proposons d'aborder un des thèmes de campagne principaux de chaque candidat. Aujourd'hui, nous nous penchons sur le thème soulevé par le candidat Madd Dogg : le développement du commerce des armes.**
 

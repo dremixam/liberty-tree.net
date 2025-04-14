@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Exposition de tags au Conference Center
-cover: "/content/images/2016/06/tag%206.jpg"
 authors:
-  - imhotep43
+- imhotep43
+cover: /content/images/2016/06/tag%206.jpg
 date: '2005-09-15 00:00:00'
+layout: article
+redirect_from:
+- /2005/09/14/exposition-de-tags-au-conference-center
+- /2005/09/14/exposition-de-tags-au-conference-center/
 tags:
 - los-santos
-redirect_from:
-  - /2005/09/14/exposition-de-tags-au-conference-center
+title: Exposition de tags au Conference Center
 ---
+
 
 A partir de demain, et ce jusqu'à dimanche, se tiendra au Conference Center le premier rassemblement de tagueurs de Los Santos, le "Tag concept". Les tagueurs sont unanimes, ils sont fiers qu'on reconnaisse enfin leur art. Les plus beaux tags de la ville sont représentés ici et un concours a même été organisé pour élire le plus beau blason. Sont en lice cinq gangs:
 

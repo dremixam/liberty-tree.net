@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Scandale à la mairie !
-cover: "/content/images/2016/06/MaireLC6_0.jpg"
 authors:
-  - bart_man
+- bart_man
+cover: /content/images/2016/06/MaireLC6_0.jpg
 date: '2006-02-23 00:00:00'
+layout: article
+redirect_from:
+- /2006/02/22/scandale-a-la-mairie
+- /2006/02/22/scandale-a-la-mairie/
 tags:
 - liberty-city
-redirect_from:
-  - /2006/02/22/scandale-a-la-mairie
+title: Scandale à la mairie !
 ---
+
 
 _Déjà habitué aux déconvenues judiciaires, le Maire O'Donovan a cette fois-ci touché le fond._
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Scandale à Los Santos
 authors:
-  - dremixam
+- dremixam
 date: '2007-12-21 11:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
+title: Scandale à Los Santos
 ---
+
 
 Le nouveau scandale à Los Santos n'est pas dû aux relations extra-conjugales de l'un de nos politicien ou au destin obscur de l'argent des caisses de la ville. Non, c'est une campagne de publicité qui fait aujourd'hui beaucoup parler. Enquête...
 

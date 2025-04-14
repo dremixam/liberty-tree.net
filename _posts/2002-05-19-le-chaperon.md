@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le chaperon
-cover: "/content/images/2016/06/chaperon.jpg"
 authors:
-  - baz
+- baz
+cover: /content/images/2016/06/chaperon.jpg
 date: '2002-05-19 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/18/le-chaperon
+- /2002/05/18/le-chaperon/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/18/le-chaperon
+title: Le chaperon
 ---
+
 
 Un malfrat a empêché l'arrestation de Maria Leone, la piste des fuyards s'est mystérieusement évanouie dans un Pay'n'Spray.
 

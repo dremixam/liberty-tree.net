@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Enfin des mesures efficaces contre la délinquance
 authors:
-  - baz
+- baz
 date: '2002-05-29 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/28/enfin-des-mesures-efficaces-contre-la-delinquance
+- /2002/05/28/enfin-des-mesures-efficaces-contre-la-delinquance/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/28/enfin-des-mesures-efficaces-contre-la-delinquance
+title: Enfin des mesures efficaces contre la délinquance
 ---
+
 
 Devant une criminalité en perpétuelle progression, les autorités de Liberty city proposent enfin des mesures efficaces pour lutter contre l'insécurité.
 

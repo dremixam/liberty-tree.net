@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Le nouveau commissaire de Vice City ne fait pas l'unanimité.
-cover: "/content/images/2005/01/Commissariat.jpg"
 authors:
-  - john-johnson
+- john-johnson
+cover: /content/images/2005/01/Commissariat.jpg
 date: '2006-04-07 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Le nouveau commissaire de Vice City ne fait pas l'unanimité.
 ---
+
 
 Nombreux sont les commissaires qui se sont succédés au QG de la police de Vice. Pourtant, aucun d'entre eux n'avait réussi à éradiquer le taux de criminalité de la ville.
 

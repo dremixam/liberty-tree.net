@@ -1,15 +1,17 @@
 ---
-layout: article
-title: L'avarice à Los Santos
-cover: "/content/images/2016/06/9_1.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/9_1.jpg
 date: '2014-02-22 00:00:00'
+layout: article
+redirect_from:
+- /2014/02/21/lavarice-a-los-santos
+- /2014/02/21/lavarice-a-los-santos/
 tags:
 - los-santos
-redirect_from:
-  - /2014/02/21/lavarice-a-los-santos
+title: L'avarice à Los Santos
 ---
+
 
 _Los Santos, l'une des plus grandes villes du pays, représente très bien la vision que le monde a du Rêve Américain. Les inégalités, le racisme, le patriotisme, la prostitution... Los Santos devient de plus en plus l'image des péchés capitaux._
 

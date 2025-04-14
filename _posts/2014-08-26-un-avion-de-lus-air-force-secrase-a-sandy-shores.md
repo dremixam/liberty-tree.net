@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un avion de l'US Air Force s'écrase à Sandy Shores
-cover: "/content/images/2016/06/USAirForce.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/USAirForce.jpg
 date: '2014-08-26 00:00:00'
+layout: article
+redirect_from:
+- /2014/08/25/un-avion-de-lus-air-force-secrase-a-sandy-shores
+- /2014/08/25/un-avion-de-lus-air-force-secrase-a-sandy-shores/
 tags:
 - los-santos
-redirect_from:
-  - /2014/08/25/un-avion-de-lus-air-force-secrase-a-sandy-shores
+title: Un avion de l'US Air Force s'écrase à Sandy Shores
 ---
+
 
 _Accident rarissime à Sandy Shores. Un avion de l'US Air Force a raté son atterrissage et s'est écrasé quelques mètres après le bout de la piste. Heureusement, aucun décès n'est à relever._
 

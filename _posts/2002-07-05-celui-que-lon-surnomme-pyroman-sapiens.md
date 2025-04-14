@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Celui que l'on surnomme "Pyroman Sapiens"
-cover: "/content/images/2016/06/fuitevoiture.jpg"
 authors:
-  - max-2
+- max-2
+cover: /content/images/2016/06/fuitevoiture.jpg
 date: '2002-07-05 00:00:00'
+layout: article
+redirect_from:
+- /2002/07/04/celui-que-lon-surnomme-pyroman-sapiens
+- /2002/07/04/celui-que-lon-surnomme-pyroman-sapiens/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/07/04/celui-que-lon-surnomme-pyroman-sapiens
+title: Celui que l'on surnomme "Pyroman Sapiens"
 ---
+
 
 Il est le danger public n°2 après les facemakers actuellement à Liberty City. On ne sait pas son vrai nom mais il se fait appeler Pyroman Sapiens. Ce malfrat court toujours dans les rues de Liberty.
 

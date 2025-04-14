@@ -1,13 +1,14 @@
 ---
-layout: article
-title: L'Affaire Canar
-cover: "/content/images/2005/01/canaretcomplice.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/canaretcomplice.jpg
 date: '2006-11-13 00:00:00'
+layout: article
 tags:
 - vice-city
+title: L'Affaire Canar
 ---
+
 
 Au Liberty Tree, tous les journalistes sont déconcertés&nbsp;: pouvoir lire des lettres écrite par le plus talentueusement mauvais des reporters, j’ai nommé Canar qui, souvenez vous est mort lors d'un crash dans les environs de Montgomery (lire l'article). L’affaire avait pris&nbsp;une ampleur quasi-nulle les premiers jours où l’on recevait une première lettre d’outre-tombe qui était une lettre de motivation pour retravailler au LT. Alors à la direction, on veut bien mais bon, engager un mec déjà enterré, pardon, rangé à la morgue, c’était même pas la peine de concevoir ce plan là. Qui était donc ce mystérieux auteur se faisant passer pour Canar&nbsp;? Personne ne s’est&nbsp;donné une réponse et d’ailleurs, on a jeté la lettre sans avoir pris le temps de l’archiver.
 

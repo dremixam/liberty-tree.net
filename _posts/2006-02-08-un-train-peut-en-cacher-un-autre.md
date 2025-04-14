@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un train peut en cacher un autre
-cover: "/content/images/2016/06/cross.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2016/06/cross.jpg
 date: '2006-02-08 00:00:00'
+layout: article
+redirect_from:
+- /2006/02/07/un-train-peut-en-cacher-un-autre
+- /2006/02/07/un-train-peut-en-cacher-un-autre/
 tags:
 - las-venturas
-redirect_from:
-  - /2006/02/07/un-train-peut-en-cacher-un-autre
+title: Un train peut en cacher un autre
 ---
+
 
 _Les barrières automatiques des passages à niveaux seraient défectueuses. On compte déjà cinquante huit plaintes à travers l'État à ce sujet. Le gouverneur a réuni une équipe de spécialistes pour enquêter sur ce mystérieux problème. Le Liberty Tree a mené sa propre investigation._
 

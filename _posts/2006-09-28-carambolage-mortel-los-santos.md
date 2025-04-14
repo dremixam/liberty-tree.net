@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Carambolage mortel à Los Santos
-cover: "/content/images/2005/01/Carambolage_Accident.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2005/01/Carambolage_Accident.jpg
 date: '2006-09-28 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Carambolage mortel à Los Santos
 ---
+
 
 La journée avait commencé sur un bon pied avec un soleil ardant et l’absence complète de brouillard. Les conditions météo étaient donc excellentes. Selon la porte-parole du S.A.T.C.C. (San Andreas Traffic Control Center), Karen Black, tout était normal pour une heure de pointe matinale. À part deux automobiles en panne mécanique, stationnées sur la voie de service, tout se déroulait relativement bien et rien ne laissait croire qu’un tel drame allait se jouer.
 

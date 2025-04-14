@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Rien ne va plus, les jeux sont faits pour The Visage !
-cover: "/content/images/2005/01/Casino_Ext_rieur.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2005/01/Casino_Ext_rieur.jpg
 date: '2007-02-20 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: Rien ne va plus, les jeux sont faits pour The Visage !
 ---
+
 
 ![Casino The Visage.](/content/images/2005/01/Casino_Ext_rieur.jpg)
 _Casino The Visage._

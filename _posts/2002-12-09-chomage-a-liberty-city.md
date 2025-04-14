@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Chômage à Liberty City
 authors:
-  - max-2
+- max-2
 date: '2002-12-09 00:00:00'
+layout: article
+redirect_from:
+- /2002/12/08/chomage-a-liberty-city
+- /2002/12/08/chomage-a-liberty-city/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/12/08/chomage-a-liberty-city
+title: Chômage à Liberty City
 ---
+
 
 Les chômeurs, éternel problème pour les politiciens.
 

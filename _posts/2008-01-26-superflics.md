@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Superflics
 authors:
-  - pavlov
+- pavlov
 date: '2008-01-26 23:26:00'
+layout: article
 tags:
 - los-santos
+title: Superflics
 ---
+
 
 _Ils sont policiers, mais ne portent pas de badge. Ils ne roulent pas en Adam-car mais en Maserati. Une unité spéciale chargée d'infiltrations à hauts risques. Leur mission: se faire passer tour à tour pour des trafiquants de drogue, des voleurs, des trafiquants de voiture. Leur objectif: enquêter, arrêter mais surtout, rester crédibles._
 

@@ -1,13 +1,15 @@
 ---
-layout: article
-title: Fruit poursuit le Liberty Tree pour violation de brevets
-cover: "/content/images/2016/07/fruit.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/2016/07/fruit.jpg
 date: '2012-09-21 00:00:00'
+layout: article
 redirect_from:
-  - /2012/09/20/peer-poursuit-le-liberty-tree-pour-violation-de-brevets
+- /2012/09/20/peer-poursuit-le-liberty-tree-pour-violation-de-brevets
+- /2012/09/20/peer-poursuit-le-liberty-tree-pour-violation-de-brevets/
+title: Fruit poursuit le Liberty Tree pour violation de brevets
 ---
+
 
 Le secteur des nouvelles technologies s'est habitué aux nombreuses batailles de brevets qui font rage régulièrement. Cette guerre juridique plus que technologique fait chaque semaine des victimes parmi les petites entreprises du secteur sans que personne ne s'en émeuve.
 

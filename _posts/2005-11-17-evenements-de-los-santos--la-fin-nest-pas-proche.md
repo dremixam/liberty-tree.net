@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Événements de Los Santos, la fin n'est pas proche
-cover: "/content/images/2016/06/Emeutes%2010.jpg"
 authors:
-  - thomas
+- thomas
+cover: /content/images/2016/06/Emeutes%2010.jpg
 date: '2005-11-17 00:00:00'
+layout: article
+redirect_from:
+- /2005/11/16/evenements-de-los-santos-la-fin-nest-pas-proche
+- /2005/11/16/evenements-de-los-santos-la-fin-nest-pas-proche/
 tags:
 - los-santos
-redirect_from:
-  - /2005/11/16/evenements-de-los-santos-la-fin-nest-pas-proche
+title: Événements de Los Santos, la fin n'est pas proche
 ---
+
 
 _Après sept jours d'émeutes, la situation ne semble vraiment pas s'améliorer. Au delà des faits, le Liberty Tree a essayé de comprendre le mal qui ronge le ghetto._
 

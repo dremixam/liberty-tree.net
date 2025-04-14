@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Los Santos en Vrac - Numéro 10
-cover: "/content/images/2005/01/logo_en_vrac.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/logo_en_vrac.jpg
 date: '2007-06-24 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Los Santos en Vrac - Numéro 10
 ---
+
 
 ![](/content/images/2005/01/lcenvracnew10vh2.jpg)
 

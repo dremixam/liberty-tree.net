@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Mystérieux incendie dans un entrepôt désaffecté
-cover: "/content/images/2016/06/Incendie2_0.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Incendie2_0.jpg
 date: '2014-06-10 00:00:00'
+layout: article
+redirect_from:
+- /2014/06/09/mysterieux-incendie-dans-un-entrepot-desaffecte
+- /2014/06/09/mysterieux-incendie-dans-un-entrepot-desaffecte/
 tags:
 - los-santos
-redirect_from:
-  - /2014/06/09/mysterieux-incendie-dans-un-entrepot-desaffecte
+title: Mystérieux incendie dans un entrepôt désaffecté
 ---
+
 
 _Un incendie a partiellement détruit un entrepôt de l'est de Los Santos la nuit dernière. L'origine du sinistre semble plus que suspecte..._
 

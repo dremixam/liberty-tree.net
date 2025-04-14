@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Carnet de Voyage : Vice City'
-cover: "/content/images/2016/06/cartepostale.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2016/06/cartepostale.jpg
 date: '2006-02-02 00:00:00'
+layout: article
+redirect_from:
+- /2006/02/01/carnet-de-voyage-vice-city
+- /2006/02/01/carnet-de-voyage-vice-city/
 tags:
 - vice-city
-redirect_from:
-  - /2006/02/01/carnet-de-voyage-vice-city
+title: 'Carnet de Voyage : Vice City'
 ---
+
 
 _Cette nouvelle étape est certainement la bienvenue pour la ville de Vice City qui, rappelons le, a essuyé quelques problèmes touristiques ces dernier temps, suite à des attaques de requins. Alors regardez ces photos et imaginez ce que vous avez manqué !_
 

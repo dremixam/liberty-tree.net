@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un forcené menace de détruire le panneau Vinewood
-cover: "/content/images/2016/06/Vinewood_Sign_0.jpg"
 authors:
-  - offic3r-3dwards
+- offic3r-3dwards
+cover: /content/images/2016/06/Vinewood_Sign_0.jpg
 date: '2012-11-15 00:00:00'
+layout: article
+redirect_from:
+- /2012/11/15/un-forcene-menace-de-detruire-le-panneau-vinewood
+- /2012/11/15/un-forcene-menace-de-detruire-le-panneau-vinewood/
 tags:
 - los-santos
-redirect_from:
-  - /2012/11/15/un-forcene-menace-de-detruire-le-panneau-vinewood
+title: Un forcené menace de détruire le panneau Vinewood
 ---
+
 
 Il est environ 16 H 10 lorsque les hommes du shérif du comté de Los Santos tentent d’appréhender un individu suspect repéré aux abords du panneau Vinewood. D'après les quelques témoins de la scène qui ont donné l'alerte - un petit groupe de touristes étrangers se tenant à une centaine de mètres seulement du monument le plus photographié de la ville et de ses alentours -, l’individu serait muni d’un objet étrange qui, d’après leurs propos, pourrait être une charge explosive et serait en ce moment-même en train de grimper le long de la lettre D.
 

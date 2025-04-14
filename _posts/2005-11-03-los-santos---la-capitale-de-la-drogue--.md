@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Los Santos : la capitale de la drogue ?'
-cover: "/content/images/2016/06/deal4.jpg"
 authors:
-  - civic666
+- civic666
+cover: /content/images/2016/06/deal4.jpg
 date: '2005-11-03 00:00:00'
+layout: article
+redirect_from:
+- /2005/11/02/los-santos-la-capitale-de-la-drogue
+- /2005/11/02/los-santos-la-capitale-de-la-drogue/
 tags:
 - los-santos
-redirect_from:
-  - /2005/11/02/los-santos-la-capitale-de-la-drogue
+title: 'Los Santos : la capitale de la drogue ?'
 ---
+
 
 _Los Santos, Idlewood, je partais manger une pizza au fast-food du coin... A part les coups de feu, les insultes entre gangs, j'entendais que "Hé mec ! Tu veux du tosma ? C'est d'la bonne ! C'est d'la bonne !". Une chose est sûre : LS est bien conquise par la drogue._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les hélicoptères à la rescousse de la police
-cover: "/content/images/2016/06/helicopter.jpg"
 authors:
-  - rr4
+- rr4
+cover: /content/images/2016/06/helicopter.jpg
 date: '2001-04-01 00:00:00'
+layout: article
+redirect_from:
+- /2001/03/31/les-helicopteres-a-la-rescousse-de-la-police
+- /2001/03/31/les-helicopteres-a-la-rescousse-de-la-police/
 tags:
 - liberty-city
-redirect_from:
-  - /2001/03/31/les-helicopteres-a-la-rescousse-de-la-police
+title: Les hélicoptères à la rescousse de la police
 ---
+
 
 La police de Liberty City a finalement obtenu l'aide qu'elle demandait depuis des années. Une nouvelle flotte d'hélicoptères a été achetée pour aider les policiers dans leurs patrouilles. Équipés de mitrailleuses ces hélicoptères vont être utilisés pour combattre la récente augmentation des vols de voitures et autres délits.
 

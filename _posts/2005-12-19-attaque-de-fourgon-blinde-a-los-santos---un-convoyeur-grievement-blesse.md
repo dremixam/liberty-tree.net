@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Attaque de fourgon blindé à Los Santos : Un convoyeur grièvement blessé'
-cover: "/content/images/2016/06/fblind_1.jpg"
 authors:
-  - civic666
+- civic666
+cover: /content/images/2016/06/fblind_1.jpg
 date: '2005-12-19 00:00:00'
+layout: article
+redirect_from:
+- /2005/12/18/attaque-de-fourgon-blinde-a-los-santos-un-convoyeur-grievement-blesse
+- /2005/12/18/attaque-de-fourgon-blinde-a-los-santos-un-convoyeur-grievement-blesse/
 tags:
 - los-santos
-redirect_from:
-  - /2005/12/18/attaque-de-fourgon-blinde-a-los-santos-un-convoyeur-grievement-blesse
+title: 'Attaque de fourgon blindé à Los Santos : Un convoyeur grièvement blessé'
 ---
+
 
 Avant-hier, vers 9h du matin, un fourgon de la Chuff Security&Co. a été braqué dans un quartier de Los Santos. Bilan : Un convoyeur grièvement touché à la tête, il aurait refusé d'ouvrir l'arrière du véhicule.
 

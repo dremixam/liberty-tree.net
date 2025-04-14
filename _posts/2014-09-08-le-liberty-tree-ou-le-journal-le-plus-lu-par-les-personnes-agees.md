@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le Liberty Tree ou le journal le plus lu par les personnes âgées
-cover: "/content/images/2016/06/0_0_249.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_249.jpg
 date: '2014-09-08 00:00:00'
+layout: article
+redirect_from:
+- /2014/09/07/le-liberty-tree-ou-le-journal-le-plus-lu-par-les-personnes-agees
+- /2014/09/07/le-liberty-tree-ou-le-journal-le-plus-lu-par-les-personnes-agees/
 tags:
 - los-santos
-redirect_from:
-  - /2014/09/07/le-liberty-tree-ou-le-journal-le-plus-lu-par-les-personnes-agees
+title: Le Liberty Tree ou le journal le plus lu par les personnes âgées
 ---
+
 
 _Un récent sondage a démontré que cette année ce sont les personnes âgées dans les maisons de retraite de San Andreas qui ont lu le plus notre journal quotidien. Stupéfaction parmi les rédacteurs._
 

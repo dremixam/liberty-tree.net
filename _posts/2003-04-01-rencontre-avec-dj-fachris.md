@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Rencontre avec Dj Fachris
 authors:
-  - nelson
+- nelson
 date: '2003-04-01 13:35:00'
+layout: article
 tags:
 - liberty-city
+title: Rencontre avec Dj Fachris
 ---
+
 
 _Cette semaine, j'interview Dj Fachris, jeune DJ montant de la scène électro Libertycienne, à l'occasion de son nouvel album Octopussound..._
 

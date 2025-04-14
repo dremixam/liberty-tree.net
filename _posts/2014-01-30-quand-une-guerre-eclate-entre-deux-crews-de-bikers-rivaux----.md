@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Quand une guerre éclate entre deux crews de bikers rivaux...
-cover: "/content/images/2016/06/0_0_132.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_132.jpg
 date: '2014-01-30 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/29/quand-une-guerre-eclate-entre-deux-crews-de-bikers-rivaux
+- /2014/01/29/quand-une-guerre-eclate-entre-deux-crews-de-bikers-rivaux/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/29/quand-une-guerre-eclate-entre-deux-crews-de-bikers-rivaux
+title: Quand une guerre éclate entre deux crews de bikers rivaux...
 ---
+
 
 Nombreux sont les crews à s'affronter dans tout l'Etat de San Andreas. Ils regroupent en fait des membres ayant les mêmes convictions et les mêmes goûts dans le but de partager une certaine expérience de vie. Leurs membres affichent généralement les couleurs de leur crew sur leurs vêtements ainsi que leurs véhicules, mais lorsque deux crews plus ou moins rivaux se croisent en ville, que se passe-t-il ? Vont-ils se laisser aller à une trêve pour boire des bières ensemble dans le bar du désert ou bien vont-ils plutôt choisir de se cracher dessus ? Les forces de l'ordre et la municipalité de LS sont inquiètes au sujet de ces crews étant donné qu'ils sont de plus en plus nombreux, à tels point que certains en deviennent incontrôlables. En effet, certaines personnes ne supportent pas de voir un membre de crew adverse traverser la rue avec un autre emblème. Les pauvres civils de la ville s'apprêtent alors à assister, impuissants, à une véritable guerre de territoire.
 

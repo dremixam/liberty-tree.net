@@ -1,13 +1,14 @@
 ---
-layout: article
-title: De nouvelles subventions accordées au Liberty Tree.
-cover: "/content/images/2005/01/van2.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/2005/01/van2.jpg
 date: '2005-10-05 00:00:00'
+layout: article
 tags:
 - vice-city
+title: De nouvelles subventions accordées au Liberty Tree.
 ---
+
 
 C'est seulement après moins de deux mois d'ouverture que le Liberty-Tree vient de recevoir une grosse subvention accordée par le gouverneur de l'Etat de San Andreas décrit par monsieur le gouverneur comme "Le seul journal lisible de ce coté ci de l'atlantique".
 

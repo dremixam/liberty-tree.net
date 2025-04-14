@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Jour de tonnerre
-cover: "/content/images/2016/06/nas7.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/nas7.jpg
 date: '2006-06-27 00:00:00'
+layout: article
+redirect_from:
+- /2006/06/26/jour-de-tonnerre
+- /2006/06/26/jour-de-tonnerre/
 tags:
 - los-santos
-redirect_from:
-  - /2006/06/26/jour-de-tonnerre
+title: Jour de tonnerre
 ---
+
 
 Hier après-midi avait lieu la tant attendue course de Nascar au Los Santos Forum, sur la désormais célèbre piste 8 Track. Comme chaque année, les douze bolides font chauffer la gomme sans faire de cadeau à son voisin. Erik Joshberg, nous ayant habitué à une pole-position quasi-constante s'est fait coupé l'herbe sous le pied par Teddy Linden et sa Chevrolet Monte-Carlo #24. Un bon point pour l'écurie de Linden, principalement sponsorisée la firme DuPont, qui commençait à collectionner les 10ème places et les soucis mécaniques. Les compétences de Teddy ont d'ailleurs été remises en question plus d'une fois par une presse très sévère envers le jeune pilote. Mais le Rookie a fait trembler les gradins hier après-midi en faisant une magnifique course qu'il remporta avec fierté.
 

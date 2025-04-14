@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Mystères et boules vertes au parking de Staunton
-cover: "/content/images/2016/06/Stallion2_0.jpg"
 authors:
-  - baz
+- baz
+cover: /content/images/2016/06/Stallion2_0.jpg
 date: '2002-06-18 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/17/mysteres-et-boules-vertes-au-parking-de-staunton
+- /2002/06/17/mysteres-et-boules-vertes-au-parking-de-staunton/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/17/mysteres-et-boules-vertes-au-parking-de-staunton
+title: Mystères et boules vertes au parking de Staunton
 ---
+
 
 Un homme dont nous avons déjà parlé à plusieurs reprises dans ces colonnes, a été aperçu à plusieurs reprises par des témoins devant le parking principal.
 

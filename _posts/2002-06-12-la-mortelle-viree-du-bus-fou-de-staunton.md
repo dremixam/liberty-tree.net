@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La virée mortelle du bus fou de Staunton
-cover: "/content/images/2016/06/bus7_0.jpg"
 authors:
-  - rr4
+- rr4
+cover: /content/images/2016/06/bus7_0.jpg
 date: '2002-06-12 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/11/la-mortelle-viree-du-bus-fou-de-staunton
+- /2002/06/11/la-mortelle-viree-du-bus-fou-de-staunton/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/11/la-mortelle-viree-du-bus-fou-de-staunton
+title: La virée mortelle du bus fou de Staunton
 ---
+
 
 Il était 17h15 hier quand le bus scolaire n°145 de la compagnie "Stickordie" a commencé sa virée mortelle au sud de Staunton Island. Il a pris la direction du stade de la ville et a prit un malin plaisir à percuter toutes les voitures qui se présentaient sur son chemin.
 

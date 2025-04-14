@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Le "Air Force One" effectue un atterrissage d'urgence
-cover: "/content/images/2005/01/AF1_avion.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/AF1_avion.jpg
 date: '2006-05-22 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Le "Air Force One" effectue un atterrissage d'urgence
 ---
+
 
 David Pratt, porte-parole à la Maison Blanche, a confirmé hier soir qu'en tout début d'après-midi, alors qu'il survolait l'état de _San Andreas_ après avoir effectué une visite éclair à _Los Santos_, l'avion présidentiel a été contraint d'effectuer un atterrissage d'urgence après que les pilotes aient remarqué un problème de pression dans les systèmes hydraulique de l'appareil. M. Pratt a profité de ce point de presse pour préciser que cette mésaventure n'était absolument pas le résultat d'un sabotage comme l'avait fait croire certaines rumeurs diffusées à la radio et à la télévision durant toute la journée.
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un couple se noie dans les rapides de Tongva Valley
-cover: "/content/images/2016/06/0_0_247.jpg"
 authors:
-  - titi
+- titi
+cover: /content/images/2016/06/0_0_247.jpg
 date: '2014-08-14 00:00:00'
+layout: article
+redirect_from:
+- /2014/08/13/un-couple-se-noie-dans-les-rapides-de-tongva-valley
+- /2014/08/13/un-couple-se-noie-dans-les-rapides-de-tongva-valley/
 tags:
 - los-santos
-redirect_from:
-  - /2014/08/13/un-couple-se-noie-dans-les-rapides-de-tongva-valley
+title: Un couple se noie dans les rapides de Tongva Valley
 ---
+
 
 _Deux vacanciers se sont noyés alors qu'il descendaient en canoë les rapides d'un confluent de la Zancudo River._
 

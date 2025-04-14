@@ -1,17 +1,19 @@
 ---
-layout: article
-title: Où sortir ? The Jizzy's Pleasure Dome
-cover: "/content/images/2016/06/logojizz_0.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/logojizz_0.jpg
 date: '2006-03-20 00:00:00'
+layout: article
+redirect_from:
+- /2006/03/19/ou-sortir-the-jizzys-pleasure-dome
+- /2006/03/19/ou-sortir-the-jizzys-pleasure-dome/
 tags:
 - los-santos
 - las-venturas
 - san-fierro
-redirect_from:
-  - /2006/03/19/ou-sortir-the-jizzys-pleasure-dome
+title: Où sortir ? The Jizzy's Pleasure Dome
 ---
+
 
 Cette semaine, dans le cadre du "petit noctambule perdu", annuaire des bars, restaurants et boites de nuits branchées de l’état de San Andreas édité par les villes de Los Santos, San Fierro et Las Venturas, j'ai visité pour vous le Jizzy's Pleasure Dome, Boite de Strip-Tease/Lounge à la mode de San Fierro.
 

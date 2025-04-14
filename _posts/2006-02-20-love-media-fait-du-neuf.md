@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Love Media fait du neuf
-cover: "/content/images/2016/06/logoLMTV.jpg"
 authors:
-  - bart_man
+- bart_man
+cover: /content/images/2016/06/logoLMTV.jpg
 date: '2006-02-20 00:00:00'
+layout: article
+redirect_from:
+- /2006/02/19/love-media-fait-du-neuf
+- /2006/02/19/love-media-fait-du-neuf/
 tags:
 - liberty-city
-redirect_from:
-  - /2006/02/19/love-media-fait-du-neuf
+title: Love Media fait du neuf
 ---
+
 
 _La célèbre chaîne de télévision Love Media TV s'apprête à lancer deux nouveaux programmes télévisuels._
 

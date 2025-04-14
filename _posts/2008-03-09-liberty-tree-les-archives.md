@@ -1,12 +1,13 @@
 ---
-layout: article
-title: 'Liberty Tree : les archives'
 authors:
-  - nelson
+- nelson
 date: '2008-03-09 13:29:00'
+layout: article
 tags:
 - liberty-city
+title: 'Liberty Tree : les archives'
 ---
+
 
 _Après des années d'attente, le Liberty Tree est heureux de mettre à la disposition de tous les archives des articles de 2002-2003._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Retour gagnant ?
-cover: "/content/images/2016/06/OG_Loc.jpg"
 authors:
-  - bart_man
+- bart_man
+cover: /content/images/2016/06/OG_Loc.jpg
 date: '2006-01-08 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/07/retour-gagnant
+- /2006/01/07/retour-gagnant/
 tags:
 - los-santos
-redirect_from:
-  - /2006/01/07/retour-gagnant
+title: Retour gagnant ?
 ---
+
 
 _Alors que le nouvel album de Madd Dogg fait un carton dans les charts, c'est au tour de OG Loc de revenir sur le devant de la scène avec un album gangsta-rap intitulé "Peace and Gangs"._
 

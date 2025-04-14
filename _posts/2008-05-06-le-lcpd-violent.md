@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Le LCPD, violent ?
 authors:
-  - dremixam
+- dremixam
 date: '2008-05-06 13:25:00'
+layout: article
 tags:
 - liberty-city
+title: Le LCPD, violent ?
 ---
+
 
 _Le LCPD fait aujourd'hui encore, la une des journaux. Mais cette fois-ci, ce n'est pas pour sa grande campagne de recrutement mais parce qu'un homme, James O'Conner, a déposé plainte pour violence physique et harcèlement moral d'un officier de police, le Liberty Tree mène l'enquête._
 

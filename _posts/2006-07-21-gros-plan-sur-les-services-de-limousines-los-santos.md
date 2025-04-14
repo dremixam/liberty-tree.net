@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Gros plan sur les services de limousines à Los Santos
-cover: "/content/images/2005/01/Limo_-_article_title.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/Limo_-_article_title.jpg
 date: '2006-07-21 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Gros plan sur les services de limousines à Los Santos
 ---
+
 
 Le marché du service de location de limousine est en constante effervescence depuis plusieurs années. Bien que parmi les nombreuses personnes s’étant lancé dans ce type de service, certains n’ont jamais véritablement percé, nous pouvons néanmoins affirmer que les affaires se portent à merveille pour 5 grosses entreprises installées à Los Santos.
 

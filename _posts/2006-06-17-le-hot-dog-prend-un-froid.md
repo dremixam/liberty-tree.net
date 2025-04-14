@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Le Hot Dog prend un froid
-cover: "/content/images/2005/01/no_fatt_dogg.jpg"
 authors:
-  - julio75
+- julio75
+cover: /content/images/2005/01/no_fatt_dogg.jpg
 date: '2006-06-17 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Le Hot Dog prend un froid
 ---
+
 
 Le petit James O'Grady a rejoint à ses 18 ans les rangs de la société Chilli Dogs en 1981. En une quinzaine d'années, James O'Grady ou plus&nbsp;couramment Fatt Dogg (car ses hot dogs sont réputés pour faire grossir et parce qu'il est fan de rap), a réussi à s'imposer comme étant le meilleur vendeur de hot dogs de tout San Andreas. Fatt a&nbsp;eu l'idée de poster son stand devant l'une des tours des plus fréquentées et la tour la plus haute de l'Etat. Ingénieux, car chaque midi et soir, des milliers d'hommes d'affaires affamés (dont moi de temps en temps), veulent manger et Fatt intervient à ce moment-là. Récemment, il se faisait dans les 2000$ dans ses bons jours. Vous vous doutez que depuis tout ce temps, la concurrence aurait pu s'installer, mais les endroits de stationnement et les locaux du Downtown aisés sont hors de prix. Ce qui permet au Dogg d'exercer son métier sans trop de soucis.
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Grève des éboueurs !
-cover: "/content/images/2016/06/sanitari.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2016/06/sanitari.jpg
 date: '2005-09-25 00:00:00'
+layout: article
+redirect_from:
+- /2005/09/24/greve-des-eboueurs
+- /2005/09/24/greve-des-eboueurs/
 tags:
 - los-santos
-redirect_from:
-  - /2005/09/24/greve-des-eboueurs
+title: Grève des éboueurs !
 ---
+
 
 _Encore une journée sans éboueurs, dans tout l’État de San Andreas. Un gigantesque mouvement de grève qui dure depuis maintenant trois jours : Du jamais vu!_
 

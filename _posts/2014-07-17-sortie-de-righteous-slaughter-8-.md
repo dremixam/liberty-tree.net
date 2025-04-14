@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Sortie de Righteous Slaughter 8
-cover: "/content/images/2016/06/slaughter%202_1.jpg"
 authors:
-  - duddy-frutti
+- duddy-frutti
+cover: /content/images/2016/06/slaughter%202_1.jpg
 date: '2014-07-17 00:00:00'
+layout: article
+redirect_from:
+- /2014/07/16/sortie-de-righteous-slaughter-8
+- /2014/07/16/sortie-de-righteous-slaughter-8/
 tags:
 - los-santos
-redirect_from:
-  - /2014/07/16/sortie-de-righteous-slaughter-8
+title: Sortie de Righteous Slaughter 8
 ---
+
 
 _L'équipe du Liberty Tree est allée enquêter sur "The Righteous Slaughter 8", un nouveau jeu vidéo dont la sortie approche à grands pas..._
 

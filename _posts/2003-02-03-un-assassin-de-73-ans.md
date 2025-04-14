@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un assassin de 73 ans
-cover: "/content/images/v1/user26/papyfou.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/v1/user26/papyfou.jpg
 date: '2003-02-03 00:00:00'
+layout: article
+redirect_from:
+- /2003/02/02/un-assassin-de-73-ans
+- /2003/02/02/un-assassin-de-73-ans/
 tags:
 - liberty-city
-redirect_from:
-  - /2003/02/02/un-assassin-de-73-ans
+title: Un assassin de 73 ans
 ---
+
 
 Ce matin, M. T. un ancien combattant de 73 ans, s'est levé et a eu la désagréable surprise de s'apercevoir que sa femme ne lui avait pas préparé son café. Fou de rage, il s'est mis à l'insulter et à la menacer de mort.
 

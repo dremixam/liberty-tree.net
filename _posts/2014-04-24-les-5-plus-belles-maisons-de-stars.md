@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les 5 plus belles maisons de stars
-cover: "/content/images/2016/06/0_0%20%285%29_9.jpg"
 authors:
-  - aymar
+- aymar
+cover: /content/images/2016/06/0_0%20%285%29_9.jpg
 date: '2014-04-24 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/23/les-5-plus-belles-maisons-de-stars
+- /2014/04/23/les-5-plus-belles-maisons-de-stars/
 tags:
 - los-santos
-redirect_from:
-  - /2014/04/23/les-5-plus-belles-maisons-de-stars
+title: Les 5 plus belles maisons de stars
 ---
+
 
 _Aujourd'hui, nous allons vous dévoiler les 5 plus belles maisons de stars de Vinewood Hills. Jaloux s'abstenir._
 

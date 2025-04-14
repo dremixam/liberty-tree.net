@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le roi est mort, vive le roi !
-cover: "/content/images/2016/06/gouverneur.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2016/06/gouverneur.jpg
 date: '2005-11-15 00:00:00'
+layout: article
+redirect_from:
+- /2005/11/14/le-roi-est-mort-vive-le-roi
+- /2005/11/14/le-roi-est-mort-vive-le-roi/
 tags:
 - vice-city
-redirect_from:
-  - /2005/11/14/le-roi-est-mort-vive-le-roi
+title: Le roi est mort, vive le roi !
 ---
+
 
 _Les résultats nous sont enfin parvenus après des jours de dépouillement acharné et de recomptage des voix. Finalement c'est bien John Sturner que vous avez élu une fois de plus, nouveau gouverneur._
 

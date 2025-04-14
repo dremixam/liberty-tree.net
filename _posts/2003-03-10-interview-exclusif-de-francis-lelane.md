@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Interview exclusif de Francis Lelâne
-cover: "/content/images/v1/user29/f1.jpg"
 authors:
-  - alex
+- alex
+cover: /content/images/v1/user29/f1.jpg
 date: '2003-03-10 11:00:00'
+layout: article
 tags:
 - liberty-city
+title: Interview exclusif de Francis Lelâne
 ---
+
 
 Après son séjour de prison, Francis Lelâne nous donne ses premières impressions ! Un témoignage émouvant, âmes sensibles, s'abstenir.
 

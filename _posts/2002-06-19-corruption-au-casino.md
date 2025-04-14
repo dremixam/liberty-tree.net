@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Corruption au casino
-cover: "/content/images/2016/06/gta.jpg"
 authors:
-  - baz
+- baz
+cover: /content/images/2016/06/gta.jpg
 date: '2002-06-19 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/18/corruption-au-casino
+- /2002/06/18/corruption-au-casino/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/18/corruption-au-casino
+title: Corruption au casino
 ---
+
 
 On avait envoyé notre meilleur reporteur enquêter sur le blanchiment d'argent organisé au sein du casino de Kenji, mais il n'est jamais revenu pour nous livrer son article. Il nous a juste envoyé un mail d'explication :
 

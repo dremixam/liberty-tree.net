@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les Lost MC ont de la compagnie
-cover: "/content/images/2016/06/0_0_251.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_251.jpg
 date: '2014-10-19 00:00:00'
+layout: article
+redirect_from:
+- /2014/10/18/les-lost-mc-ont-de-la-compagnie
+- /2014/10/18/les-lost-mc-ont-de-la-compagnie/
 tags:
 - los-santos
-redirect_from:
-  - /2014/10/18/les-lost-mc-ont-de-la-compagnie
+title: Les Lost MC ont de la compagnie
 ---
+
 
 _Partons à la découverte d'un nouveau gang se faisant appeler aussi "Lost MC", allié aux Lost que nous connaissons, et qui semble bien actif dans l'univers de la bécane et de la bière._
 

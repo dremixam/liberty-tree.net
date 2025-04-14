@@ -1,12 +1,13 @@
 ---
-layout: article
-title: 2007, une année neuve
 authors:
-  - tenpenny
+- tenpenny
 date: '2007-01-01 20:53:00'
+layout: article
 tags:
 - los-santos
+title: 2007, une année neuve
 ---
+
 
 _En cette nouvelle année, nous avons fouillé dans les archives de l'année 2006 pour, avant de l'enterrer définitivement, un regard très bref sur toute l'actualité qui est parue presque tous les jours._
 

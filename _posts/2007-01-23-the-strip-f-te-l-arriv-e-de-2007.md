@@ -1,13 +1,14 @@
 ---
-layout: article
-title: The Strip fête l'arrivée de 2007
-cover: "/content/images/2005/01/NYE_Happy_New_Year.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2005/01/NYE_Happy_New_Year.jpg
 date: '2007-01-23 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: The Strip fête l'arrivée de 2007
 ---
+
 
 Certes le 31 décembre est déjà loin et vous vous demandez sûrement pourquoi un article sur le réveillon est publié si tard. Et bien sachez chers lecteurs que j'ai fait ce reportage pendant mes vacances. Alors du coup, j'ai repris deux semaines de vacances pour compenser. Ça marche comme ça au Liberty Tree. Mais laissons désormais place à l'actualité proprement dite, même si je suis persuadé que ma vie vous passionne au plus haut point.
 

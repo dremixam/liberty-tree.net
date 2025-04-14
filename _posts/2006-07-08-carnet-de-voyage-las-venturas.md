@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'Carnet de Voyage : Las Venturas'
-cover: "/content/images/2005/01/vuLV.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2005/01/vuLV.jpg
 date: '2006-07-08 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: 'Carnet de Voyage : Las Venturas'
 ---
+
 
  **Etape 5 : Las Venturas :**
 

@@ -1,15 +1,16 @@
 ---
-layout: article
-title: San Andreas serait un monde virtuel
-cover: "/content/images/2005/01/VIDEO_GAME_Jeu.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2005/01/VIDEO_GAME_Jeu.jpg
 date: '2007-03-28 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: San Andreas serait un monde virtuel
 ---
+
 
 Notre monde est décidément un endroit vraiment très spécial. A la Une du Liberty Tree aujourd'hui, un article quelque peu étonnant. Nul question de fusillade, de meurtre, de crash d'avion ou de quelque autre viol de célébrité. Non aujourd'hui c'est un sujet calme que nous avons décidé de traiter. Et pourtant...
 

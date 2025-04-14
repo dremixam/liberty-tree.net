@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Braquage d'un fourgon blindé en plein Staunton Island
 authors:
-  - nelson
+- nelson
 date: '2007-11-14 22:46:00'
+layout: article
 tags:
 - liberty-city
+title: Braquage d'un fourgon blindé en plein Staunton Island
 ---
+
 
 _Un GMC blindé de transports de fonds à été attaqué en plein Downtown Staunton Island hier matin. L'un des deux convoyeurs est aujourd'hui entre la vie et la mort._
 

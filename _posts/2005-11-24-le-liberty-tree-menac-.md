@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Le Liberty Tree menacé
-cover: "/content/images/2005/01/LT_by_night.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/2005/01/LT_by_night.jpg
 date: '2005-11-24 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Le Liberty Tree menacé
 ---
+
 
 Il y a quelques jours, un ancien journaliste (dont nous ne dévoileront pas le nom) m'a contacté pour me faire savoir qu'il avait une information très importante à me communiquer. Ayant l'habitude d'obtenir des tuyaux juteux de ce journaliste, je décidai donc d'accepter le rendez-vous qu'il m'avait fixé l'après midi même à la terrasse d'un café du centre de Los Santos.
 

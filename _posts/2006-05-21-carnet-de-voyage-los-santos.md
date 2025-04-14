@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'Carnet de Voyage : Los Santos'
-cover: "/content/images/2005/01/SM_et_V_Beach_4.jpg"
 authors:
-  - scarface1991
+- scarface1991
+cover: /content/images/2005/01/SM_et_V_Beach_4.jpg
 date: '2006-05-21 00:00:00'
+layout: article
 tags:
 - los-santos
+title: 'Carnet de Voyage : Los Santos'
 ---
+
 
 _Pour cette 3ème étape du Carnet de Voyage, la visite se passe à Los Santos. Le siège du Liberty Tree s'y trouve ainsi que son merveilleux aéroport, sa plage, ses buildings.... Que de choses qui font rêver !!!! Préparez-vous pour un atterrissage imminent._
 

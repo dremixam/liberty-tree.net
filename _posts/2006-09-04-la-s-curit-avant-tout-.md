@@ -1,15 +1,16 @@
 ---
-layout: article
-title: La sécurité avant tout !
-cover: "/content/images/2005/01/Police_Officer.jpg"
 authors:
-  - antholintello
+- antholintello
+cover: /content/images/2005/01/Police_Officer.jpg
 date: '2006-09-04 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: La sécurité avant tout !
 ---
+
 
 Le gouverneur de l'Etat de San Andreas a mis en place une nouvelle&nbsp;équipe chargée de la sécurité des automobilistes&nbsp;: la RPD (Road Police Department).
 

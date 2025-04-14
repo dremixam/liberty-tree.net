@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Adieu TW@, bonjour KDC.com !
 authors:
-  - nelson
+- nelson
 date: '2002-12-16 17:39:00'
+layout: article
 tags:
 - liberty-city
+title: Adieu TW@, bonjour KDC.com !
 ---
+
 
 Il y a deux mois de cela, Love Media annonçait la fin du financement du cyber-café TW@ de Stauton-Island.  
 Obligé de se débrouiller par ses propres moyens financiers, Ludwig Warshteimer (possédant déjà deux cyber-cafés à Berlin) vu son chiffre d'affaire diminuer de plus en plus.  

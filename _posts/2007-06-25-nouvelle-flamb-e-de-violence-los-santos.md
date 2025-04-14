@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Nouvelle flambée de violence à Los Santos
-cover: "/content/images/2005/01/miaosn_qui_crame.jpg"
 authors:
-  - satyr
+- satyr
+cover: /content/images/2005/01/miaosn_qui_crame.jpg
 date: '2007-06-25 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Nouvelle flambée de violence à Los Santos
 ---
+
 
 Hier, un simple incident entre deux gangs s'est généralisé et a embrasé tout les bas quartiers de Los Santos, récit d'une journée tragique.
 

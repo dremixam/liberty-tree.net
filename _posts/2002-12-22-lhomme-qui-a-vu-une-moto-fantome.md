@@ -1,12 +1,13 @@
 ---
-layout: article
-title: L'homme qui a vu une moto fantome
 authors:
-  - dremixam
+- dremixam
 date: '2002-12-22 18:20:00'
+layout: article
 tags:
 - liberty-city
+title: L'homme qui a vu une moto fantome
 ---
+
 
 Comme je suis nouveau à la rédaction du Liberty tree je me suis dit que la première chose a faire en arrivant était d'éplucher les archives du journal pour voir le genre d'article a produire.  
 Le [taxi fantôme](/2002/06/26/le-taxi-fantome/), article de mon collègue Little Worm a particulièrement attiré mon attention. Photo:

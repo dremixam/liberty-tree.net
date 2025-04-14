@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Coup d'oeil sur un rassemblement tuning illégal
-cover: "/content/images/2016/06/0_0_222.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_222.jpg
 date: '2014-07-22 00:00:00'
+layout: article
+redirect_from:
+- /2014/07/21/coup-doeil-sur-un-rassemblement-tuning-illegal
+- /2014/07/21/coup-doeil-sur-un-rassemblement-tuning-illegal/
 tags:
 - los-santos
-redirect_from:
-  - /2014/07/21/coup-doeil-sur-un-rassemblement-tuning-illegal
+title: Coup d'oeil sur un rassemblement tuning illégal
 ---
+
 
 _La semaine dernière, plusieurs fous du volant se sont réunis dans la zone industrielle près de l'aéroport international de LS pour se montrer leurs bolides, équipés des toutes dernières améliorations venues le plus souvent directement du Japon. Entre drift, run, et la bière qui coulait à flot, la soirée a été bien animée..._
 

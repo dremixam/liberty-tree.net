@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Maire de tous les vices
 authors:
-  - special-k
+- special-k
 date: '2008-02-29 23:49:00'
+layout: article
 tags:
 - los-santos
+title: Maire de tous les vices
 ---
+
 
 _Le maire de Los Santos, Henry G. Carter, est à nouveau au cœur d'une autre sordide histoire alors qu'il a été vu en compagnie d'une femme aux mœurs légère très connue. Une nouvelle controverse qui s'ajoute aux nombreuses autres déjà à son palmarès._
 

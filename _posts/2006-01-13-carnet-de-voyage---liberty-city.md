@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Carnet de voyage : Liberty City'
-cover: "/content/images/2016/06/luigi2.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2016/06/luigi2.jpg
 date: '2006-01-13 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/12/carnet-de-voyage-liberty-city
+- /2006/01/12/carnet-de-voyage-liberty-city/
 tags:
 - liberty-city
-redirect_from:
-  - /2006/01/12/carnet-de-voyage-liberty-city
+title: 'Carnet de voyage : Liberty City'
 ---
+
 
 _Gangs, drogue, meurtres, décadence, de moins en moins de touristes et de visiteurs viennent sillonner les quatre coins de notre beau pays. C'est pour redonner envie aux gens de prendre leur caméscope ou leur appareil, que le Liberty Tree vous offre cinq épisodes d'un magnifique carnet de voyage !_
 

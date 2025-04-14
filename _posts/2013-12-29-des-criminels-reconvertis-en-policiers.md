@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Des criminels reconvertis en policiers
-cover: "/content/images/2016/06/LSPD.jpg"
 authors:
-  - libertyg100
+- libertyg100
+cover: /content/images/2016/06/LSPD.jpg
 date: '2013-12-29 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/28/des-criminels-reconvertis-en-policiers
+- /2013/12/28/des-criminels-reconvertis-en-policiers/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/28/des-criminels-reconvertis-en-policiers
+title: Des criminels reconvertis en policiers
 ---
+
 
 En réponse à la [hausse de 160 % du taux de criminalité](/2013/12/21/une-augmentation-de-160---de-la-criminalite-a-los-santos--/) à Los Santos, le maire a décidé de lancer un nouveau programme de réinsertion visant à reconvertir les criminels en fonctionnaires de police.
 

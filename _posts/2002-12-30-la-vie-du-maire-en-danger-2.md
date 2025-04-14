@@ -1,12 +1,13 @@
 ---
-layout: article
-title: La vie du maire en danger
 authors:
-  - dremixam
+- dremixam
 date: '2002-12-30 18:34:00'
+layout: article
 tags:
 - liberty-city
+title: La vie du maire en danger
 ---
+
 
 Hier soir lorsqu'il fut fatigué de sa longue journée (il était environ 18h20) le maire décida de rentrer chez lui pour se reposer. Mais à peine était-il sorti de la mairie qu'une Sentinelle appartenant à la mafia passa à toute vitesse devant lui alors que ses occupants tentèrent de le tuer.
 

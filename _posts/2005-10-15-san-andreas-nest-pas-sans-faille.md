@@ -1,14 +1,15 @@
 ---
-layout: article
-title: San Andreas n'est pas sans faille !
 authors:
-  - p130
+- p130
 date: '2005-10-15 16:58:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: San Andreas n'est pas sans faille !
 ---
+
 
 _Non, je ne parlerai pas aujourd'hui des pots de vins versés à la police ni des activités suspectes de notre gouverneur et encore moins du chiffre truqué que le gouvernement annonce sur le déficit de l'Etat. Non, aujourd'hui ce sont les sismologues que la faille inquiète : La Grande Faille de San Andreas_
 

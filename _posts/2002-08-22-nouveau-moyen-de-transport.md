@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Nouveau moyen de transport
 authors:
-  - little-worm
+- little-worm
 date: '2002-08-22 00:00:00'
+layout: article
+redirect_from:
+- /2002/08/21/nouveau-moyen-de-transport
+- /2002/08/21/nouveau-moyen-de-transport/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/08/21/nouveau-moyen-de-transport
+title: Nouveau moyen de transport
 ---
+
 
 L'entreprise ToyZ inc., une filiale de Zaïbatsu Corporation, la célèbre multinationale, vient d'annoncer un nouveau projet de moyen de transport, projet mis en place avec Maïbatsu inc., autre filiale de la Z.C.
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: De nouveaux appareils pour la police
-cover: "/content/images/2016/06/f16_2.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/2016/06/f16_2.jpg
 date: '2002-12-19 00:00:00'
+layout: article
+redirect_from:
+- /2002/12/18/de-nouveaux-appareils-pour-la-police
+- /2002/12/18/de-nouveaux-appareils-pour-la-police/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/12/18/de-nouveaux-appareils-pour-la-police
+title: De nouveaux appareils pour la police
 ---
+
 
 Hier matin le maire O'Donovan a annoncé la nouvelle : c'est maintenant dix F-16 d'une valeur totale de 100 millions de dollars qui vont venir aider la police à chasser le crime aux cœur de notre ville. Ces appareils sont remarquables, capables de passer de zéro a 1500 Km/h en quelques secondes et équipés de missiles téléguidés ils sont largement aptes pour effectuer ce pour quoi ils ont été acquis.
 

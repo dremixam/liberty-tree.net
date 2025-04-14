@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Vice City destination préférée des clubbers
-cover: "/content/images/2005/01/CLUB_Malibu_02.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2005/01/CLUB_Malibu_02.jpg
 date: '2007-07-04 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Vice City destination préférée des clubbers
 ---
+
 
 Vice City, 1980. Les boîtes de nuit sont pleines à craquer, la fête bat son plein. Les tubes de Kool & The Gang, Michael Jackson, Luther Vandross, Blondie, Tears For Fears et Kim Wilde résonnent aux quatre coins de la ville. C'est l'âge d'or des 80's et de son ambiance inoubliable. Beaucoup pensaient que cette époque était révolue mais depuis quelques années, la fièvre du samedi soir semble envahir de nouveau les soirées dans les discothèques.
 

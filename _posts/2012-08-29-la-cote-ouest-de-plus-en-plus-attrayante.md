@@ -1,16 +1,18 @@
 ---
-layout: article
-title: La côte ouest de plus en plus attrayante
-cover: "/content/images/2016/06/11.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/2016/06/11.jpg
 date: '2012-08-29 00:00:00'
+layout: article
+redirect_from:
+- /2012/08/28/la-cote-ouest-de-plus-en-plus-attrayante
+- /2012/08/28/la-cote-ouest-de-plus-en-plus-attrayante/
 tags:
 - los-santos
 - vice-city
-redirect_from:
-  - /2012/08/28/la-cote-ouest-de-plus-en-plus-attrayante
+title: La côte ouest de plus en plus attrayante
 ---
+
 
 Les flux migratoires incessants à l'intérieur de notre pays sont le fruit de nombreux facteurs, parmi eux, l'attractivité des grandes métropoles qui constellent le territoire américain. Ainsi, chaque décennie depuis trente ans a été marquée par l'influence d'une ville différente.
 

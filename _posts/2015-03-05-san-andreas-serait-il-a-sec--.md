@@ -1,15 +1,17 @@
 ---
-layout: article
-title: San Andreas serait-il à sec ?
-cover: "/content/images/2016/06/0_0_254.jpg"
 authors:
-  - vitanique
+- vitanique
+cover: /content/images/2016/06/0_0_254.jpg
 date: '2015-03-05 00:00:00'
+layout: article
+redirect_from:
+- /2015/03/04/san-andreas-serait-il-a-sec
+- /2015/03/04/san-andreas-serait-il-a-sec/
 tags:
 - los-santos
-redirect_from:
-  - /2015/03/04/san-andreas-serait-il-a-sec
+title: San Andreas serait-il à sec ?
 ---
+
 
 _Ce matin, sur l'un des principaux champs pétrolifère de San Andreas, dans le Grand Señora Desert, le pétrole s'est arrêté de couler. Ceci pourrait entraîner de graves conséquences pour San Andreas._
 

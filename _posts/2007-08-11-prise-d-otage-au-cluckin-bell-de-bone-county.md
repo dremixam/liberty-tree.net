@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Prise d'otage au Cluckin'Bell de Bone County
-cover: "/content/images/2005/01/swat4.jpg"
 authors:
-  - i-need-money
+- i-need-money
+cover: /content/images/2005/01/swat4.jpg
 date: '2007-08-11 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: Prise d'otage au Cluckin'Bell de Bone County
 ---
+
 
 Vendredi 18 juillet 19h30, bijouterie Lecoîntre, Las Venturas, deux hommes&nbsp;cagoulés et armés braquent sans difficultés cet établissement de luxe et s'enfuient vers le désert.
 

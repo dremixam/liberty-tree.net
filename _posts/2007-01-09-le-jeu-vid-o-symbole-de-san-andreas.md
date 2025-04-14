@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Le jeu vidéo, symbole de San Andreas
-cover: "/content/images/2005/01/Logo-Societe-Creation-Jeu.jpg"
 authors:
-  - manu
+- manu
+cover: /content/images/2005/01/Logo-Societe-Creation-Jeu.jpg
 date: '2007-01-09 00:00:00'
+layout: article
 tags:
 - los-santos
 - san-fierro
 - las-venturas
+title: Le jeu vidéo, symbole de San Andreas
 ---
+
 
 San Andreas, capitale du jeu vidéo !
 

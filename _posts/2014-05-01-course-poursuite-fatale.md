@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Course-poursuite fatale
-cover: "/content/images/2016/06/Accident4.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Accident4.jpg
 date: '2014-05-01 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/30/course-poursuite-fatale
+- /2014/04/30/course-poursuite-fatale/
 tags:
 - los-santos
-redirect_from:
-  - /2014/04/30/course-poursuite-fatale
+title: Course-poursuite fatale
 ---
+
 
 _Deux jeunes hommes ont perdu la vie hier, au terme d'une longue course-poursuite avec les forces de l'ordre. Leur mort ressemble fortement à la scène finale d'un célèbre film..._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Luigi jugé
-cover: "/content/images/2016/06/Limousine.jpg"
 authors:
-  - pierrealex
+- pierrealex
+cover: /content/images/2016/06/Limousine.jpg
 date: '2002-05-19 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/18/luigi-juge
+- /2002/05/18/luigi-juge/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/18/luigi-juge
+title: Luigi jugé
 ---
+
 
 Luigi Goterelli, le propriétaire du Sex Club 7 possédant une triste notoriété, a plaidé « non coupable » à son procès alors qu'il été accusé de diriger des locaux dans des buts immoraux.
 

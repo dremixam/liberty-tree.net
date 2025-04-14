@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Chinatown, lieu d'insécurité ...
-cover: "/content/images/2005/01/china.jpg"
 authors:
-  - passe-partout
+- passe-partout
+cover: /content/images/2005/01/china.jpg
 date: '2007-07-05 00:00:00'
+layout: article
 tags:
 - san-fierro
 - las-venturas
 - los-santos
+title: Chinatown, lieu d'insécurité ...
 ---
+
 
 La victime, un homme de 23 ans, a été retrouvée entre des caddis par une jeune demoiselle qui avait décidé de passer par les ruelles de Chinatown, selon la police ce genre de meurtre est courant dans ce quartier, et il vaut mieux ne pas trop y traîner après 22h.
 

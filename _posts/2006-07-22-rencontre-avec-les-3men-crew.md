@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Rencontre avec les 3Men Crew
-cover: "/content/images/2005/01/madein.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/madein.jpg
 date: '2006-07-22 00:00:00'
+layout: article
 tags:
 - liberty-city
+title: Rencontre avec les 3Men Crew
 ---
+
 
 En évoquant le nom des 3Men Crew, vous pensez sûrement à "Afterparty" ou "Bullshit Boyz", albums ayant fait la gloire de ces trois rappeurs de Liberty City il y a quelques années. Le très controversé "Big G Liberty" qui est sorti à la fin de l'année 2003 a été l'occasion pour Dj Seagull, S.V.E.N et FL57 de faire une pause dans leur vie mouvementée d'artiste.
 

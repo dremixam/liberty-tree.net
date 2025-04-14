@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Morts mysterieuses de chiens
-cover: "/content/images/2016/06/dog_food.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/2016/06/dog_food.jpg
 date: '2005-08-26 00:00:00'
+layout: article
+redirect_from:
+- /2005/08/25/morts-mysterieuses-de-chiens
+- /2005/08/25/morts-mysterieuses-de-chiens/
 tags:
 - vice-city
-redirect_from:
-  - /2005/08/25/morts-mysterieuses-de-chiens
+title: Morts mysterieuses de chiens
 ---
+
 
 Depuis le début de l'été, le taux de décès chez les chiens de Los Santos a considérablement augmenté, pour preuve: il est quasiment impossible de croiser un chien dans nos rues depuis quelques mois.
 

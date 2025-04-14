@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Recours collectif contre la ville de Los Santos et le LSPD
-cover: "/content/images/2005/01/Recours_-_LS_City_Hall.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/Recours_-_LS_City_Hall.jpg
 date: '2006-10-16 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Recours collectif contre la ville de Los Santos et le LSPD
 ---
+
 
 ![](/content/images/2005/01/Recours_-_LS_City_Hall.jpg)
 ![Hôtel de ville de Los Santos et QG du LSPD.](/content/images/2005/01/Recours_-_LSPD_HQ.jpg)

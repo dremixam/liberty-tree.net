@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Accident terrible!
 authors:
-  - dremixam
+- dremixam
 date: '2003-02-26 13:06:00'
+layout: article
 tags:
 - liberty-city
+title: Accident terrible!
 ---
+
 
 _Hier matin, un Cabbie qui n'avait pas de très bon freins n'a pas pu s’arrêter avant la collision qui a coûté la vie à une femme de 25 ans._
 

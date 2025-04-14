@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Macabre découverte à la carrière Davis Quartz
-cover: "/content/images/2016/06/Carriere.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Carriere.jpg
 date: '2013-12-15 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/14/macabre-decouverte-a-la-carriere-davis-quartz
+- /2013/12/14/macabre-decouverte-a-la-carriere-davis-quartz/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/14/macabre-decouverte-a-la-carriere-davis-quartz
+title: Macabre découverte à la carrière Davis Quartz
 ---
+
 
 La découverte a été faite hier, dans la matinée. Une dalle de béton suspecte est repérée au nord de la carrière. Après démantelage de la dalle, les ouvriers découvrent horrifiés une dizaine de cadavres d'hommes, de femmes et même d'enfants. Rapidement, la police arrive sur place et les lieux sont bouclés.
 

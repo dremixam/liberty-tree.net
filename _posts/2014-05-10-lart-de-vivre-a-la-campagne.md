@@ -1,15 +1,17 @@
 ---
-layout: article
-title: L'art de vivre à la campagne
-cover: "/content/images/2016/06/0_0_191.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_191.jpg
 date: '2014-05-10 00:00:00'
+layout: article
+redirect_from:
+- /2014/05/09/lart-de-vivre-a-la-campagne
+- /2014/05/09/lart-de-vivre-a-la-campagne/
 tags:
 - los-santos
-redirect_from:
-  - /2014/05/09/lart-de-vivre-a-la-campagne
+title: L'art de vivre à la campagne
 ---
+
 
 _Alors qu'il y a encore une petite décennie, les campagnards étaient montré comme des ploucs par les citadins ; aujourd'hui, c'est tout l'inverse. Au contraire, de plus en plus de ces citadins font le choix de s'isoler à Blaine County. Mais alors, quelles en sont les raisons ? Entre les loyers moins chers, la possibilité d'avoir un grand jardin, pas ou peu de voisins et moins de cambriolage, les avis divergent..._
 

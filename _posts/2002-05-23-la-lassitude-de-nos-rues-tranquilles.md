@@ -1,14 +1,16 @@
 ---
-layout: article
-title: La lassitude de nos rues tranquilles
 authors:
-  - baz
+- baz
 date: '2002-05-23 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/22/la-lassitude-de-nos-rues-tranquilles
+- /2002/05/22/la-lassitude-de-nos-rues-tranquilles/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/22/la-lassitude-de-nos-rues-tranquilles
+title: La lassitude de nos rues tranquilles
 ---
+
 
 Il est bien loin le temps où nôtre belle ville pouvait s'enorgueillir d'être une ville fière et dynamique. Bien loin le temps où nos concitoyens marchaient la tête haute vers un avenir serein. Ce bel état d'esprit avait parvenu à hisser Liberty City au premier rang des villes Américaines, et donc de fait au sommet des cités mondiales.
 

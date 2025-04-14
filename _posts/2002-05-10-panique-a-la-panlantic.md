@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Panique à la Panlantic
-cover: "/content/images/2016/06/panlantic.jpg"
 authors:
-  - baz
+- baz
+cover: /content/images/2016/06/panlantic.jpg
 date: '2002-05-10 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/09/panique-a-la-panlantic
+- /2002/05/09/panique-a-la-panlantic/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/09/panique-a-la-panlantic
+title: Panique à la Panlantic
 ---
+
 
 Les dirigeants de la société de BTP Panlantic Construction ont été mis aux arrêts, hier après-midi, à la suite d'une brillante opération policière. La société servirait en fait à blanchir une grande quantité d'argent sale, provenant du trafic de spank mené par le cartel sud américain.
 

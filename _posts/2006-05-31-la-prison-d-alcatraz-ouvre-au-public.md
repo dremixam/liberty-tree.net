@@ -1,13 +1,14 @@
 ---
-layout: article
-title: La prison d'Alcatraz ouvre au public
-cover: "/content/images/2005/01/Alcatraz_10.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2005/01/Alcatraz_10.jpg
 date: '2006-05-31 00:00:00'
+layout: article
 tags:
 - san-fierro
+title: La prison d'Alcatraz ouvre au public
 ---
+
 
 Alcatraz. Un nom craint de tous les truands de la première moitié du siècle. Aujourd'hui, la prison d'Alcatraz ouvre à nouveau ses portes... au public. Les bandits et autres brigands qui lisent ce journal peuvent donc dormir sur leurs deux oreilles. Alcatraz est désormais classée comme lieu historique appartenant au patrimoine américain. Mais l'île n'a pas toujours été un lieu de détente de de récréation. Retour sur l'histoire de cette prison mythique.
 

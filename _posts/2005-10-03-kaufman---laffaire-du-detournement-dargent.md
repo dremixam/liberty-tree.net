@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Kaufman : l''affaire du détournement d''argent'
-cover: "/content/images/2016/06/kaufman%20cie.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2016/06/kaufman%20cie.jpg
 date: '2005-10-03 00:00:00'
+layout: article
+redirect_from:
+- /2005/10/02/kaufman-laffaire-du-detournement-dargent
+- /2005/10/02/kaufman-laffaire-du-detournement-dargent/
 tags:
 - vice-city
-redirect_from:
-  - /2005/10/02/kaufman-laffaire-du-detournement-dargent
+title: 'Kaufman : l''affaire du détournement d''argent'
 ---
+
 
 _Cela fait un choc pour les habitués des taxis Kaufman qu'empruntent chaque jour des centaines de Viciens. Il semblerait que la compagnie soit impliquée dans une sombre affaire de détournement fiscal ! Enquête :_
 

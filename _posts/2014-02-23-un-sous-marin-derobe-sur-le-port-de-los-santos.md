@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un sous-marin dérobé sur le port de Los Santos
-cover: "/content/images/2016/06/Merryweather.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Merryweather.jpg
 date: '2014-02-23 00:00:00'
+layout: article
+redirect_from:
+- /2014/02/22/un-sous-marin-derobe-sur-le-port-de-los-santos
+- /2014/02/22/un-sous-marin-derobe-sur-le-port-de-los-santos/
 tags:
 - los-santos
-redirect_from:
-  - /2014/02/22/un-sous-marin-derobe-sur-le-port-de-los-santos
+title: Un sous-marin dérobé sur le port de Los Santos
 ---
+
 
 _Hier, des mercenaires de la compagnie privée Merryweather, qui détient une base sur le port de Los Santos, n'ont pu que constater que l'un de leurs sous-marins avait disparu..._
 

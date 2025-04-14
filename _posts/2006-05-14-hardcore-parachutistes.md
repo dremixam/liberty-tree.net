@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Hardcore parachutistes
-cover: "/content/images/2005/01/Saut_N_4.jpg"
 authors:
-  - scarface1991
+- scarface1991
+cover: /content/images/2005/01/Saut_N_4.jpg
 date: '2006-05-14 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Hardcore parachutistes
 ---
+
 
 Dans cet article, je vais énumérer tous les points stratégiques d'où les parachutistes aiment, adorent sauter et faire des figures avec leur matériel. Il y aura aussi une interview d'un homme qui en voit tous les jours&nbsp;faire des bonds du haut &nbsp;d'une tour à Los Santos. Accrochez-vous bien pour un article qui décoiffe!
 

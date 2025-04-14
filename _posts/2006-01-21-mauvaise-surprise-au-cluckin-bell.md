@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Mauvaise surprise au Cluckin' Bell
-cover: "/content/images/2016/06/Cluckin_Bell.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2016/06/Cluckin_Bell.jpg
 date: '2006-01-21 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/20/mauvaise-surprise-au-cluckin-bell
+- /2006/01/20/mauvaise-surprise-au-cluckin-bell/
 tags:
 - san-fierro
-redirect_from:
-  - /2006/01/20/mauvaise-surprise-au-cluckin-bell
+title: Mauvaise surprise au Cluckin' Bell
 ---
+
 
 _Mardi midi, une jeune femme a eu la mauvaise surprise de découvrir le cadavre d'un rat à la place de son steak haché dans son hamburger._
 

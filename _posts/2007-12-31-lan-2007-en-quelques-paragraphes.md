@@ -1,14 +1,15 @@
 ---
-layout: article
-title: L'an 2007 en quelques paragraphes.
 authors:
-  - nelson
+- nelson
 date: '2007-12-31 22:55:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: L'an 2007 en quelques paragraphes.
 ---
+
 
 _Plus que quelques jours avant de basculer en 2008. En attendant le 31 décembre, ses petits fours immondes et le champagne bas de gamme que vous allez boire au goulot chez votre belle-famille (que vous n'appréciez qu'avec 3 grammes d'alcool dans chaque bras), voici une petite rétrospective de faits marquants de 2007._
 

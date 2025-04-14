@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Opération: Nettoyage de printemps'
-cover: "/content/images/2016/06/pabloparc.jpg"
 authors:
-  - max-2
+- max-2
+cover: /content/images/2016/06/pabloparc.jpg
 date: '2002-06-28 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/27/operation-nettoyage-de-printemps
+- /2002/06/27/operation-nettoyage-de-printemps/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/27/operation-nettoyage-de-printemps
+title: 'Opération: Nettoyage de printemps'
 ---
+
 
 Aujourd'hui, la municipalité a annoncé le début de "l'Opération: Nettoyage de printemps" qui s'est reproduite et qui se reproduit chaque année et ce depuis 6 ans.
 

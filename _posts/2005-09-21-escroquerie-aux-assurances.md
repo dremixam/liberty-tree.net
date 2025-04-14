@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Escroquerie aux assurances
-cover: "/content/images/2005/01/garage2.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/garage2.jpg
 date: '2005-09-21 00:00:00'
+layout: article
 tags:
 - liberty-city
+title: Escroquerie aux assurances
 ---
+
 
 L'affaire a fait la une des informations locales : huit voitures volées en une semaine à Liberty City, du jamais vu pour la capitale du _car jacking_.  
 La police de LC n'aura en tout cas pas laissé traîner les choses. Au bout du troisième vol, une "taupe" a été infiltrée dans le réseau et la souricière s'est refermé hier soir sur trois Afro-Américains et un Sicilien, cerveaux de la petite entreprise.  

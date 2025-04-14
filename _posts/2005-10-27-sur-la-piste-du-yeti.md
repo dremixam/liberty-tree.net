@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Sur la piste du Yéti
-cover: "/content/images/2016/06/chiliad.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2016/06/chiliad.jpg
 date: '2005-10-27 00:00:00'
+layout: article
+redirect_from:
+- /2005/10/26/sur-la-piste-du-yeti
+- /2005/10/26/sur-la-piste-du-yeti/
 tags:
 - los-santos
-redirect_from:
-  - /2005/10/26/sur-la-piste-du-yeti
+title: Sur la piste du Yéti
 ---
+
 
 _Vous avez certainement entendu parler, ces derniers jours de la disparition de deux alpinistes au Mont Chiliad. Ces derniers, partis sur les traces d'un mystérieux animal, ont été secourus ce matin par les pompiers de Los Santos et de San Fierro._
 

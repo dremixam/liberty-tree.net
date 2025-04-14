@@ -1,13 +1,14 @@
 ---
-layout: article
-title: L'industrie navale de Vice City fait son retour
-cover: "/content/images/2005/01/viceport.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/viceport.jpg
 date: '2006-09-19 00:00:00'
+layout: article
 tags:
 - vice-city
+title: L'industrie navale de Vice City fait son retour
 ---
+
 
 "C'est le sauveur de Vice City", "Sans lui, je pouvais crever de faim" Tels sont les témoignages recueillis dans Vice City depuis l'achats&nbsp;du chantier naval&nbsp;de Vice City par un magnat des affaires venant tout droit de Liberty City. Ray J. Stunbuild, actionnaire presque majoritaire dans plusieurs boîtes de construction comme Pan Lantic et entrepreneur du chantier naval de Liberty&nbsp;était venu à Vice City dans le seul but de prendre des vacances et dans l'avion, il vit le taux de pourcentage&nbsp;effroyable de population sans emploi. Selon sa femme, "il a sorti des liasses de billets en rangeant sa brochure et il m'a dit qu'un business l'attendait."
 

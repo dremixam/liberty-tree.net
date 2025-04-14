@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Il faut buter le soldat Rayan
 authors:
-  - play2man2002
+- play2man2002
 date: '2002-05-16 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/15/il-faut-buter-le-soldat-rayan
+- /2002/05/15/il-faut-buter-le-soldat-rayan/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/15/il-faut-buter-le-soldat-rayan
+title: Il faut buter le soldat Rayan
 ---
+
 
 Le sergent Rayan a tué 60 personnes dans une course poursuite avec les forces de l'ordre.
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Début d'année mouvementé
-cover: "/content/images/2016/07/fbiatt.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/2016/07/fbiatt.jpg
 date: '2003-01-15 11:45:00'
+layout: article
 tags:
 - liberty-city
+title: Début d'année mouvementé
 ---
+
 
 Peu après la publication de mon article 'tank volant' le FBI est venu m’arrêter à la sortie du Liberty Tree, Flo a pu prendre quelques photos:
 

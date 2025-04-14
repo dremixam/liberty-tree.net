@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Grove Street, la « poubelle » de LS ?
-cover: "/content/images/2016/06/0_0_9.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_9.jpg
 date: '2013-11-17 00:00:00'
+layout: article
+redirect_from:
+- /2013/11/16/grove-street-la-poubelle-de-ls
+- /2013/11/16/grove-street-la-poubelle-de-ls/
 tags:
 - los-santos
-redirect_from:
-  - /2013/11/16/grove-street-la-poubelle-de-ls
+title: Grove Street, la « poubelle » de LS ?
 ---
+
 
 En ces temps de crise économique, tous les arguments sont bons pour les candidats aux élections municipales de s’arracher quelques voix. Rappelons qu’un candidat radicaliste s’oppose à un autre candidat représentant le parti modéré.
 

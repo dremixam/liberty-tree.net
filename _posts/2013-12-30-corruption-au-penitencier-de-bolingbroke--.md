@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Corruption au pénitencier de Bolingbroke ?
-cover: "/content/images/2016/06/0_0_62.jpg"
 authors:
-  - geof905
+- geof905
+cover: /content/images/2016/06/0_0_62.jpg
 date: '2013-12-30 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/29/corruption-au-penitencier-de-bolingbroke
+- /2013/12/29/corruption-au-penitencier-de-bolingbroke/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/29/corruption-au-penitencier-de-bolingbroke
+title: Corruption au pénitencier de Bolingbroke ?
 ---
+
 
 Une enquête est ouverte sur le pénitencier de Bolingbroke suite à une dénonciation anonyme concernant les gardiens du pénitencier qui donneraient des libertés aux détenus de la prison telles que de l'alcool, des stupéfiants et même des sorties non autorisées, le tout en échange de pots de vins.
 

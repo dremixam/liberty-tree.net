@@ -1,15 +1,16 @@
 ---
-layout: article
-title: 'Fast-Food: Bonne ou mauvaise idée ?'
-cover: "/content/images/2005/01/Fast-food_04.jpg"
 authors:
-  - gtaboss33
+- gtaboss33
+cover: /content/images/2005/01/Fast-food_04.jpg
 date: '2007-01-10 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: 'Fast-Food: Bonne ou mauvaise idée ?'
 ---
+
 
 ![](/content/images/2005/01/Fast-food_02.jpg)
 

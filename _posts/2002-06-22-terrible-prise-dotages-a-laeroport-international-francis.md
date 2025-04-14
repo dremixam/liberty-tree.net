@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Terrible prise d'otages à l'aéroport International Francis
-cover: "/content/images/2016/06/un_0.jpg"
 authors:
-  - diazer
+- diazer
+cover: /content/images/2016/06/un_0.jpg
 date: '2002-06-22 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/21/terrible-prise-dotages-a-laeroport-international-francis
+- /2002/06/21/terrible-prise-dotages-a-laeroport-international-francis/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/21/terrible-prise-dotages-a-laeroport-international-francis
+title: Terrible prise d'otages à l'aéroport International Francis
 ---
+
 
 Prise d'otages, qui a faillit tourner au massacre, autant pour les policiers que les otages...
 

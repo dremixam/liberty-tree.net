@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Le Liberty Tree au cœur d’un scandale !
 authors:
-  - dremixam
+- dremixam
 date: '2010-02-15 15:46:00'
+layout: article
 tags:
 - liberty-city
+title: Le Liberty Tree au cœur d’un scandale !
 ---
+
 
 Liberty-Tree : Quand « presse » rime avec « pègre » c’est le titre aguicheur que l’on peut lire en première page de l’édition d’hier du Daily Globe, journal concurrent du liberty-Tree vendu en kiosque à Liberty-City
 

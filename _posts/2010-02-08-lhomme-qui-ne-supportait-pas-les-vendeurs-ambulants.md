@@ -1,12 +1,13 @@
 ---
-layout: article
-title: L’homme qui ne supportait pas les vendeurs ambulants
 authors:
-  - civic666
+- civic666
 date: '2010-02-08 14:55:00'
+layout: article
 tags:
 - los-santos
+title: L’homme qui ne supportait pas les vendeurs ambulants
 ---
+
 
 Algonquin. Cela fait bientôt deux semaines qu’un tueur en série sévit sous nos latitudes. Que les ménagères ménopausées s’opposant à la malbouffe se réjouissent, les cibles sont les vendeurs itinérants de nourriture riche en graisse.  
 Depuis le mardi 26 janvier s’accumulent les macabres découvertes de vendeurs ambulants gisant près de leur stand, une balle logée dans leur tête. Nous n’avons pas eu une telle vague de meurtres depuis le fameux tueur des éboueurs et la population ciblée semble un peu étrange (tout comme le tueur des éboueurs).  

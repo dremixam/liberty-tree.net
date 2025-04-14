@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Los Santos célèbre les jeux vidéo
-cover: "/content/images/2005/01/E3_01.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2005/01/E3_01.jpg
 date: '2006-05-13 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Los Santos célèbre les jeux vidéo
 ---
+
 
 ![](/content/images/2005/01/E3_01.jpg)
 

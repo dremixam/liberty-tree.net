@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Rebondissement dans l'affaire "Ganton Gym"
-cover: "/content/images/2005/01/dock5.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/dock5.jpg
 date: '2006-04-24 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Rebondissement dans l'affaire "Ganton Gym"
 ---
+
 
 Les docs de Los Santos ont étés en pleine ébullition hier en fin d'après-midi. Jerry Smith, docker de 47 ans&nbsp; effectue sa livraison quotidienne et découvre une Mercedes S600 avec un homme criblé de balles à son bord dans le hangar 6B. Sitôt prévenue par le docker, la police de Los Santos arrive sur place en grand comité et identifie le corps. La victime se trouve être Tom Player, propriétaire du Ganton Gym de Los Santos, interviewé par le Liberty Tree il y a trois semaines suite à un "coup de gueule" d'un lecteur du journal.
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les taxis Santossiens "en guerre" contre une concurrence déloyale
-cover: "/content/images/2016/06/art%20taxi%203.jpg"
 authors:
-  - titi
+- titi
+cover: /content/images/2016/06/art%20taxi%203.jpg
 date: '2014-08-03 00:00:00'
+layout: article
+redirect_from:
+- /2014/08/02/les-taxis-santossiens-en-guerre-contre-une-concurrence-deloyale
+- /2014/08/02/les-taxis-santossiens-en-guerre-contre-une-concurrence-deloyale/
 tags:
 - los-santos
-redirect_from:
-  - /2014/08/02/les-taxis-santossiens-en-guerre-contre-une-concurrence-deloyale
+title: Les taxis Santossiens "en guerre" contre une concurrence déloyale
 ---
+
 
 _Aujourd'hui et demain, les rues de Los Santos seront bouchées par les taxis qui protesteront contre une concurrence déloyale._
 

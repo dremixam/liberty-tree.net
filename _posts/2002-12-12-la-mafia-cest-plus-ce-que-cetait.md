@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La Mafia c'est plus ce que c'était
-cover: "/content/images/v1/user24/Mafia.jpg"
 authors:
-  - titof-abs
+- titof-abs
+cover: /content/images/v1/user24/Mafia.jpg
 date: '2002-12-12 00:00:00'
+layout: article
+redirect_from:
+- /2002/12/11/la-mafia-cest-plus-ce-que-cetait
+- /2002/12/11/la-mafia-cest-plus-ce-que-cetait/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/12/11/la-mafia-cest-plus-ce-que-cetait
+title: La Mafia c'est plus ce que c'était
 ---
+
 
 Depuis la mort de leur big boss, les mafieux sont devenus pitoyables, ils fuient comme des moins que rien.
 

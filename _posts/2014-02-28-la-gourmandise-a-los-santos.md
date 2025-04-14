@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La gourmandise à Los Santos
-cover: "/content/images/2016/06/13.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/13.jpg
 date: '2014-02-28 00:00:00'
+layout: article
+redirect_from:
+- /2014/02/27/la-gourmandise-a-los-santos
+- /2014/02/27/la-gourmandise-a-los-santos/
 tags:
 - los-santos
-redirect_from:
-  - /2014/02/27/la-gourmandise-a-los-santos
+title: La gourmandise à Los Santos
 ---
+
 
 _Los Santos, l'une des plus grandes villes du pays, représente très bien la vision que le monde a du Rêve Américain. Les inégalités, le racisme, le patriotisme, la prostitution... Los Santos devient de plus en plus l'image des péchés capitaux._
 

@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Hausse de revenu
 authors:
-  - jack
+- jack
 date: '2003-03-04 13:43:00'
+layout: article
 tags:
 - liberty-city
+title: Hausse de revenu
 ---
+
 
 On connaissait ces derniers mois une crise à Liberty City. Aujourd'hui, la bourse a grimpé de 12.3%.  
 Le conseiller financier du maire parle de ce phénomène qui enchante tout le monde à Liberty:  

@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Les grosses gammes de LC
 authors:
-  - nelson
+- nelson
 date: '2010-02-07 14:46:00'
+layout: article
 tags:
 - liberty-city
+title: Les grosses gammes de LC
 ---
+
 
 Dimanche 31/01/2010, 9:00 AM. Comme chaque semaine, les riches passionnés d’automobiles du Straight Ballin’ Liberty se sont donnés rendez-vous sur le parking du Burger Shot de Golden Pier, à Algonquin, pour leur meeting hebdomadaire.
 

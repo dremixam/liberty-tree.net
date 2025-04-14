@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Sonny prépare la sortie de la PS3
-cover: "/content/images/2005/01/PolyStation3.jpg"
 authors:
-  - molotov
+- molotov
+cover: /content/images/2005/01/PolyStation3.jpg
 date: '2007-01-28 00:00:00'
+layout: article
 tags:
 - los-santos
 - san-fierro
 - las-venturas
+title: Sonny prépare la sortie de la PS3
 ---
+
 
 La sortie de la future console de jeux PS3 (Polystation3) se précise de plus en plus. Sonny vient en effet de dévoiler les grandes lignes de ce qui sera prêt dès le lancement. À savoir&nbsp;: un service en ligne, accessible directement depuis la console branchée sur un modem, et 21 jeux. Le service en ligne s'appellera le PolyStation Network. On pourra y jouer contre d'autres joueurs, discuter, télécharger des bonus pour les jeux, voir de la musique ou des vidéos en flux continu. On pourra gérer une liste d'amis, vérifier leur présence et disponibilité, et voir à quel jeu ils souhaitent jouer. L'accès au service sera totalement gratuit pour jouer et chatter, mais le téléchargement de bonus sera payant. On pourra aussi acheter de nouveaux jeux sur le Sonny PolyStation Store, pour la modique somme de&nbsp;$15 par jeu. Cet accès gratuit avec payement au téléchargement est une riposte pour attirer les joueurs déjà séduits par le service concurrent de Microzoft, XBoxe Live, lequel est facturé par un abonnement annuel. C'est une version spéciale du navigateur Opera qui sera incluse dans la PS3 et qui permettra de surfer sur le PolyStation Network.
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les Rues de San Fierro
-cover: "/content/images/2016/06/streetsofsf.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/2016/06/streetsofsf.jpg
 date: '2005-08-30 00:00:00'
+layout: article
+redirect_from:
+- /2005/08/29/les-rues-de-san-fierro
+- /2005/08/29/les-rues-de-san-fierro/
 tags:
 - san-fierro
-redirect_from:
-  - /2005/08/29/les-rues-de-san-fierro
+title: Les Rues de San Fierro
 ---
+
 
 Lundi prochain vers 21 heures, tout le monde dans le pays aura les yeux rivés sur son poste de télévisons. C'est en effet à cette heure-là que la chaîne _Eye-Be-One_ diffusera le premier épisode de la toute nouvelle série _Les Rues de San Fierro_.
 

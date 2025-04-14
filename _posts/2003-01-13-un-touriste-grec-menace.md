@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Un touriste grec menacé
 authors:
-  - max-2
+- max-2
 date: '2003-01-13 00:00:00'
+layout: article
+redirect_from:
+- /2003/01/12/un-touriste-grec-menace
+- /2003/01/12/un-touriste-grec-menace/
 tags:
 - liberty-city
-redirect_from:
-  - /2003/01/12/un-touriste-grec-menace
+title: Un touriste grec menacé
 ---
+
 
 Après une collision de voiture entre M. Doxiadis et une vieille personne sénile raciste, cette dernière avait eu une tendance agressive envers le touriste grec selon une douzaine de témoins. Ce qui n'a pas plu du tout à la Mairie qui a accusé cette vieille personne de maltraiter les touristes pouvant avoir un effet néfaste sur le secteur touristique.
 

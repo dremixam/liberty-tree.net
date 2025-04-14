@@ -1,13 +1,14 @@
 ---
-layout: article
-title: La misère des riches
-cover: "/content/images/2005/01/Misere_bar__exterieur_.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2005/01/Misere_bar__exterieur_.jpg
 date: '2007-03-19 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: La misère des riches
 ---
+
 
 ![](/content/images/2005/01/Misere_-_Welcome_LV_sign.jpg)
 

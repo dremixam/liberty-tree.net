@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Deadly Business
-cover: "/content/images/2016/06/killed.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/killed.jpg
 date: '2006-05-29 00:00:00'
+layout: article
+redirect_from:
+- /2006/05/28/deadly-business
+- /2006/05/28/deadly-business/
 tags:
 - los-santos
-redirect_from:
-  - /2006/05/28/deadly-business
+title: Deadly Business
 ---
+
 
 Los Santos, 7:30PM. Le soleil disparaît doucement au loin en cette douce soirée du 27 mai. Philip Julian, cuisiner au Well Stacked Pizza de Ganton se détent chez lui devant un bon film après une dure journée de travail.
 

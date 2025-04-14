@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Le conseiller de l'économie de Liberty jeté en prison
 authors:
-  - max-2
+- max-2
 date: '2002-06-19 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/18/le-conseiller-de-leconomie-de-liberty-jete-en-prison
+- /2002/06/18/le-conseiller-de-leconomie-de-liberty-jete-en-prison/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/18/le-conseiller-de-leconomie-de-liberty-jete-en-prison
+title: Le conseiller de l'économie de Liberty jeté en prison
 ---
+
 
 Le conseiller de l'économie de la ville de Liberty viré et mis en prison pour une multitude de choses illégales.
 

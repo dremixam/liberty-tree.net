@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un cycliste fou sème un vent de panique
-cover: "/content/images/2016/06/Crazy_BMX.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2016/06/Crazy_BMX.jpg
 date: '2006-03-23 00:00:00'
+layout: article
+redirect_from:
+- /2006/03/22/un-cycliste-fou-seme-un-vent-de-panique
+- /2006/03/22/un-cycliste-fou-seme-un-vent-de-panique/
 tags:
 - san-fierro
-redirect_from:
-  - /2006/03/22/un-cycliste-fou-seme-un-vent-de-panique
+title: Un cycliste fou sème un vent de panique
 ---
+
 
 _En effet, depuis plus d'une semaine le QG de la police de San Fierro est inondé de plaintes provenant d'automobilistes victimes d'accidents routiers provoqués par un cycliste casse-cou._
 

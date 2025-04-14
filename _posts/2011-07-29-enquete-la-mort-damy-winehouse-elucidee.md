@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'Enquête : La mort d''Amy Winehouse élucidée'
 authors:
-  - dremixam
-date: '2011-07-29 22:43:00'
+- dremixam
 checked: true
+date: '2011-07-29 22:43:00'
+layout: article
 tags:
 - liberty-city
+title: 'Enquête : La mort d''Amy Winehouse élucidée'
 ---
+
 
 Voilà quelques jours que la chanteuse Amy Winehouse est décédée et que de nombreux fans se sont retrouvés orphelins. De nombreux rassemblements ont été organisés afin de lui rendre un dernier hommage un peu partout dans le monde.
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: De plus en plus de prostituées à Los Santos
-cover: "/content/images/2016/06/0_0_255.jpg"
 authors:
-  - vitanique
+- vitanique
+cover: /content/images/2016/06/0_0_255.jpg
 date: '2015-02-14 00:00:00'
+layout: article
+redirect_from:
+- /2015/02/13/de-plus-en-plus-de-prostituees-a-los-santos
+- /2015/02/13/de-plus-en-plus-de-prostituees-a-los-santos/
 tags:
 - los-santos
-redirect_from:
-  - /2015/02/13/de-plus-en-plus-de-prostituees-a-los-santos
+title: De plus en plus de prostituées à Los Santos
 ---
+
 
 _Le nombre de prostituées augmente fortement à Los Santos, ce qui entraîne d'autres arrivées de macs et des meurtres dont les prostituées sont les victimes._
 

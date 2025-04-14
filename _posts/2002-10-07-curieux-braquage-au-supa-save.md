@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Curieux braquage au Supa Save
 authors:
-  - pierrealex
+- pierrealex
 date: '2002-10-07 00:00:00'
+layout: article
+redirect_from:
+- /2002/10/06/curieux-braquage-au-supa-save
+- /2002/10/06/curieux-braquage-au-supa-save/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/10/06/curieux-braquage-au-supa-save
+title: Curieux braquage au Supa Save
 ---
+
 
 16h00, Supa Save de Portland, Mme Parker remplit son caddie comme tous les vendredis. Alors qu'elle s'apprête à prendre un paquet de Furax© (_la nourriture préférée des petits furets_) un homme s'en saisit alors et s'enfuit avec. Il bouscule au passage un officier de police, Mr O'Brady, renverse une pyramide de grenades en solde, traverse le rayon cocktails (Molotovs), enjambe les quelques sans-abris qui traînaient dans le rayon alcool, pour enfin sauter au dessus de la caisse et prendre ses jambes à son cou. Ce vol a duré moins de 6 secondes! Un record dans l'histoire des vols à Liberty-City! Mais Alexander D., le directeur de la sécurité du célèbre supermarché, ne l'entend pas de cette oreille. En effet, un vol reste un vol et le Supa Save ne tient pas à ternir son image de marque.
 

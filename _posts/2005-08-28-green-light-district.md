@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Green Light District
-cover: "/content/images/2016/06/greenlight.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/2016/06/greenlight.jpg
 date: '2005-08-28 00:00:00'
+layout: article
+redirect_from:
+- /2005/08/27/green-light-district
+- /2005/08/27/green-light-district/
 tags:
 - vice-city
-redirect_from:
-  - /2005/08/27/green-light-district
+title: Green Light District
 ---
+
 
 Depuis quelques semaines, le Services des Transports de l'Etat de San Andreas (STESA) a fait installer un tout nouveau système informatisé de contrôle des feux tricolores. Ainsi, 98% des feux tricolores de l'Etat sont commandés à distance par un central appartenant à la police.
 

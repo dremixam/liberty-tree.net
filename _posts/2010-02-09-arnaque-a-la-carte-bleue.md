@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Arnaque à la carte bleue
 authors:
-  - nelson
+- nelson
 date: '2010-02-09 15:20:00'
+layout: article
 tags:
 - liberty-city
+title: Arnaque à la carte bleue
 ---
+
 
 Ces derniers jours, des centaines d’Américains ont eu la mauvaise surprise de trouver des débits d’un montant astronomique sur leurs relevés de compte. Les banques se sont vite retrouvées débordées de clients mécontents, affirmant n’être à l’origine d’aucune de ces opérations.  
 La Bank of Liberty, ainsi que les fabriquants de cartes de crédit Shark, ont déposés une plainte contre X auprès du LCPD qui a immédiatement ouvert une enquête.

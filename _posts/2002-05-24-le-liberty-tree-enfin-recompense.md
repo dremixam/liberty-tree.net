@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le Liberty Tree enfin récompensé
-cover: "/content/images/2016/06/closedown_mafia_0.jpg"
 authors:
-  - rr4
+- rr4
+cover: /content/images/2016/06/closedown_mafia_0.jpg
 date: '2002-05-24 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/23/le-liberty-tree-enfin-recompense
+- /2002/05/23/le-liberty-tree-enfin-recompense/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/23/le-liberty-tree-enfin-recompense
+title: Le Liberty Tree enfin récompensé
 ---
+
 
 Après deux années de bons et loyaux services à Liberty City, le Liberty Tree a enfin obtenu la subvention qu'il espérait. En effet, le maire vient d'offrir un chèque de 500 000$ pour, je cite :
 

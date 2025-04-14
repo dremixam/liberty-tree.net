@@ -1,17 +1,19 @@
 ---
-layout: article
-title: Fin du calvaire dans le sud de San Andreas
-cover: "/content/images/2016/06/Feu.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Feu.jpg
 date: '2007-09-09 00:00:00'
+layout: article
+redirect_from:
+- /2007/09/08/fin-du-calvaire-dans-le-sud-de-san-andreas
+- /2007/09/08/fin-du-calvaire-dans-le-sud-de-san-andreas/
 tags:
 - los-santos
 - san-fierro
 - las-venturas
-redirect_from:
-  - /2007/09/08/fin-du-calvaire-dans-le-sud-de-san-andreas
+title: Fin du calvaire dans le sud de San Andreas
 ---
+
 
 Ils l'ont dit, ils nous l'ont prouvé. Les braves pompiers de San Andreas maîtrisent à présent tous les incendies qui s'étaient déclarés à Whetstone depuis le 28 juillet dernier. Les habitants d'Angel Pine ont pu rentrer chez eux sans danger, escortés par les pompiers de San Fierro. Ils avaient été évacués trois jours plutôt lorsqu'un incendie s'approchait un peu trop près du village. Ce dernier a été maîtrisé quelques heures plus tard, suite à l'incroyable stratégie que les pompiers avaient mise en place la veille. Les dégâts matériels et naturels sont considérables : Des voitures brûlées, des groupes de randonneurs morts, des milliers d'arbres détruits et 3 routes coupées. Depuis le Mont Chilliad, le spectacle est terrible, mais aussi depuis Los Santos et San Fierro. Horrible, comme on pourrait dire. Des cabanes ont également été détruites et tout ça devrait coûter... plus d'un million de dollars pour la reconstruction de cette belle forêt.
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Attentat à Saint Marks
-cover: "/content/images/v1/user23/forel02.jpg"
 authors:
-  - pavlov
+- pavlov
+cover: /content/images/v1/user23/forel02.jpg
 date: '2002-12-17 00:00:00'
+layout: article
+redirect_from:
+- /2002/12/16/attentat-a-saint-marks
+- /2002/12/16/attentat-a-saint-marks/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/12/16/attentat-a-saint-marks
+title: Attentat à Saint Marks
 ---
+
 
 _Hier, dans l'après-midi, un attentat à la voiture piégée a eu lieu au district de Little Italy, à Portland, faisant deux morts et quatre blessés. Un règlement de compte de la mafia?_
 

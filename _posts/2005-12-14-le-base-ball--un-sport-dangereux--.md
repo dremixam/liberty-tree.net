@@ -1,16 +1,18 @@
 ---
-layout: article
-title: Le Base-ball, un sport dangereux ?
-cover: "/content/images/2016/06/joueurmort.jpg"
 authors:
-  - filzonfire
+- filzonfire
+cover: /content/images/2016/06/joueurmort.jpg
 date: '2005-12-14 00:00:00'
+layout: article
+redirect_from:
+- /2005/12/13/le-base-ball-un-sport-dangereux
+- /2005/12/13/le-base-ball-un-sport-dangereux/
 tags:
 - los-santos
 - las-venturas
-redirect_from:
-  - /2005/12/13/le-base-ball-un-sport-dangereux
+title: Le Base-ball, un sport dangereux ?
 ---
+
 
 Hier se déroulait le match de Base-ball opposant les Bandits de Las Venturas au Saints de Los Santos. Le match s'est terminé avec un score de 8 à 7 pour les Bandits. Ce fut un match spectaculaire dès le début, où l'action se mélangeait à la stratégie. Les supporters étaient déchaînes, mais la situation restait stable. Le score était de 6 à 6 pour les Bandits, tout allait bien, jusqu'à cette tragédie.
 

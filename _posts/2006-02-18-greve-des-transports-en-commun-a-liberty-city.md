@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Grève des transports en commun à Liberty City
-cover: "/content/images/2016/06/greve02.jpg"
 authors:
-  - thefoxben
+- thefoxben
+cover: /content/images/2016/06/greve02.jpg
 date: '2006-02-18 00:00:00'
+layout: article
+redirect_from:
+- /2006/02/17/greve-des-transports-en-commun-a-liberty-city
+- /2006/02/17/greve-des-transports-en-commun-a-liberty-city/
 tags:
 - liberty-city
-redirect_from:
-  - /2006/02/17/greve-des-transports-en-commun-a-liberty-city
+title: Grève des transports en commun à Liberty City
 ---
+
 
 _Pendant toute la journée de lundi, la ville de Liberty City a connu une grande déception, une grève générale de tous les transports en commun de la ville._
 

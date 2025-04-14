@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Massacre dans le quartier Gay de San Fierro
-cover: "/content/images/2005/01/qu01.jpg"
 authors:
-  - pavlov
+- pavlov
+cover: /content/images/2005/01/qu01.jpg
 date: '2006-04-05 00:00:00'
+layout: article
 tags:
 - san-fierro
+title: Massacre dans le quartier Gay de San Fierro
 ---
+
 
 C'est un drame sans précedant qui eut lieu hier soir à Hashbury le quartier gay de San Fierro. Un geste incompris par la plupart des habitants de ce quartier calme, réputé pour ses restaurants et coffee shops hippies.
 

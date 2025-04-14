@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'Carnet de Voyage : San Fierro'
-cover: "/content/images/2005/01/San_Fierroo.jpg"
 authors:
-  - scarface1991
+- scarface1991
+cover: /content/images/2005/01/San_Fierroo.jpg
 date: '2006-06-04 00:00:00'
+layout: article
 tags:
 - san-fierro
+title: 'Carnet de Voyage : San Fierro'
 ---
+
 
  **Etape N°4 : San Fierro**
 

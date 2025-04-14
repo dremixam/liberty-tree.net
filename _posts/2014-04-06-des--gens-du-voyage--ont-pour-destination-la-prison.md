@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Des "gens du voyage" ont pour destination la prison
-cover: "/content/images/2016/06/21_9.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/21_9.jpg
 date: '2014-04-06 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/05/des-gens-du-voyage-ont-pour-destination-la-prison
+- /2014/04/05/des-gens-du-voyage-ont-pour-destination-la-prison/
 tags:
 - los-santos
-redirect_from:
-  - /2014/04/05/des-gens-du-voyage-ont-pour-destination-la-prison
+title: Des "gens du voyage" ont pour destination la prison
 ---
+
 
 _Cet après-midi, des nomades ont semé la zizanie dans Los Santos._
 

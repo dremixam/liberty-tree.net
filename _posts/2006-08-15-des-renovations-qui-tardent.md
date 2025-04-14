@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Des rénovations qui tardent
-cover: "/content/images/2005/01/ren_-_angel_-_pine.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2005/01/ren_-_angel_-_pine.jpg
 date: '2006-08-15 18:21:00'
+layout: article
 tags:
 - los-santos
+title: Des rénovations qui tardent
 ---
+
 
 _Depuis un certain temps, les autorités municipales de plusieurs villes et villages de San Andreas sont littéralement pris d'assaut par des citoyens mécontents qui dénoncent vigoureusement l'état lamentable dans lequel se trouve leur ville. Préoccupé par ce phénomène, nous avons décidé de nous rendre sur le terrain pour constater l'ampleur du problème._
 

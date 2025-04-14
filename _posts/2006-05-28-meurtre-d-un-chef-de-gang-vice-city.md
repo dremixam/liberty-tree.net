@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Meurtre d'un chef de gang à Vice City
-cover: "/content/images/2005/01/Jeffrey_Home.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2005/01/Jeffrey_Home.jpg
 date: '2006-05-28 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Meurtre d'un chef de gang à Vice City
 ---
+
 
 ![À gauche, Jeffrey Home, Un assassinat qui ne restera pas sans conséquences](/content/images/2005/01/Jeffrey_Home.jpg)
 _À gauche, Jeffrey Home, Un assassinat qui ne restera pas sans conséquences_

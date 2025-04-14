@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Tram qui roule, pas vraiment cool !
-cover: "/content/images/2016/06/san%20fierro%202.jpg"
 authors:
-  - megamind
+- megamind
+cover: /content/images/2016/06/san%20fierro%202.jpg
 date: '2005-10-11 00:00:00'
+layout: article
+redirect_from:
+- /2005/10/10/tram-qui-roule-pas-vraiment-cool
+- /2005/10/10/tram-qui-roule-pas-vraiment-cool/
 tags:
 - san-fierro
-redirect_from:
-  - /2005/10/10/tram-qui-roule-pas-vraiment-cool
+title: Tram qui roule, pas vraiment cool !
 ---
+
 
 _La production de la série « Les Rues de San Fierro » est endeuillée._
 

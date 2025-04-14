@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Crash d'avion à Grapeseed
-cover: "/content/images/2016/06/CrashAvion2.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/CrashAvion2.jpg
 date: '2014-08-05 00:00:00'
+layout: article
+redirect_from:
+- /2014/08/04/crash-davion-a-grapeseed
+- /2014/08/04/crash-davion-a-grapeseed/
 tags:
 - los-santos
-redirect_from:
-  - /2014/08/04/crash-davion-a-grapeseed
+title: Crash d'avion à Grapeseed
 ---
+
 
 _Un petit avion s'est écrasé hier à Grapeseed, juste après qu'il ait décollé de la piste du McKenzie Airfield. La thèse du suicide a été confirmée par les enquêteurs._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Boom de la Spank à Liberty City
-cover: "/content/images/v1/user20/spank.jpg"
 authors:
-  - max-2
+- max-2
+cover: /content/images/v1/user20/spank.jpg
 date: '2002-08-14 00:00:00'
+layout: article
+redirect_from:
+- /2002/08/13/boom-de-la-spank-a-liberty-city
+- /2002/08/13/boom-de-la-spank-a-liberty-city/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/08/13/boom-de-la-spank-a-liberty-city
+title: Boom de la Spank à Liberty City
 ---
+
 
 Après le boom de la prostitution (cf : [Boom de la prostitution à Liberty](/2002/08/09/boom-de-la-prostitution-a-liberty/)), la Spank marche à son plein gré! Ce marché a augmenté de 20% ces derniers mois.
 

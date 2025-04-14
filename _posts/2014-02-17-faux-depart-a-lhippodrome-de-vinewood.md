@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Faux départ à l'hippodrome de Vinewood
-cover: "/content/images/2016/06/7_6.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/7_6.jpg
 date: '2014-02-17 00:00:00'
+layout: article
+redirect_from:
+- /2014/02/16/faux-depart-a-lhippodrome-de-vinewood
+- /2014/02/16/faux-depart-a-lhippodrome-de-vinewood/
 tags:
 - los-santos
-redirect_from:
-  - /2014/02/16/faux-depart-a-lhippodrome-de-vinewood
+title: Faux départ à l'hippodrome de Vinewood
 ---
+
 
 _La première course équestre de l'année 2014, censée se disputer hier soir, a été annulée, sans véritable raison apparente..._
 

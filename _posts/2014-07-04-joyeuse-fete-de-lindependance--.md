@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Joyeuse fête de l'indépendance !
-cover: "/content/images/2016/06/FeteNationale.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/FeteNationale.jpg
 date: '2014-07-04 00:00:00'
+layout: article
+redirect_from:
+- /2014/07/03/joyeuse-fete-de-lindependance
+- /2014/07/03/joyeuse-fete-de-lindependance/
 tags:
 - los-santos
-redirect_from:
-  - /2014/07/03/joyeuse-fete-de-lindependance
+title: Joyeuse fête de l'indépendance !
 ---
+
 
 _Aujourd'hui, le pays est en fête ! C'est en effet la fête nationale américaine, plus connue sous le nom de "fête de l'indépendance". Focus sur les différentes célébrations à travers l'État en ce jour si spécial._
 

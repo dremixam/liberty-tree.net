@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un deuxième journaliste retrouvé mort
-cover: "/content/images/2016/06/JournalisteMort.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/JournalisteMort.jpg
 date: '2014-04-21 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/20/un-deuxieme-journaliste-retrouve-mort
+- /2014/04/20/un-deuxieme-journaliste-retrouve-mort/
 tags:
 - los-santos
-redirect_from:
-  - /2014/04/20/un-deuxieme-journaliste-retrouve-mort
+title: Un deuxième journaliste retrouvé mort
 ---
+
 
 _Un nouveau cadavre de journaliste a été découvert dans un chantier de Mirror Park hier matin. Une fois de plus, il s'agissait d'un journaliste du Liberty Tree..._
 

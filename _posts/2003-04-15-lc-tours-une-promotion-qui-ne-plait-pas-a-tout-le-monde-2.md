@@ -1,12 +1,13 @@
 ---
-layout: article
-title: 'LC Tours : une promotion qui ne plait pas à tout le monde'
 authors:
-  - nelson
+- nelson
 date: '2003-04-15 13:48:00'
+layout: article
 tags:
 - liberty-city
+title: 'LC Tours : une promotion qui ne plait pas à tout le monde'
 ---
+
 
 L'agence de voyage de Liberty City LC Tours propose des prix réduits à -50% vers Vice City du 16 mai au 16 juin, ce qui ne plait pas à notre maire M. O'Donnovan qui voit Liberty City se dépeupler au profit de Vice.  
 Il faut dire que la qualité de vie y est bien meilleure et que les lois sont moins strictes qu'à LC.  

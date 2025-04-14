@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Alerte aux requins à San Andreas
-cover: "/content/images/2016/06/Requins.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Requins.jpg
 date: '2014-10-05 00:00:00'
+layout: article
+redirect_from:
+- /2014/10/04/alerte-aux-requins-a-san-andreas
+- /2014/10/04/alerte-aux-requins-a-san-andreas/
 tags:
 - los-santos
-redirect_from:
-  - /2014/10/04/alerte-aux-requins-a-san-andreas
+title: Alerte aux requins à San Andreas
 ---
+
 
 _Un banc de requins a été aperçu à plusieurs reprises au large de Los Santos. Les garde-côtes ont donné l'alerte, et la plus grande prudence est vivement recommandée._
 

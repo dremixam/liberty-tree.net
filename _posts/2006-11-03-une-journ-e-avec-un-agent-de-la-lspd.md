@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Une journée avec un agent de la LSPD
-cover: "/content/images/2005/01/articl_24.jpg"
 authors:
-  - gtaboss33
+- gtaboss33
+cover: /content/images/2005/01/articl_24.jpg
 date: '2006-11-03 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Une journée avec un agent de la LSPD
 ---
+
 
 ![Le bureau des coéquipiers.](/content/images/2005/01/articl_24-2.jpg)
 _Le bureau des coéquipiers._

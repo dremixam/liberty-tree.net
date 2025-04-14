@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Los Santos sous la neige !
-cover: "/content/images/2016/06/Neige-1.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Neige-1.jpg
 date: '2013-12-25 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/24/los-santos-sous-la-neige
+- /2013/12/24/los-santos-sous-la-neige/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/24/los-santos-sous-la-neige
+title: Los Santos sous la neige !
 ---
+
 
 _Énorme surprise ce matin à Los Santos, lorsque les habitants ont découvert au réveil que leur ville avait été recouverte d'un épais manteau blanc. Oui, il a bel et bien neigé à San Andreas !_
 

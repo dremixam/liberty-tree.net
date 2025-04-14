@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Disparition tragique d’un journaliste du Daily Globe
 authors:
-  - nelson
+- nelson
 date: '2010-03-01 16:17:00'
+layout: article
 tags:
 - liberty-city
+title: Disparition tragique d’un journaliste du Daily Globe
 ---
+
 
 Le Daily Globe, journal concurrent du Liberty Tree, est en deuil. Patrick Dörtbagg, journaliste au Daily et spécialisé dans les articles à scandales et les potins mondains, a été retrouvé mort dans son véhicule, dans une ruelle sombre de Castle Garden City.  
 Le corps fut découvert hier martin par un clochard, Alec Jefferson, habitué du quartier.

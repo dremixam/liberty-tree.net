@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Des jouets font scandale
-cover: "/content/images/2016/06/Jouets.jpg"
 authors:
-  - diabolik-c
+- diabolik-c
+cover: /content/images/2016/06/Jouets.jpg
 date: '2006-01-06 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/05/des-jouets-font-scandale
+- /2006/01/05/des-jouets-font-scandale/
 tags:
 - vice-city
-redirect_from:
-  - /2006/01/05/des-jouets-font-scandale
+title: Des jouets font scandale
 ---
+
 
 _Dans San Andreas des petites figurines font un scandale..._
 

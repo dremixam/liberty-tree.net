@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Une journée avec les pompiers de Los Santos
-cover: "/content/images/2016/06/Pompiers1_0.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Pompiers1_0.jpg
 date: '2013-11-27 00:00:00'
+layout: article
+redirect_from:
+- /2013/11/27/une-journee-avec-les-pompiers-de-los-santos
+- /2013/11/27/une-journee-avec-les-pompiers-de-los-santos/
 tags:
 - los-santos
-redirect_from:
-  - /2013/11/27/une-journee-avec-les-pompiers-de-los-santos
+title: Une journée avec les pompiers de Los Santos
 ---
+
 
 La journée débute dès le lever du soleil, à six heures du matin. Nous arrivons devant la caserne 32, située à Davis, dans le sud de Los Santos, et nous sommes accueillis par le lieutenant Adam Riley, qui nous attendait dehors, une clope au bec. Celui-ci nous présente rapidement ses collègues, en pleine discussion dans la caserne : Wilson Harris, Anthony Perretta, Kevin Anderson, et Bill Huntley.
 

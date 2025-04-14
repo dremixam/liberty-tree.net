@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Carnage chez les sans-abris
-cover: "/content/images/2016/06/clodos_001.jpg"
 authors:
-  - fxbt
+- fxbt
+cover: /content/images/2016/06/clodos_001.jpg
 date: '2002-08-08 00:00:00'
+layout: article
+redirect_from:
+- /2002/08/07/carnage-chez-les-sans-abris
+- /2002/08/07/carnage-chez-les-sans-abris/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/08/07/carnage-chez-les-sans-abris
+title: Carnage chez les sans-abris
 ---
+
 
 Cette nuit, sur l'île de Portland, plus précisément dans le quartier de Harwood, un nouveau carnage a eu lieu. Ce carnage touche encore un fois la classe de personne la plus démunie, les sans-abris, ces malheureux qui avaient trouvé refuge dans l'ancien tunnel de train reliant St Marks/Harwood aux Docks.
 

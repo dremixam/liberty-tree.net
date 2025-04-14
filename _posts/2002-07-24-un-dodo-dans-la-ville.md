@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un Dodo dans la ville
-cover: "/content/images/2016/06/survolevoiture.jpg"
 authors:
-  - max-2
+- max-2
+cover: /content/images/2016/06/survolevoiture.jpg
 date: '2002-07-24 00:00:00'
+layout: article
+redirect_from:
+- /2002/07/23/un-dodo-dans-la-ville
+- /2002/07/23/un-dodo-dans-la-ville/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/07/23/un-dodo-dans-la-ville
+title: Un Dodo dans la ville
 ---
+
 
 Un Monsieur a trouvé un nouveau moyen de déplacement dans notre éternelle ville: le Dodo, ce petit avion est plutôt conçu pour voler mais il se déplace bien dans la ville nous a dit l'homme de qui vient cette idée.
 

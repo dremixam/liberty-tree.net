@@ -1,15 +1,17 @@
 ---
-layout: article
-title: "$Capitol$ : journée d'un tueur à gages"
-cover: "/content/images/2016/06/affiche.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2016/06/affiche.jpg
 date: '2006-03-22 00:00:00'
+layout: article
+redirect_from:
+- /2006/03/21/-capitol-journee-dun-tueur-a-gages
+- /2006/03/21/-capitol-journee-dun-tueur-a-gages/
 tags:
 - vice-city
-redirect_from:
-  - /2006/03/21/-capitol-journee-dun-tueur-a-gages
+title: '$Capitol$ : journée d''un tueur à gages'
 ---
+
 
 _Pour ce premier numéro de Capitol, nous vous proposons le quotidien d'un tueur à gages : tueur à gages, métier d'avenir ou job d'été ? Barbare ou doux comme un agneau ? Combien coûte un tueur à gages ? Ce sont ces questions auxquelles nous vous répondrons._
 

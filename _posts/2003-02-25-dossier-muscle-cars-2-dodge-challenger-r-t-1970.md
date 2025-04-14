@@ -1,12 +1,13 @@
 ---
-layout: article
-title: 'Dossier Muscle Cars 2 : Dodge Challenger R/T 1970'
 authors:
-  - nelson
+- nelson
 date: '2003-02-25 13:04:00'
+layout: article
 tags:
 - liberty-city
+title: 'Dossier Muscle Cars 2 : Dodge Challenger R/T 1970'
 ---
+
 
 _La Muscle Car de février est la Dodge Challenger de 1970..._
 

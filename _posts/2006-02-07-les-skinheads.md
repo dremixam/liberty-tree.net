@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les skinheads
-cover: "/content/images/2016/06/skin_head.jpg"
 authors:
-  - weezer
+- weezer
+cover: /content/images/2016/06/skin_head.jpg
 date: '2006-02-07 00:00:00'
+layout: article
+redirect_from:
+- /2006/02/06/les-skinheads
+- /2006/02/06/les-skinheads/
 tags:
 - liberty-city
-redirect_from:
-  - /2006/02/06/les-skinheads
+title: Les skinheads
 ---
+
 
 _D'étranges meurtres ont été commis dans tout Liberty City récemment. Ces meurtres visent les communautés noires, maghrébines ou encore asiatiques. Nous avons pu remarquer une montée de l'extrême droite aux dernières élections. Pourrait-on croire au retour des skinheads ? Nous allons dans cet article vous montrer des images violentes qui peuvent heurter la sensibilité des plus jeunes._
 

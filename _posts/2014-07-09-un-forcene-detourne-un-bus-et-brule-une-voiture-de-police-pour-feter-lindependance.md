@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un forcené détourne un bus et brûle une voiture de police pour fêter l'indépendance
-cover: "/content/images/2016/06/0_0_208.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_208.jpg
 date: '2014-07-09 00:00:00'
+layout: article
+redirect_from:
+- /2014/07/09/un-forcene-detourne-un-bus-et-brule-une-voiture-de-police-pour-feter-lindependance
+- /2014/07/09/un-forcene-detourne-un-bus-et-brule-une-voiture-de-police-pour-feter-lindependance/
 tags:
 - los-santos
-redirect_from:
-  - /2014/07/09/un-forcene-detourne-un-bus-et-brule-une-voiture-de-police-pour-feter-lindependance
+title: Un forcené détourne un bus et brûle une voiture de police pour fêter l'indépendance
 ---
+
 
 _Les décombres ont été retrouvés lundi matin, à la suite de ce week-end festif particulièrement arrosé, et le forcené a publié plusieurs clichés surprenants sur LifeInvader._
 

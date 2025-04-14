@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'La féminisation du jeu vidéo: interview exclusive d''un gamer'
-cover: "/content/images/2016/06/0_0_219.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_219.jpg
 date: '2014-07-14 00:00:00'
+layout: article
+redirect_from:
+- /2014/07/13/la-feminisation-du-jeu-video-interview-exclusive-dun-gamer
+- /2014/07/13/la-feminisation-du-jeu-video-interview-exclusive-dun-gamer/
 tags:
 - los-santos
-redirect_from:
-  - /2014/07/13/la-feminisation-du-jeu-video-interview-exclusive-dun-gamer
+title: 'La féminisation du jeu vidéo: interview exclusive d''un gamer'
 ---
+
 
 Aujourd’hui, le monde des jeux vidéo évolue. Alors que l’on se souvient avec nostalgie des premières bornes d’arcade qui envahissaient les bars dans les années 1980’, les jeunes d’aujourd’hui passent le plus clair de leur temps libre devant un écran. Or, ce phénomène ne touche pas que les garçons… Beaucoup ne s’en rendent pas compte, mais derrière certains pseudos se cachent en vérité une femme. Le problème, c’est bien que certains de ces « hardcore gamer » comme on dit, considèrent qu’une femme ne peut pas jouer, et encore moins gagner. Ils pensent donc instinctivement qu’il s’agit d’un gamin qui n’a pas encore mué lorsqu’ils entendent une voix féminine dans leur micro, vissé sur leurs oreilles.
 

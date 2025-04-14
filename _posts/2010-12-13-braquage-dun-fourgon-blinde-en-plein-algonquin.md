@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Braquage d’un fourgon blindé en plein Algonquin.
 authors:
-  - nelson
+- nelson
 date: '2010-12-13 16:50:00'
+layout: article
 tags:
 - liberty-city
+title: Braquage d’un fourgon blindé en plein Algonquin.
 ---
+
 
 Sept heure trente du matin. Les trottoirs d’Algonquin se remplissent peu à peu d’hommes d’affaires pressés, leur cellulaire collé à l’oreille, de touristes, le nez en l’air, et de sans-abris qui tendent la main pour quelques cents. C’est dans cette atmosphère que Peter Williamson et Jeff Woodman, convoyeurs de fond chez Gruppe 6, arrivèrent dans le quartier de Purgatory pour emmener « un colis », comme ils l’appellent dans leur jargon, au coffre fort de la compagnie situé à Alderney.
 

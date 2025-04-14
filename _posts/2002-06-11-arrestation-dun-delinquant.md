@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Arrestation d'un délinquant
-cover: "/content/images/2016/06/doigt_0.jpg"
 authors:
-  - baz
+- baz
+cover: /content/images/2016/06/doigt_0.jpg
 date: '2002-06-11 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/10/arrestation-dun-delinquant
+- /2002/06/10/arrestation-dun-delinquant/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/10/arrestation-dun-delinquant
+title: Arrestation d'un délinquant
 ---
+
 
 La police de Liberty City surveillait depuis quelques temps un homme louche à l'allure de rocker. Il a été interpellé hier soir, après une échappée audacieuse.
 

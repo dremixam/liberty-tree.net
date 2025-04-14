@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un tueur de randonneurs en liberté
-cover: "/content/images/2016/06/0_0_214.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_214.jpg
 date: '2014-07-11 00:00:00'
+layout: article
+redirect_from:
+- /2014/07/10/un-tueur-de-randonneurs-en-liberte
+- /2014/07/10/un-tueur-de-randonneurs-en-liberte/
 tags:
 - los-santos
-redirect_from:
-  - /2014/07/10/un-tueur-de-randonneurs-en-liberte
+title: Un tueur de randonneurs en liberté
 ---
+
 
 _Avec le nombre de tueurs en cavale et de victimes retrouvées mortes dans la région, le Liberty Tree va bientôt pouvoir envisager d'ouvrir une toute nouvelle rubrique nécrologique._
 

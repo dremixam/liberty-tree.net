@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Rencontre au sommet
 authors:
-  - fxbt
+- fxbt
 date: '2002-09-26 00:00:00'
+layout: article
+redirect_from:
+- /2002/09/25/rencontre-au-sommet
+- /2002/09/25/rencontre-au-sommet/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/09/25/rencontre-au-sommet
+title: Rencontre au sommet
 ---
+
 
 Citoyens, vous pouvez dormir tranquille, en effet, la police et le FBI veillent sur vous. Cette nuit, la police et le FBI se sont retrouvés dans le quartier des Hoods de la vallée Shoreside pour débattre des nouvelles mesures à mettre en application pour la sécurité de notre ville. Cette réunion qui s'est déroulée à huis-clos est la première d'une longue série de réunions hebdomadaires qui aideront les forces de l'ordre à suivre l'évolution de la criminalité dans notre cité.
 

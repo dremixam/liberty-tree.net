@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Grandeur et Déchéance.
-cover: "/content/images/2005/01/ant03.jpg"
 authors:
-  - pavlov
+- pavlov
+cover: /content/images/2005/01/ant03.jpg
 date: '2006-06-05 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Grandeur et Déchéance.
 ---
+
 
 Aujourd'hui il nous est difficile de dire ce qui a conduit l'homme le plus influent du cinéma de la Cote Ouest à organiser un braquage qui a tourné au drame... Anthony Stenz reste introuvable.
 

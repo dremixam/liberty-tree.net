@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Portes ouvertes à LSIA ?
-cover: "/content/images/2016/06/avion1.jpg"
 authors:
-  - little-worm
+- little-worm
+cover: /content/images/2016/06/avion1.jpg
 date: '2005-09-16 00:00:00'
+layout: article
+redirect_from:
+- /2005/09/15/portes-ouvertes-a-lsia
+- /2005/09/15/portes-ouvertes-a-lsia/
 tags:
 - san-fierro
-redirect_from:
-  - /2005/09/15/portes-ouvertes-a-lsia
+title: Portes ouvertes à LSIA ?
 ---
+
 
 Alors que les accidents se multiplient à San Andreas, et que l'aéroport international de San Fierro est toujours fermé, un nouvel incident vient entacher cette fois la réputation du LSIA.
 

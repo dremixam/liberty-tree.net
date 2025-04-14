@@ -1,15 +1,17 @@
 ---
-layout: article
-title: DSK se retrouve coincé dehors à cause d'une serrure récalcitrante
-cover: "/content/images/2016/06/6d07bc9bae6214e9649a904c617988a9.jpeg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/2016/06/6d07bc9bae6214e9649a904c617988a9.jpeg
 date: '2011-07-06 00:00:00'
+layout: article
+redirect_from:
+- /2011/07/05/dsk-se-retrouve-coince-dehors-a-cause-dune-serrure-recalcitrante
+- /2011/07/05/dsk-se-retrouve-coince-dehors-a-cause-dune-serrure-recalcitrante/
 tags:
 - liberty-city
-redirect_from:
-  - /2011/07/05/dsk-se-retrouve-coince-dehors-a-cause-dune-serrure-recalcitrante
+title: DSK se retrouve coincé dehors à cause d'une serrure récalcitrante
 ---
+
 
 Après avoir subi la violence inouïe de la justice américaine, Dominique Strauss-Kahn profite de ses journées dans sa maison de The Triangle en compagnie de son épouse. Hier soir, après avoir dîné au restaurant, le couple rentre à son domicile vers vingt-​deux heures. Mais au moment d'introduire la clé dans la serrure, un drame se produit. En effet, l'orifice se révèle être totalement impénétrable.
 

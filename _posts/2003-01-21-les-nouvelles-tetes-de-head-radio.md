@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les nouvelles têtes de Head Radio
-cover: "/content/images/v1/user23/head01.jpg"
 authors:
-  - pavlov
+- pavlov
+cover: /content/images/v1/user23/head01.jpg
 date: '2003-01-21 00:00:00'
+layout: article
+redirect_from:
+- /2003/01/20/les-nouvelles-tetes-de-head-radio
+- /2003/01/20/les-nouvelles-tetes-de-head-radio/
 tags:
 - liberty-city
-redirect_from:
-  - /2003/01/20/les-nouvelles-tetes-de-head-radio
+title: Les nouvelles têtes de Head Radio
 ---
+
 
 \_2003 est l'année du changement pour Head Radio, la principale radio de Liberty City. En effet, une restructuration du personnel et de l'image de l'entreprise a été menée par le Love Media, le groupe qui en est le propriétaire. Entretien avec le nouveau directeur. \_
 

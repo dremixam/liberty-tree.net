@@ -1,14 +1,16 @@
 ---
-layout: article
-title: La firme Karin Automobiles dévoile son nouveau véhicule hybride.
 authors:
-  - nelson
+- nelson
 date: '2008-03-15 00:00:00'
+layout: article
+redirect_from:
+- /2008/03/14/la-firme-karin-automobiles-devoile-son-nouveau-vehicule-hybride
+- /2008/03/14/la-firme-karin-automobiles-devoile-son-nouveau-vehicule-hybride/
 tags:
 - liberty-city
-redirect_from:
-  - /2008/03/14/la-firme-karin-automobiles-devoile-son-nouveau-vehicule-hybride
+title: La firme Karin Automobiles dévoile son nouveau véhicule hybride.
 ---
+
 
 Le réchauffement de la planète est le problème de tous. Chacun y va plus ou moins de ses bonnes résolutions pour ne pas que les ours polaires voient leur banquise fondre comme un glaçon dans un verre de Pastis, mais il y a encore des progrès à faire, surtout dans les grandes villes comme Liberty City où les pics de pollution sont monnaie courante aux heures de pointe.
 

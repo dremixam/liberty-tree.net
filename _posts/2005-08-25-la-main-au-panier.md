@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La main au panier
-cover: "/content/images/2016/06/16_Basketball.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/16_Basketball.jpg
 date: '2005-08-25 00:00:00'
+layout: article
+redirect_from:
+- /2005/08/24/la-main-au-panier
+- /2005/08/24/la-main-au-panier/
 tags:
 - vice-city
-redirect_from:
-  - /2005/08/24/la-main-au-panier
+title: La main au panier
 ---
+
 
 A l'occasion du match événement entre les Rimmers de Los Santos et les Mambas de Vice City, j'ai le privilège d'interviewer Isaac Turner, basketteur prodige des Rimmers.
 

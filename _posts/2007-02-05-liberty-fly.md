@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Liberty Fly
-cover: "/content/images/2005/01/AA747-300.jpg"
 authors:
-  - pyro
+- pyro
+cover: /content/images/2005/01/AA747-300.jpg
 date: '2007-02-05 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: Liberty Fly
 ---
+
 
  **Check-in :** Incident à Las Venturas.
 

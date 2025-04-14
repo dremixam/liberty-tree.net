@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Elles se bonifient avec le temps
-cover: "/content/images/2016/06/27_6.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/27_6.jpg
 date: '2014-05-11 00:00:00'
+layout: article
+redirect_from:
+- /2014/05/10/elles-se-bonifient-avec-le-temps
+- /2014/05/10/elles-se-bonifient-avec-le-temps/
 tags:
 - los-santos
-redirect_from:
-  - /2014/05/10/elles-se-bonifient-avec-le-temps
+title: Elles se bonifient avec le temps
 ---
+
 
 _Une réunion d'anciennes voitures s'est déroulée jeudi dernier sur le parking du Los Santos Custom._
 

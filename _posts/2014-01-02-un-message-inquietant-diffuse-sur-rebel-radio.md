@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un message inquiétant diffusé sur Rebel Radio
-cover: "/content/images/2016/06/0_0%20%284%29_3.jpg"
 authors:
-  - libertyg100
+- libertyg100
+cover: /content/images/2016/06/0_0%20%284%29_3.jpg
 date: '2014-01-02 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/01/un-message-inquietant-diffuse-sur-rebel-radio
+- /2014/01/01/un-message-inquietant-diffuse-sur-rebel-radio/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/01/un-message-inquietant-diffuse-sur-rebel-radio
+title: Un message inquiétant diffusé sur Rebel Radio
 ---
+
 
 _Rebel Radio, la radio de la campagne, attire sur elle toutes les attentions. Ce n'est pas sa musique country (qui montre que même sur les goûts musicaux, les paysans diffèrent de nous) qui nous intéresse aujourd'hui. En effet, c'est un message des plus étranges qui a été diffusé à l'antenne hier, tard dans la soirée..._
 

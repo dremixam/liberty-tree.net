@@ -1,13 +1,14 @@
 ---
-layout: article
-title: "$Capitol$ : Chez les communistes"
-cover: "/content/images/2005/01/affiche.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/affiche.jpg
 date: '2006-11-24 00:00:00'
+layout: article
 tags:
 - vice-city
+title: '$Capitol$ : Chez les communistes'
 ---
+
 
 $Capitol$ se rend cette fois-ci au sein du Quartier Général du parti communiste qui s'était présenté lors des dernières élections municipales de Vice City dont vous avez pu connaître les pronostics dans l'article de Chaos-Red. Sans surprise, c'est Schrub qui avait remporté la partie avec 87% de voix achetées ou inventées. Le parti communiste, très détesté à Vice City et dans tout le territoire des Etats-Unis, s'est pourtant fait une place en se démarquant du préjugé habituel : dictature, Cuba, missiles, soviet, et j'en passe. Qui est le créateur de ce parti marginal de Vice City ? Quelles ont été les conséquences de la défaite des élections municipales ? Quelles sont les réactions des autres partis politiques vis-à-vis de celui-ci ?
 

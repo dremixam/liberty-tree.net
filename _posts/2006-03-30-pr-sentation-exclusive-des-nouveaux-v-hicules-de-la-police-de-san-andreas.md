@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Présentation exclusive des nouveaux véhicules de la police de San Andreas
-cover: "/content/images/2005/01/cap92.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/cap92.jpg
 date: '2006-03-30 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Présentation exclusive des nouveaux véhicules de la police de San Andreas
 ---
+
 
 La Ford Motor Company s'arrache les cheveux de n'avoir pu vendre ses modèles LTD _police package_ à l’état de San Andreas. C'est désormais officiel : Les véhicules d'intervention et de patrouille de Los Santos, San Fierro et Las Venturas seront cette année encore des Chevrolet Caprice.
 

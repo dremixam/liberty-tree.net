@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Tank volant
 authors:
-  - dremixam
+- dremixam
 date: '2002-12-25 18:22:00'
+layout: article
 tags:
 - liberty-city
+title: Tank volant
 ---
+
 
 Ce matin, vers 6h30 des habitants du nord du quartier Saint Mark's ont aperçu dans le ciel un Rhino à plus de 500 M. d'altitude!  
 L'un des leurs, M. Sharzon a averti le Liberty Tree en échange d'une modique somme, je me suis donc rendu sur les lieux pour mener mon enquête et ma surprise fût grande: La FBI était en train d’arrêter tous les témoins pour des prétextes bidons!

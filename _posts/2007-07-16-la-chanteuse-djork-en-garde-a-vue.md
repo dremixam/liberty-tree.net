@@ -1,12 +1,13 @@
 ---
-layout: article
-title: La chanteuse Djork en garde à vue !
 authors:
-  - f-rosenberg
+- f-rosenberg
 date: '2007-07-16 20:26:00'
+layout: article
 tags:
 - las-venturas
+title: La chanteuse Djork en garde à vue !
 ---
+
 
 _Quand la star boit, les paparazzi trinquent... Par un mystérieux concours de circonstances malheureuses, la chanteuse a passé une partie de la nuit au central de Las Venturas. Chronologie d'une cuite annoncée ..._
 

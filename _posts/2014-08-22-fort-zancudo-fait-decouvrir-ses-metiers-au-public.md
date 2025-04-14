@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Fort Zancudo fait découvrir ses métiers au public
-cover: "/content/images/2016/06/tank.jpg"
 authors:
-  - titi
+- titi
+cover: /content/images/2016/06/tank.jpg
 date: '2014-08-22 00:00:00'
+layout: article
+redirect_from:
+- /2014/08/21/fort-zancudo-fait-decouvrir-ses-metiers-au-public
+- /2014/08/21/fort-zancudo-fait-decouvrir-ses-metiers-au-public/
 tags:
 - los-santos
-redirect_from:
-  - /2014/08/21/fort-zancudo-fait-decouvrir-ses-metiers-au-public
+title: Fort Zancudo fait découvrir ses métiers au public
 ---
+
 
 _Hier, une vingtaine de militaires se sont rendus à l'aéroport de Los Santos pour faire découvrir leur quotidien._
 

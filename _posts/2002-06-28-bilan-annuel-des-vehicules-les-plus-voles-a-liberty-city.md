@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Bilan annuel des véhicules les plus volés à Liberty City
-cover: "/content/images/2016/06/arrache_0.jpg"
 authors:
-  - diazer
+- diazer
+cover: /content/images/2016/06/arrache_0.jpg
 date: '2002-06-28 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/27/bilan-annuel-des-vehicules-les-plus-voles-a-liberty-city
+- /2002/06/27/bilan-annuel-des-vehicules-les-plus-voles-a-liberty-city/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/27/bilan-annuel-des-vehicules-les-plus-voles-a-liberty-city
+title: Bilan annuel des véhicules les plus volés à Liberty City
 ---
+
 
 A Liberty City, comme dans beaucoup d'autre grande ville, le vol de voiture est au quotidien. Cette année pas loin de 20 000 voitures ont été volées, aussi bien à l'arrêt qu'à l'arrachée (ndrc: cf article "[Le car-jacking est aujourd'hui devenu un sport national](/2002/04/30/le-car-jacking-est-aujourdhui-devenu-un-sport-national/)"). Photo ci-dessus.
 

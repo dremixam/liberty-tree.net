@@ -1,16 +1,18 @@
 ---
-layout: article
-title: Le clown Sanglant
-cover: "/content/images/2016/06/lieuducrime.jpg"
 authors:
-  - diabolik-c
+- diabolik-c
+cover: /content/images/2016/06/lieuducrime.jpg
 date: '2006-01-14 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/13/le-clown-sanglant
+- /2006/01/13/le-clown-sanglant/
 tags:
 - vice-city
 - liberty-city
-redirect_from:
-  - /2006/01/13/le-clown-sanglant
+title: Le clown Sanglant
 ---
+
 
 _Depuis quelques jours, un clown sème la terreur en tuant les innocents de Las Venturas, heureusement, il est déjà sous les verrous._
 

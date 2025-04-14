@@ -1,13 +1,14 @@
 ---
-layout: article
-title: The rise and fall of a reporter
-cover: "/content/images/2005/01/plouf6.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/plouf6.jpg
 date: '2006-06-01 00:00:00'
+layout: article
 tags:
 - los-santos
+title: The rise and fall of a reporter
 ---
+
 
 6:00AM, le soleil se lève doucement sur la baie de Los Santos et le thermomètre dépasse déjà les 70°F. Mac Coyle est un des nombreux SDF trouvant refuge dans le canal de Los Santos.
 

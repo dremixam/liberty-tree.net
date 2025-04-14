@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les employés de YouTool en grève
-cover: "/content/images/2016/06/YouTool.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/YouTool.jpg
 date: '2014-07-10 00:00:00'
+layout: article
+redirect_from:
+- /2014/07/09/les-employes-de-youtool-en-greve
+- /2014/07/09/les-employes-de-youtool-en-greve/
 tags:
 - los-santos
-redirect_from:
-  - /2014/07/09/les-employes-de-youtool-en-greve
+title: Les employés de YouTool en grève
 ---
+
 
 _Depuis quelques jours, le magasin de bricolage YouTool de Sandy Shores reste désert et fermé. Et pour cause : les employés sont en grève et réclament de meilleures conditions de travail._
 

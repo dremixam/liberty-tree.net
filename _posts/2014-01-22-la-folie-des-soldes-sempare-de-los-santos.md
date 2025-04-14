@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La folie des soldes s'empare de Los Santos
-cover: "/content/images/2016/06/Soldes1.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Soldes1.jpg
 date: '2014-01-22 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/21/la-folie-des-soldes-sempare-de-los-santos
+- /2014/01/21/la-folie-des-soldes-sempare-de-los-santos/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/21/la-folie-des-soldes-sempare-de-los-santos
+title: La folie des soldes s'empare de Los Santos
 ---
+
 
 _Mercredi dernier ont débuté les soldes d'hiver à Los Santos. Jusqu'au 11 février, la plupart des grands magasins de la ville déstockent en masse, provoquant l'hystérie de nombreux clients et clientes prêts à tout pour faire une bonne affaire._
 

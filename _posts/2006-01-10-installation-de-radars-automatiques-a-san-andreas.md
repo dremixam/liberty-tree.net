@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Installation de radars automatiques à San Andreas
-cover: "/content/images/2016/06/MulhollandIntersection-GTASA-southwestwards.jpg"
 authors:
-  - schumi_60
+- schumi_60
+cover: /content/images/2016/06/MulhollandIntersection-GTASA-southwestwards.jpg
 date: '2006-01-10 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/09/installation-de-radars-automatiques-a-san-andreas
+- /2006/01/09/installation-de-radars-automatiques-a-san-andreas/
 tags:
 - vice-city
-redirect_from:
-  - /2006/01/09/installation-de-radars-automatiques-a-san-andreas
+title: Installation de radars automatiques à San Andreas
 ---
+
 
 _Bientôt, les premiers radars automatiques vont être installés sur toutes les autoroutes de l'état de San Andreas. Bonne ou mauvaise nouvelle ?_
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Le LSPD pourra compter sur un allié de taille !
-cover: "/content/images/2005/01/tx3000-article_title.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/tx3000-article_title.jpg
 date: '2007-03-26 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Le LSPD pourra compter sur un allié de taille !
 ---
+
 
 ![](/content/images/2005/01/tx3000-LEA_expo_poster.jpg)
 

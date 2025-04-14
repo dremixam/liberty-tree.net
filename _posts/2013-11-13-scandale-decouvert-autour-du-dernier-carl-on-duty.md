@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Scandale découvert autour du dernier Carl On Duty
-cover: "/content/images/2016/06/carl-on-duty-black-ghosts.png"
 authors:
-  - passe-partout
+- passe-partout
+cover: /content/images/2016/06/carl-on-duty-black-ghosts.png
 date: '2013-11-13 00:00:00'
+layout: article
+redirect_from:
+- /2013/11/12/scandale-decouvert-autour-du-dernier-carl-on-duty
+- /2013/11/12/scandale-decouvert-autour-du-dernier-carl-on-duty/
 tags:
 - los-santos
-redirect_from:
-  - /2013/11/12/scandale-decouvert-autour-du-dernier-carl-on-duty
+title: Scandale découvert autour du dernier Carl On Duty
 ---
+
 
 La licence Carl On Duty, phénomène du jeu vidéo acclamé par des foules de pré-pubères en délire chaque année fait à nouveau parler d'elle. Après l'émeute au dernier salon des jeux électroniques de Vice City qui a fait 200 morts le mois précédent, c'est cette fois le produit en lui-même qui est remis en cause.
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Downtown Los Santos by night
-cover: "/content/images/2016/06/downtown_02_0.jpg"
 authors:
-  - liberleo
+- liberleo
+cover: /content/images/2016/06/downtown_02_0.jpg
 date: '2005-09-29 00:00:00'
+layout: article
+redirect_from:
+- /2005/09/28/downtown-los-santos-by-night
+- /2005/09/28/downtown-los-santos-by-night/
 tags:
 - los-santos
-redirect_from:
-  - /2005/09/28/downtown-los-santos-by-night
+title: Downtown Los Santos by night
 ---
+
 
 _Downtown Los Santos rime généralement avec activité débordante, repas pris à la va-vite, embouteillages de grosses berlines. Sa ligne de gratte ciels, de réputation mondiale, fait briller le quartier d'un éclat métallique... Mais ce qui est un des plus gros centres de décision au monde devient le repère des pires rebuts de la société la nuit..._
 

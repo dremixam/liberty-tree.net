@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Une nuit rude pour le VCPD
-cover: "/content/images/2005/01/nuit-rude.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/nuit-rude.jpg
 date: '2006-12-08 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Une nuit rude pour le VCPD
 ---
+
 
 Il y a une vingtaine d'années, des gangsters venus de Liberty City arrivaient à Vice et&nbsp;aidaient, pour remplir le porte-feuille, des immigrés Cubains ou Haïtiens à régler leur comptes. Ça c'était terminé et la ville redevenait plus calme. Aujourd'hui, la police est chargée d'emprisonner, liquider toutes personnes faisant un délit. Il est vrai qu'un meurtre, que beaucoup soupçonnent de crapuleux, est passé sous silence : trois agents des forces de l'ordre abattirent à bout portant une femme d'origine cubaine dans un magasin tenu par un vieil homme arrivé depuis peu à Vice City sous une identité haïtienne.
 

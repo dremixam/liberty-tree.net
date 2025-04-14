@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Importante arrestation
-cover: "/content/images/2005/01/Policier_Toreno1.jpg"
 authors:
-  - scarface1991
+- scarface1991
+cover: /content/images/2005/01/Policier_Toreno1.jpg
 date: '2006-04-26 17:20:00'
+layout: article
 tags:
 - vice-city
+title: Importante arrestation
 ---
+
 
 _Depuis des semaines, les policiers enquêtent sur un trafic d'armes qui s'effectuerait dans tout les Etats-Unis. Hier soir, ils viennent enfin d'arrêter un des suspects. Récit d'une arrestation musclée._
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: La Tour Maudite
-cover: "/content/images/2005/01/tour_-_incendie_title.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/tour_-_incendie_title.jpg
 date: '2006-08-10 00:00:00'
+layout: article
 tags:
 - los-santos
+title: La Tour Maudite
 ---
+
 
 ![Goldwyn Tower (archives).](/content/images/2005/01/tour_-_goldwyne_-_photo_archives.jpg)
 _Goldwyn Tower (archives)._

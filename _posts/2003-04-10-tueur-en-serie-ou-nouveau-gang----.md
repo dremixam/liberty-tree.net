@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Tueur en série ou nouveau Gang ?
 authors:
-  - pastrana
+- pastrana
 date: '2003-04-10 00:00:00'
+layout: article
+redirect_from:
+- /2003/04/09/tueur-en-serie-ou-nouveau-gang
+- /2003/04/09/tueur-en-serie-ou-nouveau-gang/
 tags:
 - liberty-city
-redirect_from:
-  - /2003/04/09/tueur-en-serie-ou-nouveau-gang
+title: Tueur en série ou nouveau Gang ?
 ---
+
 
 La nuit dernière, aux environs de minuit, alors que j'allai me coucher, un coup de téléphone m'arrêta. C'était la Police de Staunton Island qui m'annonçait que 8 personnes avaient été tuées sur l'île. Le temps d'arriver sur les lieux des crimes, un autre coup de téléphone (sur mon portable) m'annonçait que ce n'était que des membres de Gangs qui avaient été pris pour cible. J'arrive sur le premier lieu indiqué. Un Yakuza était couché dans une mare de sang.
 

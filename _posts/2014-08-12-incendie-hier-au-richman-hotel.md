@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Incendie hier au Richman Hotel
-cover: "/content/images/2016/06/hotel_0.jpg"
 authors:
-  - titi
+- titi
+cover: /content/images/2016/06/hotel_0.jpg
 date: '2014-08-12 00:00:00'
+layout: article
+redirect_from:
+- /2014/08/11/incendie-hier-au-richman-hotel
+- /2014/08/11/incendie-hier-au-richman-hotel/
 tags:
 - los-santos
-redirect_from:
-  - /2014/08/11/incendie-hier-au-richman-hotel
+title: Incendie hier au Richman Hotel
 ---
+
 
 _Hier dans la journée, le Richman Hotel a dû être évacué suite à un client inconscient au sujet des risques potentiels que peuvent occasionner une cigarette..._
 

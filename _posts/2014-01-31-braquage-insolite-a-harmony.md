@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Braquage insolite à Harmony
-cover: "/content/images/2016/06/Rebel.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Rebel.jpg
 date: '2014-01-31 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/30/braquage-insolite-a-harmony
+- /2014/01/30/braquage-insolite-a-harmony/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/30/braquage-insolite-a-harmony
+title: Braquage insolite à Harmony
 ---
+
 
 _Le siège de la station Rebel Radio a été la cible d'une attaque spectaculaire hier. Au terme d'un braquage rapide et maîtrisé, les suspects sont repartis avec un butin... Inhabituel._
 

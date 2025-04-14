@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La LS Aeronautic Exhibition perturbée par un enfant de dix ans
-cover: "/content/images/2016/06/0_0%20%2835%29.jpg"
 authors:
-  - kiki
+- kiki
+cover: /content/images/2016/06/0_0%20%2835%29.jpg
 date: '2014-04-10 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/09/la-ls-aeronautic-exhibition-perturbee-par-un-enfant-de-dix-ans
+- /2014/04/09/la-ls-aeronautic-exhibition-perturbee-par-un-enfant-de-dix-ans/
 tags:
 - los-santos
-redirect_from:
-  - /2014/04/09/la-ls-aeronautic-exhibition-perturbee-par-un-enfant-de-dix-ans
+title: La LS Aeronautic Exhibition perturbée par un enfant de dix ans
 ---
+
 
 Nous sommes aujourd'hui le 9 Avril 2014, date tant attendue par les amateurs d'aéronefs en tous genres qui affluent actuellement au LS International Airport depuis les quatre coins de Blaine County. En effet, depuis ce matin 7h, la célébrissime Los Santos Aeronautic Exhibition ouvre sa quatorzième édition à tous les curieux et autres passionnés, et ce au travers de la centaine d'appareils volant plus ou moins identifiés qui encombrent aujourd'hui et jusqu'à la fin du week-end les pistes de l'aéroport.
 

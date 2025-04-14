@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Un business pour quelques uns, une catastrophe pour les autres
-cover: "/content/images/2005/01/ammunation-lcs.jpg"
 authors:
-  - newz-report
+- newz-report
+cover: /content/images/2005/01/ammunation-lcs.jpg
 date: '2007-01-16 00:00:00'
+layout: article
 tags:
 - liberty-city
+title: Un business pour quelques uns, une catastrophe pour les autres
 ---
+
 
 ![](/content/images/2005/01/bataille-baseball.jpg)
 ![L'incident du lanceur de fusée de la semaine dernière à Trenton, une photo exclusive, a été suivi par une nouvelle éruption de perturbations dans la ville.](/content/images/2005/01/attaque-lance-roquette.jpg)

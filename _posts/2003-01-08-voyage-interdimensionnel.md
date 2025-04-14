@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Voyage interdimensionnel
 authors:
-  - dremixam
+- dremixam
 date: '2003-01-08 12:03:00'
+layout: article
 tags:
 - liberty-city
+title: Voyage interdimensionnel
 ---
+
 
 Un infirmier de l’hôpital de Staunton a contacté le journal car dans le service psychiatrique se trouve un homme qui, selon lui, n'a rien à faire là...  
 En effet, l'homme a été interné car il affirmait avoir visité une autre dimension. J'ai donc pris la direction de l’hôpital et ai eu le droit de voir l'homme en question pour l'interviewé.  

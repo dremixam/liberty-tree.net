@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Le Malibu brûlé
-cover: "/content/images/2005/01/rec_cam_18.jpg"
 authors:
-  - blackyss
+- blackyss
+cover: /content/images/2005/01/rec_cam_18.jpg
 date: '2006-07-03 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Le Malibu brûlé
 ---
+
 
 La plus grande boîte de nuit de Vice City a&nbsp;brûlé hier aux alentours de 21 heures. Un accident bien mystérieux, qui laisse perplexe tous les enquêteurs. Le gouverneur de Floride, aussitôt prévenu, mène une&nbsp;investigation sur cette tragédie. Le bilan&nbsp;s'élève&nbsp;23 morts&nbsp;ainsi que&nbsp;six&nbsp;blessés graves qui passaient devant le batiment à ce moment là.&nbsp;A l'intérieur du&nbsp;Malibu Club, personne n’a survécu. La caméra de surveillance a pu prendre un aperçu de cette horrible catastrophe.
 

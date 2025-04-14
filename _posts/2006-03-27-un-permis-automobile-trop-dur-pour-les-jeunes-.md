@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Un permis automobile trop dur pour les jeunes?
-cover: "/content/images/2005/01/auto_ecole_2.jpg"
 authors:
-  - dami
+- dami
+cover: /content/images/2005/01/auto_ecole_2.jpg
 date: '2006-03-27 00:00:00'
+layout: article
 tags:
 - san-fierro
+title: Un permis automobile trop dur pour les jeunes?
 ---
+
 
 L'année dernière, ce serait à peine 17% des jeunes ayant passé leur permis qui l'aurait&nbsp;obtenus ! C'est ce que nous a affirmé Lauren Harrelson, sociologue, ayant réalisé cette étude en 2005. Mais pourquoi une chute aussi brutale? L'épreuve tant redoutée serait elle devenue trop difficile? Nous avons effectué un sondage dans les rues de San Fierro pour savoir quel est l'avis de certaines personnes :
 

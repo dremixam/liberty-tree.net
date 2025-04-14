@@ -1,14 +1,15 @@
 ---
-layout: article
-title: SAPD Rescue Unit
 authors:
-  - dremixam
+- dremixam
 date: '2008-05-04 13:18:00'
+layout: article
 tags:
 - los-santos
 - san-fierro
 - las-venturas
+title: SAPD Rescue Unit
 ---
+
 
 _Si vous vous promenez régulièrement dans la région du mont Chilliad, vous avez forcément croisé les hommes de la SAPD Rescue Unit, en uniforme noir et en chapeau Stetson. Reportage sur cette unité particulière de la police._
 

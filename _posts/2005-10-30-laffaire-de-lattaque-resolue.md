@@ -1,15 +1,17 @@
 ---
-layout: article
-title: L'affaire de l'attaque résolue
-cover: "/content/images/2016/06/camion.jpg"
 authors:
-  - logan
+- logan
+cover: /content/images/2016/06/camion.jpg
 date: '2005-10-30 00:00:00'
+layout: article
+redirect_from:
+- /2005/10/29/laffaire-de-lattaque-resolue
+- /2005/10/29/laffaire-de-lattaque-resolue/
 tags:
 - vice-city
-redirect_from:
-  - /2005/10/29/laffaire-de-lattaque-resolue
+title: L'affaire de l'attaque résolue
 ---
+
 
 _C'était il y a quelques jours, un camion de type "Mule" avait été attaqué a la sortie du port de Vice City. L'affaire est maintenant résolue._
 

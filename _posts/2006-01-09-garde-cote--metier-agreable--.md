@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Garde-côte, métier agréable ?
-cover: "/content/images/2016/06/editocote.jpg"
 authors:
-  - diabolik-c
+- diabolik-c
+cover: /content/images/2016/06/editocote.jpg
 date: '2006-01-09 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/08/garde-cote-metier-agreable
+- /2006/01/08/garde-cote-metier-agreable/
 tags:
 - los-santos
-redirect_from:
-  - /2006/01/08/garde-cote-metier-agreable
+title: Garde-côte, métier agréable ?
 ---
+
 
 _On associe souvent le métier de garde côte à la célèbre série télévisée, "Alerte à Verona Beach"._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Tentative de cambriolage échouée au "High Roller" de Las Venturas
-cover: "/content/images/2016/06/high1.jpg"
 authors:
-  - chaos-red
+- chaos-red
+cover: /content/images/2016/06/high1.jpg
 date: '2006-03-13 00:00:00'
+layout: article
+redirect_from:
+- /2006/03/12/tentative-de-cambriolage-echouee-au-high-roller-de-las-venturas
+- /2006/03/12/tentative-de-cambriolage-echouee-au-high-roller-de-las-venturas/
 tags:
 - las-venturas
-redirect_from:
-  - /2006/03/12/tentative-de-cambriolage-echouee-au-high-roller-de-las-venturas
+title: Tentative de cambriolage échouée au "High Roller" de Las Venturas
 ---
+
 
 _La tentative de cambriolage qui s'est produite hier soir a échoué, sans dommage, sans victime. Retour sur cette fabuleuse tentative de voler une fois de plus._
 

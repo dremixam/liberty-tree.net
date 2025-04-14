@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Liberty Tree Cinéma n° 1
-cover: "/content/images/2005/01/0_9999.jpg"
 authors:
-  - f-rosenberg
+- f-rosenberg
+cover: /content/images/2005/01/0_9999.jpg
 date: '2007-08-12 00:00:00'
+layout: article
 tags:
 - san-fierro
+title: Liberty Tree Cinéma n° 1
 ---
+
 
 _Du petit film d'auteur indépendant aux grosses productions Vinewoodiennes, le Liberty Tree vous présentera périodiquement la sélection des meilleurs films du moment._
 

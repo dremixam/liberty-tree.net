@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Madd Dogg est de retour
-cover: "/content/images/2016/06/md_album.jpg"
 authors:
-  - filzonfire
+- filzonfire
+cover: /content/images/2016/06/md_album.jpg
 date: '2005-11-18 00:00:00'
+layout: article
+redirect_from:
+- /2005/11/17/madd-dogg-de-retour
+- /2005/11/17/madd-dogg-de-retour/
 tags:
 - los-santos
-redirect_from:
-  - /2005/11/17/madd-dogg-de-retour
+title: Madd Dogg est de retour
 ---
+
 
 _Le chanteur populaire Madd Dogg revient en force avec son nouvel album. Tout le monde est surpris, mais personne n'est déçu._
 

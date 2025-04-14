@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La moto est-elle un réel danger ?
-cover: "/content/images/2016/06/motocq3.jpg"
 authors:
-  - noobsanarckist
+- noobsanarckist
+cover: /content/images/2016/06/motocq3.jpg
 date: '2005-12-02 00:00:00'
+layout: article
+redirect_from:
+- /2005/12/01/la-moto-est-elle-un-reel-danger
+- /2005/12/01/la-moto-est-elle-un-reel-danger/
 tags:
 - vice-city
-redirect_from:
-  - /2005/12/01/la-moto-est-elle-un-reel-danger
+title: La moto est-elle un réel danger ?
 ---
+
 
 _De plus en plus de gens utilisent la moto comme moyen de transport. Toutefois, c'est un moyen de transport qui reste très dangereux si on ne l'utilise pas correctement._
 

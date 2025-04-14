@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Liberty City Survivor II
 authors:
-  - little-worm
+- little-worm
 date: '2002-06-05 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/04/liberty-city-survivor-ii
+- /2002/06/04/liberty-city-survivor-ii/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/04/liberty-city-survivor-ii
+title: Liberty City Survivor II
 ---
+
 
 Résumé des 15 premiers jours des lofteurs...
 

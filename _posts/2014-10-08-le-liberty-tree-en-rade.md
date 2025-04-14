@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le Liberty Tree en rade
-cover: "/content/images/2016/06/LTRade4.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/LTRade4.jpg
 date: '2014-10-08 00:00:00'
+layout: article
+redirect_from:
+- /2014/10/08/le-liberty-tree-en-rade
+- /2014/10/08/le-liberty-tree-en-rade/
 tags:
 - los-santos
-redirect_from:
-  - /2014/10/08/le-liberty-tree-en-rade
+title: Le Liberty Tree en rade
 ---
+
 
 _Vous l'avez sûrement remarqué, notre a site été inaccessible durant quelques jours. Rassurez vous, tout est revenu à la normale, mais nous tenions à vous expliquer les raisons de cette panne._
 

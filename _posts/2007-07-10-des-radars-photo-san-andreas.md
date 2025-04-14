@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Des radars photo à San Andreas
-cover: "/content/images/2005/01/000-radar-article-title.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/000-radar-article-title.jpg
 date: '2007-07-10 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Des radars photo à San Andreas
 ---
+
 
 ![Gouverneur John Sturner.](/content/images/2005/01/00-EQ-sa-governor.jpg)
 _Gouverneur John Sturner._

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Série de meurtres inexpliqués
-cover: "/content/images/2005/01/Escobar_Meurtre_Dealer.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2005/01/Escobar_Meurtre_Dealer.jpg
 date: '2006-11-29 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Série de meurtres inexpliqués
 ---
+
 
 ![Un dealer, retrouvé assassiné tout près de Ganton.](/content/images/2005/01/Escobar_Meurtre_Dealer.jpg)
 _Un dealer, retrouvé assassiné tout près de Ganton._

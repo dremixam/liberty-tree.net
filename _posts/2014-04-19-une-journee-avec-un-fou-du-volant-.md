@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Une journée avec un fou du volant
-cover: "/content/images/2016/06/Tyler.jpg"
 authors:
-  - aymar
+- aymar
+cover: /content/images/2016/06/Tyler.jpg
 date: '2014-04-19 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/18/une-journee-avec-un-fou-du-volant
+- /2014/04/18/une-journee-avec-un-fou-du-volant/
 tags:
 - los-santos
-redirect_from:
-  - /2014/04/18/une-journee-avec-un-fou-du-volant
+title: Une journée avec un fou du volant
 ---
+
 
 Lundi dernier, j'ai eu l'honneur de passer une journée avec Tyler, un jeune homme de 20 ans accroc à la vitesse. Notre journée débute dans une petite allée de Grove Street à coté d'un terrain de basket et d'un skate-park. Tyler m'y avait donné rendez-vous à 9h du matin. Quelques minutes après mon arrivée, une Shafter noire me rejoint, avec Tyler au volant. \*Une fois arrivé, le jeune homme m'ouvre la porte du véhicule en me disant de monter a bord.
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Overdose pour un journaliste
-cover: "/content/images/2016/06/0_0_228.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_228.jpg
 date: '2014-07-23 00:00:00'
+layout: article
+redirect_from:
+- /2014/07/22/overdose-pour-un-journaliste
+- /2014/07/22/overdose-pour-un-journaliste/
 tags:
 - los-santos
-redirect_from:
-  - /2014/07/22/overdose-pour-un-journaliste
+title: Overdose pour un journaliste
 ---
+
 
 _Le rédacteur en chef du Liberty Tree vient d'être une nouvelle fois contacté par la police au sujet de la mort d'un membre de son équipe. Y a-t-il vraiment un serial killer derrière tout ça ? Est-ce juste une vengeance divine ou bien serait-ce carrément un règlement de compte entre journalistes ? Enquête._
 

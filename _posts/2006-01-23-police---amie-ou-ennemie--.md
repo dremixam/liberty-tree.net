@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Police : amie ou ennemie ?'
-cover: "/content/images/2016/06/police1_0.jpg"
 authors:
-  - oswald-cobblepote
+- oswald-cobblepote
+cover: /content/images/2016/06/police1_0.jpg
 date: '2006-01-23 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/22/police-amie-ou-ennemie
+- /2006/01/22/police-amie-ou-ennemie/
 tags:
 - vice-city
-redirect_from:
-  - /2006/01/22/police-amie-ou-ennemie
+title: 'Police : amie ou ennemie ?'
 ---
+
 
 _La police se transforme en grossiste. Peut-être la plus grande affaire de corruption._
 

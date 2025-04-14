@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les masques en latex sont-ils cancérigènes ?
-cover: "/content/images/2016/06/Masques.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Masques.jpg
 date: '2014-02-05 00:00:00'
+layout: article
+redirect_from:
+- /2014/02/04/les-masques-en-latex-sont-ils-cancerigenes
+- /2014/02/04/les-masques-en-latex-sont-ils-cancerigenes/
 tags:
 - los-santos
-redirect_from:
-  - /2014/02/04/les-masques-en-latex-sont-ils-cancerigenes
+title: Les masques en latex sont-ils cancérigènes ?
 ---
+
 
 _Une étude récente et des cas avérés ont fortement remis en cause l'origine des masques en latex vendus sur Vespucci Beach. Ceux-ci seraient-ils dangereux pour la santé de l'homme ?_
 

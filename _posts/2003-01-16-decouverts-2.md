@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Découverts
 authors:
-  - dremixam
+- dremixam
 date: '2003-01-16 12:17:00'
+layout: article
 tags:
 - liberty-city
+title: Découverts
 ---
+
 
 Tout le monde garde en mémoire les événements qui, il y a maintenant plus d'un an, avaient isolé Portland du reste de la ville. Malheureusement, à l'époque, un pirate informatique, très doué, avait effacé les noms des prisonniers transférés.  
 Il y a quelques jours, le chef de la police a annoncé que, grâce à un satellite prêté par le FBI, ils avaient pu suivre les fuyards qui s'étaient échappés et prendre ces clichés de l'évasion immédiatement après l'explosion:

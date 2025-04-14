@@ -1,12 +1,13 @@
 ---
-layout: article
-title: La concession du Liberty Tree !
 authors:
-  - passe-partout
+- passe-partout
 date: '2007-04-27 20:09:00'
+layout: article
 tags:
 - vice-city
+title: La concession du Liberty Tree !
 ---
+
 
 _Bienvenue dans le 1er numéro de la concession du Liberty-Tree, dans cet article vous découvrirez toutes les nouvelles sorties de voitures à San Andreas ! Et même à Vice City dans les prochains numéros._
 

@@ -1,14 +1,15 @@
 ---
-layout: article
-title: Convoiteur de fonds
 authors:
-  - passe-partout
+- passe-partout
 date: '2007-09-15 00:00:00'
+layout: article
 tags:
 - san-fierro
 - los-santos
 - las-venturas
+title: Convoiteur de fonds
 ---
+
 
 Dan Philigan, âgé de 65 ans, ancien chauffeur de la San Andreas Federal Mint, l'entreprise stockant l'argent des banques de San Andreas, a été arrêté par la police de San Fierro pour détournement de fonds. Ce convoyeur à la retraite qui a travaillé pendant 35 ans dans l'entreprise aurait selon nos sources détourné plus de 100 000 $. Il stockait l'argent dans un coffre placé dans sa propriété de luxe à Vinewood. Une simple erreur à suffit pour qu'une enquête soit ouverte. Tout accuse Dan Philigan, l'erreur est partie d'un simple malentendu entre un des vérifieurs de comptes et un chef de banque.
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Accident dans le tunnel reliant Queens à Garcia
-cover: "/content/images/2016/06/acctunl_0.jpg"
 authors:
-  - noobsanarckist
+- noobsanarckist
+cover: /content/images/2016/06/acctunl_0.jpg
 date: '2006-01-05 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/04/accident-dans-le-tunnel-reliant-queens-a-garcia
+- /2006/01/04/accident-dans-le-tunnel-reliant-queens-a-garcia/
 tags:
 - las-venturas
-redirect_from:
-  - /2006/01/04/accident-dans-le-tunnel-reliant-queens-a-garcia
+title: Accident dans le tunnel reliant Queens à Garcia
 ---
+
 
 _Hier à 23 heures, une voiture s'enflamme causant un désastre dans le tunnel reliant Queens à Garcia. Les normes de sécurité étaient-elles respectées ?_
 

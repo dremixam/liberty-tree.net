@@ -1,15 +1,16 @@
 ---
-layout: article
-title: A History of Violence
-cover: "/content/images/2005/01/police_devant_bijouterie.jpg"
 authors:
-  - dami
+- dami
+cover: /content/images/2005/01/police_devant_bijouterie.jpg
 date: '2006-08-21 00:00:00'
+layout: article
 tags:
 - san-fierro
 - las-venturas
 - los-santos
+title: A History of Violence
 ---
+
 
 Hier après-midi, aux alentours de 6:10 PM, un fourgon appartenant à la compagnie de transports de fonds "Alpine Armoring Inc"&nbsp;a été attaqué devant la banque "El Banco Corrupto Grande", à Little Havana par un groupe d'homme armés. Fort heureusement, la fusillade&nbsp;n'a fait aucun blessé. D'après le VCPD :
 

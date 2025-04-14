@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un journaliste retrouvé horriblement mutilé
-cover: "/content/images/2016/06/Journaliste.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Journaliste.jpg
 date: '2014-03-02 00:00:00'
+layout: article
+redirect_from:
+- /2014/03/01/un-journaliste-retrouve-horriblement-mutile
+- /2014/03/01/un-journaliste-retrouve-horriblement-mutile/
 tags:
 - los-santos
-redirect_from:
-  - /2014/03/01/un-journaliste-retrouve-horriblement-mutile
+title: Un journaliste retrouvé horriblement mutilé
 ---
+
 
 _Ce matin, le corps sans vie d'un journaliste a été retrouvé horriblement mutilé dans une ruelle de Los Santos. Manque de chance, il s'agissait d'un journaliste du Liberty Tree..._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La faute aux canapés
-cover: "/content/images/2016/06/eaf4da6c78b5a0ce.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/eaf4da6c78b5a0ce.jpg
 date: '2014-02-16 00:00:00'
+layout: article
+redirect_from:
+- /2014/02/15/la-faute-aux-canapes
+- /2014/02/15/la-faute-aux-canapes/
 tags:
 - los-santos
-redirect_from:
-  - /2014/02/15/la-faute-aux-canapes
+title: La faute aux canapés
 ---
+
 
 Après plusieurs mois de frénésie journalistique totale, nos chers lecteurs ont pu constater que les articles arrivaient au compte goutte ces derniers jours, sur la page principale du Liberty Tree. Départs en vacances ? Garde à vue prolongée ? Soucis informatique ? Il n'en est rien.
 

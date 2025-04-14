@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Nouvelle menace sur Liberty City: les "hackers"'
-cover: "/content/images/2016/06/prisaupiege_0.jpg"
 authors:
-  - max-2
+- max-2
+cover: /content/images/2016/06/prisaupiege_0.jpg
 date: '2002-06-23 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/22/nouvelle-menace-sur-liberty-city-les-hackers
+- /2002/06/22/nouvelle-menace-sur-liberty-city-les-hackers/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/22/nouvelle-menace-sur-liberty-city-les-hackers
+title: 'Nouvelle menace sur Liberty City: les "hackers"'
 ---
+
 
 Cet après-midi le casino de Kenji a été dévalisé par un hacker d'élite qui a piraté le système informatique du casino. Ce pirateur à pensé à tout, même à la police !
 

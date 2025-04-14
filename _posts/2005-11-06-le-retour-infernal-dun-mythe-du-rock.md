@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le retour infernal d'un mythe du rock
-cover: "/content/images/2016/06/lf1.jpg"
 authors:
-  - noobsanarckist
+- noobsanarckist
+cover: /content/images/2016/06/lf1.jpg
 date: '2005-11-06 00:00:00'
+layout: article
+redirect_from:
+- /2005/11/05/le-retour-infernal-dun-mythe-du-rock
+- /2005/11/05/le-retour-infernal-dun-mythe-du-rock/
 tags:
 - vice-city
-redirect_from:
-  - /2005/11/05/le-retour-infernal-dun-mythe-du-rock
+title: Le retour infernal d'un mythe du rock
 ---
+
 
 _Love Fist : Les papys du Rock reprennent la scène pour un nouvel album. Simple stratégie commerciale ou véritable réunification ?_
 

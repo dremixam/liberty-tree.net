@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Accident aérien tragique à San Andreas
-cover: "/content/images/2005/01/crash-aeroport.jpg"
 authors:
-  - gtaboss33
+- gtaboss33
+cover: /content/images/2005/01/crash-aeroport.jpg
 date: '2006-10-12 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Accident aérien tragique à San Andreas
 ---
+
 
 Aujourd'hui, tout San Andreas est en deuil: Un Boeing 747 et ses 500 passagers s'est crashé suite à un problème de mécanique, d'après la police. L'avion effectuait un vol Vice City-Las Venturas. C'est le deuxième avion de ligne qui se crash sur l'Etat en moins d'un mois...
 

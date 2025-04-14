@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La femme qui effrayait Blueberry arrêtée
-cover: "/content/images/2016/06/helena.jpg"
 authors:
-  - megamind
+- megamind
+cover: /content/images/2016/06/helena.jpg
 date: '2005-09-09 00:00:00'
+layout: article
+redirect_from:
+- /2005/09/08/la-femme-qui-effrayait-blueberry-arretee
+- /2005/09/08/la-femme-qui-effrayait-blueberry-arretee/
 tags:
 - los-santos
-redirect_from:
-  - /2005/09/08/la-femme-qui-effrayait-blueberry-arretee
+title: La femme qui effrayait Blueberry arrêtée
 ---
+
 
 Une individu pour le moins étrange vient d'être arrêtée dans la petite ville de Blueberry. Les habitants sont surpris.
 

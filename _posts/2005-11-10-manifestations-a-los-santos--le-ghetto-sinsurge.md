@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Manifestations à Los Santos, le ghetto s'insurge
-cover: "/content/images/2016/06/Emeutes%201.jpg"
 authors:
-  - thomas
+- thomas
+cover: /content/images/2016/06/Emeutes%201.jpg
 date: '2005-11-10 00:00:00'
+layout: article
+redirect_from:
+- /2005/11/09/manifestations-a-los-santos-le-ghetto-sinsurge
+- /2005/11/09/manifestations-a-los-santos-le-ghetto-sinsurge/
 tags:
 - los-santos
-redirect_from:
-  - /2005/11/09/manifestations-a-los-santos-le-ghetto-sinsurge
+title: Manifestations à Los Santos, le ghetto s'insurge
 ---
+
 
 _Une manifestation illégale a dégénéré, suite au décès d'une jeune femme, abattue par le LSPD. Premier bilan : quatorze blessés dont six policiers._
 

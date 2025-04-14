@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un accident peu banal…
-cover: "/content/images/2016/06/mechant_accident.jpg"
 authors:
-  - animal-tnt
+- animal-tnt
+cover: /content/images/2016/06/mechant_accident.jpg
 date: '2005-09-24 00:00:00'
+layout: article
+redirect_from:
+- /2005/09/23/un-accident-peu-banal
+- /2005/09/23/un-accident-peu-banal/
 tags:
 - los-santos
-redirect_from:
-  - /2005/09/23/un-accident-peu-banal
+title: Un accident peu banal…
 ---
+
 
 Un accident routier secoue Flin County. Les pompiers de San Fierro ne pouvant pas intervenir sont relayés par la caserne de Los Santos. Cet accident a peut-être révélé un réseau de trafic de nitroglycérine.
 

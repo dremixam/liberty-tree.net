@@ -1,17 +1,19 @@
 ---
-layout: article
-title: Un trafic de méthamphétamines géant à Sandy Shores ?
-cover: "/content/images/2016/06/Meth2.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Meth2.jpg
 date: '2013-11-22 00:00:00'
+layout: article
+redirect_from:
+- /2013/11/21/un-trafic-de-methamphetamines-geant-a-sandy-shores
+- /2013/11/21/un-trafic-de-methamphetamines-geant-a-sandy-shores/
 tags:
 - los-santos
 - san-fierro
 - las-venturas
-redirect_from:
-  - /2013/11/21/un-trafic-de-methamphetamines-geant-a-sandy-shores
+title: Un trafic de méthamphétamines géant à Sandy Shores ?
 ---
+
 
 _La police serait sur le point de démanteler un immense trafic de méthamphétamines dont la source émanerait de Sandy Shores. Pour vous lecteurs, le Liberty Tree a mené l'enquête._
 

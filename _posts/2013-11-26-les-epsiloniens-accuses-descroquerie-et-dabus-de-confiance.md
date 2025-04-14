@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les Epsiloniens accusés d'escroquerie et d'abus de confiance
-cover: "/content/images/2016/06/0_0_16.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_16.jpg
 date: '2013-11-26 00:00:00'
+layout: article
+redirect_from:
+- /2013/11/25/les-epsiloniens-accuses-descroquerie-et-dabus-de-confiance
+- /2013/11/25/les-epsiloniens-accuses-descroquerie-et-dabus-de-confiance/
 tags:
 - los-santos
-redirect_from:
-  - /2013/11/25/les-epsiloniens-accuses-descroquerie-et-dabus-de-confiance
+title: Les Epsiloniens accusés d'escroquerie et d'abus de confiance
 ---
+
 
 ## "Êtes-vous prêts à atteindre l'Illumination ?"
 

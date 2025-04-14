@@ -1,14 +1,16 @@
 ---
-layout: article
-title: La Grande Evasion, Suite
 authors:
-  - pavlov
+- pavlov
 date: '2002-10-03 00:00:00'
+layout: article
+redirect_from:
+- /2002/10/02/la-grande-evasion-suite
+- /2002/10/02/la-grande-evasion-suite/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/10/02/la-grande-evasion-suite
+title: La Grande Evasion, Suite
 ---
+
 
 _C'est grâce à un lecteur du LT que la LCPD a réussi de mettre hors d'état de nuire Alvaro Ramirez qui avait pu s'évader quelques jours auparavant du commissariat de Staunton._
 

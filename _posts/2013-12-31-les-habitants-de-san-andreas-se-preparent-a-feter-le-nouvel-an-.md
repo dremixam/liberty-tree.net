@@ -1,17 +1,19 @@
 ---
-layout: article
-title: Les habitants de San Andreas se préparent à fêter le Nouvel an
-cover: "/content/images/2016/06/0_0_71.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_71.jpg
 date: '2013-12-31 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/30/les-habitants-de-san-andreas-se-preparent-a-feter-le-nouvel-an
+- /2013/12/30/les-habitants-de-san-andreas-se-preparent-a-feter-le-nouvel-an/
 tags:
 - los-santos
 - san-fierro
 - las-venturas
-redirect_from:
-  - /2013/12/30/les-habitants-de-san-andreas-se-preparent-a-feter-le-nouvel-an
+title: Les habitants de San Andreas se préparent à fêter le Nouvel an
 ---
+
 
 Comme chaque année, les fêtes de fin d’année sont synonymes d’agitation et de bénéfices pour les commerçants. Mais c’est aussi des moments de retrouvailles en famille inoubliables ; le réveillon du Nouvel an pouvant se préparer de différentes manières selon les cultures des uns et les préférences des autres.
 

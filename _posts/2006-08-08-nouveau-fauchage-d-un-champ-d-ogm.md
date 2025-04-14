@@ -1,14 +1,15 @@
 ---
-layout: article
-title: Nouveau fauchage d'un champ d'OGM
-cover: "/content/images/2005/01/EBFarm.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2005/01/EBFarm.jpg
 date: '2006-08-08 00:00:00'
+layout: article
 tags:
 - los-santos
 - san-fierro
+title: Nouveau fauchage d'un champ d'OGM
 ---
+
 
 Comment va s'y prendre Jõsé Bowen cette fois-ci,&nbsp;pour justifier la destruction par&nbsp;deux cents&nbsp;faucheurs volontaires, de trois mille&nbsp;mètres carrés de maïs génétiquement modifiés dans les alentours de&nbsp;Blueberry ! Cela fait près de cinq ans, que&nbsp;cet altermondialiste&nbsp;est connu&nbsp;pour ses actions litigieuses contre les OGM et&nbsp;contre la "malbouffe" (notamment&nbsp;incarnée&nbsp;par&nbsp;les Burger Shots). Il est aussi un membre acharné du Green party, représenté par Ralph Daner ! Les tribunaux administratifs l'ont condamné maintes et maintes fois de sorte que son casier judiciaire sera bientôt aussi remplit qu'un jeune délinquant ! Bel exemple pour un homme politique...
 

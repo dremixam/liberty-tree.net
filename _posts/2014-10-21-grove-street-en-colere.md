@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Grove Street en colère
-cover: "/content/images/2016/06/GroveStreet.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/GroveStreet.jpg
 date: '2014-10-21 00:00:00'
+layout: article
+redirect_from:
+- /2014/10/20/grove-street-en-colere
+- /2014/10/20/grove-street-en-colere/
 tags:
 - los-santos
-redirect_from:
-  - /2014/10/20/grove-street-en-colere
+title: Grove Street en colère
 ---
+
 
 _Le meurtre d'un membre des Ballas par un agent de police a mis le quartier déjà sensible de Grove Street à feu et à sang, la nuit dernière. Le gang des Ballas dénonce un meurtre raciste._
 

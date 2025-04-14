@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Une grande star de la moto de passage à Las Venturas
-cover: "/content/images/2005/01/kossi1.jpg"
 authors:
-  - gtaboss33
+- gtaboss33
+cover: /content/images/2005/01/kossi1.jpg
 date: '2006-07-27 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: Une grande star de la moto de passage à Las Venturas
 ---
+
 
 Las Venturas est avant tout la plus grande ville du jeu du continent américain. De nombreux People y passent leurs vacances au soleil.&nbsp; Mais depuis un mois, la ville s'est appropriée une nouvelle richesse : les plus grandes stars de la moto pour une course qui se déroulera au stade Blackfiel. Las Venturas est la première ville de San Andreas à accueillir les courses de moto&nbsp;tout les ans.
 

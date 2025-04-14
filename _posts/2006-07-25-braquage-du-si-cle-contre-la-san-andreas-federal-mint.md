@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Braquage du siècle contre la San Andreas Federal Mint
-cover: "/content/images/2005/01/R_serve.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2005/01/R_serve.jpg
 date: '2006-07-25 00:00:00'
+layout: article
 tags:
 - san-fierro
 - los-santos
 - las-venturas
+title: Braquage du siècle contre la San Andreas Federal Mint
 ---
+
 
 ![](/content/images/2005/01/R_serve.jpg)
 ![Photos de la San Andreas Federal Mint.](/content/images/2005/01/R_serve_2.jpg)

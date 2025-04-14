@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Liberty City s'offre un site internet
-cover: "/content/images/v1/user22/banoff.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/v1/user22/banoff.jpg
 date: '2003-03-01 11:00:00'
+layout: article
 tags:
 - liberty-city
+title: Liberty City s'offre un site internet
 ---
+
 
 En effet, la municipalité à décidé d'ouvrir un portail web vers les commerces équipés de site internet....
 

@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Comme dans un four
 authors:
-  - special-k
+- special-k
 date: '2007-09-17 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Comme dans un four
 ---
+
 
 Le centre national météorologique le confirme, au cours des quatre prochain jours le mercure va se tenir autour des 42 degré Celsius! Combiné au facteur humidex, il pourrait même franchir des sommets inégalés. Avec un peu de chance, nous pourrions recevoir quelques gouttelettes dans la nuit de jeudi à vendredi en provenance d'une petite dépression située au nord-est de l'état, mais rien n'est encore certain à cette heure-ci.
 

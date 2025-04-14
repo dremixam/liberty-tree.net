@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Recrutement intensif au Liberty Tree
-cover: "/content/images/2005/01/liberty_tree_gant_bridge.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/liberty_tree_gant_bridge.jpg
 date: '2006-09-29 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Recrutement intensif au Liberty Tree
 ---
+
 
 ![](/content/images/2005/01/newbuilding.jpg)
 

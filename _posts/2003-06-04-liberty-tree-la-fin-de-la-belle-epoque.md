@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'Liberty Tree: La fin de la belle epoque'
-cover: "/content/images/v1/user26/lt.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/v1/user26/lt.jpg
 date: '2003-06-04 10:00:00'
+layout: article
 tags:
 - liberty-city
+title: 'Liberty Tree: La fin de la belle epoque'
 ---
+
 
 Depuis l'ouverture du Vice Voice ([http://www.vice-voice.com](http://www.vice-voice.com) le journal vicien) le Liberty-Tree à perdu de sa popularité et, il risque de ne pas tarder à retourner à l'état de poussière.
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Los Santos en vrac - numéro 4
-cover: "/content/images/2005/01/logo_en_vrac.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/logo_en_vrac.jpg
 date: '2006-10-21 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Los Santos en vrac - numéro 4
 ---
+
 
 ![](/content/images/2005/01/envracnewtitle.jpg)
 

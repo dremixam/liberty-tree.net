@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Le "Tueur du bahut" enfin arrêté!
-cover: "/content/images/2005/01/college-liberty-city03.jpg"
 authors:
-  - manu
+- manu
+cover: /content/images/2005/01/college-liberty-city03.jpg
 date: '2006-07-28 00:00:00'
+layout: article
 tags:
 - liberty-city
+title: Le "Tueur du bahut" enfin arrêté!
 ---
+
 
 ![](/content/images/2005/01/college-liberty-city02.jpg)
 ![L'université Saint Matthias à Stauton Island.](/content/images/2005/01/college-liberty-city.jpg)

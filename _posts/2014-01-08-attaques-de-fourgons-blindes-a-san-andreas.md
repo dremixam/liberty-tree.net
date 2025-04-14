@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Attaques de fourgons blindés à San Andreas
-cover: "/content/images/2016/06/Fourgons6.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Fourgons6.jpg
 date: '2014-01-08 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/07/attaques-de-fourgons-blindes-a-san-andreas
+- /2014/01/07/attaques-de-fourgons-blindes-a-san-andreas/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/07/attaques-de-fourgons-blindes-a-san-andreas
+title: Attaques de fourgons blindés à San Andreas
 ---
+
 
 _Plusieurs fourgons blindés ont récemment été la cible d'attaques, un peu partout dans l'état. La plupart du temps, ce sont près de 5000 dollars qui sont dérobés par le ou les voleurs._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Enquête dans les courses clandestines
-cover: "/content/images/2016/06/Capture%20d%E2%80%99%C3%A9cran%202013-12-17%20%C3%A0%2015.57.21.png"
 authors:
-  - panpan6903
+- panpan6903
+cover: /content/images/2016/06/Capture%20d%E2%80%99%C3%A9cran%202013-12-17%20%C3%A0%2015.57.21.png
 date: '2013-12-20 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/19/enquete-dans-les-courses-clandestines
+- /2013/12/19/enquete-dans-les-courses-clandestines/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/19/enquete-dans-les-courses-clandestines
+title: Enquête dans les courses clandestines
 ---
+
 
 Aujourd’hui nous allons parler d’un sujet que peu de personnes de Los Santos connaissent, qui sont bien sûr les courses clandestines ! Organisées le soir à partir de 20 h dans certains quartiers de la ville, ces courses très rapides et dangereuses permettent à certains habitants (plutôt aisés évidemment) de prouver leurs talents le temps d’un "run".
 

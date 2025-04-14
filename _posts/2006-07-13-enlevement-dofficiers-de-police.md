@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Enlèvement d'officiers de police
 authors:
-  - canar
+- canar
 date: '2006-07-13 18:03:00'
+layout: article
 tags:
 - liberty-city
+title: Enlèvement d'officiers de police
 ---
+
 
 _Tôt dans la matinée, deux officiers des forces de l'ordre ont été enlevés lors d'un accident avec une camionnette. Explication._
 

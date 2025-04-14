@@ -1,19 +1,21 @@
 ---
-layout: article
-title: NASCAR - Le guide de la saison 2008
-cover: "/content/images/2016/06/Nascar6.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Nascar6.jpg
 date: '2007-09-04 00:00:00'
+layout: article
+redirect_from:
+- /2007/09/03/nascar-le-guide-de-la-saison-2008
+- /2007/09/03/nascar-le-guide-de-la-saison-2008/
 tags:
 - los-santos
 - san-fierro
 - liberty-city
 - vice-city
 - las-venturas
-redirect_from:
-  - /2007/09/03/nascar-le-guide-de-la-saison-2008
+title: NASCAR - Le guide de la saison 2008
 ---
+
 
 Il est 17:26, ce 26 août. Sur le circuit de Long Beach, La Chevrolet de Carello et la Dodge de Markiza se font la guerre, jusqu'à ce que l'italien cède, l'espagnol en profite alors pour semer son rival. A l'arrivée, Carello est sacré champion du monde, avec 12 points d'avance sur Enzo Markiza. Le tour d'honneur effectué, le champion du monde peut laisser éclater sa joie. Il a bien mérité ce titre : en 12 courses, Carello s'est imposé 5 fois, Markiza 3 fois, Dekra 2 fois, Di Tomason 1 fois et Marvin 1 fois également. Le NASCAR sera passé par Long Beach, Daytona, San Diego, Laguna Seca, Liberty City, Carcer City, Ludendorff, Las Venturas, Vice City, San Fierro, Washington, et enfin, le CEA Speedway. Une fois sur le podium, Fernando Carello 24 ans, succède à Enzo Markiza au titre de champion. C'est ensuite le podium de champion du monde. Toute l'écurie Chevrolet le rejoint et fête ce 2ème titre pour Chevrolet, qui avait déjà remporté la couronne mondiale en 2003 avec David Marvin. Voici le tableau du classement de cette saison :
 

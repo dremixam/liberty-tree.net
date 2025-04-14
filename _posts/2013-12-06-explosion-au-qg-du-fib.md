@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Explosion au QG du FIB
-cover: "/content/images/2016/06/0_0%20%281%29_4.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/0_0%20%281%29_4.jpg
 date: '2013-12-06 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/05/explosion-au-qg-du-fib
+- /2013/12/05/explosion-au-qg-du-fib/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/05/explosion-au-qg-du-fib
+title: Explosion au QG du FIB
 ---
+
 
 D'habitude désert après les heures de travail, le quartier des affaires de Los Santos a été particulièrement agité hier en fin de soirée. En effet, vers 22 h, un violent incendie se déclare au 45ème étage du bâtiment fédéral abritant les bureaux du FIB. En un clin d’œil, le LSPD sécurise le quartier et les pompiers arrivent dans les secondes qui suivent.
 

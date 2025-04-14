@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Émeute au stade
-cover: "/content/images/2016/06/stade3_0.jpg"
 authors:
-  - generalmike
+- generalmike
+cover: /content/images/2016/06/stade3_0.jpg
 date: '2002-06-09 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/08/emeute-au-stade
+- /2002/06/08/emeute-au-stade/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/08/emeute-au-stade
+title: Émeute au stade
 ---
+
 
 De tragiques affrontements entre hooligans ont encore une fois gâché la fête devant le stade de notre chère ville...
 

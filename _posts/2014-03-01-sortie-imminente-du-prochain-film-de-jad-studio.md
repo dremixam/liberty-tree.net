@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Sortie imminente du prochain film de Jad Studio
-cover: "/content/images/2016/06/Blood-Man_0.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Blood-Man_0.jpg
 date: '2014-03-01 00:00:00'
+layout: article
+redirect_from:
+- /2014/02/28/sortie-imminente-du-prochain-film-de-jad-studio
+- /2014/02/28/sortie-imminente-du-prochain-film-de-jad-studio/
 tags:
 - los-santos
-redirect_from:
-  - /2014/02/28/sortie-imminente-du-prochain-film-de-jad-studio
+title: Sortie imminente du prochain film de Jad Studio
 ---
+
 
 _Alors que la sortie du prochain film de Jad Studio nommé Blood-Man approche à grand pas, la bande annonce vient tout juste de sortir et nous promet un film à aller voir absolument._
 

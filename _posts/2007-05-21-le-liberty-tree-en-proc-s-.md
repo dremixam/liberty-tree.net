@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Le Liberty Tree en procès !
-cover: "/content/images/2005/01/centrevillels.jpg"
 authors:
-  - passe-partout
+- passe-partout
+cover: /content/images/2005/01/centrevillels.jpg
 date: '2007-05-21 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Le Liberty Tree en procès !
 ---
+
 
 Avant-hier, nous avons reçu cette lettre de Mr. Rosenberg, avocat de Alex Shrub, le maire de Vice City, qui nous demandait de retirer des phrases portant atteinte à la personnalité du maire. Voici la fameuse lettre :
 

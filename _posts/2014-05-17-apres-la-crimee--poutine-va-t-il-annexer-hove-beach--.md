@@ -1,16 +1,18 @@
 ---
-layout: article
-title: Après la Crimée, Poutine va-t-il annexer Hove Beach ?
-cover: "/content/images/2016/06/map.jpg"
 authors:
-  - dremixam
-date: '2014-05-17 00:00:00'
+- dremixam
 checked: true
+cover: /content/images/2016/06/map.jpg
+date: '2014-05-17 00:00:00'
+layout: article
+redirect_from:
+- /2014/05/16/apres-la-crimee-poutine-va-t-il-annexer-hove-beach
+- /2014/05/16/apres-la-crimee-poutine-va-t-il-annexer-hove-beach/
 tags:
 - liberty-city
-redirect_from:
-  - /2014/05/16/apres-la-crimee-poutine-va-t-il-annexer-hove-beach
+title: Après la Crimée, Poutine va-t-il annexer Hove Beach ?
 ---
+
 
 Alors que la situation ukrainienne semble progressivement trouver une issue en l'accaparement progressif de son territoire par la Russie, c'est une région bien plus proche de chez nous qui intéresse désormais Vladimir Poutine.
 

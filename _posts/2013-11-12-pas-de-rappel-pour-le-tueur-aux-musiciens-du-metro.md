@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Pas de rappel pour le tueur aux musiciens du métro
-cover: "/content/images/2016/06/0_0%20%2811%29_0.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/0_0%20%2811%29_0.jpg
 date: '2013-11-12 00:00:00'
+layout: article
+redirect_from:
+- /2013/11/11/pas-de-rappel-pour-le-tueur-aux-musiciens-du-metro
+- /2013/11/11/pas-de-rappel-pour-le-tueur-aux-musiciens-du-metro/
 tags:
 - los-santos
-redirect_from:
-  - /2013/11/11/pas-de-rappel-pour-le-tueur-aux-musiciens-du-metro
+title: Pas de rappel pour le tueur aux musiciens du métro
 ---
+
 
 Depuis plusieurs semaines, les cadavres se suivent et se ressemblent à la morgue du LSPD. En effet, les braves guitaristes et autres chanteurs à la petite semaine qui "égayent" le métro de notre belle ville sont la cible d'un psychopathe qui ne semble guère apprécier leur talent.
 

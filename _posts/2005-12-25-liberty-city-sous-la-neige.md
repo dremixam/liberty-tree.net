@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Liberty City sous la neige
-cover: "/content/images/2016/06/Liberty_City_sous_la_neige_1.jpg"
 authors:
-  - bart_man
+- bart_man
+cover: /content/images/2016/06/Liberty_City_sous_la_neige_1.jpg
 date: '2005-12-25 00:00:00'
+layout: article
+redirect_from:
+- /2005/12/24/liberty-city-sous-la-neige
+- /2005/12/24/liberty-city-sous-la-neige/
 tags:
 - liberty-city
-redirect_from:
-  - /2005/12/24/liberty-city-sous-la-neige
+title: Liberty City sous la neige
 ---
+
 
 _Cette année à Liberty City, les habitants ont eu le droit à de la neige pour Noël. Une chose qui n'était pas survenue depuis de nombreuses années._
 

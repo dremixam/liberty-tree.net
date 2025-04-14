@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Sondage sur l'opinion publique
 authors:
-  - max-2
+- max-2
 date: '2002-12-02 00:00:00'
+layout: article
+redirect_from:
+- /2002/12/01/sondage-sur-lopinion-publique
+- /2002/12/01/sondage-sur-lopinion-publique/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/12/01/sondage-sur-lopinion-publique
+title: Sondage sur l'opinion publique
 ---
+
 
 En ce dimanche, premier du mois de décembre, la mairie a annoncé le résultat du sondage sur la question suivante: "Sommes nous optimistes ou pessimistes ?"
 

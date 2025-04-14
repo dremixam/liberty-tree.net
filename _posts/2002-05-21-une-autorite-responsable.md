@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Une autorité responsable
 authors:
-  - silent-snipe
+- silent-snipe
 date: '2002-05-21 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/20/une-autorite-responsable
+- /2002/05/20/une-autorite-responsable/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/20/une-autorite-responsable
+title: Une autorité responsable
 ---
+
 
 Hier soir, dans le secteur du Pont Callaghan, deux automobilistes ont été interpellés par des gendarmes en état d'ivresse.
 

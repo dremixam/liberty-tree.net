@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Permis de tuer
-cover: "/content/images/2016/06/harvest_2.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/2016/06/harvest_2.jpg
 date: '2012-11-27 00:00:00'
+layout: article
+redirect_from:
+- /2012/11/26/permis-de-tuer
+- /2012/11/26/permis-de-tuer/
 tags:
 - los-santos
-redirect_from:
-  - /2012/11/26/permis-de-tuer
+title: Permis de tuer
 ---
+
 
 Alors que le maire de la ville se ridiculise une fois de plus en revenant sur [sa récente décision de fermer les ponts de la ville pour nous protéger des hordes de sauvages venus de la cote est pour nous envahir](/2005/09/12/body-harvest/), on est en droit de se demander s'il y a encore quelqu'un aux commandes. Les événements récents viennent conforter ces craintes puisque [des citoyens se permettent désormais de mettre la ville voisine de San Fierro à feu et à sang sous prétexte d'une annulation de leur série télé favorite](/2012/11/26/panique-a-san-fierro--/). On en vient rapidement à se demander si notre jeunesse n'est pas devenue folle.
 

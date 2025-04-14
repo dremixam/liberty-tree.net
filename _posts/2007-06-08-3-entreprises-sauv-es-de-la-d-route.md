@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 3 entreprises sauvées de la déroute
-cover: "/content/images/2005/01/centrevillelc.jpg"
 authors:
-  - passe-partout
+- passe-partout
+cover: /content/images/2005/01/centrevillelc.jpg
 date: '2007-06-08 00:00:00'
+layout: article
 tags:
 - liberty-city
+title: 3 entreprises sauvées de la déroute
 ---
+
 
 Plusieurs personnes disaient ces entreprises condamnées, mais devant cette détresse, un homme : Donald Frump a décidé de racheter les trois grandes boîtes les plus courtisées de Liberty-City pour une somme équivalente à 980 000 000$ au total. La mairie s'en frotte déjà les mains, mais le milliardaire aussi, car les entreprises lui doivent un taux de 0.5 %. Sur 5 ans, cette rente devrait s'élever assez haute pour dépasser les 800 000$, ce qui est déjà une très belle somme.
 

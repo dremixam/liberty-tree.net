@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'Dossier consommation: Diète-Police?'
-cover: "/content/images/2005/01/Diet_Police_titre.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/Diet_Police_titre.jpg
 date: '2006-05-18 00:00:00'
+layout: article
 tags:
 - los-santos
+title: 'Dossier consommation: Diète-Police?'
 ---
+
 
 ![](/content/images/2005/01/Diet_Police_titre.jpg)
 

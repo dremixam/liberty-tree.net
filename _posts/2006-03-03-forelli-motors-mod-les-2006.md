@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'Forelli Motors: Modèles 2006'
-cover: "/content/images/2005/01/Forelli_Excess.jpg"
 authors:
-  - the-big
+- the-big
+cover: /content/images/2005/01/Forelli_Excess.jpg
 date: '2006-03-03 00:00:00'
+layout: article
 tags:
 - liberty-city
+title: 'Forelli Motors: Modèles 2006'
 ---
+
 
  **Cette année le&nbsp;constructeur automobile Forelli n'y va pas de main morte&nbsp;aux niveau de la présentation des futures productions. La compagnie n'a ni plus ni moins présenté deux nouveaux modèles dont la troisième génération de leur célèbre Manana.**
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: En route pour le Triathlon
-cover: "/content/images/2005/01/p130barri_re.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2005/01/p130barri_re.jpg
 date: '2006-06-06 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: En route pour le Triathlon
 ---
+
 
 Tous les ans à la même époque, l'association "Jeunesse et Sport" organise, en collaboration avec le gouverneur de l'Etat, une épreuve de Triathlon. Celle-ci débute au Fisher Laggon et le grand final se situe sur la plus célèbre avenue de Las Venturas :&nbsp;The Strip.
 

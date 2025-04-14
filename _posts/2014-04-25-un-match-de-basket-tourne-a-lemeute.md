@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un match de basket tourne à l'émeute
-cover: "/content/images/2016/06/Basket.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Basket.jpg
 date: '2014-04-25 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/24/un-match-de-basket-tourne-a-lemeute
+- /2014/04/24/un-match-de-basket-tourne-a-lemeute/
 tags:
 - los-santos
-redirect_from:
-  - /2014/04/24/un-match-de-basket-tourne-a-lemeute
+title: Un match de basket tourne à l'émeute
 ---
+
 
 _Cette nuit, le match entre les Los Santos Panic et les Los Santos Saints a tourné au pugilat, à la Maze Bank Arena. Les deux clubs risquent tous deux de lourdes sanctions..._
 

@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Concours d'elegance Automobile
 authors:
-  - nelson
+- nelson
 date: '2003-03-06 13:51:00'
+layout: article
 tags:
 - liberty-city
+title: Concours d'elegance Automobile
 ---
+
 
 _La FVC, Fédération des Véhicules de Collection, organise un concours d’élégance où participent bon nombres de véhicules de Liberty-City...A vous de voter et d’élire la plus belle voiture!_
 

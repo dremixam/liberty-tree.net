@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Les rouges sont de retour
-cover: "/content/images/2005/01/Dzermine_en_compagnie_de_Fidel_Castro.jpg"
 authors:
-  - heinrich
+- heinrich
+cover: /content/images/2005/01/Dzermine_en_compagnie_de_Fidel_Castro.jpg
 date: '2006-12-11 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Les rouges sont de retour
 ---
+
 
 Depuis quelque temps, on entend beaucoup parler des mouvements communistes qui se développent dans la région de Vice City. Là bas, les communistes font beaucoup parler d’eux, mais n’ont qu’une influence ridicule et ne sont là que pour «&nbsp;distraire&nbsp;» pourrait on dire.
 

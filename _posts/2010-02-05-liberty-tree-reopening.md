@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Liberty-Tree, Reopening
 authors:
-  - civic666
+- civic666
 date: '2010-02-05 14:37:00'
+layout: article
 tags:
 - liberty-city
+title: Liberty-Tree, Reopening
 ---
+
 
 Il y a deux ans, le Liberty Tree disparaissait dans l’oubli sans que personne ne sache vraiment pourquoi. Aujourd’hui, il renaît de ses cendres et vous allez enfin pouvoir comprendre quelle suite d'événements a conduit à la disparition de deux piliers du journal puis progressivement à l’arrêt total de toute activité.
 

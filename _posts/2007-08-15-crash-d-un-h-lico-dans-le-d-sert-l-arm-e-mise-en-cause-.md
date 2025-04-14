@@ -1,11 +1,12 @@
 ---
+authors:
+- satyr
+cover: /content/images/2005/01/tourelle2_cyka.jpg
+date: '2007-08-15 00:00:00'
 layout: article
 title: Crash d'un hélico dans le désert, l'armée mise en cause.
-cover: "/content/images/2005/01/tourelle2_cyka.jpg"
-authors:
-  - satyr
-date: '2007-08-15 00:00:00'
 ---
+
 
 C'était un jour ensoleillé et paisible, une société offrait comme chaque jour ses services pour faire survoler à bas prix le désert à des touristes. Comme tous les jours, une dizaine de touristes montent dans un hélicoptère, pour vivre un moment inoubliable... Qu'ils ne pourront jamais raconter...
 

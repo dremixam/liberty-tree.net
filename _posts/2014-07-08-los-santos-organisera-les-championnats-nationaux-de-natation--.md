@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Los Santos organisera les championnats nationaux de natation !
-cover: "/content/images/2016/06/0_0%281%29_0.jpg"
 authors:
-  - titi
+- titi
+cover: /content/images/2016/06/0_0%281%29_0.jpg
 date: '2014-07-08 00:00:00'
+layout: article
+redirect_from:
+- /2014/07/07/los-santos-organisera-les-championnats-nationaux-de-natation
+- /2014/07/07/los-santos-organisera-les-championnats-nationaux-de-natation/
 tags:
 - los-santos
-redirect_from:
-  - /2014/07/07/los-santos-organisera-les-championnats-nationaux-de-natation
+title: Los Santos organisera les championnats nationaux de natation !
 ---
+
 
 _La ville de Los Santos a été désignée pour accueillir les championnats nationaux de natation au mois de décembre._
 

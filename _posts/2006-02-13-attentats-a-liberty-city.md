@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Attentats à Liberty City
-cover: "/content/images/2016/06/attentat4.jpg"
 authors:
-  - bart_man
+- bart_man
+cover: /content/images/2016/06/attentat4.jpg
 date: '2006-02-13 00:00:00'
+layout: article
+redirect_from:
+- /2006/02/12/attentats-a-liberty-city
+- /2006/02/12/attentats-a-liberty-city/
 tags:
 - liberty-city
-redirect_from:
-  - /2006/02/12/attentats-a-liberty-city
+title: Attentats à Liberty City
 ---
+
 
 _De terribles attentats ont ébranlé Staunton Island dans la journée d'hier._
 

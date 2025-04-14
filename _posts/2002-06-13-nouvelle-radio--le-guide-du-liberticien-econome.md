@@ -1,14 +1,16 @@
 ---
-layout: article
-title: 'Nouvelle radio: le guide du liberticien économe'
 authors:
-  - mot3
+- mot3
 date: '2002-06-13 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/12/nouvelle-radio-le-guide-du-liberticien-econome
+- /2002/06/12/nouvelle-radio-le-guide-du-liberticien-econome/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/12/nouvelle-radio-le-guide-du-liberticien-econome
+title: 'Nouvelle radio: le guide du liberticien économe'
 ---
+
 
 [La déclaration de Mr Enkodet](/2002/06/12/une-nouvelle-radio-sur-les-ondes-fm-de-liberty-city-/) vous a fait avaler votre café de travers ? Rassurez vous le Liberty Tree a pensé à vous et vous propose un guide pour monter tout seul votre propre radio!
 

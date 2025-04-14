@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Rapt au Liberty Tree
-cover: "/content/images/2005/01/camheinrich.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/camheinrich.jpg
 date: '2007-03-21 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Rapt au Liberty Tree
 ---
+
 
 ![](/content/images/2005/01/heinrichtitle.jpg)
 

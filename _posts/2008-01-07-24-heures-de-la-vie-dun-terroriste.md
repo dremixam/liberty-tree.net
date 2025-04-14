@@ -1,12 +1,13 @@
 ---
-layout: article
-title: 24 heures de la vie d'un terroriste.
 authors:
-  - dremixam
+- dremixam
 date: '2008-01-07 22:57:00'
+layout: article
 tags:
 - los-santos
+title: 24 heures de la vie d'un terroriste.
 ---
+
 
 _Je reprends aujourd'hui une vieille série du Liberty Tree "24 Heures de la vie de..." pour vous parler de Achmed, 22 ans, bombe humaine pour une organisation terroriste._
 

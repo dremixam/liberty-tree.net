@@ -1,13 +1,14 @@
 ---
-layout: article
-title: La terre tremble à Los Santos
-cover: "/content/images/2005/01/00-EQ-lossantos-sunrise.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/00-EQ-lossantos-sunrise.jpg
 date: '2006-10-22 00:00:00'
+layout: article
 tags:
 - los-santos
+title: La terre tremble à Los Santos
 ---
+
 
 ![Le début d'une journée mouvementée.](/content/images/2005/01/00-EQ-lossantos-sunrise.jpg)
 _Le début d'une journée mouvementée._[Épicentre à 65 km des côtes de LS.](/content/images/2005/01/00-EQ-epicentre.jpg)

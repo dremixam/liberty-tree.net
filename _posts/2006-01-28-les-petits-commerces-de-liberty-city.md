@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les petits commerces de Liberty City
-cover: "/content/images/2016/06/marchand.jpg"
 authors:
-  - weezer
+- weezer
+cover: /content/images/2016/06/marchand.jpg
 date: '2006-01-28 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/27/les-petits-commerces-de-liberty-city
+- /2006/01/27/les-petits-commerces-de-liberty-city/
 tags:
 - liberty-city
-redirect_from:
-  - /2006/01/27/les-petits-commerces-de-liberty-city
+title: Les petits commerces de Liberty City
 ---
+
 
 _Beaucoup de petits commerces peuplaient la ville de Liberty City. Kiosques, petits cafés, petits restaurants familiaux... Aujourd'hui il n'en reste rien._
 

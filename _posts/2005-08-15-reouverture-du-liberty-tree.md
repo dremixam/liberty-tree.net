@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Réouverture du Liberty Tree
-cover: "/content/images/2016/06/immeuble1.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/2016/06/immeuble1.jpg
 date: '2005-08-15 00:00:00'
+layout: article
+redirect_from:
+- /2005/08/14/reouverture-du-liberty-tree
+- /2005/08/14/reouverture-du-liberty-tree/
 tags:
 - vice-city
-redirect_from:
-  - /2005/08/14/reouverture-du-liberty-tree
+title: Réouverture du Liberty Tree
 ---
+
 
 Aujourd'hui ré-ouvre le Liberty Tree qui fut le fidèle journal des Liberticiens et qui est désormais en vente à Vice City et dans l'état de San Andreas. Retour sur un long coma de plus de deux ans et sur le réveil qui vient de survenir…
 

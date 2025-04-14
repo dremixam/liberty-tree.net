@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Maibatsu Monstrosity
-cover: "/content/images/2016/06/MaibatsuFr.jpg"
 authors:
-  - pierrealex
+- pierrealex
+cover: /content/images/2016/06/MaibatsuFr.jpg
 date: '2002-05-27 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/26/maibatsu-monstrosity
+- /2002/05/26/maibatsu-monstrosity/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/26/maibatsu-monstrosity
+title: Maibatsu Monstrosity
 ---
+
 
 C'est le nom que la société WMW avait décidé de donner à son nouveau prototype, qui a mystérieusement disparu, cette nuit...
 

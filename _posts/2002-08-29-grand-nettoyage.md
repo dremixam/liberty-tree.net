@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Grand Nettoyage
 authors:
-  - baz
+- baz
 date: '2002-08-29 00:00:00'
+layout: article
+redirect_from:
+- /2002/08/28/grand-nettoyage
+- /2002/08/28/grand-nettoyage/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/08/28/grand-nettoyage
+title: Grand Nettoyage
 ---
+
 
 Alors que la guerre des gangs entre la mafia et les triades chinoises semble sur le point d'éclater dans nos rues, l'heure est au nettoyage dans la famille Leone. La situation de crise que vie la mafia de portland, et qui la précipite vers un conflit qui pourrait lui être fatale, est due à la trahison de plusieurs personnes pourtant parmi les plus fidèles au clan du vieux Salvator Leone.
 

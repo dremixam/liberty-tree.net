@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Mystérieux accidents d'avions
-cover: "/content/images/2016/06/nevadaok1.jpg"
 authors:
-  - salvatore
+- salvatore
+cover: /content/images/2016/06/nevadaok1.jpg
 date: '2005-09-23 00:00:00'
+layout: article
+redirect_from:
+- /2005/09/22/mysterieux-accidents-davions
+- /2005/09/22/mysterieux-accidents-davions/
 tags:
 - san-fierro
-redirect_from:
-  - /2005/09/22/mysterieux-accidents-davions
+title: Mystérieux accidents d'avions
 ---
+
 
 _Hier soir, deux avions se sont écrasés au sommet du Mont Chiliad. Les causes de cette tragédie sont encore floues mais des témoignages ont fourni des renseignements intéressants._
 

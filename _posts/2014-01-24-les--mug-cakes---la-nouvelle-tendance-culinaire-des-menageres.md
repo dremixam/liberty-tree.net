@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les "mug cakes", la nouvelle tendance culinaire des ménagères
-cover: "/content/images/2016/06/0_0_101.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_101.jpg
 date: '2014-01-24 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/23/les-mug-cakes-la-nouvelle-tendance-culinaire-des-menageres
+- /2014/01/23/les-mug-cakes-la-nouvelle-tendance-culinaire-des-menageres/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/23/les-mug-cakes-la-nouvelle-tendance-culinaire-des-menageres
+title: Les "mug cakes", la nouvelle tendance culinaire des ménagères
 ---
+
 
 Fini le temps où trônait dans la cuisine pour le goûter une coupe de fruits exotiques ! Aujourd’hui, la nouvelle mode est aux mugs cakes. Il s’agit en fait d’une mode culinaire assez récente consistant à préparer un gâteau en trois minutes chrono.
 

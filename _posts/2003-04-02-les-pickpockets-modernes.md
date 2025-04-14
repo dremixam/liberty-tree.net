@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Les pickpockets modernes
 authors:
-  - max-2
+- max-2
 date: '2003-04-02 00:00:00'
+layout: article
+redirect_from:
+- /2003/04/01/les-pickpockets-modernes
+- /2003/04/01/les-pickpockets-modernes/
 tags:
 - liberty-city
-redirect_from:
-  - /2003/04/01/les-pickpockets-modernes
+title: Les pickpockets modernes
 ---
+
 
 Un nouveau métier est né: le pickpocket moderne. Ce nom n'est peut-être pas le meilleur équivalent pour ce boulot, mais l'important c'est ce qui s'en fait...
 

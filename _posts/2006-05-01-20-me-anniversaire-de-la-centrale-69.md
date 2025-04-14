@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 20ème anniversaire de la centrale 69
-cover: "/content/images/2005/01/photo.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/photo.jpg
 date: '2006-05-01 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: 20ème anniversaire de la centrale 69
 ---
+
 
 Il est 3h30 du matin quand Jerry Mac, petit propriétaire terrien,&nbsp;entend une explosion de son hôtel particulier à Las Venturas. Ce n'est rien, c'est juste la centrale 69 qui a vu un de ses réservoirs explosé. Bien sûr la centrale 69 est une&nbsp;raffinerie de pétrole&nbsp;qui a heureusement pu contenir l'explosion grâce aux énormes murs de béton datant de la guerre froide. Un problème cependant, Mr Mac habite une petite maison à Flint Country et quand il rentrera chez lui, il comprendra qu'il aurait dû regarder la télé :
 

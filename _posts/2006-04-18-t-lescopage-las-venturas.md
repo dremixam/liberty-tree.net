@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Télescopage à Las Venturas
-cover: "/content/images/2005/01/Tour_de_Contr_le.jpg"
 authors:
-  - scarface1991
+- scarface1991
+cover: /content/images/2005/01/Tour_de_Contr_le.jpg
 date: '2006-04-18 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: Télescopage à Las Venturas
 ---
+
 
 Hier matin,&nbsp;trois avions se sont percutés à l’aéroport de Las Venturas. Nous ne savons pas encore ce qui s’est passé mais d’après les résultats, les morts sont nombreux tout autant que les témoins.
 

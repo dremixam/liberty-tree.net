@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La Page des Sports
-cover: "/content/images/2016/06/basketteur_0.jpg"
 authors:
-  - bart_man
+- bart_man
+cover: /content/images/2016/06/basketteur_0.jpg
 date: '2005-12-29 00:00:00'
+layout: article
+redirect_from:
+- /2005/12/28/la-page-des-sports
+- /2005/12/28/la-page-des-sports/
 tags:
 - liberty-city
-redirect_from:
-  - /2005/12/28/la-page-des-sports
+title: La Page des Sports
 ---
+
 
 \*\*NEWS \*\*
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La société Zombotech en procès
-cover: "/content/images/2016/06/Zombotech.jpg"
 authors:
-  - bart_man
+- bart_man
+cover: /content/images/2016/06/Zombotech.jpg
 date: '2005-12-30 00:00:00'
+layout: article
+redirect_from:
+- /2005/12/29/la-societe-zombotech-en-proces
+- /2005/12/29/la-societe-zombotech-en-proces/
 tags:
 - vice-city
-redirect_from:
-  - /2005/12/29/la-societe-zombotech-en-proces
+title: La société Zombotech en procès
 ---
+
 
 _La célèbre société Zombotech est actuellement en procès avec l'Association de Défense de la Nature et de la Population de San Andreas._
 

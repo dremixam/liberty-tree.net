@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Road Trippin', 5ème edition.
-cover: "/content/images/2005/01/rtlogo.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/rtlogo.jpg
 date: '2006-08-06 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Road Trippin', 5ème edition.
 ---
+
 
 Trois filles, trois garçons enfermés dans un camping-car traversant les Etats-Unis, une élimination par semaine, tel est le concept de l'émission de télé-réalité "Road Trippin' ". Chaque année, le show phare estival d'InterGlobal TV part d'une des grandes villes de notre beau pays pour ensuite tailler la zone pendant six semaines, et c'est Los Santos qui a été choisi comme ligne de départ pour l'édition 2006.
 

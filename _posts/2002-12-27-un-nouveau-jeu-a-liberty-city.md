@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Un nouveau jeu à Liberty City
 authors:
-  - titof-abs
+- titof-abs
 date: '2002-12-27 00:00:00'
+layout: article
+redirect_from:
+- /2002/12/26/un-nouveau-jeu-a-liberty-city
+- /2002/12/26/un-nouveau-jeu-a-liberty-city/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/12/26/un-nouveau-jeu-a-liberty-city
+title: Un nouveau jeu à Liberty City
 ---
+
 
 Un nouveau 'jeu' pour les jeunes délinquants.
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Bis repetita...
-cover: "/content/images/2016/06/MortJournaliste_1.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/MortJournaliste_1.jpg
 date: '2014-07-19 00:00:00'
+layout: article
+redirect_from:
+- /2014/07/18/bis-repetita
+- /2014/07/18/bis-repetita/
 tags:
 - los-santos
-redirect_from:
-  - /2014/07/18/bis-repetita
+title: Bis repetita...
 ---
+
 
 _Hier soir, un journaliste du Liberty Tree a encore perdu la vie. Celui-ci a été abattu chez lui, à Paleto Bay. Qui sera le prochain ?_
 

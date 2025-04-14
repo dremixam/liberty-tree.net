@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Wildcats vs Bandits, ça s’organise !
 authors:
-  - dremixam
+- dremixam
 date: '2008-03-19 13:35:00'
+layout: article
 tags:
 - liberty-city
 - las-venturas
+title: Wildcats vs Bandits, ça s’organise !
 ---
+
 
 _Dimanche 23 mars, les Wildcats de Liberty City joueront contre les Bandits de Las Venturas. Nous avons enquêté sur l'organisation de ce match._
 

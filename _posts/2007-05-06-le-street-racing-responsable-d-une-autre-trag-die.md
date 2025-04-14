@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Le Street Racing responsable d'une autre tragédie
-cover: "/content/images/2005/01/Courses_-_article_title.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/Courses_-_article_title.jpg
 date: '2007-05-06 00:00:00'
+layout: article
 tags:
 - san-fierro
 - los-santos
 - las-venturas
+title: Le Street Racing responsable d'une autre tragédie
 ---
+
 
 ![« Steetracing is not a crime » Certe pas la même opinion que se font les autorités.](/content/images/2005/01/Courses_-_window_sticker.jpg)
 _« Steetracing is not a crime » Certe pas la même opinion que se font les autorités._

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les magasins cassent leurs prix à l'approche de Noël
-cover: "/content/images/2016/06/Toy_Corner_1.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2016/06/Toy_Corner_1.jpg
 date: '2005-12-18 00:00:00'
+layout: article
+redirect_from:
+- /2005/12/17/les-magasins-cassent-leurs-prix-a-lapproche-de-noel
+- /2005/12/17/les-magasins-cassent-leurs-prix-a-lapproche-de-noel/
 tags:
 - los-santos
-redirect_from:
-  - /2005/12/17/les-magasins-cassent-leurs-prix-a-lapproche-de-noel
+title: Les magasins cassent leurs prix à l'approche de Noël
 ---
+
 
 Noël arrive et les clients commencent à envahir les magasins qui chaque année proposent des prix extrêment compétitifs. Le Liberty Tree a enquêté à Los Santos.
 

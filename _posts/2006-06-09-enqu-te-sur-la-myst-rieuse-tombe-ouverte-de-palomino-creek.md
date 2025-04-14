@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Enquête sur la mystérieuse tombe ouverte de Palomino Creek
-cover: "/content/images/2005/01/La_tombe_ouverte.jpg"
 authors:
-  - vekin
+- vekin
+cover: /content/images/2005/01/La_tombe_ouverte.jpg
 date: '2006-06-09 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Enquête sur la mystérieuse tombe ouverte de Palomino Creek
 ---
+
 
 Habitant Palomino Creek depuis de nombreuses années et ayant déjà entendu parler de la fameuse tombe ouverte qui est maintenant connue dans tout l'état de San Andreas, j'ai décidé de mener une enquête pour tenter d'élucider ce mystère.  
 Mystère qui, en passant, attire toujours plus de touristes curieux dans le paisible village de Palomino Creek, Red County.

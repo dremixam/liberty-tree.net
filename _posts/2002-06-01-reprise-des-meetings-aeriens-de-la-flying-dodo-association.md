@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Reprise des meetings aériens de la Flying Dodo Association
-cover: "/content/images/2016/06/looping1_0.jpg"
 authors:
-  - rr4
+- rr4
+cover: /content/images/2016/06/looping1_0.jpg
 date: '2002-06-01 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/31/reprise-des-meetings-aeriens-de-la-flying-dodo-association
+- /2002/05/31/reprise-des-meetings-aeriens-de-la-flying-dodo-association/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/31/reprise-des-meetings-aeriens-de-la-flying-dodo-association
+title: Reprise des meetings aériens de la Flying Dodo Association
 ---
+
 
 La FDA a repris son envol hier. Les pilotes nous ont offert une représentation de prestige, les pirouettes et autres tonneaux se sont enchaînés à un rythme exaltant.
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: L’Explorateur Urbain – Numéro 3
-cover: "/content/images/2005/01/Explo_-_Photo_Titre.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/Explo_-_Photo_Titre.jpg
 date: '2006-11-20 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: L’Explorateur Urbain – Numéro 3
 ---
+
 
 ![](/content/images/2005/01/explo_-_title_no_3.jpg)
 ![](/content/images/2005/01/Explo_3_-_ghost_-_Article_-_Title.jpg)

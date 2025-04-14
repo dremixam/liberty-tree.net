@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le renouveau de Bugstars
-cover: "/content/images/2016/06/Bugstars_1.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Bugstars_1.jpg
 date: '2014-04-26 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/25/le-renouveau-de-bugstars
+- /2014/04/25/le-renouveau-de-bugstars/
 tags:
 - los-santos
-redirect_from:
-  - /2014/04/25/le-renouveau-de-bugstars
+title: Le renouveau de Bugstars
 ---
+
 
 _Au bord de la faillite il y a encore quelques semaines, Bugstars a repris des couleurs. L'entreprise de dératisation profite notamment du retour du printemps et des insectes. Mais pas que..._
 

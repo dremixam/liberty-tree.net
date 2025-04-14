@@ -1,14 +1,16 @@
 ---
-layout: article
-title: 'Technologie: distributeurs de boissons payé par natel'
 authors:
-  - max-2
+- max-2
 date: '2003-01-01 00:00:00'
+layout: article
+redirect_from:
+- /2002/12/31/technologie-distributeurs-de-boissons-paye-par-natel
+- /2002/12/31/technologie-distributeurs-de-boissons-paye-par-natel/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/12/31/technologie-distributeurs-de-boissons-paye-par-natel
+title: 'Technologie: distributeurs de boissons payé par natel'
 ---
+
 
 Imaginez-vous devant un distributeur de boissons, vous êtes alléché par ces bonnes boissons pas désaltérantes mais par malheur vous n'avez pas les quelques pièces pour vous en procurer une. Eh bien aujourd'hui, vous n'avez qu'a envoyer un SMS au numéro affiché sur le distributeur, avec comme texte ce qui est bien spécifié aussi sur le distributeur, et la facture vous est envoyé en fin de mois en somme avec toutes les autres commandes de boissons du mois.
 

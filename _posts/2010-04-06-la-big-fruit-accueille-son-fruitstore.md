@@ -1,12 +1,13 @@
 ---
-layout: article
-title: La Big Fruit accueille son FruitStore
 authors:
-  - civic666
+- civic666
 date: '2010-04-06 15:33:00'
+layout: article
 tags:
 - liberty-city
+title: La Big Fruit accueille son FruitStore
 ---
+
 
 Algonquin. Désormais, Liberty City n’est plus traitée de « has been » car étant la dernière métropole sans FruitStore. Désormais chose faite, un FruitStore a été ouvert hier sur Star Junction et Alan Webb, PDG de Fruit est venu en personne à inauguration.
 

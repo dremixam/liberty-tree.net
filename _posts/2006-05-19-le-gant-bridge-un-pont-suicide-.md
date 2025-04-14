@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Le Gant bridge, un pont à suicide ?
-cover: "/content/images/2005/01/Gant.jpg"
 authors:
-  - tabasco
+- tabasco
+cover: /content/images/2005/01/Gant.jpg
 date: '2006-05-19 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Le Gant bridge, un pont à suicide ?
 ---
+
 
 Hier encore, vers 3h du matin, un homme, Joe Lee Walter, a sauté du Gant Bridge sans élastique. Hélas; cela ressemble fort à un suicide. La chute est toujours dure, ce pont est le plus haut perché de San Andreas à une petite centaine de mètres de la mer.
 

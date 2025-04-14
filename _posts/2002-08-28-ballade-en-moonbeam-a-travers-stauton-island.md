@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Ballade en Moonbeam à travers Stauton Island
 authors:
-  - nelson
+- nelson
 date: '2002-08-28 12:12:00'
+layout: article
 tags:
 - liberty-city
+title: Ballade en Moonbeam à travers Stauton Island
 ---
+
 
 Chers lecteurs, bonjour!
 

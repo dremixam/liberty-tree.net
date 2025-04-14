@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Un pyromane sous les verrous
 authors:
-  - play2man2002
+- play2man2002
 date: '2002-05-08 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/07/un-pyromane-sous-les-verrous
+- /2002/05/07/un-pyromane-sous-les-verrous/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/07/un-pyromane-sous-les-verrous
+title: Un pyromane sous les verrous
 ---
+
 
 Jamais la famille de John Eduard n'aurait imaginé ce qui s'est produit cet après-midi, c'est à 15 H 30 que John Eduard a été arrêté par le FBI, il est accusé d'avoir allumé plusieurs incendies criminels.
 

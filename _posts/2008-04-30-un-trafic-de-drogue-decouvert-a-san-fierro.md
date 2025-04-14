@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Un trafic de drogue découvert à San Fierro
 authors:
-  - passe-partout
+- passe-partout
 date: '2008-04-30 12:58:00'
+layout: article
 tags:
 - san-fierro
+title: Un trafic de drogue découvert à San Fierro
 ---
+
 
 _Dans la matinée, après plusieurs mois de travail acharné, les policiers de San Fierro ont démantelé un réseau de trafiquants de drogue qui tentait d'écouler sa marchandise sur le sol de San Andreas._
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Le Gant Bridge, un pont devenu dangereux?
-cover: "/content/images/2005/01/Gant_Bridge_Night.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/Gant_Bridge_Night.jpg
 date: '2006-03-28 00:00:00'
+layout: article
 tags:
 - san-fierro
+title: Le Gant Bridge, un pont devenu dangereux?
 ---
+
 
 Après 30 ans d’existence serait-ce déjà la fin pour ce fleuron de l'architecture?
 

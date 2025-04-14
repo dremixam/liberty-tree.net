@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Liberty City Inter Highway
 authors:
-  - nelson
+- nelson
 date: '2003-02-21 12:38:00'
+layout: article
 tags:
 - liberty-city
+title: Liberty City Inter Highway
 ---
+
 
 _Voici la solution aux éternels embouteillages de LC._
 

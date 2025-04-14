@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Abonnement musclé
-cover: "/content/images/2016/06/gymint.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/gymint.jpg
 date: '2006-04-04 00:00:00'
+layout: article
+redirect_from:
+- /2006/04/03/abonnement-muscle
+- /2006/04/03/abonnement-muscle/
 tags:
 - los-santos
-redirect_from:
-  - /2006/04/03/abonnement-muscle
+title: Abonnement musclé
 ---
+
 
 Les habitants de Los Santos en ont assez ! Le prix des abonnements de la salle de musculation "Ganton Gym" ont une fois de plus augmentés et ce pour la 3ème fois en un mois...
 

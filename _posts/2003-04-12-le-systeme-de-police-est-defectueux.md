@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le système de police est "défectueux"
-cover: "/content/images/2016/06/default.jpg"
 authors:
-  - max-2
+- max-2
+cover: /content/images/2016/06/default.jpg
 date: '2003-04-12 00:00:00'
+layout: article
+redirect_from:
+- /2003/04/11/le-systeme-de-police-est-defectueux
+- /2003/04/11/le-systeme-de-police-est-defectueux/
 tags:
 - liberty-city
-redirect_from:
-  - /2003/04/11/le-systeme-de-police-est-defectueux
+title: Le système de police est "défectueux"
 ---
+
 
 D'après notre cher maire, le système de la police est défectueux. Pas tout le système, mais en ce qui concerne la détention des prisonnier.  
 En effet, la politique de cela n'est point évoluée : les pourchassés sont soit tués soit relâchés pour un morceau de pain sorti de la poche : des centaines voire milliers de USD cash pour le grand profit du mercanti.

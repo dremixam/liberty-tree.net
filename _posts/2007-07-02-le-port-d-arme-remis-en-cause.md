@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Le port d'arme remis en cause
-cover: "/content/images/2005/01/PORTame.jpg"
 authors:
-  - passe-partout
+- passe-partout
+cover: /content/images/2005/01/PORTame.jpg
 date: '2007-07-02 00:00:00'
+layout: article
 tags:
 - los-santos
 - san-fierro
 - las-venturas
+title: Le port d'arme remis en cause
 ---
+
 
 Depuis le début de la semaine, on peut apercevoir un peu partout dans Los Santos des petits rassemblements de manifestants contre le port d'armes à feu dans San Andreas. Ils accusent les vendeurs et distributeurs d'armes à feu et les dealers qui se prennent pour des caïds de la distribution illégale.
 

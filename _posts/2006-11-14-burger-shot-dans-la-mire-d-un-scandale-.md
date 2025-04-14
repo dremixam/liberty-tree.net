@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Burger Shot dans la mire d'un scandale!
-cover: "/content/images/2005/01/BurgerShot_-_title.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2005/01/BurgerShot_-_title.jpg
 date: '2006-11-14 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Burger Shot dans la mire d'un scandale!
 ---
+
 
 ![Publicité du Big-Shot.](/content/images/2005/01/BurgerShot_-_big-shot_poster.jpg)
 _Publicité du Big-Shot._

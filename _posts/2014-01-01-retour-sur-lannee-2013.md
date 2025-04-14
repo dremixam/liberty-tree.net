@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Retour sur l'année 2013
-cover: "/content/images/2016/06/Retrospective1.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Retrospective1.jpg
 date: '2014-01-01 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/31/retour-sur-lannee-2013
+- /2013/12/31/retour-sur-lannee-2013/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/31/retour-sur-lannee-2013
+title: Retour sur l'année 2013
 ---
+
 
 _Au lendemain des célébrations et des festivités du Nouvel An, le Liberty Tree vous présente une rétrospective de l'année écoulée. Souvenirs !_
 

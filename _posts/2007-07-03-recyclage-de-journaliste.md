@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Recyclage de journaliste
-cover: "/content/images/2005/01/recyclage.jpg"
 authors:
-  - passe-partout
+- passe-partout
+cover: /content/images/2005/01/recyclage.jpg
 date: '2007-07-03 00:00:00'
+layout: article
 tags:
 - san-fierro
 - los-santos
 - las-venturas
+title: Recyclage de journaliste
 ---
+
 
 Nous apprenons donc la mort de notre cher CJ, un journaliste qui a été recruté depuis peu mais qui n'a pas fait ses preuves... Bizarrement, sa période d'essai se terminait jeudi, et selon les seuls témoignages que nous avons, il s'agit d'un pur accident.
 

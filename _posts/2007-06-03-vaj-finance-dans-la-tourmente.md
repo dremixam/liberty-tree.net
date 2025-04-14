@@ -1,13 +1,14 @@
 ---
-layout: article
-title: VAJ Finance dans la tourmente
-cover: "/content/images/2005/01/VAJ_Logo.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2005/01/VAJ_Logo.jpg
 date: '2007-06-03 00:00:00'
+layout: article
 tags:
 - vice-city
+title: VAJ Finance dans la tourmente
 ---
+
 
 La société VAJ Finance est célèbre pour le cours élevé de ses actions. Depuis 3 ans, la société se porte à merveille et fait des bénéfices records. Mais, une situation si positive ne pouvait que cacher d'autres agissements, beaucoup moins glorieux. Il faut bien admettre que l'on commence à y être habitué dans le monde des finances. On en est plus à un scandale près. Voici donc le dernier scandale en date, celui que nous appellerons sobrement, le scandale VAJ Finance.
 

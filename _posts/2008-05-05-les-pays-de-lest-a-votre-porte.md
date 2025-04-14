@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Les pays de l'Est à votre porte
 authors:
-  - nelson
+- nelson
 date: '2008-05-05 13:22:00'
+layout: article
 tags:
 - liberty-city
+title: Les pays de l'Est à votre porte
 ---
+
 
 _Une fusillade a éclaté, hier soir, au cabaret Perestroika, faisant une quinzaine de mort, y compris Mikhail Faustin, le propriétaire des lieux. La thèse du règlement de compte est considérée comme la plus probable par le LCPD._
 

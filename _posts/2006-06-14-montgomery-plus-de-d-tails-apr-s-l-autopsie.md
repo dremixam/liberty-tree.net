@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'Montgomery : plus de détails après l''autopsie'
-cover: "/content/images/2005/01/ammu.jpg"
 authors:
-  - geonosis974
+- geonosis974
+cover: /content/images/2005/01/ammu.jpg
 date: '2006-06-14 00:00:00'
+layout: article
 tags:
 - los-santos
+title: 'Montgomery : plus de détails après l''autopsie'
 ---
+
 
 Quelques jours après le mystérieux&nbsp;meurtre ayant eu lieu dans la campagne de Red County, à Montgomery, la police retrouve les traces du criminel.
 

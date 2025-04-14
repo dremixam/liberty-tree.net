@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Guerre des gangs à Stauton
 authors:
-  - nelson
+- nelson
 date: '2002-12-26 18:25:00'
+layout: article
 tags:
 - liberty-city
+title: Guerre des gangs à Stauton
 ---
+
 
 _Il ne faisait pas bon se promener à Fort Staunton hier matin..._
 

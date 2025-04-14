@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Los Santos, ville internationale des jumeaux
 authors:
-  - nelson
+- nelson
 date: '2008-01-23 23:19:00'
+layout: article
 tags:
 - los-santos
+title: Los Santos, ville internationale des jumeaux
 ---
+
 
 _D'après une étude démographique, Los Santos serait la ville des Etats-Unis regroupant le plus de jumeaux. La rencontre annuelle "Twins of America" y a d'ailleurs lieu depuis trois ans maintenant, créant parfois des situations troublantes pour le quidam non averti..._
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Décès tragique du rappeur Doggy-Dog
-cover: "/content/images/2005/01/DD_photo_11.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/DD_photo_11.jpg
 date: '2006-04-19 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: Décès tragique du rappeur Doggy-Dog
 ---
+
 
 Encore inconnu du publique, Doggy-Dog a débuté dans le milieu de la musique après avoir remporté un concours amateur à Las Venturas en 1989. Ce n'est qu'un plus tard que sa carrière a vraiment débutée suite au succès inattendu de "Evolution". Rappelons-nous que ce tube a tenu la tête du palmarès musical durant presque un an, battant ainsi l'ancien record détenu par la chanteuse Pretty Pink avec sa pièce "Crap".
 

@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Les belles italiennes envahissent les USA
-cover: "/content/images/2005/01/Italiennes_328-F40.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2005/01/Italiennes_328-F40.jpg
 date: '2006-08-19 00:00:00'
+layout: article
 tags:
 - vice-city
 - san-fierro
 - los-santos
+title: Les belles italiennes envahissent les USA
 ---
+
 
 C'est la révolution! Les mâles virils qui peuplent nos villes (et nos campagnes) ont succombés aux charmes de ces italiennes venues d'outre-Atlantique. C'en est fini pour nos traditionnelles américaines. La lutte semble désormais vaine. Notre marché national s'effondre au profit de ces nouvelles arrivantes. Plus attirantes, plus exclusives mais aussi plus chères, elles sont devenues la cible privilégiée de nos amateurs de belles carrosseries. Car nous parlons bien d'automobile ici. Les marques italiennes de voitures de sport débarquent en masse sur notre continent. Et le succès est au rendez-vous! Les ventes ont explosées! Notamment pour les deux principaux constructeurs d'automobiles de prestige en Italie : Ferrari et Lamborghini.
 

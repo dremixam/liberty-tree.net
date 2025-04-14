@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le sénateur Newman contre la vente d'armes
-cover: "/content/images/2016/06/2_3.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/2_3.jpg
 date: '2013-12-22 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/21/le-senateur-newman-contre-la-vente-darmes
+- /2013/12/21/le-senateur-newman-contre-la-vente-darmes/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/21/le-senateur-newman-contre-la-vente-darmes
+title: Le sénateur Newman contre la vente d'armes
 ---
+
 
 ![](/content/images/2016/06/2.jpg)
 

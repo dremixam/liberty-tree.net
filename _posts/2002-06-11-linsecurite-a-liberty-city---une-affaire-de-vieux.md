@@ -1,15 +1,17 @@
 ---
-layout: article
-title: L'insécurité à Liberty city ? Une affaire de vieux
-cover: "/content/images/2016/06/PLV2_0.gif"
 authors:
-  - mot3
+- mot3
+cover: /content/images/2016/06/PLV2_0.gif
 date: '2002-06-11 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/10/linsecurite-a-liberty-city-une-affaire-de-vieux
+- /2002/06/10/linsecurite-a-liberty-city-une-affaire-de-vieux/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/10/linsecurite-a-liberty-city-une-affaire-de-vieux
+title: L'insécurité à Liberty city ? Une affaire de vieux
 ---
+
 
 L'insécurité est partout dans nos rues mais est-elle vraiment due aux gangs ou à une jeunesse rebelle? Liberty Tree vous dévoile en exclusivité le vrai visage de cette délinquance, qui n'hésite pas à utiliser les grands moyens.
 

@@ -1,14 +1,16 @@
 ---
-layout: article
-title: La délinquance ne touche pas que les jeunes
 authors:
-  - little-worm
+- little-worm
 date: '2002-05-15 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/14/la-delinquance-ne-touche-pas-que-les-jeunes
+- /2002/05/14/la-delinquance-ne-touche-pas-que-les-jeunes/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/14/la-delinquance-ne-touche-pas-que-les-jeunes
+title: La délinquance ne touche pas que les jeunes
 ---
+
 
 Depuis quelques temps, la recrudescence de crimes commis par des personnes âgées pose un sérieux problème aux autorités, et les racailles et autres ringards des cités, autrefois auteurs de ces délits, en sont maintenant les victimes.
 

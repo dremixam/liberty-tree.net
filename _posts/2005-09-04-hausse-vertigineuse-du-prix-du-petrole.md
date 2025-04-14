@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Hausse vertigineuse du prix du pétrole
-cover: "/content/images/2016/06/prix.jpg"
 authors:
-  - klem
+- klem
+cover: /content/images/2016/06/prix.jpg
 date: '2005-09-04 00:00:00'
+layout: article
+redirect_from:
+- /2005/09/03/hausse-vertigineuse-du-prix-du-petrole
+- /2005/09/03/hausse-vertigineuse-du-prix-du-petrole/
 tags:
 - vice-city
-redirect_from:
-  - /2005/09/03/hausse-vertigineuse-du-prix-du-petrole
+title: Hausse vertigineuse du prix du pétrole
 ---
+
 
 Alors que les concessionnaires automobiles connaissent un chiffre record de vente, on vient d’apprendre que le prix du baril va encore augmenter, atteignant prés de 100$ dans quelques mois.
 

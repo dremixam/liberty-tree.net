@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Sucker beatdown
 authors:
-  - nelson
+- nelson
 date: '2010-04-23 15:48:00'
+layout: article
 tags:
 - liberty-city
+title: Sucker beatdown
 ---
+
 
 Toi, oui TOI, le lecteur binoclard boutonneux aux allures de geek, fan de Space Trek, n’as tu jamais eu envie de foutre une belle branlée à ton gros costaud de voisin qui n’arrête pas de se payer ta tête, ou donner un coup de pied dans les parties intimes du beau gosse du lycée qui roule en Camaro et te ridiculise devant les filles ? Réjouis-toi, car cela est enfin possible, et sans terminer aux urgences avec un traumatisme crânien !  
 CNT, première chaîne privée du pays, lance aujourd’hui son nouveau concept de télé-réalité : Sucker Beatdown. Le concept est simple, vous connaissez, dans votre entourage, un Sucker, un emmerdeur, un type qui se croit tout permis et qui mériterait bien qu’on lui tire les oreilles ? CNT le met au défi dans une arène, face à un kick-boxeur professionnel pendant trois rounds. Mille cinq cent dollars sont mis en jeu, soit cinq-cent dollars par round. Si votre Sucker remporte le round, il remporte aussi les billets, et dans le cas contraire, l’argent vous revient.

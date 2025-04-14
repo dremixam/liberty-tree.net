@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Une journée avec la police de Los Santos
-cover: "/content/images/2016/06/0_0_233.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_233.jpg
 date: '2014-07-27 00:00:00'
+layout: article
+redirect_from:
+- /2014/07/26/une-journee-avec-la-police-de-los-santos
+- /2014/07/26/une-journee-avec-la-police-de-los-santos/
 tags:
 - los-santos
-redirect_from:
-  - /2014/07/26/une-journee-avec-la-police-de-los-santos
+title: Une journée avec la police de Los Santos
 ---
+
 
 _Immersion dans le quotidien des forces de l'ordre, toujours au service de leur patrie._
 

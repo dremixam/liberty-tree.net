@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Naufrage du Eriko
-cover: "/content/images/2016/06/naufrage.jpg"
 authors:
-  - bart_man
+- bart_man
+cover: /content/images/2016/06/naufrage.jpg
 date: '2006-01-19 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/18/naufrage-du-eriko
+- /2006/01/18/naufrage-du-eriko/
 tags:
 - san-fierro
-redirect_from:
-  - /2006/01/18/naufrage-du-eriko
+title: Naufrage du Eriko
 ---
+
 
 _Un paquebot transportant des marchandises de Pékin a fait naufrage dans la baie de San Fierro._
 

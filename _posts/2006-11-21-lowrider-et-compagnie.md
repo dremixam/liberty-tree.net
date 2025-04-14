@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Lowrider et compagnie
-cover: "/content/images/2005/01/image_titre_A2.jpg"
 authors:
-  - alive
+- alive
+cover: /content/images/2005/01/image_titre_A2.jpg
 date: '2006-11-21 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Lowrider et compagnie
 ---
+
 
 Qu'est-ce qu'un Lowrider ? Un véhicule souvent tape-à -l’œil et possédant des suspensions hydrauliques. J'ai décidé aujourd'hui de me renseigner un peu sur ces véhicules, sur les organisateurs et sur les origines de ces véhicules. Selon mes infos, les fans de Lowrider se réuniraient régulièrement vers Unity Station. Je m'en vais jusque là-bas pour me faire remballer car je n'avais pas de Lowrider. On m'indique que le garage qui monte des suspensions hydrauliques spécialement pour les Lowrider se trouve dans Willowfield. Après m'être fait indiquer le chemin, je vais chercher ma voiture et l'emmène dans ce garage nommé "Loco Low". Un type qui se fait appeler JB était posé devant l'entrée. Cet homme est le spécialiste des Lowriders.
 

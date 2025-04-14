@@ -1,12 +1,13 @@
 ---
-layout: article
-title: 'Crise chez Karin Automobile : Rappel monstre de 800 000 Dilettante'
 authors:
-  - civic666
+- civic666
 date: '2010-02-17 16:12:00'
+layout: article
 tags:
 - liberty-city
+title: 'Crise chez Karin Automobile : Rappel monstre de 800 000 Dilettante'
 ---
+
 
 Une crise touche la firme Japano-Américaine Karin Automobile. En effet, la marque rappelle pas moins de 800 000 Dilettante fabriquées entre 2006 et 2010, certains modèles équipés du GPS haut de gamme exploseraient sans raison apparente, mettant Liberty City à feu et à sang.
 

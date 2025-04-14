@@ -1,15 +1,17 @@
 ---
-layout: article
-title: '"Road''s Furious": un groupe connu des adeptes de tuning'
-cover: "/content/images/2016/06/tun.jpg"
 authors:
-  - chaos-red
+- chaos-red
+cover: /content/images/2016/06/tun.jpg
 date: '2006-02-09 00:00:00'
+layout: article
+redirect_from:
+- /2006/02/08/-roads-furious-un-groupe-connu-des-adeptes-de-tuning
+- /2006/02/08/-roads-furious-un-groupe-connu-des-adeptes-de-tuning/
 tags:
 - san-fierro
-redirect_from:
-  - /2006/02/08/-roads-furious-un-groupe-connu-des-adeptes-de-tuning
+title: '"Road''s Furious": un groupe connu des adeptes de tuning'
 ---
+
 
 _Depuis déjà quelques mois, les habitants de San Fierro ont remarqué qu'à certaines heures (principalement la nuit), des "runs" sauvages s'engagent dans les rues de "la citée polluée"... J'ai décidé d'enquêter pour en savoir plus sur ces courses de rue illégales._
 

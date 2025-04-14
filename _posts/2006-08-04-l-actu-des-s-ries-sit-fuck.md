@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'L''actu des séries : Sit/Fuck'
-cover: "/content/images/2005/01/sit_fuck.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/sit_fuck.jpg
 date: '2006-08-04 00:00:00'
+layout: article
 tags:
 - vice-city
+title: 'L''actu des séries : Sit/Fuck'
 ---
+
 
 Vous en aviez assez de regarder des navets passés en seconde partie de soirée ? De la chirurgie esthétique (boucherie plastique aussi), ça vous tente ? Oui ? Alors bienvenue dans le monde de Sit/Fuck, le pari de Love Media TV pour la rentrée. Au programme : giclée de sang, de graisse, drogue, sexe, implants mammaires et histoires familiales mis sur un scénario&nbsp;taillé comme une incision au scalpel. Les personnages ? Chris Troll et Jimmy McRamana, qui sont visiblement opposé au niveau du caractère ! L'un accepte volontiers $100 pour refaire le visage d'un gangster roumain tandis que l'autre a un comportement de robot, bourré de scrupules et s'ennuyant avec sa femme. Le lieu de toute cette bande de joyeux drilles ? Vice City, "pour son soleil et ses palmiers avant tout, pour les bolides et les filles sexy après" comme le dit souvent le producteur et créateur&nbsp;de la série, Ringad Mourfish.
 

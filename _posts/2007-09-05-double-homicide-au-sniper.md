@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Double homicide au sniper
 authors:
-  - passe-partout
+- passe-partout
 date: '2007-09-05 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Double homicide au sniper
 ---
+
 
 Hier, vers 22 h, une personne qui se promenait dans le coin était au mauvais endroit au mauvais moment. Puisque sur un des toits de Conference Center, quartier des affaires de Los Santos, un sniper qui n'hésitera pas à envoyer dans le pauvre homme trois balles dans différents points vitaux (cœur, tête et bas du ventre). La police encerclent alors les lieux du drame rapidement, mais l'histoire continue, les policiers pensant que le tireur avait fuit encerclent tranquillement la zone et là, un autre coup de feu, celui-ci pour un policier à nouveau dans un point vital. Le FBI arrive alors sur place et bloque tout le quartier et arrête tout les passants, n'importe qui pouvant être le tireur. Le blocus durera jusqu'à 4h du matin, des personnes ont même été logées sur place dans des endroits mis en place par des volontaires et des bénévoles.
 

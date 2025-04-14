@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Fusillade aux docks de Los Santos
-cover: "/content/images/2005/01/fusiilade_dock7.jpg"
 authors:
-  - passe-partout
+- passe-partout
+cover: /content/images/2005/01/fusiilade_dock7.jpg
 date: '2007-05-02 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Fusillade aux docks de Los Santos
 ---
+
 
 ![Les entrepôts de l'armée](/content/images/2005/01/fusiilade_dock7.jpg)
 _Les entrepôts de l'armée_

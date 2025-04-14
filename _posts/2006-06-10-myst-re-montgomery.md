@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Mystère à Montgomery
-cover: "/content/images/2005/01/camion_1.jpg"
 authors:
-  - geonosis974
+- geonosis974
+cover: /content/images/2005/01/camion_1.jpg
 date: '2006-06-10 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Mystère à Montgomery
 ---
+
 
 4 heures du matin, la police reçoit un appel de M. Richards, résidant à Montgomery. Celui-ci se plaint d'une fourgonnette garée au bord de la route et gênant la circulation devant sa propriété. Les klaxons assourdissants des voitures l'auraient apparemment réveillé. Arrivée sur les lieux, la police inspecte le véhicule mais ne trouve personne à l'intérieur.
 

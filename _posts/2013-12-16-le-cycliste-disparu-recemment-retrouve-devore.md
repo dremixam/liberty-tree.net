@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le cycliste disparu récemment rétrouvé dévoré
-cover: "/content/images/2016/06/0_0_48.jpg"
 authors:
-  - ale-cendre
+- ale-cendre
+cover: /content/images/2016/06/0_0_48.jpg
 date: '2013-12-16 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/15/le-cycliste-disparu-recemment-retrouve-devore
+- /2013/12/15/le-cycliste-disparu-recemment-retrouve-devore/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/15/le-cycliste-disparu-recemment-retrouve-devore
+title: Le cycliste disparu récemment rétrouvé dévoré
 ---
+
 
 Le cycliste qui avait disparu il y a quelques jours alors qu'il était parti faire du V.T.T. a été retrouvé sans vie ce matin, son corps couvert de morsures.
 

@@ -1,17 +1,19 @@
 ---
-layout: article
-title: Remise du Five Stars Dealer Price hier.
-cover: "/content/images/2016/06/dmv14_0.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/dmv14_0.jpg
 date: '2006-09-01 00:00:00'
+layout: article
+redirect_from:
+- /2006/08/31/remise-du-five-stars-dealer-price-hier
+- /2006/08/31/remise-du-five-stars-dealer-price-hier/
 tags:
 - los-santos
 - las-venturas
 - san-fierro
-redirect_from:
-  - /2006/08/31/remise-du-five-stars-dealer-price-hier
+title: Remise du Five Stars Dealer Price hier.
 ---
+
 
 Le DMV, Department of Motor Vehicles, remettait hier le prestigieux Five Stars Dealer Price destiné à récompenser les meilleurs vendeurs de véhicules d'occasion de l'Etat de San Andreas. Pour remettre ce prix, le DMV se base sur des critères comme les facilités de paiement (85% des Américains achètent leurs véhicules d'occasion à crédit), l'accueil, la compétence du vendeur, mais aussi la propreté de l'établissement, l’état général des véhicules, etc... Pas moins de deux-cent concurrents prétendaient au titre, mais seulement trois, contre cinq l'an dernier, ont remplis le cahier des charges de la DMV. Un titre décerné par ville, Coutt & Schutz Pre-Owned Supercenter, $hody's Used Autos et Wang Cars, respectivement établis à Los Santos, Las Venturas et San Fierro. Le Liberty Tree était présent lors de la remise des prix, nous permettant ainsi de vous faire un petit récapitulatif de chaque vainqueur.
 

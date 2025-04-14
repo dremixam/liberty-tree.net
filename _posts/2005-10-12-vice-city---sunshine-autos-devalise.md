@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Vice City : Sunshine Autos dévalisé'
-cover: "/content/images/2016/06/sunshine_oto.jpg"
 authors:
-  - mike-andrew
+- mike-andrew
+cover: /content/images/2016/06/sunshine_oto.jpg
 date: '2005-10-12 00:00:00'
+layout: article
+redirect_from:
+- /2005/10/11/vice-city-sunshine-autos-devalise
+- /2005/10/11/vice-city-sunshine-autos-devalise/
 tags:
 - vice-city
-redirect_from:
-  - /2005/10/11/vice-city-sunshine-autos-devalise
+title: 'Vice City : Sunshine Autos dévalisé'
 ---
+
 
 _Le célèbre concessionnaire auto de Vice City a été cambriolé dans la nuit de samedi à dimanche, le gérant et ses employés sont encore sous le choc..._
 

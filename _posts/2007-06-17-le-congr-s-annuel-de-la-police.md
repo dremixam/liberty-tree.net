@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Le congrès annuel de la police
-cover: "/content/images/2005/01/flicanuel.jpg"
 authors:
-  - passe-partout
+- passe-partout
+cover: /content/images/2005/01/flicanuel.jpg
 date: '2007-06-17 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Le congrès annuel de la police
 ---
+
 
 Le congrès se tiendra du 20 au 27 Juin, à la salle des expositions de San Fierro. Nous avons saisi l'occasion de rencontrer les personnalités importantes du monde de la politique à San Andreas. Malheureusement, certaines personnes comme le gouverneur, les maires de Los Santos et de Las Venturas seront absentes, leur emploi du temps ne leur permettant pas de venir. Ce congrès est aussi l'opportunité de faire le bilan Janvier-Mai du taux de criminalité à San Andreas.
 

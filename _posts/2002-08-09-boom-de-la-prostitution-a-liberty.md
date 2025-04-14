@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Boom de la prostitution à Liberty
 authors:
-  - max-2
+- max-2
 date: '2002-08-09 00:00:00'
+layout: article
+redirect_from:
+- /2002/08/08/boom-de-la-prostitution-a-liberty
+- /2002/08/08/boom-de-la-prostitution-a-liberty/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/08/08/boom-de-la-prostitution-a-liberty
+title: Boom de la prostitution à Liberty
 ---
+
 
 La prostitution a augmenté sec à Liberty City, les maquereaux se remplissent les poches, les prostituées aussi et le client est content, c'est LA bonne affaire!
 

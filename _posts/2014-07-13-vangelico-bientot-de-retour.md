@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Vangelico bientôt de retour
-cover: "/content/images/2016/06/Vangelico_1.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Vangelico_1.jpg
 date: '2014-07-13 00:00:00'
+layout: article
+redirect_from:
+- /2014/07/12/vangelico-bientot-de-retour
+- /2014/07/12/vangelico-bientot-de-retour/
 tags:
 - los-santos
-redirect_from:
-  - /2014/07/12/vangelico-bientot-de-retour
+title: Vangelico bientôt de retour
 ---
+
 
 _Près d'un an après un violent braquage l'ayant contraint à la fermeture, la bijouterie Vangelico de Los Santos s'apprête à rouvrir ses portes au public._
 

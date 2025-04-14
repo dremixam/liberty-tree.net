@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Une nouvelle tuile s’abat sur la Brown Streak Railroad
-cover: "/content/images/2005/01/derail_-_brown_streak_logo.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/derail_-_brown_streak_logo.jpg
 date: '2006-07-24 00:00:00'
+layout: article
 tags:
 - san-fierro
+title: Une nouvelle tuile s’abat sur la Brown Streak Railroad
 ---
+
 
 Le mauvais sort s'acharne à nouveau sur la Brown Streak Railroad qui devrait songer à modifier son slogan pour "GO FOR THE BAD LUCK"! Un deuxième déraillement qui vient s'ajouter au palmarès peu reluisant de l'entreprise.
 

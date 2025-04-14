@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Zombotech acquitté !
-cover: "/content/images/2016/06/Tribunal.jpg"
 authors:
-  - bart_man
+- bart_man
+cover: /content/images/2016/06/Tribunal.jpg
 date: '2006-01-29 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/28/zombotech-acquitte
+- /2006/01/28/zombotech-acquitte/
 tags:
 - san-fierro
-redirect_from:
-  - /2006/01/28/zombotech-acquitte
+title: Zombotech acquitté !
 ---
+
 
 _Suite au procès entre l'ADNPSA et la société Zombotech, le jury vient d'acquitter la firme de San Fierro._
 

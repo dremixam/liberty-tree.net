@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Essai du Taxi Car
 authors:
-  - nelson
+- nelson
 date: '2002-11-06 16:39:00'
+layout: article
 tags:
 - liberty-city
+title: Essai du Taxi Car
 ---
+
 
 ![Today's car](/content/images/2016/07/previewtaxi.jpg)
 _Today's car_

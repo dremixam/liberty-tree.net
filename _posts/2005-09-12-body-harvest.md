@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Body Harvest
-cover: "/content/images/2016/06/harvest.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2016/06/harvest.jpg
 date: '2005-09-12 00:00:00'
+layout: article
+redirect_from:
+- /2005/09/11/body-harvest
+- /2005/09/11/body-harvest/
 tags:
 - las-venturas
-redirect_from:
-  - /2005/09/11/body-harvest
+title: Body Harvest
 ---
+
 
 Hier, tôt dans la matinée, un homme a volé une moissonneuse batteuse et l'a utilisé pour réaliser un véritable carnage dans Las Venturas…
 

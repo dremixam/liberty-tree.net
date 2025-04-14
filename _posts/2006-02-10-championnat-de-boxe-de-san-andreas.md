@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Championnat de Boxe de San Andreas
-cover: "/content/images/2016/06/Boxeur.jpg"
 authors:
-  - bart_man
+- bart_man
+cover: /content/images/2016/06/Boxeur.jpg
 date: '2006-02-10 00:00:00'
+layout: article
+redirect_from:
+- /2006/02/09/championnat-de-boxe-de-san-andreas
+- /2006/02/09/championnat-de-boxe-de-san-andreas/
 tags:
 - vice-city
-redirect_from:
-  - /2006/02/09/championnat-de-boxe-de-san-andreas
+title: Championnat de Boxe de San Andreas
 ---
+
 
 _Le championnat de boxe de San Andreas s'est terminé il y a peu. Retour sur une compétition riche en surprises._
 

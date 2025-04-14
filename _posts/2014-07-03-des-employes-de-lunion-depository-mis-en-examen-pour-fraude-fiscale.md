@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Des employés de l'Union Depository mis en examen pour fraude fiscale
-cover: "/content/images/2016/06/0_0%281%29.jpg"
 authors:
-  - titi
+- titi
+cover: /content/images/2016/06/0_0%281%29.jpg
 date: '2014-07-03 00:00:00'
+layout: article
+redirect_from:
+- /2014/07/02/des-employes-de-lunion-depository-mis-en-examen-pour-fraude-fiscale
+- /2014/07/02/des-employes-de-lunion-depository-mis-en-examen-pour-fraude-fiscale/
 tags:
 - los-santos
-redirect_from:
-  - /2014/07/02/des-employes-de-lunion-depository-mis-en-examen-pour-fraude-fiscale
+title: Des employés de l'Union Depository mis en examen pour fraude fiscale
 ---
+
 
 _Cinq employés de l'Union Depository ont été mis en examen pour une affaire qui n'aurait jamais été découverte sans un récent braquage..._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Comparatif : Deux nouvelles "grandes" bombes'
-cover: "/content/images/2016/06/cls1.jpg"
 authors:
-  - civic666
+- civic666
+cover: /content/images/2016/06/cls1.jpg
 date: '2005-10-18 00:00:00'
+layout: article
+redirect_from:
+- /2005/10/17/comparatif-deux-nouvelles-grandes-bombes
+- /2005/10/17/comparatif-deux-nouvelles-grandes-bombes/
 tags:
 - vice-city
-redirect_from:
-  - /2005/10/17/comparatif-deux-nouvelles-grandes-bombes
+title: 'Comparatif : Deux nouvelles "grandes" bombes'
 ---
+
 
 _Nous allons tester deux nouveautés : La Sentinelle V12 et la Mercedes CLS 500. Laquelle nous marquera le plus ?_
 

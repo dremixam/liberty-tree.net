@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Les vacanciers se serrent la ceinture
-cover: "/content/images/2005/01/VCIA.jpg"
 authors:
-  - pyro
+- pyro
+cover: /content/images/2005/01/VCIA.jpg
 date: '2006-09-10 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Les vacanciers se serrent la ceinture
 ---
+
 
 Les vacanciers se serrent la ceinture. Fini le farniente sous les cocotiers qui plombe le budget. Plus des deux tiers de nos concitoyens préfèrent rester sur San Andreas. Bonne nouvelle pour les professionnels du tourisme ?&nbsp;Hé bien, pas vraiment. Si les habitants de San Andreas sont plus nombreux&nbsp;à voyager dans le pays, ils sont aussi beaucoup plus avaricieux&nbsp;: Cet été, on se complet dans l’économie. Les petits budgets progressent à grands pas, alors que&nbsp;«&nbsp;les extras&nbsp;» se font de plus en plus rares !&nbsp;Parmi ceux qui sont partis, ils sont 19% a avoir budgété moins de 260$ par personne (contre 14% en 2005),&nbsp;et 25% plus de 500$ par personne (38% l’an dernier) selon une étude des statistiques de l’office de tourisme de San Andreas !
 

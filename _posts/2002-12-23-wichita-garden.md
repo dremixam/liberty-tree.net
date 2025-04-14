@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Wichita Garden
-cover: "/content/images/v1/user25/ganghoods.jpg"
 authors:
-  - flo
+- flo
+cover: /content/images/v1/user25/ganghoods.jpg
 date: '2002-12-23 00:00:00'
+layout: article
+redirect_from:
+- /2002/12/23/wichita-garden
+- /2002/12/23/wichita-garden/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/12/23/wichita-garden
+title: Wichita Garden
 ---
+
 
 Hier soir, j'ai fait une descente chez les hoods et j'ai pu tirer des infos.
 

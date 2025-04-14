@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Morning Heat
-cover: "/content/images/2005/01/alpinelogo.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/alpinelogo.jpg
 date: '2006-04-20 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Morning Heat
 ---
+
 
 Downtown Los Santos, 8:00 AM, hier. Le quartier se remplit doucement de ses businessmen pressés, de ses vendeurs ambulants et de ses autres acteurs quotidiens faisant la pluie et le beau temps dans l’état.
 

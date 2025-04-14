@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le cimetière de Liberty City
-cover: "/content/images/v1/user20/cimetiere.jpg"
 authors:
-  - max-2
+- max-2
+cover: /content/images/v1/user20/cimetiere.jpg
 date: '2003-03-24 00:00:00'
+layout: article
+redirect_from:
+- /2003/03/23/le-cimetiere-de-liberty-city
+- /2003/03/23/le-cimetiere-de-liberty-city/
 tags:
 - liberty-city
-redirect_from:
-  - /2003/03/23/le-cimetiere-de-liberty-city
+title: Le cimetière de Liberty City
 ---
+
 
 Le cimetière de Liberty City est étranger pour la majorité des habitants. Ceci n'est pas le fruit du hasard, car ce cimetière est plein à 41 places (largement occupées). La mairie vend au plus offrant la tombe. Aux alentours considérables de 100 000 $. En oubliant la taxe annuelle de 15% par rapport à la valeur de la tombe, notamment pour avoir le droit d'y reposer, et d'y faire de la "pub". Bien évidemment, que les bourgeois ont une place là- bas.
 

@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Braquage sanglant à la station service
 authors:
-  - fanofrpg
+- fanofrpg
 date: '2002-05-16 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/15/braquage-sanglant-a-la-station-service
+- /2002/05/15/braquage-sanglant-a-la-station-service/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/15/braquage-sanglant-a-la-station-service
+title: Braquage sanglant à la station service
 ---
+
 
 Après avoir fait le plein, deux hommes ont braqué le pompiste de la station-service de Portland dans le quartier de Hardwood. Bilan: 2 blessés dont 1 grave!
 

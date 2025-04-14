@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Descente au QG des Yakuzas
-cover: "/content/images/2016/06/LogoYakuza.jpg"
 authors:
-  - pierrealex
+- pierrealex
+cover: /content/images/2016/06/LogoYakuza.jpg
 date: '2002-05-21 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/20/descente-au-qg-des-yakuzas
+- /2002/05/20/descente-au-qg-des-yakuzas/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/20/descente-au-qg-des-yakuzas
+title: Descente au QG des Yakuzas
 ---
+
 
 Le quartier général des Yakuzas, présent à Liberty City, s'établirait au casino de Kenji, sur l'île de Staunton. Le FBI y ayant fait une descente le jour de sa fermeture hebdomadaire, nous sommes donc dans l'impossibilité de confirmer ces dires mais de nombreuses pistes semblent y mener. En effet, un homme actuellement inconnu des services de police, semble s'y rendre souvent, puis aller à des lieux où sont commis des faits contraires à la législation. Il est à noter que ce ne sont pas des affirmations mais juste des hypothèses, cet homme n'ayant pas donné de nouvelles de lui depuis un certain temps.
 

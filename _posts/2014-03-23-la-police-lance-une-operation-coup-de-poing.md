@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La police lance une opération coup de poing
-cover: "/content/images/2016/06/18_1.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/18_1.jpg
 date: '2014-03-23 00:00:00'
+layout: article
+redirect_from:
+- /2014/03/22/la-police-lance-une-operation-coup-de-poing
+- /2014/03/22/la-police-lance-une-operation-coup-de-poing/
 tags:
 - los-santos
-redirect_from:
-  - /2014/03/22/la-police-lance-une-operation-coup-de-poing
+title: La police lance une opération coup de poing
 ---
+
 
 _Des mesures sont en projet contre les combats clandestins qui font de graves victimes et génèrent de l'argent sale. Enquête sur cette violente économie souterraine._
 

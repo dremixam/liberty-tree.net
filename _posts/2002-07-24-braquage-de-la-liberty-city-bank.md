@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Braquage de la Liberty City Bank
 authors:
-  - little-worm
+- little-worm
 date: '2002-07-24 00:00:00'
+layout: article
+redirect_from:
+- /2002/07/23/braquage-de-la-liberty-city-bank
+- /2002/07/23/braquage-de-la-liberty-city-bank/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/07/23/braquage-de-la-liberty-city-bank
+title: Braquage de la Liberty City Bank
 ---
+
 
 Un braquage que l'on croyait impossible s'est déroulé aujourd'hui pour la deuxième fois.
 

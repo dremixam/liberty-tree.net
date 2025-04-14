@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Une opération qui a du cœur
-cover: "/content/images/2016/06/WestdykeMemorialHospital-GTA4-exterior.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/WestdykeMemorialHospital-GTA4-exterior.jpg
 date: '2014-04-02 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/01/une-operation-qui-a-du-coeur
+- /2014/04/01/une-operation-qui-a-du-coeur/
 tags:
 - liberty-city
-redirect_from:
-  - /2014/04/01/une-operation-qui-a-du-coeur
+title: Une opération qui a du cœur
 ---
+
 
 _Hier à Liberty City, un premier cœur artificiel a été implanté dans un patient, le sauvant ainsi d'une mort certaine..._
 

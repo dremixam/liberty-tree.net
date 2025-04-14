@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'Pompiers: le torchon brûle avec la mairie'
-cover: "/content/images/2005/01/pompiers.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/2005/01/pompiers.jpg
 date: '2005-11-21 00:00:00'
+layout: article
 tags:
 - los-santos
+title: 'Pompiers: le torchon brûle avec la mairie'
 ---
+
 
 Il est 8h30 ce matin, la maison de Mrs Stevenson près de Las Colinas est en feu. Des centaines d'incendies comme celui-ci font rage au même moment dans la ville et rien ne pourra plus les arrêter désormais. En effet, le chef des pompiers l'a annoncé hier soir, tous les camions anti-incendie de Los Santos resteront au garage aujourd'hui.
 

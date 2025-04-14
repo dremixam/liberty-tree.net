@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Maibatsu City Kart, le kart pour tous
 authors:
-  - nelson
+- nelson
 date: '2003-03-18 14:16:00'
+layout: article
 tags:
 - liberty-city
+title: Maibatsu City Kart, le kart pour tous
 ---
+
 
 Le constructeur auto Maibatsu sort en cette veille de printemps le CityKart, premier kart à monter soit-même et homologué pour rouler sur route.  
 Le CityKart mesure 1.80 mètres de long et 90 cm de large pour un poids total de 36 kg avec le plein, le tout propulsé par un moteur 125 cm² développant...180 chevaux !  

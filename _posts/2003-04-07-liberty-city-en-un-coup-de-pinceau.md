@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Liberty City en un coup de pinceau
 authors:
-  - nelson
+- nelson
 date: '2003-04-07 13:39:00'
+layout: article
 tags:
 - liberty-city
+title: Liberty City en un coup de pinceau
 ---
+
 
 Qui ne connait pas le nom d'Yvan Moloskovich, célèbre peintre Libertycien...  
 Artiste dont le sujet favori est l’environnement et la nature, Yvan s'attaque aujourd'hui à un morceau de béton : Liberty City.

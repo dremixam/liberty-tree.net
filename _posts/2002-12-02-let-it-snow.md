@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Let it snow !
 authors:
-  - nelson
+- nelson
 date: '2002-12-02 17:15:00'
+layout: article
 tags:
 - liberty-city
+title: Let it snow !
 ---
+
 
 _Une surprise de taille attendait nos chers habitants de Liberty-City ce matin..._
 

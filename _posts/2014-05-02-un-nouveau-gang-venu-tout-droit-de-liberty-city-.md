@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un nouveau gang venu tout droit de Liberty City
-cover: "/content/images/2016/06/GTAIV_shot09_1080p.jpg"
 authors:
-  - aymar
+- aymar
+cover: /content/images/2016/06/GTAIV_shot09_1080p.jpg
 date: '2014-05-02 00:00:00'
+layout: article
+redirect_from:
+- /2014/05/01/un-nouveau-gang-venu-tout-droit-de-liberty-city
+- /2014/05/01/un-nouveau-gang-venu-tout-droit-de-liberty-city/
 tags:
 - los-santos
-redirect_from:
-  - /2014/05/01/un-nouveau-gang-venu-tout-droit-de-liberty-city
+title: Un nouveau gang venu tout droit de Liberty City
 ---
+
 
 _Après les familles de Grove Street, les Ballas et les Vagos, un certain gang du nom des Hot Boyz a fait son apparition à Los Santos..._
 

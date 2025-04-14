@@ -1,14 +1,15 @@
 ---
-layout: article
-title: Sabotage en pleine mer
-cover: "/content/images/2005/01/BIM.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2005/01/BIM.jpg
 date: '2006-06-22 00:00:00'
+layout: article
 tags:
 - liberty-city
 - los-santos
+title: Sabotage en pleine mer
 ---
+
 
 Voici une des branches de la police dont on parle peu :&nbsp;la brigade marine. Il faut avouer que les poursuites en bateaux sont plutôt rares et les malfrats utilisent maintenant des techniques bien plus modernes que de passer par la mer, pour échapper à la vigilance des forces de l'ordre.
 

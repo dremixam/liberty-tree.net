@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Incendie au Caligula's Casino
-cover: "/content/images/2016/06/fire.jpg"
 authors:
-  - jil-90
+- jil-90
+cover: /content/images/2016/06/fire.jpg
 date: '2005-11-13 00:00:00'
+layout: article
+redirect_from:
+- /2005/11/12/incendie-au-caligulas-casino
+- /2005/11/12/incendie-au-caligulas-casino/
 tags:
 - los-santos
-redirect_from:
-  - /2005/11/12/incendie-au-caligulas-casino
+title: Incendie au Caligula's Casino
 ---
+
 
 _Un incendie a ravagé hier le célèbre casino de la capitale du jeu._
 

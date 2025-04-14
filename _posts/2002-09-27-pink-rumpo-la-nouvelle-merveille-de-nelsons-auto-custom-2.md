@@ -1,12 +1,13 @@
 ---
-layout: article
-title: 'Pink Rumpo : La nouvelle merveille de NelsoN''s Auto Custom'
 authors:
-  - nelson
+- nelson
 date: '2002-09-27 14:26:00'
+layout: article
 tags:
 - liberty-city
+title: 'Pink Rumpo : La nouvelle merveille de NelsoN''s Auto Custom'
 ---
+
 
 ![Today's car](/content/images/2016/07/PinkRumpo.jpg)
 _Today's car_

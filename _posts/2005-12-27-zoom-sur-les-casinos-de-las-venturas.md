@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Zoom sur les casinos de Las Venturas
-cover: "/content/images/2016/06/Visage_0.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2016/06/Visage_0.jpg
 date: '2005-12-27 00:00:00'
+layout: article
+redirect_from:
+- /2005/12/26/zoom-sur-les-casinos-de-las-venturas
+- /2005/12/26/zoom-sur-les-casinos-de-las-venturas/
 tags:
 - las-venturas
-redirect_from:
-  - /2005/12/26/zoom-sur-les-casinos-de-las-venturas
+title: Zoom sur les casinos de Las Venturas
 ---
+
 
 _Quelle joie en cette période de fête de voir toutes les vitrines illuminées. Mais à Las Venturas, la ville est illuminée toute l'année grâce aux nombreux casinos qui sont peu à peu devenus l'emblème de la ville._
 

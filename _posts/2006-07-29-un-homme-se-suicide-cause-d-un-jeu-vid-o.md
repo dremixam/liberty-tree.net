@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Un homme se suicide à cause d'un jeu vidéo
-cover: "/content/images/2005/01/Otaku.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2005/01/Otaku.jpg
 date: '2006-07-29 00:00:00'
+layout: article
 tags:
 - liberty-city
+title: Un homme se suicide à cause d'un jeu vidéo
 ---
+
 
 "Les jeux vidéo sont un danger pour la nation toute entière!" martèle depuis plusieurs mois une sénatrice de l'état de Liberty City. Hélas il semblerait bien qu'un incident lui donne raison. Un jeune homme a mis fin à ses jours hier en sautant du haut d'un immeuble de plus de 200m de haut en plein cœur de Downtown. Nous passerons outre les détails sur le corps du malheureux, celui-ci étant méconnaissable. Un spectacle affreux pour les pauvres témoins qui ont assisté à la scène bien malgré eux. Un passant raconte :
 

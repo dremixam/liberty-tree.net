@@ -1,17 +1,19 @@
 ---
-layout: article
-title: Meurtre à Angel Pine
-cover: "/content/images/2016/06/gallery16.jpg"
 authors:
-  - misterred
+- misterred
+cover: /content/images/2016/06/gallery16.jpg
 date: '2012-09-03 00:00:00'
+layout: article
+redirect_from:
+- /meurtre-à-angel-pine
+- /meurtre-à-angel-pine/
 tags:
 - los-santos
 - las-venturas
 - san-fierro
-redirect_from:
-  - /meurtre-à-angel-pine
+title: Meurtre à Angel Pine
 ---
+
 
 Mike Travis, 32 ans, bûcheron et fervent catholique depuis sa tendre enfance a été assassiné cette nuit aux alentours de 2 heures du matin à Angel Pine, Whetstone, San Andreas.
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Un homme d'affaire se suicide dans sa villa
-cover: "/content/images/2005/01/atterven_suicide-marcus.jpg"
 authors:
-  - gtaboss33
+- gtaboss33
+cover: /content/images/2005/01/atterven_suicide-marcus.jpg
 date: '2006-08-18 18:46:00'
+layout: article
 tags:
 - los-santos
+title: Un homme d'affaire se suicide dans sa villa
 ---
+
 
 _Le célèbre Marcus Nood a mis fin à ses jours à l'âge de 45 ans, hier matin dans sa villa de Mulholland à Los Santos. Hommage à un homme qui a crée les plus grandes boîtes de nuits des USA..._
 

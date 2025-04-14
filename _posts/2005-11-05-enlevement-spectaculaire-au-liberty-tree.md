@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Enlèvement spectaculaire au Liberty Tree
-cover: "/content/images/2016/06/enlevement.jpg"
 authors:
-  - salvatore
+- salvatore
+cover: /content/images/2016/06/enlevement.jpg
 date: '2005-11-05 00:00:00'
+layout: article
+redirect_from:
+- /2005/11/04/enlevement-spectaculaire-au-liberty-tree
+- /2005/11/04/enlevement-spectaculaire-au-liberty-tree/
 tags:
 - los-santos
-redirect_from:
-  - /2005/11/04/enlevement-spectaculaire-au-liberty-tree
+title: Enlèvement spectaculaire au Liberty Tree
 ---
+
 
 _Jeudi matin a eu lieu un enlèvement rocambolesque dans les locaux du Liberty Tree. C'est notre rédacteur en chef (Maxou) en personne qui a été la cible d'un enlèvement. Récit et dénouement de cet événement qui a tenu en haleine l'ensemble du personnel du journal._
 

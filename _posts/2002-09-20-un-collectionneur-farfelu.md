@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Un collectionneur farfelu
 authors:
-  - fxbt
+- fxbt
 date: '2002-09-20 00:00:00'
+layout: article
+redirect_from:
+- /2002/09/19/un-collectionneur-farfelu
+- /2002/09/19/un-collectionneur-farfelu/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/09/19/un-collectionneur-farfelu
+title: Un collectionneur farfelu
 ---
+
 
 Hier, alors qu'elle cherchait un endroit tranquille pour exercer sa profession, Mlle L. a remarqué de la lumière dans un garage, intriguée, elle s'est dirigée vers la porte de ce garage qui était restée entrouverte, et là, quelle ne fut pas sa stupeur de voir pas moins de trois voiture du FBI entreposées.
 

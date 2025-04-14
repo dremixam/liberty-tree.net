@@ -1,15 +1,16 @@
 ---
-layout: article
-title: La concession du Liberty Tree !
-cover: "/content/images/2005/01/LTconcessionst.jpg"
 authors:
-  - passe-partout
+- passe-partout
+cover: /content/images/2005/01/LTconcessionst.jpg
 date: '2007-08-13 00:00:00'
+layout: article
 tags:
 - los-santos
 - san-fierro
 - las-venturas
+title: La concession du Liberty Tree !
 ---
+
 
 Nous vous présenterons dans cette édition :
 

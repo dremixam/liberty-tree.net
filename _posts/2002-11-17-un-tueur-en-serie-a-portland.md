@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Un tueur en série à Portland
 authors:
-  - fxbt
+- fxbt
 date: '2002-11-17 00:00:00'
+layout: article
+redirect_from:
+- /2002/11/16/un-tueur-en-serie-a-portland
+- /2002/11/16/un-tueur-en-serie-a-portland/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/11/16/un-tueur-en-serie-a-portland
+title: Un tueur en série à Portland
 ---
+
 
 "On peut effectivement dire qu'il y a un tueur en série en ville" telles étaient les paroles du chef Kunnigan ce matin lors de la découverte du troisième corps d'une prostitué à Portland, cette fois, dans le quartier du port.
 

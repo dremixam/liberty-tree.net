@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Quand les écolos vont au fast-food...
 authors:
-  - fido_le_muet
+- fido_le_muet
 date: '2007-10-27 21:41:00'
+layout: article
 tags:
 - los-santos
+title: Quand les écolos vont au fast-food...
 ---
+
 
 _Vous vous êtes sûrement toujours demandé ce qui arrive lorsque des écolos se rendent dans un fast-food n'est-ce pas? Le Liberty Tree vous offre la réponse. Et c'est chaud !_
 

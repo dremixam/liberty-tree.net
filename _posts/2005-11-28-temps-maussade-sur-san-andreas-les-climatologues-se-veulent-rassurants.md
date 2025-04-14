@@ -1,16 +1,17 @@
 ---
-layout: article
-title: 'Temps maussade sur San Andreas : les climatologues se veulent rassurants'
 authors:
-  - thomas
+- thomas
 date: '2005-11-28 18:02:00'
+layout: article
 tags:
 - liberty-city
 - vice-city
 - las-venturas
 - san-fierro
 - los-santos
+title: 'Temps maussade sur San Andreas : les climatologues se veulent rassurants'
 ---
+
 
 _La population gronde. Depuis quelques semaines le beau temps se fait désirer. Le temps des bains de soleil et de l'huile de bronzage semble bien loin. Le gouvernement crie au complot._
 

@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Souk Machine
-cover: "/content/images/2005/01/tetedecoq.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/tetedecoq.jpg
 date: '2007-02-03 00:00:00'
+layout: article
 tags:
 - san-fierro
 - los-santos
 - las-venturas
+title: Souk Machine
 ---
+
 
 La journée d'hier restera dans les mémoires des habitants d'un petit village de Bone County. En effet, et alors que la vie suivait son cours comme d'habitude, un camion et sa remorque vinrent s'écraser contre un poteau auprès duquel un stand de hot-dogs était installé. Le vendeur n'eut hélas pas le temps de se retirer et le poids lourd eu raison de lui. D'après le Sherif Parker, le chauffeur du camion aurait senti son camion se diriger vers le stand de hot-dogs sans pouvoir en garder le contrôle. Après une inspection minutieuse de l'engin, tout semble fonctionnel.
 

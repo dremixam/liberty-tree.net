@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Expériences humaines au Liberty Tree
-cover: "/content/images/2016/06/title_1.png"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/title_1.png
 date: '2013-11-19 00:00:00'
+layout: article
+redirect_from:
+- /2013/11/18/experiences-humaines-au-liberty-tree
+- /2013/11/18/experiences-humaines-au-liberty-tree/
 tags:
 - los-santos
-redirect_from:
-  - /2013/11/18/experiences-humaines-au-liberty-tree
+title: Expériences humaines au Liberty Tree
 ---
+
 
 Voici une nouvelle histoire saugrenue qui secoue une fois de plus le gratte-ciel du Liberty Tree. Notre principal rival, le Daily Globe, publie aujourd'hui un article sur des agissements invraisemblables qui auraient eu lieu au LT entre 2005 et 2006. En effet, ce dernier rapporte que Pavlov, ancien membre de l'équipe et chargé du personnel, serait en fait un agent des services secrets polonais infiltré au sein du journal dans le but de réaliser des manipulations scientifiques sur ses collègues, entre autres recherches de savant fou sur le cerveau humain.
 

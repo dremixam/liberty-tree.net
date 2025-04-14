@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Panique à Liberty City
 authors:
-  - passe-partout
+- passe-partout
 date: '2010-02-12 15:38:00'
+layout: article
 tags:
 - liberty-city
+title: Panique à Liberty City
 ---
+
 
 Depuis la sortie hier du blockbuster 2021, les personnes qui sortent des salles sont prises d’un étrange vent de panique et de paranoïa. On peut observer partout en ville des attroupements de gens complètement dérangés qui voient la réalité à travers le film. S’en suivent des scènes de pillages, de meurtres et d’agressions en tout genre et on ne comprend toujours pas pourquoi les spectateurs sont pris de folie, ni comment ont-ils pu être à ce point chamboulés en voyant le long-métrage de Rolande Aimeriche. Les spécialistes restent perplexes sur la question et étudient en ce moment même des gens arrêtés au hasard.
 

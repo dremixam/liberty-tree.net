@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La rencontre
-cover: "/content/images/2016/06/stretch2_0.jpg"
 authors:
-  - rr4
+- rr4
+cover: /content/images/2016/06/stretch2_0.jpg
 date: '2002-05-27 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/26/la-rencontre
+- /2002/05/26/la-rencontre/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/26/la-rencontre
+title: La rencontre
 ---
+
 
 Hier soir, vers 22H, une fusillade a éclaté dans le quartier de St Mark's, devant la villa de Salvatore Leone.
 

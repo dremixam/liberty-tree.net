@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Il n'y a qu'un pas entre le concessionaire et le Car-Jacking
-cover: "/content/images/2016/06/otto2_0.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/otto2_0.jpg
 date: '2006-04-15 00:00:00'
+layout: article
+redirect_from:
+- /2006/04/14/il-ny-a-quun-pas-entre-le-concessionaire-et-le-car-jacking
+- /2006/04/14/il-ny-a-quun-pas-entre-le-concessionaire-et-le-car-jacking/
 tags:
 - san-fierro
-redirect_from:
-  - /2006/04/14/il-ny-a-quun-pas-entre-le-concessionaire-et-le-car-jacking
+title: Il n'y a qu'un pas entre le concessionaire et le Car-Jacking
 ---
+
 
 Le vol de voiture (ou car-jacking) était en pleine croissance depuis les six derniers mois dans la ville de San Fierro. Les modèles les plus visés étaient des deux portes sportifs tels que Lamborghini, Ferrari mais aussi des Muscle Cars de collection des années 70. La police de San Fierro se trouvait dans l'impasse depuis deja quelques temps : Aucun indice, aucun témoin, aucune trace des véhicules volés...jusqu’à ce que l'agent Saperstein mis le doigt sur un facteur commun à tous ces vols. En effet, cela n'avait pas encore frappé la SFPD mais tous les véhicules volés provenaient du garage _Otto's Autos_ situé à East Esplanade.
 

@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Attentat à Shoreside
 authors:
-  - pierrealex
+- pierrealex
 date: '2002-05-29 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/28/attentat-a-shoreside
+- /2002/05/28/attentat-a-shoreside/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/28/attentat-a-shoreside
+title: Attentat à Shoreside
 ---
+
 
 Une valise abandonnée a été trouvée dans le secteur du Bosquet Cedar à Shoreside.
 

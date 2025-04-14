@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Décès du ténor Adolfo Gotrielli
 authors:
-  - civic666
+- civic666
 date: '2007-10-01 00:00:00'
+layout: article
 tags:
 - liberty-city
+title: Décès du ténor Adolfo Gotrielli
 ---
+
 
 C'est une grande perte dans l'histoire du show-business ...
 

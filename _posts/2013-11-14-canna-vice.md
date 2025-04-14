@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Canna-vice
-cover: "/content/images/2016/06/bradockpass_0.jpg"
 authors:
-  - flrenckins
+- flrenckins
+cover: /content/images/2016/06/bradockpass_0.jpg
 date: '2013-11-14 00:00:00'
+layout: article
+redirect_from:
+- /2013/11/13/canna-vice
+- /2013/11/13/canna-vice/
 tags:
 - los-santos
-redirect_from:
-  - /2013/11/13/canna-vice
+title: Canna-vice
 ---
+
 
  **Tout le monde le sait, le cannabis médical est autorisé à Los Santos. Les utilisateurs sont en effet autorisés à cultiver leur propre production et à se l’échanger en club de trois personnes maximum, mais leur production ne doit pas dépasser 5 pieds sauf pour les producteurs qui fournissent les nombreux dispensaires de marijuana se trouvant en ville.**
 

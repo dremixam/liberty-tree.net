@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Une augmentation de 160 % de la criminalité à Los Santos !
-cover: "/content/images/2016/06/0_0%20%281%29_6.jpg"
 authors:
-  - libertyg100
+- libertyg100
+cover: /content/images/2016/06/0_0%20%281%29_6.jpg
 date: '2013-12-21 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/20/une-augmentation-de-160-de-la-criminalite-a-los-santos
+- /2013/12/20/une-augmentation-de-160-de-la-criminalite-a-los-santos/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/20/une-augmentation-de-160-de-la-criminalite-a-los-santos
+title: Une augmentation de 160 % de la criminalité à Los Santos !
 ---
+
 
 Les chiffres sont tombés en cette fin d'année et à la surprise générale on parle d' **une augmentation de 160 %** du taux de criminalité à Los Santos et Blaine County. Ces chiffres affolants s'expliquent par plusieurs facteurs.
 

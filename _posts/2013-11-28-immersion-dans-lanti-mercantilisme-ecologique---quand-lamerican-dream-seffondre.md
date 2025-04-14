@@ -1,16 +1,18 @@
 ---
-layout: article
-title: 'Immersion dans l''anti-mercantilisme écologique : quand l''American Dream
-  s''effondre'
-cover: "/content/images/2016/06/0_0_26.jpg"
 authors:
-  - kiki
+- kiki
+cover: /content/images/2016/06/0_0_26.jpg
 date: '2013-11-28 00:00:00'
+layout: article
+redirect_from:
+- /2013/11/27/immersion-dans-lanti-mercantilisme-ecologique-quand-lamerican-dream-seffondre
+- /2013/11/27/immersion-dans-lanti-mercantilisme-ecologique-quand-lamerican-dream-seffondre/
 tags:
 - los-santos
-redirect_from:
-  - /2013/11/27/immersion-dans-lanti-mercantilisme-ecologique-quand-lamerican-dream-seffondre
+title: 'Immersion dans l''anti-mercantilisme écologique : quand l''American Dream
+  s''effondre'
 ---
+
 
 Toujours à la recherche d'originalité, une idée est venue à l'une des nouvelles recrues du Liberty Tree. Certains d'entre vous connaissent probablement le clan de marginaux vivant sur les pentes ouest du Mont Chiliad à Blaine County. Difficiles à cerner, difficiles à approcher, qui sont-ils, ou plutôt QUE sont-ils réellement ? Des yuppies modernes ? De simples fous ? Qu'est-ce qui les poussent à vivre ainsi à l'écart de notre belle civilisation enfast-foodée et libérale ?
 

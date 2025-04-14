@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La banque de North Yankton, la banque la plus sûre du pays ?
-cover: "/content/images/2016/06/NorthYankton.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/NorthYankton.jpg
 date: '2014-01-28 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/27/la-banque-de-north-yankton-la-banque-la-plus-sure-du-pays
+- /2014/01/27/la-banque-de-north-yankton-la-banque-la-plus-sure-du-pays/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/27/la-banque-de-north-yankton-la-banque-la-plus-sure-du-pays
+title: La banque de North Yankton, la banque la plus sûre du pays ?
 ---
+
 
 _La banque de la compagnie de sécurité Bobcat Security est l'une des plus sécurisées du pays. Aujourd'hui, la cambrioler relèverait de l'impossible, et ce malgré son isolement... Enquête._
 

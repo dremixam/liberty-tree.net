@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le malade mental du jour
-cover: "/content/images/2016/06/Diablo2_0.jpg"
 authors:
-  - little-worm
+- little-worm
+cover: /content/images/2016/06/Diablo2_0.jpg
 date: '2002-05-28 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/27/le-malade-mental-du-jour
+- /2002/05/27/le-malade-mental-du-jour/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/27/le-malade-mental-du-jour
+title: Le malade mental du jour
 ---
+
 
 On l'a suivi pendant quelques heures et c'est pas triste...
 

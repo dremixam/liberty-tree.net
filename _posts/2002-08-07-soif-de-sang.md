@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Soif de sang
-cover: "/content/images/2016/06/plusdejambe.jpg"
 authors:
-  - max-2
+- max-2
+cover: /content/images/2016/06/plusdejambe.jpg
 date: '2002-08-07 00:00:00'
+layout: article
+redirect_from:
+- /2002/08/06/soif-de-sang
+- /2002/08/06/soif-de-sang/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/08/06/soif-de-sang
+title: Soif de sang
 ---
+
 
 C'est donc en cherchant des victimes innocentes qu'Anna O'Wide s'est faite coffrer par la police, cette dernière ayant subit de nombreuses blessures.
 

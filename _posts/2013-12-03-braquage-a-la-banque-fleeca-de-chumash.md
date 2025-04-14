@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Braquage à la banque Fleeca de Chumash
-cover: "/content/images/2016/06/Fleeca1.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Fleeca1.jpg
 date: '2013-12-03 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/02/braquage-a-la-banque-fleeca-de-chumash
+- /2013/12/02/braquage-a-la-banque-fleeca-de-chumash/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/02/braquage-a-la-banque-fleeca-de-chumash
+title: Braquage à la banque Fleeca de Chumash
 ---
+
 
 La tranquillité de la petite ville de Chumash, au nord-ouest de Los Santos, a été brutalement interrompue hier matin. Peu après l'ouverture de la banque, trois hommes sont entrés et ont commencé à menacer les employés avant de les frapper et de blesser l'un d'entre eux. Quelques minutes plus tard, ils repartaient avec quelques millions de dollars, avant d'échapper à la police au terme d'une longue course-poursuite.
 

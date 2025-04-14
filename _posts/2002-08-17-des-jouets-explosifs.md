@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Des jouets explosifs
 authors:
-  - rr4
+- rr4
 date: '2002-08-17 00:00:00'
+layout: article
+redirect_from:
+- /2002/08/16/des-jouets-explosifs
+- /2002/08/16/des-jouets-explosifs/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/08/16/des-jouets-explosifs
+title: Des jouets explosifs
 ---
+
 
 Un nouveau jouet est en vente dans les (rares) magasins spécialisés de Liberty City.
 

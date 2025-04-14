@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Le chef du trafic de véhicules enfin arrêté
-cover: "/content/images/2005/01/suite2.jpg"
 authors:
-  - passe-partout
+- passe-partout
+cover: /content/images/2005/01/suite2.jpg
 date: '2007-05-17 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Le chef du trafic de véhicules enfin arrêté
 ---
+
 
 ![Vince Shrub.](/content/images/2005/01/suite1.jpg)
 _Vince Shrub._

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le contrat pour condamné !
-cover: "/content/images/2016/06/hotel01.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2016/06/hotel01.jpg
 date: '2006-02-12 00:00:00'
+layout: article
+redirect_from:
+- /2006/02/11/le-contrat-pour-condamne
+- /2006/02/11/le-contrat-pour-condamne/
 tags:
 - liberty-city
-redirect_from:
-  - /2006/02/11/le-contrat-pour-condamne
+title: Le contrat pour condamné !
 ---
+
 
 _Ce sont des policiers, des vieillards et des patrons qui se sont massés devant la mairie de Liberty City pour manifester leur colère contre le contrat proposé par le gouverneur._
 

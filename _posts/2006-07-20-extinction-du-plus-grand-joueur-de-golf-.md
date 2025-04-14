@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Extinction du plus grand joueur de golf.
-cover: "/content/images/2005/01/Golf1.jpg"
 authors:
-  - manu
+- manu
+cover: /content/images/2005/01/Golf1.jpg
 date: '2006-07-20 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: Extinction du plus grand joueur de golf.
 ---
+
 
 Hier soir à 22 heures, le corps inerte de Josh Mac Carty, champion de golf&nbsp;de Las Venturas durant cinq années consécutives, a été découvert dans le coffre d' une voiture noire. D'après les recherches menées par la police de Las Venturas, il aurait été tué d' une balle dans la tête, puis son corps aurait été traîné jusqu'à la voiture et enfin le tueur aurait caché le cadavre dans le coffre avant de prendre la fuite. Nous avons réussi à obtenir une interview du commissaire Patrizio Maroni.
 

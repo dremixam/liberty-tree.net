@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les Rimmers chutent !
-cover: "/content/images/2016/06/rimmers1.jpg"
 authors:
-  - bart_man
+- bart_man
+cover: /content/images/2016/06/rimmers1.jpg
 date: '2006-03-09 00:00:00'
+layout: article
+redirect_from:
+- /2006/03/08/les-rimmers-chutent
+- /2006/03/08/les-rimmers-chutent/
 tags:
 - los-santos
-redirect_from:
-  - /2006/03/08/les-rimmers-chutent
+title: Les Rimmers chutent !
 ---
+
 
 _Les favoris du championnat de basket-ball sont tombés bien bas._
 

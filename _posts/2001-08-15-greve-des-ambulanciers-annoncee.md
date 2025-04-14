@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Grève des ambulanciers annoncée
-cover: "/content/images/2016/06/paramedics2.jpg"
 authors:
-  - rr4
+- rr4
+cover: /content/images/2016/06/paramedics2.jpg
 date: '2001-08-15 00:00:00'
+layout: article
+redirect_from:
+- /2001/08/14/greve-des-ambulanciers-annoncee
+- /2001/08/14/greve-des-ambulanciers-annoncee/
 tags:
 - liberty-city
-redirect_from:
-  - /2001/08/14/greve-des-ambulanciers-annoncee
+title: Grève des ambulanciers annoncée
 ---
+
 
 Les ambulanciers de Liberty-City se plaignent de leurs conditions de travail et menacent de se mettre en grève. En effet, l'augmentation massive du nombre d'agressions par arme à feu de ces dernières années a entraîné une augmentation du nombre d'appels au 911, augmentation qui n'a pas été suivi des mesures qui s'imposaient telles que la protection des hommes et des femmes qui risquent leur vie chaque jour. Être ambulancier est devenu un métier à risque, chaque jour plus de la moitié des ambulances sont attaquées pendant leurs sorties.
 

@@ -1,12 +1,14 @@
 ---
-layout: article
-title: Le pépé tueur est de retour
 authors:
-  - zico
+- zico
 date: '2002-05-21 00:00:00'
+layout: article
 redirect_from:
-  - /2002/05/20/le-pepe-tueur-est-de-retour
+- /2002/05/20/le-pepe-tueur-est-de-retour
+- /2002/05/20/le-pepe-tueur-est-de-retour/
+title: Le pépé tueur est de retour
 ---
+
 
 C'est hier vers 16 h 20, qu'une explosion s'est faite entendre dans les alentours du commissariat de police de Staunton Island. Cette explosion s'est suivie de bruits de fusillades. Comme d'habitude, juste après cet événement, les journalistes ont rappliqué à la vitesse de la lumière. Le commissaire général Sapori a été désigné responsable de l'affaire. Durant la conférence de presse, il a justifié les causes de cette explosion : « Cette explosion est dûe a l'évasion d'un de nos détenus qui est appelé par nos hommes le "pépé tueur ". »
 

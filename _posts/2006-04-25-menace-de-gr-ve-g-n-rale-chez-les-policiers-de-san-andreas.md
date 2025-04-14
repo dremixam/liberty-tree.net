@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Menace de grève générale chez les policiers de San Andreas
-cover: "/content/images/2005/01/Greve_police_05.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/Greve_police_05.jpg
 date: '2006-04-25 00:00:00'
+layout: article
 tags:
 - los-santos
 - san-fierro
 - las-venturas
+title: Menace de grève générale chez les policiers de San Andreas
 ---
+
 
 ![S'il y a grève, qui assurera la sécurité de nos villes?](/content/images/2005/01/Greve_police_safetown.jpg)
 _S'il y a grève, qui assurera la sécurité de nos villes?_

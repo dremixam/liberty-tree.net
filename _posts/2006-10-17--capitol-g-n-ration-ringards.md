@@ -1,13 +1,14 @@
 ---
-layout: article
-title: "$Capitol$ : Génération Ringards"
-cover: "/content/images/2005/01/affiche.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/affiche.jpg
 date: '2006-10-17 00:00:00'
+layout: article
 tags:
 - vice-city
+title: '$Capitol$ : Génération Ringards'
 ---
+
 
 Il y a une vingtaine d'années, ce sont des chefs de mafia, des flics corrompus ou de grands patrons qui privilégiaient la destination de Vice City pour leur vacances. Aujourd'hui, malgré la croissance qui repart, la ville a connu beaucoup de problèmes d'ordres social et économiques avec les divers scandales qui vont avec, et attire désormais une toute autre classe sociale qui aime les prix bas. Qui sont donc ces personnes que nous appelons "beaufs" ?&nbsp;Qu'est ce qui les attirent à Vice&nbsp;? A quoi ressemble la journée d'un beauf ? C'est à ces questions auxquelles nous répondrons.
 

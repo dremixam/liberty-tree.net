@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La folie du tennis
-cover: "/content/images/2016/06/Tennis2_0.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Tennis2_0.jpg
 date: '2014-03-18 00:00:00'
+layout: article
+redirect_from:
+- /2014/03/17/la-folie-du-tennis
+- /2014/03/17/la-folie-du-tennis/
 tags:
 - los-santos
-redirect_from:
-  - /2014/03/17/la-folie-du-tennis
+title: La folie du tennis
 ---
+
 
 _Encore considéré comme un "sport de riches" il y a encore quelques années, le tennis est aujourd'hui en train de devenir l'un des sports les plus en vue à San Andreas. Quelles sont les raisons d'un tel succès ?_
 

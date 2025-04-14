@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Bugstars au bord du dépôt de bilan
-cover: "/content/images/2016/06/Bugstars2.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Bugstars2.jpg
 date: '2013-11-30 00:00:00'
+layout: article
+redirect_from:
+- /2013/11/29/bugstars-au-bord-du-depot-de-bilan
+- /2013/11/29/bugstars-au-bord-du-depot-de-bilan/
 tags:
 - los-santos
-redirect_from:
-  - /2013/11/29/bugstars-au-bord-du-depot-de-bilan
+title: Bugstars au bord du dépôt de bilan
 ---
+
 
 _La société de dératisation Bugstars est aujourd'hui dans une situation des plus délicates : elle se trouve au bord de la faillite. Tout cela à cause d'un événement dans lequel Bugstars n'est nullement impliquée..._
 

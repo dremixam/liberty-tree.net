@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Dossier Muscle Cars, Part 1
 authors:
-  - nelson
+- nelson
 date: '2003-01-07 11:56:00'
+layout: article
 tags:
 - liberty-city
+title: Dossier Muscle Cars, Part 1
 ---
+
 
 _La muscle car du mois de janvier est la Dodge Coronet SuperBee de 1970..._
 

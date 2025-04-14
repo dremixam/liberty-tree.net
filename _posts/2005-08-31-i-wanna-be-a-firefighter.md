@@ -1,15 +1,17 @@
 ---
-layout: article
-title: I wanna be a firefighter
-cover: "/content/images/2016/06/Pinpon01.jpg"
 authors:
-  - little-worm
+- little-worm
+cover: /content/images/2016/06/Pinpon01.jpg
 date: '2005-08-31 00:00:00'
+layout: article
+redirect_from:
+- /2005/08/30/i-wanna-be-a-firefighter
+- /2005/08/30/i-wanna-be-a-firefighter/
 tags:
 - san-fierro
-redirect_from:
-  - /2005/08/30/i-wanna-be-a-firefighter
+title: I wanna be a firefighter
 ---
+
 
  **San Fierro Fire Department, 08 h 47**
 

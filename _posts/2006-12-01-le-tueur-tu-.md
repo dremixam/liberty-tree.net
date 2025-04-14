@@ -1,14 +1,15 @@
 ---
-layout: article
-title: Le tueur tué
-cover: "/content/images/2005/01/articletueurtu_.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/articletueurtu_.jpg
 date: '2006-12-01 00:00:00'
+layout: article
 tags:
 - vice-city
 - los-santos
+title: Le tueur tué
 ---
+
 
 Est-ce qu'il y aura encore des victimes parmi les journalistes ? Souvenez-vous de ce tueur introuvable qui utilisait les moyens les plus fourbes pour faire disparaître les corps et les preuves en jetant les voitures contenant les corps dans la mer ou dans un canal... Hé bien, ce tueur a été retrouvé hier matin, complètement carbonisé, dans sa voiture, carbonisée elle aussi.
 

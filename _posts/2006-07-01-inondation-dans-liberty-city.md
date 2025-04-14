@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Inondation dans Liberty City
-cover: "/content/images/2005/01/inndondation.jpg"
 authors:
-  - canar
+- canar
+cover: /content/images/2005/01/inndondation.jpg
 date: '2006-07-01 00:00:00'
+layout: article
 tags:
 - liberty-city
+title: Inondation dans Liberty City
 ---
+
 
 Ce matin, une inondation a ravagé la ville de Liberty City, entraînant la mort violente de plusieurs centaines de personnes.
 

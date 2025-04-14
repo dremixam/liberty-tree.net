@@ -1,15 +1,17 @@
 ---
-layout: article
-title: L'affaire Marty Chonks
-cover: "/content/images/v1/user23/mc01.jpg"
 authors:
-  - pavlov
+- pavlov
+cover: /content/images/v1/user23/mc01.jpg
 date: '2003-01-05 00:00:00'
+layout: article
+redirect_from:
+- /2003/01/04/laffaire-marty-chonks
+- /2003/01/04/laffaire-marty-chonks/
 tags:
 - liberty-city
-redirect_from:
-  - /2003/01/04/laffaire-marty-chonks
+title: L'affaire Marty Chonks
 ---
+
 
 _Alors que les circonstances de l'assassinat de Marty Chonks, le propriétaire de l'usine Bitch'n'Dog Food, descendu vendredi dernier restent encore obscures, l'enquête du LCPD a déjà conduit à trois arrestations de personnages éminents de la ville et a déclenché un scandale dans tout le pays._
 

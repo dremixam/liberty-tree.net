@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Mystèrieuse disparition de voiture à Shoreside
-cover: "/content/images/2016/06/bug.jpg"
 authors:
-  - rr4
+- rr4
+cover: /content/images/2016/06/bug.jpg
 date: '2002-07-02 00:00:00'
+layout: article
+redirect_from:
+- /2002/07/01/mysterieuse-disparition-de-voiture-a-shoreside
+- /2002/07/01/mysterieuse-disparition-de-voiture-a-shoreside/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/07/01/mysterieuse-disparition-de-voiture-a-shoreside
+title: Mystèrieuse disparition de voiture à Shoreside
 ---
+
 
 Après les voleurs, et les accidents, les honnêtes citoyens de notre belle ville doivent éviter un nouveau fléau pour leur voiture.
 

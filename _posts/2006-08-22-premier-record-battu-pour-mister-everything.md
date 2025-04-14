@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Premier record battu pour "Mister Everything"
-cover: "/content/images/2016/07/bloodring-2.jpg"
 authors:
-  - chaos-red
+- chaos-red
+cover: /content/images/2016/07/bloodring-2.jpg
 date: '2006-08-22 18:57:00'
+layout: article
 tags:
 - los-santos
+title: Premier record battu pour "Mister Everything"
 ---
+
 
 _Ce matin, les gens qui traînaient dans la rue du parking du commissariat ont pu assister à un nouveau record qui a été effectué par "Mister Everything" ._
 

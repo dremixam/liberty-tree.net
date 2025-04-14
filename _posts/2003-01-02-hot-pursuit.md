@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Hot Pursuit
 authors:
-  - nelson
+- nelson
 date: '2003-01-02 11:47:00'
+layout: article
 tags:
 - liberty-city
+title: Hot Pursuit
 ---
+
 
 En effet, c'est hier vers 17 heures qu'un Libertycien quadragénaire, suite à une dispute avec son épouse, "pète les plombs", sors de chez lui en furie et saute dans sa Ford Torino.  
 Il démarre en trombe et traverse le pont Callahan sur la mauvaise file à près de 140 km/h. Il arrive toujours aussi vite à l'entrée de Stauton Island où il perd le contrôle de son véhicule qui se jette contre un terre-plein central.

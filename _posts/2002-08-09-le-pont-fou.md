@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le pont fou
-cover: "/content/images/2016/06/pont_001.jpg"
 authors:
-  - fxbt
+- fxbt
+cover: /content/images/2016/06/pont_001.jpg
 date: '2002-08-09 00:00:00'
+layout: article
+redirect_from:
+- /2002/08/08/le-pont-fou
+- /2002/08/08/le-pont-fou/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/08/08/le-pont-fou
+title: Le pont fou
 ---
+
 
 Cette nuit, Monsieur P. (dont nous tairons le nom) rentrait chez lui sur l'île de Staunton quand d'un seul coup, le pont qu'il empruntait s'est relevé sans aucun signal sonore. Monsieur P. a juste eu le temps de freiner avant la fin de la route. Le pont s'est ensuite bloqué en position haute, laissant Monsieur P. coincé.
 

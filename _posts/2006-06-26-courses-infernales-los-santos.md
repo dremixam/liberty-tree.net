@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'Courses Infernales : Los Santos'
-cover: "/content/images/2005/01/parking_mulholland.jpg"
 authors:
-  - julio75
+- julio75
+cover: /content/images/2005/01/parking_mulholland.jpg
 date: '2006-06-26 17:55:00'
+layout: article
 tags:
 - los-santos
+title: 'Courses Infernales : Los Santos'
 ---
+
 
 _J'ai infiltré un célèbre groupe de jeunes "riders de la nuit" appelé The SkullBash Band, possédant voiture et motos tunées, se défiant avec leur machines en pleine rue et en toute illégalité._
 

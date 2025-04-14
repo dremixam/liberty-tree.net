@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Spand Express sous le coup de la grève!
-cover: "/content/images/2005/01/spand_express.jpg"
 authors:
-  - manu
+- manu
+cover: /content/images/2005/01/spand_express.jpg
 date: '2006-07-05 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Spand Express sous le coup de la grève!
 ---
+
 
 Qui ne connaît pas Spandex Express ? Il est improbable que vous n' ayez jamais entendu parler de cette fameuse société spécialisée dans la construction de bâtiments. La plupart des immeubles et des hôtels de Vice City ont été fabriqués par cette société. Mais aujourd'hui, la société est au bord de la faillite car les ouvriers se sont tous mis en grève pour une raison inconnue. Pour connaître quelle était cette fameuse raison, nous avons&nbsp;interrogé Mr. Francis Benza, un employé de la société depuis 15 ans.
 

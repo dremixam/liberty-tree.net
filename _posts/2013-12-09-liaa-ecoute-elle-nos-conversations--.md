@@ -1,15 +1,17 @@
 ---
-layout: article
-title: L'IAA écoute-elle nos conversations ?
-cover: "/content/images/2016/06/FIB.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/FIB.jpg
 date: '2013-12-09 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/08/liaa-ecoute-elle-nos-conversations
+- /2013/12/08/liaa-ecoute-elle-nos-conversations/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/08/liaa-ecoute-elle-nos-conversations
+title: L'IAA écoute-elle nos conversations ?
 ---
+
 
 Au fil des années, l'histoire des écoutes illégales est devenue un mythe, une légende urbaine. On la raconte, on la répète, on la déforme. Tout le monde s'en doute, mais aucune preuve n'existe. Mais récemment, cette légende a été remise en cause. En effet, un ancien employé a parlé. Et il a raconté des choses vraiment très intéressantes...
 

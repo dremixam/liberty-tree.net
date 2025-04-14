@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Ouverture d'une école de parachutisme à Sandy Shores
-cover: "/content/images/2016/06/0_0_246.jpg"
 authors:
-  - titi
+- titi
+cover: /content/images/2016/06/0_0_246.jpg
 date: '2014-08-08 00:00:00'
+layout: article
+redirect_from:
+- /2014/08/07/ouverture-dune-ecole-de-parachutisme-a-sandy-shores
+- /2014/08/07/ouverture-dune-ecole-de-parachutisme-a-sandy-shores/
 tags:
 - los-santos
-redirect_from:
-  - /2014/08/07/ouverture-dune-ecole-de-parachutisme-a-sandy-shores
+title: Ouverture d'une école de parachutisme à Sandy Shores
 ---
+
 
 _Garrett Evans a ouvert cette semaine à Sandy Shores un club de parachutisme, qui permet aussi aux moins expérimentés de découvrir et d'apprendre à pratiquer le saut en parachute..._
 

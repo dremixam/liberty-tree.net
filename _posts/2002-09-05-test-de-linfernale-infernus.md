@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Test de l'infernale Infernus
 authors:
-  - nelson
+- nelson
 date: '2002-09-05 12:19:00'
+layout: article
 tags:
 - liberty-city
+title: Test de l'infernale Infernus
 ---
+
 
 Chers lecteurs, bonjour!
 

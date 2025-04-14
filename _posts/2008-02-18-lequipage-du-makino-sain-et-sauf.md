@@ -1,12 +1,13 @@
 ---
-layout: article
-title: L'équipage du Makino sain et sauf!
 authors:
-  - special-k
+- special-k
 date: '2008-02-18 23:38:00'
+layout: article
 tags:
 - san-fierro
+title: L'équipage du Makino sain et sauf!
 ---
+
 
 _Après de nombreuses heures d'incertitude, le célèbre porte container japonais est parvenu à se rendre jusqu'au port de San Fiero malgré les nombreux avaries qu'il a subit._
 

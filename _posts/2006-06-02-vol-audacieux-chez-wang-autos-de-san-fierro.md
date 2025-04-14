@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Vol audacieux chez Wang Autos de San Fierro
-cover: "/content/images/2005/01/wang_autos_1.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/wang_autos_1.jpg
 date: '2006-06-02 00:00:00'
+layout: article
 tags:
 - san-fierro
+title: Vol audacieux chez Wang Autos de San Fierro
 ---
+
 
 ![Wang Autos Spécialiste en automobiles exotiques et limousines](/content/images/2005/01/wang_autos_1.jpg)
 _Wang Autos Spécialiste en automobiles exotiques et limousines_

@@ -1,15 +1,16 @@
 ---
-layout: article
-title: 'Carnet de Voyage : Etape Bonus'
-cover: "/content/images/2005/01/Palomino_Creek.jpg"
 authors:
-  - scarface1991
+- scarface1991
+cover: /content/images/2005/01/Palomino_Creek.jpg
 date: '2006-06-16 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: 'Carnet de Voyage : Etape Bonus'
 ---
+
 
  **Etape Bonus : The Badlands & The Desert**
 

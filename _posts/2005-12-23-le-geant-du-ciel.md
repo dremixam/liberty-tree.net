@@ -1,16 +1,18 @@
 ---
-layout: article
-title: Le géant du ciel
-cover: "/content/images/2016/06/ah380.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2016/06/ah380.jpg
 date: '2005-12-23 00:00:00'
+layout: article
+redirect_from:
+- /2005/12/22/le-geant-du-ciel
+- /2005/12/22/le-geant-du-ciel/
 tags:
 - liberty-city
 - vice-city
-redirect_from:
-  - /2005/12/22/le-geant-du-ciel
+title: Le géant du ciel
 ---
+
 
 \_Vous en avez peut-être plus ou moins entendu parler ces derniers temps. Il s'agit de cette rumeur qui navigue depuis quelques mois dans notre beau pays au sujet de la conception d'un nouvel avion, surnommé le Géant du Ciel. Et ce matin, sous des tonnerres d'applaudissements, le PDG de la société AirBuffle a bel et bien annoncé que ce projet était déjà en construction. \_
 

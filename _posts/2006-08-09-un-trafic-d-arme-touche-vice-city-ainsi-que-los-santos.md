@@ -1,14 +1,15 @@
 ---
-layout: article
-title: Un trafic d'arme touche Vice City ainsi que Los Santos
-cover: "/content/images/2005/01/hangar_vc2.jpg"
 authors:
-  - gtaboss33
+- gtaboss33
+cover: /content/images/2005/01/hangar_vc2.jpg
 date: '2006-08-09 00:00:00'
+layout: article
 tags:
 - los-santos
 - vice-city
+title: Un trafic d'arme touche Vice City ainsi que Los Santos
 ---
+
 
  **Retour sur l'origine des lois sur la limitations d'utilisations des armes :** Rien que dans la ville de Los Santos, le taux de criminalité frôle les 50%. Pour le baisser, le gouverneur&nbsp;de San Andreas, John Sturner&nbsp;met en place&nbsp;en mars 2005 des lois qui pourrons faire chuter ce taux dans la ville.
 

@@ -1,14 +1,15 @@
 ---
-layout: article
-title: L’Explorateur Urbain – Numéro 2
-cover: "/content/images/2005/01/Explo_-_Photo_Titre.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/Explo_-_Photo_Titre.jpg
 date: '2006-10-04 00:00:00'
+layout: article
 tags:
 - los-santos
 - san-fierro
+title: L’Explorateur Urbain – Numéro 2
 ---
+
 
 ![](/content/images/2005/01/explo_-_title_no_2.jpg)
 ![](/content/images/2005/01/Explo_-_Palomino_-_Article_-_Title.jpg)

@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Le directeur de Weazel News soupçonné de harcèlement
 authors:
-  - passe-partout
+- passe-partout
 date: '2008-05-02 13:03:00'
+layout: article
 tags:
 - liberty-city
+title: Le directeur de Weazel News soupçonné de harcèlement
 ---
+
 
 _La nouvelle vient de nous parvenir et pour une fois, ce n'est pas notre confrère qui va en faire ses gros titres. Le directeur de Weazel News a été mis en garde en vue par la police après une plainte pour harcèlement moral et sexuel._
 

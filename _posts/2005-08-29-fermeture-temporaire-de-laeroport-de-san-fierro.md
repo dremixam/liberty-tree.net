@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Fermeture Temporaire de L'Aéroport de San Fierro
-cover: "/content/images/2016/06/airport.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/airport.jpg
 date: '2005-08-29 00:00:00'
+layout: article
+redirect_from:
+- /2005/08/28/fermeture-temporaire-de-laeroport-de-san-fierro
+- /2005/08/28/fermeture-temporaire-de-laeroport-de-san-fierro/
 tags:
 - vice-city
-redirect_from:
-  - /2005/08/28/fermeture-temporaire-de-laeroport-de-san-fierro
+title: Fermeture Temporaire de L'Aéroport de San Fierro
 ---
+
 
 L'aéroport de San Fierro, jugé trop vétuste par la Direction Générale de l'Aviation Civile et Commerciale, va fermer ses pistes pour un petit coup de propre...
 

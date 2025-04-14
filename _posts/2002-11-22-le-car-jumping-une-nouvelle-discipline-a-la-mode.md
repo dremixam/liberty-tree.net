@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Le Car-Jumping, une nouvelle discipline à la mode
 authors:
-  - nelson
+- nelson
 date: '2002-11-22 17:01:00'
+layout: article
 tags:
 - liberty-city
+title: Le Car-Jumping, une nouvelle discipline à la mode
 ---
+
 
 _Une nouvelle façon de conduire tout droit venue du Mexique envahit nos rues, le Car-Jumping._
 

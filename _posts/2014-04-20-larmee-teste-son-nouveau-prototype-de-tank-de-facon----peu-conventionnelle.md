@@ -1,15 +1,17 @@
 ---
-layout: article
-title: L'armée teste son nouveau prototype de tank de façon... peu conventionnelle
-cover: "/content/images/2016/06/22_4.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/22_4.jpg
 date: '2014-04-20 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/19/larmee-teste-son-nouveau-prototype-de-tank-de-facon-peu-conventionnelle
+- /2014/04/19/larmee-teste-son-nouveau-prototype-de-tank-de-facon-peu-conventionnelle/
 tags:
 - los-santos
-redirect_from:
-  - /2014/04/19/larmee-teste-son-nouveau-prototype-de-tank-de-facon-peu-conventionnelle
+title: L'armée teste son nouveau prototype de tank de façon... peu conventionnelle
 ---
+
 
 _Le Rhino Tank v2 a été testé récemment, tout près de la route et sur des caddies de golf..._
 

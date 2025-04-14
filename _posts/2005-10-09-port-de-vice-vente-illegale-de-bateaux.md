@@ -1,12 +1,13 @@
 ---
-layout: article
-title: 'Port de Vice : Vente illégale de bateaux !'
 authors:
-  - p130
+- p130
 date: '2005-10-09 16:55:00'
+layout: article
 tags:
 - vice-city
+title: 'Port de Vice : Vente illégale de bateaux !'
 ---
+
 
 _Alors que l'enquête sur la Kaufman Cie n'est pas encore bouclée, un nouveau trafic vient d'être mis au jour : Une vente de bateaux sur le marché noir, certainement dirigée par la mafia de Vice City._
 

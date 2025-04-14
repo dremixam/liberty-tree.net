@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Notre rédacteur en chef menacé
 authors:
-  - baz
+- baz
 date: '2002-09-22 00:00:00'
+layout: article
+redirect_from:
+- /2002/09/21/notre-redacteur-en-chef-menace
+- /2002/09/21/notre-redacteur-en-chef-menace/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/09/21/notre-redacteur-en-chef-menace
+title: Notre rédacteur en chef menacé
 ---
+
 
 Alors que le bâtiment qui abrite la rédaction du Liberty Tree vient d'être entièrement rénové et repeint - dans une couleur saumonée qui s'intègre parfaitement dans les rues paisibles de notre belle ville - un vandale a honteusement tagué la porte du garage de notre bien aimé rédacteur en chef.
 

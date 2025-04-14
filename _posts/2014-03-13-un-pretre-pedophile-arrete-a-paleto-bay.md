@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un prêtre pédophile arrêté à Paleto Bay
-cover: "/content/images/2016/06/16_4.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/16_4.jpg
 date: '2014-03-13 00:00:00'
+layout: article
+redirect_from:
+- /2014/03/12/un-pretre-pedophile-arrete-a-paleto-bay
+- /2014/03/12/un-pretre-pedophile-arrete-a-paleto-bay/
 tags:
 - los-santos
-redirect_from:
-  - /2014/03/12/un-pretre-pedophile-arrete-a-paleto-bay
+title: Un prêtre pédophile arrêté à Paleto Bay
 ---
+
 
 Un scandale de taille a éclaté hier matin à Paleto Bay. Bill Shoya a été témoin d'une scène traumatisante à l'église St Brigid. En effet, Shoya affirme à la police qu'il a vu le Père Ben en train d'abuser d'un petit garçon, Pete Philips, dans un confessionnal. Le père Ben a directement été mis en état d'arrestation par la police de Blaine County.
 

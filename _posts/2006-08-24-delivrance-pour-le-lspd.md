@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Délivrance pour le LSPD
-cover: "/content/images/2005/01/Police-sur-les-lieux.jpg"
 authors:
-  - antholintello
+- antholintello
+cover: /content/images/2005/01/Police-sur-les-lieux.jpg
 date: '2006-08-24 19:02:00'
+layout: article
 tags:
 - los-santos
+title: Délivrance pour le LSPD
 ---
+
 
 _Après plus de trois mois d'enquête, le "serial violator", qui sévissait depuis plusieurs mois à Los Santos, a enfin été arrêté. Retour sur cette histoire ..._
 

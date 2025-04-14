@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Fusillade tragique à Los Santos
-cover: "/content/images/2005/01/fusillade-LS_banque.jpg"
 authors:
-  - gtaboss33
+- gtaboss33
+cover: /content/images/2005/01/fusillade-LS_banque.jpg
 date: '2007-01-30 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Fusillade tragique à Los Santos
 ---
+
 
  **Los Santos, 8h00 AM :** &nbsp;Deux hommes lourdement armés et protégés entrent dans la Bank Of The West, lors de son ouverture,&nbsp;où se trouvaient une dizaine d'employés ainsi que cinq clients. Les braqueurs sortirent les armes et regroupèrent tous les otages dans un coin et empochent la coquette somme de $514.256. Un homme voulant se sauver fût grièvement blessé, suite à un coup porté à la tête par l'un des braqueurs&nbsp;et malheureusement&nbsp;il succombera à sa blessure peu de temps après.
 

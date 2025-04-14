@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Une nuit avec les performers de l'extrême
-cover: "/content/images/2016/06/perf1.jpg"
 authors:
-  - bancale
+- bancale
+cover: /content/images/2016/06/perf1.jpg
 date: '2012-11-30 00:00:00'
+layout: article
+redirect_from:
+- /2012/11/29/une-nuit-avec-les-performers-de-lextreme
+- /2012/11/29/une-nuit-avec-les-performers-de-lextreme/
 tags:
 - los-santos
-redirect_from:
-  - /2012/11/29/une-nuit-avec-les-performers-de-lextreme
+title: Une nuit avec les performers de l'extrême
 ---
+
 
  **Sur son blog, il se fait appeler "Grincheux". Il se qualifie de "performer". Dans la vie, ce jeune homme de 32 ans est informaticien. Le soir, il explore les lieux ordinairement interdits au public ou du moins difficiles d'accès.**
 

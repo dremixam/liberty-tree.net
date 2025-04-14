@@ -1,17 +1,18 @@
 ---
-layout: article
-title: Batman a débarqué à San Andreas
-cover: "/content/images/2005/01/batmane.jpg"
 authors:
-  - little-worm
-  - Hyspolite
-  - Aloys Neverood
+- little-worm
+- Hyspolite
+- Aloys Neverood
+cover: /content/images/2005/01/batmane.jpg
 date: '2006-09-12 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Batman a débarqué à San Andreas
 ---
+
 
 Gérard Broderick, éminent photographe de la revue écologiste Liberty Fish a même réussi à le prendre en photo alors qu’il traversait Beacon Hill en Batmobile
 

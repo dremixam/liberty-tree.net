@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Liberty City Survivor III
 authors:
-  - little-worm
+- little-worm
 date: '2002-06-08 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/07/liberty-city-survivor-iii
+- /2002/06/07/liberty-city-survivor-iii/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/07/liberty-city-survivor-iii
+title: Liberty City Survivor III
 ---
+
 
 Suite et fin du résumé de l'émission de télé-réalité
 

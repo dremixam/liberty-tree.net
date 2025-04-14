@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Tragique accident aux 103ème "Masters De Cascade"
 authors:
-  - titof-abs
+- titof-abs
 date: '2003-01-04 00:00:00'
+layout: article
+redirect_from:
+- /2003/01/03/tragique-accident-aux-103eme-masters-de-cascade
+- /2003/01/03/tragique-accident-aux-103eme-masters-de-cascade/
 tags:
 - liberty-city
-redirect_from:
-  - /2003/01/03/tragique-accident-aux-103eme-masters-de-cascade
+title: Tragique accident aux 103ème "Masters De Cascade"
 ---
+
 
 _En effet, Andrew Stivenson est décédé dans un tragique accident. Dans cet article, résultat et émotion._
 

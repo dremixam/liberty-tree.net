@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Rendez-vous hebdomadaire du LSGD Club
-cover: "/content/images/2005/01/lsgdfacetoface.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/lsgdfacetoface.jpg
 date: '2006-05-02 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Rendez-vous hebdomadaire du LSGD Club
 ---
+
 
 Dimanche 30 Avril 2006, 7:00 AM. Comme chaque dimanche matin, les membres du Gentlemen Drivers Club de Los Santos (LSGD) se sont donnés rendez-vous sur le _Pier_ de Verona Beach pour discuter autour d'un capuccino. Etant membre du club depuis maintenant six ans et participant régulièrement (quand j'arrive à me lever de bonne heure...les fiestas&nbsp;à Mullholland c'est cool mais...) à ce meeting hebdomadaire, j'ai décidé de faire un petit compte-rendu de la chose.  
 N'habitant pas loin du lieu du rendez-vous, cela me permet de quitter la maison quinze minutes avant l'heure H.

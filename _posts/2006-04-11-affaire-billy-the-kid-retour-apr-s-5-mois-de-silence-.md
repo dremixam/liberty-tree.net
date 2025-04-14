@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'Affaire "Billy The Kid" : Retour après 5 mois de silence !'
-cover: "/content/images/2005/01/fblind_1.jpg"
 authors:
-  - civic666
+- civic666
+cover: /content/images/2005/01/fblind_1.jpg
 date: '2006-04-11 00:00:00'
+layout: article
 tags:
 - los-santos
+title: 'Affaire "Billy The Kid" : Retour après 5 mois de silence !'
 ---
+
 
 28 Janvier 2006: Dick Goblin, le célèbre cuisinier qui animait l'émission Goûtez, c'est pas de la merde ! sur LSTV et propriétaire de la célèbre chaîne de restaurants 3 étoiles "World of Coq" disait à sa femme, Martha Goblin, qu'il allait&nbsp; "se dégourdir les jambes" en voiture...Le lendemain, Mme Goblin nous signale la disparition de son mari. La police fait aussi le lien avec le fourgon qui aurait du être celui du braquage du fourgon blindé le 18 décembre 2005 qui était aux couleurs du restaurant...Il y a probablement un lien entre Dick Goblin et le braquage.
 

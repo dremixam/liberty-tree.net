@@ -1,16 +1,18 @@
 ---
-layout: article
-title: La fièvre du sport
-cover: "/content/images/2016/06/tow.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/tow.jpg
 date: '2006-03-24 00:00:00'
+layout: article
+redirect_from:
+- /2006/03/23/la-fievre-du-sport
+- /2006/03/23/la-fievre-du-sport/
 tags:
 - san-fierro
 - los-santos
-redirect_from:
-  - /2006/03/23/la-fievre-du-sport
+title: La fièvre du sport
 ---
+
 
 L'action prend place dans la petite bourgade paisible d'Angel Pine, au sud de San Fierro, petite ville rythmée par le va-et-vient des touristes visitants le mont Chilliad, par les routiers au volant de leurs Freightliners calés sur KROSE 24h sur 24...et par les disputes de Joseph et Martha Mc Smith.
 

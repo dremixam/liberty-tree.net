@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Les vacances arrivent à grand pas !
-cover: "/content/images/2005/01/vac2007.jpg"
 authors:
-  - passe-partout
+- passe-partout
+cover: /content/images/2005/01/vac2007.jpg
 date: '2007-06-22 00:00:00'
+layout: article
 tags:
 - san-fierro
 - los-santos
 - las-venturas
+title: Les vacances arrivent à grand pas !
 ---
+
 
 Ca y est ! Pour certains d'entre nous c'est déjà les vacances, pour d'autre c'est bientôt ! La météo nationale prévoit un été chaud chaud chaud ! Avec des températures avoisinant les 30° et plus. La plage de Los Santos commence déjà à se remplir, les gérants de magasins se frottent les mains, mais ils ne sont pas les seuls, les aéroports de Los Santos, San Fierro et Las Venturas se remplissent peu à peu, les gares également. C'est une véritable aubaine pour l'économie de San Andreas qui devrait augmenter de 8 % ! Cette année, on risque de ne pouvoir circuler normalement dans tout le pays ! Les touristes débarquent déjà !
 

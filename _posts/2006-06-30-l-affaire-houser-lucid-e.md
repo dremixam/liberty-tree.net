@@ -1,13 +1,14 @@
 ---
-layout: article
-title: L'affaire Houser élucidée
-cover: "/content/images/2005/01/2monkey1.jpg"
 authors:
-  - little-worm
+- little-worm
+cover: /content/images/2005/01/2monkey1.jpg
 date: '2006-06-30 00:00:00'
+layout: article
 tags:
 - vice-city
+title: L'affaire Houser élucidée
 ---
+
 
 > **Liberty Tree :** Officier Silvergun, tout le monde ici est frappé par la violence de l'assassinat de Lornne Houser... Mais que s'est-il passé exactement ?
 

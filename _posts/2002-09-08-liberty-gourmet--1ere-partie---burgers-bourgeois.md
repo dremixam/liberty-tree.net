@@ -1,14 +1,16 @@
 ---
-layout: article
-title: 'Liberty Gourmet (1ère partie): Burgers Bourgeois'
 authors:
-  - pavlov
+- pavlov
 date: '2002-09-08 00:00:00'
+layout: article
+redirect_from:
+- /2002/09/07/liberty-gourmet-1ere-partie-burgers-bourgeois
+- /2002/09/07/liberty-gourmet-1ere-partie-burgers-bourgeois/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/09/07/liberty-gourmet-1ere-partie-burgers-bourgeois
+title: 'Liberty Gourmet (1ère partie): Burgers Bourgeois'
 ---
+
 
 _Voici le premier volet du « Liberty Gourmet », le guide des restaurants de Liberty City. Aujourd'hui nous mangeons aux « Burgers Bourgeois »..._
 

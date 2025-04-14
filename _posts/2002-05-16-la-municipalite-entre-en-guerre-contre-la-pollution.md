@@ -1,14 +1,16 @@
 ---
-layout: article
-title: La municipalité entre en guerre contre la pollution
 authors:
-  - little-worm
+- little-worm
 date: '2002-05-16 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/15/la-municipalite-entre-en-guerre-contre-la-pollution
+- /2002/05/15/la-municipalite-entre-en-guerre-contre-la-pollution/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/15/la-municipalite-entre-en-guerre-contre-la-pollution
+title: La municipalité entre en guerre contre la pollution
 ---
+
 
 La pollution de l'eau est de plus en plus problématique à Liberty. Déjà qu'à l'air libre, il faut porter des masques à gaz dans certains quartiers, là, ça dépasse les bornes. La récente explosion de l'usine de poisson des Triades a été attribuée à un maquereau ayant avalé des déchets toxiques qui aurait provoqué une détonation lors de l'arrivée d'un camion-benne.
 

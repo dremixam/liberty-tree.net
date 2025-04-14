@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Inauguration de la première salle de sport à Vice City
-cover: "/content/images/2005/01/Salle_de_muscu.jpg"
 authors:
-  - john-johnson
+- john-johnson
+cover: /content/images/2005/01/Salle_de_muscu.jpg
 date: '2006-04-27 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Inauguration de la première salle de sport à Vice City
 ---
+
 
 Depuis très longtemps, Vice City est décrite comme étant la ville la plus décadente des Etats-Unis,&nbsp;la plus corrompue de l'Etat et la ville avec le plus haut taux de suicide du pays. Bien que la ville ne soit pas bien grande, sa mauvaise réputation est légendaire.
 

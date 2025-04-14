@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un commando terroriste s'empare d'un missile nucléaire
-cover: "/content/images/2016/06/Area_69_2.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2016/06/Area_69_2.jpg
 date: '2006-02-21 00:00:00'
+layout: article
+redirect_from:
+- /2006/02/20/un-commando-terroriste-sempare-dun-missile-nucleaire
+- /2006/02/20/un-commando-terroriste-sempare-dun-missile-nucleaire/
 tags:
 - liberty-city
-redirect_from:
-  - /2006/02/20/un-commando-terroriste-sempare-dun-missile-nucleaire
+title: Un commando terroriste s'empare d'un missile nucléaire
 ---
+
 
 _Un missile nucléaire aurait été dérobé hier a-t-on appris par le porte parole du gouvernement. Cet acte serait l’œuvre d'un commando terroriste menaçant les États-Unis._
 

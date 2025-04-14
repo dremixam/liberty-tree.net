@@ -1,13 +1,14 @@
 ---
-layout: article
-title: J'ai testé les taxis de Los Santos
-cover: "/content/images/2016/07/taxils.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2016/07/taxils.jpg
 date: '2006-05-15 00:00:00'
+layout: article
 tags:
 - los-santos
+title: J'ai testé les taxis de Los Santos
 ---
+
 
 Depuis quelques temps, et j'ai parfois un peu le honte de le dire, je roule en taxi ! Oui, parfaitement, depuis qu'un abruti, en sortant de son garage à la résidence de Santa Maria Beach,&nbsp;a complètement esquinté l'aile de ma Cadillac Eldorado ! J'ai dû, après ce malheureux incident, appeler la LS Taxis pour m'amener sur mon lieu de travail en attendant les éventuelles réparations.
 

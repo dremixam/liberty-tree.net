@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Tim McAustin, un milliardaire hors du commun
-cover: "/content/images/2005/01/Biens_McAustin.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2005/01/Biens_McAustin.jpg
 date: '2006-05-20 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Tim McAustin, un milliardaire hors du commun
 ---
+
 
 A partir d'aujourd'hui, votre journal préféré, le Liberty Tree vous propose une nouvelle série de reportages sur des figures célèbres du pays. Drôles, attachants, idiots, bienfaiteurs, cinglés ou dangereux, "Star d'un jour" va vous présenter ces hommes et ces femmes célèbres de notre beau pays. Et pour ce premier numéro, nous allons nous intéresser à la personnalité de l'homme le plus riche des Etats-Unis : Jim McAustin, multi-milliardaire et magnat du pétrole.
 

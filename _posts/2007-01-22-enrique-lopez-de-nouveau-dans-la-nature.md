@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Enrique Lopez de nouveau dans la nature
-cover: "/content/images/2016/06/swatattaque_0.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/swatattaque_0.jpg
 date: '2007-01-22 00:00:00'
+layout: article
+redirect_from:
+- /2007/01/21/enrique-lopez-de-nouveau-dans-la-nature
+- /2007/01/21/enrique-lopez-de-nouveau-dans-la-nature/
 tags:
 - los-santos
-redirect_from:
-  - /2007/01/21/enrique-lopez-de-nouveau-dans-la-nature
+title: Enrique Lopez de nouveau dans la nature
 ---
+
 
 La semaine dernière, le LSPD annonçait fièrement l'arrestation d'Enrique Lopez, faussaire qui, en quelques mois seulement, écoula 2,2 millions de dollars, repartis dans différents états du pays. Lopez fut arrêté lors d'un simple contrôle de routine, alors que le feu arrière-droit de sa Cadillac était défectueux. Lors de sa mise en détention, des caméras de télévision de la presse locale purent filmer un court instant, à l'insu du service de protection qui entourait le faussaire qui en profita pour crier haut et fort qu'il offrirait une récompense d'un million de dollar à celui qui le sortirait des griffes du LSPD.
 

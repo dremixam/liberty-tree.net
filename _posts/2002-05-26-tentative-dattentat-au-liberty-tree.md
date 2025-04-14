@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Tentative d'attentat au Liberty-Tree
-cover: "/content/images/2016/06/dodo5_0.jpg"
 authors:
-  - rr4
+- rr4
+cover: /content/images/2016/06/dodo5_0.jpg
 date: '2002-05-26 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/25/tentative-dattentat-au-liberty-tree
+- /2002/05/25/tentative-dattentat-au-liberty-tree/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/25/tentative-dattentat-au-liberty-tree
+title: Tentative d'attentat au Liberty-Tree
 ---
+
 
 .
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Alerte à la bombe dans le centre-ville
-cover: "/content/images/2016/06/0_0%284%29.jpg"
 authors:
-  - titi
+- titi
+cover: /content/images/2016/06/0_0%284%29.jpg
 date: '2014-07-12 00:00:00'
+layout: article
+redirect_from:
+- /2014/07/11/alerte-a-la-bombe-dans-le-centre-ville
+- /2014/07/11/alerte-a-la-bombe-dans-le-centre-ville/
 tags:
 - los-santos
-redirect_from:
-  - /2014/07/11/alerte-a-la-bombe-dans-le-centre-ville
+title: Alerte à la bombe dans le centre-ville
 ---
+
 
 _Hier à Downtown Los Santos, un forcené s'est retranché dans un parking souterrain de la Maze Bank Tower avec 80 charges explosives._
 

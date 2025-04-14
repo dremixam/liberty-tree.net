@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Les LOVE FIST à Vice City
-cover: "/content/images/2005/01/la_salle_de_concert.jpg"
 authors:
-  - alexis1450
+- alexis1450
+cover: /content/images/2005/01/la_salle_de_concert.jpg
 date: '2006-05-03 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Les LOVE FIST à Vice City
 ---
+
 
 La date du concert était prévue depuis 6 mois déjà, les panneaux et affiches publicitaires étaient omniprésents dans Vice City. C’est sans doutes grâce&nbsp;à cette belle opération médiatique qu’énormément de viciens se sont déplacés. La rue parallèle à la salle de concert était noire de monde.
 

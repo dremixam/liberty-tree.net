@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Un lecteur du Liberty Tree assassiné par un gang Latino.
 authors:
-  - nelson
+- nelson
 date: '2008-01-28 23:29:00'
+layout: article
 tags:
 - los-santos
+title: Un lecteur du Liberty Tree assassiné par un gang Latino.
 ---
+
 
 _Un homme a été retrouvé assassiné, hier après-midi, en plein Ganton. Le LSPD penche pour un règlement de compte entre deux gangs rivaux, mais après quelques recherches, la victime semblerait être un lecteur fidèle du Liberty Tree..._
 

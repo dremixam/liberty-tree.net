@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La Paresse à Los Santos
-cover: "/content/images/2016/06/10.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/10.jpg
 date: '2014-02-24 00:00:00'
+layout: article
+redirect_from:
+- /2014/02/23/la-paresse-a-los-santos
+- /2014/02/23/la-paresse-a-los-santos/
 tags:
 - los-santos
-redirect_from:
-  - /2014/02/23/la-paresse-a-los-santos
+title: La Paresse à Los Santos
 ---
+
 
 _Los Santos, l'une des plus grandes villes du pays, représente très bien la vision que le monde a du Rêve Américain. Les inégalités, le racisme, le patriotisme, la prostitution... Los Santos devient de plus en plus l'image des péchés capitaux._
 

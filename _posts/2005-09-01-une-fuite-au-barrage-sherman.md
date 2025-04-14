@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Une fuite au barrage Sherman
-cover: "/content/images/2016/06/Vue%20barrage.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2016/06/Vue%20barrage.jpg
 date: '2005-09-01 00:00:00'
+layout: article
+redirect_from:
+- /2005/08/31/une-fuite-au-barrage-sherman
+- /2005/08/31/une-fuite-au-barrage-sherman/
 tags:
 - vice-city
-redirect_from:
-  - /2005/08/31/une-fuite-au-barrage-sherman
+title: Une fuite au barrage Sherman
 ---
+
 
 Les employés du barrage Sherman ont remarqué ce matin une fuite d'eau sur la façade sud. Cet édifice construit dans les années 30, n'a jamais été rénové depuis. Les habitants des petits villages de la Tierra Robada ont été évacués par mesure de précaution.
 

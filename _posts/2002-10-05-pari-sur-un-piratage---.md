@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Pari sur un piratage!
 authors:
-  - max-2
+- max-2
 date: '2002-10-05 00:00:00'
+layout: article
+redirect_from:
+- /2002/10/04/pari-sur-un-piratage
+- /2002/10/04/pari-sur-un-piratage/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/10/04/pari-sur-un-piratage
+title: Pari sur un piratage!
 ---
+
 
 Le site internet de la **Bank of Liberty** fût penétré le 28.09.02 par des petits "pirates" à 16h36.
 

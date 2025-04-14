@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Un homme meurt en voyant sa belle mère !
-cover: "/content/images/2005/01/Hallsainte.jpg"
 authors:
-  - vercetti
+- vercetti
+cover: /content/images/2005/01/Hallsainte.jpg
 date: '2007-08-10 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Un homme meurt en voyant sa belle mère !
 ---
+
 
 Hier Steeve Mathiew, un jeune homme de 27 ans, accompagné de sa fiancée, allait rendre visite à ses beaux parents pour la première fois. Alors que la belle-mère s’avançait vers lui pour lui faire la bise, il tombe raide mort. Steeve Mathiew a été emmené aux urgences, mais le médecin affirma qu'il n'y avait plus rien à faire pour lui. Drame pour la famille et surtout pour la fiancée qui comptait se marier dans un mois avec le jeune homme. Nous interrogeons maintenant Kathleen Moon, fiancée de Steeve Mathiew :
 

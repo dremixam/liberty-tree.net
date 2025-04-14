@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Recrudescence de la violence dans les écoles
-cover: "/content/images/2016/06/Violence_0.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Violence_0.jpg
 date: '2013-12-07 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/06/recrudescence-de-la-violence-dans-les-ecoles
+- /2013/12/06/recrudescence-de-la-violence-dans-les-ecoles/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/06/recrudescence-de-la-violence-dans-les-ecoles
+title: Recrudescence de la violence dans les écoles
 ---
+
 
 L'université de Los Santos, San Andreas (ULSA) est l'une des plus réputées d'Amérique. Elle a formé de nombreux hommes et femmes célèbres du pays et est connue pour son équipe de football américain, l'une des meilleures du championnat universitaire. Hélas, tout n'est pas tout à fait aussi rose que tout le monde le pense.
 

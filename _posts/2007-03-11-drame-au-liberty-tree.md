@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Drame au Liberty Tree
-cover: "/content/images/2005/01/donut.jpg"
 authors:
-  - logan
+- logan
+cover: /content/images/2005/01/donut.jpg
 date: '2007-03-11 00:00:00'
+layout: article
 tags:
 - san-fierro
 - los-santos
 - las-venturas
+title: Drame au Liberty Tree
 ---
+
 
 Cela faisait quelques temps que toute la rédaction du journal s'y préparait, le Liberty-Tree a vendu son millionième exemplaire ce week-end et pour l'occasion, les membres du journal avaient vu grand.
 

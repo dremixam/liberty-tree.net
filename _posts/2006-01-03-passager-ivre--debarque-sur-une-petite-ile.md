@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Passager ivre, débarqué sur une petite île
-cover: "/content/images/2016/06/AT-400.jpg"
 authors:
-  - slizzel
+- slizzel
+cover: /content/images/2016/06/AT-400.jpg
 date: '2006-01-03 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/02/passager-ivre-debarque-sur-une-petite-ile
+- /2006/01/02/passager-ivre-debarque-sur-une-petite-ile/
 tags:
 - san-fierro
-redirect_from:
-  - /2006/01/02/passager-ivre-debarque-sur-une-petite-ile
+title: Passager ivre, débarqué sur une petite île
 ---
+
 
 _Un passager ivre sur un vol entre Los Santos et Liberty City s'est vu débarquer sur une petite île au nord de San Fierro où il a passé contraint et forcé 36 heures avant de pouvoir en repartir, a-t-on appris vendredi auprès de la compagnie aérienne concernée._
 

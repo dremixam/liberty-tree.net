@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Liberty City Survivor I
-cover: "/content/images/v1/user6/pute.jpg"
 authors:
-  - little-worm
+- little-worm
+cover: /content/images/v1/user6/pute.jpg
 date: '2002-06-04 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/03/liberty-city-survivor-i
+- /2002/06/03/liberty-city-survivor-i/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/03/liberty-city-survivor-i
+title: Liberty City Survivor I
 ---
+
 
 Liberty City Survivor, la très populaire émission de télé-réalité de Liberty City, a pris fin hier. En exclusivité, voici la fiche d'identité des candidats et le résumé des 30 jours de galère que les jeunes gens ont eu à endurer dans leur loft.
 

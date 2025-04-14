@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Dalivex fait sa rentrée
-cover: "/content/images/2005/01/dalivextitre.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/dalivextitre.jpg
 date: '2006-09-25 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Dalivex fait sa rentrée
 ---
+
 
 Créateurs dans l'industrie vidéo-ludique, les types de chez Dalivex sont des génies incompris. Depuis 1999, date de lancement de ce studio abritant tous les rebuts des écoles de jeux vidéos, Dalivex nous a toujours envoyé des jeux. Vous allez me dire _pourquoi il y a jamais eu de test_ ? Je vais vous répondre que ça ne valait pas le coup mais en voyant il y a trois jours, Special-K m'apporter un carton délicatement fermé, soigné aux petits oignons, griffé Dalivex,&nbsp;j'ai tout de suite compris et j'ai décidé de vous faire part de mes tests sur les plus mauvais jeux de cet automne d'une part parce que j'aime bien jouer aux jeux Dalivex et d'autre part parce que ça manque ce genre d'article. En parlant de Special-K, je l'entend encore dire "Woooaaahh, faudra que tu me prêtes tes jeux. Ils ont l'air sympatoches !" Le pauvre, il ne savait pas. Je lui ai dit la vérité et il a très vite regagné son bureau en lâchant un petit rire sadique à mon égard.
 

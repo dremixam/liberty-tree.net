@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Une nouvelle saison de chasse commence à Blaine County
-cover: "/content/images/2016/06/0_0_100.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_100.jpg
 date: '2014-01-13 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/12/une-nouvelle-saison-de-chasse-commence-a-blaine-county
+- /2014/01/12/une-nouvelle-saison-de-chasse-commence-a-blaine-county/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/12/une-nouvelle-saison-de-chasse-commence-a-blaine-county
+title: Une nouvelle saison de chasse commence à Blaine County
 ---
+
 
 Entre le désert de Sandy Shores et les immenses forêts de Paleto Bay, Blaine County se trouve être une région excellente pour les chasseurs. Mais quel gibier y trouve-t-on exactement ? Et d’ailleurs, pourquoi y a-t-il ce besoin de le réguler comme ça ? C’est en ce début d’année que de nombreux chasseurs ont d’ores et déjà commencé à aller traquer ce gibier…
 

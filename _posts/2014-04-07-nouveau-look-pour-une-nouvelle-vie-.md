@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Nouveau look pour une nouvelle vie
-cover: "/content/images/2016/06/0_0_178.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_178.jpg
 date: '2014-04-07 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/06/nouveau-look-pour-une-nouvelle-vie
+- /2014/04/06/nouveau-look-pour-une-nouvelle-vie/
 tags:
 - los-santos
-redirect_from:
-  - /2014/04/06/nouveau-look-pour-une-nouvelle-vie
+title: Nouveau look pour une nouvelle vie
 ---
+
 
 _Les habitants de Los Santos sont si superficiels qu'ils vous critiqueront dès lors que vous ne portez pas les dernières tenues à la mode. Alors, sauf si vous êtes un indécrottable célibataire, vous devriez vous renseigner un peu sur les nouvelles tendances si vous ne voulez pas passer pour un blaireau._
 

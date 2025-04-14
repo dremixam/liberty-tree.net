@@ -1,12 +1,13 @@
 ---
-layout: article
-title: 'Vinewood : un réseau de prostitution de luxe démantelé'
 authors:
-  - f-rosenberg
+- f-rosenberg
 date: '2007-08-27 00:00:00'
+layout: article
 tags:
 - los-santos
+title: 'Vinewood : un réseau de prostitution de luxe démantelé'
 ---
+
 
 ![](/content/images/2005/01/0_9993.jpg)
 

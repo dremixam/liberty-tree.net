@@ -1,15 +1,17 @@
 ---
-layout: article
-title: V-Rock en procès
-cover: "/content/images/2016/06/vrock.jpg"
 authors:
-  - diabolik-c
+- diabolik-c
+cover: /content/images/2016/06/vrock.jpg
 date: '2006-01-22 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/21/v-rock-en-proces
+- /2006/01/21/v-rock-en-proces/
 tags:
 - vice-city
-redirect_from:
-  - /2006/01/21/v-rock-en-proces
+title: V-Rock en procès
 ---
+
 
 _A cause d'un morceau de Heavy Metal d'un anonyme, la station V-rock risque d'être supprimée, Le directeur de la station, Jason Lewis, et les Love Fist luttent contre le procès._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'L''amour sur Internet : mythe ou arnaque ?'
-cover: "/content/images/2016/06/0_0_127.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_127.jpg
 date: '2014-01-27 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/26/lamour-sur-internet-mythe-ou-arnaque
+- /2014/01/26/lamour-sur-internet-mythe-ou-arnaque/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/26/lamour-sur-internet-mythe-ou-arnaque
+title: 'L''amour sur Internet : mythe ou arnaque ?'
 ---
+
 
 Depuis le boom de l’an 2000, de plus en plus de foyers se sont équipés d’Internet, et ça été une véritable révélation pour certains. C’est en surfant sur le net que certaines personnes ont commencé à avoir envie de chercher l’âme sœur. On pense souvent que ces fameux sites de rencontre, qui sont devenus avec le temps de plus en plus nombreux, sont faits pour les gens les plus timides qui sortent peu en ville. Mais cette idée devient de plus en plus fausse. En effet, nombreuses sont les personnes qui désirent soit refaire leur vie après un divorce ou tout autre drame douloureux, ou bien tout simplement rencontrer quelqu’un en dehors de leur entourage proche. Seulement, l’utilisation de ces sites représente en vérité une véritable mine d’or commerciale, c’est pourquoi nous sommes allés enquêter sur le sujet aujourd’hui.
 

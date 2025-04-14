@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Le hangar ferme ses portes
-cover: "/content/images/2005/01/hangar.jpg"
 authors:
-  - carl
+- carl
+cover: /content/images/2005/01/hangar.jpg
 date: '2006-07-16 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Le hangar ferme ses portes
 ---
+
 
 Le gouverneur de Floride a décidé de fermer le hangar d'Escobar Airport, qui fut construit en 1971 et finit en 1978. Donc, presque 7 ans de travail. Mais il y a sûrement des raisons, nous avons fait un reportage spécial sur ce hangar devenu totalement désert et qui servira pour des visites guidées.
 

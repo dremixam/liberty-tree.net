@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Attaque de véhicule à Vice City
-cover: "/content/images/2016/06/thumb%203.jpg"
 authors:
-  - logan
+- logan
+cover: /content/images/2016/06/thumb%203.jpg
 date: '2005-10-16 00:00:00'
+layout: article
+redirect_from:
+- /2005/10/15/attaque-de-vehicule-a-vice-city
+- /2005/10/15/attaque-de-vehicule-a-vice-city/
 tags:
 - vice-city
-redirect_from:
-  - /2005/10/15/attaque-de-vehicule-a-vice-city
+title: Attaque de véhicule à Vice City
 ---
+
 
 _Ce matin, à 9h55 heure locale, un camion a été attaqué a la sortie du port de Vice._
 

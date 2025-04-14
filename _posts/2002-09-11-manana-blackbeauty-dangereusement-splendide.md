@@ -1,12 +1,13 @@
 ---
-layout: article
-title: 'Manana BlackBeauty : Dangereusement Splendide'
 authors:
-  - nelson
+- nelson
 date: '2002-09-11 13:00:00'
+layout: article
 tags:
 - liberty-city
+title: 'Manana BlackBeauty : Dangereusement Splendide'
 ---
+
 
 Chers lecteurs, bonjour!
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Alpine Armoring encore prise pour cible !
-cover: "/content/images/2005/01/Alpine_-_title.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/Alpine_-_title.jpg
 date: '2006-12-06 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Alpine Armoring encore prise pour cible !
 ---
+
 
 ![](/content/images/2005/01/Alpine_-_title.jpg)
 

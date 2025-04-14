@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Succès pour Inter Mobile aux USA
-cover: "/content/images/2005/01/logointermobile-molotov.jpg"
 authors:
-  - molotov
+- molotov
+cover: /content/images/2005/01/logointermobile-molotov.jpg
 date: '2007-02-04 00:00:00'
+layout: article
 tags:
 - los-santos
 - san-fierro
 - las-venturas
+title: Succès pour Inter Mobile aux USA
 ---
+
 
 ![](/content/images/2005/01/logointermobile-molotov.jpg)
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Quand la provocation n'a plus de limites
-cover: "/content/images/2016/06/25_2.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/25_2.jpg
 date: '2014-04-18 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/17/quand-la-provocation-na-plus-de-limites
+- /2014/04/17/quand-la-provocation-na-plus-de-limites/
 tags:
 - los-santos
-redirect_from:
-  - /2014/04/17/quand-la-provocation-na-plus-de-limites
+title: Quand la provocation n'a plus de limites
 ---
+
 
 _Un déséquilibré provoque la police de Los Santos en envoyant des photos de lui détruisant leurs véhicules de fonction._
 

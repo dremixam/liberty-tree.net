@@ -1,14 +1,15 @@
 ---
-layout: article
-title: 'Insecticide mortel: l''enquête progresse!'
-cover: "/content/images/2005/01/Insect_suite_biohazard.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2005/01/Insect_suite_biohazard.jpg
 date: '2006-06-25 00:00:00'
+layout: article
 tags:
 - los-santos
 - san-fierro
+title: 'Insecticide mortel: l''enquête progresse!'
 ---
+
 
 ![Trew Barrymore, PDG de LASA Inc.](/content/images/2005/01/Barrymore.jpg)
 _Trew Barrymore, PDG de LASA Inc._

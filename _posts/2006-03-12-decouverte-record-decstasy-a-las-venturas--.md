@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Découverte record d'ecstasy à Las Venturas !
-cover: "/content/images/2016/06/avion_dans_hopital.jpg"
 authors:
-  - dami
+- dami
+cover: /content/images/2016/06/avion_dans_hopital.jpg
 date: '2006-03-12 00:00:00'
+layout: article
+redirect_from:
+- /2006/03/11/decouverte-record-decstasy-a-las-venturas
+- /2006/03/11/decouverte-record-decstasy-a-las-venturas/
 tags:
 - las-venturas
-redirect_from:
-  - /2006/03/11/decouverte-record-decstasy-a-las-venturas
+title: Découverte record d'ecstasy à Las Venturas !
 ---
+
 
 _Ce matin, un terrible accident s'est produit en pleine Tierra Robada provoquant la mort de plusieurs personnes. Les fouilles ont révelé une grande présence d'ecstasy dans les soutes de l'appareil._
 

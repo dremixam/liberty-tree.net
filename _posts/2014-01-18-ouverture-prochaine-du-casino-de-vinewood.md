@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Ouverture prochaine du casino de Vinewood
-cover: "/content/images/2016/06/Casino1.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Casino1.jpg
 date: '2014-01-18 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/17/ouverture-prochaine-du-casino-de-vinewood
+- /2014/01/17/ouverture-prochaine-du-casino-de-vinewood/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/17/ouverture-prochaine-du-casino-de-vinewood
+title: Ouverture prochaine du casino de Vinewood
 ---
+
 
 _Le tout nouveau casino de Vinewood, sobrement nommé "Be Lucky" sera officiellement inauguré dans les prochaines semaines. Pour vous, le Liberty Tree est allé prendre la température sur place._
 

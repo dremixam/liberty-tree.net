@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Des Anges volent au secours d'une famille
-cover: "/content/images/2005/01/Angel_Pine_Aerial_View.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/Angel_Pine_Aerial_View.jpg
 date: '2006-04-13 00:00:00'
+layout: article
 tags:
 - san-fierro
+title: Des Anges volent au secours d'une famille
 ---
+
 
 Il y a un peu plus d'un mois, aux petites heures du matin, la résidence de la famille Gauthier, demeurant à _Angel Pine_ depuis plusieurs années déjà, a été complètement ravagée à la suite d'un incendie d'origine électrique. Fort heureusement personne ne se trouvait à l'intérieur au moment du sinistre puisque la famille était en visite à Juniper Hill pour s'occuper d'une tante malade.
 

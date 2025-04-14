@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Spectaculaire crash aérien dans la campagne de Blaine County
-cover: "/content/images/2016/06/20131112_171223%20%28Medium%29_0.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/20131112_171223%20%28Medium%29_0.jpg
 date: '2013-11-16 00:00:00'
+layout: article
+redirect_from:
+- /2013/11/15/spectaculaire-crash-aerien-dans-la-campagne-de-blaine-county
+- /2013/11/15/spectaculaire-crash-aerien-dans-la-campagne-de-blaine-county/
 tags:
 - los-santos
-redirect_from:
-  - /2013/11/15/spectaculaire-crash-aerien-dans-la-campagne-de-blaine-county
+title: Spectaculaire crash aérien dans la campagne de Blaine County
 ---
+
 
 Tout commence sur les coups de 13 h au dessus de Downtown, à l'heure où les hommes pressés relâchent un peu la pression autour d'un café Bean Machine ou d'une quiche lorraine pour les plus chanceux. Un jet de la compagnie Air Emu décolle de l'aéroport international de Los Santos en direction de Liberty City. À son bord, Javier Madrazo, cousin du célèbre « homme d'affaires » Martin Madrazo, bien connu pour sa soit-disant affiliation au cartel mexicain. L'aéronef entamait sa montée initiale à moyenne distance des gratte-ciels du centre-ville avant d'obliquer à l'Est, quand plusieurs détonations se sont faites entendre et un panache de fumée s'est soudainement échappé du moteur gauche. Bill Staines, comptable stagiaire à la Goldmann Finance Co. au 28ème étage d'une tour du quartier des affaires, témoigne :
 

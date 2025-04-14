@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Nouveau braquage d'un camion blindé de la Gruppe
-cover: "/content/images/2016/06/Gruppe2_0.jpg"
 authors:
-  - rr4
+- rr4
+cover: /content/images/2016/06/Gruppe2_0.jpg
 date: '2002-06-13 00:00:00'
+layout: article
+redirect_from:
+- /2002/06/12/nouveau-braquage-dun-camion-blinde-de-la-gruppe
+- /2002/06/12/nouveau-braquage-dun-camion-blinde-de-la-gruppe/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/06/12/nouveau-braquage-dun-camion-blinde-de-la-gruppe
+title: Nouveau braquage d'un camion blindé de la Gruppe
 ---
+
 
 Hier matin, un nouveau camion blindé de la société Gruppe Sechs s'est fait braquer par un truand solidement armé. L'homme d'une trentaine d'années a agit seul et sous les yeux des forces de l'ordre comme s'il avait voulu les narguer.
 

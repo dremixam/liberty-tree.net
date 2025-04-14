@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Nouveau phénomène à Los Santos : le vol de voitures'
-cover: "/content/images/2016/06/vol1.jpg"
 authors:
-  - civic666
+- civic666
+cover: /content/images/2016/06/vol1.jpg
 date: '2005-11-27 00:00:00'
+layout: article
+redirect_from:
+- /2005/11/26/nouveau-phenomene-a-los-santos-le-vol-de-voitures
+- /2005/11/26/nouveau-phenomene-a-los-santos-le-vol-de-voitures/
 tags:
 - los-santos
-redirect_from:
-  - /2005/11/26/nouveau-phenomene-a-los-santos-le-vol-de-voitures
+title: 'Nouveau phénomène à Los Santos : le vol de voitures'
 ---
+
 
 _Après la guerre des banlieues qui commencé à s'apaiser petit à petit, les vols de voitures se multiplient dans tout Los Santos : enquête._
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Cérémonie des Oscars au Cathay Theater
-cover: "/content/images/2005/01/Oscars_Graumann__s.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2005/01/Oscars_Graumann__s.jpg
 date: '2006-07-10 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Cérémonie des Oscars au Cathay Theater
 ---
+
 
 ![Le Cathay Theater accueille la cérémonie des Oscars pour la première fois](/content/images/2005/01/Oscars_Graumann__s.jpg)
 _Le Cathay Theater accueille la cérémonie des Oscars pour la première fois_

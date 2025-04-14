@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Nouvelle vague de véhicules sur Liberty City
-cover: "/content/images/2016/06/capitalautos01.jpg"
 authors:
-  - thefoxben
+- thefoxben
+cover: /content/images/2016/06/capitalautos01.jpg
 date: '2006-02-28 00:00:00'
+layout: article
+redirect_from:
+- /2006/02/27/nouvelle-vague-de-vehicules-sur-liberty-city
+- /2006/02/27/nouvelle-vague-de-vehicules-sur-liberty-city/
 tags:
 - liberty-city
-redirect_from:
-  - /2006/02/27/nouvelle-vague-de-vehicules-sur-liberty-city
+title: Nouvelle vague de véhicules sur Liberty City
 ---
+
 
 _Préparez-vous, de tout nouveaux modèles de véhicules arrivent à Liberty City, aussi sportives que berlines. Cette nouvelle gamme risque d'en séduire plus d'un..._
 

@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Un jeu qui va faire du bruit...
 authors:
-  - dremixam
+- dremixam
 date: '2008-04-29 12:52:00'
+layout: article
 tags:
 - los-santos
+title: Un jeu qui va faire du bruit...
 ---
+
 
 _C'est aujourd'hui que sort le très attendu Big Car Theft V et déjà, le dernier opus du jeu se vend par millions d'exemplaires a travers le monde. Enquête du Liberty Tree sur l'un des jeux les plus controversés du moment..._
 

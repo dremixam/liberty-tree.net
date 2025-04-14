@@ -1,14 +1,16 @@
 ---
-layout: article
-title: La Grande Evasion
 authors:
-  - pavlov
+- pavlov
 date: '2002-09-21 00:00:00'
+layout: article
+redirect_from:
+- /2002/09/20/la-grande-evasion
+- /2002/09/20/la-grande-evasion/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/09/20/la-grande-evasion
+title: La Grande Evasion
 ---
+
 
 _Hier soir une audacieuse évasion organisée par un commando a permis à Alvaro Ramirez de s'échapper du poste de la LCPD de Staunton Island._
 

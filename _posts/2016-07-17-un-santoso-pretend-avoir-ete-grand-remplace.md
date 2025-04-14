@@ -1,14 +1,15 @@
 ---
-layout: article
-title: Un Santosin prétend avoir été grand-remplacé
-cover: "/content/images/2016/07/billy2.jpeg"
 authors:
-  - dremixam
-date: '2016-07-17 02:58:13'
+- dremixam
 checked: true
+cover: /content/images/2016/07/billy2.jpeg
+date: '2016-07-17 02:58:13'
+layout: article
 tags:
 - los-santos
+title: Un Santosin prétend avoir été grand-remplacé
 ---
+
 
 _Comme un mauvais rêve_, c'est par ces mots que l'homme que nous sommes venus rencontrer introduit l'interview que nous réalisons en terrasse du Bean Machine de Simmet Alley à Los Santos. Il s'appelle Stuart Piddidiot, c'est en tout cas ce qu'il prétend.
 

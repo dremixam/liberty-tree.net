@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Double meurtre à Blueberry
-cover: "/content/images/2016/06/Blueberry.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2016/06/Blueberry.jpg
 date: '2006-01-27 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/26/double-meurtre-a-blueberry
+- /2006/01/26/double-meurtre-a-blueberry/
 tags:
 - liberty-city
-redirect_from:
-  - /2006/01/26/double-meurtre-a-blueberry
+title: Double meurtre à Blueberry
 ---
+
 
 _Deux touristes de Liberty City ont été retrouvés morts dans un motel de Blueberry. La police enquête sur les lieux du crime._
 

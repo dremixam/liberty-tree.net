@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Une nouvelle victime du sniper décapiteur
-cover: "/content/images/2016/06/staunton_b_1.jpg"
 authors:
-  - fxbt
+- fxbt
+cover: /content/images/2016/06/staunton_b_1.jpg
 date: '2002-11-21 00:00:00'
+layout: article
+redirect_from:
+- /2002/11/20/une-nouvelle-victime-du-sniper-decapiteur
+- /2002/11/20/une-nouvelle-victime-du-sniper-decapiteur/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/11/20/une-nouvelle-victime-du-sniper-decapiteur
+title: Une nouvelle victime du sniper décapiteur
 ---
+
 
 Cette nuit, une fois encore, une prostituée a été assassinée, toujours de la même façon, une balle de sniper dans la tête qui a explosé.
 

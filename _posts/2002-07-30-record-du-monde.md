@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Record du monde
 authors:
-  - pierrealex
+- pierrealex
 date: '2002-07-30 00:00:00'
+layout: article
+redirect_from:
+- /2002/07/29/record-du-monde
+- /2002/07/29/record-du-monde/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/07/29/record-du-monde
+title: Record du monde
 ---
+
 
 Après le record du plus grand taux de criminalité, de vols à main armée, de vols de voiture, d'actes de vandalismes etc. (nous ne parleront pas de celui de la police la moins efficace...), les habitants du Quartier Rouge et de Chinatown sur l'île de Portland se sont adonnés au plus grand nombre de battes de base-ball brisées sur des passants en moins d'une minute.
 

@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Today we make a race!
-cover: "/content/images/2005/01/rallye_pann.jpg"
 authors:
-  - gtaboss33
+- gtaboss33
+cover: /content/images/2005/01/rallye_pann.jpg
 date: '2006-11-16 00:00:00'
+layout: article
 tags:
 - los-santos
 - san-fierro
 - las-venturas
+title: Today we make a race!
 ---
+
 
 Du rallye à San Andreas ? Non, vous ne rêvez pas. L'Etat a organisé&nbsp;une journée spéciale rallye ouverte à tous, dans la petite ville de El Quebrados, à l'ouest de Las Venturas. Les fans étaient au rendez-vous, le maire Stephan Goodman a annoncé avoir eu la visite d'environ la moitié de la population de Las Venturas. Au programme de la journée : présentations de la discipline, interviews des pilotes présents, et bien sûr une course de&nbsp;quatre tours&nbsp;d'environ&nbsp;5-10km chacun.
 

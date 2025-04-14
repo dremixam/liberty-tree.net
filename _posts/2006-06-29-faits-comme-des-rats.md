@@ -1,14 +1,15 @@
 ---
-layout: article
-title: Faits comme des rats
-cover: "/content/images/2005/01/burger_garcia.jpg"
 authors:
-  - medium
+- medium
+cover: /content/images/2005/01/burger_garcia.jpg
 date: '2006-06-29 00:00:00'
+layout: article
 tags:
 - san-fierro
 - los-santos
+title: Faits comme des rats
 ---
+
 
 Aujourd'hui, le hamburger est une véritable institution à San Fierro : c'est un véritable symbole de la gastronomie américaine. Malheureusement, les industries alimentaires profitent parfois de la confiance aveugle de leurs clients. Et quand une chaîne de fast-food réputée comme Burger Shot se met à vendre des hamburgers avec de la viande de rat, toute la ville crie au scandale. Revenons sur cette triste affaire, qui n'est pas sans rappeler celle des hamburgers à la viande avariée à Los Santos...
 

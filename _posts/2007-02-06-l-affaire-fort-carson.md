@@ -1,15 +1,16 @@
 ---
-layout: article
-title: L'affaire Fort Carson
-cover: "/content/images/2005/01/ovni-2-molotov.jpg"
 authors:
-  - molotov
+- molotov
+cover: /content/images/2005/01/ovni-2-molotov.jpg
 date: '2007-02-06 00:00:00'
+layout: article
 tags:
 - las-venturas
 - san-fierro
 - los-santos
+title: L'affaire Fort Carson
 ---
+
 
 ![](/content/images/2005/01/ovni-2-molotov.jpg)
 

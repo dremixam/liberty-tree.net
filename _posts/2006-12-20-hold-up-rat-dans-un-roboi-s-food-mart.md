@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Hold-up raté dans un Roboi’s Food Mart
-cover: "/content/images/2005/01/Otage_Intervention.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2005/01/Otage_Intervention.jpg
 date: '2006-12-20 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Hold-up raté dans un Roboi’s Food Mart
 ---
+
 
 ![Image prise par la caméra de surveillance.](/content/images/2005/01/Otage_Camera.jpg)
 _Image prise par la caméra de surveillance._[La voiture criblée de balles du policier qui se trouvait sur place par hasard.](/content/images/2005/01/Otage_Accident.jpg)

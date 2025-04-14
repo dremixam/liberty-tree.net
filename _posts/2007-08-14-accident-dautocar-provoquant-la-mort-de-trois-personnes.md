@@ -1,14 +1,15 @@
 ---
-layout: article
-title: Accident d'autocar provoquant la mort de trois personnes.
 authors:
-  - gtaboss33
+- gtaboss33
 date: '2007-08-14 20:45:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Accident d'autocar provoquant la mort de trois personnes.
 ---
+
 
 _Encore des morts sur les routes de San Andreas cette semaine: Un autocar acheminant visiteurs originaires de Los Santos vers Las Venturas a été percuté par un camion. Explications et récit du Liberty Tree._
 

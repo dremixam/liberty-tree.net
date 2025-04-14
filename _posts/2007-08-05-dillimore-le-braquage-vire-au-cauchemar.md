@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'Dillimore : le braquage vire au cauchemar'
-cover: "/content/images/2005/01/1_000.jpg"
 authors:
-  - f-rosenberg
+- f-rosenberg
+cover: /content/images/2005/01/1_000.jpg
 date: '2007-08-05 00:00:00'
+layout: article
 tags:
 - los-santos
+title: 'Dillimore : le braquage vire au cauchemar'
 ---
+
 
  **Samedi :**
 

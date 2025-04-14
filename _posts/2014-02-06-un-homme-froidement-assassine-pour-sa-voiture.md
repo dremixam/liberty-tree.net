@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un homme froidement assassiné pour sa voiture
-cover: "/content/images/2016/06/0_0_159.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_159.jpg
 date: '2014-02-06 00:00:00'
+layout: article
+redirect_from:
+- /2014/02/05/un-homme-froidement-assassine-pour-sa-voiture
+- /2014/02/05/un-homme-froidement-assassine-pour-sa-voiture/
 tags:
 - los-santos
-redirect_from:
-  - /2014/02/05/un-homme-froidement-assassine-pour-sa-voiture
+title: Un homme froidement assassiné pour sa voiture
 ---
+
 
 C'était hier matin : le corps sans vie d'un quadragénaire à été retrouvé sur Hillcrest Avenue, dans les hauteurs de Los Santos. Les médecins légistes du LSPD ont conclu pour le moment que le décès datait de quelques heures, et que l'homme a dû être frappé puis achevé d'une balle d'AK-47. Cela va sans aucun doute remettre une nouvelle en fois en question le débat sur la libre circulation des armes dans ce pays.
 

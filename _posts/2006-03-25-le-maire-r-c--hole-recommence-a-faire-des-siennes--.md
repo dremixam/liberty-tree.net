@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le maire R.C. Hole recommence à faire des siennes !
-cover: "/content/images/2016/06/maire_R_C_Hole_1.jpg"
 authors:
-  - arno
+- arno
+cover: /content/images/2016/06/maire_R_C_Hole_1.jpg
 date: '2006-03-25 00:00:00'
+layout: article
+redirect_from:
+- /2006/03/24/le-maire-r-c-hole-recommence-a-faire-des-siennes
+- /2006/03/24/le-maire-r-c-hole-recommence-a-faire-des-siennes/
 tags:
 - liberty-city
-redirect_from:
-  - /2006/03/24/le-maire-r-c-hole-recommence-a-faire-des-siennes
+title: Le maire R.C. Hole recommence à faire des siennes !
 ---
+
 
 _Est-ce que le maire recommence ces magouilles avec la mafia ? Mr. Angus Wrong aurait des preuves qui ferait chuter le gouvernement du maire de Liberty City. Nous revenons sur les 3 grands scandales depuis la prise de fonction du maire R.C. Hole._
 

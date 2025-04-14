@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Rixe meurtrière au Hookies
-cover: "/content/images/2016/06/Hookies.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Hookies.jpg
 date: '2014-02-11 00:00:00'
+layout: article
+redirect_from:
+- /2014/02/10/rixe-meurtriere-au-hookies
+- /2014/02/10/rixe-meurtriere-au-hookies/
 tags:
 - los-santos
-redirect_from:
-  - /2014/02/10/rixe-meurtriere-au-hookies
+title: Rixe meurtrière au Hookies
 ---
+
 
 _Ce qui aurait pu être considéré comme une simple rixe de bar a tourné à la tuerie hier, au Hookies, situé sur la Great Ocean Freeway. L'attaque visait clairement le Lost MC, le gang de motards basé à Stab City._
 

@@ -1,12 +1,13 @@
 ---
-layout: article
-title: La nuit des clochards vivants
 authors:
-  - civic666
+- civic666
 date: '2010-03-12 16:23:00'
+layout: article
 tags:
 - liberty-city
+title: La nuit des clochards vivants
 ---
+
 
 Une petite pièce, s’il vous plait… Depuis peu, un phénomène effraie les habitants de notre métropole. En effet, certaines zones, principalement touristiques, sont infestées de clochards vous harcelant pour une petite pièce… Les vagabonds ne peuplent hélas plus les usines désaffectées ou les piliers de ponts d’autoroute. En effet, ils peuplent désormais les lieux principalement touristiques où ils sont sûrs de rapporter de l’argent. La cause ? Encore un sale démocrate aux idées communistes qui a eu la bonne idée de donner 1$ à un sans-domicile… Plaintes sur plaintes se succèdent et la ville et la police ont dévoilé des plans pour contrer les phénomène.
 

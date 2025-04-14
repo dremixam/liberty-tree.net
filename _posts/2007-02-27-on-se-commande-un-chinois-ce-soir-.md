@@ -1,13 +1,14 @@
 ---
-layout: article
-title: On se commande un chinois ce soir ?
-cover: "/content/images/2005/01/flic_ambulance.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/flic_ambulance.jpg
 date: '2007-02-27 00:00:00'
+layout: article
 tags:
 - vice-city
+title: On se commande un chinois ce soir ?
 ---
+
 
 ![](/content/images/2005/01/viceport.jpg)
 

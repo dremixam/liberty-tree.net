@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Base jumping entre les immeubles
-cover: "/content/images/2016/06/basejump2_0.jpg"
 authors:
-  - rr4
+- rr4
+cover: /content/images/2016/06/basejump2_0.jpg
 date: '2002-05-29 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/28/base-jumping-entre-les-immeubles
+- /2002/05/28/base-jumping-entre-les-immeubles/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/28/base-jumping-entre-les-immeubles
+title: Base jumping entre les immeubles
 ---
+
 
 Le mois dernier, un nouveau sport extrême est venu s'imposer à Liberty City: le base jumping du haut d'un immeuble.
 

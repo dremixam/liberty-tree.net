@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Attentat à la bombe au Well Stacked Pizza de Idlewood
-cover: "/content/images/2005/01/Well_Stacked_Pizza.jpg"
 authors:
-  - alive
+- alive
+cover: /content/images/2005/01/Well_Stacked_Pizza.jpg
 date: '2006-12-15 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Attentat à la bombe au Well Stacked Pizza de Idlewood
 ---
+
 
 C'est hier,&nbsp;à précisément 20H42 que cette tragédie a eu lieu. Plusieurs charges de C-4 cachées dans les murs du Well Stacked Pizza de Idlewood ont explosé simultanément. Le bilan est lourd : 12 morts et 3 blessés, dont un dans le coma ayant des blessures graves.
 

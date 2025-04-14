@@ -1,14 +1,15 @@
 ---
-layout: article
-title: Un convoi militaire attaqué
-cover: "/content/images/2005/01/dune.jpg"
 authors:
-  - logan
+- logan
+cover: /content/images/2005/01/dune.jpg
 date: '2007-01-25 00:00:00'
+layout: article
 tags:
 - las-venturas
 - los-santos
+title: Un convoi militaire attaqué
 ---
+
 
 Quatre heures du matin, aux environs de la base militaire de Bone county, une énorme explosion se fait entendre : une voiture piégée vient d'exploser devant un convoi d'armes militaire. Des tirs sont échangés entre l'armée et des mercenaires, qui prennent rapidement le dessus en les encerclant et grâce à leurs armes. Ils ont ensuite lancé des grenades lacrymogènes pour étouffer les militaires, qui n'ont pas pu résister longtemps. Ceux qui survient à cette attaque mesquine sont rapidement submergés et tentent de battre en retraite mais sont abattus.
 

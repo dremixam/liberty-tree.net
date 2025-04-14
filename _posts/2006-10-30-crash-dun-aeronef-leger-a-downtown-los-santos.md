@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Crash d'un aéronef léger à Downtown Los Santos
-cover: "/content/images/2016/06/crashnews_1.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/crashnews_1.jpg
 date: '2006-10-30 00:00:00'
+layout: article
+redirect_from:
+- /2006/10/29/crash-dun-aeronef-leger-a-downtown-los-santos
+- /2006/10/29/crash-dun-aeronef-leger-a-downtown-los-santos/
 tags:
 - los-santos
-redirect_from:
-  - /2006/10/29/crash-dun-aeronef-leger-a-downtown-los-santos
+title: Crash d'un aéronef léger à Downtown Los Santos
 ---
+
 
 Crash d'un aéronef léger à Downtown Los Santos Un avion de tourisme de petite taille s'est écrasé hier matin sur le Samson Building de Downtown Los Santos.
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les gangs de Los Santos en guerre !
-cover: "/content/images/2016/06/gallery9_0.jpg"
 authors:
-  - misterred
+- misterred
+cover: /content/images/2016/06/gallery9_0.jpg
 date: '2012-09-17 00:00:00'
+layout: article
+redirect_from:
+- /les-gangs-de-los-santos-en-guerre
+- /les-gangs-de-los-santos-en-guerre/
 tags:
 - los-santos
-redirect_from:
-  - /les-gangs-de-los-santos-en-guerre
+title: Les gangs de Los Santos en guerre !
 ---
+
 
 Los Santos, 15 heures : une émeute éclate entre les gangs. C'est une véritable guerre qui fut déclarée aujourd'hui dans les rues de la ville.
 

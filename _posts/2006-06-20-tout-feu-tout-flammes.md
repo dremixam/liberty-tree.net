@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Tout feu tout flammes
-cover: "/content/images/2005/01/villa_en_flammes_1.jpg"
 authors:
-  - medium
+- medium
+cover: /content/images/2005/01/villa_en_flammes_1.jpg
 date: '2006-06-20 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Tout feu tout flammes
 ---
+
 
 C’est hier, vers 00h30, que l’incendie s’est déclaré dans la villa de la superstar de Vinewood, Brade Hitt. Les flammes ont rapidement fait le tour de la maison, empêchant les occupants de sortir de la villa&nbsp;; sur les dix personnes présentes dans le bâtiment cette nuit-là, seules deux ont échappé de l’incendie.
 

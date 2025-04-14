@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le Beoing 666 enfin retrouvé
-cover: "/content/images/2016/06/26_3.jpg"
 authors:
-  - nevod
+- nevod
+cover: /content/images/2016/06/26_3.jpg
 date: '2014-04-29 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/28/le-beoing-666-enfin-retrouve
+- /2014/04/28/le-beoing-666-enfin-retrouve/
 tags:
 - los-santos
-redirect_from:
-  - /2014/04/28/le-beoing-666-enfin-retrouve
+title: Le Beoing 666 enfin retrouvé
 ---
+
 
 _Ce matin, les recherches sous-marines ont enfin permis de retrouver le Beoing 666, échoué au large de Los Santos après avoir changé de trajectoire. Et parmi les victimes, deux noms ont retenu notre attention..._
 

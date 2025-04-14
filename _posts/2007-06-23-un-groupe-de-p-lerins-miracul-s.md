@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Un groupe de pélerins miraculés
-cover: "/content/images/2005/01/Photographie_du_bus_par_un_radar_manuel.jpg"
 authors:
-  - ladanettedu94
+- ladanettedu94
+cover: /content/images/2005/01/Photographie_du_bus_par_un_radar_manuel.jpg
 date: '2007-06-23 00:00:00'
+layout: article
 tags:
 - san-fierro
 - los-santos
 - las-venturas
+title: Un groupe de pélerins miraculés
 ---
+
 
 Comme chaque année à la même époque, Hector Wilson, un conducteur d'autocar depuis plus de 20 ans, transportait le groupe de pèlerins de l'église "Saint Baptiste" (située à San Fierro) vers l'église "Sainte Bernadette de Lourdes" (située à Las Venturas), et&nbsp;roulait&nbsp;&nbsp;donc en plein milieu de&nbsp;la voie rapide traversant la ville du pêché. Mais un invité surprise&nbsp;aurait perturbé&nbsp;le recueil de ces religieux. En effet, le conducteur aurait reçu un appel anonyme sur la radio de l'autocar&nbsp;déclarant brièvement qu'une bombe aurait été placée en dessous du véhicule. Par souci de sécurité, le conducteur eut la lucidité de ne pas s'arrêter, de peur que cette arme destructrice ne soit branchée sur le compteur de vitesse. La radio brouillée, aucun moyen de communication avec les services d'autorité, les chances pour le bus d'arriver à destination en&nbsp;entier étaient moindres.
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: End of the line
-cover: "/content/images/2005/01/23.jpg"
 authors:
-  - logan
+- logan
+cover: /content/images/2005/01/23.jpg
 date: '2006-06-18 00:00:00'
+layout: article
 tags:
 - los-santos
+title: End of the line
 ---
+
 
 La nouvelle est tombée&nbsp;dans la nuit&nbsp;: Sean Amaru Johnson, alias The dealer, a été tué au cours d'un raid de la DEA ( Brigade anti-stupéfiants ) en association avec les forces de la LSPD.
 

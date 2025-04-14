@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Trafic chez Belly Up
-cover: "/content/images/2016/06/BellyUp.jpg"
 authors:
-  - pierrealex
+- pierrealex
+cover: /content/images/2016/06/BellyUp.jpg
 date: '2002-05-19 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/18/trafic-chez-belly-up
+- /2002/05/18/trafic-chez-belly-up/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/18/trafic-chez-belly-up
+title: Trafic chez Belly Up
 ---
+
 
 Le FBI a fait une descente chez la société Belly Up, sur l’Île de Portland près de Chinatown. Ils auraient alors saisi un important stock d'armes! Les chinois se seraient alors servis d'une société de vente de poissons comme couverture pour fournir en armes tout le quartier de Chinatown.
 

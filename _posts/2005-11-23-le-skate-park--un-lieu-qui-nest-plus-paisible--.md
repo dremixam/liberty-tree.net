@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le Skate Park, un lieu qui n'est plus paisible..
-cover: "/content/images/2016/06/afrontmen1.jpg"
 authors:
-  - noobsanarckist
+- noobsanarckist
+cover: /content/images/2016/06/afrontmen1.jpg
 date: '2005-11-23 00:00:00'
+layout: article
+redirect_from:
+- /2005/11/22/le-skate-park-un-lieu-qui-nest-plus-paisible
+- /2005/11/22/le-skate-park-un-lieu-qui-nest-plus-paisible/
 tags:
 - los-santos
-redirect_from:
-  - /2005/11/22/le-skate-park-un-lieu-qui-nest-plus-paisible
+title: Le Skate Park, un lieu qui n'est plus paisible..
 ---
+
 
 _Au coeur de Los Santos, qui depuis quelques jours paraissait tranquille, un affrontement terrible a éclaté entre un groupe de jeunes et les forces de l'ordre._
 

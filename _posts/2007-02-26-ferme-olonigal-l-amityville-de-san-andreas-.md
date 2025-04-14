@@ -1,15 +1,16 @@
 ---
-layout: article
-title: 'Ferme ''Olonigal: L''Amityville de San Andreas?'
-cover: "/content/images/2005/01/olonigal_05.jpg"
 authors:
-  - gtaboss33
+- gtaboss33
+cover: /content/images/2005/01/olonigal_05.jpg
 date: '2007-02-26 00:00:00'
+layout: article
 tags:
 - los-santos
 - san-fierro
 - las-venturas
+title: 'Ferme ''Olonigal: L''Amityville de San Andreas?'
 ---
+
 
 Rien de plus angoissant que de savoir qu'à quelques mètres de chez soi, se trouve, une ferme peut-être hantée. Pourtant, une histoire assez étrange semble peser sur cette ferme, elle serait habitée par des fantômes. Tout semble se confirmer avec la découverte des corps du couple Cainor, originaire de Liberty City, il y a quelques jours.
 

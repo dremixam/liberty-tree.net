@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le cadavre n'était pas mort
-cover: "/content/images/2016/06/gallery17.jpg"
 authors:
-  - satyr
+- satyr
+cover: /content/images/2016/06/gallery17.jpg
 date: '2013-11-09 00:00:00'
+layout: article
+redirect_from:
+- /2013/11/08/le-cadavre-netait-pas-mort
+- /2013/11/08/le-cadavre-netait-pas-mort/
 tags:
 - los-santos
-redirect_from:
-  - /2013/11/08/le-cadavre-netait-pas-mort
+title: Le cadavre n'était pas mort
 ---
+
 
 Souvenez-vous, 1er juin 2006, un corps criblé de balles est retrouvé dans un canal de Los Santos, le cadavre est rapidement identifié comme celui de Biorn, reporter au Liberty Tree.
 

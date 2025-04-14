@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un affreux braquage affecte tout San Andreas !
-cover: "/content/images/2016/06/camionette_hot_dog.jpg"
 authors:
-  - pliskin
+- pliskin
+cover: /content/images/2016/06/camionette_hot_dog.jpg
 date: '2006-02-16 00:00:00'
+layout: article
+redirect_from:
+- /2006/02/15/un-affreux-braquage-affecte-tout-san-andreas
+- /2006/02/15/un-affreux-braquage-affecte-tout-san-andreas/
 tags:
 - san-fierro
-redirect_from:
-  - /2006/02/15/un-affreux-braquage-affecte-tout-san-andreas
+title: Un affreux braquage affecte tout San Andreas !
 ---
+
 
 _C'est hier matin que Sergio Domingez, vendeur de hot-dog à Downtown, est décédé lors du braquage de son stand. Tout San Fierro ressent les conséquences de ce simple hold-up !_
 

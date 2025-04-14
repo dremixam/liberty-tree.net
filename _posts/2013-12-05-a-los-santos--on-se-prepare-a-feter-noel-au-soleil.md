@@ -1,15 +1,17 @@
 ---
-layout: article
-title: A Los Santos, on se prépare à fêter Noël au soleil
-cover: "/content/images/2016/06/Noel.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Noel.jpg
 date: '2013-12-05 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/04/a-los-santos-on-se-prepare-a-feter-noel-au-soleil
+- /2013/12/04/a-los-santos-on-se-prepare-a-feter-noel-au-soleil/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/04/a-los-santos-on-se-prepare-a-feter-noel-au-soleil
+title: A Los Santos, on se prépare à fêter Noël au soleil
 ---
+
 
 _A l'approche de Noël, les habitants et les commerçants préparent Noël, cette belle fête populaire et familiale. Dans les centres commerciaux notamment, mais aussi à la campagne, du côté de Grapeseed, ou de Paleto Bay._
 

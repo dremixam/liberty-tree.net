@@ -1,16 +1,18 @@
 ---
-layout: article
-title: Retour aux urnes
-cover: "/content/images/2016/06/america.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2016/06/america.jpg
 date: '2005-11-07 00:00:00'
+layout: article
+redirect_from:
+- /2005/11/06/retour-aux-urnes
+- /2005/11/06/retour-aux-urnes/
 tags:
 - vice-city
 - liberty-city
-redirect_from:
-  - /2005/11/06/retour-aux-urnes
+title: Retour aux urnes
 ---
+
 
 _Mercredi prochain, il vous faudra trancher pour élire le nouveau gouverneur de l'État. Le Liberty Tree vous renseigne sur la campagne de chacun pour que vous accomplissiez parfaitement votre devoir de citoyen._
 

@@ -1,15 +1,16 @@
 ---
-layout: article
-title: 'Obésité : un sujet tabou'
-cover: "/content/images/2005/01/ob_se3.jpg"
 authors:
-  - bart_man
+- bart_man
+cover: /content/images/2005/01/ob_se3.jpg
 date: '2006-03-06 18:14:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: 'Obésité : un sujet tabou'
 ---
+
 
 _A San Andreas, l'obésité devient un réel problème. Le Gouverneur a pris des mesures qui ne conviennent pas à tout le monde._
 

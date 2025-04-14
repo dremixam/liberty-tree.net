@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Bizutage dans l'armée
-cover: "/content/images/2016/06/Tank.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2016/06/Tank.jpg
 date: '2006-02-22 00:00:00'
+layout: article
+redirect_from:
+- /2006/02/21/bizutage-dans-larmee
+- /2006/02/21/bizutage-dans-larmee/
 tags:
 - vice-city
-redirect_from:
-  - /2006/02/21/bizutage-dans-larmee
+title: Bizutage dans l'armée
 ---
+
 
 _L'affaire a choqué tout l’État de San Andreas : une jeune recrue a dû se faire amputer des deux jambes ainsi que de ses organes génitaux Ã la suite d'un bizutage._
 

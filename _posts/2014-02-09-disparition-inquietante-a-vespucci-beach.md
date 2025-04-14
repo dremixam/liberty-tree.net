@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Disparition inquiétante à Vespucci Beach
-cover: "/content/images/2016/06/0_0_160.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_160.jpg
 date: '2014-02-09 00:00:00'
+layout: article
+redirect_from:
+- /2014/02/08/disparition-inquietante-a-vespucci-beach
+- /2014/02/08/disparition-inquietante-a-vespucci-beach/
 tags:
 - los-santos
-redirect_from:
-  - /2014/02/08/disparition-inquietante-a-vespucci-beach
+title: Disparition inquiétante à Vespucci Beach
 ---
+
 
 Cela fait à peu près quinze jours que les habitants de cet immeuble, à la réputation plutôt tranquille situé non loin de la plage, n’ont plus vu les habitants de l’appartement n°7611. Un couple y vivait jusque là. Il s’agissait d’un dénommé Floyd Hebert, ouvrier sur le port, et de sa fiancée Debra, une avocate relativement renommée. Seulement, le couple n’a plus été vu depuis au moins quinze jours, et leur appartement a été mis sous scellé par la police. Police, qui compte visiblement bien garder le secret sur cette affaire, en omettant de penser que cela ne tranquillise pas les voisins de savoir qu’une affaire louche s’est passée à côté de leur porte sans savoir quoi exactement. Le commandant Harry Studford nous a seulement communiqué quelques mots :
 

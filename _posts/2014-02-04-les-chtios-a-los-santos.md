@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les chtios à Los Santos
-cover: "/content/images/2016/06/Ville.jpg"
 authors:
-  - panpan6903
+- panpan6903
+cover: /content/images/2016/06/Ville.jpg
 date: '2014-02-04 00:00:00'
+layout: article
+redirect_from:
+- /2014/02/03/les-chtios-a-los-santos
+- /2014/02/03/les-chtios-a-los-santos/
 tags:
 - los-santos
-redirect_from:
-  - /2014/02/03/les-chtios-a-los-santos
+title: Les chtios à Los Santos
 ---
+
 
 Aujourd’hui, le Liberty Tree est "fier" de vous présenter la nouvelle télé-réalité qui va tout déchirer sur les écrans de télévisions de l'état : "Les chtios à Los Santos".
 

@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Nouvelles mesures contre la délinquance
 authors:
-  - little-worm
+- little-worm
 date: '2002-05-24 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/23/nouvelles-mesures-contre-la-delinquance
+- /2002/05/23/nouvelles-mesures-contre-la-delinquance/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/23/nouvelles-mesures-contre-la-delinquance
+title: Nouvelles mesures contre la délinquance
 ---
+
 
 Enfin. On attendait ça depuis bien 3 ou 4 ans. La municipalité s'occupe enfin des problèmes d'insécurité de Liberty City. Après un fiasco total en ce qui concerne la pollution et la délinquance des retraités (c.f. article [« La délinquance ne touche pas que les jeunes »](http://www.liberty-tree.net/la-d%C3%A9linquance-ne-touche-pas-que-les-jeunes), la création de camps de concentration pour vieux a été un échec : des révoltes de vieux ont été déclenchées et 123 gardiens ont trouvé la mort), le maire a annoncé la création d'emplois dans les commissariats, l'achat de nouvelles armes pour nos policiers, le soutien permanent de l'armée et du FBI auprès du LCPD, sans oublier la construction de nouvelles toilettes dans le commissariat de Shoreside Vale.
 

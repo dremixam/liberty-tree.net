@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Route 69, mystères et censures
-cover: "/content/images/2016/06/bar_ovni.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2016/06/bar_ovni.jpg
 date: '2006-03-10 00:00:00'
+layout: article
+redirect_from:
+- /2006/03/09/route-69-mysteres-et-censures
+- /2006/03/09/route-69-mysteres-et-censures/
 tags:
 - san-fierro
-redirect_from:
-  - /2006/03/09/route-69-mysteres-et-censures
+title: Route 69, mystères et censures
 ---
+
 
 _Depuis de nombreuses années, nous avons entendu beaucoup de rumeurs concernant des expériences illégales sur des aliens dans la zone 69, ou alors, l'observation d'ovnis traçant le ciel à toute allure. Pour vous, le Liberty Tree s'est mis pendant quelques heures à faire dans le paranormal._
 

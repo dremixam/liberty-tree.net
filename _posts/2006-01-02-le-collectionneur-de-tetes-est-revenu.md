@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le collectionneur de têtes est revenu
-cover: "/content/images/2016/06/ttcolec1.jpg"
 authors:
-  - noobsanarckist
+- noobsanarckist
+cover: /content/images/2016/06/ttcolec1.jpg
 date: '2006-01-02 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/01/le-collectionneur-de-tetes-est-revenu
+- /2006/01/01/le-collectionneur-de-tetes-est-revenu/
 tags:
 - liberty-city
-redirect_from:
-  - /2006/01/01/le-collectionneur-de-tetes-est-revenu
+title: Le collectionneur de têtes est revenu
 ---
+
 
 _ATTENTION : Des photos d'une extrême violence et des propos choquants sont relatés dans cet article ! Un serial killer est en liberté dans nos quartiers; il massacre de nombreux individus._
 

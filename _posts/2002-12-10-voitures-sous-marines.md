@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Voitures Sous-marines
-cover: "/content/images/v1/user6/souslamer7.jpg"
 authors:
-  - little-worm
+- little-worm
+cover: /content/images/v1/user6/souslamer7.jpg
 date: '2002-12-10 00:00:00'
+layout: article
+redirect_from:
+- /2002/12/09/voitures-sous-marines
+- /2002/12/09/voitures-sous-marines/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/12/09/voitures-sous-marines
+title: Voitures Sous-marines
 ---
+
 
 Wichita Garden, en plus d'être l'endroit rêvé pour se faire égorger la nuit par des jeunes racailles, est aussi le lieu où se déroulent le plus de faits étranges. Après le mystérieux taxi fantôme, voici qu'un tueur à gage découvre des voitures roulant sous la mer.
 

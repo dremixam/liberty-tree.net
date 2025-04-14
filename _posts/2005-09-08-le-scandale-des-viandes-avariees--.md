@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le scandale des viandes avariées !
-cover: "/content/images/2016/06/burgershot.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2016/06/burgershot.jpg
 date: '2005-09-08 00:00:00'
+layout: article
+redirect_from:
+- /2005/09/07/le-scandale-des-viandes-avariees
+- /2005/09/07/le-scandale-des-viandes-avariees/
 tags:
 - los-santos
-redirect_from:
-  - /2005/09/07/le-scandale-des-viandes-avariees
+title: Le scandale des viandes avariées !
 ---
+
 
 Scandale à Los Santos. Les fast-foods Burger Shots auraient vendus des menus Bœuf contenant de la viande avariée. C’est suite à de nombreuse plaintes que le Service de la Sécurité Sanitaire (S3) est intervenu. Les stocks de viande de tous les Burger Shots de la ville ont été saisis.
 

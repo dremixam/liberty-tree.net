@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Une journée avec un candidat de Star ou Tocard
-cover: "/content/images/2016/06/0_0_139.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_139.jpg
 date: '2014-02-01 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/31/une-journee-avec-un-candidat-de-star-ou-tocard
+- /2014/01/31/une-journee-avec-un-candidat-de-star-ou-tocard/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/31/une-journee-avec-un-candidat-de-star-ou-tocard
+title: Une journée avec un candidat de Star ou Tocard
 ---
+
 
 Aujourd’hui mes chers lecteurs, nous allons nous intéresser, et même carrément vivre, une journée dans la vie d’un candidat de l’émission de télé-réalité à la mode en ce moment, notamment chez les pré-ados, « Star ou Tocard ». En effet, j’ai moi-même pris l’initiative de m’inscrire auprès de la production temporairement pour mieux écrire cet article. Et vous allez voir qu’entre le rêve qu’on vous vend à la télé et ce qu’il se passe en réalité, il y a une belle différence.  
 Pour les incultes, sachez que cette émission est présentée par Lazlow Jones, un ex (quoique ça se discute) toxicomane avec une tendance alcoolique, et les épisodes sont réalisés en grande partie à Maze Bank Arena de LS. Mais que font les candidats le reste du temps ? Se prélassent-ils vraiment dans les jacuzzis de leurs villas toute la journée ou doivent-ils s’entrainer à chanter un minimum ?

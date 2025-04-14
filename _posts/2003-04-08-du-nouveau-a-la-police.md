@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Du nouveau à la Police
-cover: "/content/images/v1/user30/police.jpg"
 authors:
-  - pastrana
+- pastrana
+cover: /content/images/v1/user30/police.jpg
 date: '2003-04-08 00:00:00'
+layout: article
+redirect_from:
+- /2003/04/07/du-nouveau-a-la-police
+- /2003/04/07/du-nouveau-a-la-police/
 tags:
 - liberty-city
-redirect_from:
-  - /2003/04/07/du-nouveau-a-la-police
+title: Du nouveau à la Police
 ---
+
 
 La mairie de Liberty City a décidé d'essayer de permettre aux policiers de Shoreside Vale de poursuivre plus aisément les gangsters et autres brigands présents sur l'île. On sait que les forces de l'ordre ont du fil à retordre avec le Cartel Colombien et les Hoods.
 

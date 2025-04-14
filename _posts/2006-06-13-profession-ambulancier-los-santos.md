@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'Profession: Ambulancier à Los Santos'
-cover: "/content/images/2005/01/ambulance_Gordon_Marianov.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/ambulance_Gordon_Marianov.jpg
 date: '2006-06-13 00:00:00'
+layout: article
 tags:
 - los-santos
+title: 'Profession: Ambulancier à Los Santos'
 ---
+
 
 ![](/content/images/2005/01/Ambulance_photo_top_article.jpg)
 

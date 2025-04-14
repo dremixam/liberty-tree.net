@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Fin du procès ! Belle victoire pour le L-T !
-cover: "/content/images/2005/01/centrevillels.jpg"
 authors:
-  - passe-partout
+- passe-partout
+cover: /content/images/2005/01/centrevillels.jpg
 date: '2007-06-02 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Fin du procès ! Belle victoire pour le L-T !
 ---
+
 
 Voilà, le procès est bel et bien fini ! Le Liberty Tree, votre journal préféré en est sortit vainqueur ! Malgré ça, nous somme interdit de publication à Vice City...
 

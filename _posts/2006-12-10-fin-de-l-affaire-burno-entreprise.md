@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Fin de l'affaire Burno Entreprise
-cover: "/content/images/2005/01/aff-burno_7.jpg"
 authors:
-  - gtaboss33
+- gtaboss33
+cover: /content/images/2005/01/aff-burno_7.jpg
 date: '2006-12-10 00:00:00'
+layout: article
 tags:
 - vice-city
+title: Fin de l'affaire Burno Entreprise
 ---
+
 
 ![Mr. Léonardo Burno, jugé comme l'un des plus grands escrocs de Vice City.](/content/images/2005/01/aff-burno_6.jpg)
 _Mr. Léonardo Burno, jugé comme l'un des plus grands escrocs de Vice City._

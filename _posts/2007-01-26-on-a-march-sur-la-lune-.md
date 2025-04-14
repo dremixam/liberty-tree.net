@@ -1,13 +1,14 @@
 ---
-layout: article
-title: On a marché sur la lune !
-cover: "/content/images/2005/01/logo-apollo11.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/logo-apollo11.jpg
 date: '2007-01-26 00:00:00'
+layout: article
 tags:
 - liberty-city
+title: On a marché sur la lune !
 ---
+
 
 A l'occasion de l'anniversaire du petit-neveu du cousin par alliance de la sœur&nbsp;du beau-frère de Bouzz Aladrin, un des&nbsp;équipiers de la mission Apollo 11&nbsp;nous vous offrons un article rétrospectif apparu le 22 juillet 1969.
 

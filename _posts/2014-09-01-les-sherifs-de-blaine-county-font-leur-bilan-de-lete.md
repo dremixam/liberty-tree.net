@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Les shérifs de Blaine County font leur bilan de l'été
-cover: "/content/images/2016/06/0_0%20%281%29_15.jpg"
 authors:
-  - titi
+- titi
+cover: /content/images/2016/06/0_0%20%281%29_15.jpg
 date: '2014-09-01 00:00:00'
+layout: article
+redirect_from:
+- /2014/08/31/les-sherifs-de-blaine-county-font-leur-bilan-de-lete
+- /2014/08/31/les-sherifs-de-blaine-county-font-leur-bilan-de-lete/
 tags:
 - los-santos
-redirect_from:
-  - /2014/08/31/les-sherifs-de-blaine-county-font-leur-bilan-de-lete
+title: Les shérifs de Blaine County font leur bilan de l'été
 ---
+
 
 La fin de la saison à sonné à Blaine County. Avant le départ des derniers vacanciers, les shérifs de Sandy Shores et de Paleto Bay ont fait hier le bilan de cette saison.
 

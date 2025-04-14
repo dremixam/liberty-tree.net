@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Carton rouge pour la Well Stacked Pizza Co.
-cover: "/content/images/2005/01/logo1.jpg"
 authors:
-  - passe-partout
+- passe-partout
+cover: /content/images/2005/01/logo1.jpg
 date: '2007-04-14 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: Carton rouge pour la Well Stacked Pizza Co.
 ---
+
 
 C'est aux alentours de midi qu'un certain Albert Guerry, livreur à la Well Stacked Company fut arrêté pour homicides involontaires, mise en danger d'autrui et non assistance à personne en danger.
 

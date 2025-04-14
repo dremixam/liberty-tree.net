@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Dossier spécial : Zone 69'
-cover: "/content/images/2016/06/sol-air.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2016/06/sol-air.jpg
 date: '2005-09-05 00:00:00'
+layout: article
+redirect_from:
+- /2005/09/04/dossier-special-zone-69
+- /2005/09/04/dossier-special-zone-69/
 tags:
 - vice-city
-redirect_from:
-  - /2005/09/04/dossier-special-zone-69
+title: 'Dossier spécial : Zone 69'
 ---
+
 
 Vous en avez déjà tous entendu parler. Les rumeurs les plus folles circulent sur elle. Je veux bien sûr parler de la zone 69. Implantée en plein cœur du désert à l'ouest de Las Venturas, cette zone militaire hautement sécurisée est la plus célèbre de tout San Andreas. J'ai enquêté pour vous sur ce lieu mythique.
 

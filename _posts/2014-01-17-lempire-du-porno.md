@@ -1,15 +1,17 @@
 ---
-layout: article
-title: L'empire du porno
-cover: "/content/images/2016/06/Capture%20d%E2%80%99%C3%A9cran%202014-01-07%20%C3%A0%2022.13.29.png"
 authors:
-  - panpan6903
+- panpan6903
+cover: /content/images/2016/06/Capture%20d%E2%80%99%C3%A9cran%202014-01-07%20%C3%A0%2022.13.29.png
 date: '2014-01-17 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/16/lempire-du-porno
+- /2014/01/16/lempire-du-porno/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/16/lempire-du-porno
+title: L'empire du porno
 ---
+
 
 Aujourd'hui mes chers lecteurs, nous allons vous emmener dans le pays du rêve, de l'insolite et de l'art, je parle bien sûr du cinéma pornographique ! Et pour cela, quoi de mieux que de s'inviter chez le roi du milieu sur la côte Ouest : Larry Flat !
 

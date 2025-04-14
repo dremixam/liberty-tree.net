@@ -1,14 +1,15 @@
 ---
-layout: article
-title: 'Journalisme : profession en péril ?'
-cover: "/content/images/2005/01/oceanview.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/oceanview.jpg
 date: '2006-08-31 00:00:00'
+layout: article
 tags:
 - liberty-city
 - vice-city
+title: 'Journalisme : profession en péril ?'
 ---
+
 
 Non, ne vous en faites pas, amis lecteurs qui désireraient faire le métier de journaliste, vous n'aurez pas de problème pour trouver un employeur (encore faut-il être dégourdi). Par contre, ce serait à nous, honnêtes reporters, allant risquer notre vie&nbsp;dans les pays du Moyen-Orient ou&nbsp;au petit village&nbsp;de l'Amérique profonde&nbsp;pour aller voir la plantation des patates McBain, qui sont en péril... En effet, à l'hôtel Ocean View, un voisin incommodé par l'odeur qui s'échappait de la chambre d'à côté, a fait ouvrir la porte, laissant découvrir un cadavre rongé par la vermine.
 

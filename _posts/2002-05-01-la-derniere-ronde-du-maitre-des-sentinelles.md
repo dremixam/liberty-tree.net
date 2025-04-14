@@ -1,15 +1,17 @@
 ---
-layout: article
-title: La dernière ronde du « maître des Sentinelles »
-cover: "/content/images/2016/06/sentinelle.jpg"
 authors:
-  - rr4
+- rr4
+cover: /content/images/2016/06/sentinelle.jpg
 date: '2002-05-01 00:00:00'
+layout: article
+redirect_from:
+- /2002/04/30/la-derniere-ronde-du-maitre-des-sentinelles
+- /2002/04/30/la-derniere-ronde-du-maitre-des-sentinelles/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/04/30/la-derniere-ronde-du-maitre-des-sentinelles
+title: La dernière ronde du « maître des Sentinelles »
 ---
+
 
 Cette nuit, nos fiers policiers ont de nouveau brillamment interpellé un dangereux forcené sur les collines de Cedar Ridge. Il leur aura quand même fallu une course poursuite de plusieurs heures pour parvenir à l'arrêter.
 

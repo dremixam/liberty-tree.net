@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Incendie suspect au nouveau ZIP de San Fierro
-cover: "/content/images/2005/01/ZIP_incendie_10.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/ZIP_incendie_10.jpg
 date: '2006-04-06 00:00:00'
+layout: article
 tags:
 - san-fierro
+title: Incendie suspect au nouveau ZIP de San Fierro
 ---
+
 
 Il était 22h30 hier soir lorsqu’un appel logé à la centrale du 911 indiquait le début d’un incendie faisant rage au rez-de-chaussée du magasin ZIP de la 34ème rue. Soulignons que cette succursale de la prestigieuse chaîne fondé par Ernest Longchamps en 1986, était le quatrième point de vente à être construit à San Andreas, et devait être inauguré en grande trompe le mois prochain.
 

@@ -1,14 +1,15 @@
 ---
-layout: article
-title: ZIP fête ses 20 ans !
 authors:
-  - bart_man
+- bart_man
 date: '2006-02-05 18:04:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: ZIP fête ses 20 ans !
 ---
+
 
 _La célèbre chaîne de magasin de mode ZIP fêtera ses 20 ans le 14 février._
 

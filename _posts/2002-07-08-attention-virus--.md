@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Attention virus !
-cover: "/content/images/2016/06/virusblegeblague.jpg"
 authors:
-  - max-2
+- max-2
+cover: /content/images/2016/06/virusblegeblague.jpg
 date: '2002-07-08 00:00:00'
+layout: article
+redirect_from:
+- /2002/07/07/attention-virus
+- /2002/07/07/attention-virus/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/07/07/attention-virus
+title: Attention virus !
 ---
+
 
 Le dimanche 7 juillet 2002, nous sommes avertis de l'arrivée d'un nouveau virus informatique.
 

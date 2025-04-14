@@ -1,14 +1,16 @@
 ---
-layout: article
-title: La taupe change de bord
 authors:
-  - fanofrpg
+- fanofrpg
 date: '2002-05-16 00:00:00'
+layout: article
+redirect_from:
+- /2002/05/15/la-taupe-change-de-bord
+- /2002/05/15/la-taupe-change-de-bord/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/05/15/la-taupe-change-de-bord
+title: La taupe change de bord
 ---
+
 
 Après enquête de la police des polices, on a retrouvé 15 kilos de spank et 500 000 dollars chez l'agent du F.B.I. infiltré dans la mafia italienne depuis 1 an.
 

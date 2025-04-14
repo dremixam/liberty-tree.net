@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Navettes & Emplois...
-cover: "/content/images/2005/01/bus1.jpg"
 authors:
-  - nams
+- nams
+cover: /content/images/2005/01/bus1.jpg
 date: '2006-11-30 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Navettes & Emplois...
 ---
+
 
 Suite à l’attentat de Market lundi matin, la direction des transports de l’Etat&nbsp;a décidé de mettre en place un réseau de navettes pouvant assurer le transport de personnes entre Los Santos et les villes voisines.
 

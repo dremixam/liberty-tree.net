@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Un train déraille à Ganton
-cover: "/content/images/2016/06/train.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2016/06/train.jpg
 date: '2005-09-27 00:00:00'
+layout: article
+redirect_from:
+- /2005/09/26/un-train-deraille-a-ganton
+- /2005/09/26/un-train-deraille-a-ganton/
 tags:
 - los-santos
-redirect_from:
-  - /2005/09/26/un-train-deraille-a-ganton
+title: Un train déraille à Ganton
 ---
+
 
 _Tôt ce matin, un train de marchandise de la compagnie Brown Streak, a déraillé au passage à niveau de Ganton. Selon les témoins, le train allait beaucoup trop vite._
 

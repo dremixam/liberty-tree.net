@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Carambolages en série
-cover: "/content/images/2016/06/0_0%20%288%29_1.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/0_0%20%288%29_1.jpg
 date: '2013-12-26 00:00:00'
+layout: article
+redirect_from:
+- /2013/12/25/carambolages-en-serie
+- /2013/12/25/carambolages-en-serie/
 tags:
 - los-santos
-redirect_from:
-  - /2013/12/25/carambolages-en-serie
+title: Carambolages en série
 ---
+
 
 La récente et soudaine chute de neige qui a recouvert tout l'état de San Andreas d'un épais manteau blanc ne fait pas la joie de tous. En effet, si les enfants de Los Santos ont apprécié une journée où les bonshommes de neige ont remplacé les heures d'école, les automobilistes ont été pris au dépourvu par cet élément climatique peu courant dans notre région, créant ainsi pas moins d'une vingtaine de carambolages les trois premières heures suivant la tempête de neige.
 

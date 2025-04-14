@@ -1,14 +1,15 @@
 ---
-layout: article
-title: Le téléphone au volant pourrait bien vous ralentir
 authors:
-  - nelson
+- nelson
 date: '2008-01-09 23:09:00'
+layout: article
 tags:
 - los-santos
 - san-fierro
 - las-venturas
+title: Le téléphone au volant pourrait bien vous ralentir
 ---
+
 
 Une récente étude démontre que l'utilisation du téléphone portable au volant pourrait être une cause des nombreux embouteillages paralysant Los Santos aux heures de pointe.
 

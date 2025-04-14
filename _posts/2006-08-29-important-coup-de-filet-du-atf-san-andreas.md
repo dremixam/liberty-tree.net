@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Important coup de filet du ATF à San Andreas
-cover: "/content/images/2005/01/Agent_du_ATF.jpg"
 authors:
-  - mr-r
+- mr-r
+cover: /content/images/2005/01/Agent_du_ATF.jpg
 date: '2006-08-29 00:00:00'
+layout: article
 tags:
 - san-fierro
 - los-santos
 - las-venturas
+title: Important coup de filet du ATF à San Andreas
 ---
+
 
 Le succès de cette opération est attribuable au travail acharné des enquêteurs du ATF (_Alcohol, Tobacco and Firearms_) qui ont mené une enquête de longue halène nécessitant l'infiltration d'agents au sein de l'organisation criminelle. Le but visé était de neutraliser un réseau criminel bien structuré se spécialisant dans la revente illégale d'armes prohibées, et faire un doublé en mettant hors circuit le seigneur de guerre à la tête de ce réseau. Nous pouvons donc affirmer qu'il s'agit d'une opération réussie sur tout la ligne!
 

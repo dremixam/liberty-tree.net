@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Flat Iron Building, le plus vieil immeuble de Liberty City
 authors:
-  - fido_le_muet
+- fido_le_muet
 date: '2006-02-06 18:09:00'
+layout: article
 tags:
 - liberty-city
+title: Flat Iron Building, le plus vieil immeuble de Liberty City
 ---
+
 
  **Dans la série "notre passé et nous", cap sur Liberty City pour retracer l'histoire de son monument le plus ancien : le Flat Iron Building construit à la fin du XIXè siècle.**
 

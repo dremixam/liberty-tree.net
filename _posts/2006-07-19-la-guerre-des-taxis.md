@@ -1,15 +1,16 @@
 ---
-layout: article
-title: La Guerre des Taxis
-cover: "/content/images/2005/01/SAT3.jpg"
 authors:
-  - p130
+- p130
+cover: /content/images/2005/01/SAT3.jpg
 date: '2006-07-19 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: La Guerre des Taxis
 ---
+
 
 C'est un fait, à San Andreas la guerre des taxis gronde tout l'année et bien plus que partout ailleurs.
 

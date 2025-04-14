@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Drive'n'Crash
-cover: "/content/images/2016/06/Crash1.jpg"
 authors:
-  - little-worm
+- little-worm
+cover: /content/images/2016/06/Crash1.jpg
 date: '2005-08-24 00:00:00'
+layout: article
+redirect_from:
+- /2005/08/23/drivencrash
+- /2005/08/23/drivencrash/
 tags:
 - vice-city
-redirect_from:
-  - /2005/08/23/drivencrash
+title: Drive'n'Crash
 ---
+
 
 Lors d'un récent entretien, le ministre du SADT (San Andreas' Department of Transportation) se désolait de l'étrange attitude des conducteurs de San Andreas. Voici ses propos :
 

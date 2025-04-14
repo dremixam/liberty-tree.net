@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Las Venturas Breakdown
-cover: "/content/images/2005/01/title23.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/title23.jpg
 date: '2006-06-12 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: Las Venturas Breakdown
 ---
+
 
 Las Brujas, 5:00 AM. Cette étendue de sable, sur laquelle vous trouverez plus de buissons cramés par le soleil que d'êtres humains, peut s'avérer être un bon aperçu de l'enfer pour tout bon citadin vivant en espace climatisé (comme moi qui ne supporte pas avoir du sable dans mes Kenneth Cole). Ce lieu aride peuplé de vautours est pourtant le background quotidien de la vie de Sam, Joe et Kelly. Sam et Joe sont salariés à mi-temps dans la raffinerie pétrolière non loin de Bone County et Kelly, épouse de Sam, est gérante du petit troquet "the lil' probe inn" réputé dans tout l'Etat de San Andreas pour être le point de chute des chasseurs d'ovnis en mal de petits hommes verts. Sam et Joe, dit "l'indien" pour ses origines Amer-Indiennes, partent tous les après-midi à la "chasse au trésor" dans les environs de Bone County avec leur Dodge Ram et leurs détecteurs de métaux.
 

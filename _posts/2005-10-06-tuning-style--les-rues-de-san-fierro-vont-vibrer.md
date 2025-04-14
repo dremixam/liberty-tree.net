@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Tuning style, les rues de San Fierro vont vibrer
-cover: "/content/images/2016/06/2img1_1.jpg"
 authors:
-  - imhotep43
+- imhotep43
+cover: /content/images/2016/06/2img1_1.jpg
 date: '2005-10-06 00:00:00'
+layout: article
+redirect_from:
+- /2005/10/05/tuning-style-les-rues-de-san-fierro-vont-vibrer
+- /2005/10/05/tuning-style-les-rues-de-san-fierro-vont-vibrer/
 tags:
 - san-fierro
-redirect_from:
-  - /2005/10/05/tuning-style-les-rues-de-san-fierro-vont-vibrer
+title: Tuning style, les rues de San Fierro vont vibrer
 ---
+
 
 _La culture "djeuns" s'était invitée à los Santos avec le Tag, elle s'arrête aujourd'hui à San Fierro pour montrer un autre aspect : le tuning. Expo de machines gonflées à bloc._
 

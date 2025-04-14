@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Une journée avec le SID de Las Venturas
-cover: "/content/images/2005/01/sidcover.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/sidcover.jpg
 date: '2006-12-18 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: Une journée avec le SID de Las Venturas
 ---
+
 
 A moins de n'être pas sorti de chez vous depuis la guerre froide, vous êtes obligés de connaître SID : Scientific Investigation Department, la série réalisée par Antony V. Swiffer et produite par Jerry Brokenhammer qui cartonne partout dans le monde. Le cadre de Las Venturas aidant au succès de la série, des acteurs à la limite du parfait et une bande son méticuleusement choisie font de SID la série la plus regardée aux Etats-Unis. Cependant, loin des caméras et des effets spéciaux, nous avons voulu voir quel était le train-train quotidien d'un véritable agent de la police scientifique.  
 Quelques jours après avoir deposés notre requête au LVPD, le sergent Ryan Bear pris contact avec nous et nous proposa de le suivre sur une journée entière. Etant fan de la série TV, je fis mes bagages et direction Las Venturas pour rencontrer l'expert.

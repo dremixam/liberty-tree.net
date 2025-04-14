@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Attentat à l'usine Solarin
-cover: "/content/images/2016/06/2img1.jpg"
 authors:
-  - imhotep43
+- imhotep43
+cover: /content/images/2016/06/2img1.jpg
 date: '2005-11-01 00:00:00'
+layout: article
+redirect_from:
+- /2005/10/31/attentat-a-lusine-solarin
+- /2005/10/31/attentat-a-lusine-solarin/
 tags:
 - san-fierro
-redirect_from:
-  - /2005/10/31/attentat-a-lusine-solarin
+title: Attentat à l'usine Solarin
 ---
+
 
 _L'usine Solarin de San Fierro a été attaquée par des kamikazes. Les dégâts sont énormes..._
 

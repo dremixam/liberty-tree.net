@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Adieu, cochon.
-cover: "/content/images/2016/06/0_0%20%281%29%20copie.png"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/0_0%20%281%29%20copie.png
 date: '2014-01-21 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/20/adieu-cochon
+- /2014/01/20/adieu-cochon/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/20/adieu-cochon
+title: Adieu, cochon.
 ---
+
 
 Petits et grands se souviennent des films "Gabe, le cochon devenu berger" et "Gabe, le cochon dans la ville" sortis au milieu des années 90 et narrant les aventures d'un petit cochon sauvé de justesse de l'abattoir pour mener une vie paisible à la campagne, accompagné de ses amis animaux.
 

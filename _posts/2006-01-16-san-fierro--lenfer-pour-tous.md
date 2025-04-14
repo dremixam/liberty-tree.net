@@ -1,15 +1,17 @@
 ---
-layout: article
-title: San Fierro, l'enfer pour tous
-cover: "/content/images/2016/06/pollu1.jpg"
 authors:
-  - oswald-cobblepote
+- oswald-cobblepote
+cover: /content/images/2016/06/pollu1.jpg
 date: '2006-01-16 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/15/san-fierro-lenfer-pour-tous
+- /2006/01/15/san-fierro-lenfer-pour-tous/
 tags:
 - san-fierro
-redirect_from:
-  - /2006/01/15/san-fierro-lenfer-pour-tous
+title: San Fierro, l'enfer pour tous
 ---
+
 
 _A cause de la pollution, San Fierro devient très dangereuse pour les jeunes de moins de 15 ans. Un risque important de contamination est présent partout dans la ville..._
 

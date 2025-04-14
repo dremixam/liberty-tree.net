@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 'Missing : convoyeur de foie de veau'
-cover: "/content/images/2016/06/0_0%20%2819%29_1.jpg"
 authors:
-  - kiki
+- kiki
+cover: /content/images/2016/06/0_0%20%2819%29_1.jpg
 date: '2014-01-16 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/15/missing-convoyeur-de-foie-de-veau
+- /2014/01/15/missing-convoyeur-de-foie-de-veau/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/15/missing-convoyeur-de-foie-de-veau
+title: 'Missing : convoyeur de foie de veau'
 ---
+
 
  **Mardi matin - 4 h 20**
 

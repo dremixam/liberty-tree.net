@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Pimp my Pride débarque a San Fierro
-cover: "/content/images/2016/06/sky%20west%20avant.jpg"
 authors:
-  - xtrmboss
+- xtrmboss
+cover: /content/images/2016/06/sky%20west%20avant.jpg
 date: '2005-10-19 00:00:00'
+layout: article
+redirect_from:
+- /2005/10/18/pimp-my-pride-debarque-a-san-fierro
+- /2005/10/18/pimp-my-pride-debarque-a-san-fierro/
 tags:
 - san-fierro
-redirect_from:
-  - /2005/10/18/pimp-my-pride-debarque-a-san-fierro
+title: Pimp my Pride débarque a San Fierro
 ---
+
 
 _La célèbre émission débarque à San Fierro, et voici la première victime._
 

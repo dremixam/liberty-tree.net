@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Interview de NelsoN
 authors:
-  - will
+- will
 date: '2003-03-02 13:35:00'
+layout: article
 tags:
 - liberty-city
+title: Interview de NelsoN
 ---
+
 
 _Aujourd'hui, j'interview NelsoN, ancien patron et  
 mécano au NelsoN Auto Custom:_

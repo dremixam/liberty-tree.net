@@ -1,15 +1,17 @@
 ---
-layout: article
-title: 22, v'là les flics !
-cover: "/content/images/2016/06/violence2%20%281%29.jpg"
 authors:
-  - bart_man
+- bart_man
+cover: /content/images/2016/06/violence2%20%281%29.jpg
 date: '2006-01-24 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/23/22-vla-les-flics
+- /2006/01/23/22-vla-les-flics/
 tags:
 - vice-city
-redirect_from:
-  - /2006/01/23/22-vla-les-flics
+title: 22, v'là les flics !
 ---
+
 
 _San Andreas atteint un niveau jamais vu dans les rapports de bavures policières._
 

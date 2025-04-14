@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Le sniper décapiteur passe le pont
 authors:
-  - fxbt
+- fxbt
 date: '2002-11-19 00:00:00'
+layout: article
+redirect_from:
+- /2002/11/18/le-sniper-decapiteur-passe-le-pont
+- /2002/11/18/le-sniper-decapiteur-passe-le-pont/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/11/18/le-sniper-decapiteur-passe-le-pont
+title: Le sniper décapiteur passe le pont
 ---
+
 
 Cette nuit, le sniper décapiteur a fait une nouvelle victime, une prostituée qui a été tuée de la même façon que les autres, une balle de sniper lui ayant fait exploser la tête.
 

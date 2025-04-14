@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'L''Explorateur Urbain: Grande première!'
-cover: "/content/images/2005/01/Explo_-_Photo_Titre.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/Explo_-_Photo_Titre.jpg
 date: '2006-09-16 00:00:00'
+layout: article
 tags:
 - los-santos
+title: 'L''Explorateur Urbain: Grande première!'
 ---
+
 
 ![](/content/images/2005/01/explo_-_title.jpg)
 ![](/content/images/2005/01/Explo_-_Creature_LS_-_LosSantos_River.jpg)

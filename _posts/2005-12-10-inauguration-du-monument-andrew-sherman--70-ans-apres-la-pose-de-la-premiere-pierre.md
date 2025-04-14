@@ -1,16 +1,18 @@
 ---
-layout: article
-title: Inauguration du Monument Andrew Sherman, 70 ans après la pose de la première
-  pierre
-cover: "/content/images/2016/06/Sherman_5.jpg"
 authors:
-  - thomas
+- thomas
+cover: /content/images/2016/06/Sherman_5.jpg
 date: '2005-12-10 00:00:00'
+layout: article
+redirect_from:
+- /2005/12/09/inauguration-du-monument-andrew-sherman-70-ans-apres-la-pose-de-la-premiere-pierre
+- /2005/12/09/inauguration-du-monument-andrew-sherman-70-ans-apres-la-pose-de-la-premiere-pierre/
 tags:
 - vice-city
-redirect_from:
-  - /2005/12/09/inauguration-du-monument-andrew-sherman-70-ans-apres-la-pose-de-la-premiere-pierre
+title: Inauguration du Monument Andrew Sherman, 70 ans après la pose de la première
+  pierre
 ---
+
 
 _Dans la série « La fierté de San Andreas », nous rendons aujourd'hui hommage au bâtisseur du plus grand ouvrage de l'État de San Andreas : le Barrage Sherman._
 

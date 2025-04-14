@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Souriez, vous êtes filmés
 authors:
-  - nelson
+- nelson
 date: '2003-03-03 13:40:00'
+layout: article
 tags:
 - liberty-city
+title: Souriez, vous êtes filmés
 ---
+
 
 _Lors du dernier SSCU, Salon de la Sécurité Civile & Urbaine qui avait lieu à San Andreas, notre maire à pris quelques mesures radicales..._
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Interview d'un S.D.F.
-cover: "/content/images/2016/06/sdf1_0.jpg"
 authors:
-  - slizzel
+- slizzel
+cover: /content/images/2016/06/sdf1_0.jpg
 date: '2006-01-04 00:00:00'
+layout: article
+redirect_from:
+- /2006/01/03/interview-dun-s-d-f
+- /2006/01/03/interview-dun-s-d-f/
 tags:
 - vice-city
-redirect_from:
-  - /2006/01/03/interview-dun-s-d-f
+title: Interview d'un S.D.F.
 ---
+
 
 _Il y a 4 ans, Simon était encore une personne respectable, travaillant pour une grande chaîne de super marchés. Il vivait avec sa femme et ses 4 enfants. Quand du jour au lendemain, il se retrouva jeté à la rue par sa femme et renié par ses enfants et sa famille._
 

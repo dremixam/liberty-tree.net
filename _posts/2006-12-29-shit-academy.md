@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Shit Academy
 authors:
-  - tenpenny
+- tenpenny
 date: '2006-12-29 20:48:00'
+layout: article
 tags:
 - liberty-city
 - vice-city
+title: Shit Academy
 ---
+
 
 _Promoteur de vraies bouses dans le monde de la musique, Star University, qui paraît chaque fin d'après-midi sur Love Media TV, est vraiment une émission à éviter._
 

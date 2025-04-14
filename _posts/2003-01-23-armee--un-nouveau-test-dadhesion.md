@@ -1,14 +1,16 @@
 ---
-layout: article
-title: 'Armée: un nouveau test d''adhésion'
 authors:
-  - max-2
+- max-2
 date: '2003-01-23 00:00:00'
+layout: article
+redirect_from:
+- /2003/01/22/armee-un-nouveau-test-dadhesion
+- /2003/01/22/armee-un-nouveau-test-dadhesion/
 tags:
 - liberty-city
-redirect_from:
-  - /2003/01/22/armee-un-nouveau-test-dadhesion
+title: 'Armée: un nouveau test d''adhésion'
 ---
+
 
 L'armée est une chose bien critiquable dans notre société. Si les gens, ou plutôt les dirigeants, étaient assez intelligents on n'aurait pas besoin d'armées. Certains l'envoient paître. Pour d'autres, c'est une solution, mieux vaut être nourri logé que de traîner dans la rue.
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: L'élection du Plus Pourri 2007
-cover: "/content/images/2005/01/affiche_le_plus_pourri_2007.jpg"
 authors:
-  - tenpenny
+- tenpenny
+cover: /content/images/2005/01/affiche_le_plus_pourri_2007.jpg
 date: '2007-04-30 00:00:00'
+layout: article
 tags:
 - vice-city
+title: L'élection du Plus Pourri 2007
 ---
+
 
 ![](/content/images/2005/01/affiche_le_plus_pourri_2007.jpg)
 

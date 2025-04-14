@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Scandale au LSPD
-cover: "/content/images/2016/06/Police_1.jpg"
 authors:
-  - dydou
+- dydou
+cover: /content/images/2016/06/Police_1.jpg
 date: '2014-04-30 00:00:00'
+layout: article
+redirect_from:
+- /2014/04/29/scandale-au-lspd
+- /2014/04/29/scandale-au-lspd/
 tags:
 - los-santos
-redirect_from:
-  - /2014/04/29/scandale-au-lspd
+title: Scandale au LSPD
 ---
+
 
 _Trois policiers du LSPD auraient eu des relations sexuelles non-consenties avec une jeune française en visite à Los Santos, selon cette dernière. L'un des policiers soupçonnés est déjà passé aux aveux..._
 

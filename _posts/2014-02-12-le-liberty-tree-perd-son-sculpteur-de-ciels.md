@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Le Liberty Tree perd son Sculpteur de Ciels
-cover: "/content/images/2016/06/0_0_164.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_164.jpg
 date: '2014-02-12 00:00:00'
+layout: article
+redirect_from:
+- /2014/02/11/le-liberty-tree-perd-son-sculpteur-de-ciels
+- /2014/02/11/le-liberty-tree-perd-son-sculpteur-de-ciels/
 tags:
 - los-santos
-redirect_from:
-  - /2014/02/11/le-liberty-tree-perd-son-sculpteur-de-ciels
+title: Le Liberty Tree perd son Sculpteur de Ciels
 ---
+
 
 C'est une bien triste nouvelle pour notre journal que l'équipe a apprise ce lundi: Kiki, l'un des journalistes les plus brillants de l'équipe vient de décider de prendre son envol. En effet, il a déclaré notamment qu'il voulait se consacrer entièrement à sa vie de famille désormais. Mais mon gars, je pense qu'une fois que tu auras changé quelques couches sales, tu reviendras vite vers ton ancien job _(rires)._
 

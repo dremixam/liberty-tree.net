@@ -1,17 +1,19 @@
 ---
-layout: article
-title: Les coiffeurs de San Andreas font face à un manque d'hygiène croissant
-cover: "/content/images/2016/06/0_0_12.jpg"
 authors:
-  - ezoah
+- ezoah
+cover: /content/images/2016/06/0_0_12.jpg
 date: '2013-11-20 00:00:00'
+layout: article
+redirect_from:
+- /2013/11/19/les-coiffeurs-de-san-andreas-font-face-a-un-manque-dhygiene-croissant
+- /2013/11/19/les-coiffeurs-de-san-andreas-font-face-a-un-manque-dhygiene-croissant/
 tags:
 - los-santos
 - las-venturas
 - san-fierro
-redirect_from:
-  - /2013/11/19/les-coiffeurs-de-san-andreas-font-face-a-un-manque-dhygiene-croissant
+title: Les coiffeurs de San Andreas font face à un manque d'hygiène croissant
 ---
+
 
 Le problème est clair : lorsque vous entrez dans l’un des nombreux salons de coiffure de la ville, vous avez tout simplement l’impression de retourner plus de vingt ans en arrière ! La plupart de ces salons sont petits, sales, et peu voire pas du tout climatisés. Comment les clients peuvent-ils être à l’aise dans ces conditions ? Ces conditions seraient-elles encore une fois liées à la crise, qui appauvrirait les coiffeurs ?
 

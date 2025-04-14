@@ -1,14 +1,16 @@
 ---
-layout: article
-title: Un fanatique met le feu a Chinatown
 authors:
-  - pavlov
+- pavlov
 date: '2002-09-11 00:00:00'
+layout: article
+redirect_from:
+- /2002/09/10/un-fanatique-met-le-feu-a-chinatown
+- /2002/09/10/un-fanatique-met-le-feu-a-chinatown/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/09/10/un-fanatique-met-le-feu-a-chinatown
+title: Un fanatique met le feu a Chinatown
 ---
+
 
 _Hier, la LCPD de Portland a reçu dix nouveaux véhicules. Aujourd'hui il n'en reste que deux suite à une fusillade déclenchée par un fanatique, sujet à des troubles d'ordre mental._
 

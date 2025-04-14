@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Monster Truck Show
 authors:
-  - nelson
+- nelson
 date: '2003-03-23 14:30:00'
+layout: article
 tags:
 - liberty-city
+title: Monster Truck Show
 ---
+
 
 Ce soir seulement, grande représentation de Mike Star avec son Monster Truck, le Cartell Crusher.
 

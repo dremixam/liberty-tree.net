@@ -1,14 +1,15 @@
 ---
-layout: article
-title: Let it snow !
-cover: "/content/images/2005/01/letitsnow3.jpg"
 authors:
-  - dremixam
+- dremixam
+cover: /content/images/2005/01/letitsnow3.jpg
 date: '2006-12-25 00:00:00'
+layout: article
 tags:
 - liberty-city
 - san-fierro
+title: Let it snow !
 ---
+
 
 Malgré ce que la météo nous annonçait depuis quelques jours, c'est un noël blanc auquel les habitants du pays auront le droit cette année. En effet, c'est vers dix-neuf heures hier soir que les premiers flocons se sont mis&nbsp;à tomber sur la côte Est des Etats-Unis, c'est ainsi que Liberty City s'est retrouvée au petit matin sous un épais manteau blanc atteignant par endroit une épaisseur de cinquante centimètres.
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Une collection de voitures anciennes découverte à Sandy Shores
-cover: "/content/images/2016/06/0_0%20%281%29_21.jpg"
 authors:
-  - titi
+- titi
+cover: /content/images/2016/06/0_0%20%281%29_21.jpg
 date: '2015-02-09 00:00:00'
+layout: article
+redirect_from:
+- /2015/02/08/une-collection-de-voitures-anciennes-decouverte-a-sandy-shores
+- /2015/02/08/une-collection-de-voitures-anciennes-decouverte-a-sandy-shores/
 tags:
 - los-santos
-redirect_from:
-  - /2015/02/08/une-collection-de-voitures-anciennes-decouverte-a-sandy-shores
+title: Une collection de voitures anciennes découverte à Sandy Shores
 ---
+
 
 C'est une incroyable découverte qui a été faite hier matin à proximité de Sandy Shores. Une collection de voitures anciennes, dont certaines pièces sont presque des modèles uniques, a été retrouvée dans le Grand Senora Desert.
 

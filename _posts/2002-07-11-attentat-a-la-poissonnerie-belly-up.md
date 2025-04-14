@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Attentat à la poissonnerie Belly Up
-cover: "/content/images/2016/06/Terroriste1.jpg"
 authors:
-  - little-worm
+- little-worm
+cover: /content/images/2016/06/Terroriste1.jpg
 date: '2002-07-11 00:00:00'
+layout: article
+redirect_from:
+- /2002/07/10/attentat-a-la-poissonnerie-belly-up
+- /2002/07/10/attentat-a-la-poissonnerie-belly-up/
 tags:
 - liberty-city
-redirect_from:
-  - /2002/07/10/attentat-a-la-poissonnerie-belly-up
+title: Attentat à la poissonnerie Belly Up
 ---
+
 
 Un terrible attentat s'est déroulé ce matin à Portland, dans la fabrique de poisson Belly Up. Vers 11h, un homme dont l'identité n'a pu être découverte, armé et cagoulé, pénètre dans la fabrique avec un camion Belly-Up, écrase le garde d'entrée puis sort du camion et fait feu sur les employés.
 

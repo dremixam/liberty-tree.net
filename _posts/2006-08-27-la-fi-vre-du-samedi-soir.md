@@ -1,13 +1,14 @@
 ---
-layout: article
-title: La Fièvre du Samedi Soir
-cover: "/content/images/2005/01/La_Fievre_du_Samedi_Soir_1.jpg"
 authors:
-  - scarface1991
+- scarface1991
+cover: /content/images/2005/01/La_Fievre_du_Samedi_Soir_1.jpg
 date: '2006-08-27 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: La Fièvre du Samedi Soir
 ---
+
 
 Bienvenue pour le premier article de "La fièvre du Samedi Soir"&nbsp;dans lequel je vais&nbsp;vous proposer des endroits pour&nbsp;passer&nbsp;des nuits inoubliables dans l'Etat de San Andreas. Dans ce premier épisode, pénétrez maintenant dans le monde&nbsp;de l'argent à Las Venturas.
 

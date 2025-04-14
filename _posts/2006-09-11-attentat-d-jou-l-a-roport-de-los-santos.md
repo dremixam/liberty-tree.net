@@ -1,14 +1,15 @@
 ---
-layout: article
-title: Attentat déjoué à l'aéroport de Los Santos
-cover: "/content/images/2005/01/D_tournement_Atterrissage_3.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2005/01/D_tournement_Atterrissage_3.jpg
 date: '2006-09-11 00:00:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
+title: Attentat déjoué à l'aéroport de Los Santos
 ---
+
 
 L'ombre du terrorisme plane une nouvelle fois sur le pays. Un attentat terroriste a été déjoué hier à l'aéroport de Los Santos, grâce à l'action combinée des cellules de renseignement, de la police et de l'armée.&nbsp;Retour sur cet événement.
 

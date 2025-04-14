@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Los Santos, ses banques désertes
-cover: "/content/images/2016/06/0_0_59.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2016/06/0_0_59.jpg
 date: '2014-01-05 00:00:00'
+layout: article
+redirect_from:
+- /2014/01/04/los-santos-ses-banques-desertes
+- /2014/01/04/los-santos-ses-banques-desertes/
 tags:
 - los-santos
-redirect_from:
-  - /2014/01/04/los-santos-ses-banques-desertes
+title: Los Santos, ses banques désertes
 ---
+
 
 Vous souvenez-vous d'un passé pas si lointain où il fallait presque prendre une journée de congé pour effectuer la moindre opération bancaire, tant les agences étaient bondées ?
 

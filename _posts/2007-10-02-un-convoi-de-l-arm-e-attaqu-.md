@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Un convoi de l'armée attaqué
 authors:
-  - passe-partout
+- passe-partout
 date: '2007-10-02 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: Un convoi de l'armée attaqué
 ---
+
 
 Vers 15h, un groupe de terroristes s'est attaqué à un convoi de l'armée. Prit en rapidement en embuscade, l'escorte n'a pas pu réagir. Cinq soldats ont été abattu, les cinq autres ont été pris en otages. Les terroristes n'ont toujours pas revendiqué l'attentat. La police, l'armée et le FBI enquêtent en ce moment même pour trouver quoi que ce soit qui puissent les mener au repère des fugitifs. Le convoi transportait des composants chimiques (nitroglycérine, lithium, uranium...) nécessaires à la base 69 pour un projet dont personne ne connait l'existence, en tout cas, si les terroristes les utilisaient, San Andreas risqueraient de disparaître de la carte.
 

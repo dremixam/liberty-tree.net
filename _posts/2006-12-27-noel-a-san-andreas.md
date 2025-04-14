@@ -1,14 +1,15 @@
 ---
-layout: article
-title: Noël à San Andreas
 authors:
-  - heinrich
+- heinrich
 date: '2006-12-27 20:45:00'
+layout: article
 tags:
 - los-santos
 - las-venturas
 - san-fierro
+title: Noël à San Andreas
 ---
+
 
 Dans cette édition spéciale, nous avons suivi trois personnes de différentes couches sociales du soir du 24 jusqu’au matin du 25 Décembre. Le résultat est parfois saisissant
 

@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Los Santos, nouvelle destination de croisière ?
-cover: "/content/images/2016/06/cruise%2023%2007%2014.jpg"
 authors:
-  - titi
+- titi
+cover: /content/images/2016/06/cruise%2023%2007%2014.jpg
 date: '2014-08-06 00:00:00'
+layout: article
+redirect_from:
+- /2014/08/05/los-santos-nouvelle-destination-de-croisiere
+- /2014/08/05/los-santos-nouvelle-destination-de-croisiere/
 tags:
 - los-santos
-redirect_from:
-  - /2014/08/05/los-santos-nouvelle-destination-de-croisiere
+title: Los Santos, nouvelle destination de croisière ?
 ---
+
 
 _Comme plusieurs personnes ont pu le remarquer ces derniers jours, de plus en plus de paquebots mouillent au large de Del Perro Pier ou sont à quai aux docks de Los Santos._
 

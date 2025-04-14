@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Des militants de Greypeace s'infiltrent dans une centrale électrique
-cover: "/content/images/2016/06/centrale%20electrique%20art%2020%2007%2014.jpg"
 authors:
-  - titi
+- titi
+cover: /content/images/2016/06/centrale%20electrique%20art%2020%2007%2014.jpg
 date: '2014-07-21 00:00:00'
+layout: article
+redirect_from:
+- /2014/07/20/des-militants-de-greypeace-sinfiltrent-dans-une-centrale-electrique
+- /2014/07/20/des-militants-de-greypeace-sinfiltrent-dans-une-centrale-electrique/
 tags:
 - los-santos
-redirect_from:
-  - /2014/07/20/des-militants-de-greypeace-sinfiltrent-dans-une-centrale-electrique
+title: Des militants de Greypeace s'infiltrent dans une centrale électrique
 ---
+
 
 _Des militants écologistes se sont introduits dans une centrale proche de Los Santos, dans la nuit de samedi à dimanche..._
 

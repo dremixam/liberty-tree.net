@@ -1,15 +1,16 @@
 ---
-layout: article
-title: Atterrissage d’urgence sur l’autoroute
-cover: "/content/images/2005/01/01-beagle-title.jpg"
 authors:
-  - special-k
+- special-k
+cover: /content/images/2005/01/01-beagle-title.jpg
 date: '2007-01-02 00:00:00'
+layout: article
 tags:
 - los-santos
 - san-fierro
 - las-venturas
+title: Atterrissage d’urgence sur l’autoroute
 ---
+
 
 ![](/content/images/2005/01/01-beagle-highway_03.jpg)
 

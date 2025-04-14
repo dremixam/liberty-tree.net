@@ -1,12 +1,13 @@
 ---
-layout: article
-title: L'Amérique en deuil
 authors:
-  - dremixam
+- dremixam
 date: '2008-05-03 13:15:00'
+layout: article
 tags:
 - los-santos
+title: L'Amérique en deuil
 ---
+
 
 Le président des Etats-Unis, George Grove a été retrouvé mort hier sous un pont du quartier de Groove Street à Los Santos CA. Le FBI enquête pour connaître les causes exactes de sa mort qui restent pour l'instant mystérieuses. Le Liberty Tree se trouvait aux premières loges.
 

@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Nuit macabre
-cover: "/content/images/2005/01/taxi.jpg"
 authors:
-  - nelson
+- nelson
+cover: /content/images/2005/01/taxi.jpg
 date: '2005-11-11 00:00:00'
+layout: article
 tags:
 - los-santos
+title: Nuit macabre
 ---
+
 
 La nuit d'hier n'a pas été de tout repos pour la police de Los Santos. En effet, les quatre témoins à charge du procès du baron de la drogue Feliz Hyatt Torento ont été descendus hier soir à une heure et demi d'intervalle à peine. Un "nettoyeur" connu sous le nom de Vince est à l'origine de ces meurtres.  
 Vince a commencé sa "tournée" en prenant en otage un taxi qui aurait été son chauffeur d'une nuit. Maximilien, le chauffeur en question, un afro-américain de trente-sept ans, employé depuis douze ans dans la même compagnie, a sauvé la vie du substitut du procureur Anita Farelli.

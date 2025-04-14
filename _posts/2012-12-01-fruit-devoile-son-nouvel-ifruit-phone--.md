@@ -1,15 +1,17 @@
 ---
-layout: article
-title: Fruit dévoile son nouvel iFruit Phone !
-cover: "/content/images/2016/06/gta51.jpg"
 authors:
-  - passe-partout
+- passe-partout
+cover: /content/images/2016/06/gta51.jpg
 date: '2012-12-01 00:00:00'
+layout: article
+redirect_from:
+- /2012/11/30/fruit-devoile-son-nouvel-ifruit-phone
+- /2012/11/30/fruit-devoile-son-nouvel-ifruit-phone/
 tags:
 - los-santos
-redirect_from:
-  - /2012/11/30/fruit-devoile-son-nouvel-ifruit-phone
+title: Fruit dévoile son nouvel iFruit Phone !
 ---
+
 
 C'est à travers une nouvelle campagne de pub plutôt bien convaincante que la société Fruit a décidé de lancer son nouveau téléphone intelligent, sobrement intitulé iFruit Phone, tout comme son aîné. Cependant d'après la marque à la coupe de fruit, les capacités de ce nouveau modèle seraient démultipliées, comparé aux anciennes générations, le Liberty Tree a mené l'enquête pour vous !
 

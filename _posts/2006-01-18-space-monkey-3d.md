@@ -1,13 +1,15 @@
 ---
-layout: article
-title: Space Monkey 3D
-cover: "/content/images/2016/06/spacedito.jpg"
 authors:
-  - diabolik-c
+- diabolik-c
+cover: /content/images/2016/06/spacedito.jpg
 date: '2006-01-18 00:00:00'
+layout: article
 redirect_from:
-  - /2006/01/17/space-monkey-3d
+- /2006/01/17/space-monkey-3d
+- /2006/01/17/space-monkey-3d/
+title: Space Monkey 3D
 ---
+
 
 _Le jeu culte des années 90 reviens dans un nouvel opus qui devrait faire la joie des fans._
 

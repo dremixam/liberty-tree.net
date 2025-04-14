@@ -1,13 +1,14 @@
 ---
-layout: article
-title: 'Wedding Chapel : un business qui marche'
-cover: "/content/images/2005/01/Chapel_Candlelight.jpg"
 authors:
-  - fido_le_muet
+- fido_le_muet
+cover: /content/images/2005/01/Chapel_Candlelight.jpg
 date: '2006-12-24 00:00:00'
+layout: article
 tags:
 - las-venturas
+title: 'Wedding Chapel : un business qui marche'
 ---
+
 
 Las Venturas, la ville est célèbre pour son Strip, ses casinos, ses lumières, ses spectacles et... ses Wedding Chapel ! Depuis plusieurs décennies, la ville est devenue le lieu de pèlerinage des futurs mariés. Les gens affluent du monde entier pour célébrer "le plus beau jour de leur vie..." dans la Sin City. Et ce phénomène a pris tellement d'ampleur que désormais, une partie non négligeable des revenus de la municipalité reposent sur le business du mariage.
 

@@ -1,12 +1,13 @@
 ---
-layout: article
-title: Mystères & Confidences – Numéro 1
 authors:
-  - dremixam
+- dremixam
 date: '2010-04-08 15:41:00'
+layout: article
 tags:
 - liberty-city
+title: Mystères & Confidences – Numéro 1
 ---
+
 
 Cette semaine, le Liberty Tree vous offre un peu de détente avec le numéro 1 de Mystères et Confidences, supplément gratuit qui devrait à l’avenir paraître une fois par mois dans votre journal favori.  
 Ce supplément vous présentera les enquêtes les plus folles, réalisées aux quatre coins du monde par nos journalistes les plus aguerris. Tous nos témoignages sont réalisés par des témoins professionnels afin de vous garantir des sources plus fiables. La vérité ne sera pas toujours facile à accepter, mais la faire éclater est notre métier.  

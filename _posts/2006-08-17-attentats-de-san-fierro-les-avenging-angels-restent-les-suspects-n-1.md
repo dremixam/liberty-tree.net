@@ -1,13 +1,14 @@
 ---
-layout: article
-title: Attentats de San Fierro, les Avenging Angels restent les suspects N°1
-cover: "/content/images/2005/01/doherty.jpg"
 authors:
-  - pyro
+- pyro
+cover: /content/images/2005/01/doherty.jpg
 date: '2006-08-17 00:00:00'
+layout: article
 tags:
 - san-fierro
+title: Attentats de San Fierro, les Avenging Angels restent les suspects N°1
 ---
+
 
 Quatre jours après la spectaculaire série d'attentats qui a frappé les transports ferroviaires de San Fierro, San Andreas, les enquêteurs ont déjà interrogé plusieurs centaines de personnes. Mais vendredi soir, seule une quinzaine de suspects demeurait en garde à vue. De leur propre aveu, les enquêteurs ne disposent que d'une seule piste : trois portraits robots, élaborés à partir de témoignages de passagers affirmant avoir repéré des individus suspects à bord des trains, peu avant les explosions qui, selon le dernier bilan, ont fait 250 morts et plus de 730 blessés.
 
