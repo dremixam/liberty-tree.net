@@ -2,7 +2,8 @@
 layout: article
 title: Attentat déjoué à l'aéroport de Los Santos
 cover: "/content/images/2005/01/D_tournement_Atterrissage_3.jpg"
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2006-09-11 00:00:00'
 tags:
 - los-santos

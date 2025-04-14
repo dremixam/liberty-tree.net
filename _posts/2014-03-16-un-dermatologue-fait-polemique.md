@@ -2,7 +2,8 @@
 layout: article
 title: Un dermatologue fait polémique
 cover: "/content/images/2016/06/17_4_0.jpg"
-author: nevod
+authors:
+  - nevod
 date: '2014-03-16 23:00:00'
 tags:
 - los-santos

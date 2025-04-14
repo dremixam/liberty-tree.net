@@ -2,7 +2,8 @@
 layout: article
 title: Nouveau fauchage d'un champ d'OGM
 cover: "/content/images/2005/01/EBFarm.jpg"
-author: p130
+authors:
+  - p130
 date: '2006-08-08 00:00:00'
 tags:
 - los-santos

@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Record de vitesse à Red County
-author: bancale
+authors:
+  - bancale
 date: '2012-11-27 23:00:00'
 tags:
 - los-santos

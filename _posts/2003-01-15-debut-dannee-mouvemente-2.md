@@ -2,7 +2,8 @@
 layout: article
 title: Début d'année mouvementé
 cover: "/content/images/2016/07/fbiatt.jpg"
-author: dremixam
+authors:
+  - dremixam
 date: '2003-01-15 11:45:00'
 tags:
 - liberty-city

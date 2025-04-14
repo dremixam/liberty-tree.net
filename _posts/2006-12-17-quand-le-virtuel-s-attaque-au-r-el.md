@@ -2,7 +2,8 @@
 layout: article
 title: Quand le virtuel s'attaque au réel
 cover: "/content/images/2005/01/Console_Wnon.jpg"
-author: heinrich
+authors:
+  - heinrich
 date: '2006-12-17 00:00:00'
 tags:
 - los-santos

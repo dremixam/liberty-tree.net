@@ -2,7 +2,8 @@
 layout: article
 title: Scandale au LSPD
 cover: "/content/images/2016/06/Police_1.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-04-29 22:00:00'
 tags:
 - los-santos

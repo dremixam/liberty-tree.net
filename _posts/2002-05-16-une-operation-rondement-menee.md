@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Une opération rondement menée
-author: fanofrpg
+authors:
+  - fanofrpg
 date: '2002-05-16 22:00:00'
 tags:
 - liberty-city

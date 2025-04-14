@@ -2,7 +2,8 @@
 layout: article
 title: Émeute au stade
 cover: "/content/images/2016/06/stade3_0.jpg"
-author: generalmike
+authors:
+  - generalmike
 date: '2002-06-08 22:00:00'
 tags:
 - liberty-city

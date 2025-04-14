@@ -2,7 +2,8 @@
 layout: article
 title: Expériences humaines au Liberty Tree
 cover: "/content/images/2016/06/title_1.png"
-author: nelson
+authors:
+  - nelson
 date: '2013-11-18 23:00:00'
 tags:
 - los-santos

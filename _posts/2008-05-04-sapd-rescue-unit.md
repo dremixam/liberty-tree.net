@@ -1,7 +1,8 @@
 ---
 layout: article
 title: SAPD Rescue Unit
-author: dremixam
+authors:
+  - dremixam
 date: '2008-05-04 13:18:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: 'Spécial salons 1° édition : les 8 avions vedettes présentés.'
 cover: "/content/images/2005/01/dh_beaver_2_.jpg"
-author: pyro
+authors:
+  - pyro
 date: '2007-06-19 00:00:00'
 tags:
 - liberty-city

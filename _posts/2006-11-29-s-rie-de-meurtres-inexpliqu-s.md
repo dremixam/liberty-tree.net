@@ -2,7 +2,8 @@
 layout: article
 title: Série de meurtres inexpliqués
 cover: "/content/images/2005/01/Escobar_Meurtre_Dealer.jpg"
-author: mr-r
+authors:
+  - mr-r
 date: '2006-11-29 00:00:00'
 tags:
 - los-santos

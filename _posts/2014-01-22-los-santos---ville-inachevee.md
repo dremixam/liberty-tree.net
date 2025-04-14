@@ -2,7 +2,8 @@
 layout: article
 title: 'Los Santos : ville inachevée'
 cover: "/content/images/2016/06/4_1_0.jpg"
-author: nevod
+authors:
+  - nevod
 date: '2014-01-22 23:00:00'
 tags:
 - los-santos

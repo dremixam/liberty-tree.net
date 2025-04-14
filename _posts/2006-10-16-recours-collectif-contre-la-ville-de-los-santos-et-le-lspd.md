@@ -2,7 +2,8 @@
 layout: article
 title: Recours collectif contre la ville de Los Santos et le LSPD
 cover: "/content/images/2005/01/Recours_-_LS_City_Hall.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-10-16 00:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Bikini Line dans l'eau chaude
 cover: "/content/images/2005/01/Bikini-Line_Cover.jpg"
-author: mr-r
+authors:
+  - mr-r
 date: '2006-10-11 00:00:00'
 tags:
 - los-santos

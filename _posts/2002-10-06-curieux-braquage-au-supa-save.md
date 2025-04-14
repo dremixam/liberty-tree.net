@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Curieux braquage au Supa Save
-author: pierrealex
+authors:
+  - pierrealex
 date: '2002-10-06 22:00:00'
 tags:
 - liberty-city

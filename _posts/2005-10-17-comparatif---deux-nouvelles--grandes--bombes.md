@@ -2,7 +2,8 @@
 layout: article
 title: 'Comparatif : Deux nouvelles "grandes" bombes'
 cover: "/content/images/2016/06/cls1.jpg"
-author: civic666
+authors:
+  - civic666
 date: '2005-10-17 22:00:00'
 tags:
 - vice-city

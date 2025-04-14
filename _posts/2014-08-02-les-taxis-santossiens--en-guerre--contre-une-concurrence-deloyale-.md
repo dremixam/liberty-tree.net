@@ -2,7 +2,8 @@
 layout: article
 title: Les taxis Santossiens "en guerre" contre une concurrence déloyale
 cover: "/content/images/2016/06/art%20taxi%203.jpg"
-author: titi
+authors:
+  - titi
 date: '2014-08-02 22:00:00'
 tags:
 - los-santos

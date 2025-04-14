@@ -3,7 +3,8 @@ layout: article
 title: Julio Ochoa surpris en train de sortir d'un hôtel de luxe en compagnie d'une
   maitresse
 cover: "/content/images/2016/06/majestic2_1280x720.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2014-01-18 23:00:00'
 tags:
 - liberty-city

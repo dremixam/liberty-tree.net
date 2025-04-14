@@ -2,7 +2,8 @@
 layout: article
 title: Recyclage de journaliste
 cover: "/content/images/2005/01/recyclage.jpg"
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-07-03 00:00:00'
 tags:
 - san-fierro

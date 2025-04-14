@@ -2,7 +2,8 @@
 layout: article
 title: 'Carnet de Voyage : Los Santos'
 cover: "/content/images/2005/01/SM_et_V_Beach_4.jpg"
-author: scarface1991
+authors:
+  - scarface1991
 date: '2006-05-21 00:00:00'
 tags:
 - los-santos

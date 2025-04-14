@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Scandale à Los Santos
-author: dremixam
+authors:
+  - dremixam
 date: '2007-12-21 11:00:00'
 tags:
 - los-santos

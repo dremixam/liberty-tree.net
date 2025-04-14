@@ -2,7 +2,8 @@
 layout: article
 title: 'Immigrés d''Europe de l''Est : victimes ou criminels ?'
 cover: "/content/images/2016/06/3_1.jpg"
-author: nevod
+authors:
+  - nevod
 date: '2014-01-10 23:00:00'
 tags:
 - liberty-city

@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Braquage d'un fourgon blindé en plein Staunton Island
-author: nelson
+authors:
+  - nelson
 date: '2007-11-14 22:46:00'
 tags:
 - liberty-city

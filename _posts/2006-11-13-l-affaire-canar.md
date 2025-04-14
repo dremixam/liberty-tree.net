@@ -2,7 +2,8 @@
 layout: article
 title: L'Affaire Canar
 cover: "/content/images/2005/01/canaretcomplice.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-11-13 00:00:00'
 tags:
 - vice-city

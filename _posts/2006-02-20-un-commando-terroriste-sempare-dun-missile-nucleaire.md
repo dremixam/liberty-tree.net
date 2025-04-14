@@ -2,7 +2,8 @@
 layout: article
 title: Un commando terroriste s'empare d'un missile nucléaire
 cover: "/content/images/2016/06/Area_69_2.jpg"
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2006-02-20 23:00:00'
 tags:
 - liberty-city

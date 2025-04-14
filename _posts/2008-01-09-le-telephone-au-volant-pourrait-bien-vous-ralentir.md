@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le téléphone au volant pourrait bien vous ralentir
-author: nelson
+authors:
+  - nelson
 date: '2008-01-09 23:09:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: 'Ferme ''Olonigal: L''Amityville de San Andreas?'
 cover: "/content/images/2005/01/olonigal_05.jpg"
-author: gtaboss33
+authors:
+  - gtaboss33
 date: '2007-02-26 00:00:00'
 tags:
 - los-santos

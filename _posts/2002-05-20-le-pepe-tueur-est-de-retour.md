@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le pépé tueur est de retour
-author: zico
+authors:
+  - zico
 date: '2002-05-20 22:00:00'
 ---
 

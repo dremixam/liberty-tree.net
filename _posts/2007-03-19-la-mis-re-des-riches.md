@@ -2,7 +2,8 @@
 layout: article
 title: La misère des riches
 cover: "/content/images/2005/01/Misere_bar__exterieur_.jpg"
-author: mr-r
+authors:
+  - mr-r
 date: '2007-03-19 00:00:00'
 tags:
 - las-venturas

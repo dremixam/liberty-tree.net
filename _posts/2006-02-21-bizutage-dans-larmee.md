@@ -2,7 +2,8 @@
 layout: article
 title: Bizutage dans l'armée
 cover: "/content/images/2016/06/Tank.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-02-21 23:00:00'
 tags:
 - vice-city

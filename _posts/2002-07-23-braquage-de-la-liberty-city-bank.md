@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Braquage de la Liberty City Bank
-author: little-worm
+authors:
+  - little-worm
 date: '2002-07-23 22:00:00'
 tags:
 - liberty-city

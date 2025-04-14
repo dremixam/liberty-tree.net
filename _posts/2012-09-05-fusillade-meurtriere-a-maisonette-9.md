@@ -2,7 +2,8 @@
 layout: article
 title: Fusillade meurtrière à Maisonette 9
 cover: "/content/images/2016/06/mail.google.com__0.jpg"
-author: qtquentin
+authors:
+  - qtquentin
 date: '2012-09-05 22:00:00'
 tags:
 - liberty-city

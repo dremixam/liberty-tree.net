@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Des ripoux dans la police
-author: titof-abs
+authors:
+  - titof-abs
 date: '2002-12-14 23:00:00'
 tags:
 - liberty-city

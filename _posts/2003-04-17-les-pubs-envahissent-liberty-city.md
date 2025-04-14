@@ -2,7 +2,8 @@
 layout: article
 title: Les pubs envahissent Liberty City
 cover: "/content/images/2016/06/pub1.jpg"
-author: pastrana
+authors:
+  - pastrana
 date: '2003-04-17 22:00:00'
 tags:
 - liberty-city

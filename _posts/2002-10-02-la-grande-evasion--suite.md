@@ -1,7 +1,8 @@
 ---
 layout: article
 title: La Grande Evasion, Suite
-author: pavlov
+authors:
+  - pavlov
 date: '2002-10-02 22:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Les dents de la mer
 cover: "/content/images/2016/06/VC7.jpg"
-author: bart_man
+authors:
+  - bart_man
 date: '2006-01-16 23:00:00'
 tags:
 - vice-city

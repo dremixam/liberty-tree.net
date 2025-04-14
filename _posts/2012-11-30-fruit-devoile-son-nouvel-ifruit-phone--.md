@@ -2,7 +2,8 @@
 layout: article
 title: Fruit dévoile son nouvel iFruit Phone !
 cover: "/content/images/2016/06/gta51.jpg"
-author: passe-partout
+authors:
+  - passe-partout
 date: '2012-11-30 23:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Le collectionneur de têtes est revenu
 cover: "/content/images/2016/06/ttcolec1.jpg"
-author: noobsanarckist
+authors:
+  - noobsanarckist
 date: '2006-01-01 23:00:00'
 tags:
 - liberty-city

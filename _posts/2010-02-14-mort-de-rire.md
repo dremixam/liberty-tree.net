@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Mort de rire
-author: nelson
+authors:
+  - nelson
 date: '2010-02-14 15:41:00'
 tags:
 - liberty-city

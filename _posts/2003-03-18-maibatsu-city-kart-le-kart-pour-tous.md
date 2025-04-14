@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Maibatsu City Kart, le kart pour tous
-author: nelson
+authors:
+  - nelson
 date: '2003-03-18 14:16:00'
 tags:
 - liberty-city

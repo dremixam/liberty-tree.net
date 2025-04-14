@@ -2,7 +2,8 @@
 layout: article
 title: Le Street Racing responsable d'une autre tragédie
 cover: "/content/images/2005/01/Courses_-_article_title.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2007-05-06 00:00:00'
 tags:
 - san-fierro

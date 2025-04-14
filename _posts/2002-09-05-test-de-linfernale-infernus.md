@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Test de l'infernale Infernus
-author: nelson
+authors:
+  - nelson
 date: '2002-09-05 12:19:00'
 tags:
 - liberty-city

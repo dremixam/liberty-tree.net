@@ -2,7 +2,8 @@
 layout: article
 title: "$Capitol$ : Mafia"
 cover: "/content/images/2005/01/affiche.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-05-30 00:00:00'
 tags:
 - liberty-city

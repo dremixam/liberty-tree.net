@@ -2,7 +2,8 @@
 layout: article
 title: Un Santosin prétend avoir été grand-remplacé
 cover: "/content/images/2016/07/billy2.jpeg"
-author: dremixam
+authors:
+  - dremixam
 date: '2016-07-17 02:58:13'
 checked: true
 tags:

@@ -2,7 +2,8 @@
 layout: article
 title: Le nouveau commissaire de Vice City ne fait pas l'unanimité.
 cover: "/content/images/2005/01/Commissariat.jpg"
-author: john-johnson
+authors:
+  - john-johnson
 date: '2006-04-07 00:00:00'
 tags:
 - vice-city

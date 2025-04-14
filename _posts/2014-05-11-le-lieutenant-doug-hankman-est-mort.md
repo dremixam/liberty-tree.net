@@ -2,7 +2,8 @@
 layout: article
 title: Le lieutenant Doug Hankman est mort
 cover: "/content/images/2016/06/24.jpg"
-author: nevod
+authors:
+  - nevod
 date: '2014-05-11 22:00:00'
 tags:
 - los-santos

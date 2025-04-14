@@ -2,7 +2,8 @@
 layout: article
 title: Tentative de cambriolage échouée au "High Roller" de Las Venturas
 cover: "/content/images/2016/06/high1.jpg"
-author: chaos-red
+authors:
+  - chaos-red
 date: '2006-03-12 23:00:00'
 tags:
 - las-venturas

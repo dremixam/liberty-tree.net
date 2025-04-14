@@ -2,7 +2,8 @@
 layout: article
 title: Hold-up raté dans un Roboi’s Food Mart
 cover: "/content/images/2005/01/Otage_Intervention.jpg"
-author: mr-r
+authors:
+  - mr-r
 date: '2006-12-20 00:00:00'
 tags:
 - los-santos

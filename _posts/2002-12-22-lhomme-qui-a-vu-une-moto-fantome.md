@@ -1,7 +1,8 @@
 ---
 layout: article
 title: L'homme qui a vu une moto fantome
-author: dremixam
+authors:
+  - dremixam
 date: '2002-12-22 18:20:00'
 tags:
 - liberty-city

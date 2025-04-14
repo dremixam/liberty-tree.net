@@ -31,6 +31,10 @@ google_analytics: UA-69281367-1 # replace with your GA tracking identifier
 # Permalinks
 permalink: /:year/:month/:day/:title/
 
+# Fiches perso
+default_avatar: "assets/images/favicon.png"
+default_bio: "On ne sait pas grand chose sur cette personne…"
+
 # Sitemap
 url: https://liberty-tree.net
 

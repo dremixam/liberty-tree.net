@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Nouvelles mesures contre la délinquance
-author: little-worm
+authors:
+  - little-worm
 date: '2002-05-23 22:00:00'
 tags:
 - liberty-city

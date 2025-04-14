@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le Métro de la Peur
-author: little-worm
+authors:
+  - little-worm
 date: '2002-09-30 22:00:00'
 tags:
 - liberty-city

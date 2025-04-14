@@ -2,7 +2,8 @@
 layout: article
 title: La terre tremble à Los Santos
 cover: "/content/images/2005/01/00-EQ-lossantos-sunrise.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-10-22 00:00:00'
 tags:
 - los-santos

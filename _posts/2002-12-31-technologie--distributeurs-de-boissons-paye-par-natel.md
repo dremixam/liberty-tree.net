@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'Technologie: distributeurs de boissons payé par natel'
-author: max-2
+authors:
+  - max-2
 date: '2002-12-31 23:00:00'
 tags:
 - liberty-city

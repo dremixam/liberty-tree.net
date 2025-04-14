@@ -2,7 +2,8 @@
 layout: article
 title: Le mystère des Glendale "fantômes" élucidé
 cover: "/content/images/2016/06/Glendale_2.jpg"
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2005-12-20 23:00:00'
 tags:
 - vice-city

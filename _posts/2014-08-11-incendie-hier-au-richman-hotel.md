@@ -2,7 +2,8 @@
 layout: article
 title: Incendie hier au Richman Hotel
 cover: "/content/images/2016/06/hotel_0.jpg"
-author: titi
+authors:
+  - titi
 date: '2014-08-11 22:00:00'
 tags:
 - los-santos

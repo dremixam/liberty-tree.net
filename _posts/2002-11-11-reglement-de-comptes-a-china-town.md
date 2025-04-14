@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Réglement de comptes à China-Town
-author: rr4
+authors:
+  - rr4
 date: '2002-11-11 23:00:00'
 tags:
 - liberty-city

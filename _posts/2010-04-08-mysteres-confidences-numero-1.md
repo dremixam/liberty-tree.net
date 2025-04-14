@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Mystères & Confidences – Numéro 1
-author: dremixam
+authors:
+  - dremixam
 date: '2010-04-08 15:41:00'
 tags:
 - liberty-city

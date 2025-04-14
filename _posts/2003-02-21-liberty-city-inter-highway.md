@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Liberty City Inter Highway
-author: nelson
+authors:
+  - nelson
 date: '2003-02-21 12:38:00'
 tags:
 - liberty-city

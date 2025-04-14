@@ -2,7 +2,8 @@
 layout: article
 title: L'affaire Houser élucidée
 cover: "/content/images/2005/01/2monkey1.jpg"
-author: little-worm
+authors:
+  - little-worm
 date: '2006-06-30 00:00:00'
 tags:
 - vice-city

@@ -2,7 +2,8 @@
 layout: article
 title: 'Carnet de Voyage : Las Venturas'
 cover: "/content/images/2005/01/vuLV.jpg"
-author: p130
+authors:
+  - p130
 date: '2006-07-08 00:00:00'
 tags:
 - las-venturas

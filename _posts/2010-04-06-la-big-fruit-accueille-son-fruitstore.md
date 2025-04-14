@@ -1,7 +1,8 @@
 ---
 layout: article
 title: La Big Fruit accueille son FruitStore
-author: civic666
+authors:
+  - civic666
 date: '2010-04-06 15:33:00'
 tags:
 - liberty-city

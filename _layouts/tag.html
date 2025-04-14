@@ -61,7 +61,26 @@ logo: 'assets/images/ghost.png'
                     </a>
                     <footer class="post-card-meta">
                         <span class="post-card-author">
-                            <a href="/author/{{ post.author }}/">{{ post.author }}</a>
+                            {% if post.authors %}
+                                {% for author_slug in post.authors %}
+                                    {% assign author = site.authors | where: "slug", author_slug | first %}
+                                    {% if author %}
+                                        {% if forloop.last and forloop.index > 1 %}
+                                            et 
+                                        {% elsif forloop.index > 1 %}
+                                            , 
+                                        {% endif %}
+                                        <a href="/author/{{ author.slug }}">{{ author.name }}</a>
+                                    {% else %}
+                                        {% if forloop.last and forloop.index > 1 %}
+                                            et 
+                                        {% elsif forloop.index > 1 %}
+                                            , 
+                                        {% endif %}
+                                        {{ author_slug }}
+                                    {% endif %}
+                                {% endfor %}
+                            {% endif %}
                         </span>
                         <span class="reading-time">
                             {% assign words = post.content | strip_html | number_of_words %}

@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Rencontre avec Dj Fachris
-author: nelson
+authors:
+  - nelson
 date: '2003-04-01 13:35:00'
 tags:
 - liberty-city

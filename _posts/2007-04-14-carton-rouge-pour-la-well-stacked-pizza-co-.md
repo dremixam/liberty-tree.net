@@ -2,7 +2,8 @@
 layout: article
 title: Carton rouge pour la Well Stacked Pizza Co.
 cover: "/content/images/2005/01/logo1.jpg"
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-04-14 00:00:00'
 tags:
 - las-venturas

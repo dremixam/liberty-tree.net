@@ -2,7 +2,8 @@
 layout: article
 title: Le Liberty Tree perd son Sculpteur de Ciels
 cover: "/content/images/2016/06/0_0_164.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2014-02-11 23:00:00'
 tags:
 - los-santos

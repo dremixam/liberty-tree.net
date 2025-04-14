@@ -2,7 +2,8 @@
 layout: article
 title: On a marché sur la lune !
 cover: "/content/images/2005/01/logo-apollo11.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2007-01-26 00:00:00'
 tags:
 - liberty-city

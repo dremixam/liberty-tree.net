@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'Attentat vegan au Liberty Tree: 12 morts'
-author: satyr
+authors:
+  - satyr
 ---
 
 "je suis vegan"  

@@ -2,7 +2,8 @@
 layout: article
 title: Accident spéctaculaire sur la PCH
 cover: "/content/images/2005/01/Fcar04.jpg"
-author: pavlov
+authors:
+  - pavlov
 date: '2006-04-17 00:00:00'
 tags:
 - los-santos

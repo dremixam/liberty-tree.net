@@ -2,7 +2,8 @@
 layout: article
 title: Retour aux urnes
 cover: "/content/images/2016/06/america.jpg"
-author: p130
+authors:
+  - p130
 date: '2005-11-06 23:00:00'
 tags:
 - vice-city

@@ -2,7 +2,8 @@
 layout: article
 title: Plage privée...privée de surf
 cover: "/content/images/2005/01/Playa.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-04-10 00:00:00'
 tags:
 - los-santos

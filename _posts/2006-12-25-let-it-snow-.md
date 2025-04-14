@@ -2,7 +2,8 @@
 layout: article
 title: Let it snow !
 cover: "/content/images/2005/01/letitsnow3.jpg"
-author: dremixam
+authors:
+  - dremixam
 date: '2006-12-25 00:00:00'
 tags:
 - liberty-city

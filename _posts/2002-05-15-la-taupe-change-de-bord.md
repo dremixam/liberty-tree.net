@@ -1,7 +1,8 @@
 ---
 layout: article
 title: La taupe change de bord
-author: fanofrpg
+authors:
+  - fanofrpg
 date: '2002-05-15 22:00:00'
 tags:
 - liberty-city

@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Nouvelle méthode de nettoyage
-author: fxbt
+authors:
+  - fxbt
 date: '2002-08-30 22:00:00'
 tags:
 - liberty-city

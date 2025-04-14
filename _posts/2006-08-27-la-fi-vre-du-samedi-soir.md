@@ -2,7 +2,8 @@
 layout: article
 title: La Fièvre du Samedi Soir
 cover: "/content/images/2005/01/La_Fievre_du_Samedi_Soir_1.jpg"
-author: scarface1991
+authors:
+  - scarface1991
 date: '2006-08-27 00:00:00'
 tags:
 - las-venturas

@@ -2,7 +2,8 @@
 layout: article
 title: Hardcore parachutistes
 cover: "/content/images/2005/01/Saut_N_4.jpg"
-author: scarface1991
+authors:
+  - scarface1991
 date: '2006-05-14 00:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Gonflette simple ou force pure ?
 cover: "/content/images/2016/06/19_4.jpg"
-author: nevod
+authors:
+  - nevod
 date: '2014-03-25 23:00:00'
 tags:
 - los-santos

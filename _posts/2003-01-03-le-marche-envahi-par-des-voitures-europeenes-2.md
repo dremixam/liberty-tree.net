@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le marché envahi par des voitures Européenes
-author: dremixam
+authors:
+  - dremixam
 date: '2003-01-03 11:52:00'
 tags:
 - liberty-city

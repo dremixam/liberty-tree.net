@@ -2,7 +2,8 @@
 layout: article
 title: 24 heures avec un "mac"
 cover: "/content/images/2005/01/pimpup.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-06-19 00:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: L'homme qui aimait les poules
 cover: "/content/images/2016/06/poul5.jpg"
-author: little-worm
+authors:
+  - little-worm
 date: '2005-10-09 22:00:00'
 tags:
 - vice-city

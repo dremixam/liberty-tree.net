@@ -2,7 +2,8 @@
 layout: article
 title: Nouveau mouvement de panique à Los Santos
 cover: "/content/images/2005/01/road_block2.jpg"
-author: antholintello
+authors:
+  - antholintello
 date: '2006-08-11 00:00:00'
 tags:
 - los-santos

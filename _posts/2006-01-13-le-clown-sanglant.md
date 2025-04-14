@@ -2,7 +2,8 @@
 layout: article
 title: Le clown Sanglant
 cover: "/content/images/2016/06/lieuducrime.jpg"
-author: diabolik-c
+authors:
+  - diabolik-c
 date: '2006-01-13 23:00:00'
 tags:
 - vice-city

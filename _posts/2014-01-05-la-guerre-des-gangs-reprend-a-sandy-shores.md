@@ -2,7 +2,8 @@
 layout: article
 title: La guerre des gangs reprend à Sandy Shores
 cover: "/content/images/2016/06/0_0_88.jpg"
-author: gamer-reporter
+authors:
+  - gamer-reporter
 date: '2014-01-05 23:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Today we make a race!
 cover: "/content/images/2005/01/rallye_pann.jpg"
-author: gtaboss33
+authors:
+  - gtaboss33
 date: '2006-11-16 00:00:00'
 tags:
 - los-santos

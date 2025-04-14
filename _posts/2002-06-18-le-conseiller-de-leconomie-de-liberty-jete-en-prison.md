@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le conseiller de l'économie de Liberty jeté en prison
-author: max-2
+authors:
+  - max-2
 date: '2002-06-18 22:00:00'
 tags:
 - liberty-city

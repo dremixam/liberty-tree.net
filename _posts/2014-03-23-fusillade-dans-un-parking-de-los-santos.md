@@ -2,7 +2,8 @@
 layout: article
 title: Fusillade dans un parking de Los Santos
 cover: "/content/images/2016/06/Parking_1.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-03-23 23:00:00'
 tags:
 - los-santos

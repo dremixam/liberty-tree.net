@@ -2,7 +2,8 @@
 layout: article
 title: Accident aérien tragique à San Andreas
 cover: "/content/images/2005/01/crash-aeroport.jpg"
-author: gtaboss33
+authors:
+  - gtaboss33
 date: '2006-10-12 00:00:00'
 tags:
 - los-santos

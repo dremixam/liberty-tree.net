@@ -2,7 +2,8 @@
 layout: article
 title: 'Vice City : L''envers du décor'
 cover: "/content/images/2005/01/Vice-city_05.jpg"
-author: gtaboss33
+authors:
+  - gtaboss33
 date: '2007-06-20 00:00:00'
 tags:
 - vice-city

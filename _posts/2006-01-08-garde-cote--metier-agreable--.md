@@ -2,7 +2,8 @@
 layout: article
 title: Garde-côte, métier agréable ?
 cover: "/content/images/2016/06/editocote.jpg"
-author: diabolik-c
+authors:
+  - diabolik-c
 date: '2006-01-08 23:00:00'
 tags:
 - los-santos

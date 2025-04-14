@@ -2,7 +2,8 @@
 layout: article
 title: 'Police : amie ou ennemie ?'
 cover: "/content/images/2016/06/police1_0.jpg"
-author: oswald-cobblepote
+authors:
+  - oswald-cobblepote
 date: '2006-01-22 23:00:00'
 tags:
 - vice-city

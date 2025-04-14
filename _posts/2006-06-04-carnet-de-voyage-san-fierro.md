@@ -2,7 +2,8 @@
 layout: article
 title: 'Carnet de Voyage : San Fierro'
 cover: "/content/images/2005/01/San_Fierroo.jpg"
-author: scarface1991
+authors:
+  - scarface1991
 date: '2006-06-04 00:00:00'
 tags:
 - san-fierro

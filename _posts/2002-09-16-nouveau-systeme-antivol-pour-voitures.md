@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Nouveau système antivol pour voitures
-author: max-2
+authors:
+  - max-2
 date: '2002-09-16 22:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Inondation dans Liberty City
 cover: "/content/images/2005/01/inndondation.jpg"
-author: canar
+authors:
+  - canar
 date: '2006-07-01 00:00:00'
 tags:
 - liberty-city

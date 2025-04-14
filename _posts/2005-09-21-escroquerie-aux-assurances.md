@@ -2,7 +2,8 @@
 layout: article
 title: Escroquerie aux assurances
 cover: "/content/images/2005/01/garage2.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2005-09-21 00:00:00'
 tags:
 - liberty-city

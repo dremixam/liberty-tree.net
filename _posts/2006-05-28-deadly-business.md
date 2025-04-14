@@ -2,7 +2,8 @@
 layout: article
 title: Deadly Business
 cover: "/content/images/2016/06/killed.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-05-28 22:00:00'
 tags:
 - los-santos

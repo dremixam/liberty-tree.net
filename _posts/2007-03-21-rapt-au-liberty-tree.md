@@ -2,7 +2,8 @@
 layout: article
 title: Rapt au Liberty Tree
 cover: "/content/images/2005/01/camheinrich.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2007-03-21 00:00:00'
 tags:
 - los-santos

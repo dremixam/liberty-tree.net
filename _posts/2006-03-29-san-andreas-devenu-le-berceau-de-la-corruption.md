@@ -2,7 +2,8 @@
 layout: article
 title: San Andreas devenu le berceau de la corruption
 cover: "/content/images/2005/01/Corruption_1_.jpg"
-author: mr-r
+authors:
+  - mr-r
 date: '2006-03-29 00:00:00'
 tags:
 - los-santos

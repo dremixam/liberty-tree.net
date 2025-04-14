@@ -2,7 +2,8 @@
 layout: article
 title: Road Trippin', 5ème edition.
 cover: "/content/images/2005/01/rtlogo.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-08-06 00:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Hommage à un innocent tué lors d'un braquage
 cover: "/content/images/2016/06/0_0_52.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2013-12-27 23:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Souk Machine
 cover: "/content/images/2005/01/tetedecoq.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2007-02-03 00:00:00'
 tags:
 - san-fierro

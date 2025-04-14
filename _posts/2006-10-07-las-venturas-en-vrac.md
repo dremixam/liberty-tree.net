@@ -2,7 +2,8 @@
 layout: article
 title: Las Venturas en vrac
 cover: "/content/images/2005/01/LVV.jpg"
-author: pavlov
+authors:
+  - pavlov
 date: '2006-10-07 00:00:00'
 tags:
 - las-venturas

@@ -2,7 +2,8 @@
 layout: article
 title: Elles se bonifient avec le temps
 cover: "/content/images/2016/06/27_6.jpg"
-author: nevod
+authors:
+  - nevod
 date: '2014-05-10 22:00:00'
 tags:
 - los-santos

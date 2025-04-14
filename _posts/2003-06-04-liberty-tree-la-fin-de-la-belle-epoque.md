@@ -2,7 +2,8 @@
 layout: article
 title: 'Liberty Tree: La fin de la belle epoque'
 cover: "/content/images/v1/user26/lt.jpg"
-author: dremixam
+authors:
+  - dremixam
 date: '2003-06-04 10:00:00'
 tags:
 - liberty-city

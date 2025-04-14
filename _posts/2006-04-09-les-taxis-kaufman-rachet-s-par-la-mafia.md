@@ -2,7 +2,8 @@
 layout: article
 title: Les taxis Kaufman rachetés par la mafia
 cover: "/content/images/2005/01/Kaufman.jpg"
-author: john-johnson
+authors:
+  - john-johnson
 date: '2006-04-09 00:00:00'
 tags:
 - vice-city

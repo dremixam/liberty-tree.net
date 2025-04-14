@@ -2,7 +2,8 @@
 layout: article
 title: Tram qui roule, pas vraiment cool !
 cover: "/content/images/2016/06/san%20fierro%202.jpg"
-author: megamind
+authors:
+  - megamind
 date: '2005-10-10 22:00:00'
 tags:
 - san-fierro

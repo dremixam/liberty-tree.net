@@ -2,7 +2,8 @@
 layout: article
 title: Liberty City s'offre un site internet
 cover: "/content/images/v1/user22/banoff.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2003-03-01 11:00:00'
 tags:
 - liberty-city

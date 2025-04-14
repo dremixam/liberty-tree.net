@@ -2,7 +2,8 @@
 layout: article
 title: Un couple se noie dans les rapides de Tongva Valley
 cover: "/content/images/2016/06/0_0_247.jpg"
-author: titi
+authors:
+  - titi
 date: '2014-08-13 22:00:00'
 tags:
 - los-santos

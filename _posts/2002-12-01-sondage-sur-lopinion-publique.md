@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Sondage sur l'opinion publique
-author: max-2
+authors:
+  - max-2
 date: '2002-12-01 23:00:00'
 tags:
 - liberty-city

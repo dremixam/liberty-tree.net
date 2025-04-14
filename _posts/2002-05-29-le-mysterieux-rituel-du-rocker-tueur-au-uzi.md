@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le mystérieux rituel du ''rocker tueur'' au uzi
-author: baz
+authors:
+  - baz
 date: '2002-05-29 22:00:00'
 tags:
 - liberty-city

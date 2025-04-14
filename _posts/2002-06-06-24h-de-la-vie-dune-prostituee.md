@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 24 heures de la vie d'une prostituée
-author: rr4
+authors:
+  - rr4
 date: '2002-06-06 22:00:00'
 tags:
 - liberty-city

@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Comparatif des aéro-clubs de San Andreas
-author: dremixam
+authors:
+  - dremixam
 date: '2008-04-28 12:48:00'
 tags:
 - los-santos

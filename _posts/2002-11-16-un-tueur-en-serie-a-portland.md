@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Un tueur en série à Portland
-author: fxbt
+authors:
+  - fxbt
 date: '2002-11-16 23:00:00'
 tags:
 - liberty-city

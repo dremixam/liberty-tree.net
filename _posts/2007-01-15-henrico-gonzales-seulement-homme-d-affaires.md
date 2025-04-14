@@ -2,7 +2,8 @@
 layout: article
 title: Henrico Gonzales, seulement homme d'affaires
 cover: "/content/images/2005/01/henrico-Gonzales.jpg"
-author: newz-report
+authors:
+  - newz-report
 date: '2007-01-15 00:00:00'
 tags:
 - los-santos

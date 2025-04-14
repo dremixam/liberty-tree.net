@@ -2,7 +2,8 @@
 layout: article
 title: La mystérieuse fan terrorise le Liberty-Tree
 cover: "/content/images/2005/01/newbuilding.jpg"
-author: dremixam
+authors:
+  - dremixam
 date: '2005-10-31 00:00:00'
 tags:
 - los-santos

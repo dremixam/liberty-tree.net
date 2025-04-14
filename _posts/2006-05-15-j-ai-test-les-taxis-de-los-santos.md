@@ -2,7 +2,8 @@
 layout: article
 title: J'ai testé les taxis de Los Santos
 cover: "/content/images/2016/07/taxils.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-05-15 00:00:00'
 tags:
 - los-santos

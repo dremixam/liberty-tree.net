@@ -2,7 +2,8 @@
 layout: article
 title: Corruption au pénitencier de Bolingbroke ?
 cover: "/content/images/2016/06/0_0_62.jpg"
-author: geof905
+authors:
+  - geof905
 date: '2013-12-29 23:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: "$Capitol$ : VCPD"
 cover: "/content/images/2005/01/affiche.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-06-15 00:00:00'
 tags:
 - vice-city

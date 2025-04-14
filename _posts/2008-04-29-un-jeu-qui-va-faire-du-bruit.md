@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Un jeu qui va faire du bruit...
-author: dremixam
+authors:
+  - dremixam
 date: '2008-04-29 12:52:00'
 tags:
 - los-santos

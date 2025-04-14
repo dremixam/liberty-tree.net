@@ -2,7 +2,8 @@
 layout: article
 title: Le tueur tué
 cover: "/content/images/2005/01/articletueurtu_.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-12-01 00:00:00'
 tags:
 - vice-city

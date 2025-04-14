@@ -1,7 +1,8 @@
 ---
 layout: article
 title: "''Space ice-cream''"
-author: pierrealex
+authors:
+  - pierrealex
 date: '2002-08-21 22:00:00'
 tags:
 - liberty-city

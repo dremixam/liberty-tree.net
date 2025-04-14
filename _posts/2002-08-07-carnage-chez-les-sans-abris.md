@@ -2,7 +2,8 @@
 layout: article
 title: Carnage chez les sans-abris
 cover: "/content/images/2016/06/clodos_001.jpg"
-author: fxbt
+authors:
+  - fxbt
 date: '2002-08-07 22:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Le Liberty Tree en rade
 cover: "/content/images/2016/06/LTRade4.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-10-07 22:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Incendie Criminel dans Red County
 cover: "/content/images/2016/06/incendie.jpg"
-author: dremixam
+authors:
+  - dremixam
 date: '2005-08-21 22:00:00'
 ---
 

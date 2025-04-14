@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Chômage à Liberty City
-author: max-2
+authors:
+  - max-2
 date: '2002-12-08 23:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Hellraiser, le gang le plus violent au monde ?
 cover: "/content/images/2016/06/0_0_121.jpg"
-author: gamer-reporter
+authors:
+  - gamer-reporter
 date: '2014-01-13 23:00:00'
 tags:
 - los-santos

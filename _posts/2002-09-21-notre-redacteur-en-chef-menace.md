@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Notre rédacteur en chef menacé
-author: baz
+authors:
+  - baz
 date: '2002-09-21 22:00:00'
 tags:
 - liberty-city

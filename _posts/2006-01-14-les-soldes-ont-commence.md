@@ -2,7 +2,8 @@
 layout: article
 title: Les soldes ont commencé
 cover: "/content/images/2016/06/sld3.jpg"
-author: noobsanarckist
+authors:
+  - noobsanarckist
 date: '2006-01-14 23:00:00'
 tags:
 - vice-city

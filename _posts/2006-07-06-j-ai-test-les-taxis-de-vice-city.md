@@ -2,7 +2,8 @@
 layout: article
 title: J'ai testé les taxis de Vice City
 cover: "/content/images/2005/01/pubkaufman.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-07-06 00:00:00'
 tags:
 - vice-city

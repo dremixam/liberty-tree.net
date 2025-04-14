@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Des attardés au LCPD?
-author: little-worm
+authors:
+  - little-worm
 date: '2002-09-08 22:00:00'
 tags:
 - liberty-city

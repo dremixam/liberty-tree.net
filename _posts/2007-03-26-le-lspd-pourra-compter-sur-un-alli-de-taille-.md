@@ -2,7 +2,8 @@
 layout: article
 title: Le LSPD pourra compter sur un allié de taille !
 cover: "/content/images/2005/01/tx3000-article_title.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2007-03-26 00:00:00'
 tags:
 - los-santos

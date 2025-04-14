@@ -2,7 +2,8 @@
 layout: article
 title: Cérémonie des Oscars au Cathay Theater
 cover: "/content/images/2005/01/Oscars_Graumann__s.jpg"
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2006-07-10 00:00:00'
 tags:
 - los-santos

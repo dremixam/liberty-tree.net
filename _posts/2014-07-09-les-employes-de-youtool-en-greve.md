@@ -2,7 +2,8 @@
 layout: article
 title: Les employés de YouTool en grève
 cover: "/content/images/2016/06/YouTool.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-07-09 22:00:00'
 tags:
 - los-santos

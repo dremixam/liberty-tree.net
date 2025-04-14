@@ -2,7 +2,8 @@
 layout: article
 title: L'incroyable famille Debbyshian à Liberty City
 cover: "/content/images/2016/06/009.jpg"
-author: aymar
+authors:
+  - aymar
 date: '2014-05-05 22:00:00'
 tags:
 - liberty-city

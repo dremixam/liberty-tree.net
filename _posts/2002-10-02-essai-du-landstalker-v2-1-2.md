@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Essai du Landstalker V2.1
-author: nelson
+authors:
+  - nelson
 date: '2002-10-02 14:50:00'
 tags:
 - liberty-city

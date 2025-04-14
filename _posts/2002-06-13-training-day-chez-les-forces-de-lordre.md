@@ -2,7 +2,8 @@
 layout: article
 title: Training day chez les forces de l'ordre
 cover: "/content/images/2016/06/police7_0.jpg"
-author: baz
+authors:
+  - baz
 date: '2002-06-13 22:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Le Liberty Tree menacé
 cover: "/content/images/2005/01/LT_by_night.jpg"
-author: dremixam
+authors:
+  - dremixam
 date: '2005-11-24 00:00:00'
 tags:
 - los-santos

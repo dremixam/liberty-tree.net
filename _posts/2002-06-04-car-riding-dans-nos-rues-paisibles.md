@@ -2,7 +2,8 @@
 layout: article
 title: Car riding dans nos rues paisibles
 cover: "/content/images/2016/06/carriding2_0.jpg"
-author: rr4
+authors:
+  - rr4
 date: '2002-06-04 22:00:00'
 tags:
 - liberty-city

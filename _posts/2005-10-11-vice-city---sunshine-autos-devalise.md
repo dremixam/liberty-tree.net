@@ -2,7 +2,8 @@
 layout: article
 title: 'Vice City : Sunshine Autos dévalisé'
 cover: "/content/images/2016/06/sunshine_oto.jpg"
-author: mike-andrew
+authors:
+  - mike-andrew
 date: '2005-10-11 22:00:00'
 tags:
 - vice-city

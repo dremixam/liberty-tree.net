@@ -2,7 +2,8 @@
 layout: article
 title: Le jeu vidéo, symbole de San Andreas
 cover: "/content/images/2005/01/Logo-Societe-Creation-Jeu.jpg"
-author: manu
+authors:
+  - manu
 date: '2007-01-09 00:00:00'
 tags:
 - los-santos

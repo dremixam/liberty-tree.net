@@ -2,7 +2,8 @@
 layout: article
 title: La Fièvre du Samedi Soir
 cover: "/content/images/2005/01/Alhambra_3.jpg"
-author: scarface1991
+authors:
+  - scarface1991
 date: '2006-05-27 17:49:00'
 tags:
 - los-santos

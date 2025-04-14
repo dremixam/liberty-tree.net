@@ -2,7 +2,8 @@
 layout: article
 title: L'élection du Plus Pourri 2007
 cover: "/content/images/2005/01/affiche_le_plus_pourri_2007.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2007-04-30 00:00:00'
 tags:
 - vice-city

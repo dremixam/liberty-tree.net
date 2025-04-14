@@ -2,7 +2,8 @@
 layout: article
 title: Des militants de Greypeace s'infiltrent dans une centrale électrique
 cover: "/content/images/2016/06/centrale%20electrique%20art%2020%2007%2014.jpg"
-author: titi
+authors:
+  - titi
 date: '2014-07-20 22:00:00'
 tags:
 - los-santos

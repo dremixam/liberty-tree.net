@@ -2,7 +2,8 @@
 layout: article
 title: Réouverture du Liberty Tree
 cover: "/content/images/2016/06/immeuble1.jpg"
-author: dremixam
+authors:
+  - dremixam
 date: '2005-08-14 22:00:00'
 tags:
 - vice-city

@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Des jouets explosifs
-author: rr4
+authors:
+  - rr4
 date: '2002-08-16 22:00:00'
 tags:
 - liberty-city

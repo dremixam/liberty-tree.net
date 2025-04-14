@@ -1,7 +1,8 @@
 ---
 layout: article
 title: La délinquance ne touche pas que les jeunes
-author: little-worm
+authors:
+  - little-worm
 date: '2002-05-14 22:00:00'
 tags:
 - liberty-city

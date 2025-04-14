@@ -2,7 +2,8 @@
 layout: article
 title: 20ème anniversaire de la centrale 69
 cover: "/content/images/2005/01/photo.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-05-01 00:00:00'
 tags:
 - las-venturas

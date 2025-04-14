@@ -2,7 +2,8 @@
 layout: article
 title: Las Venturas Breakdown
 cover: "/content/images/2005/01/title23.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-06-12 00:00:00'
 tags:
 - las-venturas

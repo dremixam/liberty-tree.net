@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'Pay''n''Spray: La chronique d''un succès'
-author: pavlov
+authors:
+  - pavlov
 date: '2002-09-04 22:00:00'
 tags:
 - liberty-city

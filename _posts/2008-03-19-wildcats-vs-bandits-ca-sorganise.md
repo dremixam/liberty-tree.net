@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Wildcats vs Bandits, ça s’organise !
-author: dremixam
+authors:
+  - dremixam
 date: '2008-03-19 13:35:00'
 tags:
 - liberty-city

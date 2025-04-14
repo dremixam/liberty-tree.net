@@ -2,7 +2,8 @@
 layout: article
 title: Un tableau d'art volé au San Fierro Art Gallery
 cover: "/content/images/2005/01/San-ferrio-art-gallery.jpg"
-author: gtaboss33
+authors:
+  - gtaboss33
 date: '2006-08-26 00:00:00'
 tags:
 - san-fierro

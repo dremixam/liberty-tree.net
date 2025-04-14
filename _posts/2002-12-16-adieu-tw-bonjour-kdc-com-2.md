@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Adieu TW@, bonjour KDC.com !
-author: nelson
+authors:
+  - nelson
 date: '2002-12-16 17:39:00'
 tags:
 - liberty-city

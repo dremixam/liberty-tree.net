@@ -2,7 +2,8 @@
 layout: article
 title: Atterrissage d’urgence sur l’autoroute
 cover: "/content/images/2005/01/01-beagle-title.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2007-01-02 00:00:00'
 tags:
 - los-santos

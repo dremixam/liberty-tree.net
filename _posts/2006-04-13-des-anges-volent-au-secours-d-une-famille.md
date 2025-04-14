@@ -2,7 +2,8 @@
 layout: article
 title: Des Anges volent au secours d'une famille
 cover: "/content/images/2005/01/Angel_Pine_Aerial_View.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-04-13 00:00:00'
 tags:
 - san-fierro

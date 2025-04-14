@@ -2,7 +2,8 @@
 layout: article
 title: Indigo Slam
 cover: "/content/images/2016/06/slam2_0.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-09-17 22:00:00'
 tags:
 - los-santos

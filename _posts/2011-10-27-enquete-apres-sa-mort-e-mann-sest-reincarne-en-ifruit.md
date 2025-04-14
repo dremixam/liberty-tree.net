@@ -3,7 +3,8 @@ layout: article
 title: 'Enquête : Après sa mort, Steve Jobs s''est réincarné en iFruit'
 featured: true
 cover: "/content/images/2016/07/IFruit9iX-GTAV.png"
-author: dremixam
+authors:
+  - dremixam
 date: '2011-10-27 10:00:00'
 ---
 

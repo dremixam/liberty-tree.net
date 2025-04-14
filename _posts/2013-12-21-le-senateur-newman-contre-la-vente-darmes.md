@@ -2,7 +2,8 @@
 layout: article
 title: Le sénateur Newman contre la vente d'armes
 cover: "/content/images/2016/06/2_3.jpg"
-author: nevod
+authors:
+  - nevod
 date: '2013-12-21 23:00:00'
 tags:
 - los-santos

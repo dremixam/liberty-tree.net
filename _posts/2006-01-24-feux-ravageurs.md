@@ -2,7 +2,8 @@
 layout: article
 title: Feux Ravageurs
 cover: "/content/images/2016/06/4_foret_0.jpg"
-author: filzonfire
+authors:
+  - filzonfire
 date: '2006-01-24 23:00:00'
 tags:
 - vice-city

@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Kidnapping de fourgonnettes Belly Up
-author: max-2
+authors:
+  - max-2
 date: '2002-08-13 11:59:00'
 tags:
 - liberty-city

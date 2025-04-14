@@ -2,7 +2,8 @@
 layout: article
 title: La moto est-elle un réel danger ?
 cover: "/content/images/2016/06/motocq3.jpg"
-author: noobsanarckist
+authors:
+  - noobsanarckist
 date: '2005-12-01 23:00:00'
 tags:
 - vice-city

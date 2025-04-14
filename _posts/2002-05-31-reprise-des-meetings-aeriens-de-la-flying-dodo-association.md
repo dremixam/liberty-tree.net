@@ -2,7 +2,8 @@
 layout: article
 title: Reprise des meetings aériens de la Flying Dodo Association
 cover: "/content/images/2016/06/looping1_0.jpg"
-author: rr4
+authors:
+  - rr4
 date: '2002-05-31 22:00:00'
 tags:
 - liberty-city

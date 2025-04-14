@@ -2,7 +2,8 @@
 layout: article
 title: Soif de sang
 cover: "/content/images/2016/06/plusdejambe.jpg"
-author: max-2
+authors:
+  - max-2
 date: '2002-08-06 22:00:00'
 tags:
 - liberty-city

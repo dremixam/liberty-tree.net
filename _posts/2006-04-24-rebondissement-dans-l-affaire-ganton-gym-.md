@@ -2,7 +2,8 @@
 layout: article
 title: Rebondissement dans l'affaire "Ganton Gym"
 cover: "/content/images/2005/01/dock5.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-04-24 00:00:00'
 tags:
 - los-santos

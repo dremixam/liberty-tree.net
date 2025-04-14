@@ -2,7 +2,8 @@
 layout: article
 title: La côte ouest de plus en plus attrayante
 cover: "/content/images/2016/06/11.jpg"
-author: dremixam
+authors:
+  - dremixam
 date: '2012-08-28 22:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Le sniper décapiteur passe chez les "chics"
 cover: "/content/images/2016/06/shoreside_a_1.jpg"
-author: fxbt
+authors:
+  - fxbt
 date: '2002-11-22 23:00:00'
 tags:
 - liberty-city

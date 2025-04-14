@@ -2,7 +2,8 @@
 layout: article
 title: 'Obésité : un sujet tabou'
 cover: "/content/images/2005/01/ob_se3.jpg"
-author: bart_man
+authors:
+  - bart_man
 date: '2006-03-06 18:14:00'
 tags:
 - los-santos

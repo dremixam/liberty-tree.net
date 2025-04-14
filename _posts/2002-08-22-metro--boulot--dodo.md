@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Métro, boulot, dodo
-author: rr4
+authors:
+  - rr4
 date: '2002-08-22 22:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Des radars photo à San Andreas
 cover: "/content/images/2005/01/000-radar-article-title.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2007-07-10 00:00:00'
 tags:
 - los-santos

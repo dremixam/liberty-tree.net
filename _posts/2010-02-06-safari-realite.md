@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Safari Réalité
-author: dremixam
+authors:
+  - dremixam
 date: '2010-02-06 14:41:00'
 tags:
 - los-santos

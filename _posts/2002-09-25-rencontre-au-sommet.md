@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Rencontre au sommet
-author: fxbt
+authors:
+  - fxbt
 date: '2002-09-25 22:00:00'
 tags:
 - liberty-city

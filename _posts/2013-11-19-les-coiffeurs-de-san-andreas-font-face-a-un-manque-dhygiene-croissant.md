@@ -2,7 +2,8 @@
 layout: article
 title: Les coiffeurs de San Andreas font face à un manque d'hygiène croissant
 cover: "/content/images/2016/06/0_0_12.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2013-11-19 23:00:00'
 tags:
 - los-santos

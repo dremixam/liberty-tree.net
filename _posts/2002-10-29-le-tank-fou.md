@@ -1,7 +1,8 @@
 ---
 layout: article
 title: le Tank Fou
-author: little-worm
+authors:
+  - little-worm
 date: '2002-10-29 23:00:00'
 tags:
 - liberty-city

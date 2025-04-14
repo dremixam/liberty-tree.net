@@ -2,7 +2,8 @@
 layout: article
 title: VAJ Finance dans la tourmente
 cover: "/content/images/2005/01/VAJ_Logo.jpg"
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2007-06-03 00:00:00'
 tags:
 - vice-city

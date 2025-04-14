@@ -2,7 +2,8 @@
 layout: article
 title: 'Montgomery : plus de détails après l''autopsie'
 cover: "/content/images/2005/01/ammu.jpg"
-author: geonosis974
+authors:
+  - geonosis974
 date: '2006-06-14 00:00:00'
 tags:
 - los-santos

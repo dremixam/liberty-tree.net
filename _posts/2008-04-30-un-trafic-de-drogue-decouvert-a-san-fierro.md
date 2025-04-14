@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Un trafic de drogue découvert à San Fierro
-author: passe-partout
+authors:
+  - passe-partout
 date: '2008-04-30 12:58:00'
 tags:
 - san-fierro

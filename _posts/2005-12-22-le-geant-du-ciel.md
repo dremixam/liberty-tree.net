@@ -2,7 +2,8 @@
 layout: article
 title: Le géant du ciel
 cover: "/content/images/2016/06/ah380.jpg"
-author: p130
+authors:
+  - p130
 date: '2005-12-22 23:00:00'
 tags:
 - liberty-city

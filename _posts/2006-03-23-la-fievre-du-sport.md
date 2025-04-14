@@ -2,7 +2,8 @@
 layout: article
 title: La fièvre du sport
 cover: "/content/images/2016/06/tow.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-03-23 23:00:00'
 tags:
 - san-fierro

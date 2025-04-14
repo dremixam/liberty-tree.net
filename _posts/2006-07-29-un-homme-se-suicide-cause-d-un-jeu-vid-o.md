@@ -2,7 +2,8 @@
 layout: article
 title: Un homme se suicide à cause d'un jeu vidéo
 cover: "/content/images/2005/01/Otaku.jpg"
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2006-07-29 00:00:00'
 tags:
 - liberty-city

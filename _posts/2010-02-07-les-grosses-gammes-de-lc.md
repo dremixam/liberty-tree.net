@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Les grosses gammes de LC
-author: nelson
+authors:
+  - nelson
 date: '2010-02-07 14:46:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: San Andreas serait un monde virtuel
 cover: "/content/images/2005/01/VIDEO_GAME_Jeu.jpg"
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2007-03-28 00:00:00'
 tags:
 - los-santos

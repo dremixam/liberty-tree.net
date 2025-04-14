@@ -2,7 +2,8 @@
 layout: article
 title: La faute aux canapés
 cover: "/content/images/2016/06/eaf4da6c78b5a0ce.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2014-02-15 23:00:00'
 tags:
 - los-santos

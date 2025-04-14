@@ -2,7 +2,8 @@
 layout: article
 title: Un deuxième journaliste retrouvé mort
 cover: "/content/images/2016/06/JournalisteMort.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-04-20 22:00:00'
 tags:
 - los-santos

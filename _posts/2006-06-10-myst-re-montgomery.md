@@ -2,7 +2,8 @@
 layout: article
 title: Mystère à Montgomery
 cover: "/content/images/2005/01/camion_1.jpg"
-author: geonosis974
+authors:
+  - geonosis974
 date: '2006-06-10 00:00:00'
 tags:
 - los-santos

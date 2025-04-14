@@ -2,7 +2,8 @@
 layout: article
 title: Braquage insolite à Harmony
 cover: "/content/images/2016/06/Rebel.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-01-30 23:00:00'
 tags:
 - los-santos

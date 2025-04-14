@@ -2,7 +2,8 @@
 layout: article
 title: Succès pour Inter Mobile aux USA
 cover: "/content/images/2005/01/logointermobile-molotov.jpg"
-author: molotov
+authors:
+  - molotov
 date: '2007-02-04 00:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Un Dommage Collateral
 cover: "/content/images/2005/01/tower.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-05-17 00:00:00'
 tags:
 - los-santos

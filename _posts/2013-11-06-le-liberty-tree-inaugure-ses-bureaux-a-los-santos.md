@@ -2,7 +2,8 @@
 layout: article
 title: Le Liberty Tree inaugure ses bureaux à Los Santos
 cover: "/content/images/2016/06/LT.jpg"
-author: ethan-brook
+authors:
+  - ethan-brook
 date: '2013-11-06 23:00:00'
 tags:
 - los-santos

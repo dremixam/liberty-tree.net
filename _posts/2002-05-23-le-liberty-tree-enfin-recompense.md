@@ -2,7 +2,8 @@
 layout: article
 title: Le Liberty Tree enfin récompensé
 cover: "/content/images/2016/06/closedown_mafia_0.jpg"
-author: rr4
+authors:
+  - rr4
 date: '2002-05-23 22:00:00'
 tags:
 - liberty-city

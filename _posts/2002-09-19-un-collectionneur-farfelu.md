@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Un collectionneur farfelu
-author: fxbt
+authors:
+  - fxbt
 date: '2002-09-19 22:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: 2 frères OGF se confient au Liberty Tree
 cover: "/content/images/2005/01/OGF_home.jpg"
-author: mr-r
+authors:
+  - mr-r
 date: '2006-06-11 00:00:00'
 tags:
 - los-santos

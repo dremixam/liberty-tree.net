@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Un lecteur du Liberty Tree assassiné par un gang Latino.
-author: nelson
+authors:
+  - nelson
 date: '2008-01-28 23:29:00'
 tags:
 - los-santos

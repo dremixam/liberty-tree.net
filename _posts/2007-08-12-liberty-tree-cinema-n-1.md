@@ -2,7 +2,8 @@
 layout: article
 title: Liberty Tree Cinéma n° 1
 cover: "/content/images/2005/01/0_9999.jpg"
-author: f-rosenberg
+authors:
+  - f-rosenberg
 date: '2007-08-12 00:00:00'
 tags:
 - san-fierro

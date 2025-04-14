@@ -2,7 +2,8 @@
 layout: article
 title: Un Dodo dans la ville
 cover: "/content/images/2016/06/survolevoiture.jpg"
-author: max-2
+authors:
+  - max-2
 date: '2002-07-23 22:00:00'
 tags:
 - liberty-city

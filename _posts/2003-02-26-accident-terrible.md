@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Accident terrible!
-author: dremixam
+authors:
+  - dremixam
 date: '2003-02-26 13:06:00'
 tags:
 - liberty-city

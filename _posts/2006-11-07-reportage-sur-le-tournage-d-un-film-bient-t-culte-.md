@@ -2,7 +2,8 @@
 layout: article
 title: Reportage sur le tournage d'un film bientôt culte...
 cover: "/content/images/2005/01/affiche-OGF.jpg"
-author: antholintello
+authors:
+  - antholintello
 date: '2006-11-07 00:00:00'
 tags:
 - los-santos

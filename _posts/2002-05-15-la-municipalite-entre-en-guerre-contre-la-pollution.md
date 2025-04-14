@@ -1,7 +1,8 @@
 ---
 layout: article
 title: La municipalité entre en guerre contre la pollution
-author: little-worm
+authors:
+  - little-worm
 date: '2002-05-15 22:00:00'
 tags:
 - liberty-city

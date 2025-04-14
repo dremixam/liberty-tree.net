@@ -2,7 +2,8 @@
 layout: article
 title: Morts mysterieuses de chiens
 cover: "/content/images/2016/06/dog_food.jpg"
-author: dremixam
+authors:
+  - dremixam
 date: '2005-08-25 22:00:00'
 tags:
 - vice-city

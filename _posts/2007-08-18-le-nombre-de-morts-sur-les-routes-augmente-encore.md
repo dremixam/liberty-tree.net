@@ -2,7 +2,8 @@
 layout: article
 title: Le nombre de morts sur les routes augmente encore
 cover: "/content/images/2016/06/gallery7_0.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2007-08-18 22:00:00'
 tags:
 - san-fierro

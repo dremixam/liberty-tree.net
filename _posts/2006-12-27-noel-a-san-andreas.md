@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Noël à San Andreas
-author: heinrich
+authors:
+  - heinrich
 date: '2006-12-27 20:45:00'
 tags:
 - los-santos

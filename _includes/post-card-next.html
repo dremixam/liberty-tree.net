@@ -31,7 +31,26 @@
             </a>
             <footer class="post-card-meta">
                 <span class="post-card-author">
-                    <a href="/author/{{ page.next.author }}/">{{ page.next.author }}</a>
+                    {% if page.next.authors %}
+                        {% for author_slug in page.next.authors %}
+                            {% assign author = site.authors | where: "slug", author_slug | first %}
+                            {% if author %}
+                                {% if forloop.last and forloop.index > 1 %}
+                                    et 
+                                {% elsif forloop.index > 1 %}
+                                    , 
+                                {% endif %}
+                                <a href="/author/{{ author.slug }}">{{ author.name }}</a>
+                            {% else %}
+                                {% if forloop.last and forloop.index > 1 %}
+                                    et 
+                                {% elsif forloop.index > 1 %}
+                                    , 
+                                {% endif %}
+                                {{ author_slug }}
+                            {% endif %}
+                        {% endfor %}
+                    {% endif %}
                 </span>
                 <span class="reading-time">
                     {% assign words = page.next.content | strip_html | number_of_words %}

@@ -2,7 +2,8 @@
 layout: article
 title: Have a bad day !
 cover: "/content/images/2016/06/csi3_0.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-05-11 22:00:00'
 tags:
 - los-santos

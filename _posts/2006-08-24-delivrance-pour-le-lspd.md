@@ -2,7 +2,8 @@
 layout: article
 title: Délivrance pour le LSPD
 cover: "/content/images/2005/01/Police-sur-les-lieux.jpg"
-author: antholintello
+authors:
+  - antholintello
 date: '2006-08-24 19:02:00'
 tags:
 - los-santos

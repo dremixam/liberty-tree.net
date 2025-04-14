@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Enlèvement d'officiers de police
-author: canar
+authors:
+  - canar
 date: '2006-07-13 18:03:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Chinatown, lieu d'insécurité ...
 cover: "/content/images/2005/01/china.jpg"
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-07-05 00:00:00'
 tags:
 - san-fierro

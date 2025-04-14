@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Encore un attentat a Liberty City
-author: carterman0
+authors:
+  - carterman0
 date: '2002-12-23 23:00:00'
 tags:
 - liberty-city

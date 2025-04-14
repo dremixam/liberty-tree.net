@@ -2,7 +2,8 @@
 layout: article
 title: Madd Dogg est de retour
 cover: "/content/images/2016/06/md_album.jpg"
-author: filzonfire
+authors:
+  - filzonfire
 date: '2005-11-17 23:00:00'
 tags:
 - los-santos

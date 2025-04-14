@@ -2,7 +2,8 @@
 layout: article
 title: De nouvelles subventions accordées au Liberty Tree.
 cover: "/content/images/2005/01/van2.jpg"
-author: dremixam
+authors:
+  - dremixam
 date: '2005-10-05 00:00:00'
 tags:
 - vice-city

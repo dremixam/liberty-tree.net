@@ -2,7 +2,8 @@
 layout: article
 title: Des criminels reconvertis en policiers
 cover: "/content/images/2016/06/LSPD.jpg"
-author: libertyg100
+authors:
+  - libertyg100
 date: '2013-12-28 23:00:00'
 tags:
 - los-santos

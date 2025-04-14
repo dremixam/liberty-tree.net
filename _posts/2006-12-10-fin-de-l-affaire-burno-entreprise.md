@@ -2,7 +2,8 @@
 layout: article
 title: Fin de l'affaire Burno Entreprise
 cover: "/content/images/2005/01/aff-burno_7.jpg"
-author: gtaboss33
+authors:
+  - gtaboss33
 date: '2006-12-10 00:00:00'
 tags:
 - vice-city

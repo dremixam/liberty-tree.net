@@ -2,7 +2,8 @@
 layout: article
 title: 'L''Explorateur Urbain: Grande première!'
 cover: "/content/images/2005/01/Explo_-_Photo_Titre.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-09-16 00:00:00'
 tags:
 - los-santos

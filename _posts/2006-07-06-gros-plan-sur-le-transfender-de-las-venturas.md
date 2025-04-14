@@ -2,7 +2,8 @@
 layout: article
 title: Gros plan sur le Transfender de Las Venturas
 cover: "/content/images/2016/06/t16.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-07-06 22:00:00'
 tags:
 - las-venturas

@@ -2,7 +2,8 @@
 layout: article
 title: Interview exclusif de Francis Lelâne
 cover: "/content/images/v1/user29/f1.jpg"
-author: alex
+authors:
+  - alex
 date: '2003-03-10 11:00:00'
 tags:
 - liberty-city

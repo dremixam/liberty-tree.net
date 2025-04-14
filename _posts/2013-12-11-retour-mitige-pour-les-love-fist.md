@@ -2,7 +2,8 @@
 layout: article
 title: Retour mitigé pour les Love Fist
 cover: "/content/images/2016/06/0_0_45.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2013-12-11 23:00:00'
 tags:
 - los-santos

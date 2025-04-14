@@ -2,7 +2,8 @@
 layout: article
 title: Où sortir ? The Jizzy's Pleasure Dome
 cover: "/content/images/2016/06/logojizz_0.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-03-19 23:00:00'
 tags:
 - los-santos

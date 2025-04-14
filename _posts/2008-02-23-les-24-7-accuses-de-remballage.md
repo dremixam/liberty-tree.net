@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Les 24/7 accusés de remballage!
-author: gtaboss33
+authors:
+  - gtaboss33
 date: '2008-02-23 23:43:00'
 tags:
 - los-santos

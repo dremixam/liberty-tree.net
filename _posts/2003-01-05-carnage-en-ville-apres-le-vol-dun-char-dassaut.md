@@ -2,7 +2,8 @@
 layout: article
 title: Carnage en ville après le vol d'un char d'assaut
 cover: "/content/images/v1/user26/satellite.jpg"
-author: dremixam
+authors:
+  - dremixam
 date: '2003-01-05 23:00:00'
 tags:
 - liberty-city

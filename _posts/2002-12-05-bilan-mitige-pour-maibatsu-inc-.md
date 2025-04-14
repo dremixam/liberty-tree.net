@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Bilan mitigé pour Maibatsu INC.
-author: pavlov
+authors:
+  - pavlov
 date: '2002-12-05 23:00:00'
 tags:
 - liberty-city

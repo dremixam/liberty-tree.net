@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Dossier médecin
-author: max-2
+authors:
+  - max-2
 date: '2003-01-29 23:00:00'
 tags:
 - liberty-city

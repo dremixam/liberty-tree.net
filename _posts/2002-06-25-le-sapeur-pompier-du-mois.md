@@ -2,7 +2,8 @@
 layout: article
 title: Le sapeur-pompier du mois
 cover: "/content/images/2016/06/score_pompiers2_0.jpg"
-author: rr4
+authors:
+  - rr4
 date: '2002-06-25 22:00:00'
 tags:
 - liberty-city

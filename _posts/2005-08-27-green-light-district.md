@@ -2,7 +2,8 @@
 layout: article
 title: Green Light District
 cover: "/content/images/2016/06/greenlight.jpg"
-author: dremixam
+authors:
+  - dremixam
 date: '2005-08-27 22:00:00'
 tags:
 - vice-city

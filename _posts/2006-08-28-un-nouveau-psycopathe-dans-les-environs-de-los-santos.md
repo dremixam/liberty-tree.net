@@ -2,7 +2,8 @@
 layout: article
 title: Un nouveau psycopathe dans les environs de Los Santos
 cover: "/content/images/2005/01/psyco1.jpg"
-author: civic666
+authors:
+  - civic666
 date: '2006-08-28 00:00:00'
 tags:
 - los-santos

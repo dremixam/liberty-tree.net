@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Pari sur un piratage!
-author: max-2
+authors:
+  - max-2
 date: '2002-10-04 22:00:00'
 tags:
 - liberty-city

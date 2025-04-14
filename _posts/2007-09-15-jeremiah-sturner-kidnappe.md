@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Jeremiah Sturner kidnappé
-author: nelson
+authors:
+  - nelson
 date: '2007-09-15 22:00:00'
 tags:
 - los-santos

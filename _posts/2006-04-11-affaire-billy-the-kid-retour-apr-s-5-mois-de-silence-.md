@@ -2,7 +2,8 @@
 layout: article
 title: 'Affaire "Billy The Kid" : Retour après 5 mois de silence !'
 cover: "/content/images/2005/01/fblind_1.jpg"
-author: civic666
+authors:
+  - civic666
 date: '2006-04-11 00:00:00'
 tags:
 - los-santos

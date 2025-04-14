@@ -2,7 +2,8 @@
 layout: article
 title: La pleine lune attire toujours les désequilibrés
 cover: "/content/images/2016/06/Image1.jpg"
-author: baz
+authors:
+  - baz
 date: '2002-04-18 22:00:00'
 tags:
 - liberty-city

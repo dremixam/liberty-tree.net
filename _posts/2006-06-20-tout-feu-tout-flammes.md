@@ -2,7 +2,8 @@
 layout: article
 title: Tout feu tout flammes
 cover: "/content/images/2005/01/villa_en_flammes_1.jpg"
-author: medium
+authors:
+  - medium
 date: '2006-06-20 00:00:00'
 tags:
 - los-santos

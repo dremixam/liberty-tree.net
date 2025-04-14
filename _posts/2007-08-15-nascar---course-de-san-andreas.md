@@ -2,7 +2,8 @@
 layout: article
 title: NASCAR - Course de San Andreas
 cover: "/content/images/2016/06/gallery15.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2007-08-15 22:00:00'
 tags:
 - los-santos

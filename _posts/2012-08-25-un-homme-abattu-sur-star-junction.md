@@ -2,7 +2,8 @@
 layout: article
 title: Un homme abattu sur Star Junction
 cover: "/content/images/2016/06/Knife-Wielding%20Black%20Guy%20%282%29_2.jpg"
-author: dremixam
+authors:
+  - dremixam
 date: '2012-08-25 22:00:00'
 tags:
 - los-santos

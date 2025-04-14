@@ -2,7 +2,8 @@
 layout: article
 title: Voitures Sous-marines
 cover: "/content/images/v1/user6/souslamer7.jpg"
-author: little-worm
+authors:
+  - little-worm
 date: '2002-12-09 23:00:00'
 tags:
 - liberty-city

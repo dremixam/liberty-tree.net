@@ -1,7 +1,8 @@
 ---
 layout: article
 title: ZIP fête ses 20 ans !
-author: bart_man
+authors:
+  - bart_man
 date: '2006-02-05 18:04:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Bilan annuel des véhicules les plus volés à Liberty City
 cover: "/content/images/2016/06/arrache_0.jpg"
-author: diazer
+authors:
+  - diazer
 date: '2002-06-27 22:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Grove Street, la « poubelle » de LS ?
 cover: "/content/images/2016/06/0_0_9.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2013-11-16 23:00:00'
 tags:
 - los-santos

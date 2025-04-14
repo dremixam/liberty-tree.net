@@ -2,7 +2,8 @@
 layout: article
 title: Crash d'un hélico dans le désert, l'armée mise en cause.
 cover: "/content/images/2005/01/tourelle2_cyka.jpg"
-author: satyr
+authors:
+  - satyr
 date: '2007-08-15 00:00:00'
 ---
 

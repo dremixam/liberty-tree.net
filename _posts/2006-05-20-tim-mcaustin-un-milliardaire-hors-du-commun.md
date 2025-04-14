@@ -2,7 +2,8 @@
 layout: article
 title: Tim McAustin, un milliardaire hors du commun
 cover: "/content/images/2005/01/Biens_McAustin.jpg"
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2006-05-20 00:00:00'
 tags:
 - los-santos

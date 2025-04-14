@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Grand Nettoyage
-author: baz
+authors:
+  - baz
 date: '2002-08-28 22:00:00'
 tags:
 - liberty-city

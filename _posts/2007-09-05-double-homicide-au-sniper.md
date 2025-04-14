@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Double homicide au sniper
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-09-05 00:00:00'
 tags:
 - los-santos

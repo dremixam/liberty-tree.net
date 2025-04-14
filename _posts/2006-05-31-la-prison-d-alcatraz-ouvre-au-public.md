@@ -2,7 +2,8 @@
 layout: article
 title: La prison d'Alcatraz ouvre au public
 cover: "/content/images/2005/01/Alcatraz_10.jpg"
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2006-05-31 00:00:00'
 tags:
 - san-fierro

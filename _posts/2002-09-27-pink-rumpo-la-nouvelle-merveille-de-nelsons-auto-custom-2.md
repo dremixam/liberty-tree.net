@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'Pink Rumpo : La nouvelle merveille de NelsoN''s Auto Custom'
-author: nelson
+authors:
+  - nelson
 date: '2002-09-27 14:26:00'
 tags:
 - liberty-city

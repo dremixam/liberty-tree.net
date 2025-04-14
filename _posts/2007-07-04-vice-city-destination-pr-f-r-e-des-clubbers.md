@@ -2,7 +2,8 @@
 layout: article
 title: Vice City destination préférée des clubbers
 cover: "/content/images/2005/01/CLUB_Malibu_02.jpg"
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2007-07-04 00:00:00'
 tags:
 - vice-city

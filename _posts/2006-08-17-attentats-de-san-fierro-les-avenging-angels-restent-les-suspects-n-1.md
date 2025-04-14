@@ -2,7 +2,8 @@
 layout: article
 title: Attentats de San Fierro, les Avenging Angels restent les suspects N°1
 cover: "/content/images/2005/01/doherty.jpg"
-author: pyro
+authors:
+  - pyro
 date: '2006-08-17 00:00:00'
 tags:
 - san-fierro

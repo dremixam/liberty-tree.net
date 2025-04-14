@@ -2,7 +2,8 @@
 layout: article
 title: Fusillade tragique à Los Santos
 cover: "/content/images/2005/01/fusillade-LS_banque.jpg"
-author: gtaboss33
+authors:
+  - gtaboss33
 date: '2007-01-30 00:00:00'
 tags:
 - los-santos

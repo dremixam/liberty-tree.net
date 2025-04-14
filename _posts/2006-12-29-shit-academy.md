@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Shit Academy
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-12-29 20:48:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Le Gant bridge, un pont à suicide ?
 cover: "/content/images/2005/01/Gant.jpg"
-author: tabasco
+authors:
+  - tabasco
 date: '2006-05-19 00:00:00'
 tags:
 - los-santos

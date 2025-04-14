@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'Temps maussade sur San Andreas : les climatologues se veulent rassurants'
-author: thomas
+authors:
+  - thomas
 date: '2005-11-28 18:02:00'
 tags:
 - liberty-city

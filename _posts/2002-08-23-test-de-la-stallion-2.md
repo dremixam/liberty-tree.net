@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Test de la Stallion
-author: nelson
+authors:
+  - nelson
 date: '2002-08-23 12:02:00'
 tags:
 - liberty-city

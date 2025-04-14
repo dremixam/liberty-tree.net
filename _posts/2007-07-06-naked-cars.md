@@ -2,7 +2,8 @@
 layout: article
 title: Naked Cars
 cover: "/content/images/2005/01/760Li.jpg"
-author: dami
+authors:
+  - dami
 date: '2007-07-06 00:00:00'
 tags:
 - los-santos

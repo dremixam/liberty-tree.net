@@ -2,7 +2,8 @@
 layout: article
 title: Panique sur le réseau autoroutier
 cover: "/content/images/2016/06/Union_Rd.jpg"
-author: offic3r-3dwards
+authors:
+  - offic3r-3dwards
 date: '2014-03-05 23:00:00'
 tags:
 - los-santos

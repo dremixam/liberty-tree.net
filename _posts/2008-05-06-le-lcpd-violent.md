@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le LCPD, violent ?
-author: dremixam
+authors:
+  - dremixam
 date: '2008-05-06 13:25:00'
 tags:
 - liberty-city

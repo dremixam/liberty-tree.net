@@ -2,7 +2,8 @@
 layout: article
 title: Le congrès annuel de la police
 cover: "/content/images/2005/01/flicanuel.jpg"
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-06-17 00:00:00'
 tags:
 - los-santos

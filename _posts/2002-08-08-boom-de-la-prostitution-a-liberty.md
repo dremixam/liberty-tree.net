@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Boom de la prostitution à Liberty
-author: max-2
+authors:
+  - max-2
 date: '2002-08-08 22:00:00'
 tags:
 - liberty-city

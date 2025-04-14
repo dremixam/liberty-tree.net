@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'Dossier Muscle Cars 2 : Dodge Challenger R/T 1970'
-author: nelson
+authors:
+  - nelson
 date: '2003-02-25 13:04:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Attaque de véhicule à Vice City
 cover: "/content/images/2016/06/thumb%203.jpg"
-author: logan
+authors:
+  - logan
 date: '2005-10-15 22:00:00'
 tags:
 - vice-city

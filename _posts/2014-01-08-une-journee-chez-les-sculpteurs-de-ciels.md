@@ -2,7 +2,8 @@
 layout: article
 title: Une journée chez les Sculpteurs de Ciels
 cover: "/content/images/2016/06/0_0%20%284%29_8.jpg"
-author: kiki
+authors:
+  - kiki
 date: '2014-01-08 23:00:00'
 tags:
 - los-santos

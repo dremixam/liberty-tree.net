@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'Port de Vice : Vente illégale de bateaux !'
-author: p130
+authors:
+  - p130
 date: '2005-10-09 16:55:00'
 tags:
 - vice-city

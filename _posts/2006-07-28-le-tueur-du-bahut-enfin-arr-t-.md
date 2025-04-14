@@ -2,7 +2,8 @@
 layout: article
 title: Le "Tueur du bahut" enfin arrêté!
 cover: "/content/images/2005/01/college-liberty-city03.jpg"
-author: manu
+authors:
+  - manu
 date: '2006-07-28 00:00:00'
 tags:
 - liberty-city

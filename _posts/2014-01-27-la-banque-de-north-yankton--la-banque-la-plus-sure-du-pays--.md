@@ -2,7 +2,8 @@
 layout: article
 title: La banque de North Yankton, la banque la plus sûre du pays ?
 cover: "/content/images/2016/06/NorthYankton.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-01-27 23:00:00'
 tags:
 - los-santos

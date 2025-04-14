@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 24 heures de la vie d'un terroriste.
-author: dremixam
+authors:
+  - dremixam
 date: '2008-01-07 22:57:00'
 tags:
 - los-santos

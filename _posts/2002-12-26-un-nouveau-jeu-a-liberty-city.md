@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Un nouveau jeu à Liberty City
-author: titof-abs
+authors:
+  - titof-abs
 date: '2002-12-26 23:00:00'
 tags:
 - liberty-city

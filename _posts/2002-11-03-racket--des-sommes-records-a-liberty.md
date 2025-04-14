@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'Racket: des sommes records à Liberty'
-author: max-2
+authors:
+  - max-2
 date: '2002-11-03 23:00:00'
 tags:
 - liberty-city

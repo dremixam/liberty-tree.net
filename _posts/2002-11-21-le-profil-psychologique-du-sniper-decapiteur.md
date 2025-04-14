@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le profil psychologique du sniper décapiteur
-author: fxbt
+authors:
+  - fxbt
 date: '2002-11-21 23:00:00'
 tags:
 - liberty-city

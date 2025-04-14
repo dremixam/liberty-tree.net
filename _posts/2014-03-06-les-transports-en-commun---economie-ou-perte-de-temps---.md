@@ -2,7 +2,8 @@
 layout: article
 title: 'Les transports en commun : économie ou perte de temps ?'
 cover: "/content/images/2016/06/0_0_158.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2014-03-06 23:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: La virée mortelle du bus fou de Staunton
 cover: "/content/images/2016/06/bus7_0.jpg"
-author: rr4
+authors:
+  - rr4
 date: '2002-06-11 22:00:00'
 tags:
 - liberty-city

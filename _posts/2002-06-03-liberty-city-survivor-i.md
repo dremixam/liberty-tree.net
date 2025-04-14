@@ -2,7 +2,8 @@
 layout: article
 title: Liberty City Survivor I
 cover: "/content/images/v1/user6/pute.jpg"
-author: little-worm
+authors:
+  - little-worm
 date: '2002-06-03 22:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: En immersion avec les gardes-côtes de Los Santos
 cover: "/content/images/2016/06/Garde-cote.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-03-02 23:00:00'
 tags:
 - los-santos

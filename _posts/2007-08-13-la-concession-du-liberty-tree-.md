@@ -2,7 +2,8 @@
 layout: article
 title: La concession du Liberty Tree !
 cover: "/content/images/2005/01/LTconcessionst.jpg"
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-08-13 00:00:00'
 tags:
 - los-santos

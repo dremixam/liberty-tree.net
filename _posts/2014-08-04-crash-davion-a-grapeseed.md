@@ -2,7 +2,8 @@
 layout: article
 title: Crash d'avion à Grapeseed
 cover: "/content/images/2016/06/CrashAvion2.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-08-04 22:00:00'
 tags:
 - los-santos

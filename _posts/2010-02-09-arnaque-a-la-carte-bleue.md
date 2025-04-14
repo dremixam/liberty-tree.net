@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Arnaque à la carte bleue
-author: nelson
+authors:
+  - nelson
 date: '2010-02-09 15:20:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Attention ! Femme dangeureuse
 cover: "/content/images/2016/06/Catalina.jpg"
-author: pierrealex
+authors:
+  - pierrealex
 date: '2002-05-18 22:00:00'
 tags:
 - liberty-city

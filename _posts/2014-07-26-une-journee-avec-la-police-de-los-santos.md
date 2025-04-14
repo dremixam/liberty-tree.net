@@ -2,7 +2,8 @@
 layout: article
 title: Une journée avec la police de Los Santos
 cover: "/content/images/2016/06/0_0_233.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2014-07-26 22:00:00'
 tags:
 - los-santos

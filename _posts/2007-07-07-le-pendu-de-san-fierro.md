@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le pendu de San Fierro
-author: f-rosenberg
+authors:
+  - f-rosenberg
 date: '2007-07-07 20:18:00'
 tags:
 - san-fierro

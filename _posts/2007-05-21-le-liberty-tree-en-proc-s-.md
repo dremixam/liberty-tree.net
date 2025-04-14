@@ -2,7 +2,8 @@
 layout: article
 title: Le Liberty Tree en procès !
 cover: "/content/images/2005/01/centrevillels.jpg"
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-05-21 00:00:00'
 tags:
 - vice-city

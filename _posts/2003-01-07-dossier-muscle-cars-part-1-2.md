@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Dossier Muscle Cars, Part 1
-author: nelson
+authors:
+  - nelson
 date: '2003-01-07 11:56:00'
 tags:
 - liberty-city

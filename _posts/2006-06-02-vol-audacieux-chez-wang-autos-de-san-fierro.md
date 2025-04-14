@@ -2,7 +2,8 @@
 layout: article
 title: Vol audacieux chez Wang Autos de San Fierro
 cover: "/content/images/2005/01/wang_autos_1.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-06-02 00:00:00'
 tags:
 - san-fierro

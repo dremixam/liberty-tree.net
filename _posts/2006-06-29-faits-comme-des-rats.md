@@ -2,7 +2,8 @@
 layout: article
 title: Faits comme des rats
 cover: "/content/images/2005/01/burger_garcia.jpg"
-author: medium
+authors:
+  - medium
 date: '2006-06-29 00:00:00'
 tags:
 - san-fierro

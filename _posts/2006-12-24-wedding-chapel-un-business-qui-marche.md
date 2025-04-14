@@ -2,7 +2,8 @@
 layout: article
 title: 'Wedding Chapel : un business qui marche'
 cover: "/content/images/2005/01/Chapel_Candlelight.jpg"
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2006-12-24 00:00:00'
 tags:
 - las-venturas

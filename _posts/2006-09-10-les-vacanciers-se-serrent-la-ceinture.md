@@ -2,7 +2,8 @@
 layout: article
 title: Les vacanciers se serrent la ceinture
 cover: "/content/images/2005/01/VCIA.jpg"
-author: pyro
+authors:
+  - pyro
 date: '2006-09-10 00:00:00'
 tags:
 - los-santos

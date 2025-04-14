@@ -2,7 +2,8 @@
 layout: article
 title: Head Radio poursuivi pour avoir diffusé une musique raciste
 cover: "/content/images/2016/06/HeadRadio01.jpg"
-author: thefoxben
+authors:
+  - thefoxben
 date: '2006-03-07 23:00:00'
 tags:
 - liberty-city

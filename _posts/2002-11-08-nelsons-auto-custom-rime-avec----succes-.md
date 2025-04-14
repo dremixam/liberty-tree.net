@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Nelson's Auto Custom rime avec... succès!
-author: pavlov
+authors:
+  - pavlov
 date: '2002-11-08 23:00:00'
 tags:
 - liberty-city

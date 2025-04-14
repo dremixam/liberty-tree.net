@@ -2,7 +2,8 @@
 layout: article
 title: Tentative d’attentat
 cover: "/content/images/2016/06/voiture.jpg"
-author: klem
+authors:
+  - klem
 date: '2005-09-02 22:00:00'
 tags:
 - los-santos

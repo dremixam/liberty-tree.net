@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Une nouvelle radio sur les ondes FM de Liberty City!
-author: mot3
+authors:
+  - mot3
 date: '2002-06-11 22:00:00'
 tags:
 - liberty-city

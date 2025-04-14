@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Let it snow !
-author: nelson
+authors:
+  - nelson
 date: '2002-12-02 17:15:00'
 tags:
 - liberty-city

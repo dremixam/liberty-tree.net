@@ -2,7 +2,8 @@
 layout: article
 title: Tuning style, les rues de San Fierro vont vibrer
 cover: "/content/images/2016/06/2img1_1.jpg"
-author: imhotep43
+authors:
+  - imhotep43
 date: '2005-10-05 22:00:00'
 tags:
 - san-fierro

@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Il faut buter le soldat Rayan
-author: play2man2002
+authors:
+  - play2man2002
 date: '2002-05-15 22:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Police Academy
 cover: "/content/images/2016/06/flik1.jpg"
-author: little-worm
+authors:
+  - little-worm
 date: '2005-11-13 23:00:00'
 tags:
 - los-santos

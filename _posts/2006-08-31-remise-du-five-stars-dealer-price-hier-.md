@@ -2,7 +2,8 @@
 layout: article
 title: Remise du Five Stars Dealer Price hier.
 cover: "/content/images/2016/06/dmv14_0.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-08-31 22:00:00'
 tags:
 - los-santos

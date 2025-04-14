@@ -2,7 +2,8 @@
 layout: article
 title: Luigi jugé
 cover: "/content/images/2016/06/Limousine.jpg"
-author: pierrealex
+authors:
+  - pierrealex
 date: '2002-05-18 22:00:00'
 tags:
 - liberty-city

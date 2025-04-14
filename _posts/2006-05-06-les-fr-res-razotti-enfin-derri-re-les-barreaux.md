@@ -2,7 +2,8 @@
 layout: article
 title: Les frères Razotti enfin derrière les barreaux
 cover: "/content/images/2005/01/leaders_malfaiteurs.jpg"
-author: john-johnson
+authors:
+  - john-johnson
 date: '2006-05-06 00:00:00'
 tags:
 - vice-city

@@ -2,7 +2,8 @@
 layout: article
 title: Une ferme de Grapeseed réduite en cendres
 cover: "/content/images/2016/06/Grapeseed.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-02-09 23:00:00'
 tags:
 - los-santos

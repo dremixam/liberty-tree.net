@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le Liberty Tree au cœur d’un scandale !
-author: dremixam
+authors:
+  - dremixam
 date: '2010-02-15 15:46:00'
 tags:
 - liberty-city

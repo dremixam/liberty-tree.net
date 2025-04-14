@@ -2,7 +2,8 @@
 layout: article
 title: Sortie imminente du prochain film de Jad Studio
 cover: "/content/images/2016/06/Blood-Man_0.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-02-28 23:00:00'
 tags:
 - los-santos

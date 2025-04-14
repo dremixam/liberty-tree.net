@@ -3,7 +3,8 @@ layout: article
 title: Les employés de Burger Shot interdits de consommer la nourriture qu'ils servent
   !
 cover: "/content/images/2016/06/BurgerShot_1.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-03-03 23:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Los Santos sous la neige !
 cover: "/content/images/2016/06/Neige-1.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2013-12-24 23:00:00'
 tags:
 - los-santos

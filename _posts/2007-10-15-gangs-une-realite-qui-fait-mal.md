@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'Gangs : une réalité qui fait mal'
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2007-10-15 21:31:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Attentat à la bombe au Well Stacked Pizza de Idlewood
 cover: "/content/images/2005/01/Well_Stacked_Pizza.jpg"
-author: alive
+authors:
+  - alive
 date: '2006-12-15 00:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: 'Palmer-Taylor : Nouvelle attaque écologiste'
 cover: "/content/images/2016/06/0_0%20%287%29_7.jpg"
-author: titi
+authors:
+  - titi
 date: '2014-12-11 23:00:00'
 tags:
 - los-santos

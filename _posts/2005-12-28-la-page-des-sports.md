@@ -2,7 +2,8 @@
 layout: article
 title: La Page des Sports
 cover: "/content/images/2016/06/basketteur_0.jpg"
-author: bart_man
+authors:
+  - bart_man
 date: '2005-12-28 23:00:00'
 tags:
 - liberty-city

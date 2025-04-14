@@ -2,7 +2,8 @@
 layout: article
 title: Le carnet noir grandit chez la police
 cover: "/content/images/2016/06/ZZZZZ_0.jpg"
-author: gamer-reporter
+authors:
+  - gamer-reporter
 date: '2014-05-23 22:00:00'
 tags:
 - los-santos

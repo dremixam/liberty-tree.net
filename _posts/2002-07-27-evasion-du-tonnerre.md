@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Évasion du tonnerre
-author: pierrealex
+authors:
+  - pierrealex
 date: '2002-07-27 22:00:00'
 tags:
 - liberty-city

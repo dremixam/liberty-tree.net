@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le fantome de Flo hante le LT
-author: dremixam
+authors:
+  - dremixam
 date: '2003-02-04 11:00:00'
 ---
 

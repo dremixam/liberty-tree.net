@@ -1,7 +1,8 @@
 ---
 layout: article
 title: L'équipage du Makino sain et sauf!
-author: special-k
+authors:
+  - special-k
 date: '2008-02-18 23:38:00'
 tags:
 - san-fierro

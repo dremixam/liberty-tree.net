@@ -2,7 +2,8 @@
 layout: article
 title: Le cascadeur de Vice City
 cover: "/content/images/2016/06/cascad.jpg"
-author: jil-90
+authors:
+  - jil-90
 date: '2005-10-25 22:00:00'
 tags:
 - vice-city

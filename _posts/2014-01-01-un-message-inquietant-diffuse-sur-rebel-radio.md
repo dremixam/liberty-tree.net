@@ -2,7 +2,8 @@
 layout: article
 title: Un message inquiétant diffusé sur Rebel Radio
 cover: "/content/images/2016/06/0_0%20%284%29_3.jpg"
-author: libertyg100
+authors:
+  - libertyg100
 date: '2014-01-01 23:00:00'
 tags:
 - los-santos

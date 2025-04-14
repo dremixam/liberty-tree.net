@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Nouveau trafic d'armes et de drogue
-author: zico
+authors:
+  - zico
 date: '2002-05-15 22:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Le cri qui tue
 cover: "/content/images/2005/01/china01.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-11-15 00:00:00'
 tags:
 - san-fierro

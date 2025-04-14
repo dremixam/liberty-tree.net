@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Tensions au sein de la communauté iranienne de Los Santos
-author: spaaacecore
+authors:
+  - spaaacecore
 ---
 
 À Los Santos, l'heure est à l'incertitude.

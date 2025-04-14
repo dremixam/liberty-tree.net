@@ -2,7 +2,8 @@
 layout: article
 title: Grandeur et Déchéance.
 cover: "/content/images/2005/01/ant03.jpg"
-author: pavlov
+authors:
+  - pavlov
 date: '2006-06-05 00:00:00'
 tags:
 - los-santos

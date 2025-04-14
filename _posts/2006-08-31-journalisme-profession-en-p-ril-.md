@@ -2,7 +2,8 @@
 layout: article
 title: 'Journalisme : profession en péril ?'
 cover: "/content/images/2005/01/oceanview.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-08-31 00:00:00'
 tags:
 - liberty-city

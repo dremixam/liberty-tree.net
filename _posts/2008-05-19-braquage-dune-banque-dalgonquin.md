@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Braquage d'une banque d'Algonquin
-author: dremixam
+authors:
+  - dremixam
 date: '2008-05-19 13:29:00'
 tags:
 - los-santos

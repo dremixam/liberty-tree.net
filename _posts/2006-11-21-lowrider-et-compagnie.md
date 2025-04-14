@@ -2,7 +2,8 @@
 layout: article
 title: Lowrider et compagnie
 cover: "/content/images/2005/01/image_titre_A2.jpg"
-author: alive
+authors:
+  - alive
 date: '2006-11-21 00:00:00'
 tags:
 - vice-city

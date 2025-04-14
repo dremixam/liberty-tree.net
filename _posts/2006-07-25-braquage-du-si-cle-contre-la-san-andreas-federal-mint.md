@@ -2,7 +2,8 @@
 layout: article
 title: Braquage du siècle contre la San Andreas Federal Mint
 cover: "/content/images/2005/01/R_serve.jpg"
-author: mr-r
+authors:
+  - mr-r
 date: '2006-07-25 00:00:00'
 tags:
 - san-fierro

@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Assassinat d'un bras droit
-author: max-2
+authors:
+  - max-2
 date: '2002-09-10 22:00:00'
 tags:
 - liberty-city

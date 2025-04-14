@@ -2,7 +2,8 @@
 layout: article
 title: Le cimetière de Liberty City
 cover: "/content/images/v1/user20/cimetiere.jpg"
-author: max-2
+authors:
+  - max-2
 date: '2003-03-23 23:00:00'
 tags:
 - liberty-city

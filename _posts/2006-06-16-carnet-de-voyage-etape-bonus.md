@@ -2,7 +2,8 @@
 layout: article
 title: 'Carnet de Voyage : Etape Bonus'
 cover: "/content/images/2005/01/Palomino_Creek.jpg"
-author: scarface1991
+authors:
+  - scarface1991
 date: '2006-06-16 00:00:00'
 tags:
 - los-santos

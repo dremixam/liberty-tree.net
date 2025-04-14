@@ -2,7 +2,8 @@
 layout: article
 title: Événements de Los Santos, la fin n'est pas proche
 cover: "/content/images/2016/06/Emeutes%2010.jpg"
-author: thomas
+authors:
+  - thomas
 date: '2005-11-16 23:00:00'
 tags:
 - los-santos

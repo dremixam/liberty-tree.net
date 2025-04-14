@@ -2,7 +2,8 @@
 layout: article
 title: "$Capitol$ : Génération Ringards"
 cover: "/content/images/2005/01/affiche.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-10-17 00:00:00'
 tags:
 - vice-city

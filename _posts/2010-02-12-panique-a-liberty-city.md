@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Panique à Liberty City
-author: passe-partout
+authors:
+  - passe-partout
 date: '2010-02-12 15:38:00'
 tags:
 - liberty-city

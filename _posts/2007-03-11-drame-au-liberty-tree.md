@@ -2,7 +2,8 @@
 layout: article
 title: Drame au Liberty Tree
 cover: "/content/images/2005/01/donut.jpg"
-author: logan
+authors:
+  - logan
 date: '2007-03-11 00:00:00'
 tags:
 - san-fierro

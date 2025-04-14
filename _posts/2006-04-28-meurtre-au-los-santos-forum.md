@@ -2,7 +2,8 @@
 layout: article
 title: Meurtre au Los Santos Forum
 cover: "/content/images/2005/01/Stade_02.jpg"
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2006-04-28 00:00:00'
 tags:
 - los-santos

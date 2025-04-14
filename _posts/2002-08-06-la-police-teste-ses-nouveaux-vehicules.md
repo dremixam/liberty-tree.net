@@ -2,7 +2,8 @@
 layout: article
 title: La police teste ses nouveaux véhicules
 cover: "/content/images/2016/06/001.jpg"
-author: fxbt
+authors:
+  - fxbt
 date: '2002-08-06 22:00:00'
 tags:
 - liberty-city

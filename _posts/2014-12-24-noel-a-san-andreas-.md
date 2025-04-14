@@ -2,7 +2,8 @@
 layout: article
 title: Noël à San Andreas
 cover: "/content/images/2016/06/0_0_269.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2014-12-24 23:00:00'
 tags:
 - los-santos

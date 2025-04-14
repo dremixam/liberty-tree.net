@@ -2,7 +2,8 @@
 layout: article
 title: Dalivex fait sa rentrée
 cover: "/content/images/2005/01/dalivextitre.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-09-25 00:00:00'
 tags:
 - los-santos

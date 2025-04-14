@@ -2,7 +2,8 @@
 layout: article
 title: Un trafic d'arme touche Vice City ainsi que Los Santos
 cover: "/content/images/2005/01/hangar_vc2.jpg"
-author: gtaboss33
+authors:
+  - gtaboss33
 date: '2006-08-09 00:00:00'
 tags:
 - los-santos

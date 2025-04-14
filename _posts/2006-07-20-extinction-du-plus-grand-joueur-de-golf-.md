@@ -2,7 +2,8 @@
 layout: article
 title: Extinction du plus grand joueur de golf.
 cover: "/content/images/2005/01/Golf1.jpg"
-author: manu
+authors:
+  - manu
 date: '2006-07-20 00:00:00'
 tags:
 - las-venturas

@@ -2,7 +2,8 @@
 layout: article
 title: Les nouvelles de la semaine
 cover: "/content/images/2016/06/yardiecar2.jpg"
-author: pastrana
+authors:
+  - pastrana
 date: '2003-04-28 22:00:00'
 tags:
 - liberty-city

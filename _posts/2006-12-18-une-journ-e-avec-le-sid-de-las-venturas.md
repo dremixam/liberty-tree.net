@@ -2,7 +2,8 @@
 layout: article
 title: Une journée avec le SID de Las Venturas
 cover: "/content/images/2005/01/sidcover.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-12-18 00:00:00'
 tags:
 - las-venturas

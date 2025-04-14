@@ -2,7 +2,8 @@
 layout: article
 title: Un pilote de l'air force assassiné
 cover: "/content/images/2005/01/dead1.jpg"
-author: logan
+authors:
+  - logan
 date: '2006-05-11 00:00:00'
 tags:
 - vice-city

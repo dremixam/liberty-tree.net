@@ -2,7 +2,8 @@
 layout: article
 title: Je suis Charlie
 cover: "/content/images/2016/06/JeSuisCharlie.jpg"
-author: dremixam
+authors:
+  - dremixam
 date: '2015-01-06 23:00:00'
 ---
 

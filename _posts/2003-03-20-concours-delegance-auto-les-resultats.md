@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'Concours D''elegance Auto : Les Resultats'
-author: nelson
+authors:
+  - nelson
 date: '2003-03-20 14:19:00'
 tags:
 - liberty-city

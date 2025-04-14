@@ -2,7 +2,8 @@
 layout: article
 title: Attentat à la poissonnerie Belly Up
 cover: "/content/images/2016/06/Terroriste1.jpg"
-author: little-worm
+authors:
+  - little-worm
 date: '2002-07-10 22:00:00'
 tags:
 - liberty-city

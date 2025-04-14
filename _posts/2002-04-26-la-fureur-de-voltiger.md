@@ -2,7 +2,8 @@
 layout: article
 title: La fureur de « voltiger »
 cover: "/content/images/2016/06/voltige3.jpg"
-author: baz
+authors:
+  - baz
 date: '2002-04-26 22:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: L'affaire Marty Chonks
 cover: "/content/images/v1/user23/mc01.jpg"
-author: pavlov
+authors:
+  - pavlov
 date: '2003-01-04 23:00:00'
 tags:
 - liberty-city

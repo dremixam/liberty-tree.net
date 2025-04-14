@@ -2,7 +2,8 @@
 layout: article
 title: Terrible prise d'otages à l'aéroport International Francis
 cover: "/content/images/2016/06/un_0.jpg"
-author: diazer
+authors:
+  - diazer
 date: '2002-06-21 22:00:00'
 tags:
 - liberty-city

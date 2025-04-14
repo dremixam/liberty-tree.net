@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Vendetta à la ferme
-author: dremixam
+authors:
+  - dremixam
 date: '2010-02-11 15:28:00'
 tags:
 - liberty-city

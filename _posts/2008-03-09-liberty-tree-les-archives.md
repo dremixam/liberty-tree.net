@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'Liberty Tree : les archives'
-author: nelson
+authors:
+  - nelson
 date: '2008-03-09 13:29:00'
 tags:
 - liberty-city

@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Las Venturas ensablée ?
-author: vercetti
+authors:
+  - vercetti
 date: '2007-09-13 00:00:00'
 tags:
 - las-venturas

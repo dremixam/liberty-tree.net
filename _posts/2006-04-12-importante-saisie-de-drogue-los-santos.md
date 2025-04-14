@@ -2,7 +2,8 @@
 layout: article
 title: Importante saisie de drogue à Los Santos
 cover: "/content/images/2005/01/dealer.jpg"
-author: mr-r
+authors:
+  - mr-r
 date: '2006-04-12 00:00:00'
 tags:
 - los-santos

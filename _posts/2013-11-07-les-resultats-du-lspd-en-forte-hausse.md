@@ -2,7 +2,8 @@
 layout: article
 title: Les résultats du LSPD en forte hausse
 cover: "/content/images/2016/06/Vespucci_LSPD_Station.jpg"
-author: ethan-brook
+authors:
+  - ethan-brook
 date: '2013-11-07 23:00:00'
 tags:
 - los-santos

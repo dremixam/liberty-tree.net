@@ -2,7 +2,8 @@
 layout: article
 title: Un phénomène atmosphérique paralyse le tout San Andreas!
 cover: "/content/images/2005/01/Brouillard_3.jpg"
-author: mr-r
+authors:
+  - mr-r
 date: '2006-04-29 00:00:00'
 tags:
 - los-santos

@@ -1,7 +1,8 @@
 ---
 layout: article
 title: La chanteuse Djork en garde à vue !
-author: f-rosenberg
+authors:
+  - f-rosenberg
 date: '2007-07-16 20:26:00'
 tags:
 - las-venturas

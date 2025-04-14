@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Prise d'otage de Hardwood
-author: little-worm
+authors:
+  - little-worm
 date: '2002-05-20 18:05:00'
 tags:
 - liberty-city

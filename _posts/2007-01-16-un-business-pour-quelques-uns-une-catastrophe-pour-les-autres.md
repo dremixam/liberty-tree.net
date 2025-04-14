@@ -2,7 +2,8 @@
 layout: article
 title: Un business pour quelques uns, une catastrophe pour les autres
 cover: "/content/images/2005/01/ammunation-lcs.jpg"
-author: newz-report
+authors:
+  - newz-report
 date: '2007-01-16 00:00:00'
 tags:
 - liberty-city

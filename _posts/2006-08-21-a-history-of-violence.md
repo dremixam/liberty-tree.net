@@ -2,7 +2,8 @@
 layout: article
 title: A History of Violence
 cover: "/content/images/2005/01/police_devant_bijouterie.jpg"
-author: dami
+authors:
+  - dami
 date: '2006-08-21 00:00:00'
 tags:
 - san-fierro

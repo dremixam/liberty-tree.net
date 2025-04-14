@@ -2,7 +2,8 @@
 layout: article
 title: Le Gant Bridge, un pont devenu dangereux?
 cover: "/content/images/2005/01/Gant_Bridge_Night.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-03-28 00:00:00'
 tags:
 - san-fierro

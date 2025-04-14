@@ -2,7 +2,8 @@
 layout: article
 title: Menace de grève générale chez les policiers de San Andreas
 cover: "/content/images/2005/01/Greve_police_05.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-04-25 00:00:00'
 tags:
 - los-santos

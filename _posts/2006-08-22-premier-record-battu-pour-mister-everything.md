@@ -2,7 +2,8 @@
 layout: article
 title: Premier record battu pour "Mister Everything"
 cover: "/content/images/2016/07/bloodring-2.jpg"
-author: chaos-red
+authors:
+  - chaos-red
 date: '2006-08-22 18:57:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Nouvelle discorde entre les deux politicards du moment
 cover: "/content/images/2016/06/EkQ4rPKy7kmWmFQ8bH-Jpw_0_0_1.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2015-04-09 22:00:00'
 tags:
 - los-santos

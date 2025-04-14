@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Hausse de revenu
-author: jack
+authors:
+  - jack
 date: '2003-03-04 13:43:00'
 tags:
 - liberty-city

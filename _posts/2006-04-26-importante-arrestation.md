@@ -2,7 +2,8 @@
 layout: article
 title: Importante arrestation
 cover: "/content/images/2005/01/Policier_Toreno1.jpg"
-author: scarface1991
+authors:
+  - scarface1991
 date: '2006-04-26 17:20:00'
 tags:
 - vice-city

@@ -2,7 +2,8 @@
 layout: article
 title: Chasse à l'homme pour épingler un psychopathe
 cover: "/content/images/2005/01/AgressionLV_-_title.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-08-23 00:00:00'
 tags:
 - las-venturas

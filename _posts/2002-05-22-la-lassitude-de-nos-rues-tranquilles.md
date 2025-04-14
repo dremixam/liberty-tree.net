@@ -1,7 +1,8 @@
 ---
 layout: article
 title: La lassitude de nos rues tranquilles
-author: baz
+authors:
+  - baz
 date: '2002-05-22 22:00:00'
 tags:
 - liberty-city

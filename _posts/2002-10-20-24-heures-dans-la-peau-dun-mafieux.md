@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 24 heures dans la peau d'un mafieux
-author: pavlov
+authors:
+  - pavlov
 date: '2002-10-20 22:00:00'
 tags:
 - liberty-city

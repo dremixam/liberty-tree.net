@@ -2,7 +2,8 @@
 layout: article
 title: Une journée avec les pompiers de Los Santos
 cover: "/content/images/2016/06/Pompiers1_0.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2013-11-26 23:00:00'
 ---
 

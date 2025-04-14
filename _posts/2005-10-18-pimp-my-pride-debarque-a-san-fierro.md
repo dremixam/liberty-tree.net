@@ -2,7 +2,8 @@
 layout: article
 title: Pimp my Pride débarque a San Fierro
 cover: "/content/images/2016/06/sky%20west%20avant.jpg"
-author: xtrmboss
+authors:
+  - xtrmboss
 date: '2005-10-18 22:00:00'
 tags:
 - san-fierro

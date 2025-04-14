@@ -2,7 +2,8 @@
 layout: article
 title: Attention virus !
 cover: "/content/images/2016/06/virusblegeblague.jpg"
-author: max-2
+authors:
+  - max-2
 date: '2002-07-07 22:00:00'
 tags:
 - liberty-city

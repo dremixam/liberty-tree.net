@@ -2,7 +2,8 @@
 layout: article
 title: Navettes & Emplois...
 cover: "/content/images/2005/01/bus1.jpg"
-author: nams
+authors:
+  - nams
 date: '2006-11-30 00:00:00'
 tags:
 - los-santos

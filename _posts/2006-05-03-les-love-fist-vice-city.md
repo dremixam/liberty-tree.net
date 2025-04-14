@@ -2,7 +2,8 @@
 layout: article
 title: Les LOVE FIST à Vice City
 cover: "/content/images/2005/01/la_salle_de_concert.jpg"
-author: alexis1450
+authors:
+  - alexis1450
 date: '2006-05-03 00:00:00'
 tags:
 - vice-city

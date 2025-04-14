@@ -1,7 +1,8 @@
 ---
 layout: article
 title: L'an 2007 en quelques paragraphes.
-author: nelson
+authors:
+  - nelson
 date: '2007-12-31 22:55:00'
 tags:
 - los-santos

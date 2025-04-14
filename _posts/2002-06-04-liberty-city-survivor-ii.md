@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Liberty City Survivor II
-author: little-worm
+authors:
+  - little-worm
 date: '2002-06-04 22:00:00'
 tags:
 - liberty-city

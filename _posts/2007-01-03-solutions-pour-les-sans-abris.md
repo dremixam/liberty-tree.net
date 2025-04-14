@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Solutions pour les sans-abris
-author: tenpenny
+authors:
+  - tenpenny
 date: '2007-01-03 21:01:00'
 tags:
 - vice-city

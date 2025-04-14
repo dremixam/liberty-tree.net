@@ -2,7 +2,8 @@
 layout: article
 title: Visite surprise à Los Santos
 cover: "/content/images/2005/01/Visite_-_Fanny_Carleton_titre.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-07-02 00:00:00'
 tags:
 - los-santos

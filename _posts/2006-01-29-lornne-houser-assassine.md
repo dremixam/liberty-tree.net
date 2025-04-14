@@ -2,7 +2,8 @@
 layout: article
 title: Lornne Houser assassiné
 cover: "/content/images/2016/06/monkey5.jpg"
-author: little-worm
+authors:
+  - little-worm
 date: '2006-01-29 23:00:00'
 tags:
 - vice-city

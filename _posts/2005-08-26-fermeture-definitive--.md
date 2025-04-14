@@ -2,7 +2,8 @@
 layout: article
 title: Fermeture définitive ?
 cover: "/content/images/2016/06/ClosedStreet4.jpg"
-author: pastrana
+authors:
+  - pastrana
 date: '2005-08-26 22:00:00'
 tags:
 - liberty-city

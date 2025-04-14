@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Guerre des gangs à Stauton
-author: nelson
+authors:
+  - nelson
 date: '2002-12-26 18:25:00'
 tags:
 - liberty-city

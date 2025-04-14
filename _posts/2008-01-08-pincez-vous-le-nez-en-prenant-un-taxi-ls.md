@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Pincez-vous le nez en prenant un taxi LS!
-author: special-k
+authors:
+  - special-k
 date: '2008-01-08 23:05:00'
 tags:
 - los-santos

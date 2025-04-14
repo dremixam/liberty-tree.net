@@ -2,7 +2,8 @@
 layout: article
 title: Nouveaux gros braquages à "El Banco Corrupto Grande"
 cover: "/content/images/2016/06/b.jpg"
-author: chaos-red
+authors:
+  - chaos-red
 date: '2006-01-25 23:00:00'
 tags:
 - vice-city

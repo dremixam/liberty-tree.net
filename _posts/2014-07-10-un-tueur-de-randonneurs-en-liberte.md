@@ -2,7 +2,8 @@
 layout: article
 title: Un tueur de randonneurs en liberté
 cover: "/content/images/2016/06/0_0_214.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2014-07-10 22:00:00'
 tags:
 - los-santos

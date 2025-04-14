@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Un fanatique met le feu a Chinatown
-author: pavlov
+authors:
+  - pavlov
 date: '2002-09-10 22:00:00'
 tags:
 - liberty-city

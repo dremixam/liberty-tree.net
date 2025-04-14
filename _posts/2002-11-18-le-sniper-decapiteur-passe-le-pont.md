@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le sniper décapiteur passe le pont
-author: fxbt
+authors:
+  - fxbt
 date: '2002-11-18 23:00:00'
 tags:
 - liberty-city

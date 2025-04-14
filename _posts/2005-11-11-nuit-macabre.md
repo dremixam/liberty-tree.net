@@ -2,7 +2,8 @@
 layout: article
 title: Nuit macabre
 cover: "/content/images/2005/01/taxi.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2005-11-11 00:00:00'
 tags:
 - los-santos

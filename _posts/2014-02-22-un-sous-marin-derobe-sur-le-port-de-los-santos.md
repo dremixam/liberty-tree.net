@@ -2,7 +2,8 @@
 layout: article
 title: Un sous-marin dérobé sur le port de Los Santos
 cover: "/content/images/2016/06/Merryweather.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-02-22 23:00:00'
 tags:
 - los-santos

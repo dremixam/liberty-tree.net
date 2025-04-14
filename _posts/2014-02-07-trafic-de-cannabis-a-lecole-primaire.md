@@ -2,7 +2,8 @@
 layout: article
 title: Trafic de cannabis à l'école primaire
 cover: "/content/images/2016/06/Ecole.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-02-07 23:00:00'
 tags:
 - los-santos

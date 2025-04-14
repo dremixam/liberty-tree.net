@@ -2,7 +2,8 @@
 layout: article
 title: L'affaire Fort Carson
 cover: "/content/images/2005/01/ovni-2-molotov.jpg"
-author: molotov
+authors:
+  - molotov
 date: '2007-02-06 00:00:00'
 tags:
 - las-venturas

@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Ouverture officielle du site de commandes de véhicules du NAC
-author: nelson
+authors:
+  - nelson
 date: '2002-10-21 15:10:00'
 tags:
 - liberty-city

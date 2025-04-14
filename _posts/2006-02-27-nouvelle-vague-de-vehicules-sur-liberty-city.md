@@ -2,7 +2,8 @@
 layout: article
 title: Nouvelle vague de véhicules sur Liberty City
 cover: "/content/images/2016/06/capitalautos01.jpg"
-author: thefoxben
+authors:
+  - thefoxben
 date: '2006-02-27 23:00:00'
 tags:
 - liberty-city

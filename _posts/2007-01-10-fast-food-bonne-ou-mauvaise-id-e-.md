@@ -2,7 +2,8 @@
 layout: article
 title: 'Fast-Food: Bonne ou mauvaise idée ?'
 cover: "/content/images/2005/01/Fast-food_04.jpg"
-author: gtaboss33
+authors:
+  - gtaboss33
 date: '2007-01-10 00:00:00'
 tags:
 - los-santos

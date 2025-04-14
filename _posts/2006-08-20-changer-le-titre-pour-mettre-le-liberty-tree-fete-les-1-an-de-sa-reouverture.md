@@ -1,7 +1,8 @@
 ---
 layout: article
 title: le Liberty Tree fête les 1 an de sa réouverture
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-08-20 18:49:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Le système de police est "défectueux"
 cover: "/content/images/2016/06/default.jpg"
-author: max-2
+authors:
+  - max-2
 date: '2003-04-11 22:00:00'
 tags:
 - liberty-city

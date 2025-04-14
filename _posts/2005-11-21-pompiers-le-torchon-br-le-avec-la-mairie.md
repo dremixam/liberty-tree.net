@@ -2,7 +2,8 @@
 layout: article
 title: 'Pompiers: le torchon brûle avec la mairie'
 cover: "/content/images/2005/01/pompiers.jpg"
-author: dremixam
+authors:
+  - dremixam
 date: '2005-11-21 00:00:00'
 tags:
 - los-santos

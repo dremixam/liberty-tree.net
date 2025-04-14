@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Attentat à Shoreside
-author: pierrealex
+authors:
+  - pierrealex
 date: '2002-05-28 22:00:00'
 tags:
 - liberty-city

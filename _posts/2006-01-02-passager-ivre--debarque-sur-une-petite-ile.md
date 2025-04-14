@@ -2,7 +2,8 @@
 layout: article
 title: Passager ivre, débarqué sur une petite île
 cover: "/content/images/2016/06/AT-400.jpg"
-author: slizzel
+authors:
+  - slizzel
 date: '2006-01-02 23:00:00'
 tags:
 - san-fierro

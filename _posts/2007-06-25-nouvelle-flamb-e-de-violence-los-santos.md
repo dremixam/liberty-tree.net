@@ -2,7 +2,8 @@
 layout: article
 title: Nouvelle flambée de violence à Los Santos
 cover: "/content/images/2005/01/miaosn_qui_crame.jpg"
-author: satyr
+authors:
+  - satyr
 date: '2007-06-25 00:00:00'
 tags:
 - los-santos

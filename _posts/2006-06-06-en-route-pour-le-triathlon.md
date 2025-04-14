@@ -2,7 +2,8 @@
 layout: article
 title: En route pour le Triathlon
 cover: "/content/images/2005/01/p130barri_re.jpg"
-author: p130
+authors:
+  - p130
 date: '2006-06-06 00:00:00'
 tags:
 - las-venturas

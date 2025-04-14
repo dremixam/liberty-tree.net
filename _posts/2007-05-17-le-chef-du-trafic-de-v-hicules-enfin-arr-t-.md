@@ -2,7 +2,8 @@
 layout: article
 title: Le chef du trafic de véhicules enfin arrêté
 cover: "/content/images/2005/01/suite2.jpg"
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-05-17 00:00:00'
 tags:
 - vice-city

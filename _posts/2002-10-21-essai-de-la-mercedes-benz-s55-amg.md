@@ -2,7 +2,8 @@
 layout: article
 title: Essai de la Mercedes-Benz S55 AMG
 cover: "/content/images/v1/user22/PreviewS55.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2002-10-21 15:16:00'
 tags:
 - liberty-city

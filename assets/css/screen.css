@@ -444,15 +444,34 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .post-card-meta {
-    padding: 0 25px 25px;
+    display: flex; /* Active le mode flexbox */
+    justify-content: space-between; /* Répartit les enfants sur toute la largeur */
+    align-items: flex-end; /* Aligne les enfants en bas du conteneur */
+    padding: 0 25px 25px; /* Conserve le padding existant */
+    height: 100%; /* S'assure que le conteneur prend toute la hauteur disponible */
+}
+
+.post-card-meta span {
+    flex: 1; /* Chaque span prend une largeur égale */
+}
+
+@media (max-width: 600px) {
+    .post-card-meta {
+        flex-direction: column; /* Empile les enfants verticalement */
+        align-items: flex-start; /* Aligne les enfants à gauche */
+    }
+
+    .post-card-meta span {
+        text-align: left; /* Aligne le texte à gauche */
+        width: 100%; /* Chaque span prend toute la largeur */
+    }
 }
 
 .author-profile-image {
-    margin-right: 5px;
-    width: 25px;
-    height: 25px;
-    border-radius: 100%;
-
+    width: 80px; /* Taille de l'image */
+    height: 80px;
+    border-radius: 50%; /* Image ronde */
+    margin-right: 20px; /* Espacement entre l'image et le contenu */
     object-fit: cover;
 }
 
@@ -461,6 +480,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     font-weight: 500;
     letter-spacing: 0.5px;
     text-transform: uppercase;
+    text-align: left;
 }
 
 .article-disclaimer {
@@ -481,14 +501,12 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 .reading-time {
     font-size: 1.2rem;
     font-weight: 500;
-    line-height: 33px;
     flex-shrink: 0;
     margin-left: 20px;
     letter-spacing: .5px;
     text-transform: uppercase;
-    float: right;
-    margin-top: -4px;
     color: var(--midgrey);
+    text-align: right;
 }
 
 /* Special Styling for home page grid (below):
@@ -582,7 +600,6 @@ The first (most recent) post in the list is styled to be bigger than the others 
 }
 
 .post-full-meta {
-    display: flex;
     justify-content: center;
     align-items: center;
     color: var(--midgrey);
@@ -1181,7 +1198,7 @@ _img_small>Your image caption</small>
 /* ---------------------------------------------------------- */
 
 .post-full-footer {
-    display: flex;
+    display: block;
     justify-content: space-between;
     align-items: center;
     margin: 0 auto;
@@ -1191,19 +1208,33 @@ _img_small>Your image caption</small>
 
 .author-card {
     display: flex;
+    flex-direction: row;
     align-items: center;
+    width: 100%; /* Prend toute la largeur */
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9; /* Couleur de fond */
+    border: 1px solid #e0e0e0; /* Bordure légère */
+    border-radius: 5px; /* Coins arrondis */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Ombre légère */
 }
 
 .author-card .author-profile-image {
-    margin-right: 15px;
-    width: 60px;
-    height: 60px;
+    width: 80px; /* Taille de l'image */
+    height: 80px;
+    border-radius: 50%; /* Image ronde */
+    margin-right: 20px; /* Espacement entre l'image et le contenu */
+    object-fit: cover;
+}
+
+.author-card-content {
+    flex: 1; /* Prend tout l'espace restant */
 }
 
 .author-card-name {
-    margin: 0 0 2px 0;
-    padding: 0;
-    font-size: 2rem;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 0 0 5px;
 }
 
 .author-card-name a {
@@ -1234,14 +1265,26 @@ _img_small>Your image caption</small>
     font-size: 1.2rem;
     line-height: 1;
     font-weight: 500;
-    border-radius: 20px;
+    border-radius: 25px;
     transition: all ease 0.2s;
+    text-align: center;
 }
 
 .author-card-button:hover {
     border-color: var(--blue);
     color: var(--blue);
     text-decoration: none;
+}
+
+.unknown-authors-container {
+    margin-top: 20px; /* Espacement au-dessus de la mention */
+    text-align: left; /* Alignement à gauche */
+}
+
+.unknown-authors {
+    font-style: italic;
+    color: var(--midgrey);
+    line-height: 1.8; /* Espacement entre les lignes */
 }
 
 

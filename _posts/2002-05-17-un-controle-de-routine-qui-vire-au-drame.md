@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Un contrôle de routine qui vire au drame
-author: fanofrpg
+authors:
+  - fanofrpg
 date: '2002-05-17 22:00:00'
 tags:
 - liberty-city

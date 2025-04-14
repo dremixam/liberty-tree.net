@@ -2,7 +2,8 @@
 layout: article
 title: L'acteur Raul Baker est mort ce matin
 cover: "/content/images/2016/06/0_0_66.jpg"
-author: justshot1
+authors:
+  - justshot1
 date: '2013-12-22 23:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Une journée avec un agent de la LSPD
 cover: "/content/images/2005/01/articl_24.jpg"
-author: gtaboss33
+authors:
+  - gtaboss33
 date: '2006-11-03 00:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Crash d'un aéronef léger à Downtown Los Santos
 cover: "/content/images/2016/06/crashnews_1.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-10-29 23:00:00'
 tags:
 - los-santos

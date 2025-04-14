@@ -2,7 +2,8 @@
 layout: article
 title: Fin du calvaire dans le sud de San Andreas
 cover: "/content/images/2016/06/Feu.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2007-09-08 22:00:00'
 tags:
 - los-santos

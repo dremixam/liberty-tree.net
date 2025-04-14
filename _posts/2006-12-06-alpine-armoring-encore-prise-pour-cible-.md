@@ -2,7 +2,8 @@
 layout: article
 title: Alpine Armoring encore prise pour cible !
 cover: "/content/images/2005/01/Alpine_-_title.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-12-06 00:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Un groupe de pélerins miraculés
 cover: "/content/images/2005/01/Photographie_du_bus_par_un_radar_manuel.jpg"
-author: ladanettedu94
+authors:
+  - ladanettedu94
 date: '2007-06-23 00:00:00'
 tags:
 - san-fierro

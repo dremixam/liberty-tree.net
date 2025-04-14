@@ -2,7 +2,8 @@
 layout: article
 title: Une nuit avec les performers de l'extrême
 cover: "/content/images/2016/06/perf1.jpg"
-author: bancale
+authors:
+  - bancale
 date: '2012-11-29 23:00:00'
 tags:
 - los-santos

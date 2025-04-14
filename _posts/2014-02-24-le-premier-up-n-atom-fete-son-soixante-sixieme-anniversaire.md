@@ -2,7 +2,8 @@
 layout: article
 title: Le premier Up-n-Atom fête son soixante-sixième anniversaire
 cover: "/content/images/2016/06/Fast-Food.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-02-24 23:00:00'
 tags:
 - los-santos

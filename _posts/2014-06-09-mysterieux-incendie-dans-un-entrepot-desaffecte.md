@@ -2,7 +2,8 @@
 layout: article
 title: Mystérieux incendie dans un entrepôt désaffecté
 cover: "/content/images/2016/06/Incendie2_0.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-06-09 22:00:00'
 tags:
 - los-santos

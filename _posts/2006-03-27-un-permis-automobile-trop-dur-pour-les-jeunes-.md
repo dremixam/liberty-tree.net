@@ -2,7 +2,8 @@
 layout: article
 title: Un permis automobile trop dur pour les jeunes?
 cover: "/content/images/2005/01/auto_ecole_2.jpg"
-author: dami
+authors:
+  - dami
 date: '2006-03-27 00:00:00'
 tags:
 - san-fierro

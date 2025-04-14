@@ -2,7 +2,8 @@
 layout: article
 title: Les recherches pour retrouver le Beoing 666 s'accélèrent
 cover: "/content/images/2016/06/23_0.jpg"
-author: nevod
+authors:
+  - nevod
 date: '2014-04-04 22:00:00'
 tags:
 - los-santos

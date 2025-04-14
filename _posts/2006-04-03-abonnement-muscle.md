@@ -2,7 +2,8 @@
 layout: article
 title: Abonnement musclé
 cover: "/content/images/2016/06/gymint.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-04-03 22:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: La brigade autoroutière plus déterminée que jamais !
 cover: "/content/images/2016/06/0_0%20%2813%29_5.jpg"
-author: aymar
+authors:
+  - aymar
 date: '2014-04-26 22:00:00'
 tags:
 - los-santos

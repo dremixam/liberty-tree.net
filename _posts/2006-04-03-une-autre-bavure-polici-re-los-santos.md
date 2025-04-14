@@ -2,7 +2,8 @@
 layout: article
 title: Une autre bavure policière à Los Santos
 cover: "/content/images/2005/01/LS_chaos_Nuit_1.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-04-03 00:00:00'
 tags:
 - los-santos

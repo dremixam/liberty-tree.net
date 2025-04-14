@@ -2,7 +2,8 @@
 layout: article
 title: La Mafia c'est plus ce que c'était
 cover: "/content/images/v1/user24/Mafia.jpg"
-author: titof-abs
+authors:
+  - titof-abs
 date: '2002-12-11 23:00:00'
 tags:
 - liberty-city

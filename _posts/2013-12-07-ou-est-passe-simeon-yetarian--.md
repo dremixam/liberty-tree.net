@@ -2,7 +2,8 @@
 layout: article
 title: Où est passé Simeon Yetarian ?
 cover: "/content/images/2016/06/Yetarian.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2013-12-07 23:00:00'
 tags:
 - los-santos

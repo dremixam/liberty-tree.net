@@ -2,7 +2,8 @@
 layout: article
 title: Burger Shot dans la mire d'un scandale!
 cover: "/content/images/2005/01/BurgerShot_-_title.jpg"
-author: mr-r
+authors:
+  - mr-r
 date: '2006-11-14 00:00:00'
 tags:
 - los-santos

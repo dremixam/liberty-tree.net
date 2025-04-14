@@ -2,7 +2,8 @@
 layout: article
 title: Liberty City sous la neige
 cover: "/content/images/2016/06/Liberty_City_sous_la_neige_1.jpg"
-author: bart_man
+authors:
+  - bart_man
 date: '2005-12-24 23:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Enlèvement spectaculaire au Liberty Tree
 cover: "/content/images/2016/06/enlevement.jpg"
-author: salvatore
+authors:
+  - salvatore
 date: '2005-11-04 23:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: La Tour Maudite
 cover: "/content/images/2005/01/tour_-_incendie_title.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-08-10 00:00:00'
 tags:
 - los-santos

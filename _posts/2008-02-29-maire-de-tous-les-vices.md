@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Maire de tous les vices
-author: special-k
+authors:
+  - special-k
 date: '2008-02-29 23:49:00'
 tags:
 - los-santos

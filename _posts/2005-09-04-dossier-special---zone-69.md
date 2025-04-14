@@ -2,7 +2,8 @@
 layout: article
 title: 'Dossier spécial : Zone 69'
 cover: "/content/images/2016/06/sol-air.jpg"
-author: p130
+authors:
+  - p130
 date: '2005-09-04 22:00:00'
 tags:
 - vice-city

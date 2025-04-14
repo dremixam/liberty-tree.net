@@ -2,7 +2,8 @@
 layout: article
 title: Nouveau retard pour le Staunton Plaza
 cover: "/content/images/v1/user23/pan01.jpg"
-author: pavlov
+authors:
+  - pavlov
 date: '2003-03-12 23:00:00'
 tags:
 - liberty-city

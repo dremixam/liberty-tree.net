@@ -2,7 +2,8 @@
 layout: article
 title: Grand Theft Auto
 cover: "/content/images/2005/01/GTA25.jpg"
-author: pavlov
+authors:
+  - pavlov
 date: '2006-11-12 00:00:00'
 tags:
 - los-santos

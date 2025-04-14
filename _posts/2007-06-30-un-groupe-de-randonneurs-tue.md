@@ -2,7 +2,8 @@
 layout: article
 title: Un groupe de randonneurs tué
 cover: "/content/images/2016/06/gallery14_1.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2007-06-30 22:00:00'
 tags:
 - san-fierro

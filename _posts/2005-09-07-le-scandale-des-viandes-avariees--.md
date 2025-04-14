@@ -2,7 +2,8 @@
 layout: article
 title: Le scandale des viandes avariées !
 cover: "/content/images/2016/06/burgershot.jpg"
-author: p130
+authors:
+  - p130
 date: '2005-09-07 22:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Disparition tragique d'Edward Otto
 cover: "/content/images/2005/01/bateauavecvedette1.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-06-08 00:00:00'
 tags:
 - san-fierro

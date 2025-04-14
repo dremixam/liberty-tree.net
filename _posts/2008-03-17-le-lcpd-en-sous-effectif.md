@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le LCPD en sous-effectif !
-author: dremixam
+authors:
+  - dremixam
 date: '2008-03-17 13:31:00'
 tags:
 - liberty-city

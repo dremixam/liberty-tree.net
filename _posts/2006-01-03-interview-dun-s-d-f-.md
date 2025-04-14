@@ -2,7 +2,8 @@
 layout: article
 title: Interview d'un S.D.F.
 cover: "/content/images/2016/06/sdf1_0.jpg"
-author: slizzel
+authors:
+  - slizzel
 date: '2006-01-03 23:00:00'
 tags:
 - vice-city

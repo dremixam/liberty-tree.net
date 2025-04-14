@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Interview de NelsoN
-author: will
+authors:
+  - will
 date: '2003-03-02 13:35:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Tentative d'attentat au Liberty-Tree
 cover: "/content/images/2016/06/dodo5_0.jpg"
-author: rr4
+authors:
+  - rr4
 date: '2002-05-25 22:00:00'
 tags:
 - liberty-city

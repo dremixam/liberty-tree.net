@@ -2,7 +2,8 @@
 layout: article
 title: Sabotage en pleine mer
 cover: "/content/images/2005/01/BIM.jpg"
-author: p130
+authors:
+  - p130
 date: '2006-06-22 00:00:00'
 tags:
 - liberty-city

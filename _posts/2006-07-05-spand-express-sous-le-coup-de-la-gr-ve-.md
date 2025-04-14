@@ -2,7 +2,8 @@
 layout: article
 title: Spand Express sous le coup de la grève!
 cover: "/content/images/2005/01/spand_express.jpg"
-author: manu
+authors:
+  - manu
 date: '2006-07-05 00:00:00'
 tags:
 - vice-city

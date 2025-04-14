@@ -2,7 +2,8 @@
 layout: article
 title: Rendez-vous hebdomadaire du LSGD Club
 cover: "/content/images/2005/01/lsgdfacetoface.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-05-02 00:00:00'
 tags:
 - los-santos

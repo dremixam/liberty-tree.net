@@ -2,7 +2,8 @@
 layout: article
 title: 'Catastrophe : le barrage Sherman a cédé'
 cover: "/content/images/2016/06/las%20barrancas%20eau%203_0.jpg"
-author: megamind
+authors:
+  - megamind
 date: '2005-09-01 22:00:00'
 tags:
 - vice-city

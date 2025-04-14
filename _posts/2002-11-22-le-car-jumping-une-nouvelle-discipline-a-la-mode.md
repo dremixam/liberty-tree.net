@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le Car-Jumping, une nouvelle discipline à la mode
-author: nelson
+authors:
+  - nelson
 date: '2002-11-22 17:01:00'
 tags:
 - liberty-city

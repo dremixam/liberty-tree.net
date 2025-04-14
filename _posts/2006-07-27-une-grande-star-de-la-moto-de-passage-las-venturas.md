@@ -2,7 +2,8 @@
 layout: article
 title: Une grande star de la moto de passage à Las Venturas
 cover: "/content/images/2005/01/kossi1.jpg"
-author: gtaboss33
+authors:
+  - gtaboss33
 date: '2006-07-27 00:00:00'
 tags:
 - las-venturas

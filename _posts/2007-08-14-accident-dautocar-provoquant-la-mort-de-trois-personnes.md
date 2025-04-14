@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Accident d'autocar provoquant la mort de trois personnes.
-author: gtaboss33
+authors:
+  - gtaboss33
 date: '2007-08-14 20:45:00'
 tags:
 - los-santos

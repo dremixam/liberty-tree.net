@@ -2,7 +2,8 @@
 layout: article
 title: Attentat à Saint Marks
 cover: "/content/images/v1/user23/forel02.jpg"
-author: pavlov
+authors:
+  - pavlov
 date: '2002-12-16 23:00:00'
 tags:
 - liberty-city

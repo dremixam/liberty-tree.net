@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Liberty City en un coup de pinceau
-author: nelson
+authors:
+  - nelson
 date: '2003-04-07 13:39:00'
 tags:
 - liberty-city

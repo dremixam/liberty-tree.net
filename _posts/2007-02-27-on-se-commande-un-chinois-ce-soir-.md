@@ -2,7 +2,8 @@
 layout: article
 title: On se commande un chinois ce soir ?
 cover: "/content/images/2005/01/flic_ambulance.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2007-02-27 00:00:00'
 tags:
 - vice-city

@@ -2,7 +2,8 @@
 layout: article
 title: Liberty Fly
 cover: "/content/images/2005/01/AA747-300.jpg"
-author: pyro
+authors:
+  - pyro
 date: '2007-02-05 00:00:00'
 tags:
 - las-venturas

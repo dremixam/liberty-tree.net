@@ -2,7 +2,8 @@
 layout: article
 title: Couple Oswalt, bataille perdue pour leur bébé mort à la maternité
 cover: "/content/images/2005/01/hopital2.jpg"
-author: pyro
+authors:
+  - pyro
 date: '2006-08-01 18:14:00'
 tags:
 - liberty-city

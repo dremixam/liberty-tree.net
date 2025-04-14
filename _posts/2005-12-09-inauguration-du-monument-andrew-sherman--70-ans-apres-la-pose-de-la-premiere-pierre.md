@@ -3,7 +3,8 @@ layout: article
 title: Inauguration du Monument Andrew Sherman, 70 ans après la pose de la première
   pierre
 cover: "/content/images/2016/06/Sherman_5.jpg"
-author: thomas
+authors:
+  - thomas
 date: '2005-12-09 23:00:00'
 tags:
 - vice-city

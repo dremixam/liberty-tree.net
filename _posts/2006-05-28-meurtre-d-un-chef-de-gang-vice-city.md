@@ -2,7 +2,8 @@
 layout: article
 title: Meurtre d'un chef de gang à Vice City
 cover: "/content/images/2005/01/Jeffrey_Home.jpg"
-author: mr-r
+authors:
+  - mr-r
 date: '2006-05-28 00:00:00'
 tags:
 - vice-city

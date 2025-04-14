@@ -1,7 +1,8 @@
 ---
 layout: article
 title: La firme Karin Automobiles dévoile son nouveau véhicule hybride.
-author: nelson
+authors:
+  - nelson
 date: '2008-03-14 23:00:00'
 tags:
 - liberty-city

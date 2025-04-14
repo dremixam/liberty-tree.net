@@ -2,7 +2,8 @@
 layout: article
 title: Drive'n'Crash
 cover: "/content/images/2016/06/Crash1.jpg"
-author: little-worm
+authors:
+  - little-worm
 date: '2005-08-23 22:00:00'
 tags:
 - vice-city

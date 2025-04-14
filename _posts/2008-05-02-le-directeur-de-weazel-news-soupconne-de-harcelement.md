@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le directeur de Weazel News soupçonné de harcèlement
-author: passe-partout
+authors:
+  - passe-partout
 date: '2008-05-02 13:03:00'
 tags:
 - liberty-city

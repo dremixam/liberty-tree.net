@@ -2,7 +2,8 @@
 layout: article
 title: Prise d'otage au Cluckin'Bell de Bone County
 cover: "/content/images/2005/01/swat4.jpg"
-author: i-need-money
+authors:
+  - i-need-money
 date: '2007-08-11 00:00:00'
 tags:
 - las-venturas

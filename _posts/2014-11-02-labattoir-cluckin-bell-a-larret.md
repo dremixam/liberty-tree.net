@@ -2,7 +2,8 @@
 layout: article
 title: L'abattoir Cluckin' Bell à l'arrêt
 cover: "/content/images/2016/06/0_0%20%283%29_16.jpg"
-author: titi
+authors:
+  - titi
 date: '2014-11-02 23:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Le "Air Force One" effectue un atterrissage d'urgence
 cover: "/content/images/2005/01/AF1_avion.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-05-22 00:00:00'
 tags:
 - los-santos

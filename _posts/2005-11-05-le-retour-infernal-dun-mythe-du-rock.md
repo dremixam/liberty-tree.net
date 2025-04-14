@@ -2,7 +2,8 @@
 layout: article
 title: Le retour infernal d'un mythe du rock
 cover: "/content/images/2016/06/lf1.jpg"
-author: noobsanarckist
+authors:
+  - noobsanarckist
 date: '2005-11-05 23:00:00'
 tags:
 - vice-city

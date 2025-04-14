@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Nouveau moyen de transport
-author: little-worm
+authors:
+  - little-worm
 date: '2002-08-21 22:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Le cycliste disparu récemment rétrouvé dévoré
 cover: "/content/images/2016/06/0_0_48.jpg"
-author: ale-cendre
+authors:
+  - ale-cendre
 date: '2013-12-15 23:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Surpeuplement des prisons de l'Etat
 cover: "/content/images/2005/01/Cellules.jpg"
-author: bart_man
+authors:
+  - bart_man
 date: '2005-12-28 00:00:00'
 tags:
 - vice-city

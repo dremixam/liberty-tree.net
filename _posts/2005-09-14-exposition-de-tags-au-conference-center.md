@@ -2,7 +2,8 @@
 layout: article
 title: Exposition de tags au Conference Center
 cover: "/content/images/2016/06/tag%206.jpg"
-author: imhotep43
+authors:
+  - imhotep43
 date: '2005-09-14 22:00:00'
 tags:
 - los-santos

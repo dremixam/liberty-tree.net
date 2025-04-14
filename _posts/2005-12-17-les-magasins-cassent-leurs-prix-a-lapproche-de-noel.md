@@ -2,7 +2,8 @@
 layout: article
 title: Les magasins cassent leurs prix à l'approche de Noël
 cover: "/content/images/2016/06/Toy_Corner_1.jpg"
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2005-12-17 23:00:00'
 tags:
 - los-santos

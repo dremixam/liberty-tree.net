@@ -2,7 +2,8 @@
 layout: article
 title: La mafia écologiste
 cover: "/content/images/2016/06/VoitureExplose.jpg"
-author: pierrealex
+authors:
+  - pierrealex
 date: '2002-05-20 22:00:00'
 tags:
 - liberty-city

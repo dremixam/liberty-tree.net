@@ -2,7 +2,8 @@
 layout: article
 title: Le manque de travail à la campagne
 cover: "/content/images/2016/06/0_0_148.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2014-02-02 23:00:00'
 tags:
 - los-santos

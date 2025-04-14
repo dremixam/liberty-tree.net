@@ -2,7 +2,8 @@
 layout: article
 title: Traffic de véhicules gouvernementaux à Liberty City
 cover: "/content/images/2005/01/fb1.jpg"
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-05-10 00:00:00'
 tags:
 - liberty-city

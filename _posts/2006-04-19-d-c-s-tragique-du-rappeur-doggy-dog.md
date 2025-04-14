@@ -2,7 +2,8 @@
 layout: article
 title: Décès tragique du rappeur Doggy-Dog
 cover: "/content/images/2005/01/DD_photo_11.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-04-19 00:00:00'
 tags:
 - las-venturas

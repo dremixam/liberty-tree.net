@@ -2,7 +2,8 @@
 layout: article
 title: 'Dossier : Faut-il libéraliser la vente des armes à feu ?'
 cover: "/content/images/2016/06/gallery23.jpg"
-author: vilnaranda
+authors:
+  - vilnaranda
 date: '2012-11-18 23:00:00'
 tags:
 - los-santos

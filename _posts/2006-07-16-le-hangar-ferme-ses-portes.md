@@ -2,7 +2,8 @@
 layout: article
 title: Le hangar ferme ses portes
 cover: "/content/images/2005/01/hangar.jpg"
-author: carl
+authors:
+  - carl
 date: '2006-07-16 00:00:00'
 tags:
 - vice-city

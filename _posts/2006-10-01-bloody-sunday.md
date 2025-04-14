@@ -2,7 +2,8 @@
 layout: article
 title: Bloody Sunday
 cover: "/content/images/2016/06/amateurpic.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-10-01 22:00:00'
 tags:
 - los-santos

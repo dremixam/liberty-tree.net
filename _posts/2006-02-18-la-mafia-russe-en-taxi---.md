@@ -2,7 +2,8 @@
 layout: article
 title: La Mafia Russe en taxi...
 cover: "/content/images/2016/06/vice_0.jpg"
-author: chaos-red
+authors:
+  - chaos-red
 date: '2006-02-18 23:00:00'
 tags:
 - vice-city

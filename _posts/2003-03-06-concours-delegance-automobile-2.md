@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Concours d'elegance Automobile
-author: nelson
+authors:
+  - nelson
 date: '2003-03-06 13:51:00'
 tags:
 - liberty-city

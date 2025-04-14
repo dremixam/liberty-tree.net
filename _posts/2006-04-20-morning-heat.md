@@ -2,7 +2,8 @@
 layout: article
 title: Morning Heat
 cover: "/content/images/2005/01/alpinelogo.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-04-20 00:00:00'
 tags:
 - los-santos

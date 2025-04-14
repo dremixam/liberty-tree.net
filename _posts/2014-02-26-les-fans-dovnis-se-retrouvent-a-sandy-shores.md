@@ -2,7 +2,8 @@
 layout: article
 title: Les fans d'OVNIs se retrouvent à Sandy Shores
 cover: "/content/images/2016/06/Alien.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-02-26 23:00:00'
 tags:
 - los-santos

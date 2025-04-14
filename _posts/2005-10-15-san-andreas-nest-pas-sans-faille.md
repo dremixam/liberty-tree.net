@@ -1,7 +1,8 @@
 ---
 layout: article
 title: San Andreas n'est pas sans faille !
-author: p130
+authors:
+  - p130
 date: '2005-10-15 16:58:00'
 tags:
 - los-santos

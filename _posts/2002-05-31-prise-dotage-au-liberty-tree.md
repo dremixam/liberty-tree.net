@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Prise d'otage au Liberty Tree
-author: zico
+authors:
+  - zico
 date: '2002-05-31 22:00:00'
 tags:
 - liberty-city

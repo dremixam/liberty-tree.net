@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Cimetière de voiture
-author: alex
+authors:
+  - alex
 date: '2003-04-11 13:44:00'
 tags:
 - liberty-city

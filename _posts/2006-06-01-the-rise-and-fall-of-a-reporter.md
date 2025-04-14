@@ -2,7 +2,8 @@
 layout: article
 title: The rise and fall of a reporter
 cover: "/content/images/2005/01/plouf6.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-06-01 00:00:00'
 tags:
 - los-santos

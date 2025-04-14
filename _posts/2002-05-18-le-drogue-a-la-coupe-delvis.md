@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le drogué à la coupe d'Elvis
-author: little-worm
+authors:
+  - little-worm
 date: '2002-05-18 22:00:00'
 ---
 

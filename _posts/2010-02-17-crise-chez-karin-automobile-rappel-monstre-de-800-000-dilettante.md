@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'Crise chez Karin Automobile : Rappel monstre de 800 000 Dilettante'
-author: civic666
+authors:
+  - civic666
 date: '2010-02-17 16:12:00'
 tags:
 - liberty-city

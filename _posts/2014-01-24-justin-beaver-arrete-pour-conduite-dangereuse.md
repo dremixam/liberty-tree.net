@@ -2,7 +2,8 @@
 layout: article
 title: Justin Beaver arrêté pour conduite dangereuse
 cover: "/content/images/2016/06/cam_0.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2014-01-24 23:00:00'
 tags:
 - los-santos

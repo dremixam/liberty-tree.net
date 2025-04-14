@@ -2,7 +2,8 @@
 layout: article
 title: Arrestation d'un délinquant
 cover: "/content/images/2016/06/doigt_0.jpg"
-author: baz
+authors:
+  - baz
 date: '2002-06-10 22:00:00'
 tags:
 - liberty-city

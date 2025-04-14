@@ -2,7 +2,8 @@
 layout: article
 title: Disparition inquiétante à Vespucci Beach
 cover: "/content/images/2016/06/0_0_160.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2014-02-08 23:00:00'
 tags:
 - los-santos

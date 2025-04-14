@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le pépé tueur a fait des malheurs
-author: zico
+authors:
+  - zico
 date: '2002-05-22 22:00:00'
 tags:
 - liberty-city

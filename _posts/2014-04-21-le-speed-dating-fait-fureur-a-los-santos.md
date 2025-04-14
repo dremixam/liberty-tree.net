@@ -2,7 +2,8 @@
 layout: article
 title: Le Speed Dating fait fureur à Los Santos
 cover: "/content/images/2016/06/0_0_185.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2014-04-21 22:00:00'
 tags:
 - los-santos

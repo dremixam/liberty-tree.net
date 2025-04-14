@@ -2,7 +2,8 @@
 layout: article
 title: Un nouveau gang venu tout droit de Liberty City
 cover: "/content/images/2016/06/GTAIV_shot09_1080p.jpg"
-author: aymar
+authors:
+  - aymar
 date: '2014-05-01 22:00:00'
 tags:
 - los-santos

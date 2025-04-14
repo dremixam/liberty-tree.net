@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'Liberty Gourmet (1ère partie): Burgers Bourgeois'
-author: pavlov
+authors:
+  - pavlov
 date: '2002-09-07 22:00:00'
 tags:
 - liberty-city

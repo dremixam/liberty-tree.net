@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Souriez, vous êtes filmés
-author: nelson
+authors:
+  - nelson
 date: '2003-03-03 13:40:00'
 tags:
 - liberty-city

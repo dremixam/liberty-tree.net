@@ -2,7 +2,8 @@
 layout: article
 title: Double meurtre à Vice City
 cover: "/content/images/2005/01/viceport.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-06-24 00:00:00'
 tags:
 - vice-city

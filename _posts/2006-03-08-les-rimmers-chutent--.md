@@ -2,7 +2,8 @@
 layout: article
 title: Les Rimmers chutent !
 cover: "/content/images/2016/06/rimmers1.jpg"
-author: bart_man
+authors:
+  - bart_man
 date: '2006-03-08 23:00:00'
 tags:
 - los-santos

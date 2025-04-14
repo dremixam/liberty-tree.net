@@ -2,7 +2,8 @@
 layout: article
 title: Les chtios à Los Santos
 cover: "/content/images/2016/06/Ville.jpg"
-author: panpan6903
+authors:
+  - panpan6903
 date: '2014-02-03 23:00:00'
 tags:
 - los-santos

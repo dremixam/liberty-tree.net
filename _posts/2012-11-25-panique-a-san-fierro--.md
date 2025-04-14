@@ -2,7 +2,8 @@
 layout: article
 title: Panique à San Fierro !
 cover: "/content/images/2016/06/tv3.jpg"
-author: bancale
+authors:
+  - bancale
 date: '2012-11-25 23:00:00'
 tags:
 - san-fierro

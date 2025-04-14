@@ -2,7 +2,8 @@
 layout: article
 title: Inauguration de la première salle de sport à Vice City
 cover: "/content/images/2005/01/Salle_de_muscu.jpg"
-author: john-johnson
+authors:
+  - john-johnson
 date: '2006-04-27 00:00:00'
 tags:
 - vice-city

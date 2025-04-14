@@ -2,7 +2,8 @@
 layout: article
 title: Attentat manqué au commissariat de Los Santos
 cover: "/content/images/2016/06/gallery1.jpg"
-author: satyr
+authors:
+  - satyr
 date: '2013-11-24 23:00:00'
 tags:
 - los-santos

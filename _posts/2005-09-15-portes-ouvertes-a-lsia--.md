@@ -2,7 +2,8 @@
 layout: article
 title: Portes ouvertes à LSIA ?
 cover: "/content/images/2016/06/avion1.jpg"
-author: little-worm
+authors:
+  - little-worm
 date: '2005-09-15 22:00:00'
 tags:
 - san-fierro

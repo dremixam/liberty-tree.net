@@ -2,7 +2,8 @@
 layout: article
 title: Hausse vertigineuse du prix du pétrole
 cover: "/content/images/2016/06/prix.jpg"
-author: klem
+authors:
+  - klem
 date: '2005-09-03 22:00:00'
 tags:
 - vice-city

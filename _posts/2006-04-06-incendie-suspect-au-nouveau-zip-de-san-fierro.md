@@ -2,7 +2,8 @@
 layout: article
 title: Incendie suspect au nouveau ZIP de San Fierro
 cover: "/content/images/2005/01/ZIP_incendie_10.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-04-06 00:00:00'
 tags:
 - san-fierro

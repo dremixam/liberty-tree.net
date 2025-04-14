@@ -2,7 +2,8 @@
 layout: article
 title: Los Santos en vrac - Numéro 9
 cover: "/content/images/2005/01/logo_en_vrac.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2007-01-27 00:00:00'
 tags:
 - los-santos

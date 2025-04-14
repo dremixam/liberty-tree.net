@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'Kuruma Millesime 2003 : les details qui changent tout'
-author: nelson
+authors:
+  - nelson
 date: '2002-09-19 13:08:00'
 tags:
 - liberty-city

@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Ammu-Nation en crise
-author: pierrealex
+authors:
+  - pierrealex
 date: '2002-08-20 22:00:00'
 tags:
 - liberty-city

@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Disparition tragique d’un journaliste du Daily Globe
-author: nelson
+authors:
+  - nelson
 date: '2010-03-01 16:17:00'
 tags:
 - liberty-city

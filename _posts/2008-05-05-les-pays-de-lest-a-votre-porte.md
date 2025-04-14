@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Les pays de l'Est à votre porte
-author: nelson
+authors:
+  - nelson
 date: '2008-05-05 13:22:00'
 tags:
 - liberty-city

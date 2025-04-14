@@ -37,21 +37,38 @@ into the {body} of the default.hbs template -->
                     <time class="post-full-meta-date" datetime="{{ page.date | date:'%e %B %Y' }}">{{ page.date |
                         date:'%e %B %Y' }}</time>
                     {% if page.tags.size > 0 %}
-                    <span class="date-divider">/</span>
+                    /
                     {% for tag in page.tags %}
                     {% if forloop.index == page.tags.size %}
                     <a href='/tag/{{ tag | slugify: "latin" }}/'>{{ tag | upcase }}</a>
                     {% else %}
                     <a href='/tag/{{ tag | slugify: "latin" }}/'>{{ tag | upcase }}</a>
-                    <span class="tags-divider">-</span>
+                    -
                     {% endif %}
                     {% endfor %}
                     {% endif %}
                 </section>
                 <h1 class="post-full-title">{{ page.title }}</h1>
                 <section class="post-full-meta" style="margin-top: 1.5rem;">
-                    {% if page.author %}
-                    <a href="/author/{{ page.author }}">{{ page.author }}</a>
+                    {% if page.authors %}
+                        {% for author_slug in page.authors %}
+                            {% assign author = site.authors | where: "slug", author_slug | first %}
+                            {% if author %}
+                                {% if forloop.last and forloop.index > 1 %}
+                                    et 
+                                {% elsif forloop.index > 1 %}
+                                    , 
+                                {% endif %}
+                                <a href="/author/{{ author.slug }}">{{ author.name }}</a>
+                            {% else %}
+                                {% if forloop.last and forloop.index > 1 %}
+                                    et 
+                                {% elsif forloop.index > 1 %}
+                                    , 
+                                {% endif %}
+                                {{ author_slug }}
+                            {% endif %}
+                        {% endfor %}
                     {% endif %}
                 </section>
             </header>
@@ -80,45 +97,67 @@ into the {body} of the default.hbs template -->
                 </div>
             </section>
 
-            <!-- Email subscribe form at the bottom of the page -->
-            {% if site.subscribers %}
-            <section class="subscribe-form">
-                <h3 class="subscribe-form-title">Subscribe to {{ site.title }}</h3>
-                <p>Get the latest posts delivered right to your inbox</p>
-                {% include subscribe-form.html placeholder="youremail@example.com" %}
-            </section>
-            {% endif %}
-
             <footer class="post-full-footer">
-                <!-- Everything inside the #author tags pulls data from the author -->
-                <!-- #author-->
-                {% for author in site.data.authors %}
-                {% if author[1].username == page.author %}
-                <section class="author-card">
-                    {% if author[1].picture %}
-                    <img class="author-profile-image" src="/{{ author[1].picture }}" alt="{{ page.author }}" />
-                    {% endif %}
-                    <section class="author-card-content">
-                        <h4 class="author-card-name"><a href="/author/{{ page.author }}">{{
-                                author[1].name }}</a></h4>
-                        {% if author[1].bio %}
-                        <p>{{ author[1].bio }}</p>
-                        {% else %}
-                        <p>Read <a href="/author/{{ page.author }}">more posts</a> by this author.</p>
-                        {% endif %}
+                <!-- Toutes les informations ci-dessous proviennent de la collection _authors -->
+                <!-- #authors -->
+                {% assign unknown_authors = "" | split: "," %}
+                {% for author_slug in page.authors %}
+                    {% assign author = site.authors | where: "slug", author_slug | first %}
+                    {% if author %}
+                    <section class="author-card">
+                        <img class="author-profile-image" src="/{{ author.image | default: site.default_avatar }}" alt="{{ author.name }}" />
+                        <section class="author-card-content">
+                            <h4 class="author-card-name">
+                                <a href="/author/{{ author.slug }}">{{ author.name }}</a>
+                            </h4>
+                            {% if author.content and author.content != blank %}
+                            <p>{{ author.content }}</p>
+                            {% else %}
+                            <p>{{ site.default_bio }}</p>
+                            {% endif %}
+                            {% if author.link %}
+                            <p class="author-link">
+                                Site perso : <a href="{{ author.link }}" target="_blank" rel="noopener noreferrer">
+                                    {% assign link_display = author.link | replace: "https://", "" | replace: "http://", "" %}
+                                    {% assign domain = link_display | split: "/" | first %}
+                                    {% assign path = link_display | remove: domain %}
+                                    {% if path == "/" or path == "" %}
+                                        {{ domain }}
+                                    {% else %}
+                                        {{ domain }}{{ path }}
+                                    {% endif %}
+                                </a>
+                            </p>
+                            {% endif %}
+                        </section>
+                        <div class="post-full-footer-right">
+                            <a class="author-card-button" href="/author/{{ author.slug }}">Plus d'articles de<br>{{ author.name }}</a>
+                        </div>
                     </section>
-                </section>
-                <div class="post-full-footer-right">
-                    <a class="author-card-button" href="/author/{{ page.author }}">Read More</a>
+                    {% else %}
+                        {% assign unknown_authors = unknown_authors | push: author_slug %}
+                    {% endif %}
+                {% endfor %}
+
+                <!-- Mention des auteurs inconnus -->
+                {% if unknown_authors.size > 0 %}
+                <div class="unknown-authors-container">
+                    <p class="unknown-authors">
+                        Avec la participation de 
+                        {% for unknown_author in unknown_authors %}
+                            {% if forloop.last and forloop.index > 1 %}
+                                et 
+                            {% elsif forloop.index > 1 %}
+                                , 
+                            {% endif %}
+                            {{ unknown_author }}
+                        {% endfor | strip %}.
+                    </p>
                 </div>
                 {% endif %}
-                {% endfor %}
-                <!-- /author  -->
+                <!-- /authors -->
             </footer>
 
-            <!-- If you use Disqus comments, just uncomment this block.
-            The only thing you need to change is "test-apkdzgmqhj" - which
-            should be replaced with your own Disqus site-id. -->
             {% if site.disqus or page.disqus %}
             <section class="post-full-comments">
                 <div id="disqus_thread"></div>

@@ -2,7 +2,8 @@
 layout: article
 title: Une nouvelle tuile s’abat sur la Brown Streak Railroad
 cover: "/content/images/2005/01/derail_-_brown_streak_logo.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-07-24 00:00:00'
 tags:
 - san-fierro

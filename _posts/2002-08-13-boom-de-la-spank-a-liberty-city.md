@@ -2,7 +2,8 @@
 layout: article
 title: Boom de la Spank à Liberty City
 cover: "/content/images/v1/user20/spank.jpg"
-author: max-2
+authors:
+  - max-2
 date: '2002-08-13 22:00:00'
 tags:
 - liberty-city

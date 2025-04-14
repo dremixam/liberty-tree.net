@@ -2,7 +2,8 @@
 layout: article
 title: Le bâtiment, un secteur qui monte
 cover: "/content/images/2005/01/Construction_Panlantic_LC.jpg"
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2006-06-26 00:00:00'
 tags:
 - liberty-city

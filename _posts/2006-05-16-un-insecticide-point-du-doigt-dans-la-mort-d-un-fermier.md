@@ -2,7 +2,8 @@
 layout: article
 title: Un insecticide pointé du doigt dans la mort d'un fermier
 cover: "/content/images/2005/01/fermier_insecticide_cropduster_zoom.jpg"
-author: mr-r
+authors:
+  - mr-r
 date: '2006-05-16 00:00:00'
 tags:
 - los-santos

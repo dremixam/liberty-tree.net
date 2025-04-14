@@ -2,7 +2,8 @@
 layout: article
 title: Un prêtre pédophile arrêté à Paleto Bay
 cover: "/content/images/2016/06/16_4.jpg"
-author: nevod
+authors:
+  - nevod
 date: '2014-03-12 23:00:00'
 tags:
 - los-santos

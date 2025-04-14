@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Liberty-Tree, Reopening
-author: civic666
+authors:
+  - civic666
 date: '2010-02-05 14:37:00'
 tags:
 - liberty-city

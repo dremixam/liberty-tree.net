@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Record du monde
-author: pierrealex
+authors:
+  - pierrealex
 date: '2002-07-29 22:00:00'
 tags:
 - liberty-city

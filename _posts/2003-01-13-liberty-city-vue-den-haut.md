@@ -2,7 +2,8 @@
 layout: article
 title: Liberty City vue d'en haut
 cover: "/content/images/v1/user1/yab11.jpg"
-author: baz
+authors:
+  - baz
 date: '2003-01-13 23:00:00'
 tags:
 - liberty-city

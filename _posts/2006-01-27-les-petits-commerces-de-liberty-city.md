@@ -2,7 +2,8 @@
 layout: article
 title: Les petits commerces de Liberty City
 cover: "/content/images/2016/06/marchand.jpg"
-author: weezer
+authors:
+  - weezer
 date: '2006-01-27 23:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Un convoi militaire attaqué
 cover: "/content/images/2005/01/dune.jpg"
-author: logan
+authors:
+  - logan
 date: '2007-01-25 00:00:00'
 tags:
 - las-venturas

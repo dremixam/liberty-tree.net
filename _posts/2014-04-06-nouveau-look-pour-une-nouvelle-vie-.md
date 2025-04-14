@@ -2,7 +2,8 @@
 layout: article
 title: Nouveau look pour une nouvelle vie
 cover: "/content/images/2016/06/0_0_178.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2014-04-06 22:00:00'
 tags:
 - los-santos

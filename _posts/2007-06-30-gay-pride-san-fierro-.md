@@ -2,7 +2,8 @@
 layout: article
 title: Gay Pride à San Fierro.
 cover: "/content/images/2005/01/SF_meurtre.jpg"
-author: vercetti
+authors:
+  - vercetti
 date: '2007-06-30 00:00:00'
 tags:
 - san-fierro

@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'Enquête : La mort d''Amy Winehouse élucidée'
-author: dremixam
+authors:
+  - dremixam
 date: '2011-07-29 22:43:00'
 checked: true
 tags:

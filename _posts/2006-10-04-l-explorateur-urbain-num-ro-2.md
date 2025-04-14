@@ -2,7 +2,8 @@
 layout: article
 title: L’Explorateur Urbain – Numéro 2
 cover: "/content/images/2005/01/Explo_-_Photo_Titre.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-10-04 00:00:00'
 tags:
 - los-santos

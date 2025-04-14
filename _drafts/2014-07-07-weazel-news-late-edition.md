@@ -2,7 +2,8 @@
 layout: article
 title: Weazel News Late Edition - 1x02 Execution ratée, travesti barbu et safari urbain
 cover: "/content/images/2016/06/maxresdefault.png"
-author: dremixam
+authors:
+  - dremixam
 date: '2014-07-07 22:00:00'
 tags:
 - liberty-city

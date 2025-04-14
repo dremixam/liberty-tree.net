@@ -2,7 +2,8 @@
 layout: article
 title: Les vacances arrivent à grand pas !
 cover: "/content/images/2005/01/vac2007.jpg"
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-06-22 00:00:00'
 tags:
 - san-fierro

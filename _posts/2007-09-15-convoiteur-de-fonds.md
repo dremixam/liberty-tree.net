@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Convoiteur de fonds
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-09-15 00:00:00'
 tags:
 - san-fierro

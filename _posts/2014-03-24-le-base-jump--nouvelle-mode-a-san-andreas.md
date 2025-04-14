@@ -2,7 +2,8 @@
 layout: article
 title: Le Base Jump, nouvelle mode à San Andreas
 cover: "/content/images/2016/06/173.jpg"
-author: gamer-reporter
+authors:
+  - gamer-reporter
 date: '2014-03-24 23:00:00'
 tags:
 - los-santos

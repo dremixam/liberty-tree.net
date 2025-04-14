@@ -2,7 +2,8 @@
 layout: article
 title: Fusillade aux docks de Los Santos
 cover: "/content/images/2005/01/fusiilade_dock7.jpg"
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-05-02 00:00:00'
 tags:
 - los-santos

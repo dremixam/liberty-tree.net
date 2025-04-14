@@ -2,7 +2,8 @@
 layout: article
 title: Les rouges sont de retour
 cover: "/content/images/2005/01/Dzermine_en_compagnie_de_Fidel_Castro.jpg"
-author: heinrich
+authors:
+  - heinrich
 date: '2006-12-11 00:00:00'
 tags:
 - vice-city

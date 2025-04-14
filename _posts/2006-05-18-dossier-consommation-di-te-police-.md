@@ -2,7 +2,8 @@
 layout: article
 title: 'Dossier consommation: Diète-Police?'
 cover: "/content/images/2005/01/Diet_Police_titre.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-05-18 00:00:00'
 tags:
 - los-santos

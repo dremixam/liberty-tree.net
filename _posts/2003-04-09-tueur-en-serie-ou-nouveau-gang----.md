@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Tueur en série ou nouveau Gang ?
-author: pastrana
+authors:
+  - pastrana
 date: '2003-04-09 22:00:00'
 tags:
 - liberty-city

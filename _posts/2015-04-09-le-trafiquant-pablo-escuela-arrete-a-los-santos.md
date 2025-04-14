@@ -2,7 +2,8 @@
 layout: article
 title: Le trafiquant Pablo Escuela arrêté à Los Santos
 cover: "/content/images/2016/06/avion_0.jpg"
-author: titi
+authors:
+  - titi
 date: '2015-04-09 22:00:00'
 tags:
 - los-santos

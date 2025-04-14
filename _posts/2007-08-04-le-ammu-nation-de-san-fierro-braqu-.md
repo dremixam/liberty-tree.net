@@ -2,7 +2,8 @@
 layout: article
 title: Le Ammu-Nation de San Fierro braqué
 cover: "/content/images/2005/01/fusi1.jpg"
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-08-04 00:00:00'
 tags:
 - los-santos

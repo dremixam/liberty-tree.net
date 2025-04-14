@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Voyage interdimensionnel
-author: dremixam
+authors:
+  - dremixam
 date: '2003-01-08 12:03:00'
 tags:
 - liberty-city

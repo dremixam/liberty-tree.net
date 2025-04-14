@@ -2,7 +2,8 @@
 layout: article
 title: 'Forelli Motors: Modèles 2006'
 cover: "/content/images/2005/01/Forelli_Excess.jpg"
-author: the-big
+authors:
+  - the-big
 date: '2006-03-03 00:00:00'
 tags:
 - liberty-city

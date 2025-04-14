@@ -2,7 +2,8 @@
 layout: article
 title: Un avion perdu dans les airs
 cover: "/content/images/2016/06/20_1.jpg"
-author: nevod
+authors:
+  - nevod
 date: '2014-03-21 23:00:00'
 tags:
 - los-santos

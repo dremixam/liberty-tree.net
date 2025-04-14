@@ -2,7 +2,8 @@
 layout: article
 title: Sonny prépare la sortie de la PS3
 cover: "/content/images/2005/01/PolyStation3.jpg"
-author: molotov
+authors:
+  - molotov
 date: '2007-01-28 00:00:00'
 tags:
 - los-santos

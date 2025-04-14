@@ -2,7 +2,8 @@
 layout: article
 title: Le taxi fantôme
 cover: "/content/images/2016/06/taxifantome2_0.jpg"
-author: little-worm
+authors:
+  - little-worm
 date: '2002-06-25 22:00:00'
 tags:
 - liberty-city

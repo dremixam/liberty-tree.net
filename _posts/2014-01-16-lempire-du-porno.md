@@ -2,7 +2,8 @@
 layout: article
 title: L'empire du porno
 cover: "/content/images/2016/06/Capture%20d%E2%80%99%C3%A9cran%202014-01-07%20%C3%A0%2022.13.29.png"
-author: panpan6903
+authors:
+  - panpan6903
 date: '2014-01-16 23:00:00'
 tags:
 - los-santos

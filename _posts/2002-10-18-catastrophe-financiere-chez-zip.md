@@ -2,7 +2,8 @@
 layout: article
 title: Catastrophe financière chez ZIP
 cover: "/content/images/v1/user21/zip01.jpg"
-author: fxbt
+authors:
+  - fxbt
 date: '2002-10-18 22:00:00'
 tags:
 - liberty-city

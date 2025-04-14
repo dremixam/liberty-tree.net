@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Hot Pursuit
-author: nelson
+authors:
+  - nelson
 date: '2003-01-02 11:47:00'
 tags:
 - liberty-city

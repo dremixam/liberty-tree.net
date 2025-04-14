@@ -2,7 +2,8 @@
 layout: article
 title: '"La statue à la main" : la statue qui fait scandale'
 cover: "/content/images/2016/06/mas1_1.jpg"
-author: chaos-red
+authors:
+  - chaos-red
 date: '2006-03-04 23:00:00'
 tags:
 - los-santos

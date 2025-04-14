@@ -2,7 +2,8 @@
 layout: article
 title: Rencontre avec les 3Men Crew
 cover: "/content/images/2005/01/madein.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-07-22 00:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: '"Road''s Furious": un groupe connu des adeptes de tuning'
 cover: "/content/images/2016/06/tun.jpg"
-author: chaos-red
+authors:
+  - chaos-red
 date: '2006-02-08 23:00:00'
 tags:
 - san-fierro

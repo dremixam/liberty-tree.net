@@ -2,7 +2,8 @@
 layout: article
 title: De nouvelles techniques d'agression
 cover: "/content/images/2016/06/haha.jpg"
-author: weezer
+authors:
+  - weezer
 date: '2005-12-16 23:00:00'
 tags:
 - las-venturas

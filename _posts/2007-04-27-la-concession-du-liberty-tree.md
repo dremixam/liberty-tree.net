@@ -1,7 +1,8 @@
 ---
 layout: article
 title: La concession du Liberty Tree !
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-04-27 20:09:00'
 tags:
 - vice-city

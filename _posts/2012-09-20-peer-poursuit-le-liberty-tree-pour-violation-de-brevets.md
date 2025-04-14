@@ -2,7 +2,8 @@
 layout: article
 title: Fruit poursuit le Liberty Tree pour violation de brevets
 cover: "/content/images/2016/07/fruit.jpg"
-author: dremixam
+authors:
+  - dremixam
 date: '2012-09-20 22:00:00'
 ---
 

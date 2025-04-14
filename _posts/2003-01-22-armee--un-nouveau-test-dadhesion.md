@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'Armée: un nouveau test d''adhésion'
-author: max-2
+authors:
+  - max-2
 date: '2003-01-22 23:00:00'
 tags:
 - liberty-city

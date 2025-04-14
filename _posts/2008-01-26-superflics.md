@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Superflics
-author: pavlov
+authors:
+  - pavlov
 date: '2008-01-26 23:26:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Des rénovations qui tardent
 cover: "/content/images/2005/01/ren_-_angel_-_pine.jpg"
-author: mr-r
+authors:
+  - mr-r
 date: '2006-08-15 18:21:00'
 tags:
 - los-santos

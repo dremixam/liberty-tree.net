@@ -1,7 +1,8 @@
 ---
 layout: article
 title: L'Amérique en deuil
-author: dremixam
+authors:
+  - dremixam
 date: '2008-05-03 13:15:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Une augmentation de 160 % de la criminalité à Los Santos !
 cover: "/content/images/2016/06/0_0%20%281%29_6.jpg"
-author: libertyg100
+authors:
+  - libertyg100
 date: '2013-12-20 23:00:00'
 tags:
 - los-santos

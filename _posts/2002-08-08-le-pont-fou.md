@@ -2,7 +2,8 @@
 layout: article
 title: Le pont fou
 cover: "/content/images/2016/06/pont_001.jpg"
-author: fxbt
+authors:
+  - fxbt
 date: '2002-08-08 22:00:00'
 tags:
 - liberty-city

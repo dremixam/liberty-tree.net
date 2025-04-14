@@ -2,7 +2,8 @@
 layout: article
 title: Massacre dans le quartier Gay de San Fierro
 cover: "/content/images/2005/01/qu01.jpg"
-author: pavlov
+authors:
+  - pavlov
 date: '2006-04-05 00:00:00'
 tags:
 - san-fierro

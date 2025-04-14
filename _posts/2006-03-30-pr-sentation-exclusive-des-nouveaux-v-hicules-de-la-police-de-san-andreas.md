@@ -2,7 +2,8 @@
 layout: article
 title: Présentation exclusive des nouveaux véhicules de la police de San Andreas
 cover: "/content/images/2005/01/cap92.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2006-03-30 00:00:00'
 tags:
 - los-santos

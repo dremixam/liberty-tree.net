@@ -2,7 +2,8 @@
 layout: article
 title: Space Monkey 3D
 cover: "/content/images/2016/06/spacedito.jpg"
-author: diabolik-c
+authors:
+  - diabolik-c
 date: '2006-01-17 23:00:00'
 ---
 

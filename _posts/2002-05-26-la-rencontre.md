@@ -2,7 +2,8 @@
 layout: article
 title: La rencontre
 cover: "/content/images/2016/06/stretch2_0.jpg"
-author: rr4
+authors:
+  - rr4
 date: '2002-05-26 22:00:00'
 tags:
 - liberty-city

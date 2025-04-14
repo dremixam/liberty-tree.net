@@ -2,7 +2,8 @@
 layout: article
 title: Quand une guerre éclate entre deux crews de bikers rivaux...
 cover: "/content/images/2016/06/0_0_132.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2014-01-29 23:00:00'
 tags:
 - los-santos

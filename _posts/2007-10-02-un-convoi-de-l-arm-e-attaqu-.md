@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Un convoi de l'armée attaqué
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-10-02 00:00:00'
 tags:
 - las-venturas

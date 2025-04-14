@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Découverts
-author: dremixam
+authors:
+  - dremixam
 date: '2003-01-16 12:17:00'
 tags:
 - liberty-city

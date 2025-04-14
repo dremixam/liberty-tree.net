@@ -2,7 +2,8 @@
 layout: article
 title: Quand la provocation n'a plus de limites
 cover: "/content/images/2016/06/25_2.jpg"
-author: nevod
+authors:
+  - nevod
 date: '2014-04-17 22:00:00'
 tags:
 - los-santos

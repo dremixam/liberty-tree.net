@@ -2,7 +2,8 @@
 layout: article
 title: La sécurité avant tout !
 cover: "/content/images/2005/01/Police_Officer.jpg"
-author: antholintello
+authors:
+  - antholintello
 date: '2006-09-04 00:00:00'
 tags:
 - los-santos

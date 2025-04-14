@@ -1,7 +1,8 @@
 ---
 layout: article
 title: La nuit des clochards vivants
-author: civic666
+authors:
+  - civic666
 date: '2010-03-12 16:23:00'
 tags:
 - liberty-city

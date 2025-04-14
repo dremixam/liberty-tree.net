@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Braquage d’un fourgon blindé en plein Algonquin.
-author: nelson
+authors:
+  - nelson
 date: '2010-12-13 16:50:00'
 tags:
 - liberty-city

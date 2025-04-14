@@ -2,7 +2,8 @@
 layout: article
 title: Fin du procès ! Belle victoire pour le L-T !
 cover: "/content/images/2005/01/centrevillels.jpg"
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-06-02 00:00:00'
 tags:
 - vice-city

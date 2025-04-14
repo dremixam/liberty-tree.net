@@ -2,7 +2,8 @@
 layout: article
 title: Carambolage mortel à Los Santos
 cover: "/content/images/2005/01/Carambolage_Accident.jpg"
-author: mr-r
+authors:
+  - mr-r
 date: '2006-09-28 00:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Une journée avec un candidat de Star ou Tocard
 cover: "/content/images/2016/06/0_0_139.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2014-01-31 23:00:00'
 tags:
 - los-santos

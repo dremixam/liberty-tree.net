@@ -2,7 +2,8 @@
 layout: article
 title: Incendie au Caligula's Casino
 cover: "/content/images/2016/06/fire.jpg"
-author: jil-90
+authors:
+  - jil-90
 date: '2005-11-12 23:00:00'
 tags:
 - los-santos

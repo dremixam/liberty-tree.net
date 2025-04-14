@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 2007, une année neuve
-author: tenpenny
+authors:
+  - tenpenny
 date: '2007-01-01 20:53:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: 'Le débat sur la vitesse: les dés sont lancés'
 cover: "/content/images/v1/user23/nona01.jpg"
-author: pavlov
+authors:
+  - pavlov
 date: '2002-12-30 23:00:00'
 tags:
 - liberty-city

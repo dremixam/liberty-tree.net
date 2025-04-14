@@ -2,7 +2,8 @@
 layout: article
 title: Ânerie abracadabrante
 cover: "/content/images/v1/user20/tetedemort.jpg"
-author: max-2
+authors:
+  - max-2
 date: '2003-02-27 23:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Des "gens du voyage" ont pour destination la prison
 cover: "/content/images/2016/06/21_9.jpg"
-author: nevod
+authors:
+  - nevod
 date: '2014-04-05 22:00:00'
 tags:
 - los-santos

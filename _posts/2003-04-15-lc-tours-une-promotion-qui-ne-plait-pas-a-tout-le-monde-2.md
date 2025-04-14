@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'LC Tours : une promotion qui ne plait pas à tout le monde'
-author: nelson
+authors:
+  - nelson
 date: '2003-04-15 13:48:00'
 tags:
 - liberty-city

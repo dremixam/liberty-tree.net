@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Comme dans un four
-author: special-k
+authors:
+  - special-k
 date: '2007-09-17 00:00:00'
 tags:
 - los-santos

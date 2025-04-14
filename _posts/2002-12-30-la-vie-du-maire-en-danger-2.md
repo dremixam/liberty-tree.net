@@ -1,7 +1,8 @@
 ---
 layout: article
 title: La vie du maire en danger
-author: dremixam
+authors:
+  - dremixam
 date: '2002-12-30 18:34:00'
 tags:
 - liberty-city

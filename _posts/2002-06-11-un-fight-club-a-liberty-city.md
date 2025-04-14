@@ -2,7 +2,8 @@
 layout: article
 title: Un Fight Club à Liberty City
 cover: "/content/images/2016/06/fightclub2_0.jpg"
-author: generalmike
+authors:
+  - generalmike
 date: '2002-06-11 22:00:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Le Beoing 666 enfin retrouvé
 cover: "/content/images/2016/06/26_3.jpg"
-author: nevod
+authors:
+  - nevod
 date: '2014-04-28 22:00:00'
 tags:
 - los-santos

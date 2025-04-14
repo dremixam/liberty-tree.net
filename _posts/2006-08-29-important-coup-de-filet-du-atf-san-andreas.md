@@ -2,7 +2,8 @@
 layout: article
 title: Important coup de filet du ATF à San Andreas
 cover: "/content/images/2005/01/Agent_du_ATF.jpg"
-author: mr-r
+authors:
+  - mr-r
 date: '2006-08-29 00:00:00'
 tags:
 - san-fierro

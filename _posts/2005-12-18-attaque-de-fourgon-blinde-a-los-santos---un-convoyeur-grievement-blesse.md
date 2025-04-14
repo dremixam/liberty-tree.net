@@ -2,7 +2,8 @@
 layout: article
 title: 'Attaque de fourgon blindé à Los Santos : Un convoyeur grièvement blessé'
 cover: "/content/images/2016/06/fblind_1.jpg"
-author: civic666
+authors:
+  - civic666
 date: '2005-12-18 23:00:00'
 tags:
 - los-santos

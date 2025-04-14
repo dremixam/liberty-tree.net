@@ -2,7 +2,8 @@
 layout: article
 title: Attentat à l'usine Solarin
 cover: "/content/images/2016/06/2img1.jpg"
-author: imhotep43
+authors:
+  - imhotep43
 date: '2005-10-31 23:00:00'
 tags:
 - san-fierro

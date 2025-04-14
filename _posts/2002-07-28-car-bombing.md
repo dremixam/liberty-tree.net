@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Car-Bombing
-author: pierrealex
+authors:
+  - pierrealex
 date: '2002-07-28 22:00:00'
 tags:
 - liberty-city

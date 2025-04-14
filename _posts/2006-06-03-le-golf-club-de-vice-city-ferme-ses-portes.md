@@ -2,7 +2,8 @@
 layout: article
 title: Le Golf Club de Vice City ferme ses portes
 cover: "/content/images/2005/01/leaf_links_1.jpg"
-author: geonosis974
+authors:
+  - geonosis974
 date: '2006-06-03 00:00:00'
 tags:
 - vice-city

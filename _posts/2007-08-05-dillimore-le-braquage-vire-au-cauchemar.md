@@ -2,7 +2,8 @@
 layout: article
 title: 'Dillimore : le braquage vire au cauchemar'
 cover: "/content/images/2005/01/1_000.jpg"
-author: f-rosenberg
+authors:
+  - f-rosenberg
 date: '2007-08-05 00:00:00'
 tags:
 - los-santos

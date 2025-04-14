@@ -2,7 +2,8 @@
 layout: article
 title: Le chaperon
 cover: "/content/images/2016/06/chaperon.jpg"
-author: baz
+authors:
+  - baz
 date: '2002-05-18 22:00:00'
 tags:
 - liberty-city

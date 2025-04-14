@@ -2,7 +2,8 @@
 layout: article
 title: Le car-jacking est aujourd'hui devenu un sport national
 cover: "/content/images/2016/06/car_jack2_3.jpg"
-author: baz
+authors:
+  - baz
 date: '2002-04-29 22:00:00'
 tags:
 - liberty-city

@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Quand les écolos vont au fast-food...
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2007-10-27 21:41:00'
 tags:
 - los-santos

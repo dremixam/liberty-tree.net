@@ -2,7 +2,8 @@
 layout: article
 title: Prospère... Youplaboum...
 cover: "/content/images/2016/06/suances11.jpg"
-author: megamind
+authors:
+  - megamind
 date: '2005-09-25 22:00:00'
 tags:
 - san-fierro

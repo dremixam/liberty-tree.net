@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Monster Truck Show
-author: nelson
+authors:
+  - nelson
 date: '2003-03-23 14:30:00'
 tags:
 - liberty-city

@@ -2,7 +2,8 @@
 layout: article
 title: Et encore un record
 cover: "/content/images/v1/user6/Bato1.jpg"
-author: little-worm
+authors:
+  - little-worm
 date: '2002-08-13 22:00:00'
 tags:
 - liberty-city

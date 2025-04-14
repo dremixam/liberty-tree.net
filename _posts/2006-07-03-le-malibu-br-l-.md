@@ -2,7 +2,8 @@
 layout: article
 title: Le Malibu brûlé
 cover: "/content/images/2005/01/rec_cam_18.jpg"
-author: blackyss
+authors:
+  - blackyss
 date: '2006-07-03 00:00:00'
 tags:
 - vice-city

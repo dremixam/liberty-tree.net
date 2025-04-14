@@ -2,7 +2,8 @@
 layout: article
 title: Un homme d'affaire se suicide dans sa villa
 cover: "/content/images/2005/01/atterven_suicide-marcus.jpg"
-author: gtaboss33
+authors:
+  - gtaboss33
 date: '2006-08-18 18:46:00'
 tags:
 - los-santos

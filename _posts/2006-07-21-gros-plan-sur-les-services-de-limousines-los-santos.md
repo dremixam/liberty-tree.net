@@ -2,7 +2,8 @@
 layout: article
 title: Gros plan sur les services de limousines à Los Santos
 cover: "/content/images/2005/01/Limo_-_article_title.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-07-21 00:00:00'
 tags:
 - los-santos

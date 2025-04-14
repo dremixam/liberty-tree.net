@@ -2,7 +2,8 @@
 layout: article
 title: Élection de miss San Andreas 2014
 cover: "/content/images/2016/06/0_0_39.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2013-12-10 23:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: L'obésité en forte hausse pour 2013
 cover: "/content/images/2016/06/0_0%20%289%29_3.jpg"
-author: sapher
+authors:
+  - sapher
 date: '2014-01-02 23:00:00'
 tags:
 - los-santos

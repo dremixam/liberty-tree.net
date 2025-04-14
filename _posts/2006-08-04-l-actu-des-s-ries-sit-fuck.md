@@ -2,7 +2,8 @@
 layout: article
 title: 'L''actu des séries : Sit/Fuck'
 cover: "/content/images/2005/01/sit_fuck.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-08-04 00:00:00'
 tags:
 - vice-city

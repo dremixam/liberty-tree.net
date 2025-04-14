@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Los Santos, ville internationale des jumeaux
-author: nelson
+authors:
+  - nelson
 date: '2008-01-23 23:19:00'
 tags:
 - los-santos

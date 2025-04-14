@@ -2,7 +2,8 @@
 layout: article
 title: L'industrie navale de Vice City fait son retour
 cover: "/content/images/2005/01/viceport.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-09-19 00:00:00'
 tags:
 - vice-city

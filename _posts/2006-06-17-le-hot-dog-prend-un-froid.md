@@ -2,7 +2,8 @@
 layout: article
 title: Le Hot Dog prend un froid
 cover: "/content/images/2005/01/no_fatt_dogg.jpg"
-author: julio75
+authors:
+  - julio75
 date: '2006-06-17 00:00:00'
 tags:
 - los-santos

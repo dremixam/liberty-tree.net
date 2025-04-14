@@ -2,7 +2,8 @@
 layout: article
 title: Attaque surprise contre la Zone 69
 cover: "/content/images/2005/01/Zone69_title.jpg"
-author: mr-r
+authors:
+  - mr-r
 date: '2006-07-17 00:00:00'
 tags:
 - los-santos

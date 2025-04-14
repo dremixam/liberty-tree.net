@@ -2,7 +2,8 @@
 layout: article
 title: La Guerre des Taxis
 cover: "/content/images/2005/01/SAT3.jpg"
-author: p130
+authors:
+  - p130
 date: '2006-07-19 00:00:00'
 tags:
 - los-santos

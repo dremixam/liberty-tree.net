@@ -1,7 +1,8 @@
 ---
 layout: article
 title: L’homme qui ne supportait pas les vendeurs ambulants
-author: civic666
+authors:
+  - civic666
 date: '2010-02-08 14:55:00'
 tags:
 - los-santos

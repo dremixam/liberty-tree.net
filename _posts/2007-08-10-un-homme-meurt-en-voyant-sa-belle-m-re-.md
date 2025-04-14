@@ -2,7 +2,8 @@
 layout: article
 title: Un homme meurt en voyant sa belle mère !
 cover: "/content/images/2005/01/Hallsainte.jpg"
-author: vercetti
+authors:
+  - vercetti
 date: '2007-08-10 00:00:00'
 tags:
 - los-santos

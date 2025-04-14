@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Vice City, la ville la plus convoitée du moment
-author: nelson
+authors:
+  - nelson
 date: '2003-02-22 12:52:00'
 tags:
 - liberty-city

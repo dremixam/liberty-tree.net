@@ -1,7 +1,8 @@
 ---
 layout: article
 title: 'Nouvelle radio: le guide du liberticien économe'
-author: mot3
+authors:
+  - mot3
 date: '2002-06-12 22:00:00'
 tags:
 - liberty-city

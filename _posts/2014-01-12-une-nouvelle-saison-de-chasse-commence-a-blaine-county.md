@@ -2,7 +2,8 @@
 layout: article
 title: Une nouvelle saison de chasse commence à Blaine County
 cover: "/content/images/2016/06/0_0_100.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2014-01-12 23:00:00'
 tags:
 - los-santos

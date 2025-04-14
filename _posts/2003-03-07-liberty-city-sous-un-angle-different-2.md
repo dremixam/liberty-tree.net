@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Liberty City sous un angle différent
-author: alex
+authors:
+  - alex
 date: '2003-03-07 14:14:00'
 tags:
 - liberty-city

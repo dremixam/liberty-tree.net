@@ -2,7 +2,8 @@
 layout: article
 title: 'Kaufman : l''affaire du détournement d''argent'
 cover: "/content/images/2016/06/kaufman%20cie.jpg"
-author: p130
+authors:
+  - p130
 date: '2005-10-02 22:00:00'
 tags:
 - vice-city

@@ -2,7 +2,8 @@
 layout: article
 title: Love Media en procès
 cover: "/content/images/v1/user10/LoveMedia.jpg"
-author: pierrealex
+authors:
+  - pierrealex
 date: '2002-08-22 22:00:00'
 tags:
 - liberty-city

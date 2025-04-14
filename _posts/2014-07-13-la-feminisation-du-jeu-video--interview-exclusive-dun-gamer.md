@@ -2,7 +2,8 @@
 layout: article
 title: 'La féminisation du jeu vidéo: interview exclusive d''un gamer'
 cover: "/content/images/2016/06/0_0_219.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2014-07-13 22:00:00'
 tags:
 - los-santos

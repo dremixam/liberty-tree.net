@@ -2,7 +2,8 @@
 layout: article
 title: Los Santos, ses banques désertes
 cover: "/content/images/2016/06/0_0_59.jpg"
-author: nelson
+authors:
+  - nelson
 date: '2014-01-04 23:00:00'
 tags:
 - los-santos

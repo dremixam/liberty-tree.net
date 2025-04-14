@@ -2,7 +2,8 @@
 layout: article
 title: Un SDF retrouvé mort sous l'autoroute
 cover: "/content/images/2016/06/0_0_31.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2013-12-03 23:00:00'
 tags:
 - los-santos

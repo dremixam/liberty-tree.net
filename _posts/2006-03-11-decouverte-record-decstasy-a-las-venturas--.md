@@ -2,7 +2,8 @@
 layout: article
 title: Découverte record d'ecstasy à Las Venturas !
 cover: "/content/images/2016/06/avion_dans_hopital.jpg"
-author: dami
+authors:
+  - dami
 date: '2006-03-11 23:00:00'
 tags:
 - las-venturas

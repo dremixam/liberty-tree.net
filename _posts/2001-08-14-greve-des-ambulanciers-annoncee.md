@@ -2,7 +2,8 @@
 layout: article
 title: Grève des ambulanciers annoncée
 cover: "/content/images/2016/06/paramedics2.jpg"
-author: rr4
+authors:
+  - rr4
 date: '2001-08-14 22:00:00'
 tags:
 - liberty-city

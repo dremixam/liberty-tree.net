@@ -2,7 +2,8 @@
 layout: article
 title: Accidents en série à Del Perro Pier
 cover: "/content/images/2016/06/DelPerro3.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-02-06 23:00:00'
 tags:
 - los-santos

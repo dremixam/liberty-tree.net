@@ -2,7 +2,8 @@
 layout: article
 title: Un homme invincible détruit tout sur son passage
 cover: "/content/images/2016/06/5_1.jpg"
-author: nevod
+authors:
+  - nevod
 date: '2014-01-03 23:00:00'
 tags:
 - los-santos

@@ -2,7 +2,8 @@
 layout: article
 title: Un journaliste retrouvé horriblement mutilé
 cover: "/content/images/2016/06/Journaliste.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2014-03-01 23:00:00'
 tags:
 - los-santos

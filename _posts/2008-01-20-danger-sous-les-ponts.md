@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Danger sous les ponts
-author: special-k
+authors:
+  - special-k
 date: '2008-01-20 23:16:00'
 tags:
 - los-santos

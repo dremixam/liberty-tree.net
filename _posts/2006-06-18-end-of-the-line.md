@@ -2,7 +2,8 @@
 layout: article
 title: End of the line
 cover: "/content/images/2005/01/23.jpg"
-author: logan
+authors:
+  - logan
 date: '2006-06-18 00:00:00'
 tags:
 - los-santos

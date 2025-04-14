@@ -2,7 +2,8 @@
 layout: article
 title: Un forcené détourne un bus et brûle une voiture de police pour fêter l'indépendance
 cover: "/content/images/2016/06/0_0_208.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2014-07-08 22:00:00'
 tags:
 - los-santos

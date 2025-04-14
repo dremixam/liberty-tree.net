@@ -2,7 +2,8 @@
 layout: article
 title: 3 entreprises sauvées de la déroute
 cover: "/content/images/2005/01/centrevillelc.jpg"
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-06-08 00:00:00'
 tags:
 - liberty-city

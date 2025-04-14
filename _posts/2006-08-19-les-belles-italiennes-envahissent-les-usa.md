@@ -2,7 +2,8 @@
 layout: article
 title: Les belles italiennes envahissent les USA
 cover: "/content/images/2005/01/Italiennes_328-F40.jpg"
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2006-08-19 00:00:00'
 tags:
 - vice-city

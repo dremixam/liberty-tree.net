@@ -2,7 +2,8 @@
 layout: article
 title: Les producteurs de vin pétillant espèrent beaucoup de Noël
 cover: "/content/images/2016/06/0_0_50.jpg"
-author: ezoah
+authors:
+  - ezoah
 date: '2013-12-16 23:00:00'
 tags:
 - los-santos

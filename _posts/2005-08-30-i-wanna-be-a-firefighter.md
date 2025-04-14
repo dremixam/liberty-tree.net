@@ -2,7 +2,8 @@
 layout: article
 title: I wanna be a firefighter
 cover: "/content/images/2016/06/Pinpon01.jpg"
-author: little-worm
+authors:
+  - little-worm
 date: '2005-08-30 22:00:00'
 tags:
 - san-fierro

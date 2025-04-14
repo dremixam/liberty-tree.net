@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Le niveau scolaire descend à l’Université de Las Venturas
-author: passe-partout
+authors:
+  - passe-partout
 date: '2007-11-12 22:42:00'
 tags:
 - las-venturas

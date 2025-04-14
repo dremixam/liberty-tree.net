@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Sortie de "The Tunnel" dans les salles
-author: will
+authors:
+  - will
 date: '2003-02-27 13:08:00'
 tags:
 - liberty-city

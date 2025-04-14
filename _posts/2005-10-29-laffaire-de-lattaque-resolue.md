@@ -2,7 +2,8 @@
 layout: article
 title: L'affaire de l'attaque résolue
 cover: "/content/images/2016/06/camion.jpg"
-author: logan
+authors:
+  - logan
 date: '2005-10-29 22:00:00'
 tags:
 - vice-city

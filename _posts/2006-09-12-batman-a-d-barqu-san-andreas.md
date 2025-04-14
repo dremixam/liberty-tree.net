@@ -2,7 +2,10 @@
 layout: article
 title: Batman a débarqué à San Andreas
 cover: "/content/images/2005/01/batmane.jpg"
-author: little-worm
+authors:
+  - little-worm
+  - Hyspolite
+  - Aloys Neverood
 date: '2006-09-12 00:00:00'
 tags:
 - los-santos
@@ -69,5 +72,3 @@ Suite à sa condamnation, nous sommes allés retrouver Spider-Man dans sa nouvel
 ![](/content/images/2005/01/spaydeur_mac.jpg)
 
 > Il y a trois ans, j'ai décidé de m'installer à Liberty City, une ville pleine d'opportunité, grouillante de criminels, des proies faciles pour un super-mec dans mon genre. Mais après quelques mois de bons et loyaux services, je m'suis rendu compte que personne ne m'aimait vraiment en ville. Les civils avaient peur de moi, je faisais tort aux multiples organisations criminelles, pour les flics j'étais un parasite qui soulignait leur totale incompétence. Très vite je me suis retrouvé avec la famille Leone et le LCPD sur le dos. Les uns voulaient couper mes parties intimes, les autres projetaient de me coffrer pour détournement de mineures. J'ai donc décidé de me ranger et d'offrir mes services à la mafia. On m'a tout de suite proposé un travail honnête et bien rémunéré. Je dois avouer que je m'en suis assez bien sorti. Batman ? C'est un con, il a rien compris, toujours à vouloir emmerder le monde en voulant le sauver. Il n'a que ce qu'il mérite. Comme le disait mon père adoptif : un grand pouvoir implique de grandes occasions de faire du fric.
-
-_Avec la participation d'Hyspolite & Aloys Neverood._

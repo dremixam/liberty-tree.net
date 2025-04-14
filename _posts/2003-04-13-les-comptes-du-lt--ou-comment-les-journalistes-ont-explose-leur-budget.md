@@ -2,7 +2,8 @@
 layout: article
 title: Les comptes du LT, ou comment les journalistes ont explosé leur budget
 cover: "/content/images/2016/06/swit.jpg"
-author: pavlov
+authors:
+  - pavlov
 date: '2003-04-13 22:00:00'
 tags:
 - liberty-city

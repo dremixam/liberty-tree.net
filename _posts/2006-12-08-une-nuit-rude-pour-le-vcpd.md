@@ -2,7 +2,8 @@
 layout: article
 title: Une nuit rude pour le VCPD
 cover: "/content/images/2005/01/nuit-rude.jpg"
-author: tenpenny
+authors:
+  - tenpenny
 date: '2006-12-08 00:00:00'
 tags:
 - vice-city

@@ -2,7 +2,8 @@
 layout: article
 title: The Strip fête l'arrivée de 2007
 cover: "/content/images/2005/01/NYE_Happy_New_Year.jpg"
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2007-01-23 00:00:00'
 tags:
 - las-venturas

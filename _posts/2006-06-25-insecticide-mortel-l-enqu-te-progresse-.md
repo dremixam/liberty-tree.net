@@ -2,7 +2,8 @@
 layout: article
 title: 'Insecticide mortel: l''enquête progresse!'
 cover: "/content/images/2005/01/Insect_suite_biohazard.jpg"
-author: mr-r
+authors:
+  - mr-r
 date: '2006-06-25 00:00:00'
 tags:
 - los-santos

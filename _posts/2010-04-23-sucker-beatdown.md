@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Sucker beatdown
-author: nelson
+authors:
+  - nelson
 date: '2010-04-23 15:48:00'
 tags:
 - liberty-city

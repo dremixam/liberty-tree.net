@@ -2,7 +2,8 @@
 layout: article
 title: Importante hausse du prix de l'essence
 cover: "/content/images/2005/01/Essence_title.jpg"
-author: special-k
+authors:
+  - special-k
 date: '2006-06-23 00:00:00'
 tags:
 - los-santos

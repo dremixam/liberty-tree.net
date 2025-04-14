@@ -2,7 +2,8 @@
 layout: article
 title: 'Courses Infernales : Los Santos'
 cover: "/content/images/2005/01/parking_mulholland.jpg"
-author: julio75
+authors:
+  - julio75
 date: '2006-06-26 17:55:00'
 tags:
 - los-santos

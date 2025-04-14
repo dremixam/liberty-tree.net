@@ -2,7 +2,8 @@
 layout: article
 title: Course de rue à Rockford Hills
 cover: "/content/images/2016/06/course%20de%20rue%201.jpg"
-author: sapher
+authors:
+  - sapher
 date: '2013-12-18 23:00:00'
 tags:
 - los-santos

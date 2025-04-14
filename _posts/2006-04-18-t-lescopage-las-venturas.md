@@ -2,7 +2,8 @@
 layout: article
 title: Télescopage à Las Venturas
 cover: "/content/images/2005/01/Tour_de_Contr_le.jpg"
-author: scarface1991
+authors:
+  - scarface1991
 date: '2006-04-18 00:00:00'
 tags:
 - las-venturas

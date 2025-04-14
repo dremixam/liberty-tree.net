@@ -2,7 +2,8 @@
 layout: article
 title: Mauvaise réputation pour les campagnards de San Andreas
 cover: "/content/images/2005/01/Locaux_Local__s_Montgomerry_1.jpg"
-author: fido_le_muet
+authors:
+  - fido_le_muet
 date: '2006-10-09 00:00:00'
 tags:
 - los-santos

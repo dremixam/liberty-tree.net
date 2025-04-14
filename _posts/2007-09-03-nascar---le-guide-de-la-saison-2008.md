@@ -2,7 +2,8 @@
 layout: article
 title: NASCAR - Le guide de la saison 2008
 cover: "/content/images/2016/06/Nascar6.jpg"
-author: dydou
+authors:
+  - dydou
 date: '2007-09-03 22:00:00'
 tags:
 - los-santos
