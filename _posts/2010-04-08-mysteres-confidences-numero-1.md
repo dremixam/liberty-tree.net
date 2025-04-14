@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2007/06/mysteres-confidences.png
 date: '2010-04-08 15:41:00'
 layout: article
 tags:

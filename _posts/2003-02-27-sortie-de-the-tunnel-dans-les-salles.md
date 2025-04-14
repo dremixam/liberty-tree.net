@@ -1,6 +1,7 @@
 ---
 authors:
 - will
+cover: /content/images/2016/07/ss3_t-jpg.JPG
 date: '2003-02-27 13:08:00'
 layout: article
 tags:

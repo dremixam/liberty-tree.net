@@ -1,6 +1,7 @@
 ---
 authors:
 - baz
+cover: /content/images/v1/user1/rr41.jpg
 date: '2002-09-22 00:00:00'
 layout: article
 redirect_from:

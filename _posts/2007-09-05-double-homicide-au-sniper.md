@@ -1,6 +1,7 @@
 ---
 authors:
 - passe-partout
+cover: /content/images/2005/01/meutreCF1.jpg
 date: '2007-09-05 00:00:00'
 layout: article
 tags:

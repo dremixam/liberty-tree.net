@@ -1,6 +1,7 @@
 ---
 authors:
 - civic666
+cover: /content/images/2005/01/donut.jpg
 date: '2010-02-05 14:37:00'
 layout: article
 tags:

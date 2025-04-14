@@ -1,6 +1,7 @@
 ---
 authors:
 - passe-partout
+cover: /content/images/2007/06/bouchon.jpg
 date: '2010-02-12 15:38:00'
 layout: article
 tags:

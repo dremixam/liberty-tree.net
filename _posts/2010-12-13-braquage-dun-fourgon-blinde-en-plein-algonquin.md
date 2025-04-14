@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2007/06/article0017.jpg
 date: '2010-12-13 16:50:00'
 layout: article
 tags:

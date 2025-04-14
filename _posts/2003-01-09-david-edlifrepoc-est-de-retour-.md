@@ -1,6 +1,7 @@
 ---
 authors:
 - titof-abs
+cover: /content/images/v1/user24/Magie_1.jpg
 date: '2003-01-09 00:00:00'
 layout: article
 redirect_from:

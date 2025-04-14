@@ -1,6 +1,7 @@
 ---
 authors:
 - flo
+cover: /content/images/v1/user25/luigi.jpg
 date: '2002-12-28 00:00:00'
 layout: article
 redirect_from:

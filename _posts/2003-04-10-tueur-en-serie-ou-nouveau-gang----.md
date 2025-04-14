@@ -1,6 +1,7 @@
 ---
 authors:
 - pastrana
+cover: /content/images/v1/user30/yakusa2.jpg
 date: '2003-04-10 00:00:00'
 layout: article
 redirect_from:

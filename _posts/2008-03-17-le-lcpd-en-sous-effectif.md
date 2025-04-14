@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2005/01/lcsfinest.jpg
 date: '2008-03-17 13:31:00'
 layout: article
 tags:

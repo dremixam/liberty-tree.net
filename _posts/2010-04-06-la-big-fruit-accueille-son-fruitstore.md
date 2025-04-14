@@ -1,6 +1,7 @@
 ---
 authors:
 - civic666
+cover: /content/images/2007/06/PeerLogo.png
 date: '2010-04-06 15:33:00'
 layout: article
 tags:

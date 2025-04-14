@@ -1,6 +1,7 @@
 ---
 authors:
 - pavlov
+cover: /content/images/v1/user23/tabstat.jpg
 date: '2002-12-06 00:00:00'
 layout: article
 redirect_from:

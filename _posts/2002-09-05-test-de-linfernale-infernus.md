@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/Infernus.jpg
 date: '2002-09-05 12:19:00'
 layout: article
 tags:

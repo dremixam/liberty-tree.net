@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/Moonbeam5.jpg
 date: '2002-08-28 12:12:00'
 layout: article
 tags:

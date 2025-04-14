@@ -1,6 +1,7 @@
 ---
 authors:
 - tenpenny
+cover: /content/images/2005/01/sans-abris.jpg
 date: '2007-01-03 21:01:00'
 layout: article
 tags:

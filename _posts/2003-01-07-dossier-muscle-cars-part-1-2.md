@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/titeul.jpg
 date: '2003-01-07 11:56:00'
 layout: article
 tags:

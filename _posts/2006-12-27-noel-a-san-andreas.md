@@ -1,6 +1,7 @@
 ---
 authors:
 - heinrich
+cover: /content/images/2005/01/John.jpg
 date: '2006-12-27 20:45:00'
 layout: article
 tags:

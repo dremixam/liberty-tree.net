@@ -1,6 +1,7 @@
 ---
 authors:
 - fxbt
+cover: /content/images/v1/user21/portland_b_1.jpg
 date: '2002-11-15 00:00:00'
 layout: article
 redirect_from:

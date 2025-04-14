@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/Challenger-1.jpg
 date: '2003-03-20 14:19:00'
 layout: article
 tags:

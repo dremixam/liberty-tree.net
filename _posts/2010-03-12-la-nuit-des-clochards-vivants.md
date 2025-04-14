@@ -1,6 +1,7 @@
 ---
 authors:
 - civic666
+cover: /content/images/2007/06/GTAIV-2010-03-06-08-51-46-64.jpg
 date: '2010-03-12 16:23:00'
 layout: article
 tags:

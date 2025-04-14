@@ -1,6 +1,7 @@
 ---
 authors:
 - max-2
+cover: /content/images/2016/07/bellyup1.jpg
 date: '2002-08-13 11:59:00'
 layout: article
 tags:

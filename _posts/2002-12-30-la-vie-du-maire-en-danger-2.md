@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2016/07/meurtre.jpg
 date: '2002-12-30 18:34:00'
 layout: article
 tags:

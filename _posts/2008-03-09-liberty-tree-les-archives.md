@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2005/01/666lowerstaunton.jpg
 date: '2008-03-09 13:29:00'
 layout: article
 tags:

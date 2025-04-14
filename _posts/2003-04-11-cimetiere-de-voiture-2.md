@@ -1,6 +1,7 @@
 ---
 authors:
 - alex
+cover: /content/images/2016/07/c2.jpg
 date: '2003-04-11 13:44:00'
 layout: article
 tags:

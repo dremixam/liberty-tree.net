@@ -1,6 +1,7 @@
 ---
 authors:
 - pavlov
+cover: /content/images/v1/user23/esc01.jpg.jpg
 date: '2002-09-21 00:00:00'
 layout: article
 redirect_from:

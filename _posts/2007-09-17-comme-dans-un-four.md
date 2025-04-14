@@ -1,6 +1,7 @@
 ---
 authors:
 - special-k
+cover: /content/images/2005/01/Heatwave_-_wforecast.jpg
 date: '2007-09-17 00:00:00'
 layout: article
 tags:

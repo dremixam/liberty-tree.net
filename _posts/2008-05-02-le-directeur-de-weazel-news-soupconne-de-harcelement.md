@@ -1,6 +1,7 @@
 ---
 authors:
 - passe-partout
+cover: /content/images/2005/01/manhatanlc.jpg/
 date: '2008-05-02 13:03:00'
 layout: article
 tags:

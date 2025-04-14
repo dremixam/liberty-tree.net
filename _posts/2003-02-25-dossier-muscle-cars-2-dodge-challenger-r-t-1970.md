@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/Challprev.jpg
 date: '2003-02-25 13:04:00'
 layout: article
 tags:

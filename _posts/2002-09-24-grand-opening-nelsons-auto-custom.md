@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/nelsons.jpg
 date: '2002-09-24 14:22:00'
 layout: article
 tags:

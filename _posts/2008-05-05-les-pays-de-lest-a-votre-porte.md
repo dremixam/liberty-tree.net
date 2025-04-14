@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2005/01/perestroika2.jpg/
 date: '2008-05-05 13:22:00'
 layout: article
 tags:

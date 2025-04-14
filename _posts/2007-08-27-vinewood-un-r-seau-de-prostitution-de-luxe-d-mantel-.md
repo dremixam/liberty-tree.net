@@ -1,6 +1,7 @@
 ---
 authors:
 - f-rosenberg
+cover: /content/images/2005/01/0_9993.jpg
 date: '2007-08-27 00:00:00'
 layout: article
 tags:

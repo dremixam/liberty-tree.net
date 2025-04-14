@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/Camaro.jpg
 date: '2003-03-06 13:51:00'
 layout: article
 tags:

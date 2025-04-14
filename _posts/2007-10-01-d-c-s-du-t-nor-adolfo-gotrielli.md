@@ -1,6 +1,7 @@
 ---
 authors:
 - civic666
+cover: /content/images/2005/01/got1.jpg
 date: '2007-10-01 00:00:00'
 layout: article
 tags:

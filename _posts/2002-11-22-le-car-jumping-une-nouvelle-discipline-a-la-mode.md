@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/Jump.jpg
 date: '2002-11-22 17:01:00'
 layout: article
 tags:

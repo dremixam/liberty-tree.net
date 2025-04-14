@@ -1,6 +1,7 @@
 ---
 authors:
 - f-rosenberg
+cover: /content/images/2016/07/John_S.jpg
 date: '2007-07-07 20:18:00'
 layout: article
 tags:

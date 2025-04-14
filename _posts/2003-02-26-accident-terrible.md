@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2016/07/accident.jpg
 date: '2003-02-26 13:06:00'
 layout: article
 tags:

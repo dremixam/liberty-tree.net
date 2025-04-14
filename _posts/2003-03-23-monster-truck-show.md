@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/MonsterPrev.jpg
 date: '2003-03-23 14:30:00'
 layout: article
 tags:

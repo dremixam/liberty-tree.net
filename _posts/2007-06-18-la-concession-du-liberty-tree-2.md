@@ -1,6 +1,7 @@
 ---
 authors:
 - passe-partout
+cover: /content/images/2016/07/bmm3lt.jpg
 date: '2007-06-18 20:14:00'
 layout: article
 tags:

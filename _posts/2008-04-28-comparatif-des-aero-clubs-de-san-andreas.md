@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2005/01/verdantmeadows.jpg/
 date: '2008-04-28 12:48:00'
 layout: article
 tags:

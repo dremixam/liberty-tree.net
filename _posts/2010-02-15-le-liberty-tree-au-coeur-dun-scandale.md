@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2007/06/Daily-globe1.png
 date: '2010-02-15 15:46:00'
 layout: article
 tags:

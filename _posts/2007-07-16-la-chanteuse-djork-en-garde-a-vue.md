@@ -1,6 +1,7 @@
 ---
 authors:
 - f-rosenberg
+cover: /content/images/2016/07/LV_night_6.jpg
 date: '2007-07-16 20:26:00'
 layout: article
 tags:

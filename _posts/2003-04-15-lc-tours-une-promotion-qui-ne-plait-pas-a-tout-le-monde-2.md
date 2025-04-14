@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/plane.JPG
 date: '2003-04-15 13:48:00'
 layout: article
 tags:

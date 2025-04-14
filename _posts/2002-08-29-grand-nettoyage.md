@@ -1,6 +1,7 @@
 ---
 authors:
 - baz
+cover: /content/images/v1/user1/farelli1.jpg
 date: '2002-08-29 00:00:00'
 layout: article
 redirect_from:

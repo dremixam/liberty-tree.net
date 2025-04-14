@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/smallmap.jpg
 date: '2003-02-22 12:52:00'
 layout: article
 tags:

@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2005/01/LCPDPOLICE2.jpg
 date: '2008-05-06 13:25:00'
 layout: article
 tags:

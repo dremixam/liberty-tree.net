@@ -1,6 +1,7 @@
 ---
 authors:
 - max-2
+cover: /content/images/v1/user20/bankofliberty.jpg
 date: '2002-10-05 00:00:00'
 layout: article
 redirect_from:

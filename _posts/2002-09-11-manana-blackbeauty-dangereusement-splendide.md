@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/mananajpg.jpg
 date: '2002-09-11 13:00:00'
 layout: article
 tags:

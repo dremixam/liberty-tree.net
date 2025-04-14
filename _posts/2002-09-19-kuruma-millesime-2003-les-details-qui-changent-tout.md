@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/Kuruma2k3c.jpg
 date: '2002-09-19 13:08:00'
 layout: article
 tags:

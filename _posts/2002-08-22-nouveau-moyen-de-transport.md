@@ -1,6 +1,7 @@
 ---
 authors:
 - little-worm
+cover: /content/images/v1/user6/RCbandit1.jpg
 date: '2002-08-22 00:00:00'
 layout: article
 redirect_from:

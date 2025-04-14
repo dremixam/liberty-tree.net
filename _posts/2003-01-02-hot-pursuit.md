@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/Pursuit.jpg
 date: '2003-01-02 11:47:00'
 layout: article
 tags:

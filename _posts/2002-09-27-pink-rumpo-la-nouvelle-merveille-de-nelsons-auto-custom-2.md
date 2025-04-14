@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/PinkRumpo.jpg
 date: '2002-09-27 14:26:00'
 layout: article
 tags:

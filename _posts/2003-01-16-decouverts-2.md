@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2016/07/chopes1.jpg
 date: '2003-01-16 12:17:00'
 layout: article
 tags:

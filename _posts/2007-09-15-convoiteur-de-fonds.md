@@ -1,6 +1,7 @@
 ---
 authors:
 - passe-partout
+cover: /content/images/2005/01/convoiteur2.jpg
 date: '2007-09-15 00:00:00'
 layout: article
 tags:

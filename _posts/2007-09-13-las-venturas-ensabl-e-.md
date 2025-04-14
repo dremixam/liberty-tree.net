@@ -1,6 +1,7 @@
 ---
 authors:
 - vercetti
+cover: /content/images/2005/01/LV.jpg
 date: '2007-09-13 00:00:00'
 layout: article
 tags:

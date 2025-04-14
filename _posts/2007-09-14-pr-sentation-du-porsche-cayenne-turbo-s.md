@@ -1,6 +1,7 @@
 ---
 authors:
 - lil-kenny-wkb
+cover: /content/images/2005/01/Cayenne_1.jpg
 date: '2007-09-14 00:00:00'
 layout: article
 tags:

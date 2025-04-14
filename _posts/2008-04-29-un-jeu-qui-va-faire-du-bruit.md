@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2005/01/BCT.jpg
 date: '2008-04-29 12:52:00'
 layout: article
 tags:

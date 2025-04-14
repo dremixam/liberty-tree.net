@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/kart.jpg
 date: '2003-03-18 14:16:00'
 layout: article
 tags:

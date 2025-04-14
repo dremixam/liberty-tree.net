@@ -1,6 +1,7 @@
 ---
 authors:
 - pavlov
+cover: /content/images/v1/user23/burger1.jpg
 date: '2002-09-08 00:00:00'
 layout: article
 redirect_from:

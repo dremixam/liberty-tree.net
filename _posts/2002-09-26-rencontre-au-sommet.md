@@ -1,6 +1,7 @@
 ---
 authors:
 - fxbt
+cover: /content/images/v1/user21/rencontre_01.jpg
 date: '2002-09-26 00:00:00'
 layout: article
 redirect_from:

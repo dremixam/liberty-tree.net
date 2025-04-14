@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/killing6.jpg
 date: '2002-12-26 18:25:00'
 layout: article
 tags:

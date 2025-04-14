@@ -1,6 +1,7 @@
 ---
 authors:
 - titof-abs
+cover: /content/images/v1/user24/AgressionPolice.jpg
 date: '2002-12-15 00:00:00'
 layout: article
 redirect_from:

@@ -1,6 +1,7 @@
 ---
 authors:
 - max-2
+cover: /content/images/v1/user20/abattement.jpg
 date: '2003-04-02 00:00:00'
 layout: article
 redirect_from:

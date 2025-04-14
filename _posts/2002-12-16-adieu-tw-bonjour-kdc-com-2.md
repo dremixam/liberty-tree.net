@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/kdc.jpg
 date: '2002-12-16 17:39:00'
 layout: article
 tags:

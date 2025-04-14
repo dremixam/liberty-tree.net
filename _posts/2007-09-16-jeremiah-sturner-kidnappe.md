@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2005/01/sturnerok.jpg
 date: '2007-09-16 00:00:00'
 layout: article
 redirect_from:

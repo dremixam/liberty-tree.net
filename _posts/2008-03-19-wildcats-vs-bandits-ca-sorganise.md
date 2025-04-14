@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2005/01/bandits_2.jpg
 date: '2008-03-19 13:35:00'
 layout: article
 tags:

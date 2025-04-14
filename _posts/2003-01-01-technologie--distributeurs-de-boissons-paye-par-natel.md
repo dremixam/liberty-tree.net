@@ -1,6 +1,7 @@
 ---
 authors:
 - max-2
+cover: /content/images/v1/user20/distributeur.jpg
 date: '2003-01-01 00:00:00'
 layout: article
 redirect_from:

@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/Fach.jpg
 date: '2003-04-01 13:35:00'
 layout: article
 tags:

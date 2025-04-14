@@ -1,6 +1,7 @@
 ---
 authors:
 - fido_le_muet
+cover: /content/images/2005/01/Flat_Iron_01.jpg
 date: '2006-02-06 18:09:00'
 layout: article
 tags:

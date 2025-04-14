@@ -1,6 +1,7 @@
 ---
 authors:
 - passe-partout
+cover: /content/images/2016/07/Fordmustang123.jpg
 date: '2007-04-27 20:09:00'
 layout: article
 tags:

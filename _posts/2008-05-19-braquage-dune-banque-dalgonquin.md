@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2005/01/BANQUECAM3.jpg
 date: '2008-05-19 13:29:00'
 layout: article
 tags:

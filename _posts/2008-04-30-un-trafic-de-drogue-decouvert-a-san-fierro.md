@@ -1,6 +1,7 @@
 ---
 authors:
 - passe-partout
+cover: /content/images/2005/01/bateaudrogue.jpg/
 date: '2008-04-30 12:58:00'
 layout: article
 tags:

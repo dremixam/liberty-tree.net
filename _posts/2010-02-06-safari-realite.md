@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2007/06/La-Ferme-Rapporte-du-Fric1.png
 date: '2010-02-06 14:41:00'
 layout: article
 tags:

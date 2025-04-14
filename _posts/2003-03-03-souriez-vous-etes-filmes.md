@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/cam.jpg
 date: '2003-03-03 13:40:00'
 layout: article
 tags:

@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2007/06/bigballs8011.jpg
 date: '2010-02-07 14:46:00'
 layout: article
 tags:

@@ -1,6 +1,7 @@
 ---
 authors:
 - rr4
+cover: /content/images/v1/user0/reglement0.jpg
 date: '2002-11-12 00:00:00'
 layout: article
 redirect_from:

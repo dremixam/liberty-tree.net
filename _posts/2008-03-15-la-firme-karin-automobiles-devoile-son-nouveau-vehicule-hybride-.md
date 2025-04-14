@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: http://www.liberty-tree.net/screens/screenshots/karin2.jpg
 date: '2008-03-15 00:00:00'
 layout: article
 redirect_from:

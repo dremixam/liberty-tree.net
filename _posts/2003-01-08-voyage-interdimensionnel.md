@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2016/07/otredim1.jpg
 date: '2003-01-08 12:03:00'
 layout: article
 tags:

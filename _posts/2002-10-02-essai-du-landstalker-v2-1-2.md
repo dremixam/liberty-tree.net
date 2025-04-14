@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/PreviewLand.jpg
 date: '2002-10-02 14:50:00'
 layout: article
 tags:

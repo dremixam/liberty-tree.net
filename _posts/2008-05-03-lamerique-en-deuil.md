@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2005/01/orangegrovefamilies.jpg/
 date: '2008-05-03 13:15:00'
 layout: article
 tags:

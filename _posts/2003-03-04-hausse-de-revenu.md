@@ -1,6 +1,7 @@
 ---
 authors:
 - jack
+cover: /content/images/2016/07/rafaels-1.jpg
 date: '2003-03-04 13:43:00'
 layout: article
 tags:

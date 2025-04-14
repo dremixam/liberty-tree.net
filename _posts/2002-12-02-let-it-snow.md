@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/fsscr199.jpg
 date: '2002-12-02 17:15:00'
 layout: article
 tags:

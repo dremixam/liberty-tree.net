@@ -1,6 +1,7 @@
 ---
 authors:
 - max-2
+cover: http://www.ifrance.com/testsiteessai/avantmort.jpg
 date: '2002-09-11 00:00:00'
 layout: article
 redirect_from:

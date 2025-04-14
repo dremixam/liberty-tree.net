@@ -1,6 +1,7 @@
 ---
 authors:
 - canar
+cover: /content/images/2016/07/accident-recherche.jpg
 date: '2006-07-13 18:03:00'
 layout: article
 tags:

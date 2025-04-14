@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2016/07/clodo.JPG
 date: '2003-01-03 11:52:00'
 layout: article
 tags:

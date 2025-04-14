@@ -1,6 +1,7 @@
 ---
 authors:
 - civic666
+cover: /content/images/2007/06/camera-1.jpg
 date: '2010-02-08 14:55:00'
 layout: article
 tags:

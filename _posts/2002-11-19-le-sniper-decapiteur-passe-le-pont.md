@@ -1,6 +1,7 @@
 ---
 authors:
 - fxbt
+cover: /content/images/2016/06/staunton_a_6.jpg
 date: '2002-11-19 00:00:00'
 layout: article
 redirect_from:

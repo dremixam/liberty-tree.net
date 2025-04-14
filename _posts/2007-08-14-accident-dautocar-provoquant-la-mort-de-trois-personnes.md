@@ -1,6 +1,7 @@
 ---
 authors:
 - gtaboss33
+cover: /content/images/2016/07/accident_bus-04.jpg
 date: '2007-08-14 20:45:00'
 layout: article
 tags:

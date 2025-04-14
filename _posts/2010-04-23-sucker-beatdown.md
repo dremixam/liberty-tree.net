@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2007/06/EFLC-2010-04-22-18-23-21-35-Medium.jpg
 date: '2010-04-23 15:48:00'
 layout: article
 tags:

@@ -1,6 +1,7 @@
 ---
 authors:
 - tenpenny
+cover: /content/images/2005/01/Star1.jpg
 date: '2006-12-29 20:48:00'
 layout: article
 tags:

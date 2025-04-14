@@ -1,6 +1,7 @@
 ---
 authors:
 - titof-abs
+cover: /content/images/v1/user24/Asport_1.jpg
 date: '2002-12-27 00:00:00'
 layout: article
 redirect_from:

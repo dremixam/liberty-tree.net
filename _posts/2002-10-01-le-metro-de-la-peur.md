@@ -1,6 +1,7 @@
 ---
 authors:
 - little-worm
+cover: /content/images/2016/06/metro1_0.jpg
 date: '2002-10-01 00:00:00'
 layout: article
 redirect_from:

@@ -1,6 +1,7 @@
 ---
 authors:
 - little-worm
+cover: /content/images/v1/user6/flicneuneu.jpg
 date: '2002-09-09 00:00:00'
 layout: article
 redirect_from:

@@ -1,6 +1,7 @@
 ---
 authors:
 - passe-partout
+cover: /content/images/2005/01/convoi1.jpg
 date: '2007-10-02 00:00:00'
 layout: article
 tags:

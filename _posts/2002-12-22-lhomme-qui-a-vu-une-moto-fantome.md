@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2016/07/taxifantome1.jpg
 date: '2002-12-22 18:20:00'
 layout: article
 tags:

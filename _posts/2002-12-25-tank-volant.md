@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2016/07/FBI1.JPG
 date: '2002-12-25 18:22:00'
 layout: article
 tags:

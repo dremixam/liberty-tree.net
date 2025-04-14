@@ -1,6 +1,7 @@
 ---
 authors:
 - tenpenny
+cover: /content/images/2005/01/lt_christmas.jpg
 date: '2007-01-01 20:53:00'
 layout: article
 tags:

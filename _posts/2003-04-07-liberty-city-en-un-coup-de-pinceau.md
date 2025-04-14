@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/photo1exp.jpg
 date: '2003-04-07 13:39:00'
 layout: article
 tags:

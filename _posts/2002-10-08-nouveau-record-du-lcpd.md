@@ -1,6 +1,7 @@
 ---
 authors:
 - fxbt
+cover: /content/images/v1/user21/record_01.jpg
 date: '2002-10-08 00:00:00'
 layout: article
 redirect_from:

@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2005/01/raindance.jpg
 date: '2008-05-04 13:18:00'
 layout: article
 tags:

@@ -1,6 +1,7 @@
 ---
 authors:
 - nelson
+cover: /content/images/2016/07/Stallion6.jpg
 date: '2002-08-23 12:02:00'
 layout: article
 tags:

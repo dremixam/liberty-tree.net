@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2005/01/Shamal.jpg
 date: '2008-04-21 12:44:00'
 layout: article
 tags:

@@ -1,6 +1,7 @@
 ---
 authors:
 - dremixam
+cover: /content/images/2007/06/Vend-Des-Tas.jpg
 date: '2010-02-11 15:28:00'
 layout: article
 tags:

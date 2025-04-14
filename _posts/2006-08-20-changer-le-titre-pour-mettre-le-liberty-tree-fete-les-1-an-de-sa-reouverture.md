@@ -1,6 +1,7 @@
 ---
 authors:
 - tenpenny
+cover: /content/images/2005/01/immeuble1.jpg
 date: '2006-08-20 18:49:00'
 layout: article
 tags:
