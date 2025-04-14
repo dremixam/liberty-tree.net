@@ -27,7 +27,7 @@ Il suffit de marcher quelques minutes dans la rue pour se rendre compte que les 
 ![](/content/images/2021/12/bus-stop.jpeg)
 _Hove Beach, une petite Russie ?_
 
-Le président soviétique russe, Vladimir Poutine, a bien compris cet état de fait et a donc profité de l'occasion pour annoncer la tenue prochaine à Hove Beach d'un référendum afin de savoir si les habitants sont favorables à un rattachement à la Russie. Le référendum, pour des raisons de sécurité, se déroulera sous contrôle de l'armée russe qui a déja stationné ses navires au large de Liberty City.
+Le président ~~soviétique~~ russe, Vladimir Poutine, a bien compris cet état de fait et a donc profité de l'occasion pour annoncer la tenue prochaine à Hove Beach d'un référendum afin de savoir si les habitants sont favorables à un rattachement à la Russie. Le référendum, pour des raisons de sécurité, se déroulera sous contrôle de l'armée russe qui a déja stationné ses navires au large de Liberty City.
 
 ![](/content/images/2016/06/ships-coming.jpg)
 _Les navires russes stationnés au large de Liberty City attirent les curieux._
