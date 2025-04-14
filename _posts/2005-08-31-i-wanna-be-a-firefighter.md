@@ -7,6 +7,7 @@ layout: article
 redirect_from:
 - /2005/08/30/i-wanna-be-a-firefighter
 - /2005/08/30/i-wanna-be-a-firefighter/
+- /i-wanna-be-firefighter
 tags:
 - san-fierro
 title: I wanna be a firefighter
