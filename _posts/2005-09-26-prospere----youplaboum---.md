@@ -8,7 +8,7 @@ date: '2005-09-26 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2005/09/25/prospere----youplaboum---
+  - /2005/09/25/prospere-youplaboum
 ---
 
 _Prospère, tel est le mot qui conviendrait le mieux pour définir cette entreprise récemment installée à San Fierro, la Suances Transport and Rescue._

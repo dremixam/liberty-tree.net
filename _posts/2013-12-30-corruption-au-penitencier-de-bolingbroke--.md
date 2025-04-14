@@ -8,7 +8,7 @@ date: '2013-12-30 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/12/29/corruption-au-penitencier-de-bolingbroke--
+  - /2013/12/29/corruption-au-penitencier-de-bolingbroke
 ---
 
 Une enquête est ouverte sur le pénitencier de Bolingbroke suite à une dénonciation anonyme concernant les gardiens du pénitencier qui donneraient des libertés aux détenus de la prison telles que de l'alcool, des stupéfiants et même des sorties non autorisées, le tout en échange de pots de vins.

@@ -8,7 +8,7 @@ date: '2002-06-18 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/17/mysteres-et-boules-vertes-au-parking-de-staunton-
+  - /2002/06/17/mysteres-et-boules-vertes-au-parking-de-staunton
 ---
 
 Un homme dont nous avons déjà parlé à plusieurs reprises dans ces colonnes, a été aperçu à plusieurs reprises par des témoins devant le parking principal.

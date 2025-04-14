@@ -8,7 +8,7 @@ date: '2003-01-27 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2003/01/26/exposition-annuelle-dart-contemporain
+  - /2003/01/26/exposition-annuelle-dart-contemporain
 ---
 
 Liberty-City a accueilli ce dimanche l'exposition régionale d'art contemporain, Les artistes de la côte est américaine se réunissent tous les ans pour une exposition d'art et le Liberty-Tree ne pouvait pas passer à coté de cela, nous avons donc été à l'exposition et avons rencontré un des artistes.

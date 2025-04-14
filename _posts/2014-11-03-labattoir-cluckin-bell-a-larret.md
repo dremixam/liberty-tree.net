@@ -8,7 +8,7 @@ date: '2014-11-03 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/11/02/labattoir-cluckin-bell-a-larret
+  - /2014/11/02/labattoir-cluckin-bell-a-larret
 ---
 
 Il est 8 heures hier matin lorsque le directeur de l'usine arrive en compagnie d'un représentant de la marque aux _Cluckin' Bell Farms_ de Paleto Bay. Les employés, qui étaient déjà au travail depuis 4 heures du matin, sont tous convoqués dans l'une des salles d'abattage.

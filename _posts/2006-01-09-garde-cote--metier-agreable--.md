@@ -8,7 +8,7 @@ date: '2006-01-09 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2006/01/08/garde-cote--metier-agreable--
+  - /2006/01/08/garde-cote-metier-agreable
 ---
 
 _On associe souvent le métier de garde côte à la célèbre série télévisée, "Alerte à Verona Beach"._

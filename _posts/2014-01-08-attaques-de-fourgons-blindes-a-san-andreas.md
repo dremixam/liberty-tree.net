@@ -8,7 +8,7 @@ date: '2014-01-08 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/07/attaques-de-fourgons-blindes-a-san-andreas
+  - /2014/01/07/attaques-de-fourgons-blindes-a-san-andreas
 ---
 
 _Plusieurs fourgons blindés ont récemment été la cible d'attaques, un peu partout dans l'état. La plupart du temps, ce sont près de 5000 dollars qui sont dérobés par le ou les voleurs._

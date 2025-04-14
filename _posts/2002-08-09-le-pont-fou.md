@@ -8,7 +8,7 @@ date: '2002-08-09 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/08/08/le-pont-fou
+  - /2002/08/08/le-pont-fou
 ---
 
 Cette nuit, Monsieur P. (dont nous tairons le nom) rentrait chez lui sur l'île de Staunton quand d'un seul coup, le pont qu'il empruntait s'est relevé sans aucun signal sonore. Monsieur P. a juste eu le temps de freiner avant la fin de la route. Le pont s'est ensuite bloqué en position haute, laissant Monsieur P. coincé.

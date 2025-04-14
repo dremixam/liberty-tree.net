@@ -8,7 +8,7 @@ date: '2002-07-08 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/07/07/attention-virus--
+  - /2002/07/07/attention-virus
 ---
 
 Le dimanche 7 juillet 2002, nous sommes avertis de l'arrivée d'un nouveau virus informatique.

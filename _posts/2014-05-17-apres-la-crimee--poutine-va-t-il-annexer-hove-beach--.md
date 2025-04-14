@@ -9,7 +9,7 @@ checked: true
 tags:
 - liberty-city
 redirect_from:
-- /2014/05/16/apres-la-crimee--poutine-va-t-il-annexer-hove-beach--
+  - /2014/05/16/apres-la-crimee-poutine-va-t-il-annexer-hove-beach
 ---
 
 Alors que la situation ukrainienne semble progressivement trouver une issue en l'accaparement progressif de son territoire par la Russie, c'est une région bien plus proche de chez nous qui intéresse désormais Vladimir Poutine.

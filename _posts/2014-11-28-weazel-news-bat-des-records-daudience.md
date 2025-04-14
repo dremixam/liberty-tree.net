@@ -8,7 +8,7 @@ date: '2014-11-28 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/11/27/weazel-news-bat-des-records-daudience
+  - /2014/11/27/weazel-news-bat-des-records-daudience
 ---
 
 _Au cours de la dernière édition de Weazel News, le nombre de vues a explosé. En effet, depuis quelques temps, Weazel News est en hausse. Mieux, depuis la dernière édition, c'est devenu le numéro 1 des programmes les plus regardés de tout San Andreas._

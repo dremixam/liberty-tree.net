@@ -8,7 +8,7 @@ date: '2014-08-21 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/08/20/un-dernier-pour-la-route
+  - /2014/08/20/un-dernier-pour-la-route
 ---
 
 _Le "tueur de journalistes" qui sévissait depuis plusieurs mois a enfin été identifié... Après son suicide. Et la surprise est de taille..._

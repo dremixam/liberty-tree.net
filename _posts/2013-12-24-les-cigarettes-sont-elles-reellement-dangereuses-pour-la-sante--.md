@@ -9,7 +9,7 @@ checked: true
 tags:
 - los-santos
 redirect_from:
-- /2013/12/23/les-cigarettes-sont-elles-reellement-dangereuses-pour-la-sante--
+  - /2013/12/23/les-cigarettes-sont-elles-reellement-dangereuses-pour-la-sante
 ---
 
 Alors que tous les grands médias en quête d'histoires sensationnelles ont décidé il y a quelques décennies déjà de condamner unanimement la consommation de tabac, le Liberty Tree se décide à briser le tabou en prenant le contre-pied de la campagne de dénigrement que subit cette industrie depuis maintenant de nombreuses années et en posant une fois pour toute la question : "La consommation de tabac est-elle vraiment dangereuse pour la santé ?"

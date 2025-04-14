@@ -8,7 +8,7 @@ date: '2002-05-19 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/18/le-chaperon
+  - /2002/05/18/le-chaperon
 ---
 
 Un malfrat a empêché l'arrestation de Maria Leone, la piste des fuyards s'est mystérieusement évanouie dans un Pay'n'Spray.

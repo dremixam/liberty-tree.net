@@ -8,7 +8,7 @@ date: '2013-12-05 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/12/04/a-los-santos--on-se-prepare-a-feter-noel-au-soleil
+  - /2013/12/04/a-los-santos-on-se-prepare-a-feter-noel-au-soleil
 ---
 
 _A l'approche de Noël, les habitants et les commerçants préparent Noël, cette belle fête populaire et familiale. Dans les centres commerciaux notamment, mais aussi à la campagne, du côté de Grapeseed, ou de Paleto Bay._

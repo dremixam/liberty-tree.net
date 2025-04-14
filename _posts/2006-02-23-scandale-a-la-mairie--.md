@@ -8,7 +8,7 @@ date: '2006-02-23 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2006/02/22/scandale-a-la-mairie--
+  - /2006/02/22/scandale-a-la-mairie
 ---
 
 _Déjà habitué aux déconvenues judiciaires, le Maire O'Donovan a cette fois-ci touché le fond._

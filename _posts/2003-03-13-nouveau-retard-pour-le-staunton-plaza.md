@@ -8,7 +8,7 @@ date: '2003-03-13 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2003/03/12/nouveau-retard-pour-le-staunton-plaza
+  - /2003/03/12/nouveau-retard-pour-le-staunton-plaza
 ---
 
 _Alors que la construction du Staunton Plaza accumule les retards depuis plus de 16 mois à cause de sombres affaires criminelles et du dépôt de bilan de Pan Lantic, l'enquête de la chambre de commerce vient de révéler un nouveau scandale lié au chantier._

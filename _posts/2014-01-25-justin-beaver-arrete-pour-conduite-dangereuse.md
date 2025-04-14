@@ -8,7 +8,7 @@ date: '2014-01-25 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/24/justin-beaver-arrete-pour-conduite-dangereuse
+  - /2014/01/24/justin-beaver-arrete-pour-conduite-dangereuse
 ---
 
 Voici une nouvelle qui va faire l'effet d'une bombe chez les jeunes de moins de 17 ans. Le chanteur Justin Beaver, connu pour son tube "Lady Lady Ah" a été arrêté tôt ce matin pour conduite dangereuse dans les rues de Los Santos alors qu'il était en plein run sauvage au volant d'une Elegy RH8 de location. Une patrouille du LSPD le prit en chasse sur la Grand Ocean Highway à la vitesse fulgurante de 215 km/h, zig-zaguant dans la circulation relativement fluide à l'aube, et ce n'est que sur Eclipse Boulevard que la jeune star décida enfin d'abandonner la course poursuite, visiblement à cours de carburant. Excès d'alcool, de drogues ? Il n'en est rien, comme nous le raconte l'officier Vincent du LSPD.

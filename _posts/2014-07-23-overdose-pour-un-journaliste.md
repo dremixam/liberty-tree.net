@@ -8,7 +8,7 @@ date: '2014-07-23 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/07/22/overdose-pour-un-journaliste
+  - /2014/07/22/overdose-pour-un-journaliste
 ---
 
 _Le rédacteur en chef du Liberty Tree vient d'être une nouvelle fois contacté par la police au sujet de la mort d'un membre de son équipe. Y a-t-il vraiment un serial killer derrière tout ça ? Est-ce juste une vengeance divine ou bien serait-ce carrément un règlement de compte entre journalistes ? Enquête._

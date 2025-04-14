@@ -8,7 +8,7 @@ date: '2005-11-23 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/11/22/le-skate-park--un-lieu-qui-nest-plus-paisible--
+  - /2005/11/22/le-skate-park-un-lieu-qui-nest-plus-paisible
 ---
 
 _Au coeur de Los Santos, qui depuis quelques jours paraissait tranquille, un affrontement terrible a éclaté entre un groupe de jeunes et les forces de l'ordre._

@@ -7,7 +7,7 @@ date: '2002-06-05 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/04/liberty-city-survivor-ii
+  - /2002/06/04/liberty-city-survivor-ii
 ---
 
 Résumé des 15 premiers jours des lofteurs...

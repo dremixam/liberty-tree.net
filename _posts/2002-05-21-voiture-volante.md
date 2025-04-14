@@ -8,7 +8,7 @@ date: '2002-05-21 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/20/voiture-volante
+  - /2002/05/20/voiture-volante
 ---
 
 Hier, en fin d'après midi, suite à des coups de feu, des passants on dit avoir vu une voiture du Cartel Colombien quitter le garage à étages de Staunton par la voie des airs ! Un passant aurait même déclaré

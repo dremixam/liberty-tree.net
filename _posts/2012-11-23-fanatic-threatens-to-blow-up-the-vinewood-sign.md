@@ -8,7 +8,7 @@ date: '2012-11-23 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2012/11/22/fanatic-threatens-to-blow-up-the-vinewood-sign
+  - /2012/11/22/fanatic-threatens-to-blow-up-the-vinewood-sign
 ---
 
 November 15th, 4:10 PM, Los Santos Sheriff Department deputies tried to apprehend a suspicious man spotted in the vicinity of the Vinewood sign. According to the nearby witnesses who called the police - a tiny group of Australian tourists -, the suspect was holding a small object in his hands that could be an explosive charge and was trying to climb on top of the letter D.

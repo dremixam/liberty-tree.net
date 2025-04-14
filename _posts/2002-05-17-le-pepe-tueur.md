@@ -7,7 +7,7 @@ date: '2002-05-17 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/16/le-pepe-tueur
+  - /2002/05/16/le-pepe-tueur
 ---
 
 Un homme de 88 ans a été arrêté pour divers crimes atroces.

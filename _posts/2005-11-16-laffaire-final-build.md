@@ -8,7 +8,7 @@ date: '2005-11-16 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/11/15/laffaire-final-build
+  - /2005/11/15/laffaire-final-build
 ---
 
 _L'entreprise de construction très connue Final Build, qui s'occupe des travaux dans l’État, a de très gros problèmes de gestion._

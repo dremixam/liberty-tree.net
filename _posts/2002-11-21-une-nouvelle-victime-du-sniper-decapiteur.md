@@ -8,7 +8,7 @@ date: '2002-11-21 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/11/20/une-nouvelle-victime-du-sniper-decapiteur
+  - /2002/11/20/une-nouvelle-victime-du-sniper-decapiteur
 ---
 
 Cette nuit, une fois encore, une prostituée a été assassinée, toujours de la même façon, une balle de sniper dans la tête qui a explosé.

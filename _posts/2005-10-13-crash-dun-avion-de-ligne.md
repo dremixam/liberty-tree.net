@@ -8,7 +8,7 @@ date: '2005-10-13 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2005/10/12/crash-dun-avion-de-ligne
+  - /2005/10/12/crash-dun-avion-de-ligne
 ---
 
 _Hier soir, un avion de ligne AT-400 s'est malheureusement écrasé dans la baie de San Fierro. Récit d'un crash inexpliqué._

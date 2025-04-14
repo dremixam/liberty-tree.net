@@ -8,7 +8,7 @@ date: '2005-12-02 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/12/01/la-moto-est-elle-un-reel-danger--
+  - /2005/12/01/la-moto-est-elle-un-reel-danger
 ---
 
 _De plus en plus de gens utilisent la moto comme moyen de transport. Toutefois, c'est un moyen de transport qui reste très dangereux si on ne l'utilise pas correctement._

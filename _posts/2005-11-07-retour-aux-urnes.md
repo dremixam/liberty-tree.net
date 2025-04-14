@@ -9,7 +9,7 @@ tags:
 - vice-city
 - liberty-city
 redirect_from:
-- /2005/11/06/retour-aux-urnes
+  - /2005/11/06/retour-aux-urnes
 ---
 
 _Mercredi prochain, il vous faudra trancher pour élire le nouveau gouverneur de l'État. Le Liberty Tree vous renseigne sur la campagne de chacun pour que vous accomplissiez parfaitement votre devoir de citoyen._

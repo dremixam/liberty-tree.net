@@ -8,7 +8,7 @@ date: '2005-11-29 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/11/28/le-championnat-des-rallyes-en-deuil
+  - /2005/11/28/le-championnat-des-rallyes-en-deuil
 ---
 
 _Ronnie Stevens était âgé de trente-six ans, avait deux enfants et était le champion du monde 1998-2000-2001-2002 des rallyes. Il est décédé suite aux graves blessures dûes à un accident survenu avant-hier..._

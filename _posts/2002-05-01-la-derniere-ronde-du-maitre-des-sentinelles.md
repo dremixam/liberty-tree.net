@@ -8,7 +8,7 @@ date: '2002-05-01 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/04/30/la-derniere-ronde-du-maitre-des-sentinelles
+  - /2002/04/30/la-derniere-ronde-du-maitre-des-sentinelles
 ---
 
 Cette nuit, nos fiers policiers ont de nouveau brillamment interpellé un dangereux forcené sur les collines de Cedar Ridge. Il leur aura quand même fallu une course poursuite de plusieurs heures pour parvenir à l'arrêter.

@@ -8,7 +8,7 @@ date: '2005-08-29 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/08/28/fermeture-temporaire-de-laeroport-de-san-fierro
+  - /2005/08/28/fermeture-temporaire-de-laeroport-de-san-fierro
 ---
 
 L'aéroport de San Fierro, jugé trop vétuste par la Direction Générale de l'Aviation Civile et Commerciale, va fermer ses pistes pour un petit coup de propre...

@@ -8,7 +8,7 @@ date: '2006-01-08 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2006/01/07/retour-gagnant--
+  - /2006/01/07/retour-gagnant
 ---
 
 _Alors que le nouvel album de Madd Dogg fait un carton dans les charts, c'est au tour de OG Loc de revenir sur le devant de la scène avec un album gangsta-rap intitulé "Peace and Gangs"._

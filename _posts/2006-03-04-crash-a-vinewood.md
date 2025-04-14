@@ -8,7 +8,7 @@ date: '2006-03-04 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2006/03/03/crash-a-vinewood
+  - /2006/03/03/crash-a-vinewood
 ---
 
 _Vers midi, un accident impliquant un avion et 3 véhicules a fait plusieurs morts à Vinewood._

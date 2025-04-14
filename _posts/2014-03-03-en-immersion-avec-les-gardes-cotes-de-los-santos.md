@@ -8,7 +8,7 @@ date: '2014-03-03 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/03/02/en-immersion-avec-les-gardes-cotes-de-los-santos
+  - /2014/03/02/en-immersion-avec-les-gardes-cotes-de-los-santos
 ---
 
 _Le métier de garde-côte est souvent considéré comme l'un des plus méconnus du grand public. Pour vous lecteurs, le Liberty Tree s'est glissé dans le milieu de la surveillance des plages et du sauvetage en mer..._

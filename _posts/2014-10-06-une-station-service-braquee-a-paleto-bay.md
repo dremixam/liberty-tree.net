@@ -8,7 +8,7 @@ date: '2014-10-06 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/10/05/une-station-service-braquee-a-paleto-bay
+  - /2014/10/05/une-station-service-braquee-a-paleto-bay
 ---
 
 _Une station-service a été braquée par deux hommes hier matin. Fort heureusement, il n'y a aucun blessé à déplorer, et les bandits ont été arrêtés dans le courant de l'après-midi._

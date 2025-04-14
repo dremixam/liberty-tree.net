@@ -7,7 +7,7 @@ date: '2002-05-16 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/15/les-missionnaires-de-dieu
+  - /2002/05/15/les-missionnaires-de-dieu
 ---
 
 Les nouveaux gangs sont monnaie courante dans notre belle ville corrompue, mais des comme ça, c'est du jamais vu ! Tout d'abord, le nom du gang : « Les Missionnaires de Dieu ». Faut avoir 6 grammes de Spank dans le sang pour vouloir s'appeler comme ça ! Mais, plus que leur nom assez… spécial, ce sont les activités des MdD qui font peur.

@@ -8,7 +8,7 @@ date: '2005-10-27 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/10/26/sur-la-piste-du-yeti
+  - /2005/10/26/sur-la-piste-du-yeti
 ---
 
 _Vous avez certainement entendu parler, ces derniers jours de la disparition de deux alpinistes au Mont Chiliad. Ces derniers, partis sur les traces d'un mystérieux animal, ont été secourus ce matin par les pompiers de Los Santos et de San Fierro._

@@ -8,7 +8,7 @@ date: '2014-04-21 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/04/20/un-deuxieme-journaliste-retrouve-mort
+  - /2014/04/20/un-deuxieme-journaliste-retrouve-mort
 ---
 
 _Un nouveau cadavre de journaliste a été découvert dans un chantier de Mirror Park hier matin. Une fois de plus, il s'agissait d'un journaliste du Liberty Tree..._

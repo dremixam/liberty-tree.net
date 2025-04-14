@@ -8,7 +8,7 @@ date: '2006-01-17 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2006/01/16/les-dents-de-la-mer
+  - /2006/01/16/les-dents-de-la-mer
 ---
 
 _L'arrivée de requins dans les eaux de Vice City a déclenché une vague de folie sur toute la ville._

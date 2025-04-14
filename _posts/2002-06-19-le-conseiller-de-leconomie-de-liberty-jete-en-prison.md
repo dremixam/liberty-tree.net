@@ -7,7 +7,7 @@ date: '2002-06-19 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/18/le-conseiller-de-leconomie-de-liberty-jete-en-prison
+  - /2002/06/18/le-conseiller-de-leconomie-de-liberty-jete-en-prison
 ---
 
 Le conseiller de l'économie de la ville de Liberty viré et mis en prison pour une multitude de choses illégales.

@@ -7,7 +7,7 @@ date: '2002-12-15 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/12/14/des-ripoux-dans-la-police
+  - /2002/12/14/des-ripoux-dans-la-police
 ---
 
 _Après une longue enquête que j'ai mené, je peux dire officiellement qu'il y a des ripoux dans les policiers de Liberty City._

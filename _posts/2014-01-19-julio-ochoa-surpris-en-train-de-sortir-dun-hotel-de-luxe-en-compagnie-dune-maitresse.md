@@ -9,7 +9,7 @@ date: '2014-01-19 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2014/01/18/julio-ochoa-surpris-en-train-de-sortir-dun-hotel-de-luxe-en-compagnie-dune-maitresse
+  - /2014/01/18/julio-ochoa-surpris-en-train-de-sortir-dun-hotel-de-luxe-en-compagnie-dune-maitresse
 ---
 
 L'hôtel Majestic d'Algonquin à Liberty City a été cette semaine le théâtre de la relation adultère la plus médiatique depuis des années. Cyley Myrus et toutes ses copines stars de Vinewood ont été un moment tranquilles, pour la simple et bonne raison que les paparazzis se sont acharnés sur le maire de la ville, Julio Ochoa. L'homme, d'ordinaire relativement apprécié et très respecté par ses concitoyens, vient en effet d'être surpris sortant de cet hôtel majestueux donnant sur Middle Park en compagnie de la belle Lolita Spears, chanteuse pop à la mode. Son épouse, sous le choc certainement, n'a pas souhaitée s'exprimer publiquement sur le sujet.

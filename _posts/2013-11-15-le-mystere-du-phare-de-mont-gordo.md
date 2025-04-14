@@ -8,7 +8,7 @@ date: '2013-11-15 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/11/14/le-mystere-du-phare-de-mont-gordo
+  - /2013/11/14/le-mystere-du-phare-de-mont-gordo
 ---
 
 Juste au large de la côte du Mont Gordo, au nord-est de l’État, se trouve un majestueux phare, certainement vieux de plusieurs centaines d’années.

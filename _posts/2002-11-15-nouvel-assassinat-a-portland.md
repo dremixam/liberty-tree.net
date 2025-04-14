@@ -7,7 +7,7 @@ date: '2002-11-15 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/11/14/nouvel-assassinat-a-portland
+  - /2002/11/14/nouvel-assassinat-a-portland
 ---
 
 Cette nuit, alors qu'il balayait les trottoirs de notre belle cité, M. Bernard Bernoux, Beber pour les intimes, a commencé à balayer ce qui lui semblait être des bouts de chairs humaines, intrigués, Beber continue, remontant un filet de sang. Il tombe un peu plus loin sur un corp sans tête, baignant dans une mare de sang coagulé, le filet de sang venait en fait d'un oeil qu'un chat avait fait rouler en s'amusant.

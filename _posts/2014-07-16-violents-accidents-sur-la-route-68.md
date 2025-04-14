@@ -8,7 +8,7 @@ date: '2014-07-16 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/07/15/violents-accidents-sur-la-route-68
+  - /2014/07/15/violents-accidents-sur-la-route-68
 ---
 
 _Hier, dans la nuit, un camion transportant de l'huile ayant pour destination le Cluckin' Bell s'est retourné et a déversé son contenu sur plusieurs mètres, ce qui a transformé la célèbre Route 68 en véritable patinoire. Plusieurs accidents ont été signalés dont un violent carambolage._

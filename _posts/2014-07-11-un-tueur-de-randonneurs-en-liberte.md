@@ -8,7 +8,7 @@ date: '2014-07-11 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/07/10/un-tueur-de-randonneurs-en-liberte
+  - /2014/07/10/un-tueur-de-randonneurs-en-liberte
 ---
 
 _Avec le nombre de tueurs en cavale et de victimes retrouvées mortes dans la région, le Liberty Tree va bientôt pouvoir envisager d'ouvrir une toute nouvelle rubrique nécrologique._

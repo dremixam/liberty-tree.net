@@ -8,7 +8,7 @@ date: '2005-11-09 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2005/11/08/17-ans-apres--san-fierro-garde-les-traces-du-tremblement-de-terre
+  - /2005/11/08/17-ans-apres-san-fierro-garde-les-traces-du-tremblement-de-terre
 ---
 
 _Dans la série « Notre passé et nous », le Liberty Tree a enquêté sur une des plus larges blessures de l’État de San Andreas._

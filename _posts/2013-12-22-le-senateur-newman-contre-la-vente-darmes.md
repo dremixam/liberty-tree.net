@@ -8,7 +8,7 @@ date: '2013-12-22 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/12/21/le-senateur-newman-contre-la-vente-darmes
+  - /2013/12/21/le-senateur-newman-contre-la-vente-darmes
 ---
 
 ![](/content/images/2016/06/2.jpg)

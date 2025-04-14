@@ -8,7 +8,7 @@ date: '2005-12-17 00:00:00'
 tags:
 - las-venturas
 redirect_from:
-- /2005/12/16/de-nouvelles-techniques-dagression
+  - /2005/12/16/de-nouvelles-techniques-dagression
 ---
 
 Ces derniers temps les vols de voiture ont considérablement augmenté. On a pu observé deux types de vols de voiture, le car-jacking et le home-jacking. Cela pose des problèmes car il y a de plus en plus de plaintes et les compagnies d'assurances sont débordées.

@@ -8,7 +8,7 @@ date: '2005-12-19 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/12/18/attaque-de-fourgon-blinde-a-los-santos---un-convoyeur-grievement-blesse
+  - /2005/12/18/attaque-de-fourgon-blinde-a-los-santos-un-convoyeur-grievement-blesse
 ---
 
 Avant-hier, vers 9h du matin, un fourgon de la Chuff Security&Co. a été braqué dans un quartier de Los Santos. Bilan : Un convoyeur grièvement touché à la tête, il aurait refusé d'ouvrir l'arrière du véhicule.

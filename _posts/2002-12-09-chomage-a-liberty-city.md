@@ -7,7 +7,7 @@ date: '2002-12-09 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/12/08/chomage-a-liberty-city
+  - /2002/12/08/chomage-a-liberty-city
 ---
 
 Les chômeurs, éternel problème pour les politiciens.

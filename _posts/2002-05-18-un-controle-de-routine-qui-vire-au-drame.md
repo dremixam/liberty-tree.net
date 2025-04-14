@@ -7,7 +7,7 @@ date: '2002-05-18 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/17/un-controle-de-routine-qui-vire-au-drame
+  - /2002/05/17/un-controle-de-routine-qui-vire-au-drame
 ---
 
 Lors d'un contrôle de police de routine, l'agent de police Smith a été blessé mortellement à la poitrine par un homme ivre, l'homme a été interpellé 1 heure plus tard chez lui.

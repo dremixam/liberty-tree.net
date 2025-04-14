@@ -8,7 +8,7 @@ date: '2014-02-18 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/02/17/sue-murry-elue-gouverneur-de-san-andreas--
+  - /2014/02/17/sue-murry-elue-gouverneur-de-san-andreas
 ---
 
 C'est finalement un scandale retentissant qui aura permis à Sue Murry de remporter les élections face à Jock Cranley. Un scandale qui a éclaté après la découverte stupéfiante d'un randonneur, faite au sommet du Mont Gordo, au nord de Sandy Shores. Une découverte qui a fait resurgir une vieille histoire...

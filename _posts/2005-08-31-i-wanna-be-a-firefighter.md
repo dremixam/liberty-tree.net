@@ -8,7 +8,7 @@ date: '2005-08-31 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2005/08/30/i-wanna-be-a-firefighter
+  - /2005/08/30/i-wanna-be-a-firefighter
 ---
 
  **San Fierro Fire Department, 08 h 47**

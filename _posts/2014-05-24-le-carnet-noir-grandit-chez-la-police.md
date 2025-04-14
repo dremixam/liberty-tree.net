@@ -8,7 +8,7 @@ date: '2014-05-24 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/05/23/le-carnet-noir-grandit-chez-la-police
+  - /2014/05/23/le-carnet-noir-grandit-chez-la-police
 ---
 
  **Hier soir, le caporal Billy Walsh a périt dans un violent accident à Alta Street.**

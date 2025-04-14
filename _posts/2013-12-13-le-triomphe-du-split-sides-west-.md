@@ -8,7 +8,7 @@ date: '2013-12-13 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/12/12/le-triomphe-du-split-sides-west-
+  - /2013/12/12/le-triomphe-du-split-sides-west
 ---
 
 Situé à Vinewood Ouest, le Split Sides West, ouvert récemment, est une vraie réussite. Le concept avait déjà cartonné à Liberty City, avec le Split Sides, ouvert en 2006. Sept ans plus tard, la déclinaison orientale de cette salle de spectacle réputée est lancée ici, à Los Santos.

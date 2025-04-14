@@ -8,7 +8,7 @@ date: '2005-09-29 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/09/28/downtown-los-santos-by-night
+  - /2005/09/28/downtown-los-santos-by-night
 ---
 
 _Downtown Los Santos rime généralement avec activité débordante, repas pris à la va-vite, embouteillages de grosses berlines. Sa ligne de gratte ciels, de réputation mondiale, fait briller le quartier d'un éclat métallique... Mais ce qui est un des plus gros centres de décision au monde devient le repère des pires rebuts de la société la nuit..._

@@ -8,7 +8,7 @@ date: '2005-12-30 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/12/29/la-societe-zombotech-en-proces
+  - /2005/12/29/la-societe-zombotech-en-proces
 ---
 
 _La célèbre société Zombotech est actuellement en procès avec l'Association de Défense de la Nature et de la Population de San Andreas._

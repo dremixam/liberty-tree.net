@@ -8,7 +8,7 @@ date: '2014-01-20 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/19/affaire-rebel-radio--des-coupables
+  - /2014/01/19/affaire-rebel-radio-des-coupables
 ---
 
 Alors que nous vous rapportions le message inquiétant diffusé sur Rebel Radio il y a de cela deux semaines, celle-ci fait de nouveau parler d'elle. En effet rappelez vous, le FIB, à la suite de ce message, a annoncé mener une enquête, enquête qui a aujourd'hui portée ses fruits puisqu'un tout nouveau coupable a été révélé.

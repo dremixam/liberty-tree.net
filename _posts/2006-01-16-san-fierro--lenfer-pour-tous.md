@@ -8,7 +8,7 @@ date: '2006-01-16 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2006/01/15/san-fierro--lenfer-pour-tous
+  - /2006/01/15/san-fierro-lenfer-pour-tous
 ---
 
 _A cause de la pollution, San Fierro devient très dangereuse pour les jeunes de moins de 15 ans. Un risque important de contamination est présent partout dans la ville..._

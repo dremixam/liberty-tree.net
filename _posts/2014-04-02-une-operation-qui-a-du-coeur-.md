@@ -8,7 +8,7 @@ date: '2014-04-02 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2014/04/01/une-operation-qui-a-du-coeur-
+  - /2014/04/01/une-operation-qui-a-du-coeur
 ---
 
 _Hier à Liberty City, un premier cœur artificiel a été implanté dans un patient, le sauvant ainsi d'une mort certaine..._

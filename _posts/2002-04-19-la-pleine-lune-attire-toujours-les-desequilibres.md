@@ -8,7 +8,7 @@ date: '2002-04-19 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/04/18/la-pleine-lune-attire-toujours-les-desequilibres
+  - /2002/04/18/la-pleine-lune-attire-toujours-les-desequilibres
 ---
 
 Cette nuit, nos brigades de police ont dû intervenir auprès d'un individu visiblement en état d'ivresse. C'est après avoir réveillé par ses cris le paisible quartier de Cedar Ridge, que Manolito Gomez a été interpellé par deux officiers municipaux. Il hurlait à qui pouvait l'entendre qu'il avait « réduit la lune ».

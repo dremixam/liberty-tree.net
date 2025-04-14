@@ -8,7 +8,7 @@ date: '2006-03-25 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2006/03/24/le-maire-r-c--hole-recommence-a-faire-des-siennes--
+  - /2006/03/24/le-maire-r-c-hole-recommence-a-faire-des-siennes
 ---
 
 _Est-ce que le maire recommence ces magouilles avec la mafia ? Mr. Angus Wrong aurait des preuves qui ferait chuter le gouvernement du maire de Liberty City. Nous revenons sur les 3 grands scandales depuis la prise de fonction du maire R.C. Hole._

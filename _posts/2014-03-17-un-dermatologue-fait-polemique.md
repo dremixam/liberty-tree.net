@@ -8,7 +8,7 @@ date: '2014-03-17 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/03/16/un-dermatologue-fait-polemique
+  - /2014/03/16/un-dermatologue-fait-polemique
 ---
 
 _De nombreux tiers ont porté plainte contre un médecin véreux..._

@@ -8,7 +8,7 @@ date: '2014-08-13 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2014/08/12/nouveau-scandale-alimentaire-dans-un-restaurant-chinois
+  - /2014/08/12/nouveau-scandale-alimentaire-dans-un-restaurant-chinois
 ---
 
 _Depuis que des restes humains ont été retrouvés dans les cuisines de cet établissement, une question reste dans tous les esprits: qui est-ce ? Ou bien même, est-ce la femme du chef ? La police envisage plusieurs pistes, y compris celles d'un règlement de compte entre mafieux. Méfiez-vous des chinois les amis..._

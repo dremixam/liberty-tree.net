@@ -7,7 +7,7 @@ date: '2002-11-12 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/11/11/reglement-de-comptes-a-china-town
+  - /2002/11/11/reglement-de-comptes-a-china-town
 ---
 
 _C'est un dangereux malfrat, bien connu des services de police qui est venu semé la zizanie dans le quartier de China-Town à Portland hier après-midi._

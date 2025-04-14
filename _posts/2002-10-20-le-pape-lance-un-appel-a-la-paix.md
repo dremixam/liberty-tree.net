@@ -7,7 +7,7 @@ date: '2002-10-20 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/10/19/le-pape-lance-un-appel-a-la-paix
+  - /2002/10/19/le-pape-lance-un-appel-a-la-paix
 ---
 
 Terminatis hoc caedes: "Arrêtez ce massacre" a-t-il déclaré, hier, 19.10.02.

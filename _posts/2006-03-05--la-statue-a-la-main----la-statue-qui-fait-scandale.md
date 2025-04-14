@@ -8,7 +8,7 @@ date: '2006-03-05 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2006/03/04/-la-statue-a-la-main----la-statue-qui-fait-scandale
+  - /2006/03/04/-la-statue-a-la-main-la-statue-qui-fait-scandale
 ---
 
 _1967 : Pablito Picassé ,un artiste expressionniste, sculpte une statue qui fait encore écho aujourd'hui , en effet l’œuvre représente une personne entrain de se toucher au niveau de l'entre jambes... Aujourd'hui,l'église catholique de San Andreas et l'A.P.P.J. (l'Association des Parents Protecteurs de la Jeunesse) veulent faire détruire cette statue qu'ils qualifient "d’œuvre du pêché". En revanche l'A.A.S.A.(Association des Artistes de San Andreas) est contre sa destruction. Des manifestations vont certainement survenir dans les prochains jours..._

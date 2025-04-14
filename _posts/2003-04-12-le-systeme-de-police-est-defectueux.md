@@ -8,7 +8,7 @@ date: '2003-04-12 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2003/04/11/le-systeme-de-police-est-defectueux
+  - /2003/04/11/le-systeme-de-police-est-defectueux
 ---
 
 D'après notre cher maire, le système de la police est défectueux. Pas tout le système, mais en ce qui concerne la détention des prisonnier.  

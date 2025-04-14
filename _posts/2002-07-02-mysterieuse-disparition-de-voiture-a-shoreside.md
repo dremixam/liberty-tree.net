@@ -8,7 +8,7 @@ date: '2002-07-02 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/07/01/mysterieuse-disparition-de-voiture-a-shoreside
+  - /2002/07/01/mysterieuse-disparition-de-voiture-a-shoreside
 ---
 
 Après les voleurs, et les accidents, les honnêtes citoyens de notre belle ville doivent éviter un nouveau fléau pour leur voiture.

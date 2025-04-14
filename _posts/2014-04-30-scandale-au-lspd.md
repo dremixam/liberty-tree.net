@@ -8,7 +8,7 @@ date: '2014-04-30 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/04/29/scandale-au-lspd
+  - /2014/04/29/scandale-au-lspd
 ---
 
 _Trois policiers du LSPD auraient eu des relations sexuelles non-consenties avec une jeune française en visite à Los Santos, selon cette dernière. L'un des policiers soupçonnés est déjà passé aux aveux..._

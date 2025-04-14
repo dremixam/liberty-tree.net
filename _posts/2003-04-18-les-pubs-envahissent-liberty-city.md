@@ -8,7 +8,7 @@ date: '2003-04-18 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2003/04/17/les-pubs-envahissent-liberty-city
+  - /2003/04/17/les-pubs-envahissent-liberty-city
 ---
 
 Il y a quelques années déjà, les premières affiches publicitaires arrivaient à Staunton Island. A l'époque, le maire se félicitait : ''Ces publicités rapportent beaucoup à la mairie, et les citoyens en profiteront, car les impôts locaux baisseront''. Nous étions en 1985, et le faible nombre de ces publicités n'embêtait personne.

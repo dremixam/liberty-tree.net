@@ -8,7 +8,7 @@ date: '2014-01-14 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/13/hellraiser--le-gang-le-plus-violent-au-monde--
+  - /2014/01/13/hellraiser-le-gang-le-plus-violent-au-monde
 ---
 
 ## Le gang qui a terrassé les Lost en 3 jours.

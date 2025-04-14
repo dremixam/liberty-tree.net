@@ -8,7 +8,7 @@ date: '2005-09-02 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/09/01/catastrophe---le-barrage-sherman-a-cede
+  - /2005/09/01/catastrophe-le-barrage-sherman-a-cede
 ---
 
 C'est effectivement cette nuit, que le barrage Sherman, édifié dans les années 30 en l'honneur d'Andrew Sherman, fondateur du Conseil Central des Energies, s'est brisé, libérant pas moins de 275 millions de mètres cubes d'eau destinée habituellement a fournir l'électricité à tout l'état de San Andreas.

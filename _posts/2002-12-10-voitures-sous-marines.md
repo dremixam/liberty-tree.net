@@ -8,7 +8,7 @@ date: '2002-12-10 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/12/09/voitures-sous-marines
+  - /2002/12/09/voitures-sous-marines
 ---
 
 Wichita Garden, en plus d'être l'endroit rêvé pour se faire égorger la nuit par des jeunes racailles, est aussi le lieu où se déroulent le plus de faits étranges. Après le mystérieux taxi fantôme, voici qu'un tueur à gage découvre des voitures roulant sous la mer.

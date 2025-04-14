@@ -7,7 +7,7 @@ date: '2002-11-22 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/11/21/le-profil-psychologique-du-sniper-decapiteur
+  - /2002/11/21/le-profil-psychologique-du-sniper-decapiteur
 ---
 
 Nous nous rencontrons dans le Burger de Staunton Island, mon interlocuteur à l'air assez près à me faire des révélation, j'en profite :

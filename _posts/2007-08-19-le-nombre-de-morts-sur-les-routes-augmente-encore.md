@@ -10,7 +10,7 @@ tags:
 - las-venturas
 - los-santos
 redirect_from:
-- /2007/08/18/le-nombre-de-morts-sur-les-routes-augmente-encore
+  - /2007/08/18/le-nombre-de-morts-sur-les-routes-augmente-encore
 ---
 
 Un simple accident de la route. Voilà ce qui a suffit pour briser la famille Perez. Cette famille était ordinaire et heureuse, comme toutes les autres familles. Ce 29 mai, alors qu'ils se préparent pour partir sur la route d'Angel Pine, Antonio Perez décide de partir en fin d'après-midi. Ils n'auraient jamais dû, car à l'approche d'Angel Pine, sur l'autoroute, un épais brouillard tombe. Soudain, un Walton hors de contrôle percute de plein fouet la Sentinel de la famille. Les enfants meurent, alors que les parents sont dans un état grave. L'enquête démontrera que le chauffeur était fou, et sous l'emprise de la drogue. Un témoin raconte :

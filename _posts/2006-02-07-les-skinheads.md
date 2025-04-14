@@ -8,7 +8,7 @@ date: '2006-02-07 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2006/02/06/les-skinheads
+  - /2006/02/06/les-skinheads
 ---
 
 _D'étranges meurtres ont été commis dans tout Liberty City récemment. Ces meurtres visent les communautés noires, maghrébines ou encore asiatiques. Nous avons pu remarquer une montée de l'extrême droite aux dernières élections. Pourrait-on croire au retour des skinheads ? Nous allons dans cet article vous montrer des images violentes qui peuvent heurter la sensibilité des plus jeunes._

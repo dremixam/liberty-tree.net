@@ -8,7 +8,7 @@ date: '2003-04-08 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2003/04/07/du-nouveau-a-la-police
+  - /2003/04/07/du-nouveau-a-la-police
 ---
 
 La mairie de Liberty City a décidé d'essayer de permettre aux policiers de Shoreside Vale de poursuivre plus aisément les gangsters et autres brigands présents sur l'île. On sait que les forces de l'ordre ont du fil à retordre avec le Cartel Colombien et les Hoods.

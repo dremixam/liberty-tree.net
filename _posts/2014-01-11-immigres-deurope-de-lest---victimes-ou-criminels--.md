@@ -8,7 +8,7 @@ date: '2014-01-11 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2014/01/10/immigres-deurope-de-lest---victimes-ou-criminels--
+  - /2014/01/10/immigres-deurope-de-lest-victimes-ou-criminels
 ---
 
 Coup de théâtre à Liberty City. Les immigrés d'Europe de l'Est, cantonnés dans le quartier de Hove Beach ont cette semaine annoncé qu'ils formeraient une association pour obtenir plus de droits et être traités comme des citoyens américains.

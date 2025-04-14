@@ -8,7 +8,7 @@ date: '2005-11-30 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2005/11/29/les-sixties---sexe--drogue-et-decadence
+  - /2005/11/29/les-sixties-sexe-drogue-et-decadence
 ---
 
 _Dans la série « Notre passé et nous », cap sur les sixtie's à San Fierro, berceau de la mouvance hippie et du plaisir hédonique. Quand "musiques douces" rime avec "drogues dures"..._

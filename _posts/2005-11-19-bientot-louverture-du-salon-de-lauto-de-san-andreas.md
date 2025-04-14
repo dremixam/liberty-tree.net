@@ -8,7 +8,7 @@ date: '2005-11-19 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/11/18/bientot-louverture-du-salon-de-lauto-de-san-andreas
+  - /2005/11/18/bientot-louverture-du-salon-de-lauto-de-san-andreas
 ---
 
 _Ces 22, 23, 24 et 25 novembre, le salon de l'automobile aura lieu au Los Santos Convention Center, et un concours d'élégance aura lieu. Amateurs de belles carosseries, ne manquez pas ce rendez-vous !_

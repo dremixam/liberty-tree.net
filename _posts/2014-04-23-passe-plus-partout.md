@@ -8,7 +8,7 @@ date: '2014-04-23 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/04/22/passe-plus-partout
+  - /2014/04/22/passe-plus-partout
 ---
 
 _La série noire continue, avec la fin tragique de notre collègue, Passe-Partout._

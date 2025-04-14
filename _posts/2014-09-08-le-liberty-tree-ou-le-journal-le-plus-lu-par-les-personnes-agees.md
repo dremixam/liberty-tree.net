@@ -8,7 +8,7 @@ date: '2014-09-08 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/09/07/le-liberty-tree-ou-le-journal-le-plus-lu-par-les-personnes-agees
+  - /2014/09/07/le-liberty-tree-ou-le-journal-le-plus-lu-par-les-personnes-agees
 ---
 
 _Un récent sondage a démontré que cette année ce sont les personnes âgées dans les maisons de retraite de San Andreas qui ont lu le plus notre journal quotidien. Stupéfaction parmi les rédacteurs._

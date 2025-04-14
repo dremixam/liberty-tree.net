@@ -8,7 +8,7 @@ date: '2014-01-02 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/01/un-message-inquietant-diffuse-sur-rebel-radio
+  - /2014/01/01/un-message-inquietant-diffuse-sur-rebel-radio
 ---
 
 _Rebel Radio, la radio de la campagne, attire sur elle toutes les attentions. Ce n'est pas sa musique country (qui montre que même sur les goûts musicaux, les paysans diffèrent de nous) qui nous intéresse aujourd'hui. En effet, c'est un message des plus étranges qui a été diffusé à l'antenne hier, tard dans la soirée..._

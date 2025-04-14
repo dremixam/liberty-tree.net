@@ -8,7 +8,7 @@ date: '2005-11-04 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2005/11/03/24h-de-la-vie-de----donald-love
+  - /2005/11/03/24h-de-la-vie-de-donald-love
 ---
 
 _Je reprends donc la série des "24h de la vie de..." pour en consacrer un article à Donald Love. Il possède la chaîne Love Media siégeant dans le quartier de Bedford Point sur l'île de Staunton Island. C'est l'un des hommes les plus influents de notre bonne vieille ville, Liberty City._

@@ -8,7 +8,7 @@ date: '2005-12-21 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/12/20/le-mystere-des-glendale--fantomes--elucide
+  - /2005/12/20/le-mystere-des-glendale-fantomes-elucide
 ---
 
 _Le mystère des Glendales abandonnées dans la campagne de San Andreas a enfin été résolu. Hélas pour les adeptes du paranormal, pas de monstres ni d'extraterrestres..._

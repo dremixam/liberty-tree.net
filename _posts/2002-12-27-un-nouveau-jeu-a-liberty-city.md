@@ -7,7 +7,7 @@ date: '2002-12-27 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/12/26/un-nouveau-jeu-a-liberty-city
+  - /2002/12/26/un-nouveau-jeu-a-liberty-city
 ---
 
 Un nouveau 'jeu' pour les jeunes délinquants.

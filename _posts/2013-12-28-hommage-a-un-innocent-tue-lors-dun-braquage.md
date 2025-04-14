@@ -8,7 +8,7 @@ date: '2013-12-28 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/12/27/hommage-a-un-innocent-tue-lors-dun-braquage
+  - /2013/12/27/hommage-a-un-innocent-tue-lors-dun-braquage
 ---
 
 Il devait être à peu près l’heure du déjeuner lorsque Matthew White s’est rendu à la banque de son quartier afin de retirer un peu de liquidité avant les fêtes de Noël. Il ignorait alors que ça allait être la dernière action de sa vie. Comment la vie d’une personne si innocente peut-elle basculer en un claquement de doigt ? Sommes-nous si vulnérables ? La vie de ce jeune homme, alors âgé de 25 ans, a été prise de sang froid par un braqueur multirécidiviste, que la justice a finalement condamné à 8 ans de prison ferme. 8 ans d’emprisonnement pour la vie d’un homme, n’y a-t-il pas un problème ? Comme dirait Alonso Camuso, « la justice coûte cher, c’est pour ça qu’on l’économise ».

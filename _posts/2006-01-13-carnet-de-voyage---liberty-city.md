@@ -8,7 +8,7 @@ date: '2006-01-13 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2006/01/12/carnet-de-voyage---liberty-city
+  - /2006/01/12/carnet-de-voyage-liberty-city
 ---
 
 _Gangs, drogue, meurtres, décadence, de moins en moins de touristes et de visiteurs viennent sillonner les quatre coins de notre beau pays. C'est pour redonner envie aux gens de prendre leur caméscope ou leur appareil, que le Liberty Tree vous offre cinq épisodes d'un magnifique carnet de voyage !_

@@ -8,7 +8,7 @@ date: '2002-05-19 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/18/luigi-juge
+  - /2002/05/18/luigi-juge
 ---
 
 Luigi Goterelli, le propriétaire du Sex Club 7 possédant une triste notoriété, a plaidé « non coupable » à son procès alors qu'il été accusé de diriger des locaux dans des buts immoraux.

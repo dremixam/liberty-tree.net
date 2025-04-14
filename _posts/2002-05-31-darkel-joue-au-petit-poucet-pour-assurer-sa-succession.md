@@ -8,7 +8,7 @@ date: '2002-05-31 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/30/darkel-joue-au-petit-poucet-pour-assurer-sa-succession
+  - /2002/05/30/darkel-joue-au-petit-poucet-pour-assurer-sa-succession
 ---
 
 On croyait Darkel complètement rangé des voitures. On pensait qu'il en avait définitivement terminé avec sa vie de criminel sanguinaire. Beaucoup s'en accommodaient d'ailleurs fort bien; et pas seulement du coté des forces de l'ordre et des honnêtes gens. Darkel était même craint par les pires crapules de Liberty City. Alors lorsqu'il fit savoir qu'il se retirait après la tristement célèbre affaire du "knaps", c'est la ville entière qui poussa un soupir de soulagement. On comptait bien ne jamais entendre parler de cette vermine.

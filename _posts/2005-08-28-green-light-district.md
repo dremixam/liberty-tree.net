@@ -8,7 +8,7 @@ date: '2005-08-28 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/08/27/green-light-district
+  - /2005/08/27/green-light-district
 ---
 
 Depuis quelques semaines, le Services des Transports de l'Etat de San Andreas (STESA) a fait installer un tout nouveau système informatisé de contrôle des feux tricolores. Ainsi, 98% des feux tricolores de l'Etat sont commandés à distance par un central appartenant à la police.

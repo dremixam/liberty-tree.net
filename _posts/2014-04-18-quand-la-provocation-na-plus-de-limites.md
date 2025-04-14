@@ -8,7 +8,7 @@ date: '2014-04-18 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/04/17/quand-la-provocation-na-plus-de-limites
+  - /2014/04/17/quand-la-provocation-na-plus-de-limites
 ---
 
 _Un déséquilibré provoque la police de Los Santos en envoyant des photos de lui détruisant leurs véhicules de fonction._

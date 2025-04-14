@@ -8,7 +8,7 @@ date: '2013-12-20 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/12/19/enquete-dans-les-courses-clandestines
+  - /2013/12/19/enquete-dans-les-courses-clandestines
 ---
 
 Aujourd’hui nous allons parler d’un sujet que peu de personnes de Los Santos connaissent, qui sont bien sûr les courses clandestines ! Organisées le soir à partir de 20 h dans certains quartiers de la ville, ces courses très rapides et dangereuses permettent à certains habitants (plutôt aisés évidemment) de prouver leurs talents le temps d’un "run".

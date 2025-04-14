@@ -8,7 +8,7 @@ date: '2003-02-24 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2003/02/23/entretien-avec-les-3man-crew
+  - /2003/02/23/entretien-avec-les-3man-crew
 ---
 
 _Le groupe de rap mondialement connu, 3Man Crew, et originaire de Liberty City revient avec un nouvel album "Born in East LC", et débute la tournée par un concert au stade de Liberty. Pourtant une partie de la population n'est pas d'accord. Interview_

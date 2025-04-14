@@ -8,7 +8,7 @@ date: '2002-06-11 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/10/linsecurite-a-liberty-city---une-affaire-de-vieux
+  - /2002/06/10/linsecurite-a-liberty-city-une-affaire-de-vieux
 ---
 
 L'insécurité est partout dans nos rues mais est-elle vraiment due aux gangs ou à une jeunesse rebelle? Liberty Tree vous dévoile en exclusivité le vrai visage de cette délinquance, qui n'hésite pas à utiliser les grands moyens.

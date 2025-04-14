@@ -8,7 +8,7 @@ date: '2006-03-02 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2006/03/01/hasbury-celebre-mardi-gras
+  - /2006/03/01/hasbury-celebre-mardi-gras
 ---
 
 _Comme tous les ans, San Fierro fête le Carnaval et comme d'habitude, les participants se retrouvent à Hasbury, quartier anti-conformiste où se côtoient toutes les minorités de la ville._

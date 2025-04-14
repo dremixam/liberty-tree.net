@@ -8,7 +8,7 @@ date: '2013-12-23 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/12/22/lacteur-raul-baker-est-mort-ce-matin
+  - /2013/12/22/lacteur-raul-baker-est-mort-ce-matin
 ---
 
 On l'a appris il y a à peine une heure. **Raul Baker** , acteur célèbre de la série des _Madness Roads_ est décédé ce matin vers 4 h 15 à Amarillo Vista (est de Los Santos) dans un accident à bord de sa Carbonizzare rouge.

@@ -7,7 +7,7 @@ date: '2002-10-01 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/09/30/le-metro-de-la-peur
+  - /2002/09/30/le-metro-de-la-peur
 ---
 
 Le métro de Liberty City, autrefois si accueillant, et devenu un véritable coupe-gorge. Les rares personnes qui osent encore y entrer ressortent souvent avec une jambe, un œil ou au mieux un portefeuille en moins. Les rues de notre chère ville sont de nouveau encombrées, le seul moyen de transport à peu près sûr restant la voiture.  

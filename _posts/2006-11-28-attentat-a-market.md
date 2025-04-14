@@ -8,7 +8,7 @@ date: '2006-11-28 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2006/11/27/attentat-a-market
+  - /2006/11/27/attentat-a-market
 ---
 
 Market Station est l'une des plus grosses stations de transports ferroviaires de Los Santos. Chaque jour, des centaines de personnes montent et descendent du Brown Streak, des réalisateurs en herbe et des touristes se ruent sur les studios de cinéma InterGlobal à peine sortis de Market Station. Hier comme à l'accoutumée, peu après onze heures du matin, en pleine heure de pointe, le train n°10574 en provenance de Unity Station venait de déposer son lot de passagers habituels à Market. C'est alors que le drame se produit. Une violente explosion balaya les personnes se trouvant sur le quai, arrachant au passage un pilier de soutient de la gare sous-terraine. Une épaisse fumée grise s'échappa alors de la bouche d'entrée de la station et les premières sirènes de pompiers se firent entendre : Market Station venait d'être frappée par une attaque terroriste.

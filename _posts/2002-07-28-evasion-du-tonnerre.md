@@ -7,7 +7,7 @@ date: '2002-07-28 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/07/27/evasion-du-tonnerre
+  - /2002/07/27/evasion-du-tonnerre
 ---
 
 Hier, dans le «silence » de la nuit, à Liberty City, une explosion (plus forte que les autres) s'est faite entendre. Les habitants ont tout d'abord pensé à la foudre, mais c'est en entendant la sirène des pompiers mêlée à celle des voitures de police que la population a pris conscience de ce qui se passait.

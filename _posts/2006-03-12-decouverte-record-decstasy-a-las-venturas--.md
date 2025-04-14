@@ -8,7 +8,7 @@ date: '2006-03-12 00:00:00'
 tags:
 - las-venturas
 redirect_from:
-- /2006/03/11/decouverte-record-decstasy-a-las-venturas--
+  - /2006/03/11/decouverte-record-decstasy-a-las-venturas
 ---
 
 _Ce matin, un terrible accident s'est produit en pleine Tierra Robada provoquant la mort de plusieurs personnes. Les fouilles ont révelé une grande présence d'ecstasy dans les soutes de l'appareil._

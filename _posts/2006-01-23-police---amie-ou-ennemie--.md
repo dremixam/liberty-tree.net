@@ -8,7 +8,7 @@ date: '2006-01-23 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2006/01/22/police---amie-ou-ennemie--
+  - /2006/01/22/police-amie-ou-ennemie
 ---
 
 _La police se transforme en grossiste. Peut-être la plus grande affaire de corruption._

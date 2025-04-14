@@ -8,7 +8,7 @@ date: '2014-10-05 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/10/04/alerte-aux-requins-a-san-andreas
+  - /2014/10/04/alerte-aux-requins-a-san-andreas
 ---
 
 _Un banc de requins a été aperçu à plusieurs reprises au large de Los Santos. Les garde-côtes ont donné l'alerte, et la plus grande prudence est vivement recommandée._

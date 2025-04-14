@@ -8,7 +8,7 @@ date: '2015-04-10 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2015/04/09/nouvelle-discorde-entre-les-deux-politicards-du-moment
+  - /2015/04/09/nouvelle-discorde-entre-les-deux-politicards-du-moment
 ---
 
 _Alors que les deux candidats se battent une fois de plus pour la prochaine réélection du poste de Gouverneur de San Andreas d'ici deux ans, le conservateur Cranley vient d'avouer publiquement aux journalistes TV de Weazel News que son opposante, [et actuelle gouverneur](/2014/02/18/sue-murry-elue-gouverneur-de-san-andreas--/), a été mêlée à la prostitution étant jeune. Alors, comme disent les jeunes, fake ou réalité ?_

@@ -8,7 +8,7 @@ date: '2014-02-08 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/02/07/trafic-de-cannabis-a-lecole-primaire
+  - /2014/02/07/trafic-de-cannabis-a-lecole-primaire
 ---
 
 _La police a fini par démanteler hier un réseau de cannabis qui trafiquait à l'ouest de la ville. Et on peut dire que ce trafic avait des clients... Bien particuliers._

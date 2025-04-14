@@ -8,7 +8,7 @@ date: '2014-02-25 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/02/24/le-premier-up-n-atom-fete-son-soixante-sixieme-anniversaire
+  - /2014/02/24/le-premier-up-n-atom-fete-son-soixante-sixieme-anniversaire
 ---
 
 _Il y a soixante-six ans, Up-N-Atom ouvrait son premier restaurant, sur une aire d'autoroute à l'est de Paleto Bay. Depuis, la chaîne s'est développée, et supplante désormais le leader national, Burger Shot, dans l'État de San Andreas. Avant peut-être de viser plus haut ?_

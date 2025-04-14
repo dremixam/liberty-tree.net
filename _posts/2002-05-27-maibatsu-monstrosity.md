@@ -8,7 +8,7 @@ date: '2002-05-27 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/26/maibatsu-monstrosity
+  - /2002/05/26/maibatsu-monstrosity
 ---
 
 C'est le nom que la société WMW avait décidé de donner à son nouveau prototype, qui a mystérieusement disparu, cette nuit...

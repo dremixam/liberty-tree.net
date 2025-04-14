@@ -8,7 +8,7 @@ date: '2014-01-23 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/22/los-santos---ville-inachevee
+  - /2014/01/22/los-santos-ville-inachevee
 ---
 
 En effet, vous avez sans doute remarqué, habitants de Los Santos, que la ville ne manquait pas de zones en construction. Ces dernières ne donnent aucune impression d'avancement, de progression. Certains pensent que personne ne s'active, d'autres pensent que si mais que ça ne se voit pas encore.

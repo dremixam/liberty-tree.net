@@ -8,7 +8,7 @@ date: '2006-02-22 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2006/02/21/bizutage-dans-larmee
+  - /2006/02/21/bizutage-dans-larmee
 ---
 
 _L'affaire a choqué tout l’État de San Andreas : une jeune recrue a dû se faire amputer des deux jambes ainsi que de ses organes génitaux Ã la suite d'un bizutage._

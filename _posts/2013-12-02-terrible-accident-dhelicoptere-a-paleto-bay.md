@@ -8,7 +8,7 @@ date: '2013-12-02 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/12/02/terrible-accident-dhelicoptere-a-paleto-bay
+  - /2013/12/02/terrible-accident-dhelicoptere-a-paleto-bay
 ---
 
 C'était une journée comme les autres qui s'annonçait à Paleto Bay. Hélas, elle a basculé dans la tragédie en fin de matinée, sur les coups de 11 heures. Un hélicoptère de police patrouille au-dessus de la ville, comme chaque matin. Soudainement, il commence à perdre de l'altitude. Alors qu'il approche de l'héliport du bureau du shérif, l'appareil percute violemment la résidence South Seas, face à la Blaine County Savings Bank.

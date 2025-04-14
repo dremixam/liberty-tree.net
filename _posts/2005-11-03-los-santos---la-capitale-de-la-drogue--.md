@@ -8,7 +8,7 @@ date: '2005-11-03 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/11/02/los-santos---la-capitale-de-la-drogue--
+  - /2005/11/02/los-santos-la-capitale-de-la-drogue
 ---
 
 _Los Santos, Idlewood, je partais manger une pizza au fast-food du coin... A part les coups de feu, les insultes entre gangs, j'entendais que "Hé mec ! Tu veux du tosma ? C'est d'la bonne ! C'est d'la bonne !". Une chose est sûre : LS est bien conquise par la drogue._

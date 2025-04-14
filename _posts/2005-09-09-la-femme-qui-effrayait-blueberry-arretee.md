@@ -8,7 +8,7 @@ date: '2005-09-09 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/09/08/la-femme-qui-effrayait-blueberry-arretee
+  - /2005/09/08/la-femme-qui-effrayait-blueberry-arretee
 ---
 
 Une individu pour le moins étrange vient d'être arrêtée dans la petite ville de Blueberry. Les habitants sont surpris.

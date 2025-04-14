@@ -8,7 +8,7 @@ date: '2005-10-11 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2005/10/10/tram-qui-roule--pas-vraiment-cool--
+  - /2005/10/10/tram-qui-roule-pas-vraiment-cool
 ---
 
 _La production de la série « Les Rues de San Fierro » est endeuillée._

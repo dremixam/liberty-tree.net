@@ -6,7 +6,7 @@ authors:
   - dremixam
 date: '2015-01-07 00:00:00'
 redirect_from:
-- /2015/01/06/je-suis-charlie
+  - /2015/01/06/je-suis-charlie
 ---
 
 Il n'y a pas de mots pour désigner l'horreur de la lourde attaque terroriste qu'a subi ce matin le siège de Charlie Hebdo. Le quotidien satirique déplore un bilan extrêmement lourd : 12 morts, dont les principaux dessinateurs du journal, et 5 blessés. Ce soir la presse, le peuple de France et même le monde entier sont sous le choc.

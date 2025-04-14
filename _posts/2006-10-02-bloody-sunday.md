@@ -8,7 +8,7 @@ date: '2006-10-02 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2006/10/01/bloody-sunday
+  - /2006/10/01/bloody-sunday
 ---
 
 La journée d'hier a fini d'une façon dramatique. Un AT400 de la compagnie Juank Air en provenance de Liberty City s'est écrasé sur la piste 69 du Los Santos International Airport (LSIA). Les boites noires de l'appareil ont été analysées dans la matinée mais il est encore trop tôt pour définir la cause du crash. Après de longues heures de discussion avec le LSPD et l'intervention de quelques relations dont les noms ne serons divulgués, Le SID (Scientific Investigation Department) a bien voulu nous faxer une copie du rapport d'analyse de l'enregistrement des boîtes ainsi que la position et le trajet de l'avion (en rouge) sur le radar du trafic aérien avant le crash

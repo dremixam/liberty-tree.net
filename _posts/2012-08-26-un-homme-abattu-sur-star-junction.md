@@ -8,7 +8,7 @@ date: '2012-08-26 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2012/08/25/un-homme-abattu-sur-star-junction
+  - /2012/08/25/un-homme-abattu-sur-star-junction
 ---
 
 Chaque fois qu'un événement inhabituel se produit dans un haut lieu touristique, les badauds présents sur place savourent le moment et des hordes de vacanciers asiatiques armés de leurs appareils photos bientôt ameutées par la vue de l'attraction assaillent rapidement les protagonistes à grand coups de flashs.

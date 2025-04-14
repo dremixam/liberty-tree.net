@@ -8,7 +8,7 @@ date: '2014-04-20 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/04/19/larmee-teste-son-nouveau-prototype-de-tank-de-facon----peu-conventionnelle
+  - /2014/04/19/larmee-teste-son-nouveau-prototype-de-tank-de-facon-peu-conventionnelle
 ---
 
 _Le Rhino Tank v2 a été testé récemment, tout près de la route et sur des caddies de golf..._

@@ -7,7 +7,7 @@ date: '2013-12-14 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2013/12/13/phil-cassidy-prend-sa-retraite
+  - /2013/12/13/phil-cassidy-prend-sa-retraite
 ---
 
 On n'avait plus entendu parler de l'homme depuis les années 1980, et aujourd'hui, alors qu'il approche les 80 ans, il vient d'annoncer via Internet (certainement par l'intermédiaire de ses enfants) qu'il compte "prendre une retraite bien méritée". Voilà ce qui rend la police de Vice City furieuse, d'autant plus qu'il est impossible de le localiser. En fait, tout le monde pensait même qu'il était mort depuis des années, la vie dans ce milieu ne tenant qu'à un fil.

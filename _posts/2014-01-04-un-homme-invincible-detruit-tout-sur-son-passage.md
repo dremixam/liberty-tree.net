@@ -8,7 +8,7 @@ date: '2014-01-04 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/03/un-homme-invincible-detruit-tout-sur-son-passage
+  - /2014/01/03/un-homme-invincible-detruit-tout-sur-son-passage
 ---
 
 Hier, vers midi, un individu non identifié a semé terreur et chaos à Los Santos jusqu'à ce matin dans les environs de 10 h 30. Nous l'avons suivi tout ce temps-là.

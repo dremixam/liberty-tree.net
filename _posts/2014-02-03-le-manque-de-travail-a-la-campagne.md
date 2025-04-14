@@ -8,7 +8,7 @@ date: '2014-02-03 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/02/02/le-manque-de-travail-a-la-campagne
+  - /2014/02/02/le-manque-de-travail-a-la-campagne
 ---
 
 Nous vous parlions récemment des politiciens qui se battent en vue des prochaines élections municipales en abordant des thèmes tels que l’insécurité dans les quartiers dits « chauds » de Los Santos, mais aujourd’hui l’un d’eux a abordé pour la première fois à la télévision le problème du manque de travail à la campagne. C’est une première : auparavant on avait l’impression qu’ils délaissaient totalement ces pauvres gens. Evidemment, ce n’est pas pour autant qu’ils vont changer les choses d’un coup de baguette magique. Il apparaît donc tout naturel que le Liberty Tree soit allé enquêter un peu sur le sujet. Que trouve-t-on au juste comme emploi dans les campagnes de la région ? Est-il plus stable qu’en ville ou au contraire est-ce l’inverse ? Quelles carrières s’offrent à ces jeunes en sortant de l’école ?

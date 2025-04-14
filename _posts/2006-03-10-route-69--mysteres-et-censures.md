@@ -8,7 +8,7 @@ date: '2006-03-10 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2006/03/09/route-69--mysteres-et-censures
+  - /2006/03/09/route-69-mysteres-et-censures
 ---
 
 _Depuis de nombreuses années, nous avons entendu beaucoup de rumeurs concernant des expériences illégales sur des aliens dans la zone 69, ou alors, l'observation d'ovnis traçant le ciel à toute allure. Pour vous, le Liberty Tree s'est mis pendant quelques heures à faire dans le paranormal._

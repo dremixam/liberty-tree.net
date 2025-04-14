@@ -8,7 +8,7 @@ date: '2006-01-11 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2006/01/10/un-drole-de-photographe
+  - /2006/01/10/un-drole-de-photographe
 ---
 
 _Depuis quelques semaines, plusieurs personnes affirment avoir vu un homme se jeter délibérément dans l'eau dans les environs de Fallen Tree au sud de San Fierro._

@@ -7,7 +7,7 @@ date: '2002-09-22 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/09/21/notre-redacteur-en-chef-menace
+  - /2002/09/21/notre-redacteur-en-chef-menace
 ---
 
 Alors que le bâtiment qui abrite la rédaction du Liberty Tree vient d'être entièrement rénové et repeint - dans une couleur saumonée qui s'intègre parfaitement dans les rues paisibles de notre belle ville - un vandale a honteusement tagué la porte du garage de notre bien aimé rédacteur en chef.

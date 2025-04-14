@@ -7,7 +7,7 @@ date: '2003-01-29 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2003/01/28/les-elections-municipales-approchent
+  - /2003/01/28/les-elections-municipales-approchent
 ---
 
 En effet, les élections arrivent comme tous les 4 ans dans notre belle ville de Liberty City, cette année 6 candidats dont l'actuel maire O'Donovan.

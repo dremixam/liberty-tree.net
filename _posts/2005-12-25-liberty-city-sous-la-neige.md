@@ -8,7 +8,7 @@ date: '2005-12-25 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2005/12/24/liberty-city-sous-la-neige
+  - /2005/12/24/liberty-city-sous-la-neige
 ---
 
 _Cette année à Liberty City, les habitants ont eu le droit à de la neige pour Noël. Une chose qui n'était pas survenue depuis de nombreuses années._

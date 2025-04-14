@@ -8,7 +8,7 @@ date: '2005-09-25 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/09/24/greve-des-eboueurs--
+  - /2005/09/24/greve-des-eboueurs
 ---
 
 _Encore une journée sans éboueurs, dans tout l’État de San Andreas. Un gigantesque mouvement de grève qui dure depuis maintenant trois jours : Du jamais vu!_

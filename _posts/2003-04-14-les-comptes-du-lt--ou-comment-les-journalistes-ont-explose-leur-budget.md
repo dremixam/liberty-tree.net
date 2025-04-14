@@ -8,7 +8,7 @@ date: '2003-04-14 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2003/04/13/les-comptes-du-lt--ou-comment-les-journalistes-ont-explose-leur-budget
+  - /2003/04/13/les-comptes-du-lt-ou-comment-les-journalistes-ont-explose-leur-budget
 ---
 
 Une enquête du magazine "75 minutes" de la chaîne KPLC a montré hier des absurdités monstres au sujet des journalistes du Liberty Tree.

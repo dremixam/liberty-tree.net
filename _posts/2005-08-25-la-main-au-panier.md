@@ -8,7 +8,7 @@ date: '2005-08-25 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/08/24/la-main-au-panier
+  - /2005/08/24/la-main-au-panier
 ---
 
 A l'occasion du match événement entre les Rimmers de Los Santos et les Mambas de Vice City, j'ai le privilège d'interviewer Isaac Turner, basketteur prodige des Rimmers.

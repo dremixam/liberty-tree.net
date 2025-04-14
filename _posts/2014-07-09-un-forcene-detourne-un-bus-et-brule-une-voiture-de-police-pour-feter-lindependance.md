@@ -8,7 +8,7 @@ date: '2014-07-09 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/07/09/un-forcene-detourne-un-bus-et-brule-une-voiture-de-police-pour-feter-lindependance
+  - /2014/07/09/un-forcene-detourne-un-bus-et-brule-une-voiture-de-police-pour-feter-lindependance
 ---
 
 _Les décombres ont été retrouvés lundi matin, à la suite de ce week-end festif particulièrement arrosé, et le forcené a publié plusieurs clichés surprenants sur LifeInvader._

@@ -8,7 +8,7 @@ date: '2002-05-19 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/18/attention---femme-dangeureuse
+  - /2002/05/18/attention-femme-dangeureuse
 ---
 
 Les sources du FBI déclarent qu'un voleur de banque féminin bien connu de leurs services opère maintenant dans le secteur de Liberty City. La Police croit que la photographie ci-dessus représente mystérieuse et très dangereuse femme en rapport avec un certain nombre de braquages de banque dans le sud-ouest des Etats-Unis pendant les trois dernières années. Le FBI qui a poursuivi cette femme depuis plusieurs années maintenant, après une série de vols au Texas et au Nouveau Mexique, croit maintenant qu'elle aurait pu immigrer à la Liberty City, probablement avec l'aide d'un complice.

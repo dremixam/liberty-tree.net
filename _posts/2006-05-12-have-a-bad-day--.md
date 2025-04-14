@@ -8,7 +8,7 @@ date: '2006-05-12 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2006/05/11/have-a-bad-day--
+  - /2006/05/11/have-a-bad-day
 ---
 
 Les cadavres se suivent et se ressemblent à la morgue du LSPD en cette douce journée de Mai. Trois morts violentes, trois règlements de compte qui semblent être signés d'une seule et même personne.

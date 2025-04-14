@@ -8,7 +8,7 @@ date: '2014-07-24 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/07/23/un-attentat-dejoue-au-kortz-center
+  - /2014/07/23/un-attentat-dejoue-au-kortz-center
 ---
 
 _Un attentat à la voiture piégée a été déjoué hier, juste avant une visite du maire de la ville. Le suspect n'a pas encore été appréhendé._

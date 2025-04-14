@@ -8,7 +8,7 @@ date: '2005-09-14 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/09/13/los-santos--la-capitale-du-crime--
+  - /2005/09/13/los-santos-la-capitale-du-crime
 ---
 
 Depuis un an, le taux de criminalité de la métropole de San Andreas est en hausse croissante : vols à main armée, agressions, dégradations volontaires… Rien ne va plus en ville. Le Liberty Tree vous livre aujourd'hui un exposé détaillé de la situation…

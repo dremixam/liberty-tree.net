@@ -8,7 +8,7 @@ date: '2002-04-27 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/04/26/la-fureur-de-voltiger
+  - /2002/04/26/la-fureur-de-voltiger
 ---
 
 Un nouveau jeu est apparu depuis quelques semaines chez nos concitoyens. Il sont de plus en plus nombreux à se réunir le soir dans un parking de Staunton Island pour se livrer à un drôle de ballet artistique. Après s'être introduit quelques suppositoires de Spank, ils montent dans leurs voitures et partent à la recherche d'obstacles pouvant leur servir de tremplins afin de réaliser les cascades les plus spectaculaires. Le jeu consiste en effet à effectuer le saut le plus dangereux au dessus des rues tranquilles de notre belle ville. Pour assurer une compétition juste, des arbitres différents sont désignés chaque soir et donnent des notes aux participants sur des critères artistiques et techniques dans le but d'élire le meilleur « voltigeur » de la soirée.

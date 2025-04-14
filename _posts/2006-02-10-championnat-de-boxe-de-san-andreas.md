@@ -8,7 +8,7 @@ date: '2006-02-10 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2006/02/09/championnat-de-boxe-de-san-andreas
+  - /2006/02/09/championnat-de-boxe-de-san-andreas
 ---
 
 _Le championnat de boxe de San Andreas s'est terminé il y a peu. Retour sur une compétition riche en surprises._

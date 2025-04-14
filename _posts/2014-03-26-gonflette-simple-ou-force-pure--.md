@@ -8,7 +8,7 @@ date: '2014-03-26 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/03/25/gonflette-simple-ou-force-pure--
+  - /2014/03/25/gonflette-simple-ou-force-pure
 ---
 
 _Le bodybuilding à Los Santos connaît des passionnés mais aussi des controverses. Focus sur ce sport faisant de plus en plus parler de lui._

@@ -8,7 +8,7 @@ date: '2005-08-27 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2005/08/26/fermeture-definitive--
+  - /2005/08/26/fermeture-definitive
 ---
 
 1972 : un terrible double-attentat défigure une rue du quartier de St Marks. Depuis, sur ces quelques mètres de ville abandonnés, la reconstruction se fait attendre. Le Liberty Tree a enquêté.

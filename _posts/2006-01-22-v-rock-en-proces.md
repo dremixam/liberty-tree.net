@@ -8,7 +8,7 @@ date: '2006-01-22 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2006/01/21/v-rock-en-proces
+  - /2006/01/21/v-rock-en-proces
 ---
 
 _A cause d'un morceau de Heavy Metal d'un anonyme, la station V-rock risque d'être supprimée, Le directeur de la station, Jason Lewis, et les Love Fist luttent contre le procès._

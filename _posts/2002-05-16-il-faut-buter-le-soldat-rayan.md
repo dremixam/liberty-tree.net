@@ -7,7 +7,7 @@ date: '2002-05-16 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/15/il-faut-buter-le-soldat-rayan
+  - /2002/05/15/il-faut-buter-le-soldat-rayan
 ---
 
 Le sergent Rayan a tué 60 personnes dans une course poursuite avec les forces de l'ordre.

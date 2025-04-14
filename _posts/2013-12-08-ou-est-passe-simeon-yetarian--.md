@@ -8,7 +8,7 @@ date: '2013-12-08 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/12/07/ou-est-passe-simeon-yetarian--
+  - /2013/12/07/ou-est-passe-simeon-yetarian
 ---
 
 A l'intérieur, tout est vide. Pas de bureau, pas de véhicule. A l'arrière, le garage est fermé. Aucune trace de Simeon Yetarian, et ce depuis près de deux mois. Le plus étrange, c'est que personne ne semble s'en inquiéter. C'est le LSPD qui s'est rendu compte qu'il avait disparu, il y a seulement quelques jours, comme nous le confirme un agent de police.

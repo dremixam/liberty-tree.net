@@ -8,7 +8,7 @@ date: '2005-12-07 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2005/12/06/interview-de-deux-lesbiennes-a-san-fierro
+  - /2005/12/06/interview-de-deux-lesbiennes-a-san-fierro
 ---
 
 _Alicia et Kate dévoilent leur vie, ces femmes de 23 et 24 ans ont décidé de ne plus se cacher. Elles veulent assumer leur homosexualité et surtout prouver que l'on ne doit pas avoir peur du regard des autres._

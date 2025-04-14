@@ -6,7 +6,7 @@ authors:
   - dremixam
 date: '2005-08-22 00:00:00'
 redirect_from:
-- /2005/08/21/incendie-criminel-dans-red-county
+  - /2005/08/21/incendie-criminel-dans-red-county
 ---
 
 Il était 2 heures du matin lorsque l'incendie s'est déclaré au rez-de-chaussée de ce petit immeuble de Red Country. Les pompiers, rapidement dépêchés sur place n'ont rien pu faire pour secourir les malheureux occupants de l'immeuble qui ont tous péri dans les flammes.

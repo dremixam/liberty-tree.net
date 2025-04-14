@@ -8,7 +8,7 @@ date: '2014-05-06 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2014/05/05/lincroyable-famille-debbyshian-a-liberty-city-
+  - /2014/05/05/lincroyable-famille-debbyshian-a-liberty-city
 ---
 
 _En 2004, la chaîne de télévision bien connue des américains Eye-Be-One dévoilait une série de plusieurs saisons nommée "Les Rues de San Fierro". Elle revient cette fois-ci avec un nouveau show..._

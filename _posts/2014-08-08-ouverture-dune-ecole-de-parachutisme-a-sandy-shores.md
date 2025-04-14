@@ -8,7 +8,7 @@ date: '2014-08-08 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/08/07/ouverture-dune-ecole-de-parachutisme-a-sandy-shores
+  - /2014/08/07/ouverture-dune-ecole-de-parachutisme-a-sandy-shores
 ---
 
 _Garrett Evans a ouvert cette semaine à Sandy Shores un club de parachutisme, qui permet aussi aux moins expérimentés de découvrir et d'apprendre à pratiquer le saut en parachute..._

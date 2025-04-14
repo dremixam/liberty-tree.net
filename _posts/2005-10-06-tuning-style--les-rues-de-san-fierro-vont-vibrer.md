@@ -8,7 +8,7 @@ date: '2005-10-06 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2005/10/05/tuning-style--les-rues-de-san-fierro-vont-vibrer
+  - /2005/10/05/tuning-style-les-rues-de-san-fierro-vont-vibrer
 ---
 
 _La culture "djeuns" s'était invitée à los Santos avec le Tag, elle s'arrête aujourd'hui à San Fierro pour montrer un autre aspect : le tuning. Expo de machines gonflées à bloc._

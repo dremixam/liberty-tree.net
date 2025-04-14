@@ -8,7 +8,7 @@ date: '2014-05-01 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/04/30/course-poursuite-fatale
+  - /2014/04/30/course-poursuite-fatale
 ---
 
 _Deux jeunes hommes ont perdu la vie hier, au terme d'une longue course-poursuite avec les forces de l'ordre. Leur mort ressemble fortement à la scène finale d'un célèbre film..._

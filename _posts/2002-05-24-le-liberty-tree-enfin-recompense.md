@@ -8,7 +8,7 @@ date: '2002-05-24 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/23/le-liberty-tree-enfin-recompense
+  - /2002/05/23/le-liberty-tree-enfin-recompense
 ---
 
 Après deux années de bons et loyaux services à Liberty City, le Liberty Tree a enfin obtenu la subvention qu'il espérait. En effet, le maire vient d'offrir un chèque de 500 000$ pour, je cite :

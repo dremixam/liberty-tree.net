@@ -8,7 +8,7 @@ date: '2006-03-07 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2006/03/06/le-violeur-de-fern-ridge-arrete
+  - /2006/03/06/le-violeur-de-fern-ridge-arrete
 ---
 
 _Le violeur en série qui agissait dans les environs de Fern Ridge a été arrêté par la police de Los Santos._

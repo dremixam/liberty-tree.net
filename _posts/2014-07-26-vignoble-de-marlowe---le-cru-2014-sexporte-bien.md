@@ -8,7 +8,7 @@ date: '2014-07-26 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/07/25/vignoble-de-marlowe---le-cru-2014-sexporte-bien
+  - /2014/07/25/vignoble-de-marlowe-le-cru-2014-sexporte-bien
 ---
 
 _Le "Marlowe Vineyards 2014 Limited Edition" s'exporte très bien cette année. Je me suis rendu au château pour essayer de comprendre ce qui fait la renommée de ce vin majestueux..._

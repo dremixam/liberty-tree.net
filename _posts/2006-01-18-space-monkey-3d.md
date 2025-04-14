@@ -6,7 +6,7 @@ authors:
   - diabolik-c
 date: '2006-01-18 00:00:00'
 redirect_from:
-- /2006/01/17/space-monkey-3d
+  - /2006/01/17/space-monkey-3d
 ---
 
 _Le jeu culte des années 90 reviens dans un nouvel opus qui devrait faire la joie des fans._

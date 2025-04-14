@@ -7,7 +7,7 @@ date: '2002-05-16 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/15/nouveau-trafic-darmes-et-de-drogue
+  - /2002/05/15/nouveau-trafic-darmes-et-de-drogue
 ---
 
 La police de Liberty City a découvert un important trafic.

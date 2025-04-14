@@ -7,7 +7,7 @@ date: '2012-11-28 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2012/11/27/record-de-vitesse-a-red-county
+  - /2012/11/27/record-de-vitesse-a-red-county
 ---
 
  **Cette nuit, un radar a flashé le conducteur d'un quad à la vitesse de 234 km/h. Le suspect est actuellement activement recherché par les services de police.**

@@ -8,7 +8,7 @@ date: '2002-05-10 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/09/panique-a-la-panlantic
+  - /2002/05/09/panique-a-la-panlantic
 ---
 
 Les dirigeants de la société de BTP Panlantic Construction ont été mis aux arrêts, hier après-midi, à la suite d'une brillante opération policière. La société servirait en fait à blanchir une grande quantité d'argent sale, provenant du trafic de spank mené par le cartel sud américain.

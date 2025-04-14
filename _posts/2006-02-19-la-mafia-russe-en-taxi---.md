@@ -8,7 +8,7 @@ date: '2006-02-19 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2006/02/18/la-mafia-russe-en-taxi---
+  - /2006/02/18/la-mafia-russe-en-taxi
 ---
 
 _Les taxis de notre état sont de plus en plus utilisés par les citadins. Malheureusement, certaines personnes ont trouvé comment gagner de l'argent en maquillant leur propre voiture en taxi. Une plaie pour les chauffeurs de taxis qui perdent de la clientèle avec ces "faux chauffeurs"._

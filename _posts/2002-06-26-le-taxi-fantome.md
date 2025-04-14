@@ -8,7 +8,7 @@ date: '2002-06-26 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/25/le-taxi-fantome
+  - /2002/06/25/le-taxi-fantome
 ---
 
 Cette après midi un taxi s'est promené dans Liberty, normal vu qu'un taxi est fait pour rouler,oui mais celui-ci était vide !

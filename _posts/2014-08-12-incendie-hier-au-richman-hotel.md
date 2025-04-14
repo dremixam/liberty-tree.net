@@ -8,7 +8,7 @@ date: '2014-08-12 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/08/11/incendie-hier-au-richman-hotel
+  - /2014/08/11/incendie-hier-au-richman-hotel
 ---
 
 _Hier dans la journée, le Richman Hotel a dû être évacué suite à un client inconscient au sujet des risques potentiels que peuvent occasionner une cigarette..._

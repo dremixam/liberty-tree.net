@@ -8,7 +8,7 @@ date: '2014-08-22 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/08/21/fort-zancudo-fait-decouvrir-ses-metiers-au-public
+  - /2014/08/21/fort-zancudo-fait-decouvrir-ses-metiers-au-public
 ---
 
 _Hier, une vingtaine de militaires se sont rendus à l'aéroport de Los Santos pour faire découvrir leur quotidien._

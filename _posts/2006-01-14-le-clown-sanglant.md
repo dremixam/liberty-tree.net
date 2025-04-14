@@ -9,7 +9,7 @@ tags:
 - vice-city
 - liberty-city
 redirect_from:
-- /2006/01/13/le-clown-sanglant
+  - /2006/01/13/le-clown-sanglant
 ---
 
 _Depuis quelques jours, un clown sème la terreur en tuant les innocents de Las Venturas, heureusement, il est déjà sous les verrous._

@@ -7,7 +7,7 @@ date: '2002-11-04 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/11/03/racket--des-sommes-records-a-liberty
+  - /2002/11/03/racket-des-sommes-records-a-liberty
 ---
 
 Le gang numéro 1 du racket à Liberty City c'est bien sur la famille Leone, qui se fait un salaire mensuel dans ce domaine estimé à 15'000'000 $. On estime que 15 à 30 % des entreprises, ici, à Liberty se font racketter dans un ordre de grandeur de 5 à 35 % de leurs salaires bruts.

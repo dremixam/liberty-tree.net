@@ -8,7 +8,7 @@ date: '2014-03-10 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/03/09/declare-mort--il-ressuscite-a-la-morgue
+  - /2014/03/09/declare-mort-il-ressuscite-a-la-morgue
 ---
 
 _Un sexagénaire avait été déclaré mort lundi dernier à l'hôpital de Los Santos, avant d'être envoyé à la morgue. Il s'est réveillé le lendemain, dans sa housse mortuaire, peu de temps avant son embaumement..._

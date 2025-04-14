@@ -8,7 +8,7 @@ date: '2002-06-28 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/27/operation--nettoyage-de-printemps
+  - /2002/06/27/operation-nettoyage-de-printemps
 ---
 
 Aujourd'hui, la municipalité a annoncé le début de "l'Opération: Nettoyage de printemps" qui s'est reproduite et qui se reproduit chaque année et ce depuis 6 ans.

@@ -8,7 +8,7 @@ date: '2014-03-25 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/03/24/le-base-jump--nouvelle-mode-a-san-andreas
+  - /2014/03/24/le-base-jump-nouvelle-mode-a-san-andreas
 ---
 
 _\_Depuis peu de temps, une nouvelle mode est arrivée dans notre ville et ses environ, le : Base Jump._

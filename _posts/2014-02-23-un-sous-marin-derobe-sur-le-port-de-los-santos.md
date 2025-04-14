@@ -8,7 +8,7 @@ date: '2014-02-23 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/02/22/un-sous-marin-derobe-sur-le-port-de-los-santos
+  - /2014/02/22/un-sous-marin-derobe-sur-le-port-de-los-santos
 ---
 
 _Hier, des mercenaires de la compagnie privée Merryweather, qui détient une base sur le port de Los Santos, n'ont pu que constater que l'un de leurs sous-marins avait disparu..._

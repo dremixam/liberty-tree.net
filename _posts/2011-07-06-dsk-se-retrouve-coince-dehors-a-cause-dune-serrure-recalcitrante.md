@@ -8,7 +8,7 @@ date: '2011-07-06 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2011/07/05/dsk-se-retrouve-coince-dehors-a-cause-dune-serrure-recalcitrante
+  - /2011/07/05/dsk-se-retrouve-coince-dehors-a-cause-dune-serrure-recalcitrante
 ---
 
 Après avoir subi la violence inouïe de la justice américaine, Dominique Strauss-Kahn profite de ses journées dans sa maison de The Triangle en compagnie de son épouse. Hier soir, après avoir dîné au restaurant, le couple rentre à son domicile vers vingt-​deux heures. Mais au moment d'introduire la clé dans la serrure, un drame se produit. En effet, l'orifice se révèle être totalement impénétrable.

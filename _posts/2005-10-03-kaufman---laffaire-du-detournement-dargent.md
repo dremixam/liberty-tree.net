@@ -8,7 +8,7 @@ date: '2005-10-03 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/10/02/kaufman---laffaire-du-detournement-dargent
+  - /2005/10/02/kaufman-laffaire-du-detournement-dargent
 ---
 
 _Cela fait un choc pour les habitués des taxis Kaufman qu'empruntent chaque jour des centaines de Viciens. Il semblerait que la compagnie soit impliquée dans une sombre affaire de détournement fiscal ! Enquête :_

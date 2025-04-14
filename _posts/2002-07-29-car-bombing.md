@@ -7,7 +7,7 @@ date: '2002-07-29 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/07/28/car-bombing
+  - /2002/07/28/car-bombing
 ---
 
 Un gros problème mine notre société à l'heure actuelle : les jeunes en congés scolaires s'ennuient : Eh oui, les parents « travaillent » la journée et leurs chers bambins ne savent plus comment occuper leurs après midis, c'est alors qu'ils traînent dans les rues sans savoir que faire. Il leur vient alors des idées d' « occupations ».

@@ -8,7 +8,7 @@ date: '2002-08-07 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/08/06/la-police-teste-ses-nouveaux-vehicules
+  - /2002/08/06/la-police-teste-ses-nouveaux-vehicules
 ---
 
 La semaine dernière, la police de Liberty City a reçu les nouveaux véhicules, ces véhicules commandés depuis maintenant presque deux ans sont le dernier cri en ce qui concerne la motorisation, même si l'aspect reste le même, les performances changent du tout au tout.

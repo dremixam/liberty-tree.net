@@ -9,7 +9,7 @@ date: '2014-03-04 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/03/03/les-employes-de-burger-shot-interdits-de-consommer-la-nourriture-quils-servent--
+  - /2014/03/03/les-employes-de-burger-shot-interdits-de-consommer-la-nourriture-quils-servent
 ---
 
 _Nouveau scandale sanitaire en vue dans le monde de la restauration rapide : un ancien employé de Burger Shot a révélé que les employés n'avaient pas le droit, pour raisons de santé, de consommer la nourriture qu'ils servent._

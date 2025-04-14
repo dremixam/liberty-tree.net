@@ -10,7 +10,7 @@ tags:
 - san-fierro
 - las-venturas
 redirect_from:
-- /2013/11/21/un-trafic-de-methamphetamines-geant-a-sandy-shores--
+  - /2013/11/21/un-trafic-de-methamphetamines-geant-a-sandy-shores
 ---
 
 _La police serait sur le point de démanteler un immense trafic de méthamphétamines dont la source émanerait de Sandy Shores. Pour vous lecteurs, le Liberty Tree a mené l'enquête._

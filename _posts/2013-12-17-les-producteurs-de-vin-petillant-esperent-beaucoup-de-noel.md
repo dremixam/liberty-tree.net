@@ -8,7 +8,7 @@ date: '2013-12-17 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/12/16/les-producteurs-de-vin-petillant-esperent-beaucoup-de-noel
+  - /2013/12/16/les-producteurs-de-vin-petillant-esperent-beaucoup-de-noel
 ---
 
 Depuis de nombreuses années, des producteurs de vin exploitent leurs vignobles de la région de Los Santos et Blaine County de père en fils. Nombreux sont les touristes qui ne manquent pas de photographier les immenses miles de vignes avant de repartir. Mais il se pourrait bien que ces majestueuses vignes soient prochainement en voie de disparaître…

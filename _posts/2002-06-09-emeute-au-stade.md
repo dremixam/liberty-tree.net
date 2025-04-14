@@ -8,7 +8,7 @@ date: '2002-06-09 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/08/emeute-au-stade
+  - /2002/06/08/emeute-au-stade
 ---
 
 De tragiques affrontements entre hooligans ont encore une fois gâché la fête devant le stade de notre chère ville...

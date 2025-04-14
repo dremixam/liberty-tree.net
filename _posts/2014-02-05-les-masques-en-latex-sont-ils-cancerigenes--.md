@@ -8,7 +8,7 @@ date: '2014-02-05 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/02/04/les-masques-en-latex-sont-ils-cancerigenes--
+  - /2014/02/04/les-masques-en-latex-sont-ils-cancerigenes
 ---
 
 _Une étude récente et des cas avérés ont fortement remis en cause l'origine des masques en latex vendus sur Vespucci Beach. Ceux-ci seraient-ils dangereux pour la santé de l'homme ?_

@@ -9,7 +9,7 @@ date: '2005-12-10 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/12/09/inauguration-du-monument-andrew-sherman--70-ans-apres-la-pose-de-la-premiere-pierre
+  - /2005/12/09/inauguration-du-monument-andrew-sherman-70-ans-apres-la-pose-de-la-premiere-pierre
 ---
 
 _Dans la série « La fierté de San Andreas », nous rendons aujourd'hui hommage au bâtisseur du plus grand ouvrage de l'État de San Andreas : le Barrage Sherman._

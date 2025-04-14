@@ -8,7 +8,7 @@ date: '2014-03-11 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/03/10/la-colere-a-los-santos
+  - /2014/03/10/la-colere-a-los-santos
 ---
 
 _Los Santos, l'une des plus grandes villes du pays, représente très bien la vision que le monde a du Rêve Américain. Les inégalités, le racisme, le patriotisme, la prostitution... Los Santos devient de plus en plus l'image des péchés capitaux._

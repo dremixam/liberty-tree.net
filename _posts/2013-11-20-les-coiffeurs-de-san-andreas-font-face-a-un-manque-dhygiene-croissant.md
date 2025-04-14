@@ -10,7 +10,7 @@ tags:
 - las-venturas
 - san-fierro
 redirect_from:
-- /2013/11/19/les-coiffeurs-de-san-andreas-font-face-a-un-manque-dhygiene-croissant
+  - /2013/11/19/les-coiffeurs-de-san-andreas-font-face-a-un-manque-dhygiene-croissant
 ---
 
 Le problème est clair : lorsque vous entrez dans l’un des nombreux salons de coiffure de la ville, vous avez tout simplement l’impression de retourner plus de vingt ans en arrière ! La plupart de ces salons sont petits, sales, et peu voire pas du tout climatisés. Comment les clients peuvent-ils être à l’aise dans ces conditions ? Ces conditions seraient-elles encore une fois liées à la crise, qui appauvrirait les coiffeurs ?

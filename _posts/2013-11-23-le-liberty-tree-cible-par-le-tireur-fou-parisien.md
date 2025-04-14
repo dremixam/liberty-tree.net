@@ -8,7 +8,7 @@ date: '2013-11-23 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/11/23/le-liberty-tree-cible-par-le-tireur-fou-parisien
+  - /2013/11/23/le-liberty-tree-cible-par-le-tireur-fou-parisien
 ---
 
 Alors que les forces de police françaises ont fini par retrouver le forcené qui a ouvert le feu à plusieurs reprises en visant des rédactions parisiennes en début de semaine, le Liberty Tree révèle avoir lui aussi été victime mardi du fameux tireur.

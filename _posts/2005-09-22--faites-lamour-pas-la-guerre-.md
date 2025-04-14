@@ -8,7 +8,7 @@ date: '2005-09-22 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2005/09/21/-faites-lamour-pas-la-guerre-
+  - /2005/09/21/-faites-lamour-pas-la-guerre
 ---
 
 L'industrie du sexe a connu un énorme essor ces dernières années. Du SexShop à la boite de Strip Tease en passant par la prostitution, elle est plus que jamais présente dans notre État. Le Liberty Tree a enquêté pour vous sur cette mystérieuse industrie...

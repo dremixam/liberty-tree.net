@@ -8,7 +8,7 @@ date: '2005-09-19 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2005/09/18/peur-sur-le-village
+  - /2005/09/18/peur-sur-le-village
 ---
 
 Depuis hier, la village de Montgomery, Red County, est sous le choc d'une tentative de braquage du vendeur de spiritueux "Hannibal". Alors que les habitants du bourg demandent une présence policière plus effective dans les rues, l'enquête piétine.

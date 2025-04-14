@@ -8,7 +8,7 @@ date: '2006-03-08 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2006/03/07/head-radio-poursuivi-pour-avoir-diffuse-une-musique-raciste
+  - /2006/03/07/head-radio-poursuivi-pour-avoir-diffuse-une-musique-raciste
 ---
 
 _La célèbre station Head Radio a été poursuivie par plusieurs auditeurs pour avoir diffusé une musique raciste._

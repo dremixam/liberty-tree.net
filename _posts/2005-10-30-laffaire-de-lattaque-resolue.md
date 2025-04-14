@@ -8,7 +8,7 @@ date: '2005-10-30 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/10/29/laffaire-de-lattaque-resolue
+  - /2005/10/29/laffaire-de-lattaque-resolue
 ---
 
 _C'était il y a quelques jours, un camion de type "Mule" avait été attaqué a la sortie du port de Vice City. L'affaire est maintenant résolue._

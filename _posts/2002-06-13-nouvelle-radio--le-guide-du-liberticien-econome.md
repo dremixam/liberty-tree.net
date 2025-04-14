@@ -7,7 +7,7 @@ date: '2002-06-13 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/12/nouvelle-radio--le-guide-du-liberticien-econome
+  - /2002/06/12/nouvelle-radio-le-guide-du-liberticien-econome
 ---
 
 [La déclaration de Mr Enkodet](/2002/06/12/une-nouvelle-radio-sur-les-ondes-fm-de-liberty-city-/) vous a fait avaler votre café de travers ? Rassurez vous le Liberty Tree a pensé à vous et vous propose un guide pour monter tout seul votre propre radio!

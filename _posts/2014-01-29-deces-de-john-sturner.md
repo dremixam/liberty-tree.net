@@ -8,7 +8,7 @@ date: '2014-01-29 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/28/deces-de-john-sturner
+  - /2014/01/28/deces-de-john-sturner
 ---
 
 C'est donc la nuit dernière que nous avons appris le décès de John Arthur Sturner, ancien gouverneur de l'État de San Andreas, à l'âge de 63 ans, des suites d'une longue maladie. L'homme s'est éteint dans son sommeil, à l'hôpital de Mount Zonah, à Los Santos. La nouvelle a surpris beaucoup de monde, car l'ancien politicien avait montré des signes encourageants quant à la résorbation du cancer du poumon qui l'avait frappé il y a désormais 5 ans.

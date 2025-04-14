@@ -7,7 +7,7 @@ date: '2002-09-21 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/09/20/la-grande-evasion
+  - /2002/09/20/la-grande-evasion
 ---
 
 _Hier soir une audacieuse évasion organisée par un commando a permis à Alvaro Ramirez de s'échapper du poste de la LCPD de Staunton Island._

@@ -8,7 +8,7 @@ date: '2014-11-15 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/11/14/un-ovni-apercu-au-mont-chiliad
+  - /2014/11/14/un-ovni-apercu-au-mont-chiliad
 ---
 
 _Scène surréaliste au Mont Chiliad hier soir, où un témoin aurait aperçu un ovni. On aurait pu croire à une nouvelle affabulation d'un fou, mais celui-ci a pris une photo très troublante._

@@ -8,7 +8,7 @@ date: '2006-01-04 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2006/01/03/interview-dun-s-d-f-
+  - /2006/01/03/interview-dun-s-d-f
 ---
 
 _Il y a 4 ans, Simon était encore une personne respectable, travaillant pour une grande chaîne de super marchés. Il vivait avec sa femme et ses 4 enfants. Quand du jour au lendemain, il se retrouva jeté à la rue par sa femme et renié par ses enfants et sa famille._

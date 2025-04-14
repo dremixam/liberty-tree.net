@@ -8,7 +8,7 @@ date: '2006-02-18 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2006/02/17/greve-des-transports-en-commun-a-liberty-city
+  - /2006/02/17/greve-des-transports-en-commun-a-liberty-city
 ---
 
 _Pendant toute la journée de lundi, la ville de Liberty City a connu une grande déception, une grève générale de tous les transports en commun de la ville._

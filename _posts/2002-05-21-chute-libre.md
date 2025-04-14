@@ -8,7 +8,7 @@ date: '2002-05-21 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/20/chute-libre
+  - /2002/05/20/chute-libre
 ---
 
 Incroyable mais vrai, un policier de notre bonne ville de Liberty City a été retrouvé dans sa voiture, tombée de l'immeuble du LCPD dans le quartier de Torrington à Staunton ! Cette information à chaud provient de notre indic, présent sur les lieux, il a vu tomber le véhicule du haut du gratte ciel, plus précisément de la base d'hélicoptère. Simple provocation ? De qui ? La police est en train d'étudier le dossier. Le policier en question, George O'Coneil, aurait-il trempé dans de mauvaises affaires (assez courant de nos jours) ? En savait-il trop ?

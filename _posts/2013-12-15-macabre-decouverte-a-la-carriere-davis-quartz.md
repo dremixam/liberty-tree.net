@@ -8,7 +8,7 @@ date: '2013-12-15 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/12/14/macabre-decouverte-a-la-carriere-davis-quartz
+  - /2013/12/14/macabre-decouverte-a-la-carriere-davis-quartz
 ---
 
 La découverte a été faite hier, dans la matinée. Une dalle de béton suspecte est repérée au nord de la carrière. Après démantelage de la dalle, les ouvriers découvrent horrifiés une dizaine de cadavres d'hommes, de femmes et même d'enfants. Rapidement, la police arrive sur place et les lieux sont bouclés.

@@ -8,7 +8,7 @@ date: '2006-02-28 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2006/02/27/nouvelle-vague-de-vehicules-sur-liberty-city
+  - /2006/02/27/nouvelle-vague-de-vehicules-sur-liberty-city
 ---
 
 _Préparez-vous, de tout nouveaux modèles de véhicules arrivent à Liberty City, aussi sportives que berlines. Cette nouvelle gamme risque d'en séduire plus d'un..._

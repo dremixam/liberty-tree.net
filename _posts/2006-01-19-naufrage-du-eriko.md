@@ -8,7 +8,7 @@ date: '2006-01-19 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2006/01/18/naufrage-du-eriko
+  - /2006/01/18/naufrage-du-eriko
 ---
 
 _Un paquebot transportant des marchandises de Pékin a fait naufrage dans la baie de San Fierro._

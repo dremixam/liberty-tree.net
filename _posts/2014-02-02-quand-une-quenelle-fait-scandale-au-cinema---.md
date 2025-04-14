@@ -8,7 +8,7 @@ date: '2014-02-02 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/02/01/quand-une-quenelle-fait-scandale-au-cinema---
+  - /2014/02/01/quand-une-quenelle-fait-scandale-au-cinema
 ---
 
 _Déjà sujet à controverse, le geste jugé anti-système par certains, anti-sémite par d'autres, qui consiste à placer son bras gauche sur le bras opposé, fait de nouveau parler de lui, cette fois-ci à l'échelle nationale..._

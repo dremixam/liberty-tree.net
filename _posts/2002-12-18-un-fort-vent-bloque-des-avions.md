@@ -7,7 +7,7 @@ date: '2002-12-18 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/12/17/un-fort-vent-bloque-des-avions
+  - /2002/12/17/un-fort-vent-bloque-des-avions
 ---
 
 Un vent particulièrement fort perturba le trafic sur l'unique aéroport de notre ville: l'aéroport Francis.

@@ -8,7 +8,7 @@ date: '2014-02-10 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/02/09/une-ferme-de-grapeseed-reduite-en-cendres
+  - /2014/02/09/une-ferme-de-grapeseed-reduite-en-cendres
 ---
 
 Un incendie a ravagé une ferme de Grapeseed hier dans l'après-midi, la détruisant complètement. La découverte récente d'un labo de méth situé au sous-sol pourrait expliquer cet incendie...\*

@@ -8,7 +8,7 @@ date: '2014-05-10 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/05/09/lart-de-vivre-a-la-campagne
+  - /2014/05/09/lart-de-vivre-a-la-campagne
 ---
 
 _Alors qu'il y a encore une petite décennie, les campagnards étaient montré comme des ploucs par les citadins ; aujourd'hui, c'est tout l'inverse. Au contraire, de plus en plus de ces citadins font le choix de s'isoler à Blaine County. Mais alors, quelles en sont les raisons ? Entre les loyers moins chers, la possibilité d'avoir un grand jardin, pas ou peu de voisins et moins de cambriolage, les avis divergent..._

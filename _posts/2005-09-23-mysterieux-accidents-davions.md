@@ -8,7 +8,7 @@ date: '2005-09-23 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2005/09/22/mysterieux-accidents-davions
+  - /2005/09/22/mysterieux-accidents-davions
 ---
 
 _Hier soir, deux avions se sont écrasés au sommet du Mont Chiliad. Les causes de cette tragédie sont encore floues mais des témoignages ont fourni des renseignements intéressants._

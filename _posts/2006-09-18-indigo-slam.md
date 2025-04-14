@@ -8,7 +8,7 @@ date: '2006-09-18 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2006/09/17/indigo-slam
+  - /2006/09/17/indigo-slam
 ---
 
 Los Santos, SA - 3:30PM. Ben Chenier et Chris Morales, deux fondus de skate-board de Ganton, décident de faire quelques figures sur les parois du canal de Los Santos. Une après-midi aux allures calmes et paisibles, jusqu'au moment où Chris remarque une vieille Pontiac abandonnée dans l'un des tunnels d'entrée du canal.

@@ -8,7 +8,7 @@ date: '2014-04-28 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/04/27/le-pere-noel-enfin-arrete
+  - /2014/04/27/le-pere-noel-enfin-arrete
 ---
 
 _Après des semaines de cavale, le [Père Noël qui commettait plusieurs braquages à main armée](/2014/01/26/le-pere-noel-est-une-ordure/) a enfin été arrêté, et l'identité réelle du bonhomme est plus que surprenante..._

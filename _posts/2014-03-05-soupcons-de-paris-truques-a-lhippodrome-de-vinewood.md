@@ -8,7 +8,7 @@ date: '2014-03-05 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/03/04/soupcons-de-paris-truques-a-lhippodrome-de-vinewood
+  - /2014/03/04/soupcons-de-paris-truques-a-lhippodrome-de-vinewood
 ---
 
 _Le LSPD a fait fermer l'hippodrome de Vinewood hier après avoir découvert que des paris truqués pourraient y avoir eu lieu. La décision prise par la police semble curieuse, d'autant plus que personne sur place ne semble être au courant de quoi que ce soit..._

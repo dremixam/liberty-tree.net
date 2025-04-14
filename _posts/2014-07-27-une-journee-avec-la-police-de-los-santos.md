@@ -8,7 +8,7 @@ date: '2014-07-27 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/07/26/une-journee-avec-la-police-de-los-santos
+  - /2014/07/26/une-journee-avec-la-police-de-los-santos
 ---
 
 _Immersion dans le quotidien des forces de l'ordre, toujours au service de leur patrie._

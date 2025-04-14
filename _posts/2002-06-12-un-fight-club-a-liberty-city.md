@@ -8,7 +8,7 @@ date: '2002-06-12 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/11/un-fight-club-a-liberty-city
+  - /2002/06/11/un-fight-club-a-liberty-city
 ---
 
 Il semblerait que certaines bandes de jeunes organisent des rencontres quelque peu "atypiques" près des docks de notre chère ville.

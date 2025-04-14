@@ -8,7 +8,7 @@ date: '2005-11-14 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/11/13/police-academy
+  - /2005/11/13/police-academy
 ---
 
 _Los Santos Police Department recrute ! C'est ce que l'on peut lire un peu partout en ville depuis quelques jours, grâce à l'efficace campagne de publicité organisée conjointement avec la mairie. Les aspirants policiers doivent passer une évaluation rigoureuse, avant d'entamer leur formation._

@@ -8,7 +8,7 @@ date: '2015-04-10 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2015/04/09/le-trafiquant-pablo-escuela-arrete-a-los-santos
+  - /2015/04/09/le-trafiquant-pablo-escuela-arrete-a-los-santos
 ---
 
 _Le célèbre trafiquant de drogue Pablo Escuela a été arrêté cette nuit alors qu'il tentait de repartir vers la Colombie._

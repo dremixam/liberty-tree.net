@@ -8,7 +8,7 @@ date: '2005-11-13 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/11/12/incendie-au-caligulas-casino
+  - /2005/11/12/incendie-au-caligulas-casino
 ---
 
 _Un incendie a ravagé hier le célèbre casino de la capitale du jeu._

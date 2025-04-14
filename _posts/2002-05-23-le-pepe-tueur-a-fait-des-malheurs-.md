@@ -7,7 +7,7 @@ date: '2002-05-23 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/22/le-pepe-tueur-a-fait-des-malheurs-
+  - /2002/05/22/le-pepe-tueur-a-fait-des-malheurs
 ---
 
 C'est hier vers 22 h 30 dans le quartier du casino que le vieux papy de 88 ans ne s'est pas gêné pour se faire des japonais farcis.

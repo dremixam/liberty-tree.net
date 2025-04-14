@@ -8,7 +8,7 @@ date: '2002-06-04 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/03/liberty-city-survivor-i
+  - /2002/06/03/liberty-city-survivor-i
 ---
 
 Liberty City Survivor, la très populaire émission de télé-réalité de Liberty City, a pris fin hier. En exclusivité, voici la fiche d'identité des candidats et le résumé des 30 jours de galère que les jeunes gens ont eu à endurer dans leur loft.

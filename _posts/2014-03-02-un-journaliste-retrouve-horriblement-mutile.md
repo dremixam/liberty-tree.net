@@ -8,7 +8,7 @@ date: '2014-03-02 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/03/01/un-journaliste-retrouve-horriblement-mutile
+  - /2014/03/01/un-journaliste-retrouve-horriblement-mutile
 ---
 
 _Ce matin, le corps sans vie d'un journaliste a été retrouvé horriblement mutilé dans une ruelle de Los Santos. Manque de chance, il s'agissait d'un journaliste du Liberty Tree..._

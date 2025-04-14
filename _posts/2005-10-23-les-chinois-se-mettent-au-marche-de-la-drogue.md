@@ -8,7 +8,7 @@ date: '2005-10-23 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/10/22/les-chinois-se-mettent-au-marche-de-la-drogue
+  - /2005/10/22/les-chinois-se-mettent-au-marche-de-la-drogue
 ---
 
 _Les Chinois, connus pour leurs paix et amour, se mettent au marché de la drogue. Oublions le thé à la menthe, pensons maintenant à la Chang-Qiu ! Une nouvelle drogue "Made in China"._

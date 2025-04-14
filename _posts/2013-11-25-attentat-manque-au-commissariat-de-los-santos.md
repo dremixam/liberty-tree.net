@@ -8,7 +8,7 @@ date: '2013-11-25 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/11/24/attentat-manque-au-commissariat-de-los-santos
+  - /2013/11/24/attentat-manque-au-commissariat-de-los-santos
 ---
 
 Terreur et hilarité à Los Santos ce matin, en effet, hier vers 16 h, un groupe d'activistes écologistes anti-gouvernementaux a manqué son coup à Pershing Square, tentant de s'en prendre "aux forces fascistes gouvernementales responsables de la destruction de l'écosystème de San Andreas" par le biais d'un attentat suicide à l'aide d'un véhicule piégé.

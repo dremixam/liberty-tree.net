@@ -8,7 +8,7 @@ date: '2005-10-19 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2005/10/18/pimp-my-pride-debarque-a-san-fierro
+  - /2005/10/18/pimp-my-pride-debarque-a-san-fierro
 ---
 
 _La célèbre émission débarque à San Fierro, et voici la première victime._

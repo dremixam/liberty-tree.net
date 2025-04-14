@@ -9,7 +9,7 @@ tags:
 - los-santos
 - vice-city
 redirect_from:
-- /2012/08/28/la-cote-ouest-de-plus-en-plus-attrayante
+  - /2012/08/28/la-cote-ouest-de-plus-en-plus-attrayante
 ---
 
 Les flux migratoires incessants à l'intérieur de notre pays sont le fruit de nombreux facteurs, parmi eux, l'attractivité des grandes métropoles qui constellent le territoire américain. Ainsi, chaque décennie depuis trente ans a été marquée par l'influence d'une ville différente.

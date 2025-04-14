@@ -8,7 +8,7 @@ date: '2014-01-05 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/04/los-santos--ses-banques-desertes
+  - /2014/01/04/los-santos-ses-banques-desertes
 ---
 
 Vous souvenez-vous d'un passé pas si lointain où il fallait presque prendre une journée de congé pour effectuer la moindre opération bancaire, tant les agences étaient bondées ?

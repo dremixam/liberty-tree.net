@@ -8,7 +8,7 @@ date: '2002-10-19 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/10/18/catastrophe-financiere-chez-zip
+  - /2002/10/18/catastrophe-financiere-chez-zip
 ---
 
 Hier, lors de l'assemblée générale des entreprises ZIP (filliale du groupe LOVE Entertainment), le PDG M. Love a annoncé que suite à une falsification des comptes de l'ancien gérant pour la région de Liberty City, les entreprises ZIP ne sont plus comme prétendues aussi en forme qu'avant. En effet, l'ancien gérant pratiquait la technique du 'plein les poches', avec, comme poches, les siennes bien entendu... Ainsi, il a réussi à engranger plus de 3 millions de dollars, creusant un peu plus la dette de cette partie du groupe Love Entertainment.

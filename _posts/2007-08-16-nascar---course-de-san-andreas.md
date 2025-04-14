@@ -10,7 +10,7 @@ tags:
 - san-fierro
 - las-venturas
 redirect_from:
-- /2007/08/15/nascar---course-de-san-andreas
+  - /2007/08/15/nascar-course-de-san-andreas
 ---
 
 Après l'étonnante séance qualificative d'hier, c'est Thomas Dekra qui est en pole position, alors que Fernando Carello est relégué à la 6ème place. Cette pénalité est un avantage pour ses concurrents et Thomas Dekra en profite. Enzo Markiza, qui se retrouve 2ème, espère renouer avec la victoire... A l'extinction des feux, Dekra prend un départ parfait et parvient à conserver la tête. Le Danois devance Markiza, Di Tomason, Ribank, Monroe, Carello et Marvin. Aucun accrochage ne viendra troubler ce premier tour.

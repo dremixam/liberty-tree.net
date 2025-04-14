@@ -8,7 +8,7 @@ date: '2005-11-17 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/11/16/evenements-de-los-santos--la-fin-nest-pas-proche
+  - /2005/11/16/evenements-de-los-santos-la-fin-nest-pas-proche
 ---
 
 _Après sept jours d'émeutes, la situation ne semble vraiment pas s'améliorer. Au delà des faits, le Liberty Tree a essayé de comprendre le mal qui ronge le ghetto._

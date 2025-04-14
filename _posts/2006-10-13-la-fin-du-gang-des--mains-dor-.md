@@ -8,7 +8,7 @@ date: '2006-10-13 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2006/10/12/la-fin-du-gang-des--mains-dor-
+  - /2006/10/12/la-fin-du-gang-des-mains-dor
 ---
 
 East Los Santos, sept heures du matin. Madame Perreira prépare son café au lait, comme tous les matins, avant de s'installer confortablement dans son canapé pour suivre deux épisodes de la série Hawaï Five-O. La routine, jusqu'au moment où elle aperçoit une voiture stationnée en marche arrière dans une ruelle donnant directement sur la fenêtre de sa cuisine.

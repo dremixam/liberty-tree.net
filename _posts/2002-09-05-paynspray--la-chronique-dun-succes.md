@@ -7,7 +7,7 @@ date: '2002-09-05 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/09/04/paynspray--la-chronique-dun-succes
+  - /2002/09/04/paynspray-la-chronique-dun-succes
 ---
 
 _Pay'n'Spray ou les ateliers de peinture de Liberty étaient en faillite il y a encore deux ans. Depuis tout a changé: les clients affluent et les bénefs montent en flèche. Quelles sont les raisons d'un tel succès?_

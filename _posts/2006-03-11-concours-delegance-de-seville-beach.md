@@ -8,7 +8,7 @@ date: '2006-03-11 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2006/03/10/concours-delegance-de-seville-beach
+  - /2006/03/10/concours-delegance-de-seville-beach
 ---
 
 _Comme chaque année à la même époque a lieu le désormais célèbre concours d’élégance de Seville Beach. Un rendez-vous à ne pas manquer pour tous les amoureux de belles carrosseries._

@@ -8,7 +8,7 @@ date: '2014-12-12 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/12/11/palmer-taylor---nouvelle-attaque-ecologiste
+  - /2014/12/11/palmer-taylor-nouvelle-attaque-ecologiste
 ---
 
 _Hier matin, deux hommes ont été arrêtés à leur domicile. Ils sont accusés d'avoir fait voler des drones au dessus de l'usine à gaz naturel de Palmer-Taylor._

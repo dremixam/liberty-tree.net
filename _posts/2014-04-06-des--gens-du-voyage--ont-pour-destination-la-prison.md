@@ -8,7 +8,7 @@ date: '2014-04-06 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/04/05/des--gens-du-voyage--ont-pour-destination-la-prison
+  - /2014/04/05/des-gens-du-voyage-ont-pour-destination-la-prison
 ---
 
 _Cet après-midi, des nomades ont semé la zizanie dans Los Santos._

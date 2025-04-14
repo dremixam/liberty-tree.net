@@ -8,7 +8,7 @@ date: '2005-12-29 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2005/12/28/la-page-des-sports
+  - /2005/12/28/la-page-des-sports
 ---
 
 \*\*NEWS \*\*

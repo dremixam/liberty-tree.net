@@ -8,7 +8,7 @@ date: '2002-06-11 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/10/arrestation-dun-delinquant
+  - /2002/06/10/arrestation-dun-delinquant
 ---
 
 La police de Liberty City surveillait depuis quelques temps un homme louche à l'allure de rocker. Il a été interpellé hier soir, après une échappée audacieuse.

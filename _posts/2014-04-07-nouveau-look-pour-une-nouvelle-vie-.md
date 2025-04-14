@@ -8,7 +8,7 @@ date: '2014-04-07 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/04/06/nouveau-look-pour-une-nouvelle-vie-
+  - /2014/04/06/nouveau-look-pour-une-nouvelle-vie
 ---
 
 _Les habitants de Los Santos sont si superficiels qu'ils vous critiqueront dès lors que vous ne portez pas les dernières tenues à la mode. Alors, sauf si vous êtes un indécrottable célibataire, vous devriez vous renseigner un peu sur les nouvelles tendances si vous ne voulez pas passer pour un blaireau._

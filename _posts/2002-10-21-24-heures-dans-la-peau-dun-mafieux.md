@@ -7,7 +7,7 @@ date: '2002-10-21 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/10/20/24-heures-dans-la-peau-dun-mafieux
+  - /2002/10/20/24-heures-dans-la-peau-dun-mafieux
 ---
 
 _On dit souvent que le seul moyen d'avoir une vie "pépère" et habiter à Liberty City, c'est faire abstraction de tout ce que cette ville de fous peut produire. Qu'en est-il de tout ça lorsqu'on est un homme de main de Salvatore Leone???_

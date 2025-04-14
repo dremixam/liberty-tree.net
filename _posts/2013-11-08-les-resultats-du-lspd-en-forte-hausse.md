@@ -8,7 +8,7 @@ date: '2013-11-08 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/11/07/les-resultats-du-lspd-en-forte-hausse
+  - /2013/11/07/les-resultats-du-lspd-en-forte-hausse
 ---
 
 La police de Los Santos est aujourd'hui respectée pour ses performances jamais égalées dans le passé. La seule chose qu'on pourrait lui reprocher est son faible taux d'arrestation puisque celui-ci n'est que de 20 %. Toutefois, ce faible pourcentage d'arrestations s'expliquerait par le fait que la majorité des délinquants sont abattus par les forces de l'ordre avant qu'elles n'aient pu procéder à une arrestation.

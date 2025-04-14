@@ -8,7 +8,7 @@ date: '2014-02-07 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/02/06/accidents-en-serie-a-del-perro-pier
+  - /2014/02/06/accidents-en-serie-a-del-perro-pier
 ---
 
 _Depuis quelques jours, le parc d'attractions de Del Perro connaît de nombreux soucis humains et techniques. Conséquence : le parc est désormais quasiment désert._

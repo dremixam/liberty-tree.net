@@ -8,7 +8,7 @@ date: '2014-01-26 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/25/le-pere-noel-est-une-ordure
+  - /2014/01/25/le-pere-noel-est-une-ordure
 ---
 
 _Un homme déguisé en Père Noël sème le chaos dans l'État depuis quelques jours. Celui-ci enchaîne les braquages en tout genre, et laisse la police aussi dubitative qu'admirative._

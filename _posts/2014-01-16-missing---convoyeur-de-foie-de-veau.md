@@ -8,7 +8,7 @@ date: '2014-01-16 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/15/missing---convoyeur-de-foie-de-veau
+  - /2014/01/15/missing-convoyeur-de-foie-de-veau
 ---
 
  **Mardi matin - 4 h 20**

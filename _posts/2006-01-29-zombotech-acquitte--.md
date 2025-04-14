@@ -8,7 +8,7 @@ date: '2006-01-29 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2006/01/28/zombotech-acquitte--
+  - /2006/01/28/zombotech-acquitte
 ---
 
 _Suite au procès entre l'ADNPSA et la société Zombotech, le jury vient d'acquitter la firme de San Fierro._

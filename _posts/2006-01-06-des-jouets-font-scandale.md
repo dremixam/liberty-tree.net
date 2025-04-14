@@ -8,7 +8,7 @@ date: '2006-01-06 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2006/01/05/des-jouets-font-scandale
+  - /2006/01/05/des-jouets-font-scandale
 ---
 
 _Dans San Andreas des petites figurines font un scandale..._

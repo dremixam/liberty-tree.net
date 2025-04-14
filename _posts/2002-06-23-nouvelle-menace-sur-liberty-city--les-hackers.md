@@ -8,7 +8,7 @@ date: '2002-06-23 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/22/nouvelle-menace-sur-liberty-city--les-hackers
+  - /2002/06/22/nouvelle-menace-sur-liberty-city-les-hackers
 ---
 
 Cet après-midi le casino de Kenji a été dévalisé par un hacker d'élite qui a piraté le système informatique du casino. Ce pirateur à pensé à tout, même à la police !

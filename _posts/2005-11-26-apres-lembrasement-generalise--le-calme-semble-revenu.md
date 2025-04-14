@@ -8,7 +8,7 @@ date: '2005-11-26 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/11/25/apres-lembrasement-generalise--le-calme-semble-revenu
+  - /2005/11/25/apres-lembrasement-generalise-le-calme-semble-revenu
 ---
 
 _Les extrêmes violences de ces derniers jours, à Los Santos, ont contaminé l'ensemble de l'État de San Andreas, et particulièrement la ville très cosmopolite de San Fierro. Le Liberty Tree au cœur de la jungle, suite et fin._

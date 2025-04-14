@@ -8,7 +8,7 @@ date: '2002-08-07 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/08/06/soif-de-sang
+  - /2002/08/06/soif-de-sang
 ---
 
 C'est donc en cherchant des victimes innocentes qu'Anna O'Wide s'est faite coffrer par la police, cette dernière ayant subit de nombreuses blessures.

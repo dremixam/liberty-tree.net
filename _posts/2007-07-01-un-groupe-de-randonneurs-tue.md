@@ -10,7 +10,7 @@ tags:
 - los-santos
 - las-venturas
 redirect_from:
-- /2007/06/30/un-groupe-de-randonneurs-tue
+  - /2007/06/30/un-groupe-de-randonneurs-tue
 ---
 
 C'était à 14h22 hier. Un bus fait visiter la région d'Angel Pine à une quinzaine de randonneurs, tous originaires de San Fierro. Dans un virage, le bus sort de la route, avant de faire une chute de 25 mètres de haut. Le bus touche le sol et s'écrase finalement au fond d'un lac. La pression engendrée par le courant coupe le bus en deux et les randonneurs sont noyés. Deux survivent mais sont emportés par le courant. Au bout de plusieurs mètres, des rochers finissent par retenir les corps. Les deux survivants, Amanda Baxter et James Heaton, nagent jusqu’à la rive et aperçoivent une vielle cabane. Heureusement pour eux, cette dernière est habitée par un paysan, Norman Haley, que nous avons rencontré :

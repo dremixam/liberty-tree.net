@@ -7,7 +7,7 @@ date: '2003-01-09 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2003/01/08/david-edlifrepoc-est-de-retour-
+  - /2003/01/08/david-edlifrepoc-est-de-retour
 ---
 
 _En effet, le grand David Edlifrepoc a encore épaté la galerie hier soir à minuit trente trois en faisant tous simplement disparaître la grue de St Mark._

@@ -8,7 +8,7 @@ date: '2005-11-27 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/11/26/nouveau-phenomene-a-los-santos---le-vol-de-voitures
+  - /2005/11/26/nouveau-phenomene-a-los-santos-le-vol-de-voitures
 ---
 
 _Après la guerre des banlieues qui commencé à s'apaiser petit à petit, les vols de voitures se multiplient dans tout Los Santos : enquête._

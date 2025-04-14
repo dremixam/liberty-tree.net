@@ -8,7 +8,7 @@ date: '2005-09-12 00:00:00'
 tags:
 - las-venturas
 redirect_from:
-- /2005/09/11/body-harvest
+  - /2005/09/11/body-harvest
 ---
 
 Hier, tôt dans la matinée, un homme a volé une moissonneuse batteuse et l'a utilisé pour réaliser un véritable carnage dans Las Venturas…

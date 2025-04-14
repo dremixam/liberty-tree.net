@@ -8,7 +8,7 @@ date: '2006-01-10 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2006/01/09/installation-de-radars-automatiques-a-san-andreas
+  - /2006/01/09/installation-de-radars-automatiques-a-san-andreas
 ---
 
 _Bientôt, les premiers radars automatiques vont être installés sur toutes les autoroutes de l'état de San Andreas. Bonne ou mauvaise nouvelle ?_

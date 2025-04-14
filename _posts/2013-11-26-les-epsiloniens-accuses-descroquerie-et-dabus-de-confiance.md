@@ -8,7 +8,7 @@ date: '2013-11-26 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/11/25/les-epsiloniens-accuses-descroquerie-et-dabus-de-confiance
+  - /2013/11/25/les-epsiloniens-accuses-descroquerie-et-dabus-de-confiance
 ---
 
 ## "Êtes-vous prêts à atteindre l'Illumination ?"

@@ -7,7 +7,7 @@ date: '2002-06-07 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/06/24h-de-la-vie-dune-prostituee
+  - /2002/06/06/24h-de-la-vie-dune-prostituee
 ---
 
 Pour le 1er article de la série "24h de la vie de …", j'ai passé la journée de Samedi avec Wendy Dipfrot, la prostituée la plus demandée du quartier d'affaires de Stauton Island.

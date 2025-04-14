@@ -8,7 +8,7 @@ date: '2002-06-05 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/04/car-riding-dans-nos-rues-paisibles
+  - /2002/06/04/car-riding-dans-nos-rues-paisibles
 ---
 
 Les jeunes libertyciens en mal de sensations ont inventé un nouveau moyen de locomotion rapide et gratuit.

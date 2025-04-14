@@ -7,7 +7,7 @@ date: '2002-09-11 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/09/10/assassinat-dun-bras-droit
+  - /2002/09/10/assassinat-dun-bras-droit
 ---
 
 Le bras droit de Salvatore, qui dirige actuellement le gang Leone, vient d'être assassiné par un sniper (ce qui n'est pas un fusil à lunettes mais une personne travaillant pour son compte, un tueur à gage quoi) en faisant exploser une belle voiture de M.Whoopee.

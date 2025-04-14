@@ -8,7 +8,7 @@ date: '2003-01-12 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2003/01/11/le-nouveau-bobmonster
+  - /2003/01/11/le-nouveau-bobmonster
 ---
 
 Ce matin le propriétaire de la concession "Capital auto" à Portland était particulièrement rayonnant, en effet, il vient d'apprendre une bonne nouvelle qui pourrait bien renflouer son affaire: Le nouveau BobMonster sera disponible très bientôt.

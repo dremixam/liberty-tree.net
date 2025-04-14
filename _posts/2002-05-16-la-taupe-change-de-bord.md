@@ -7,7 +7,7 @@ date: '2002-05-16 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/15/la-taupe-change-de-bord
+  - /2002/05/15/la-taupe-change-de-bord
 ---
 
 Après enquête de la police des polices, on a retrouvé 15 kilos de spank et 500 000 dollars chez l'agent du F.B.I. infiltré dans la mafia italienne depuis 1 an.

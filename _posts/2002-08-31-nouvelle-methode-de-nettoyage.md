@@ -7,7 +7,7 @@ date: '2002-08-31 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/08/30/nouvelle-methode-de-nettoyage
+  - /2002/08/30/nouvelle-methode-de-nettoyage
 ---
 
 Qui n'en a jamais eu assez des voitures garées à l'année sur le parking de l'aéroport International ?

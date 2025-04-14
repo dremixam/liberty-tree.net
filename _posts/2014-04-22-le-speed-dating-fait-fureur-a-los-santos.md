@@ -8,7 +8,7 @@ date: '2014-04-22 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/04/21/le-speed-dating-fait-fureur-a-los-santos
+  - /2014/04/21/le-speed-dating-fait-fureur-a-los-santos
 ---
 
 _Nombreux sont les célibataires à Los Santos et les bars branchés, alors pourquoi ne pas cumuler les deux pour former des couples ? Cette nouvelle mode serait-elle mieux ou plus dangereuse encore que les sites de rencontre ?_

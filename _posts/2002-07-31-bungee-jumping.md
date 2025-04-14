@@ -8,7 +8,7 @@ date: '2002-07-31 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/07/30/bungee-jumping
+  - /2002/07/30/bungee-jumping
 ---
 
 Le bungee jumping est le sport où avec une corde élastique attachée au bassin et sur une petite partie des jambes, on saute d'un endroit haut : le saut à la corde. Les ponts, par exemple, c'est le meilleur endroit pour sauter, attaché, on fonce directement sur l'eau et puis on est retenu par la corde. Frissons garantis pour les "bleus".

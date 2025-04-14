@@ -8,7 +8,7 @@ date: '2014-08-14 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/08/13/un-couple-se-noie-dans-les-rapides-de-tongva-valley
+  - /2014/08/13/un-couple-se-noie-dans-les-rapides-de-tongva-valley
 ---
 
 _Deux vacanciers se sont noyés alors qu'il descendaient en canoë les rapides d'un confluent de la Zancudo River._

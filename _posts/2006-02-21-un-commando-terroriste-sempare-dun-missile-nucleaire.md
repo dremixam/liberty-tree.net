@@ -8,7 +8,7 @@ date: '2006-02-21 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2006/02/20/un-commando-terroriste-sempare-dun-missile-nucleaire
+  - /2006/02/20/un-commando-terroriste-sempare-dun-missile-nucleaire
 ---
 
 _Un missile nucléaire aurait été dérobé hier a-t-on appris par le porte parole du gouvernement. Cet acte serait l’œuvre d'un commando terroriste menaçant les États-Unis._

@@ -8,7 +8,7 @@ date: '2006-02-13 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2006/02/12/attentats-a-liberty-city
+  - /2006/02/12/attentats-a-liberty-city
 ---
 
 _De terribles attentats ont ébranlé Staunton Island dans la journée d'hier._

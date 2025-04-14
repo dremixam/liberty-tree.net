@@ -7,7 +7,7 @@ date: '2002-06-12 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/11/une-nouvelle-radio-sur-les-ondes-fm-de-liberty-city-
+  - /2002/06/11/une-nouvelle-radio-sur-les-ondes-fm-de-liberty-city
 ---
 
 Blasés d'écouter les derniers tubes à la mode sur Jah, Head ou autres radio ? Soyez heureux et fêtez l'arrivée d'une toute nouvelle radio très... personnalisable.

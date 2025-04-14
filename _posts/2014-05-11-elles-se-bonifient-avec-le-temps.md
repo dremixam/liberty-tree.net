@@ -8,7 +8,7 @@ date: '2014-05-11 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/05/10/elles-se-bonifient-avec-le-temps
+  - /2014/05/10/elles-se-bonifient-avec-le-temps
 ---
 
 _Une réunion d'anciennes voitures s'est déroulée jeudi dernier sur le parking du Los Santos Custom._

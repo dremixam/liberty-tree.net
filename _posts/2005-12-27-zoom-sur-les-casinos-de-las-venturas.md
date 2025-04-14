@@ -8,7 +8,7 @@ date: '2005-12-27 00:00:00'
 tags:
 - las-venturas
 redirect_from:
-- /2005/12/26/zoom-sur-les-casinos-de-las-venturas
+  - /2005/12/26/zoom-sur-les-casinos-de-las-venturas
 ---
 
 _Quelle joie en cette période de fête de voir toutes les vitrines illuminées. Mais à Las Venturas, la ville est illuminée toute l'année grâce aux nombreux casinos qui sont peu à peu devenus l'emblème de la ville._

@@ -8,7 +8,7 @@ date: '2002-08-14 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/08/13/et-encore-un-record
+  - /2002/08/13/et-encore-un-record
 ---
 
 Un autre record idiot vient d'être établi à Liberty City. Un citoyen vient de remporter le record du monde de poussée de bateau. Il a dû pousser un hors-bord Speeder le long de l'Aéroport International Francis en moins de trois jours.

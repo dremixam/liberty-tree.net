@@ -8,7 +8,7 @@ date: '2014-02-13 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/02/12/du-nouveau-sur-le-chantier-de-paleto-bay
+  - /2014/02/12/du-nouveau-sur-le-chantier-de-paleto-bay
 ---
 
 _A l'arrêt depuis 2006, le grand chantier de Paleto Bay semblerait de nouveau actif. Certains témoins ont en effet aperçu plusieurs ouvriers et engins de chantier sur place. Et si un nouveau projet avait été lancé, à l'insu des élus locaux ?_

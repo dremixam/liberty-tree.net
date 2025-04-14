@@ -8,7 +8,7 @@ date: '2006-02-04 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2006/02/03/la-lune-semble-se-rapprocher-dangereusement-de-la-terre
+  - /2006/02/03/la-lune-semble-se-rapprocher-dangereusement-de-la-terre
 ---
 
 _Depuis quelques semaines, plusieurs citoyens ont remarqué que la taille de la lune avait augmenté de façon plus que rapide. La population s'inquiète._

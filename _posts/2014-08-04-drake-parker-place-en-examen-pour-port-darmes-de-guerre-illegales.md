@@ -8,7 +8,7 @@ date: '2014-08-04 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/08/03/drake-parker-place-en-examen-pour-port-darmes-de-guerre-illegales
+  - /2014/08/03/drake-parker-place-en-examen-pour-port-darmes-de-guerre-illegales
 ---
 
 Le 2 Mai, nous vous parlions d'un nouveau gang (Les Hot Boys) qui faisait son apparition à Los Santos et qui était allié aux membres de Grove Street. Nous avons approfondie notre recherche avec l'aide du LSPD (Los Santos Police Département) pour en savoir plus. Nous avons pu interroger l'Officier Kalen Parker :

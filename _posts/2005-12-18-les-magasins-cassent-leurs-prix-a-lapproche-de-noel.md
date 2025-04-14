@@ -8,7 +8,7 @@ date: '2005-12-18 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/12/17/les-magasins-cassent-leurs-prix-a-lapproche-de-noel
+  - /2005/12/17/les-magasins-cassent-leurs-prix-a-lapproche-de-noel
 ---
 
 Noël arrive et les clients commencent à envahir les magasins qui chaque année proposent des prix extrêment compétitifs. Le Liberty Tree a enquêté à Los Santos.

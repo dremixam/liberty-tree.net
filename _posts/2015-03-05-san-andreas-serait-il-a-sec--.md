@@ -8,7 +8,7 @@ date: '2015-03-05 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2015/03/04/san-andreas-serait-il-a-sec--
+  - /2015/03/04/san-andreas-serait-il-a-sec
 ---
 
 _Ce matin, sur l'un des principaux champs pétrolifère de San Andreas, dans le Grand Señora Desert, le pétrole s'est arrêté de couler. Ceci pourrait entraîner de graves conséquences pour San Andreas._

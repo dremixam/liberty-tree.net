@@ -8,7 +8,7 @@ date: '2005-11-02 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/11/01/un-sacre-bouchon
+  - /2005/11/01/un-sacre-bouchon
 ---
 
 _Quand un embouteillage sur l'autoroute tourne au désastre._

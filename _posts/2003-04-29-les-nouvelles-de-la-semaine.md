@@ -8,7 +8,7 @@ date: '2003-04-29 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2003/04/28/les-nouvelles-de-la-semaine
+  - /2003/04/28/les-nouvelles-de-la-semaine
 ---
 
 Les journalistes du Liberty Tree ont pris leurs vacances cette semaine, mais les Liberticiens n'ont pour autant pas arrêté de vivre, et les nouvelles sont nombreuses.

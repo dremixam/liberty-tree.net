@@ -7,7 +7,7 @@ date: '2002-12-28 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/12/27/mafia--histoire-dune-mort
+  - /2002/12/27/mafia-histoire-dune-mort
 ---
 
 Hier, un attentat à la grenade a eu lieu à St-Mark, devant la Villa Tovalia, visant le propriétaire de la maison: Mario Tovalia.

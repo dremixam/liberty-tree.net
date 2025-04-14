@@ -8,7 +8,7 @@ date: '2005-10-26 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/10/25/le-cascadeur-de-vice-city
+  - /2005/10/25/le-cascadeur-de-vice-city
 ---
 
 _Chaque soir à Vice City, un étrange pilote apparaît et en surprend plus d'un._

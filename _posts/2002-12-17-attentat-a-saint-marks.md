@@ -8,7 +8,7 @@ date: '2002-12-17 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/12/16/attentat-a-saint-marks
+  - /2002/12/16/attentat-a-saint-marks
 ---
 
 _Hier, dans l'après-midi, un attentat à la voiture piégée a eu lieu au district de Little Italy, à Portland, faisant deux morts et quatre blessés. Un règlement de compte de la mafia?_

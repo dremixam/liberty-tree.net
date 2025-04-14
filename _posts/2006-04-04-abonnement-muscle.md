@@ -8,7 +8,7 @@ date: '2006-04-04 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2006/04/03/abonnement-muscle
+  - /2006/04/03/abonnement-muscle
 ---
 
 Les habitants de Los Santos en ont assez ! Le prix des abonnements de la salle de musculation "Ganton Gym" ont une fois de plus augmentés et ce pour la 3ème fois en un mois...

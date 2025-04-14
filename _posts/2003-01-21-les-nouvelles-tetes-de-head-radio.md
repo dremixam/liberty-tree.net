@@ -8,7 +8,7 @@ date: '2003-01-21 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2003/01/20/les-nouvelles-tetes-de-head-radio
+  - /2003/01/20/les-nouvelles-tetes-de-head-radio
 ---
 
 \_2003 est l'année du changement pour Head Radio, la principale radio de Liberty City. En effet, une restructuration du personnel et de l'image de l'entreprise a été menée par le Love Media, le groupe qui en est le propriétaire. Entretien avec le nouveau directeur. \_

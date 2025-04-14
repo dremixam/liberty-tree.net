@@ -8,7 +8,7 @@ date: '2014-01-18 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/17/ouverture-prochaine-du-casino-de-vinewood
+  - /2014/01/17/ouverture-prochaine-du-casino-de-vinewood
 ---
 
 _Le tout nouveau casino de Vinewood, sobrement nommé "Be Lucky" sera officiellement inauguré dans les prochaines semaines. Pour vous, le Liberty Tree est allé prendre la température sur place._

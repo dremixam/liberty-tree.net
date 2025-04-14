@@ -8,7 +8,7 @@ date: '2014-05-02 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/05/01/un-nouveau-gang-venu-tout-droit-de-liberty-city-
+  - /2014/05/01/un-nouveau-gang-venu-tout-droit-de-liberty-city
 ---
 
 _Après les familles de Grove Street, les Ballas et les Vagos, un certain gang du nom des Hot Boyz a fait son apparition à Los Santos..._

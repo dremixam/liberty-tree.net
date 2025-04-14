@@ -8,7 +8,7 @@ date: '2002-06-01 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/31/reprise-des-meetings-aeriens-de-la-flying-dodo-association
+  - /2002/05/31/reprise-des-meetings-aeriens-de-la-flying-dodo-association
 ---
 
 La FDA a repris son envol hier. Les pilotes nous ont offert une représentation de prestige, les pirouettes et autres tonneaux se sont enchaînés à un rythme exaltant.

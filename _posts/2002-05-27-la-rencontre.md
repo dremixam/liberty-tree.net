@@ -8,7 +8,7 @@ date: '2002-05-27 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/26/la-rencontre
+  - /2002/05/26/la-rencontre
 ---
 
 Hier soir, vers 22H, une fusillade a éclaté dans le quartier de St Mark's, devant la villa de Salvatore Leone.

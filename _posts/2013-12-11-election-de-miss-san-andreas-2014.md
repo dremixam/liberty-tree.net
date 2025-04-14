@@ -10,7 +10,7 @@ tags:
 - las-venturas
 - san-fierro
 redirect_from:
-- /2013/12/10/election-de-miss-san-andreas-2014
+  - /2013/12/10/election-de-miss-san-andreas-2014
 ---
 
 Dimanche dernier s’est déroulé au Rockford Plaza de Los Santos l’événement le plus attendu de l’année pour toute la région. Il s’y est en effet déroulé l’élection de la nouvelle miss San Andreas ! Nombreuses étaient les prétendantes au titre, il est donc tout naturel que le Liberty Tree aille à leur rencontre. Originellement, une cinquantaine de jeunes filles issues de toute la région ont postulé pour le titre, mais seule une petite dizaine restait ce dimanche soir.

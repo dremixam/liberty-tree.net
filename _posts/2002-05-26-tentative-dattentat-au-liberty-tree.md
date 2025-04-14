@@ -8,7 +8,7 @@ date: '2002-05-26 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/25/tentative-dattentat-au-liberty-tree
+  - /2002/05/25/tentative-dattentat-au-liberty-tree
 ---
 
 .

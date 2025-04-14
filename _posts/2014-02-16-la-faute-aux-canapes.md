@@ -8,7 +8,7 @@ date: '2014-02-16 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/02/15/la-faute-aux-canapes
+  - /2014/02/15/la-faute-aux-canapes
 ---
 
 Après plusieurs mois de frénésie journalistique totale, nos chers lecteurs ont pu constater que les articles arrivaient au compte goutte ces derniers jours, sur la page principale du Liberty Tree. Départs en vacances ? Garde à vue prolongée ? Soucis informatique ? Il n'en est rien.

@@ -8,7 +8,7 @@ date: '2007-02-17 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2007/02/16/attentat-a-la-voiture-piegee-en-plein-los-santos
+  - /2007/02/16/attentat-a-la-voiture-piegee-en-plein-los-santos
 ---
 
 Un véhicule du LSPD explosa hier matin sur le parking du Jim's Sticky Ring de Los Santos. La thèse de l'attentat reste en tête de liste. Explications...

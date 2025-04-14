@@ -8,7 +8,7 @@ date: '2014-05-12 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/05/11/le-lieutenant-doug-hankman-est-mort
+  - /2014/05/11/le-lieutenant-doug-hankman-est-mort
 ---
 
 _Le lieutenant Doug Hankman a été tué lors d'une fusillade, hier à Los Santos. Hommage à ce fidèle héros de notre ville..._

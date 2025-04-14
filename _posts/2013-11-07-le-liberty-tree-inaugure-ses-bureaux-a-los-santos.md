@@ -8,7 +8,7 @@ date: '2013-11-07 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/11/06/le-liberty-tree-inaugure-ses-bureaux-a-los-santos
+  - /2013/11/06/le-liberty-tree-inaugure-ses-bureaux-a-los-santos
 ---
 
 Le Liberty Tree fait à partir d'aujourd'hui son grand retour à Los Santos, la ville des stars et des paillettes. Le journal revient de loin mais il revient pour vous. Ce n'est pas la première fois que le journal renaît ainsi de ses cendres, retour sur bientôt treize années passées à vos cotés.

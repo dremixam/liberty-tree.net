@@ -8,7 +8,7 @@ date: '2012-11-19 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2012/11/18/dossier---faut-il-liberaliser-la-vente-des-armes-a-feu--
+  - /2012/11/18/dossier-faut-il-liberaliser-la-vente-des-armes-a-feu
 ---
 
  **A l'occasion de la prochaine élection du nouveau gouverneur de San Andreas, nous vous proposons d'aborder un des thèmes de campagne principaux de chaque candidat. Aujourd'hui, nous nous penchons sur le thème soulevé par le candidat Madd Dogg : le développement du commerce des armes.**

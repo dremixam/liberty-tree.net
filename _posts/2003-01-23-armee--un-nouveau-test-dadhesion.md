@@ -7,7 +7,7 @@ date: '2003-01-23 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2003/01/22/armee--un-nouveau-test-dadhesion
+  - /2003/01/22/armee-un-nouveau-test-dadhesion
 ---
 
 L'armée est une chose bien critiquable dans notre société. Si les gens, ou plutôt les dirigeants, étaient assez intelligents on n'aurait pas besoin d'armées. Certains l'envoient paître. Pour d'autres, c'est une solution, mieux vaut être nourri logé que de traîner dans la rue.

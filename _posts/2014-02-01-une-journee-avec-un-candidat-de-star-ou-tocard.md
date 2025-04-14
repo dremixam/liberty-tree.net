@@ -8,7 +8,7 @@ date: '2014-02-01 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/31/une-journee-avec-un-candidat-de-star-ou-tocard
+  - /2014/01/31/une-journee-avec-un-candidat-de-star-ou-tocard
 ---
 
 Aujourd’hui mes chers lecteurs, nous allons nous intéresser, et même carrément vivre, une journée dans la vie d’un candidat de l’émission de télé-réalité à la mode en ce moment, notamment chez les pré-ados, « Star ou Tocard ». En effet, j’ai moi-même pris l’initiative de m’inscrire auprès de la production temporairement pour mieux écrire cet article. Et vous allez voir qu’entre le rêve qu’on vous vend à la télé et ce qu’il se passe en réalité, il y a une belle différence.  

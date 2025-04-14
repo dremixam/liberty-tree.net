@@ -7,7 +7,7 @@ date: '2002-10-30 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/10/29/le-tank-fou
+  - /2002/10/29/le-tank-fou
 ---
 
 Monsieur André Rocketlauncher et l'un de ces milliers de soldats qui, de 1939 à 1945, ont sauvé le monde libre du joug nazi.

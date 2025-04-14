@@ -8,7 +8,7 @@ date: '2002-07-11 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/07/10/attentat-a-la-poissonnerie-belly-up
+  - /2002/07/10/attentat-a-la-poissonnerie-belly-up
 ---
 
 Un terrible attentat s'est déroulé ce matin à Portland, dans la fabrique de poisson Belly Up. Vers 11h, un homme dont l'identité n'a pu être découverte, armé et cagoulé, pénètre dans la fabrique avec un camion Belly-Up, écrase le garde d'entrée puis sort du camion et fait feu sur les employés.

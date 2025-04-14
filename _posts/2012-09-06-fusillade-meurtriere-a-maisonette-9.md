@@ -8,7 +8,7 @@ date: '2012-09-06 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /fusillade-meurtrière-à-maisonette-9
+  - /fusillade-meurtrière-à-maisonette-9
 ---
 
 Cette mauvaise nouvelle a retenti dans tout Liberty City ce matin, aux environs de 4 heures 40. Il s'agit d'une fusillade qui s'est produite à Maisonette 9, la plus grande boite de nuit de tout Liberty City, à 4 heures 25. D'après l'un des quatre survivants, ils étaient deux, vêtus de noir, et portaient une cagoule.

@@ -8,7 +8,7 @@ date: '2014-04-24 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/04/23/les-5-plus-belles-maisons-de-stars
+  - /2014/04/23/les-5-plus-belles-maisons-de-stars
 ---
 
 _Aujourd'hui, nous allons vous dévoiler les 5 plus belles maisons de stars de Vinewood Hills. Jaloux s'abstenir._

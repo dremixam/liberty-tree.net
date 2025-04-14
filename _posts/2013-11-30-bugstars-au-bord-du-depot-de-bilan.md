@@ -8,7 +8,7 @@ date: '2013-11-30 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/11/29/bugstars-au-bord-du-depot-de-bilan
+  - /2013/11/29/bugstars-au-bord-du-depot-de-bilan
 ---
 
 _La société de dératisation Bugstars est aujourd'hui dans une situation des plus délicates : elle se trouve au bord de la faillite. Tout cela à cause d'un événement dans lequel Bugstars n'est nullement impliquée..._

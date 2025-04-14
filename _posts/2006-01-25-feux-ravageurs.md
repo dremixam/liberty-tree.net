@@ -8,7 +8,7 @@ date: '2006-01-25 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2006/01/24/feux-ravageurs
+  - /2006/01/24/feux-ravageurs
 ---
 
 _Depuis plusieurs jours, des feux brûlent tout sur leurs passages aux quatre coins de l'état. Les pompiers ont perdu le contrôle._

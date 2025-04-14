@@ -8,7 +8,7 @@ date: '2002-07-01 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/30/les-crimes-rebondissent-a-cause-du-mysterieux-facemaker
+  - /2002/06/30/les-crimes-rebondissent-a-cause-du-mysterieux-facemaker
 ---
 
 Le Facemaker est un masque qu'on peut modeler et créer. On peut alors ainsi changer d'apparence au visage, il suffit alors de trouver les habits correspondants pour ne plus être reconnaissable. L'idée a été sans doute prise dans les films de mission : impossible.

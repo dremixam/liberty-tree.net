@@ -8,7 +8,7 @@ date: '2014-03-12 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/03/11/la-police-sur-la-trace-dun-tueur-en--scierie-
+  - /2014/03/11/la-police-sur-la-trace-dun-tueur-en-scierie
 ---
 
 _Un tueur redoutable sévit aux alentours de la scierie de Paleto Bay depuis quelques jours. Des rumeurs racontent que celui-ci torturerait ses victimes dans cette scierie, avant d'enterrer les corps dans les bois alentours... Enquête._

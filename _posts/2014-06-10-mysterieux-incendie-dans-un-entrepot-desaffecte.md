@@ -8,7 +8,7 @@ date: '2014-06-10 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/06/09/mysterieux-incendie-dans-un-entrepot-desaffecte
+  - /2014/06/09/mysterieux-incendie-dans-un-entrepot-desaffecte
 ---
 
 _Un incendie a partiellement détruit un entrepôt de l'est de Los Santos la nuit dernière. L'origine du sinistre semble plus que suspecte..._

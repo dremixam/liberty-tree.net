@@ -8,7 +8,7 @@ date: '2006-01-30 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2006/01/29/lornne-houser-assassine
+  - /2006/01/29/lornne-houser-assassine
 ---
 
 _Le célèbre développeur de jeux vidéos a été retrouvé mort dans une chambre d'hôtel à Vice City._

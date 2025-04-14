@@ -7,7 +7,7 @@ date: '2002-11-09 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/11/08/nelsons-auto-custom-rime-avec----succes-
+  - /2002/11/08/nelsons-auto-custom-rime-avec-succes
 ---
 
 _Depuis la mise online du site du NAC, les commandes affluent à une vitesse grand V, et le garage devient un nom respecté parmi les préparateurs de Liberty City, avec des personnes aussi prestigieuses que Paki ou Killer en mécanos, le garage gagne en estime de toute une communauté de passionnés. Interview de Nelson._

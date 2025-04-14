@@ -8,7 +8,7 @@ date: '2014-03-07 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/03/06/les-transports-en-commun---economie-ou-perte-de-temps---
+  - /2014/03/06/les-transports-en-commun-economie-ou-perte-de-temps
 ---
 
 La municipalité de Los Santos aimerait bien voir encore plus de travailleurs prendre les transports en commun chaque matin, c’est pourquoi on voit de plus en plus de spots publicitaires à ce sujet entre nos séries télés adorées le soir. Mais, est-ce vraiment plus économique de prendre le bus ? Ou bien, est-ce réellement pour une inquiétude écologique et aux soucis liés au pétrole ? Le tram réduit-il les soucis liés aux horaires étant donné qu’il circule sur ses propres voies ? Rien n’est moins certain, et c’est pourquoi le Liberty Tree prend aujourd’hui la peine de se pencher sur la question.

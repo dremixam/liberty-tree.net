@@ -8,7 +8,7 @@ date: '2013-12-16 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/12/15/le-cycliste-disparu-recemment-retrouve-devore
+  - /2013/12/15/le-cycliste-disparu-recemment-retrouve-devore
 ---
 
 Le cycliste qui avait disparu il y a quelques jours alors qu'il était parti faire du V.T.T. a été retrouvé sans vie ce matin, son corps couvert de morsures.

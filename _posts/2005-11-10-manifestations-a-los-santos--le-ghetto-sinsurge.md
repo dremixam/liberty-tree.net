@@ -8,7 +8,7 @@ date: '2005-11-10 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/11/09/manifestations-a-los-santos--le-ghetto-sinsurge
+  - /2005/11/09/manifestations-a-los-santos-le-ghetto-sinsurge
 ---
 
 _Une manifestation illégale a dégénéré, suite au décès d'une jeune femme, abattue par le LSPD. Premier bilan : quatorze blessés dont six policiers._

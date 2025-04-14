@@ -8,7 +8,7 @@ date: '2006-01-15 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2006/01/14/les-soldes-ont-commence
+  - /2006/01/14/les-soldes-ont-commence
 ---
 
 _Panneaux scintillants, enseignes de toutes les couleurs. Les magasins illuminent l'obscurité durant la deuxième nuit des soldes._

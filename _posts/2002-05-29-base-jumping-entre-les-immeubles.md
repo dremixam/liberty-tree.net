@@ -8,7 +8,7 @@ date: '2002-05-29 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/28/base-jumping-entre-les-immeubles
+  - /2002/05/28/base-jumping-entre-les-immeubles
 ---
 
 Le mois dernier, un nouveau sport extrême est venu s'imposer à Liberty City: le base jumping du haut d'un immeuble.

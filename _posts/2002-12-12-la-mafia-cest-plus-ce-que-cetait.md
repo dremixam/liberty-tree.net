@@ -8,7 +8,7 @@ date: '2002-12-12 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/12/11/la-mafia-cest-plus-ce-que-cetait
+  - /2002/12/11/la-mafia-cest-plus-ce-que-cetait
 ---
 
 Depuis la mort de leur big boss, les mafieux sont devenus pitoyables, ils fuient comme des moins que rien.

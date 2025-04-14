@@ -7,7 +7,7 @@ date: '2002-09-17 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/09/16/nouveau-systeme-antivol-pour-voitures
+  - /2002/09/16/nouveau-systeme-antivol-pour-voitures
 ---
 
 Un nouveau système de sécurité antivol pour les voitures vient ENFIN de sortir à Liberty City.

@@ -8,7 +8,7 @@ date: '2005-09-24 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/09/23/un-accident-peu-banal---
+  - /2005/09/23/un-accident-peu-banal
 ---
 
 Un accident routier secoue Flin County. Les pompiers de San Fierro ne pouvant pas intervenir sont relayés par la caserne de Los Santos. Cet accident a peut-être révélé un réseau de trafic de nitroglycérine.

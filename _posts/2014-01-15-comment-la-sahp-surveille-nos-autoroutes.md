@@ -8,7 +8,7 @@ date: '2014-01-15 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/14/comment-la-sahp-surveille-nos-autoroutes
+  - /2014/01/14/comment-la-sahp-surveille-nos-autoroutes
 ---
 
 _Depuis maintenant de nombreuses années, la San Andreas Highway Patrol surveille les autoroutes de Blaine County. Radars, véhicules de patrouille, course-poursuites... Plongée dans le monde de la police des autoroutes._

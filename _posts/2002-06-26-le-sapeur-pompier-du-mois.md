@@ -8,7 +8,7 @@ date: '2002-06-26 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/25/le-sapeur-pompier-du-mois
+  - /2002/06/25/le-sapeur-pompier-du-mois
 ---
 
 Ce week-end, le pompier le plus valeureux de Liberty City s'est vu décoré de la médaille d'honneur des pompiers par le chef de la caserne de Portland.

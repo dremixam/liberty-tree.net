@@ -8,7 +8,7 @@ date: '2002-08-23 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/08/22/love-media-en-proces
+  - /2002/08/22/love-media-en-proces
 ---
 
 Hier, 03h00, les enfants de Liberty rentrent de leur escapade nocturne quotidienne, allument le poste de télévision, sur la chaîne _LoveTv_ (unique chaîne reçue à Liberty City). C'est alors qu'il découvrent avec effroi, un numéro de Strip-Tease effectué par les filles du Sex Club Seven. Les enfants, naïfs et incrédules, assistent au spectacle.

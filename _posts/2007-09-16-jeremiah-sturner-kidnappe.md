@@ -7,7 +7,7 @@ date: '2007-09-16 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2007/09/15/jeremiah-sturner-kidnappe
+  - /2007/09/15/jeremiah-sturner-kidnappe
 ---
 
 Los Santos est en ébullition depuis la disparition, il y a deux jours, de Jeremiah Sturner, le fils du gouverneur de l'état de San Andreas, en visite dans la ville des Saints pour un congrès concernant les énergies propres. La veille du sommet, alors que le maire Henry G. Carter recevait le gouverneur Sturner et son épouse, Jeremiah, bien connu pour préférer les parties débridées de l'Alhambra Club aux soirées organisées par la mairie, s'éclipsa sans donner d'autre formes d'explications, direction la piste de danse, les lasers et la musique électronique.

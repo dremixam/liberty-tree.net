@@ -8,7 +8,7 @@ date: '2005-12-12 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/12/11/24-heures-avec-un-vendeur-darmes
+  - /2005/12/11/24-heures-avec-un-vendeur-darmes
 ---
 
 _Je me suis immiscé pendant 24 heures dans la vie de Ruppert Hills, vendeur au Ammu-Nation dans le centre de Los Santos. Un métier qui n'est pas de tout repos..._

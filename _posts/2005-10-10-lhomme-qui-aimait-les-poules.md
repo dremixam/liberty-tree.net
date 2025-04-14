@@ -8,7 +8,7 @@ date: '2005-10-10 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/10/09/lhomme-qui-aimait-les-poules
+  - /2005/10/09/lhomme-qui-aimait-les-poules
 ---
 
 _Après une altercation musclée, un maraudeur s'en prenant à d'innocentes volailles d'Hilltop Farm a été mis derrière les barreaux._

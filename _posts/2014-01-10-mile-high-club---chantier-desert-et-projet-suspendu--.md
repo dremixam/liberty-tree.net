@@ -8,7 +8,7 @@ date: '2014-01-10 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/09/mile-high-club---chantier-desert-et-projet-suspendu--
+  - /2014/01/09/mile-high-club-chantier-desert-et-projet-suspendu
 ---
 
 Le Mile High Club est un grand projet proposé à la mairie de Los Santos en 2010 par Enzo Bonelli, un grand promoteur immobilier. Une tour gigantesque dans le quartier d'affaires de la cité des saints. Le chantier démarre quelques mois plus tard et avance rapidement.

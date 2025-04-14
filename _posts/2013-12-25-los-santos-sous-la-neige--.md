@@ -8,7 +8,7 @@ date: '2013-12-25 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/12/24/los-santos-sous-la-neige--
+  - /2013/12/24/los-santos-sous-la-neige
 ---
 
 _Énorme surprise ce matin à Los Santos, lorsque les habitants ont découvert au réveil que leur ville avait été recouverte d'un épais manteau blanc. Oui, il a bel et bien neigé à San Andreas !_

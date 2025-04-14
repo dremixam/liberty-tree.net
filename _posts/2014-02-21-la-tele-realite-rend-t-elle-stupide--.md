@@ -8,7 +8,7 @@ date: '2014-02-21 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/02/20/la-tele-realite-rend-t-elle-stupide--
+  - /2014/02/20/la-tele-realite-rend-t-elle-stupide
 ---
 
 _Depuis quelques années, les émissions de télé-réalité se sont multipliées sur notre petit écran. Celles-ci rendraient les gens stupides, et plus particulièrement les jeunes, accrocs à ces émissions. Enquête sur ces nouvelles émissions abrutissantes..._

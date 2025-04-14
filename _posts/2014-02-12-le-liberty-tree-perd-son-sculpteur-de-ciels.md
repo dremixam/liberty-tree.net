@@ -8,7 +8,7 @@ date: '2014-02-12 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/02/11/le-liberty-tree-perd-son-sculpteur-de-ciels
+  - /2014/02/11/le-liberty-tree-perd-son-sculpteur-de-ciels
 ---
 
 C'est une bien triste nouvelle pour notre journal que l'équipe a apprise ce lundi: Kiki, l'un des journalistes les plus brillants de l'équipe vient de décider de prendre son envol. En effet, il a déclaré notamment qu'il voulait se consacrer entièrement à sa vie de famille désormais. Mais mon gars, je pense qu'une fois que tu auras changé quelques couches sales, tu reviendras vite vers ton ancien job _(rires)._

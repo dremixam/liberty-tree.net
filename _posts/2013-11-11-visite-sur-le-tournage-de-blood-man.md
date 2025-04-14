@@ -8,7 +8,7 @@ date: '2013-11-11 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/11/10/visite-sur-le-tournage-de-blood-man
+  - /2013/11/10/visite-sur-le-tournage-de-blood-man
 ---
 
 Le Liberty Tree a été invité en exclusivité sur le tournage de Blood-Man, le nouveau film de Jad dont la sortie est prévue pour début 2014. Déroulement d'une journée riche en émotions et pleine de surprises en attendant la sortie du film.

@@ -7,7 +7,7 @@ date: '2002-08-21 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/08/20/ammu-nation-en-crise
+  - /2002/08/20/ammu-nation-en-crise
 ---
 
 Le bilan des ventes d'Ammu-Nation est en forte baisse depuis ces derniers mois. En effet le nombre d'armes vendues a baissé de plus de 75% cette année. Ammu-Nation se retrouvent donc en surproduction d'uzis, mitraillettes et autres armes à feu.

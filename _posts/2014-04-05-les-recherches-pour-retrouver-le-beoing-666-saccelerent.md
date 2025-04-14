@@ -8,7 +8,7 @@ date: '2014-04-05 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/04/04/les-recherches-pour-retrouver-le-beoing-666-saccelerent
+  - /2014/04/04/les-recherches-pour-retrouver-le-beoing-666-saccelerent
 ---
 
 _Trois semaines après la disparition du Beoing 666, un premier sous-marin a été envoyé pour retrouver celui-ci._

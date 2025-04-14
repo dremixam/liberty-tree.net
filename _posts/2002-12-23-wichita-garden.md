@@ -8,7 +8,7 @@ date: '2002-12-23 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/12/23/wichita-garden
+  - /2002/12/23/wichita-garden
 ---
 
 Hier soir, j'ai fait une descente chez les hoods et j'ai pu tirer des infos.

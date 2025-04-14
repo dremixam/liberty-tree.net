@@ -8,7 +8,7 @@ date: '2006-01-27 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2006/01/26/double-meurtre-a-blueberry
+  - /2006/01/26/double-meurtre-a-blueberry
 ---
 
 _Deux touristes de Liberty City ont été retrouvés morts dans un motel de Blueberry. La police enquête sur les lieux du crime._

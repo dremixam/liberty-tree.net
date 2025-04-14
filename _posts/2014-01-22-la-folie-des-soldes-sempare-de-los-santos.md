@@ -8,7 +8,7 @@ date: '2014-01-22 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/21/la-folie-des-soldes-sempare-de-los-santos
+  - /2014/01/21/la-folie-des-soldes-sempare-de-los-santos
 ---
 
 _Mercredi dernier ont débuté les soldes d'hiver à Los Santos. Jusqu'au 11 février, la plupart des grands magasins de la ville déstockent en masse, provoquant l'hystérie de nombreux clients et clientes prêts à tout pour faire une bonne affaire._

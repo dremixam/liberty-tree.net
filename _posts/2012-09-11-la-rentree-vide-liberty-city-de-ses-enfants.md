@@ -8,7 +8,7 @@ date: '2012-09-11 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2012/09/10/la-rentree-vide-liberty-city-de-ses-enfants
+  - /2012/09/10/la-rentree-vide-liberty-city-de-ses-enfants
 ---
 
 Dès que la conversation tourne autour de la ville de Liberty City, vous aurez immanquablement quelqu'un pour ramener la question sur le tapis : où sont donc les enfants de notre ville ? Il est vrai que peu de gens peuvent se vanter d'en avoir croisé dans les rues de notre cité.

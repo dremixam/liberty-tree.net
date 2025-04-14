@@ -8,7 +8,7 @@ date: '2012-12-10 00:00:00'
 tags:
 - las-venturas
 redirect_from:
-- /2012/12/09/quand--patrouille--rime-avec---arsouille-
+  - /2012/12/09/quand-patrouille-rime-avec-arsouille
 ---
 
 Il n'est que 8 heures ce matin lorsque M. Dick Sander, habitant de Las Venturas, prend son petit déjeuner. Soudain, il entend une sirène de police qui semble se rapprocher à grande vitesse. Quelques secondes plus tard, un énorme choc. Il se précipite donc hors de chez lui et a alors la mauvaise surprise de trouver une voiture écrasée sur la devanture de sa maison.

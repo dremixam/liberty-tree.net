@@ -7,7 +7,7 @@ date: '2002-08-23 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/08/22/metro--boulot--dodo
+  - /2002/08/22/metro-boulot-dodo
 ---
 
 Le "train-train" quotidien pesant de Liberty City entraîne certains de nos concitoyens à commettre des actes dangereux et irréfléchis.

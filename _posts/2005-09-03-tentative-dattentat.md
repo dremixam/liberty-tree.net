@@ -8,7 +8,7 @@ date: '2005-09-03 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/09/02/tentative-dattentat
+  - /2005/09/02/tentative-dattentat
 ---
 
 Arrestation musclée de la police à la gare de Los Santos. La LSPD a perdu un de ses membres lors d’une fusillade opposant les forces de l’ordre à un gang encore inconnu jusqu’alors.

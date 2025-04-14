@@ -7,7 +7,7 @@ date: '2002-07-24 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/07/23/braquage-de-la-liberty-city-bank
+  - /2002/07/23/braquage-de-la-liberty-city-bank
 ---
 
 Un braquage que l'on croyait impossible s'est déroulé aujourd'hui pour la deuxième fois.

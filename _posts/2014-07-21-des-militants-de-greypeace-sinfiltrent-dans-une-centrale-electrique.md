@@ -8,7 +8,7 @@ date: '2014-07-21 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/07/20/des-militants-de-greypeace-sinfiltrent-dans-une-centrale-electrique
+  - /2014/07/20/des-militants-de-greypeace-sinfiltrent-dans-une-centrale-electrique
 ---
 
 _Des militants écologistes se sont introduits dans une centrale proche de Los Santos, dans la nuit de samedi à dimanche..._

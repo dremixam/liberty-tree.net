@@ -8,7 +8,7 @@ date: '2014-08-03 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/08/02/les-taxis-santossiens--en-guerre--contre-une-concurrence-deloyale-
+  - /2014/08/02/les-taxis-santossiens-en-guerre-contre-une-concurrence-deloyale
 ---
 
 _Aujourd'hui et demain, les rues de Los Santos seront bouchées par les taxis qui protesteront contre une concurrence déloyale._

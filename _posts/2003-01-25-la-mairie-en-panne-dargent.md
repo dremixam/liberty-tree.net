@@ -7,7 +7,7 @@ date: '2003-01-25 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2003/01/24/la-mairie-en-panne-dargent
+  - /2003/01/24/la-mairie-en-panne-dargent
 ---
 
 En effet, l'ancien secrétaire de la mairie licencié il y a deux mois pour faute grave, nous parle sans secret de sa vie à la mairie.

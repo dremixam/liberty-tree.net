@@ -8,7 +8,7 @@ date: '2014-03-24 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/03/23/fusillade-dans-un-parking-de-los-santos
+  - /2014/03/23/fusillade-dans-un-parking-de-los-santos
 ---
 
 _Hier, une violente fusillade a éclaté dans un parking de La Mesa, tout près du centre de Los Santos. Sur place, plus d'une dizaine de cadavres d'agents du FIB. L'agence gouvernementale s'est refusée à tout commentaire._

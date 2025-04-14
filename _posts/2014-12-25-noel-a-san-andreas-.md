@@ -8,7 +8,7 @@ date: '2014-12-25 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/12/24/noel-a-san-andreas-
+  - /2014/12/24/noel-a-san-andreas
 ---
 
 _Depuis quelques jours, la grande majorité des foyers de San Andreas se sont équipés d'un sapin fraîchement coupé, qu'ils ont ensuite décoré de guirlandes et de boules de couleur. Qu'on le veuille ou non, que l'on y croie ou non, la magie de Noël finira toujours par s'opérer, même pour les plus sceptiques. Que ce soit sous la forme d'un gros cadeau, ou par le fait d'être juste avec ses proches._

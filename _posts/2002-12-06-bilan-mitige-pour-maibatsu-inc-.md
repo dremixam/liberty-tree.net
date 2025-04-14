@@ -7,7 +7,7 @@ date: '2002-12-06 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/12/06/bilan-mitige-pour-maibatsu-inc-
+  - /2002/12/06/bilan-mitige-pour-maibatsu-inc
 ---
 
 _C'est la fin de l'année et beaucoup d'entreprises font leur bilan annuel, celui de Maibatsu INC est désastreux, les analystes crient à la restructuration, les actionnaires ne sont pas contents._

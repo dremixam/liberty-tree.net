@@ -8,7 +8,7 @@ date: '2014-04-27 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/04/26/la-brigade-autoroutiere-plus-determinee-que-jamais--
+  - /2014/04/26/la-brigade-autoroutiere-plus-determinee-que-jamais
 ---
 
 _La police en a marre de tous les excès de vitesse commis dans l'état et elle veut le faire savoir..._

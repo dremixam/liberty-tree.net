@@ -8,7 +8,7 @@ date: '2013-11-17 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2013/11/16/grove-street--la----poubelle----de-ls---
+  - /2013/11/16/grove-street-la-poubelle-de-ls
 ---
 
 En ces temps de crise économique, tous les arguments sont bons pour les candidats aux élections municipales de s’arracher quelques voix. Rappelons qu’un candidat radicaliste s’oppose à un autre candidat représentant le parti modéré.

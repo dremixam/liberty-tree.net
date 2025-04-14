@@ -8,7 +8,7 @@ date: '2005-11-01 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2005/10/31/attentat-a-lusine-solarin
+  - /2005/10/31/attentat-a-lusine-solarin
 ---
 
 _L'usine Solarin de San Fierro a été attaquée par des kamikazes. Les dégâts sont énormes..._

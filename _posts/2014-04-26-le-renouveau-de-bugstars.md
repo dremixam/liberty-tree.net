@@ -8,7 +8,7 @@ date: '2014-04-26 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/04/25/le-renouveau-de-bugstars
+  - /2014/04/25/le-renouveau-de-bugstars
 ---
 
 _Au bord de la faillite il y a encore quelques semaines, Bugstars a repris des couleurs. L'entreprise de dératisation profite notamment du retour du printemps et des insectes. Mais pas que..._

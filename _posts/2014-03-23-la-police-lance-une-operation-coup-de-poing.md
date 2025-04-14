@@ -8,7 +8,7 @@ date: '2014-03-23 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/03/22/la-police-lance-une-operation-coup-de-poing
+  - /2014/03/22/la-police-lance-une-operation-coup-de-poing
 ---
 
 _Des mesures sont en projet contre les combats clandestins qui font de graves victimes et génèrent de l'argent sale. Enquête sur cette violente économie souterraine._

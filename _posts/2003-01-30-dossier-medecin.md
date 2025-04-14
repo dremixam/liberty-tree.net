@@ -7,7 +7,7 @@ date: '2003-01-30 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2003/01/29/dossier-medecin
+  - /2003/01/29/dossier-medecin
 ---
 
 Nous vivons dans un ville corrompue, très appréciée par les touristes. Dans le domaine de la médecine, il y a seulement 1 médecin pour 10'000 personnes ici, à Liberty City. Ce qui veut dire, après quelques extrapolations et calculs, que en moyenne, chaque médecin parmi ces 400 a 80 clients par jour. C'est invraisemblable! Comment ces médecins pourraient-ils prêter 9 minutes de leur temps et compétences par client, et ça pendant 12 heures de suite?!

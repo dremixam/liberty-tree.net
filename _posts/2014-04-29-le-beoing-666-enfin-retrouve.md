@@ -8,7 +8,7 @@ date: '2014-04-29 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/04/28/le-beoing-666-enfin-retrouve
+  - /2014/04/28/le-beoing-666-enfin-retrouve
 ---
 
 _Ce matin, les recherches sous-marines ont enfin permis de retrouver le Beoing 666, échoué au large de Los Santos après avoir changé de trajectoire. Et parmi les victimes, deux noms ont retenu notre attention..._

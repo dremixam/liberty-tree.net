@@ -8,7 +8,7 @@ date: '2014-03-18 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/03/17/la-folie-du-tennis
+  - /2014/03/17/la-folie-du-tennis
 ---
 
 _Encore considéré comme un "sport de riches" il y a encore quelques années, le tennis est aujourd'hui en train de devenir l'un des sports les plus en vue à San Andreas. Quelles sont les raisons d'un tel succès ?_

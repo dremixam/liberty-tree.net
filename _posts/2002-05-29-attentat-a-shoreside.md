@@ -7,7 +7,7 @@ date: '2002-05-29 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/28/attentat-a-shoreside
+  - /2002/05/28/attentat-a-shoreside
 ---
 
 Une valise abandonnée a été trouvée dans le secteur du Bosquet Cedar à Shoreside.

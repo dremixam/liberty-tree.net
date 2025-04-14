@@ -8,7 +8,7 @@ date: '2014-03-01 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/02/28/sortie-imminente-du-prochain-film-de-jad-studio
+  - /2014/02/28/sortie-imminente-du-prochain-film-de-jad-studio
 ---
 
 _Alors que la sortie du prochain film de Jad Studio nommé Blood-Man approche à grand pas, la bande annonce vient tout juste de sortir et nous promet un film à aller voir absolument._

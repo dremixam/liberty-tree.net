@@ -8,7 +8,7 @@ date: '2006-03-23 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2006/03/22/un-cycliste-fou-seme-un-vent-de-panique
+  - /2006/03/22/un-cycliste-fou-seme-un-vent-de-panique
 ---
 
 _En effet, depuis plus d'une semaine le QG de la police de San Fierro est inondé de plaintes provenant d'automobilistes victimes d'accidents routiers provoqués par un cycliste casse-cou._

@@ -8,7 +8,7 @@ date: '2005-11-18 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2005/11/17/madd-dogg-de-retour
+  - /2005/11/17/madd-dogg-de-retour
 ---
 
 _Le chanteur populaire Madd Dogg revient en force avec son nouvel album. Tout le monde est surpris, mais personne n'est déçu._

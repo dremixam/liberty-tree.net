@@ -7,7 +7,7 @@ date: '2002-06-08 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/07/liberty-city-survivor-iii
+  - /2002/06/07/liberty-city-survivor-iii
 ---
 
 Suite et fin du résumé de l'émission de télé-réalité

@@ -7,7 +7,7 @@ date: '2002-05-17 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/16/une-operation-rondement-menee
+  - /2002/05/16/une-operation-rondement-menee
 ---
 
 Hier, un commando déguisé en démineurs est intervenu au commissariat de Staunton et a récupéré près de 100 kilos de spank que la section anti-drogue de la police avait intercepté il y a 3 jours à peine.

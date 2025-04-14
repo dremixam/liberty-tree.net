@@ -8,7 +8,7 @@ date: '2005-10-28 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/10/27/le-monstre-de-la-campagne
+  - /2005/10/27/le-monstre-de-la-campagne
 ---
 
 _Une affreuse bête sanglante terrorise les habitants de la campagne de l’État de San Andreas (âmes sensibles passez votre chemin...)_

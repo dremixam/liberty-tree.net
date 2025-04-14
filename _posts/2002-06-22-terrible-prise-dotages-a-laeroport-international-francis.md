@@ -8,7 +8,7 @@ date: '2002-06-22 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/21/terrible-prise-dotages-a-laeroport-international-francis
+  - /2002/06/21/terrible-prise-dotages-a-laeroport-international-francis
 ---
 
 Prise d'otages, qui a faillit tourner au massacre, autant pour les policiers que les otages...

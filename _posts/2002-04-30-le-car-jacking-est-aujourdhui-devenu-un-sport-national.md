@@ -8,7 +8,7 @@ date: '2002-04-30 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/04/29/le-car-jacking-est-aujourdhui-devenu-un-sport-national
+  - /2002/04/29/le-car-jacking-est-aujourdhui-devenu-un-sport-national
 ---
 
 Le car-jacking est un nouveau type de violence apparu récemment dans notre belle ville. Il s'agit d'un vol de voiture d'une rare sauvagerie. Les conducteurs tranquilles sont menacés avec une arme à feu, alors qu'ils sont arrêtés à un feu rouge puis littéralement éjectés de leur véhicule. Beaucoup sont surpris par la rapidité de l'action, et n'ont pas même le temps de sortir leur arme à feu pour s'accorder une justice méritée (le meurtre est permis en cas de violation caractérisée de propriété privée).

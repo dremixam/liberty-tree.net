@@ -8,7 +8,7 @@ date: '2002-05-28 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/27/le-malade-mental-du-jour
+  - /2002/05/27/le-malade-mental-du-jour
 ---
 
 On l'a suivi pendant quelques heures et c'est pas triste...

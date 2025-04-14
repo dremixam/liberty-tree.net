@@ -8,7 +8,7 @@ date: '2006-01-24 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2006/01/23/22--vla-les-flics--
+  - /2006/01/23/22-vla-les-flics
 ---
 
 _San Andreas atteint un niveau jamais vu dans les rapports de bavures policières._

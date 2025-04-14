@@ -8,7 +8,7 @@ date: '2005-09-16 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2005/09/15/portes-ouvertes-a-lsia--
+  - /2005/09/15/portes-ouvertes-a-lsia
 ---
 
 Alors que les accidents se multiplient à San Andreas, et que l'aéroport international de San Fierro est toujours fermé, un nouvel incident vient entacher cette fois la réputation du LSIA.

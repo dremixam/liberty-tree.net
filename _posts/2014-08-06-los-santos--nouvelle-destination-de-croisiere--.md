@@ -8,7 +8,7 @@ date: '2014-08-06 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/08/05/los-santos--nouvelle-destination-de-croisiere--
+  - /2014/08/05/los-santos-nouvelle-destination-de-croisiere
 ---
 
 _Comme plusieurs personnes ont pu le remarquer ces derniers jours, de plus en plus de paquebots mouillent au large de Del Perro Pier ou sont à quai aux docks de Los Santos._

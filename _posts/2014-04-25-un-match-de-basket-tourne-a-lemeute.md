@@ -8,7 +8,7 @@ date: '2014-04-25 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/04/24/un-match-de-basket-tourne-a-lemeute
+  - /2014/04/24/un-match-de-basket-tourne-a-lemeute
 ---
 
 _Cette nuit, le match entre les Los Santos Panic et les Los Santos Saints a tourné au pugilat, à la Maze Bank Arena. Les deux clubs risquent tous deux de lourdes sanctions..._

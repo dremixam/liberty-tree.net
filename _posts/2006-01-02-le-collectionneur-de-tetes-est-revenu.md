@@ -8,7 +8,7 @@ date: '2006-01-02 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2006/01/01/le-collectionneur-de-tetes-est-revenu
+  - /2006/01/01/le-collectionneur-de-tetes-est-revenu
 ---
 
 _ATTENTION : Des photos d'une extrême violence et des propos choquants sont relatés dans cet article ! Un serial killer est en liberté dans nos quartiers; il massacre de nombreux individus._

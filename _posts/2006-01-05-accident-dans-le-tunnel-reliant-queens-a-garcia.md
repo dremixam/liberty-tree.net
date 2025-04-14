@@ -8,7 +8,7 @@ date: '2006-01-05 00:00:00'
 tags:
 - las-venturas
 redirect_from:
-- /2006/01/04/accident-dans-le-tunnel-reliant-queens-a-garcia
+  - /2006/01/04/accident-dans-le-tunnel-reliant-queens-a-garcia
 ---
 
 _Hier à 23 heures, une voiture s'enflamme causant un désastre dans le tunnel reliant Queens à Garcia. Les normes de sécurité étaient-elles respectées ?_

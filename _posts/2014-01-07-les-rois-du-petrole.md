@@ -8,7 +8,7 @@ date: '2014-01-07 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/06/les-rois-du-petrole
+  - /2014/01/06/les-rois-du-petrole
 ---
 
 Du temps de l’oncle Sam, le pétrole coulait à flot et tout le monde semblait y trouver son compte. Mais aujourd’hui, qu’en est-il ? Pour les politiciens, on parle généralement « d’or noir » ; et chez les citoyens moyens, on en parle plutôt comme de « ce qui fait marcher les voitures ». Afin d’en savoir un peu plus, le Liberty Tree a décidé d’aller enquêter de plus près sur le sujet, à savoir sur les bienfaits ou non du pétrole, et ce qu’il apporte aujourd’hui à la population comme à l’État en lui-même. Ou bien, vaudrait-il mieux écouter les divers mouvements écologistes et fonctionner le plus possible à l’énergie éolienne ?

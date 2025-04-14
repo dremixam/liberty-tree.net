@@ -8,7 +8,7 @@ date: '2005-11-06 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/11/05/le-retour-infernal-dun-mythe-du-rock
+  - /2005/11/05/le-retour-infernal-dun-mythe-du-rock
 ---
 
 _Love Fist : Les papys du Rock reprennent la scène pour un nouvel album. Simple stratégie commerciale ou véritable réunification ?_

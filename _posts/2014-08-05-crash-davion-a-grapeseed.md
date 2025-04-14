@@ -8,7 +8,7 @@ date: '2014-08-05 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/08/04/crash-davion-a-grapeseed
+  - /2014/08/04/crash-davion-a-grapeseed
 ---
 
 _Un petit avion s'est écrasé hier à Grapeseed, juste après qu'il ait décollé de la piste du McKenzie Airfield. La thèse du suicide a été confirmée par les enquêteurs._

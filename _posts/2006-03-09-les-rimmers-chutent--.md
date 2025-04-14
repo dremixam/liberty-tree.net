@@ -8,7 +8,7 @@ date: '2006-03-09 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2006/03/08/les-rimmers-chutent--
+  - /2006/03/08/les-rimmers-chutent
 ---
 
 _Les favoris du championnat de basket-ball sont tombés bien bas._

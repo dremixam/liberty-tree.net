@@ -8,7 +8,7 @@ date: '2002-06-14 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/06/13/training-day-chez-les-forces-de-lordre
+  - /2002/06/13/training-day-chez-les-forces-de-lordre
 ---
 
 Les policiers de Liberty City en avaient assez de laisser s'échapper la plus part du temps les criminels qu'ils prenaient en chasse. Il est vrai que le taux d'arrestation net (nombre d'arrestations/nombre courses poursuites) était descendu le mois dernier en dessous de la barre fatidique des 0,25. Pour remédier à cette inefficacité, la mairie leur a payé une journée de stage dont ils se souviendront longtemps. Au programme : course à pied (avec sprint et endurance) et un stage de perfectionnement de caisse très pointu. Celui-ci consistait un apprendre à passer tout les sauts de la ville sans se gaufrer. En effet ceux-ci servent souvent de raccourcis aux fuyards.

@@ -7,7 +7,7 @@ date: '2002-11-13 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/11/12/une-prostitue-assassinee-a-portland
+  - /2002/11/12/une-prostitue-assassinee-a-portland
 ---
 
 Ce matin, alors qu'il allait faire sa tournée de linge, M. Takeshi Kitano, blanchisseur dans le quartier rouge, est tombé nez à nez avec le cadavre d'une prostitué, enfin, nez à nez, pas vraiment car cette dernière n'avait plus de tête, celle-ci ayant été explosée par un tir de sniper bien cadré.

@@ -8,7 +8,7 @@ date: '2005-10-16 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2005/10/15/attaque-de-vehicule-a-vice-city
+  - /2005/10/15/attaque-de-vehicule-a-vice-city
 ---
 
 _Ce matin, à 9h55 heure locale, un camion a été attaqué a la sortie du port de Vice._

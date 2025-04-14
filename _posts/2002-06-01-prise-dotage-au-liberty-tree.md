@@ -7,7 +7,7 @@ date: '2002-06-01 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/31/prise-dotage-au-liberty-tree
+  - /2002/05/31/prise-dotage-au-liberty-tree
 ---
 
 Hier les journalistes du Liberty Tree ont eu peur, même très peur. C'est vers 13H45 qu'un homme à l'allure normale est entré dans les bureaux du journal. Des son entrée il a sorti un M-16 et une kalachnikov, il a tiré sur notre tout nouveau matériel. En une seconde tous le monde s'est retrouvé à terre. La standardiste, Antoinette Decockbord a essayé d'appeler la police de Liberty City mais le preneur d'otage du nom de Mister Spock lui a disséqué la figure (en terme plus juste : lui a bousillé la gueule).

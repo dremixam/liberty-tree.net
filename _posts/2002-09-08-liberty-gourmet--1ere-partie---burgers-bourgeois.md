@@ -7,7 +7,7 @@ date: '2002-09-08 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/09/07/liberty-gourmet--1ere-partie---burgers-bourgeois
+  - /2002/09/07/liberty-gourmet-1ere-partie-burgers-bourgeois
 ---
 
 _Voici le premier volet du « Liberty Gourmet », le guide des restaurants de Liberty City. Aujourd'hui nous mangeons aux « Burgers Bourgeois »..._

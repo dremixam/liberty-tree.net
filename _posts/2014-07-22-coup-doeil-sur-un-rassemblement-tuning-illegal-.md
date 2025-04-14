@@ -8,7 +8,7 @@ date: '2014-07-22 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/07/21/coup-doeil-sur-un-rassemblement-tuning-illegal-
+  - /2014/07/21/coup-doeil-sur-un-rassemblement-tuning-illegal
 ---
 
 _La semaine dernière, plusieurs fous du volant se sont réunis dans la zone industrielle près de l'aéroport international de LS pour se montrer leurs bolides, équipés des toutes dernières améliorations venues le plus souvent directement du Japon. Entre drift, run, et la bière qui coulait à flot, la soirée a été bien animée..._

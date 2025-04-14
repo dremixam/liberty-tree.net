@@ -8,7 +8,7 @@ date: '2002-07-02 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/07/01/taxi-driver-a-liberty-city
+  - /2002/07/01/taxi-driver-a-liberty-city
 ---
 
 Nous allons vous faire mieux découvrir un métier sans lequel Liberty ne serait pas ce qu'elle est aujourd'hui : Chauffeur de taxi. En effet les deux entreprises qui gèrent les taxis de la ville emploient 20% des actifs, ce qui fait de conducteur de taxi le premier métier de Liberty. Chacun de nos concitoyens a d'ailleurs eu l'occasion de faire quelques courses au cours de sa vie, afin de gagner un peu d'argent de poche. En effet rien n'est plus simple que de devenir taxi, il suffit de s'inscrire chez une des deux sociétés concurrentes, TAXI (qui est leader) ou TAKI avec ses célèbres Cabbie's (ndrc: la société TAKI possédant à présent quelques taxis plus "récents"), qui vous fournira alors une voiture de son modèle équipée du GPS et de lunettes brevetées permettant de voir les clients potentiels.

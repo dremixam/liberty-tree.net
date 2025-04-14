@@ -8,7 +8,7 @@ date: '2014-04-04 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2014/04/03/reouverture-de-la-statue-de-lhilarite
+  - /2014/04/03/reouverture-de-la-statue-de-lhilarite
 ---
 
 _Fermée cet hiver à cause de menaces terroristes et de mauvaises conditions météorologiques, la statue de l'Hilarité vient d'être rouverte au public, ce matin._

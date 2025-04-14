@@ -8,7 +8,7 @@ date: '2014-01-06 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/01/05/la-guerre-des-gangs-reprend-a-sandy-shores
+  - /2014/01/05/la-guerre-des-gangs-reprend-a-sandy-shores
 ---
 
 Comme nous nous en doutions, la guerre de gangs de motards a repris suite au meurtre du chef des Lost MC il y a 5 jours. Les Lost se sont directement attaqués à leurs rivaux qui sont les Hellraiser, récemment apparus dans le domaine de la drogue et la contrebande.

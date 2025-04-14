@@ -8,7 +8,7 @@ date: '2014-02-17 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/02/16/faux-depart-a-lhippodrome-de-vinewood
+  - /2014/02/16/faux-depart-a-lhippodrome-de-vinewood
 ---
 
 _La première course équestre de l'année 2014, censée se disputer hier soir, a été annulée, sans véritable raison apparente..._

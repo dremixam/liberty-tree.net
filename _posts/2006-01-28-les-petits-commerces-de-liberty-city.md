@@ -8,7 +8,7 @@ date: '2006-01-28 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2006/01/27/les-petits-commerces-de-liberty-city
+  - /2006/01/27/les-petits-commerces-de-liberty-city
 ---
 
 _Beaucoup de petits commerces peuplaient la ville de Liberty City. Kiosques, petits cafés, petits restaurants familiaux... Aujourd'hui il n'en reste rien._

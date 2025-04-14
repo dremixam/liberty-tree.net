@@ -7,7 +7,7 @@ date: '2002-12-02 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/12/01/sondage-sur-lopinion-publique
+  - /2002/12/01/sondage-sur-lopinion-publique
 ---
 
 En ce dimanche, premier du mois de décembre, la mairie a annoncé le résultat du sondage sur la question suivante: "Sommes nous optimistes ou pessimistes ?"

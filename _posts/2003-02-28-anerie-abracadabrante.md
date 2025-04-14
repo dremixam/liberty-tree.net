@@ -8,7 +8,7 @@ date: '2003-02-28 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2003/02/27/anerie-abracadabrante
+  - /2003/02/27/anerie-abracadabrante
 ---
 
 C'est de la nuit du 26 au 27 février 2003 que la plaisanterie s'est passée au poste de police de Portland, dans le quartier de Trenton. Le poste a été atrocement tagué et malmené: le drapeau des Etats-Unis d'Amérique a été remplacé par une tête de mort:

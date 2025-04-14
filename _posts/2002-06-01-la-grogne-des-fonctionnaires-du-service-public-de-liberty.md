@@ -7,7 +7,7 @@ date: '2002-06-01 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/05/31/la-grogne-des-fonctionnaires-du-service-public-de-liberty
+  - /2002/05/31/la-grogne-des-fonctionnaires-du-service-public-de-liberty
 ---
 
 Les principaux syndicats de la fonction publique ont déposé un préavis de grève pour demain. Ces syndicats, qui regroupent la police, les ambulanciers, les pompiers, les taxis municipaux, et les agents d'entretiens de la voirie, réclament deux choses pour l'amélioration de leur condition de travail :

@@ -8,7 +8,7 @@ date: '2006-02-02 00:00:00'
 tags:
 - vice-city
 redirect_from:
-- /2006/02/01/carnet-de-voyage---vice-city
+  - /2006/02/01/carnet-de-voyage-vice-city
 ---
 
 _Cette nouvelle étape est certainement la bienvenue pour la ville de Vice City qui, rappelons le, a essuyé quelques problèmes touristiques ces dernier temps, suite à des attaques de requins. Alors regardez ces photos et imaginez ce que vous avez manqué !_

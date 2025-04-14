@@ -6,7 +6,7 @@ authors:
   - dremixam
 date: '2012-09-21 00:00:00'
 redirect_from:
-- /2012/09/20/peer-poursuit-le-liberty-tree-pour-violation-de-brevets
+  - /2012/09/20/peer-poursuit-le-liberty-tree-pour-violation-de-brevets
 ---
 
 Le secteur des nouvelles technologies s'est habitué aux nombreuses batailles de brevets qui font rage régulièrement. Cette guerre juridique plus que technologique fait chaque semaine des victimes parmi les petites entreprises du secteur sans que personne ne s'en émeuve.

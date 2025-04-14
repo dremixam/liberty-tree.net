@@ -8,7 +8,7 @@ date: '2006-03-13 00:00:00'
 tags:
 - las-venturas
 redirect_from:
-- /2006/03/12/tentative-de-cambriolage-echouee-au--high-roller--de-las-venturas
+  - /2006/03/12/tentative-de-cambriolage-echouee-au-high-roller-de-las-venturas
 ---
 
 _La tentative de cambriolage qui s'est produite hier soir a échoué, sans dommage, sans victime. Retour sur cette fabuleuse tentative de voler une fois de plus._

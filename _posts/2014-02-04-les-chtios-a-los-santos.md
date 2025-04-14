@@ -8,7 +8,7 @@ date: '2014-02-04 00:00:00'
 tags:
 - los-santos
 redirect_from:
-- /2014/02/03/les-chtios-a-los-santos
+  - /2014/02/03/les-chtios-a-los-santos
 ---
 
 Aujourd’hui, le Liberty Tree est "fier" de vous présenter la nouvelle télé-réalité qui va tout déchirer sur les écrans de télévisions de l'état : "Les chtios à Los Santos".

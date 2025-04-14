@@ -8,7 +8,7 @@ date: '2006-01-21 00:00:00'
 tags:
 - san-fierro
 redirect_from:
-- /2006/01/20/mauvaise-surprise-au-cluckin-bell
+  - /2006/01/20/mauvaise-surprise-au-cluckin-bell
 ---
 
 _Mardi midi, une jeune femme a eu la mauvaise surprise de découvrir le cadavre d'un rat à la place de son steak haché dans son hamburger._

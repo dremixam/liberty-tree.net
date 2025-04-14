@@ -8,7 +8,7 @@ date: '2002-11-23 00:00:00'
 tags:
 - liberty-city
 redirect_from:
-- /2002/11/22/le-sniper-decapiteur-passe-chez-les-chics
+  - /2002/11/22/le-sniper-decapiteur-passe-chez-les-chics
 ---
 
 Cette nuit, dans le calme paisible de Shoreside Valley, une prostituée a été la nouvelle victime du sniper décapiteur.
