@@ -7,6 +7,8 @@ authors:
 date: '2014-10-07 22:00:00'
 tags:
 - los-santos
+redirect_from:
+- /2014/10/08/le-liberty-tree-en-rade
 ---
 
 _Vous l'avez sûrement remarqué, notre a site été inaccessible durant quelques jours. Rassurez vous, tout est revenu à la normale, mais nous tenions à vous expliquer les raisons de cette panne._

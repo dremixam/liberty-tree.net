@@ -7,6 +7,8 @@ authors:
 date: '2013-11-28 23:00:00'
 tags:
 - los-santos
+redirect_from:
+- /2013/11/29/fusillade-meurtriere-au-camp-altruiste
 ---
 
 ## Un massacre digne d’une véritable boucherie

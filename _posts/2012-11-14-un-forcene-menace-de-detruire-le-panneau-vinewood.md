@@ -7,6 +7,8 @@ authors:
 date: '2012-11-14 23:00:00'
 tags:
 - los-santos
+redirect_from:
+- /2012/11/15/un-forcene-menace-de-detruire-le-panneau-vinewood
 ---
 
 Il est environ 16 H 10 lorsque les hommes du shérif du comté de Los Santos tentent d’appréhender un individu suspect repéré aux abords du panneau Vinewood. D'après les quelques témoins de la scène qui ont donné l'alerte - un petit groupe de touristes étrangers se tenant à une centaine de mètres seulement du monument le plus photographié de la ville et de ses alentours -, l’individu serait muni d’un objet étrange qui, d’après leurs propos, pourrait être une charge explosive et serait en ce moment-même en train de grimper le long de la lettre D.
