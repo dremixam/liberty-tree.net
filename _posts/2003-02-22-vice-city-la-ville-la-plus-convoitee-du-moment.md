@@ -15,7 +15,7 @@ _En effet, nous ne comptons plus le nombre de Libertyciens partis s'installer à
 
 C'est pour cela que nous allons aujourd'hui explorer un peu cette ville qui fait rêver tant de monde et trouver pourquoi Vice City est si attirante.
 
-Petit archipel de Floride composé de deux îles principales reliées à plusieurs autres petites îles, Vice City est surnommée "La petite Miami". Pas étonnant vu l'ambiance 'cool' qui flotte dans l'air de VC, aussi bien par la température que par les couleurs roses, bleues, oranges, mauves....  
+Petit archipel de Leonida composé de deux îles principales reliées à plusieurs autres petites îles, Vice City est surnommée "La petite Miami". Pas étonnant vu l'ambiance 'cool' qui flotte dans l'air de VC, aussi bien par la température que par les couleurs roses, bleues, oranges, mauves....  
 En parlant de températures, Vice City est considérée par les météorologues comme "la ville où il ne fait jamais froid". En effet, jamais moins de 24°, même en hiver!
 
 ![](/content/images/2016/07/smallmap.jpg)

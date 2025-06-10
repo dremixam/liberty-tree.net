@@ -21,7 +21,7 @@ C'est dans cette fourmilière permanente que les GMC blindés de la "Alpine Armo
 ![Les caméras de surveillance de la LS Central bank sont les témoins de ce triste événement.](/content/images/2005/01/cam3.jpg)
 _Les caméras de surveillance de la LS Central bank sont les témoins de ce triste événement._[Le bâtiment de la LS Central Bank à Downtown.](/content/images/2005/01/lsbank.jpg)
 
-La police de Los Santos et les pompiers sont arrivés sur la scène du crime à 8h30. La LSPD affirme que le coup a été monté par une bande très organisée venant de Floride, un casse similaire&nbsp;prenant pour cible d'autres véhicules de l'Alpine Armuring Co.&nbsp;à&nbsp;eu lieu le mois dernier à Vice City.
+La police de Los Santos et les pompiers sont arrivés sur la scène du crime à 8h30. La LSPD affirme que le coup a été monté par une bande très organisée venant de Leonida, un casse similaire&nbsp;prenant pour cible d'autres véhicules de l'Alpine Armuring Co.&nbsp;à&nbsp;eu lieu le mois dernier à Vice City.
 
 George Alexander, PDG de la société privée de transports de fonds à accepté notre entrevue.
 

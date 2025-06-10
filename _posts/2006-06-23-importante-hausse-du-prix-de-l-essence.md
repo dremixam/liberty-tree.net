@@ -11,7 +11,7 @@ title: Importante hausse du prix de l'essence
 
 
 ![Attaque contre le cortège du président Irakien à Tikrit (FOX NEWS).](/content/images/2005/01/Essence_mort_president_Irak.jpg)
-_Attaque contre le cortège du président Irakien à Tikrit (FOX NEWS)._[Photo satellite de l’ouragan Margarita au-dessus des Keys en Floride.](/content/images/2005/01/Essence_ouragan_Margarita.jpg)
+_Attaque contre le cortège du président Irakien à Tikrit (FOX NEWS)._[Photo satellite de l’ouragan Margarita au-dessus des Keys en Leonida.](/content/images/2005/01/Essence_ouragan_Margarita.jpg)
 
 L'assassinat du nouveau président de l'Irak, _Ousma Oussaraf_, ainsi que la menace de l'ouragan _Margarita_ qui se dirige en ligne droite vers les installations pétrolière du Golf du Mexique, ont été les principaux responsables de la forte hausse du prix du brut qui a clôturé à plus de $150 le baril à la fermeture des marchés hier soir.
 

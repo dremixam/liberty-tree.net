@@ -10,7 +10,7 @@ title: Le Malibu brûlé
 ---
 
 
-La plus grande boîte de nuit de Vice City a&nbsp;brûlé hier aux alentours de 21 heures. Un accident bien mystérieux, qui laisse perplexe tous les enquêteurs. Le gouverneur de Floride, aussitôt prévenu, mène une&nbsp;investigation sur cette tragédie. Le bilan&nbsp;s'élève&nbsp;23 morts&nbsp;ainsi que&nbsp;six&nbsp;blessés graves qui passaient devant le batiment à ce moment là.&nbsp;A l'intérieur du&nbsp;Malibu Club, personne n’a survécu. La caméra de surveillance a pu prendre un aperçu de cette horrible catastrophe.
+La plus grande boîte de nuit de Vice City a&nbsp;brûlé hier aux alentours de 21 heures. Un accident bien mystérieux, qui laisse perplexe tous les enquêteurs. Le gouverneur de Leonida, aussitôt prévenu, mène une&nbsp;investigation sur cette tragédie. Le bilan&nbsp;s'élève&nbsp;23 morts&nbsp;ainsi que&nbsp;six&nbsp;blessés graves qui passaient devant le batiment à ce moment là.&nbsp;A l'intérieur du&nbsp;Malibu Club, personne n’a survécu. La caméra de surveillance a pu prendre un aperçu de cette horrible catastrophe.
 
 ![La caméra de surveillance qui a pu "survivre" a l'explosion.](/content/images/2005/01/rec_cam_1.jpg)
 _La caméra de surveillance qui a pu "survivre" a l'explosion._

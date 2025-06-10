@@ -10,7 +10,7 @@ title: Le hangar ferme ses portes
 ---
 
 
-Le gouverneur de Floride a décidé de fermer le hangar d'Escobar Airport, qui fut construit en 1971 et finit en 1978. Donc, presque 7 ans de travail. Mais il y a sûrement des raisons, nous avons fait un reportage spécial sur ce hangar devenu totalement désert et qui servira pour des visites guidées.
+Le gouverneur de Leonida a décidé de fermer le hangar d'Escobar Airport, qui fut construit en 1971 et finit en 1978. Donc, presque 7 ans de travail. Mais il y a sûrement des raisons, nous avons fait un reportage spécial sur ce hangar devenu totalement désert et qui servira pour des visites guidées.
 
 ![Le hangar, aujourd'hui désert.](/content/images/2005/01/hangar.jpg)
 _Le hangar, aujourd'hui désert._
