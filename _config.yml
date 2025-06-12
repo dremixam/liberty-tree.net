@@ -17,6 +17,9 @@ logo_dark: content/images/2021/12/logo-lt-full-1.png
 favicon: assets/images/favicon.png
 CNAME: liberty-tree.net
 
+include:
+  - .well-known
+
 # Social info
 navigation: True # show the navbar links
 
