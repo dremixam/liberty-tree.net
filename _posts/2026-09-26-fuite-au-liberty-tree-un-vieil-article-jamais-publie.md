@@ -14,14 +14,12 @@ _Un article écrit il y a plus de dix ans et jamais publié circule depuis quelq
 
 C'est un fidèle lecteur qui nous a alertés lundi matin&nbsp;: sur un forum consacré à la ville de Vice City, un sujet intitulé "[LEAK] Article du LT incroyable jamais publié, source 100 % fiable" venait d'être créé par un certain Longduzob _(ndlr : jamais vu un pseudo d'aussi mauvais goût)_.
 
-Longduzob _(ndlr : vraiment quel pseudo de merde, sur les forums anglophones au moins il se fait appeler LongJohn c'est un chouilla plus subtil)_ affirme que la photo est celle du téléphone d'un rédacteur du Liberty Tree et que l'image montrée à l'écran devait illustrer un article jamais publié.
-
-Sur la photo affichée par le téléphone, on reconnaît une station Xero de Vice City, et les internautes ont fini par déchiffrer les tarifs affichés : 2,50 $ le gallon (0,66 $ le litre) pour le Regular, 2,75 $ le gallon (0,73 $ le litre) pour le Plus, 3,50 $ le gallon (0,92 $ le litre) pour le Premium et 2,75 $ le gallon (0,73 $ le litre) pour le Diesel.
+Longduzob _(ndlr : vraiment quel pseudo de merde, sur les forums anglophones au moins il se fait appeler LongJohn c'est un chouilla plus subtil)_ affirme que la photo a été prise sur le téléphone d'un rédacteur du Liberty Tree et que l'écran montre l'illustration d'un article resté dans les tiroirs. On y reconnaît une station Xero de Vice City dont les internautes ont fini par déchiffrer les tarifs : 2,50 $ le gallon (0,66 $ le litre) pour le Regular, 2,75 $ le gallon (0,73 $ le litre) pour le Plus, 3,50 $ le gallon (0,92 $ le litre) pour le Premium et 2,75 $ le gallon (0,73 $ le litre) pour le Diesel.
 
 ![Un vieux téléphone iFruit affichant une photo floue de station-service, avec un zoom sur les prix](/content/images/2026/dremixam/fuite_ifruit.png)
 _La seule preuve de la fuite, avec les prix entourés en rouge par les internautes._
 
-Entre deux pubs pour sa cryptomonnaie, Longduzob se dit certain que ces prix annoncent quelque chose de gros. Son identité reste inconnue, mais il conseille à tous les membres d'acheter des actions Xero avant l'annonce, ce qu'il dit avoir déjà fait lui-même. Il n'est visiblement pas le seul à penser que l'annonce sera énorme. À l'heure où nous écrivons, plus de trente pages de discussion sont consacrées à l'analyse de cette photo, et une majorité d'internautes est persuadée qu'un article énorme se prépare au Liberty Tree pour annoncer un événement tout aussi énorme.
+Entre deux pubs pour sa cryptomonnaie, Longduzob se dit certain que ces prix cachent quelque chose de gros. Son identité reste inconnue, mais il conseille à tous les membres d'acheter des actions Xero avant l'annonce, ce qu'il dit avoir déjà fait lui-même. Il n'est pas le seul à y croire : à l'heure où nous écrivons, plus de trente pages de discussion sont consacrées à l'analyse de cette photo, et une majorité d'internautes est persuadée que le Liberty Tree prépare un article énorme pour annoncer un événement tout aussi énorme.
 
 Le téléphone lui-même n'a pas été épargné. Le jour et l'heure affichés, les barres de réseau, le niveau de la batterie et même le logo Fruit ont chacun leur théorie. Pour une partie du forum, le jeudi 13 h 51 indique que l'annonce aura lieu un jeudi. Pour une autre, elle n'aura surtout pas lieu un jeudi, sinon ce serait trop évident.
 
@@ -37,11 +35,11 @@ Du côté de NelsoN, la nouvelle a surtout fait resurgir quelques souvenirs.
 
 > **NelsoN :** 2.50 $ le gallon ? Ah ouais quand même, c'était cool ça. Aujourd'hui pour ce prix-là j'ai à peine le droit de regarder la pompe, héhé. Sinon je me demande comment ça a pu fuiter, j'avais vendu mon vieux iFruit professionnel à un mec, pour vingt dollars. Il avait l'air sympa. Hein !? Comment ça il y avait encore des données du journal dessus ?! J'aurais dû en demander trente.
 
-Plusieurs membres du forum réclament désormais que l'article soit enfin terminé et publié. À la rédaction nous n'avons toujours pas pris de décision, il faut dire que les bureaux sont très calmes et qu'il faudrait que je trouve un stagiaire à qui confier ce travail. J'ai tout de même demandé à NelsoN ce qu'il pensait de l'annonce "énorme" dont parlent les internautes.
+Plusieurs membres du forum réclament désormais que l'article soit enfin terminé et publié. À la rédaction nous n'avons toujours pas pris de décision, il faut dire que les bureaux sont très calmes et qu'il faudrait trouver un stagiaire à qui confier ce travail. Nous avons tout de même demandé à NelsoN ce qu'il pensait de l'annonce "énorme" dont parlent les internautes.
 
 > **NelsoN :** Un article énorme chez nous ? HAHAHA ! On n'a rien publié depuis 2016, tu crois qu'on va se réveiller comme ça ? Moi je crois surtout que le journal existe encore pour que tu puisses toucher des subventions en douce. Ou une autre arnaque, j'sais pas… Mais c'est smart ! Si c'est ça je veux ma part, hein. Enfin, je dis ça, je dis rien.
 
-Je précise que je ne souhaite pas réagir à ces accusations.
+_ndlr : Je précise que je ne souhaite pas réagir à ces accusations._
 
 Pendant leurs recherches, certains internautes ont demandé son avis à Fido, un célèbre cartographe afin qu'il puisse identifier les immeubles visibles dans le fond de l'image. J'ai pu le rencontrer pour lui poser quelques questions.
 
