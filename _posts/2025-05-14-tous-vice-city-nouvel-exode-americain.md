@@ -7,42 +7,41 @@ date: '2025-05-14 00:00:00'
 layout: article
 tags:
 - vice-city
-title: "Vice City : eldorado tropical ou mirage sous les palmiers ?"
+title: "Tous à Vice City : nouvel exode américain"
 ---
 
-**Vice City, Leonida** – Les routes sont saturées, les hôtels affichent complet, et même les vieilles caravanes rouillées se louent à prix d’or. Autrefois surnommée "la maison de retraite de l’Amérique" et célèbre pour ses plages, ses scandales politiques et ses alligators un peu trop affectueux, Vice City est devenue la destination de choix pour des milliers d’Américains en quête d’un nouveau départ. Mais pourquoi cet exode soudain ?  
+_Depuis la diffusion d'un nouveau spot de l'office du tourisme de Leonida, les Américains sont de plus en plus nombreux à vouloir tout plaquer pour s'installer à Vice City. Nous avons suivi l'une de ces familles._
 
-## Une migration qui fait rêver (ou pas)
+Les autoroutes qui mènent à Vice City ne désemplissent plus depuis une semaine. En cause, une vidéo de promotion diffusée par l'office du tourisme de Leonida, où l'on voit des plages ensoleillées, des fêtes sur des bateaux et un homme qui fait du jet-ski en compagnie d'un alligator. Des milliers d'habitants de Liberty City et de Los Santos ont visiblement décidé que cette vie-là leur convenait mieux que la leur.
 
-Depuis des mois, les autoroutes menant à Leonida ressemblent à un défilé de camions de déménagement. Les habitants de Liberty City, Los Santos et même des coins oubliés comme Ludendorff abandonnent tout pour rejoindre Vice City.  
+Les agences immobilières de la région ne savent plus où donner de la tête. Selon l'une d'elles, les demandes de location ont été multipliées par quatre en quelques jours, y compris pour des logements qui n'ont pas de toit.
 
-> "Si je dois finir sous l’eau, autant que ce soit avec un cocktail à la main et une vue sur un coucher de soleil" – **Florient Daman, croisé sur l’autoroute, sa voiture chargée de valises et d’un flamant rose gonflable.**
+> **Dale Sellers, agent immobilier à Vice Beach :** Hier j'ai loué une place de parking à un monsieur qui n'a pas de voiture. Il compte y installer une tente. Je lui ai dit que ce n'était pas prévu, il m'a demandé si la vue sur la mer était comprise. J'ai dit oui et j'ai augmenté le loyer.
 
-Les agences immobilières locales croulent sous les demandes, même pour des logements insalubres. Certains y voient une version tropicale du rêve américain, d’autres un cauchemar avec une meilleure vue.
+![](/content/images/2025/dremixam/Vice_City_05.e8171acb.jpg)
+_Les nouveaux arrivants profitent déjà des plages de Vice City. Certains sont là depuis un peu plus longtemps que les autres._
 
-> "C’est comme acheter un ticket pour le Titanic, mais avec un bar à mojitos sur le pont" – **Jean-Michel Pina-Colada, agent immobilier enthousiaste.**
+Nous avons voulu comprendre ce qui pousse ces gens à tout quitter et nous avons rencontré la famille Wembley, arrivée de Staunton Island le week-end dernier.
 
-## Influenceurs, filtres et illusions
+> **Gary Wembley :** Chez nous il neigeait six mois par an et ma femme avait mal au dos. Et puis j'ai vu la vidéo. Sur la vidéo tout le monde a l'air content, même l'alligator. J'ai vendu la maison le lendemain et j'ai pris la voiture.
 
-Dans un pays où l’économie titube comme après un open bar, Vice City attire une nouvelle vague d’aspirants influenceurs. Les plages de sable blanc et les couchers de soleil parfaits pour Snapmatic sont devenus leur terrain de jeu.  
+Les premiers jours ne se passent pourtant pas exactement comme dans la vidéo. La famille s'est installée dans une maison au bord d'un canal, louée à un prix que M. Wembley préfère ne pas nous communiquer « pour ne pas inquiéter ma femme ». Dès la première marée haute, l'eau est entrée dans le salon. Le propriétaire, prévenu, assure qu'il s'agit d'un phénomène normal et que les locataires précédents s'y étaient habitués.
 
-> "Les gens ne viennent plus ici pour travailler, ils viennent pour être vus. Ils pensent qu’un selfie avec un alligator va payer leur loyer" – **Al Gator, habitant de longue date.**
+> **Gary Wembley :** Il m'a dit que c'était de la climatisation naturelle. Le problème c'est que quand l'eau redescend, l'alligator reste. Il a pris le canapé.
 
-Les réseaux sociaux regorgent de vidéos virales montrant des familles posant devant des panneaux "Bienvenue à Vice City", espérant que leur aventure devienne le prochain grand buzz. Pendant ce temps, les locaux se demandent combien de temps il faudra avant que ces nouveaux arrivants ne réalisent que les palmiers ne paient pas les factures.  
+![](/content/images/2025/dremixam/Leonida_Keys_05.cf35e824.jpg)
+_Beaucoup de plaisanciers gardent leur bateau prêt à partir, au cas où._
 
-> "C’est comme si tout le monde vivait dans un épisode de *Miami Vice*, sauf qu’ils ont oublié que les scénaristes ne sont pas là pour résoudre leurs problèmes" – **Dr. Blaise Théorie, sociologue ironique.**
+M. Wembley a bien essayé d'assurer sa maison, sans succès. Nous avons contacté plusieurs compagnies d'assurance de la région.
 
-## Une Amérique en quête de soleil (et de sens)
+> **Une conseillère qui préfère rester anonyme :** Assurer une maison au bord d'un canal à Vice City en pleine saison des ouragans ? Nous on a arrêté il y a deux ans. On a mis un répondeur.
 
-Leonida est devenue le symbole d’un pays en perte de repères : un endroit où les rêves se heurtent à la réalité. Certains, visiblement peu inquiétés par la montée des eaux, s’installent dans une région où l’océan grignote chaque année un peu plus de terrain, tandis que d’autres espèrent profiter des lois locales qui interdisent désormais de prononcer le mot "inclusivité" dans les écoles publiques.
+Les habitants de longue date, eux, regardent cette arrivée massive avec un mélange de lassitude et d'inquiétude.
 
-> "C’est comme un mariage à Vegas. Ça semble excitant sur le moment, mais vous vous réveillez avec une gueule de bois et une facture salée" – **Bill Vegas, éditorialiste local.**
+> **Bill, habitant de Vice City depuis quarante ans :** Ça fait quarante ans que je dis aux gens que ce n'est pas comme dans la vidéo. Personne ne m'écoute, alors j'ai fini par m'acheter un mégaphone. Maintenant les touristes me prennent en photo.
 
-Et puis il y a ceux qui pensent que Vice City est la dernière étape avant de sauter dans un radeau pour rejoindre les Caraïbes.
+Au moment où nous écrivons ces lignes, les Wembley envisagent de rentrer à Liberty City. Un problème se pose cependant : leur maison de Staunton Island a été rachetée par une famille de Vice City. Cette dernière a vu, elle aussi, un spot publicitaire, celui de l'office du tourisme de Liberty City, dans lequel on voit un homme faire du patin à glace avec un pigeon.
 
-![Les nombreux plaisanciers préparent leurs embarcations pour un éventuel exode](/content/images/2025/dremixam/Leonida_Keys_05.cf35e824.jpg)
-_Les nombreux plaisanciers préparent leurs embarcations pour un éventuel exode_
+> **Gary Wembley :** J'ai voulu leur expliquer que ce n'était pas comme ça, mais ils m'ont juste demandé si le pigeon était compris.
 
-> "Ils viennent ici pour échapper à leurs problèmes, mais ils oublient que Leonida est le genre d’endroit où les problèmes vous attendent avec un sourire et un cocktail" – **Sandy Shore, businesswoman locale.**
-
-Et si vous lisez cet article, c’est que malgré toutes ces années, nous avons encore un lecteur. Merci, maman.
+L'exode semble donc en train de s'équilibrer. Tout est bien qui finit bien.
