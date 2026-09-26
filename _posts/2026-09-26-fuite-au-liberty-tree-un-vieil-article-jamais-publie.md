@@ -23,7 +23,7 @@ Entre deux pubs pour sa cryptomonnaie, Longduzob se dit certain que ces prix cac
 
 Le téléphone lui-même n'a pas été épargné. Le jour et l'heure affichés, les barres de réseau, le niveau de la batterie et même le logo Fruit ont chacun leur théorie. Pour une partie du forum, le jeudi 13 h 51 indique que l'annonce aura lieu un jeudi. Pour une autre, elle n'aura surtout pas lieu un jeudi, sinon ce serait trop évident.
 
-> **Théo Rie :** Si on multiplie le prix du Regular par celui du Diesel on obtient 6.875, ce qui est proche du prix actuel du Diesel. Je ne sais pas encore ce que ça veut dire mais c'est forcément important, on ne met pas des chiffres au hasard sur une pancarte. Et un journal qui ne publie plus rien depuis des années et qui refait soudainement surface pour sortir un article sur l'essence ? C'est certain il se prépare un truc.
+> **Théo Riz :** Si on multiplie le prix du Regular par celui du Diesel on obtient 6.875, ce qui est proche du prix actuel du Diesel. Je ne sais pas encore ce que ça veut dire mais c'est forcément important, on ne met pas des chiffres au hasard sur une pancarte. Et un journal qui ne publie plus rien depuis des années et qui refait soudainement surface pour sortir un article sur l'essence ? C'est certain il se prépare un truc.
 
 > **Faye Kenews :** C'est un faux évident. Sur les photos de Vice City on voit clairement un bâtiment qui n'a jamais existé et il y a un quadrillage noir visible sur le sol. Et puis personne n'a jamais payé l'essence 2.50 $ le gallon d'aussi loin que je me souvienne.
 

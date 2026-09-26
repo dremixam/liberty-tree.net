@@ -30,7 +30,7 @@ Les premiers jours ne se passent pourtant pas exactement comme dans la vidéo. L
 > **Gary Wembley :** Il m'a dit que c'était de la climatisation naturelle. Le problème c'est que quand l'eau redescend, l'alligator reste. Il a pris le canapé et la télécommande, je me retrouve obligé de regarder des dessins animés avec lui.
 
 ![](/content/images/2025/dremixam/Leonida_Keys_05.cf35e824.jpg)
-_Beaucoup de plaisanciers préfère vivre sur leur bateau aussi petit soit-il, c'est plus simple._
+_Beaucoup de plaisanciers préfèrent vivre sur leur bateau aussi petit soit-il, c'est plus simple._
 
 M. Wembley a bien essayé d'assurer au moins ses meubles, sans succès. Nous avons contacté plusieurs compagnies d'assurance de la région.
 
