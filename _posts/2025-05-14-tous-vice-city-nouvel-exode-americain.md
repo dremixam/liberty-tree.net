@@ -16,14 +16,14 @@ Les autoroutes qui mènent à Vice City ne désemplissent plus depuis une semain
 
 Les agences immobilières de la région ne savent plus où donner de la tête. Selon l'une d'elles, les demandes de location ont été multipliées par quatre en quelques jours, y compris pour des logements qui n'ont pas de toit.
 
-> **Dale Sellers, agent immobilier à Vice Beach :** Hier j'ai loué une place de parking à un monsieur qui n'a pas de voiture. Il compte y installer une tente. Je lui ai dit que ce n'était pas prévu, il m'a demandé si la vue sur la mer était comprise. J'ai dit non, je lui ai facturé un supplément et j'ai augmenté le loyer.
+> **Dale Sellers, agent immobilier à Vice Beach :** Hier j'ai loué une place de parking à un monsieur qui n'a pas de voiture. Il compte y installer une tente. Je lui ai dit que ce n'était pas prévu pour ça, il m'a demandé si la vue sur la mer était comprise. J'ai dit non, je lui ai facturé un supplément et j'ai augmenté le loyer.
 
 ![](/content/images/2025/dremixam/Vice_City_05.e8171acb.jpg)
 _Les nouveaux arrivants profitent déjà des plages de Vice City. Certains sont là depuis un peu plus longtemps que les autres._
 
 Nous avons voulu comprendre ce qui pousse ces gens à tout quitter et nous avons rencontré la famille Wembley, arrivée de Staunton Island le week-end dernier. C'est justement Dale Sellers qui lui a loué sa maison.
 
-> **Gary Wembley :** Chez nous il neigeait six mois par an et ma femme avait mal au dos. Et puis j'ai vu la vidéo. Sur la vidéo tout le monde a l'air content, même l'alligator. J'ai vendu la maison le lendemain et j'ai pris la voiture.
+> **Gary Wembley :** Chez nous il neigeait six mois par an et ma femme avait mal au dos. Et puis j'ai vu la vidéo. Dans la vidéo tout le monde a l'air content, même l'alligator. J'ai vendu la maison le lendemain et j'ai pris la voiture.
 
 Les premiers jours ne se passent pourtant pas exactement comme dans la vidéo. La famille s'est installée dans une maison au bord d'un canal, louée à un prix que M. Wembley préfère ne pas nous communiquer « pour ne pas inquiéter ma femme ». Dès la première marée haute, l'eau est entrée dans le salon. M. Sellers, prévenu, assure qu'il s'agit d'un phénomène normal et que les locataires précédents s'y étaient habitués.
 
@@ -38,8 +38,8 @@ M. Wembley a bien essayé d'assurer au moins ses meubles, sans succès. Nous avo
 
 Leur voisin, lui, observe toute cette agitation depuis son porche.
 
-> **Bill, voisin des Wembley et habitant de Vice City depuis quarante ans :** Ça fait quarante ans que je dis aux gens que ce n'est pas comme dans la vidéo. Personne ne m'écoute, alors j'ai fini par m'acheter un mégaphone. Maintenant les touristes me prennent en photo.
+> **Bill, voisin des Wembley et habitant de Vice City depuis quarante ans :** Ça fait quarante ans que je dis aux gens que ce n'est pas comme dans les pubs et les films. Personne ne m'écoute, alors j'ai fini par m'acheter un mégaphone. Maintenant les touristes me prennent en photo.
 
 Au moment où nous écrivons ces lignes, les Wembley envisagent de rentrer à Liberty City. Un problème se pose cependant : leur maison de Staunton Island a été rachetée par une famille de Vice City. Cette dernière a vu, elle aussi, un spot publicitaire, celui de l'office du tourisme de Liberty City, dans lequel on voit un homme faire du patin à glace avec un pigeon.
 
-> **Gary Wembley :** J'ai voulu leur expliquer que ce n'était pas comme ça, mais ils m'ont juste demandé si le pigeon était compris.
+> **Gary Wembley :** J'ai voulu leur expliquer que ce n'était pas comme ça, mais ils m'ont juste demandé si le pigeon était compris dans le prix.
